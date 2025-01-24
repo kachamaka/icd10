@@ -1,0 +1,4 @@
+./icd10_data
+./icd10_data_symptoms
+./elastic/elastic_search_api.json
+./elastic/config.ini
