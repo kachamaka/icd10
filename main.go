@@ -77,8 +77,7 @@ func writeDataToCSV() {
 		csvFile.WriteString(fmt.Sprintf("%s,%s,%s\n", typeName, subcategory, title))
 	}
 }
-func indexICD10Data() {
-	dir := "./icd10_data_symptoms"
+func indexICD10Data(dir string) {
 	files, err := os.ReadDir(dir)
 	if err != nil {
 		log.Fatalf("Error reading directory: %v", err)
@@ -248,13 +247,103 @@ func prettyPrint() {
 	}
 }
 
+func addSymptomsDataDO() {
+	data, err := util.LoadICD10Data()
+	if err != nil {
+		log.Fatalf("Error: %v", err)
+	}
+	fmt.Println(len(data))
+
+	file, err := os.Open("./data/icd10ToDO.csv")
+	if err != nil {
+		log.Fatalf("Error opening file: %v", err)
+	}
+	defer file.Close()
+
+	reader := csv.NewReader(file)
+	records, err := reader.ReadAll()
+	if err != nil {
+		log.Fatalf("Error reading CSV: %v", err)
+	}
+	records = records[1:]
+
+	icd10ToDO := make(map[string]string)
+	DOToICD10 := make(map[string]string)
+	for _, record := range records {
+		icd10ToDO[record[0]] = record[1]
+		DOToICD10[record[1]] = record[0]
+	}
+
+	file, err = os.Open("./data/disease-symptom.csv")
+	if err != nil {
+		log.Fatalf("Error opening file: %v", err)
+	}
+	defer file.Close()
+
+	reader = csv.NewReader(file)
+	records, err = reader.ReadAll()
+	if err != nil {
+		log.Fatalf("Error reading CSV: %v", err)
+	}
+	records = records[1:] // Skip header
+
+	changed := map[string]models.ICD10IndexRequest{}
+	for _, record := range records {
+		doid := strings.TrimPrefix(record[0], "DOID:")
+		symptom := record[3]
+		icd10 := DOToICD10[doid]
+		if icd10 != "" {
+			entry, ok := changed[icd10]
+			if !ok {
+				entry = data[icd10]
+			}
+
+			if !util.Contains(entry.Symptoms, symptom) {
+				entry.Symptoms = append(entry.Symptoms, symptom)
+			}
+
+			changed[icd10] = entry
+			// fmt.Println("ICD10:", icd10, "Symptoms:", ("\"" + strings.Join(entry.Symptoms, "\",\"") + "\""))
+			// } else {
+			// 	fmt.Println("No data for:", doid, icd10)
+		}
+	}
+
+	saveData(changed, "icd10_data_changed")
+}
+
+func saveData(data map[string]models.ICD10IndexRequest, dir string) {
+	for _, value := range data {
+		fileName := fmt.Sprintf("./"+dir+"/icd10_%s_%s_%s", value.ChapterCode, value.BlockCode, value.CategoryCode)
+		if value.Subcategory != "" {
+			fileName += fmt.Sprintf("_%s", value.Subcategory)
+		}
+		fileName += ".json"
+
+		file, err := os.Create(fileName)
+		if err != nil {
+			log.Fatalf("Error creating file: %v", err)
+		}
+		defer file.Close()
+
+		prettyJSON, err := json.MarshalIndent(value, "", "    ")
+		if err != nil {
+			log.Fatalf("Error marshalling JSON: %v", err)
+		}
+
+		_, err = file.Write(prettyJSON)
+		if err != nil {
+			log.Fatalf("Error writing to file: %v", err)
+		}
+	}
+}
+
 func main() {
-	// go server()
-
-	// indexICD10Data()
+	// dir := "./icd10_data_symptoms"
+	// indexICD10Data(dir)
 	server()
-
 	// prettyPrint()
+	// addSymptomsDataDO()
 
 	// time.Sleep(time.Hour)
 }

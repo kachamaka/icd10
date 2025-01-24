@@ -28,6 +28,20 @@ type Config struct {
 	APIKey          string
 }
 
+func init() {
+	config, err := loadElasticConfig("./elastic/config.ini")
+	if err != nil {
+		log.Fatalf("Error loading config: %s", err)
+	}
+
+	SEARCH_INDEX = config.SearchIndex
+	ELASTIC_ENDPOINT = config.ElasticEndpoint
+	API_KEY = config.APIKey
+
+	createClient()
+	createIndexIfNotExists()
+}
+
 func loadElasticConfig(filePath string) (Config, error) {
 	// Load the INI file
 	cfg, err := ini.Load(filePath)
@@ -44,20 +58,6 @@ func loadElasticConfig(filePath string) (Config, error) {
 	config.APIKey = section.Key("api_key").String()
 
 	return config, nil
-}
-
-func init() {
-	config, err := loadElasticConfig("./elastic/config.ini")
-	if err != nil {
-		log.Fatalf("Error loading config: %s", err)
-	}
-
-	SEARCH_INDEX = config.SearchIndex
-	ELASTIC_ENDPOINT = config.ElasticEndpoint
-	API_KEY = config.APIKey
-
-	createClient()
-	createIndexIfNotExists()
 }
 
 func createClient() {
@@ -93,13 +93,25 @@ func createIndexIfNotExists() {
 						"filter":    []string{"lowercase"}, // Add lowercase filter for case insensitivity
 					},
 				},
+				"normalizer": map[string]interface{}{
+					"case_insensitive_normalizer": map[string]interface{}{
+						"type":   "custom",
+						"filter": []string{"lowercase"},
+					},
+				},
 			},
 		},
 		"mappings": map[string]interface{}{
 			"properties": map[string]interface{}{
 				"title": map[string]interface{}{
-					"type":     "text",
-					"analyzer": "edge_ngram_analyzer",
+					"type":     "text",                // Used for full-text search, including prefix matching
+					"analyzer": "edge_ngram_analyzer", // Prefix matching
+					"fields": map[string]interface{}{
+						"keyword": map[string]interface{}{
+							"type":       "keyword",                     // Exact match field
+							"normalizer": "case_insensitive_normalizer", // Case-insensitive exact match
+						},
+					},
 				},
 				"category": map[string]interface{}{
 					"type":     "text",
@@ -122,6 +134,10 @@ func createIndexIfNotExists() {
 					"analyzer": "edge_ngram_analyzer",
 				},
 				"exclusion": map[string]interface{}{
+					"type":     "text",
+					"analyzer": "edge_ngram_analyzer",
+				},
+				"symptoms": map[string]interface{}{
 					"type":     "text",
 					"analyzer": "edge_ngram_analyzer", // Apply the edge_ngram_analyzer for partial matching
 				},
@@ -178,7 +194,7 @@ func Search(query string) ([]models.ICD10SearchResponse, error) {
 					map[string]interface{}{
 						"multi_match": map[string]interface{}{
 							"query":    query,
-							"fields":   []string{"title", "category", "block", "blockCode", "chapter", "icd10code"},
+							"fields":   []string{"title", "category", "categoryCode", "block", "blockCode", "chapter", "icd10code"},
 							"operator": "or",
 						},
 					},
@@ -280,28 +296,6 @@ func Search(query string) ([]models.ICD10SearchResponse, error) {
 	})
 
 	return icd10Codes, nil
-}
-
-func createIndex(icd10IndexRequest models.ICD10IndexRequest) {
-	data, err := json.Marshal(icd10IndexRequest)
-	if err != nil {
-		log.Fatalf("Error marshalling JSON: %v", err)
-	}
-
-	req := esapi.IndexRequest{
-		Index:      SEARCH_INDEX,
-		DocumentID: string(icd10IndexRequest.ICD10Code),
-		Body:       bytes.NewReader(data),
-		Refresh:    "true",
-	}
-
-	resp, err := req.Do(context.Background(), elasticClient)
-	if err != nil {
-		log.Fatalf("Error getting response: %v", err)
-	}
-	defer resp.Body.Close()
-
-	log.Printf("Indexed document %s to index %s\n", resp.String(), SEARCH_INDEX)
 }
 
 func IndexateICD10Code(icd10IndexRequest models.ICD10IndexRequest) {

@@ -122,6 +122,15 @@ func LoadICD10Data() (map[string]models.ICD10IndexRequest, error) {
 	return dataMap, nil
 }
 
+func Contains(slice []string, item string) bool {
+	for _, s := range slice {
+		if s == item {
+			return true
+		}
+	}
+	return false
+}
+
 // func printHtml(n *html.Node) {
 // 	if n == nil {
 // 		return
