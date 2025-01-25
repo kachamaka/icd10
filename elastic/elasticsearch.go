@@ -9,6 +9,7 @@ import (
 	"log"
 	"net/http"
 	"sort"
+	"strings"
 
 	"github.com/elastic/go-elasticsearch/v8"
 	"github.com/elastic/go-elasticsearch/v8/esapi"
@@ -182,8 +183,18 @@ func createIndexIfNotExists() {
 	defer res.Body.Close()
 }
 
+func optimizeQuery(query string) string {
+	if words := strings.Fields(query); len(words) == 1 {
+		query += " unspecified"
+	}
+
+	return query
+}
+
 func Search(query string) ([]models.ICD10SearchResponse, error) {
 	var buf bytes.Buffer
+
+	// query = optimizeQuery(query)
 
 	// Construct the query
 	elasticQuery := map[string]interface{}{
@@ -193,29 +204,50 @@ func Search(query string) ([]models.ICD10SearchResponse, error) {
 				"must": []interface{}{
 					map[string]interface{}{
 						"multi_match": map[string]interface{}{
-							"query":    query,
-							"fields":   []string{"title", "category", "categoryCode", "block", "blockCode", "chapter", "icd10code"},
+							"query": query,
+							"fields": []string{
+								"title^3",         // Boost `title` field
+								"title.keyword^5", // Boost exact matches on `title.keyword`
+								"category^3",
+								"categoryCode",
+								"block",
+								"blockCode",
+								"chapter",
+								"icd10code",
+							},
 							"operator": "or",
 						},
 					},
 				},
 				"should": []interface{}{
+					// Prefix matching in title for partial matches
+					map[string]interface{}{
+						"match_phrase_prefix": map[string]interface{}{
+							"title": map[string]interface{}{
+								"query": query,
+								"boost": 2, // Lower boost for fallback
+							},
+						},
+					},
+					// Optional inclusion match
 					map[string]interface{}{
 						"match_phrase_prefix": map[string]interface{}{
 							"inclusion": query,
 						},
 					},
 				},
-				"must_not": []interface{}{
-					map[string]interface{}{
-						"match_phrase": map[string]interface{}{
-							"exclusion": query,
-						},
-					},
-				},
+				// "must_not": []interface{}{
+				// 	map[string]interface{}{
+				// 		"match_phrase": map[string]interface{}{
+				// 			"exclusion": query,
+				// 		},
+				// 	},
+				// },
+				"minimum_should_match": 0, // Ensure results return even if `inclusion` doesn't match
 			},
 		},
 	}
+
 	if err := json.NewEncoder(&buf).Encode(elasticQuery); err != nil {
 		log.Fatalf("Error encoding query: %s", err)
 	}

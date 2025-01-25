@@ -127,14 +127,8 @@ func queryElastic(query string) []models.ICD10SearchResponse {
 	return res
 }
 
-func addSymptomsData() {
-	data, err := util.LoadICD10Data()
-	if err != nil {
-		log.Fatalf("Error: %v", err)
-	}
-	fmt.Println(len(data))
-
-	file, err := os.Open("symptoms.csv")
+func extractSymptoms() {
+	file, err := os.Open("./data/symptomsData.csv")
 	if err != nil {
 		log.Fatalf("Error opening file: %v", err)
 	}
@@ -146,60 +140,35 @@ func addSymptomsData() {
 		log.Fatalf("Error reading CSV: %v", err)
 	}
 	records = records[1:]
-	// DISEASES,SYMPTOM2,SYMPTOM3,SYMPTOM4,SYMPTOM5,SYMPTOM6,SYMPTOM7,SYMPTOM8,SYMPTOM9,SYMPTOM10,SYMPTOM11,SYMPTOM12,SYMPTOM13,SYMPTOM14,SYMPTOM15,SYMPTOM16,SYMPTOM17
+
+	symptoms := make(map[string][]string)
 
 	for _, record := range records {
-		// fmt.Println(strings.Trim())
-		title := strings.Trim(record[0], " ")
-		var symptoms []string
+		disease := strings.Trim(record[0], " ")
 		for i := 1; i < len(record); i++ {
 			symptom := strings.Trim(record[i], " ")
 			if symptom != "" {
-				symptoms = append(symptoms, symptom)
+				symptom = strings.ReplaceAll(symptom, "_", " ")
+				if !util.Contains(symptoms[disease], symptom) {
+					symptoms[disease] = append(symptoms[disease], symptom)
+				}
 			}
 		}
-		fmt.Println("Title:", title)
-		fmt.Println("Symptoms:", symptoms)
-		icd10res, err := elastic.Search(title)
-		if err != nil {
-			log.Printf("Error searching ES: %v", err)
-		}
-		if len(icd10res) == 0 {
-			continue
-		}
-
-		topResult := icd10res[0]
-		// fmt.Println("Top result:", topResult.ICD10Code, "Title:", topResult.Title)
-
-		icd10Entry := data[topResult.ICD10Code]
-		icd10Entry.Symptoms = symptoms
-		data[topResult.ICD10Code] = icd10Entry
-		// fmt.Println(data[topResult.ICD10Code], "MODIFIED DATA")
 	}
 
-	for _, value := range data {
-		fileName := fmt.Sprintf("./icd10_data_symptoms/icd10_%s_%s_%s", value.ChapterCode, value.BlockCode, value.CategoryCode)
-		if value.Subcategory != "" {
-			fileName += fmt.Sprintf("_%s", value.Subcategory)
-		}
-		fileName += ".json"
-
-		file, err := os.Create(fileName)
-		if err != nil {
-			log.Fatalf("Error creating file: %v", err)
-		}
-		defer file.Close()
-
-		prettyJSON, err := json.MarshalIndent(value, "", "    ")
-		if err != nil {
-			log.Fatalf("Error marshalling JSON: %v", err)
-		}
-
-		_, err = file.Write(prettyJSON)
-		if err != nil {
-			log.Fatalf("Error writing to file: %v", err)
-		}
+	csvFile, err := os.Create("./data/diseasesSymptoms.csv")
+	if err != nil {
+		log.Fatalf("Error creating file: %v", err)
 	}
+	defer csvFile.Close()
+
+	csvFile.WriteString("disease,symptoms\n")
+
+	for disease, symptomsList := range symptoms {
+		symptomsStr := strings.Join(symptomsList, ", ")
+		csvFile.WriteString(fmt.Sprintf("%s,\"%s\"\n", disease, symptomsStr))
+	}
+
 }
 
 func prettyPrint() {
@@ -245,6 +214,84 @@ func prettyPrint() {
 			log.Fatalf("Error writing to file: %v", err)
 		}
 	}
+}
+
+func extractSymptomsDOID() {
+	file, err := os.Open("./data/icd10ToDO.csv")
+	if err != nil {
+		log.Fatalf("Error opening file: %v", err)
+	}
+	defer file.Close()
+
+	reader := csv.NewReader(file)
+	records, err := reader.ReadAll()
+	if err != nil {
+		log.Fatalf("Error reading CSV: %v", err)
+	}
+	records = records[1:]
+
+	icd10ToDO := make(map[string]string)
+	DOToICD10 := make(map[string]string)
+	for _, record := range records {
+		icd10ToDO[record[0]] = record[1]
+		DOToICD10[record[1]] = record[0]
+	}
+
+	file, err = os.Open("./data/disease-symptom.csv")
+	if err != nil {
+		log.Fatalf("Error opening file: %v", err)
+	}
+	defer file.Close()
+
+	reader = csv.NewReader(file)
+	records, err = reader.ReadAll()
+	if err != nil {
+		log.Fatalf("Error reading CSV: %v", err)
+	}
+	records = records[1:] // Skip header
+
+	// changed := map[string]models.ICD10IndexRequest{}
+	symptoms := make(map[string][]string)
+	for _, record := range records {
+		doid := strings.TrimPrefix(record[0], "DOID:")
+		symptom := record[3]
+		icd10 := DOToICD10[doid]
+		if icd10 != "" {
+			if !util.Contains(symptoms[icd10], symptom) {
+				symptoms[icd10] = append(symptoms[icd10], symptom)
+			}
+			// entry, ok := changed[icd10]
+			// if !ok {
+			// 	entry = data[icd10]
+			// }
+
+			// if !util.Contains(entry.Symptoms, symptom) {
+			// 	entry.Symptoms = append(entry.Symptoms, symptom)
+			// }
+
+			// changed[icd10] = entry
+			// fmt.Println("ICD10:", icd10, "Symptoms:", ("\"" + strings.Join(entry.Symptoms, "\",\"") + "\""))
+			// } else {
+			// 	fmt.Println("No data for:", doid, icd10)
+		}
+	}
+
+	csvFile, err := os.Create("./data/symptomsDOID.csv")
+	if err != nil {
+		log.Fatalf("Error creating file: %v", err)
+	}
+	defer csvFile.Close()
+
+	csvFile.WriteString("icd10,symptoms\n")
+
+	for icd10, symptomsList := range symptoms {
+		symptomsStr := strings.Join(symptomsList, ", ")
+		csvFile.WriteString(fmt.Sprintf("%s,\"%s\"\n", icd10, symptomsStr))
+	}
+
+	// for diseases := range symptoms
+	// fmt.Println(len(symptoms))
+
 }
 
 func addSymptomsDataDO() {
@@ -341,8 +388,11 @@ func saveData(data map[string]models.ICD10IndexRequest, dir string) {
 func main() {
 	// dir := "./icd10_data_symptoms"
 	// indexICD10Data(dir)
-	server()
+	// server()
+	extractSymptomsDOID()
+
 	// prettyPrint()
+	// addSymptomsData()
 	// addSymptomsDataDO()
 
 	// time.Sleep(time.Hour)
