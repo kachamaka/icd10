@@ -1,14 +1,6 @@
 package models
 
-type ICD10Record struct {
-	Primary   string
-	Secondary string
-	Detailed  string
-	LongName  string
-	ShortDesc string
-	Category  string
-}
-
+// Model for indexing data in elastic search
 type ICD10IndexRequest struct {
 	ICD10Code    string   `json:"icd10code"`
 	Type         string   `json:"type"`
@@ -25,10 +17,12 @@ type ICD10IndexRequest struct {
 	Symptoms     []string `json:"symptoms"`
 }
 
+// Model for search handler request
 type ICD10SearchQuery struct {
 	Query string `json:"query"`
 }
 
+// Model for elastic search response
 type ICD10SearchResponse struct {
 	ICD10Code    string   `json:"icd10code"`
 	Score        float64  `json:"score"`
@@ -44,6 +38,7 @@ type ICD10SearchResponse struct {
 	Symptoms     []string `json:"symptoms"`
 }
 
+// Model for search handler response
 type SearchResponse struct {
 	ICD10Codes []ICD10SearchResponse `json:"icd10codes"`
 }

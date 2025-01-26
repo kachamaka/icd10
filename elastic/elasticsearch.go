@@ -1,7 +1,7 @@
 package elastic
 
 import (
-	"ICD-10-project/models"
+	"ICD-10/models"
 	"bytes"
 	"context"
 	"encoding/json"

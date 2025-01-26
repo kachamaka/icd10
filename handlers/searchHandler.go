@@ -1,8 +1,8 @@
 package handlers
 
 import (
-	"ICD-10-project/elastic"
-	"ICD-10-project/models"
+	"ICD-10/elastic"
+	"ICD-10/models"
 	"encoding/json"
 	"fmt"
 	"log"
