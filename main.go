@@ -21,9 +21,8 @@ func middleware(next http.Handler) http.Handler {
 }
 
 func server() {
-	http.Handle("/", http.FileServer(http.Dir("./static")))
+	http.Handle("/", middleware(http.HandlerFunc(handlers.Home)))
 	http.Handle("/search-by-description", middleware(http.HandlerFunc(handlers.SearchHandler)))
-	http.Handle("/static/", http.StripPrefix("/static/", http.FileServer(http.Dir("static"))))
 
 	fmt.Println("Server running on port http://localhost:8080")
 
