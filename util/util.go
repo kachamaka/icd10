@@ -131,11 +131,72 @@ func Contains(slice []string, item string) bool {
 	return false
 }
 
-// func printHtml(n *html.Node) {
-// 	if n == nil {
-// 		return
-// 	}
-// 	var b bytes.Buffer
-// 	_ = html.Render(&b, n)
-// 	fmt.Println("data: ", b.String())
-// }
+func writeDataToCSV() {
+	csvFile, err := os.Create("./result.csv")
+	if err != nil {
+		log.Fatalf("Error creating file: %v", err)
+	}
+	defer csvFile.Close()
+
+	csvFile.WriteString("type,typeCode,title\n")
+
+	files, _ := os.ReadDir("./icd10_data")
+	for _, file := range files {
+		fileName := file.Name()
+		if !strings.HasSuffix(fileName, ".json") {
+			continue
+		}
+		// open file
+		f, err := os.Open(fmt.Sprintf("./icd10_data/%s", fileName))
+		if err != nil {
+			log.Fatalf("Error opening file: %v", err)
+		}
+		defer f.Close()
+
+		// decode json
+		var data map[string]interface{}
+		err = json.NewDecoder(f).Decode(&data)
+		if err != nil {
+			log.Fatalf("Error decoding JSON: %v", err)
+		}
+
+		// write data values with keys the headers
+		typeName := data["type"].(string)
+		categoryCode := data["categoryCode"].(string)
+		subcategory := data["subcategory"].(string)
+		title := data["title"].(string)
+		title = fmt.Sprintf("\"%v\"", title)
+
+		if subcategory == "" {
+			subcategory = categoryCode
+		}
+
+		csvFile.WriteString(fmt.Sprintf("%s,%s,%s\n", typeName, subcategory, title))
+	}
+}
+
+func saveData(data map[string]models.ICD10IndexRequest, dir string) {
+	for _, value := range data {
+		fileName := fmt.Sprintf("./"+dir+"/icd10_%s_%s_%s", value.ChapterCode, value.BlockCode, value.CategoryCode)
+		if value.Subcategory != "" {
+			fileName += fmt.Sprintf("_%s", value.Subcategory)
+		}
+		fileName += ".json"
+
+		file, err := os.Create(fileName)
+		if err != nil {
+			log.Fatalf("Error creating file: %v", err)
+		}
+		defer file.Close()
+
+		prettyJSON, err := json.MarshalIndent(value, "", "    ")
+		if err != nil {
+			log.Fatalf("Error marshalling JSON: %v", err)
+		}
+
+		_, err = file.Write(prettyJSON)
+		if err != nil {
+			log.Fatalf("Error writing to file: %v", err)
+		}
+	}
+}
