@@ -1,0 +1,66 @@
+<mat-card class="search-card">
+  <mat-card-title>Search ICD-10 Codes</mat-card-title>
+  <mat-card-content>
+    <form (ngSubmit)="search()" [formGroup]="searchForm">
+      <mat-form-field appearance="fill" class="full-width">
+        <mat-label>Enter Symptoms Description</mat-label>
+        <input matInput formControlName="description" placeholder="e.g., Cholera">
+        <mat-error *ngIf="description?.invalid && description?.touched">
+          Description is required.
+        </mat-error>
+      </mat-form-field>
+
+      <button mat-raised-button color="primary" [disabled]="searchForm.invalid">
+        Search
+      </button>
+    </form>
+
+    <mat-spinner *ngIf="loading" diameter="50" class="spinner"></mat-spinner>
+
+    <div *ngIf="!loading && results.length > 0">
+      <!-- Display first result prominently -->
+      <mat-card *ngIf="results.length > 0" class="result-card first-result">
+        <mat-card-header>
+          <mat-card-title>{{ results[0].icd10code }}</mat-card-title>
+          <mat-card-subtitle>{{ results[0].title }}</mat-card-subtitle>
+        </mat-card-header>
+        <mat-card-content>
+          <p><strong>Score:</strong> {{ results[0].score }}</p>
+          <p><strong>Chapter {{results[0].chapterCode}}:</strong> {{ results[0].chapter }} </p>
+          <p><strong>Block {{results[0].blockCode}}:</strong> {{ results[0].block }} </p>
+          <p><strong>Category {{results[0].categoryCode}}:</strong> {{ results[0].category }} </p>
+          <p><strong>Subcategory:</strong> {{ results[0].subcategory }}</p>
+          <p><strong>Symptoms:</strong></p>
+          <ul>
+            <li *ngFor="let symptom of results[0].symptoms">{{ symptom }}</li>
+          </ul>
+        </mat-card-content>
+      </mat-card>
+
+      <!-- Display remaining results inline -->
+      <div class="results-grid">
+        <mat-card *ngFor="let result of results.slice(1)" class="result-card">
+          <mat-card-header>
+            <mat-card-title>{{ result.icd10code }}</mat-card-title>
+            <mat-card-subtitle>{{ result.title }}</mat-card-subtitle>
+          </mat-card-header>
+          <mat-card-content>
+            <p><strong>Score:</strong> {{ result.score }}</p>
+            <p><strong>Chapter {{result.chapterCode}}:</strong> {{ result.chapter }} </p>
+            <p><strong>Block {{result.blockCode}}:</strong> {{ result.block }} </p>
+            <p><strong>Category {{result.categoryCode}}:</strong> {{ result.category }} </p>
+            <p><strong>Subcategory:</strong> {{ result.subcategory }}</p>
+            <p><strong>Symptoms:</strong></p>
+            <ul>
+              <li *ngFor="let symptom of result.symptoms">{{ symptom }}</li>
+            </ul>
+          </mat-card-content>
+        </mat-card>
+      </div>
+    </div>
+
+    <div *ngIf="!loading && results.length === 0" class="no-results">
+      No results found.
+    </div>
+  </mat-card-content>
+</mat-card>
