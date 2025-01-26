@@ -1,5 +1,2 @@
 ./icd10_data
-./icd10_data_symptoms1
-./elastic/elastic_search_api.json
-./elastic/config.ini
-./chatgpt
+./icd10_data_symptoms
