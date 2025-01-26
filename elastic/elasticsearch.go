@@ -3,7 +3,6 @@ package elastic
 import (
 	"ICD-10/models"
 	"bytes"
-	"context"
 	"encoding/json"
 	"fmt"
 	"log"
@@ -12,7 +11,6 @@ import (
 	"strings"
 
 	"github.com/elastic/go-elasticsearch/v8"
-	"github.com/elastic/go-elasticsearch/v8/esapi"
 	"gopkg.in/ini.v1"
 )
 
@@ -152,16 +150,11 @@ func createIndexIfNotExists() {
 		log.Fatalf("Error marshaling index mapping: %s", err)
 	}
 
-	// check if index exists
-	existsReq := esapi.IndicesExistsRequest{
-		Index: []string{SEARCH_INDEX},
-	}
-
-	existsRes, err := existsReq.Do(context.Background(), elasticClient)
+	// Check if index exists
+	existsRes, err := elasticClient.Indices.Exists([]string{SEARCH_INDEX})
 	if err != nil {
 		log.Fatalf("Error checking if index exists: %s", err)
 	}
-	defer existsRes.Body.Close()
 
 	if existsRes.StatusCode == http.StatusOK {
 		fmt.Printf("Index %s already exists!\n", SEARCH_INDEX)
@@ -330,24 +323,24 @@ func Search(query string) ([]models.ICD10SearchResponse, error) {
 	return icd10Codes, nil
 }
 
-func IndexateICD10Code(icd10IndexRequest models.ICD10IndexRequest) {
-	data, err := json.Marshal(icd10IndexRequest)
-	if err != nil {
-		log.Fatalf("Error marshalling JSON: %v", err)
-	}
+// func IndexateICD10Code(icd10IndexRequest models.ICD10IndexRequest) {
+// 	data, err := json.Marshal(icd10IndexRequest)
+// 	if err != nil {
+// 		log.Fatalf("Error marshalling JSON: %v", err)
+// 	}
 
-	req := esapi.IndexRequest{
-		Index:      SEARCH_INDEX,
-		DocumentID: string(icd10IndexRequest.ICD10Code),
-		Body:       bytes.NewReader(data),
-		Refresh:    "true",
-	}
+// 	req := esapi.IndexRequest{
+// 		Index:      SEARCH_INDEX,
+// 		DocumentID: string(icd10IndexRequest.ICD10Code),
+// 		Body:       bytes.NewReader(data),
+// 		Refresh:    "true",
+// 	}
 
-	resp, err := req.Do(context.Background(), elasticClient)
-	if err != nil {
-		log.Fatalf("Error getting response: %v", err)
-	}
-	defer resp.Body.Close()
+// 	resp, err := req.Do(context.Background(), elasticClient)
+// 	if err != nil {
+// 		log.Fatalf("Error getting response: %v", err)
+// 	}
+// 	defer resp.Body.Close()
 
-	log.Printf("Indexed document %s to index %s\n", resp.String(), SEARCH_INDEX)
-}
+// 	log.Printf("Indexed document %s to index %s\n", resp.String(), SEARCH_INDEX)
+// }
