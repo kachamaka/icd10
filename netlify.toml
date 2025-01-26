@@ -1,0 +1,15 @@
+[build]
+  # Set the frontend's build directory
+  base = "frontend"
+  publish = "frontend/dist/web/browser"
+  command = "npm install && npm run build"
+
+[functions]
+  # Define the directory for backend functions
+  directory = "backend/functions"
+
+[[redirects]]
+  # Redirect API calls to the Netlify Functions
+  from = "/api/*"
+  to = "/.netlify/functions/:splat"
+  status = 200
