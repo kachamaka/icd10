@@ -194,7 +194,7 @@ func optimizeQuery(query string) string {
 func Search(query string) ([]models.ICD10SearchResponse, error) {
 	var buf bytes.Buffer
 
-	// query = optimizeQuery(query)
+	query = optimizeQuery(query)
 
 	// Construct the query
 	elasticQuery := map[string]interface{}{

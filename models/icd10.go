@@ -30,19 +30,18 @@ type ICD10SearchQuery struct {
 }
 
 type ICD10SearchResponse struct {
-	ICD10Code       string   `json:"icd10code"`
-	Score           float64  `json:"score"`
-	Title           string   `json:"title"`
-	Type            string   `json:"type"`
-	TypeDescription string   `json:"typeDescription"`
-	Chapter         string   `json:"chapter"`
-	ChapterCode     string   `json:"chapterCode"`
-	Block           string   `json:"block"`
-	BlockCode       string   `json:"blockCode"`
-	Category        string   `json:"category"`
-	CategoryCode    string   `json:"categoryCode"`
-	Subcategory     string   `json:"subcategory"`
-	Symptoms        []string `json:"symptoms"`
+	ICD10Code    string   `json:"icd10code"`
+	Score        float64  `json:"score"`
+	Title        string   `json:"title"`
+	Type         string   `json:"type"`
+	Chapter      string   `json:"chapter"`
+	ChapterCode  string   `json:"chapterCode"`
+	Block        string   `json:"block"`
+	BlockCode    string   `json:"blockCode"`
+	Category     string   `json:"category"`
+	CategoryCode string   `json:"categoryCode"`
+	Subcategory  string   `json:"subcategory"`
+	Symptoms     []string `json:"symptoms"`
 }
 
 type SearchResponse struct {
