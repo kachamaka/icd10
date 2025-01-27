@@ -21,16 +21,17 @@ func middleware(next http.Handler) http.Handler {
 }
 
 func server() {
-	port := 8443
+	port := 8080
 
 	http.Handle("/", middleware(http.HandlerFunc(handlers.Home)))
 	http.Handle("/search-by-description", middleware(http.HandlerFunc(handlers.SearchHandler)))
 
 	fmt.Printf("Server running on port https://localhost:%v\n", port)
 
-	err := http.ListenAndServeTLS(fmt.Sprintf(":%v", port), "./cert/cert.pem", "./cert/key.pem", nil)
+	err := http.ListenAndServe(fmt.Sprintf(":%v", port), nil)
+	// err := http.ListenAndServeTLS(fmt.Sprintf(":%v", port), "./cert/cert.pem", "./cert/key.pem", nil)
 	if err != nil {
-		log.Fatal("ListenAndServeTLS: ", err)
+		log.Fatal("ListenAndServe: ", err)
 	}
 }
 
