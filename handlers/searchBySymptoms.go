@@ -23,7 +23,7 @@ func SearchBySymptomsHandler(w http.ResponseWriter, r *http.Request) {
 		http.Error(w, fmt.Sprintf("Error parsing JSON: %v", err), http.StatusBadRequest)
 		return
 	}
-	file, err := os.OpenFile("../logs/query.log", os.O_APPEND|os.O_CREATE|os.O_WRONLY, 0644)
+	file, err := os.OpenFile("./query.log", os.O_CREATE|os.O_APPEND|os.O_WRONLY, 0644)
 	if err != nil {
 		log.Println("Error opening log file: ", err)
 		http.Error(w, "Internal server error", http.StatusInternalServerError)
