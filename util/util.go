@@ -15,7 +15,7 @@ import (
 func ProcessTextWithPython(symptomText string) (string, error) {
 	// Prepare the command to run the Python script
 
-	cmd := exec.Command("python", "./util/process_text_nltk.py", symptomText)
+	cmd := exec.Command("python3", "./util/process_text_nltk.py", symptomText)
 
 	// Capture the output of the Python script
 	var out bytes.Buffer
