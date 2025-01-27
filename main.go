@@ -24,7 +24,7 @@ func server() {
 	port := 8080
 
 	http.Handle("/", middleware(http.HandlerFunc(handlers.Home)))
-	http.Handle("/search-by-description", middleware(http.HandlerFunc(handlers.SearchHandler)))
+	http.Handle("/api/search-by-description", middleware(http.HandlerFunc(handlers.SearchHandler)))
 
 	fmt.Printf("Server running on port https://localhost:%v\n", port)
 
