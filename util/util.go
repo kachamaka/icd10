@@ -1,7 +1,6 @@
 package util
 
 import (
-	"ICD-10/elastic"
 	"ICD-10/models"
 	"bufio"
 	"encoding/csv"
@@ -10,49 +9,48 @@ import (
 	"log"
 	"os"
 	"strings"
-	"sync"
 )
 
-func indexICD10Data(dir string) {
-	files, err := os.ReadDir(dir)
-	if err != nil {
-		log.Fatalf("Error reading directory: %v", err)
-	}
+// func indexICD10Data(dir string) {
+// 	files, err := os.ReadDir(dir)
+// 	if err != nil {
+// 		log.Fatalf("Error reading directory: %v", err)
+// 	}
 
-	var wg sync.WaitGroup
-	for _, file := range files {
-		fileName := file.Name()
-		if !strings.HasSuffix(fileName, ".json") {
-			continue
-		}
+// 	var wg sync.WaitGroup
+// 	for _, file := range files {
+// 		fileName := file.Name()
+// 		if !strings.HasSuffix(fileName, ".json") {
+// 			continue
+// 		}
 
-		wg.Add(1)
-		go func(fileName string) {
-			defer wg.Done()
-			f, err := os.Open(dir + "/" + fileName)
-			if err != nil {
-				log.Printf("Error opening file: %v", err)
-				return
-			}
-			defer f.Close()
+// 		wg.Add(1)
+// 		go func(fileName string) {
+// 			defer wg.Done()
+// 			f, err := os.Open(dir + "/" + fileName)
+// 			if err != nil {
+// 				log.Printf("Error opening file: %v", err)
+// 				return
+// 			}
+// 			defer f.Close()
 
-			var icd10IndexRequest models.ICD10IndexRequest
-			err = json.NewDecoder(f).Decode(&icd10IndexRequest)
-			if err != nil {
-				log.Printf("Error decoding JSON: %v", err)
-				return
-			}
+// 			var icd10IndexRequest models.ICD10IndexRequest
+// 			err = json.NewDecoder(f).Decode(&icd10IndexRequest)
+// 			if err != nil {
+// 				log.Printf("Error decoding JSON: %v", err)
+// 				return
+// 			}
 
-			icd10IndexRequest.ICD10Code = icd10IndexRequest.Subcategory
-			if icd10IndexRequest.Subcategory == "" {
-				icd10IndexRequest.ICD10Code = icd10IndexRequest.CategoryCode
-			}
+// 			icd10IndexRequest.ICD10Code = icd10IndexRequest.Subcategory
+// 			if icd10IndexRequest.Subcategory == "" {
+// 				icd10IndexRequest.ICD10Code = icd10IndexRequest.CategoryCode
+// 			}
 
-			elastic.IndexateICD10Code(icd10IndexRequest)
-		}(fileName)
-	}
-	wg.Wait()
-}
+// 			elastic.IndexateICD10Code(icd10IndexRequest)
+// 		}(fileName)
+// 	}
+// 	wg.Wait()
+// }
 
 func DOIDToICD10() {
 	// Input and output file paths
