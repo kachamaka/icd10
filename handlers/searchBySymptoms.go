@@ -7,7 +7,6 @@ import (
 	"fmt"
 	"log"
 	"net/http"
-	"os"
 )
 
 func SearchBySymptomsHandler(w http.ResponseWriter, r *http.Request) {
@@ -23,16 +22,6 @@ func SearchBySymptomsHandler(w http.ResponseWriter, r *http.Request) {
 		http.Error(w, fmt.Sprintf("Error parsing JSON: %v", err), http.StatusBadRequest)
 		return
 	}
-	file, err := os.OpenFile("./query.log", os.O_CREATE|os.O_APPEND|os.O_WRONLY, 0644)
-	if err != nil {
-		log.Println("Error opening log file: ", err)
-		http.Error(w, "Internal server error", http.StatusInternalServerError)
-		return
-	}
-	defer file.Close()
-
-	logger := log.New(file, "", log.LstdFlags)
-	logger.Println("Query:", req.Query)
 
 	icd10Codes, err := elastic.SearchBySymptoms(req.Query)
 	if err != nil {
