@@ -4,4 +4,4 @@
 
 ### BUILD command for ubuntu/amd64
 
-GOOS=linux GOARCH=amd64 CGO_ENABLED=0 go build -o ./bin/icd10.exe
+```GOOS=linux GOARCH=amd64 CGO_ENABLED=0 go build -o ./bin/icd10.exe```
