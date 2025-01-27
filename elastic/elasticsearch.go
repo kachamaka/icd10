@@ -2,6 +2,7 @@ package elastic
 
 import (
 	"ICD-10/models"
+	"ICD-10/util"
 	"bytes"
 	"encoding/json"
 	"fmt"
@@ -184,7 +185,7 @@ func optimizeQuery(query string) string {
 	return query
 }
 
-func Search(query string) ([]models.ICD10SearchResponse, error) {
+func SearchByDescription(query string) ([]models.ICD10SearchResponse, error) {
 	var buf bytes.Buffer
 
 	query = optimizeQuery(query)
@@ -274,6 +275,118 @@ func Search(query string) ([]models.ICD10SearchResponse, error) {
 	// 	log.Fatalf("Error marshalling result to JSON: %s", err)
 	// }
 	// fmt.Println(string(resultJSON))
+
+	var icd10Codes []models.ICD10SearchResponse
+
+	if hits, ok := r["hits"].(map[string]interface{}); ok {
+		if hitsHits, ok := hits["hits"].([]interface{}); ok {
+			for _, hit := range hitsHits {
+				if hitMap, ok := hit.(map[string]interface{}); ok {
+					if icd10code, ok := hitMap["_id"].(string); ok {
+						if source, ok := hitMap["_source"].(map[string]interface{}); ok {
+							symptoms := []string{}
+							if source["symptoms"] != nil {
+								symptomsSource := source["symptoms"].([]interface{})
+								for _, s := range symptomsSource {
+									symptoms = append(symptoms, s.(string))
+								}
+							}
+							icd10Codes = append(icd10Codes, models.ICD10SearchResponse{
+								ICD10Code:    icd10code,
+								Score:        hitMap["_score"].(float64),
+								Type:         source["type"].(string),
+								Title:        source["title"].(string),
+								Chapter:      source["chapter"].(string),
+								ChapterCode:  source["chapterCode"].(string),
+								Category:     source["category"].(string),
+								CategoryCode: source["categoryCode"].(string),
+								Block:        source["block"].(string),
+								BlockCode:    source["blockCode"].(string),
+								Subcategory:  source["subcategory"].(string),
+								Symptoms:     symptoms,
+							})
+						}
+					}
+				}
+			}
+		}
+	}
+
+	// sort by score highest -> lowest
+	sort.Slice(icd10Codes, func(i, j int) bool {
+		if icd10Codes[i].Score == icd10Codes[j].Score {
+			return icd10Codes[i].ICD10Code < icd10Codes[j].ICD10Code
+		}
+
+		return icd10Codes[i].Score > icd10Codes[j].Score
+	})
+
+	return icd10Codes, nil
+}
+
+func SearchBySymptoms(queryText string) ([]models.ICD10SearchResponse, error) {
+	query, err := util.ProcessTextWithPython(queryText)
+	if err != nil {
+		log.Fatalf("Error processing text with Python: %s", err)
+	}
+
+	var buf bytes.Buffer
+
+	elasticQuery := map[string]interface{}{
+		"query": map[string]interface{}{
+			"bool": map[string]interface{}{
+				"should": []interface{}{
+					map[string]interface{}{
+						"multi_match": map[string]interface{}{
+							"query": query, // Replace with the symptoms text from Python
+							"fields": []string{
+								"symptoms^2",
+								"symptoms.keyword",
+							},
+							"operator":  "or",
+							"fuzziness": "AUTO",
+						},
+					},
+				},
+				"minimum_should_match": "1", // Ensure at least one match
+			},
+		},
+	}
+
+	if err := json.NewEncoder(&buf).Encode(elasticQuery); err != nil {
+		log.Fatalf("Error encoding query: %s", err)
+	}
+
+	res, err := elasticClient.Search(
+		elasticClient.Search.WithIndex(SEARCH_INDEX),
+		elasticClient.Search.WithBody(&buf),
+	)
+
+	defer res.Body.Close()
+
+	if err != nil {
+		log.Println("Error executing search: ", err)
+		return nil, err
+	}
+
+	if res.IsError() {
+		log.Printf("Error response from Elasticsearch: %s", res.String())
+		return nil, fmt.Errorf("error response from Elasticsearch: %s", res.String())
+	}
+
+	var r map[string]interface{}
+	if err := json.NewDecoder(res.Body).Decode(&r); err != nil {
+		log.Println("error decoding res", err)
+		return nil, err
+	}
+
+	// Print the result in JSON format
+	// resultJSON, err := json.MarshalIndent(r, "", "  ")
+	// if err != nil {
+	// 	log.Fatalf("Error marshalling result to JSON: %s", err)
+	// }
+	// fmt.Println(string(resultJSON))
+	// return nil, nil
 
 	var icd10Codes []models.ICD10SearchResponse
 
