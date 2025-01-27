@@ -22,6 +22,7 @@ func SearchBySymptomsHandler(w http.ResponseWriter, r *http.Request) {
 		http.Error(w, fmt.Sprintf("Error parsing JSON: %v", err), http.StatusBadRequest)
 		return
 	}
+	log.Println("Query:", req.Query)
 
 	icd10Codes, err := elastic.SearchBySymptoms(req.Query)
 	if err != nil {
