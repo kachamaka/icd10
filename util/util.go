@@ -30,7 +30,7 @@ func ProcessTextWithPython(symptomText string) (string, error) {
 	return out.String(), nil
 }
 
-// func indexICD10Data(dir string) {
+// func IndexICD10Data(dir string) {
 // 	files, err := os.ReadDir(dir)
 // 	if err != nil {
 // 		log.Fatalf("Error reading directory: %v", err)

@@ -33,7 +33,6 @@ func init() {
 	if err != nil {
 		log.Fatalf("Error loading config: %s", err)
 	}
-
 	SEARCH_INDEX = config.SearchIndex
 	ELASTIC_ENDPOINT = config.ElasticEndpoint
 	API_KEY = config.APIKey
@@ -63,7 +62,7 @@ func loadElasticConfig(filePath string) (Config, error) {
 func createClient() {
 	cfg := elasticsearch.Config{
 		Addresses: []string{ELASTIC_ENDPOINT},
-		APIKey:    "U2YxemU1UUJWeS1lWHllZnhNV2I6QXI4VXhlaVNTX0dYM1FQbFU3YS1IUQ==",
+		APIKey:    API_KEY,
 	}
 
 	client, err := elasticsearch.NewClient(cfg)

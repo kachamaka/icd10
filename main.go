@@ -38,7 +38,7 @@ func server() {
 
 func main() {
 	// dir := "./icd10_data_symptoms"
-	// indexICD10Data(dir)
+	// util.IndexICD10Data(dir)
 	server()
 
 	// symptomText := "I've been feeling really tired for the past few days, and today I woke up with a headache and a sore throat. Yesterday, I had a mild fever that lasted for a few hours, but it went away in the evening. I also have a persistent cough and some difficulty breathing, especially at night. I’ve noticed a bit of swelling around my eyes and my legs feel a little weak. My stomach feels upset, and I’ve had some nausea along with a bit of diarrhea. I haven’t been able to sleep well because of these issues, and I feel dehydrated with a dry mouth."
