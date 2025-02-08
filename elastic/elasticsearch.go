@@ -332,6 +332,7 @@ func SearchBySymptoms(queryText string) ([]models.ICD10SearchResponse, error) {
 	var buf bytes.Buffer
 
 	elasticQuery := map[string]interface{}{
+		"size": 42,
 		"query": map[string]interface{}{
 			"bool": map[string]interface{}{
 				"should": []interface{}{
