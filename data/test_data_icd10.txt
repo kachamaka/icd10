@@ -1,29 +1,26 @@
-Persistent cough, fever, night sweats
-A15 - Tuberculosis
+Influenza with respiratory symptoms includes cough and fever.
+J10.1
 
-Chest pain, shortness of breath, nausea
-I21 - Acute Myocardial Infarction (Heart Attack)
+Atherosclerotic heart disease involves plaque buildup in coronary arteries
+I25.1
 
-Increased thirst, frequent urination, fatigue
-E11 - Type 2 Diabetes Mellitus
+Type 2 Diabetes Mellitus
+E11
 
-High fever, severe headache, body aches
-A90 - Dengue Fever
+Chronic Obstructive Pulmonary Disease (COPD)
+J44.0
 
-Joint pain, stiffness, swelling
-M17 - Osteoarthritis of the knee
+Rheumatoid Arthritis
+M06
 
-Sore throat, fever, swollen lymph nodes
-J02 - Acute Pharyngitis
+Alzheimer's Disease
+G30
 
-Skin rash, itching, redness
-L20 - Atopic Dermatitis
+Hypertension
+I10
 
-Recurring seizures, loss of consciousness
-G40 - Epilepsy
+Asthma
+J45.0
 
-Depressed mood, loss of interest, fatigue
-F32 - Major Depressive Disorder
-
-Runny nose, sneezing, nasal congestion
-J00 - Acute Nasopharyngitis (Common Cold)
+Pulmonary tuberculosis is a lung infection caused by Mycobacterium tuberculosis
+A15.0
