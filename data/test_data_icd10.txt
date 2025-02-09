@@ -1,0 +1,29 @@
+Persistent cough, fever, night sweats
+A15 - Tuberculosis
+
+Chest pain, shortness of breath, nausea
+I21 - Acute Myocardial Infarction (Heart Attack)
+
+Increased thirst, frequent urination, fatigue
+E11 - Type 2 Diabetes Mellitus
+
+High fever, severe headache, body aches
+A90 - Dengue Fever
+
+Joint pain, stiffness, swelling
+M17 - Osteoarthritis of the knee
+
+Sore throat, fever, swollen lymph nodes
+J02 - Acute Pharyngitis
+
+Skin rash, itching, redness
+L20 - Atopic Dermatitis
+
+Recurring seizures, loss of consciousness
+G40 - Epilepsy
+
+Depressed mood, loss of interest, fatigue
+F32 - Major Depressive Disorder
+
+Runny nose, sneezing, nasal congestion
+J00 - Acute Nasopharyngitis (Common Cold)
