@@ -1,0 +1,21 @@
+{
+  "type": "category",
+  "chapterCode": "II",
+  "chapter": "Neoplasms",
+  "blockCode": "D10-D36",
+  "block": "Benign neoplasms",
+  "categoryCode": "D24",
+  "category": "Benign neoplasm of breast",
+  "subcategory": "",
+  "title": "Benign neoplasm of breast",
+  "inclusion": [
+    "morphology codes with behaviour code /0",
+    "Breast: connective tissue",
+    "Breast: soft parts"
+  ],
+  "exclusion": [
+    "benign mammary dysplasia",
+    "skin of breast"
+  ],
+  "children": null
+}

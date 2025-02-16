@@ -1,0 +1,38 @@
+{
+    "icd10code": "S54.0",
+    "type": "subcategory",
+    "title": "Injury of ulnar nerve at forearm level",
+    "chapter": "Injury, poisoning and certain other consequences of external causes",
+    "chapterCode": "XIX",
+    "block": "Injuries to the elbow and forearm",
+    "blockCode": "S50-S59",
+    "category": "Injury of nerves at forearm level",
+    "categoryCode": "S54",
+    "subcategory": "S54.0",
+    "inclusion": [
+        "Ulnar nerve NOS"
+    ],
+    "exclusion": [
+        "birth trauma",
+        "obstetric trauma",
+        "malunion of fracture",
+        "nonunion of fracture [pseudarthrosis]",
+        "pathological fracture",
+        "pathological fracture with osteoporosis",
+        "stress fracture",
+        "bilateral involvement of elbow and forearm",
+        "burns and corrosions",
+        "frostbite",
+        "injuries of: arm, level unspecified",
+        "injuries of: wrist and hand",
+        "insect bite or sting, venomous",
+        "Monteggia fracture-dislocation"
+    ],
+    "symptoms": [
+        "pain in the forearm",
+        "swelling",
+        "limited range of motion",
+        "numbness",
+        "weakness"
+    ]
+}

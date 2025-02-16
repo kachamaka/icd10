@@ -1,0 +1,42 @@
+{
+    "icd10code": "K12.3",
+    "type": "subcategory",
+    "title": "Oral mucositis (ulcerative)",
+    "chapter": "Diseases of the digestive system",
+    "chapterCode": "XI",
+    "block": "Diseases of oral cavity, salivary glands and jaws",
+    "blockCode": "K00-K14",
+    "category": "Stomatitis and related lesions",
+    "categoryCode": "K12",
+    "subcategory": "K12.3",
+    "inclusion": [
+        "Mucositis(oral) (oropharyngeal): NOS",
+        "Mucositis(oral) (oropharyngeal): drug-induced",
+        "Mucositis(oral) (oropharyngeal): radiation induced",
+        "Mucositis(oral) (oropharyngeal): viral",
+        "Use additional external cause code (Chapter XX), if desired, to identify external agent"
+    ],
+    "exclusion": [
+        "certain conditions originating in the perinatal period",
+        "certain infectious and parasitic diseases",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "cancrum oris",
+        "cheilitis",
+        "gangrenous stomatitis",
+        "herpesviral [herpes simplex] gingivostomatitis",
+        "noma",
+        "mucositis (ulcerative) of gastrointestinal tract (except oral cavity and oropharynx)"
+    ],
+    "symptoms": [
+        "oral ulcers",
+        "pain in the mouth",
+        "difficulty eating",
+        "redness in the mouth",
+        "swollen oral tissues"
+    ]
+}

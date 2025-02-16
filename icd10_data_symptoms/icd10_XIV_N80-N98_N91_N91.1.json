@@ -1,0 +1,31 @@
+{
+    "icd10code": "N91.1",
+    "type": "subcategory",
+    "title": "Secondary amenorrhoea",
+    "chapter": "Diseases of the genitourinary system",
+    "chapterCode": "XIV",
+    "block": "Noninflammatory disorders of female genital tract",
+    "blockCode": "N80-N98",
+    "category": "Absent, scanty and rare menstruation",
+    "categoryCode": "N91",
+    "subcategory": "N91.1",
+    "inclusion": null,
+    "exclusion": [
+        "certain conditions originating in the perinatal period",
+        "certain infectious and parasitic diseases",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "ovarian dysfunction"
+    ],
+    "symptoms": [
+        "light or infrequent menstrual flow",
+        "extended menstrual cycle",
+        "missed periods",
+        "reduced menstrual bleeding",
+        "unpredictable cycles"
+    ]
+}

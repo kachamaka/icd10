@@ -1,0 +1,36 @@
+{
+    "icd10code": "K03.0",
+    "type": "subcategory",
+    "title": "Excessive attrition of teeth",
+    "chapter": "Diseases of the digestive system",
+    "chapterCode": "XI",
+    "block": "Diseases of oral cavity, salivary glands and jaws",
+    "blockCode": "K00-K14",
+    "category": "Other diseases of hard tissues of teeth",
+    "categoryCode": "K03",
+    "subcategory": "K03.0",
+    "inclusion": [
+        "Wear: approximal of teeth",
+        "Wear: occlusal of teeth"
+    ],
+    "exclusion": [
+        "certain conditions originating in the perinatal period",
+        "certain infectious and parasitic diseases",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "bruxism",
+        "dental caries",
+        "teeth-grinding NOS"
+    ],
+    "symptoms": [
+        "white or brown spots on teeth",
+        "soft enamel",
+        "increased tooth sensitivity",
+        "irregular tooth structure",
+        "early dental erosion"
+    ]
+}

@@ -1,0 +1,25 @@
+{
+  "type": "subcategory",
+  "chapterCode": "XI",
+  "chapter": "Diseases of the digestive system",
+  "blockCode": "K80-K87",
+  "block": "Disorders of gallbladder, biliary tract and pancreas",
+  "categoryCode": "K80",
+  "category": "Cholelithiasis",
+  "subcategory": "K80.4",
+  "title": "Calculus of bile duct with cholecystitis",
+  "inclusion": [
+    "Any condition listed in K80.5 with cholecystitis (with cholangitis)"
+  ],
+  "exclusion": [
+    "certain conditions originating in the perinatal period",
+    "certain infectious and parasitic diseases",
+    "complications of pregnancy, childbirth and the puerperium",
+    "congenital malformations, deformations and chromosomal abnormalities",
+    "endocrine, nutritional and metabolic diseases",
+    "injury, poisoning and certain other consequences of external causes",
+    "neoplasms",
+    "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified"
+  ],
+  "children": null
+}

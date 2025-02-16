@@ -1,0 +1,17 @@
+{
+  "type": "subcategory",
+  "chapterCode": "II",
+  "chapter": "Neoplasms",
+  "blockCode": "C51-C58",
+  "block": "Malignant neoplasms of female genital organs",
+  "categoryCode": "C54",
+  "category": "Malignant neoplasm of corpus uteri",
+  "subcategory": "C54.0",
+  "title": "Malignant neoplasm: Isthmus uteri",
+  "inclusion": [
+    "skin of female genital organs",
+    "Lower uterine segment"
+  ],
+  "exclusion": null,
+  "children": null
+}

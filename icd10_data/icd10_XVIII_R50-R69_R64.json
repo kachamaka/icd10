@@ -1,0 +1,22 @@
+{
+  "type": "category",
+  "chapterCode": "XVIII",
+  "chapter": "Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+  "blockCode": "R50-R69",
+  "block": "General symptoms and signs",
+  "categoryCode": "R64",
+  "category": "Cachexia",
+  "subcategory": "",
+  "title": "Cachexia",
+  "inclusion": [
+    "Failure to thrive in adult"
+  ],
+  "exclusion": [
+    "abnormal findings on antenatal screening of mother",
+    "certain conditions originating in the perinatal period",
+    "HIV disease resulting in wasting syndrome",
+    "malignant cachexia",
+    "nutritional marasmus"
+  ],
+  "children": null
+}

@@ -1,0 +1,35 @@
+{
+    "icd10code": "S71.0",
+    "type": "subcategory",
+    "title": "Open wound of hip",
+    "chapter": "Injury, poisoning and certain other consequences of external causes",
+    "chapterCode": "XIX",
+    "block": "Injuries to the hip and thigh",
+    "blockCode": "S70-S79",
+    "category": "Open wound of hip and thigh",
+    "categoryCode": "S71",
+    "subcategory": "S71.0",
+    "inclusion": null,
+    "exclusion": [
+        "birth trauma",
+        "obstetric trauma",
+        "malunion of fracture",
+        "nonunion of fracture [pseudarthrosis]",
+        "pathological fracture",
+        "pathological fracture with osteoporosis",
+        "stress fracture",
+        "bilateral involvement of hip and thigh",
+        "burns and corrosions",
+        "frostbite",
+        "injuries of leg, level unspecified",
+        "insect bite or sting, venomous",
+        "traumatic amputation of lower limb, level unspecified"
+    ],
+    "symptoms": [
+        "pain",
+        "swelling",
+        "bleeding",
+        "bruising",
+        "limited mobility"
+    ]
+}

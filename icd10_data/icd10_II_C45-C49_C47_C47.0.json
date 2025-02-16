@@ -1,0 +1,18 @@
+{
+  "type": "subcategory",
+  "chapterCode": "II",
+  "chapter": "Neoplasms",
+  "blockCode": "C45-C49",
+  "block": "Malignant neoplasms of mesothelial and soft tissue",
+  "categoryCode": "C47",
+  "category": "Malignant neoplasm of peripheral nerves and autonomic nervous system",
+  "subcategory": "C47.0",
+  "title": "Malignant neoplasm: Peripheral nerves of head, face and neck",
+  "inclusion": [
+    "sympathetic and parasympathetic nerves and ganglia"
+  ],
+  "exclusion": [
+    "peripheral nerves of orbit"
+  ],
+  "children": null
+}

@@ -1,0 +1,43 @@
+{
+    "icd10code": "K43.6",
+    "type": "subcategory",
+    "title": "Other and unspecified ventral hernia with obstruction without gangrene",
+    "chapter": "Diseases of the digestive system",
+    "chapterCode": "XI",
+    "block": "Hernia",
+    "blockCode": "K40-K46",
+    "category": "Ventral hernia",
+    "categoryCode": "K43",
+    "subcategory": "K43.6",
+    "inclusion": [
+        "hernia: acquired",
+        "hernia: congenital [except diaphragmatic or hiatus]",
+        "hernia: recurrent",
+        "Hernia: epigastric",
+        "Hernia: hypogastric",
+        "Hernia: midline",
+        "Hernia: spigelian",
+        "Hernia: subxiphoid",
+        "Any condition listed under K43.6 causing obstruction without gangrene",
+        "Any condition listed under K43.6 incarcerated without gangrene",
+        "Any condition listed under K43.6 irreducible without gangrene",
+        "Any condition listed under K43.6 strangulated without gangrene"
+    ],
+    "exclusion": [
+        "certain conditions originating in the perinatal period",
+        "certain infectious and parasitic diseases",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified"
+    ],
+    "symptoms": [
+        "abdominal pain",
+        "nausea",
+        "vomiting",
+        "bulging lump",
+        "digestive discomfort"
+    ]
+}

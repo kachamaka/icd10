@@ -1,0 +1,42 @@
+{
+    "icd10code": "J04.0",
+    "type": "subcategory",
+    "title": "Acute laryngitis",
+    "chapter": "Diseases of the respiratory system",
+    "chapterCode": "X",
+    "block": "Acute upper respiratory infections",
+    "blockCode": "J00-J06",
+    "category": "Acute laryngitis and tracheitis",
+    "categoryCode": "J04",
+    "subcategory": "J04.0",
+    "inclusion": [
+        "Laryngitis (acute): NOS",
+        "Laryngitis (acute): oedematous",
+        "Laryngitis (acute): subglottic",
+        "Laryngitis (acute): suppurative",
+        "Laryngitis (acute): ulcerative"
+    ],
+    "exclusion": [
+        "certain conditions originating in the perinatal period",
+        "certain infectious and parasitic diseases",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "chronic obstructive pulmonary disease with acute exacerbation NOS",
+        "acute respiratory infection NOS",
+        "influenza virus: identified",
+        "chronic laryngitis",
+        "influenzal laryngitis, influenza virus: identified",
+        "influenzal laryngitis, influenza virus: not identified"
+    ],
+    "symptoms": [
+        "hoarseness",
+        "sore throat",
+        "difficulty breathing",
+        "cough",
+        "stridor"
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "icd10code": "Q43.6",
+    "type": "subcategory",
+    "title": "Congenital fistula of rectum and anus",
+    "chapter": "Congenital malformations, deformations and chromosomal abnormalities",
+    "chapterCode": "XVII",
+    "block": "Other congenital malformations of the digestive system",
+    "blockCode": "Q38-Q45",
+    "category": "Other congenital malformations of intestine",
+    "categoryCode": "Q43",
+    "subcategory": "Q43.6",
+    "inclusion": null,
+    "exclusion": [
+        "inborn errors of metabolism",
+        "congenital fistula: rectovaginal",
+        "congenital fistula: urethrorectal",
+        "pilonidal fistula or sinus",
+        "with absence, atresia and stenosis"
+    ],
+    "symptoms": [
+        "abdominal pain",
+        "vomiting",
+        "malabsorption",
+        "diarrhea",
+        "weight loss"
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "icd10code": "R52.0",
+    "type": "subcategory",
+    "title": "Acute pain",
+    "chapter": "Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+    "chapterCode": "XVIII",
+    "block": "General symptoms and signs",
+    "blockCode": "R50-R69",
+    "category": "Pain, not elsewhere classified",
+    "categoryCode": "R52",
+    "subcategory": "R52.0",
+    "inclusion": [
+        "pain not referable to any one organ or body region"
+    ],
+    "exclusion": [
+        "abnormal findings on antenatal screening of mother",
+        "certain conditions originating in the perinatal period",
+        "chronic pain personality syndrome",
+        "headache",
+        "pain (in): abdomen",
+        "pain (in): back",
+        "pain (in): breast",
+        "pain (in): chest",
+        "pain (in): ear",
+        "pain (in): eye",
+        "pain (in): joint",
+        "pain (in): limb",
+        "pain (in): lumbar region",
+        "pain (in): pelvic and perineal",
+        "pain (in): psychogenic",
+        "pain (in): shoulder",
+        "pain (in): spine",
+        "pain (in): throat",
+        "pain (in): tongue",
+        "pain (in): tooth",
+        "renal colic"
+    ],
+    "symptoms": [
+        "chronic pain",
+        "pain lasting \u003e3 months",
+        "persistent discomfort",
+        "long-term somatic pain",
+        "impact on daily activities"
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "icd10code": "E59",
+    "type": "category",
+    "title": "Dietary selenium deficiency",
+    "chapter": "Endocrine, nutritional and metabolic diseases",
+    "chapterCode": "IV",
+    "block": "Other nutritional deficiencies",
+    "blockCode": "E50-E64",
+    "category": "Dietary selenium deficiency",
+    "categoryCode": "E59",
+    "subcategory": "",
+    "inclusion": [
+        "Keshan disease"
+    ],
+    "exclusion": [
+        "complications of pregnancy, childbirth and the puerperium",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "transitory endocrine and metabolic disorders specific to fetus and newborn",
+        "diabetes mellitus (in): malnutrition-related",
+        "sequelae of selenium deficiency"
+    ],
+    "symptoms": [
+        "hair thinning",
+        "brittle nails",
+        "lethargy",
+        "difficulty swallowing",
+        "abnormally pale skin"
+    ]
+}

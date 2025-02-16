@@ -1,0 +1,26 @@
+{
+    "icd10code": "R01.0",
+    "type": "subcategory",
+    "title": "Benign and innocent cardiac murmurs",
+    "chapter": "Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+    "chapterCode": "XVIII",
+    "block": "Symptoms and signs involving the circulatory and respiratory systems",
+    "blockCode": "R00-R09",
+    "category": "Cardiac murmurs and other cardiac sounds",
+    "categoryCode": "R01",
+    "subcategory": "R01.0",
+    "inclusion": [
+        "Functional cardiac murmur"
+    ],
+    "exclusion": [
+        "abnormal findings on antenatal screening of mother",
+        "certain conditions originating in the perinatal period",
+        "those originating in the perinatal period"
+    ],
+    "symptoms": [
+        "heart murmur",
+        "abnormal heart sounds",
+        "whooshing noise in heartbeat",
+        "irregular blood flow sounds"
+    ]
+}

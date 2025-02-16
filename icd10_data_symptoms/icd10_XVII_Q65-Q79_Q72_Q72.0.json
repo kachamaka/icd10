@@ -1,0 +1,23 @@
+{
+    "icd10code": "Q72.0",
+    "type": "subcategory",
+    "title": "Congenital complete absence of lower limb(s)",
+    "chapter": "Congenital malformations, deformations and chromosomal abnormalities",
+    "chapterCode": "XVII",
+    "block": "Congenital malformations and deformations of the musculoskeletal system",
+    "blockCode": "Q65-Q79",
+    "category": "Reduction defects of lower limb",
+    "categoryCode": "Q72",
+    "subcategory": "Q72.0",
+    "inclusion": null,
+    "exclusion": [
+        "inborn errors of metabolism"
+    ],
+    "symptoms": [
+        "absence of one or both lower limbs",
+        "underdeveloped lower limbs",
+        "malformation of pelvis",
+        "shortened lower extremities",
+        "limb asymmetry"
+    ]
+}

@@ -1,0 +1,21 @@
+{
+  "type": "subcategory",
+  "chapterCode": "II",
+  "chapter": "Neoplasms",
+  "blockCode": "D37-D48",
+  "block": "Neoplasms of uncertain or unknown behaviour",
+  "categoryCode": "D46",
+  "category": "Myelodysplastic syndromes",
+  "subcategory": "D46.7",
+  "title": "Other myelodysplastic syndromes",
+  "inclusion": [
+    "Alkylating-agent-related myelodysplastic syndrome",
+    "Epipodophyllotoxin-related myelodysplastic syndrome",
+    "Therapy-related myelodysplastic syndrome NOS"
+  ],
+  "exclusion": [
+    "drug induced aplastic anaemia",
+    "chronic myelomonocytic leukaemia"
+  ],
+  "children": null
+}

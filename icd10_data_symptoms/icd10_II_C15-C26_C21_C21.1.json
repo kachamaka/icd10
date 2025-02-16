@@ -1,0 +1,23 @@
+{
+    "icd10code": "C21.1",
+    "type": "subcategory",
+    "title": "Malignant neoplasm: Anal canal",
+    "chapter": "Neoplasms",
+    "chapterCode": "II",
+    "block": "Malignant neoplasms of digestive organs",
+    "blockCode": "C15-C26",
+    "category": "Malignant neoplasm of anus and anal canal",
+    "categoryCode": "C21",
+    "subcategory": "C21.1",
+    "inclusion": [
+        "Anal sphincter"
+    ],
+    "exclusion": null,
+    "symptoms": [
+        "rectal bleeding",
+        "changes in bowel movement",
+        "anemia",
+        "rectal pain",
+        "unexplained weight loss"
+    ]
+}

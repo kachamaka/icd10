@@ -1,0 +1,41 @@
+{
+    "icd10code": "O99.8",
+    "type": "subcategory",
+    "title": "Other specified diseases and conditions complicating pregnancy, childbirth and the puerperium",
+    "chapter": "Pregnancy, childbirth and the puerperium",
+    "chapterCode": "XV",
+    "block": "Other obstetric conditions, not elsewhere classified",
+    "blockCode": "O94-O99",
+    "category": "Other maternal diseases classifiable elsewhere but complicating pregnancy, childbirth and the puerperium",
+    "categoryCode": "O99",
+    "subcategory": "O99.8",
+    "inclusion": [
+        "Combination of conditions classifiable to O99.0-O99.7",
+        "Conditions in C00-D48, H00-H95, M00-M99, N00-N99, and Q00-Q99 not elsewhere classified"
+    ],
+    "exclusion": [
+        "Certain diseases or injuries complicating pregnancy, childbirth and the puerperium classified elsewhere: external causes (for mortality)",
+        "Certain diseases or injuries complicating pregnancy, childbirth and the puerperium classified elsewhere: injury, poisoning and certain other consequences of external cause",
+        "Certain diseases or injuries complicating pregnancy, childbirth and the puerperium classified elsewhere: mental and behavioural disorders associated with the puerperium",
+        "Certain diseases or injuries complicating pregnancy, childbirth and the puerperium classified elsewhere: obstetrical tetanus",
+        "Certain diseases or injuries complicating pregnancy, childbirth and the puerperium classified elsewhere: postpartum necrosis of pituitary gland",
+        "Certain diseases or injuries complicating pregnancy, childbirth and the puerperium classified elsewhere: puerperal osteomalacia",
+        "supervision of: high-risk pregnancy",
+        "supervision of: normal pregnancy",
+        "infectious and parasitic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "when the reason for maternal care is that the condition is known or suspected to have affected the fetus",
+        "genitourinary infections in pregnancy",
+        "infection of genitourinary tract following delivery",
+        "maternal care for known or suspected abnormality of maternal pelvic organs",
+        "postpartum acute renal failure",
+        "postpartum nephritis"
+    ],
+    "symptoms": [
+        "fatigue",
+        "shortness of breath",
+        "headache",
+        "dizziness",
+        "chest pain"
+    ]
+}

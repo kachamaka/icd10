@@ -1,0 +1,20 @@
+{
+  "type": "subcategory",
+  "chapterCode": "XVII",
+  "chapter": "Congenital malformations, deformations and chromosomal abnormalities",
+  "blockCode": "Q00-Q07",
+  "block": "Congenital malformations of the nervous system",
+  "categoryCode": "Q04",
+  "category": "Other congenital malformations of brain",
+  "subcategory": "Q04.0",
+  "title": "Congenital malformations of corpus callosum",
+  "inclusion": [
+    "Agenesis of corpus callosum"
+  ],
+  "exclusion": [
+    "inborn errors of metabolism",
+    "cyclopia",
+    "macrocephaly"
+  ],
+  "children": null
+}

@@ -1,0 +1,30 @@
+{
+    "icd10code": "E31.9",
+    "type": "subcategory",
+    "title": "Polyglandular dysfunction, unspecified",
+    "chapter": "Endocrine, nutritional and metabolic diseases",
+    "chapterCode": "IV",
+    "block": "Disorders of other endocrine glands",
+    "blockCode": "E20-E35",
+    "category": "Polyglandular dysfunction",
+    "categoryCode": "E31",
+    "subcategory": "E31.9",
+    "inclusion": null,
+    "exclusion": [
+        "complications of pregnancy, childbirth and the puerperium",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "transitory endocrine and metabolic disorders specific to fetus and newborn",
+        "galactorrhoea",
+        "gynaecomastia",
+        "adrenoleukodystrophy [Addison-Schilder]",
+        "Waterhouse-Friderichsen syndrome",
+        "menopausal and female climacteric states"
+    ],
+    "symptoms": [
+        "fatigue",
+        "low blood pressure",
+        "weight loss",
+        "hyperpigmentation",
+        "loss of appetite"
+    ]
+}

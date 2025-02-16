@@ -1,0 +1,24 @@
+{
+    "icd10code": "D30.7",
+    "type": "subcategory",
+    "title": "Benign neoplasm: Other urinary organs",
+    "chapter": "Neoplasms",
+    "chapterCode": "II",
+    "block": "Benign neoplasms",
+    "blockCode": "D10-D36",
+    "category": "Benign neoplasm of urinary organs",
+    "categoryCode": "D30",
+    "subcategory": "D30.7",
+    "inclusion": [
+        "morphology codes with behaviour code /0",
+        "Paraurethral glands"
+    ],
+    "exclusion": null,
+    "symptoms": [
+        "blood in urine",
+        "frequent urination",
+        "lower back pain",
+        "abdominal pain",
+        "difficulty urinating"
+    ]
+}

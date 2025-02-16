@@ -1,0 +1,36 @@
+{
+    "icd10code": "L11.0",
+    "type": "subcategory",
+    "title": "Acquired keratosis follicularis",
+    "chapter": "Diseases of the skin and subcutaneous tissue",
+    "chapterCode": "XII",
+    "block": "Bullous disorders",
+    "blockCode": "L10-L14",
+    "category": "Other acantholytic disorders",
+    "categoryCode": "L11",
+    "subcategory": "L11.0",
+    "inclusion": null,
+    "exclusion": [
+        "certain conditions originating in the perinatal period",
+        "certain infectious and parasitic diseases",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "lipomelanotic reticulosis",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "systemic connective tissue disorders",
+        "decubitus [pressure] ulcer and pressure area",
+        "gangrene",
+        "skin infections",
+        "keratosis follicularis (congenital) [Darier-White]"
+    ],
+    "symptoms": [
+        "itchy skin",
+        "blisters",
+        "plaques",
+        "red patches",
+        "inflammation"
+    ]
+}

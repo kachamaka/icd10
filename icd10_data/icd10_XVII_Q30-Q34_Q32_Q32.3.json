@@ -1,0 +1,17 @@
+{
+  "type": "subcategory",
+  "chapterCode": "XVII",
+  "chapter": "Congenital malformations, deformations and chromosomal abnormalities",
+  "blockCode": "Q30-Q34",
+  "block": "Congenital malformations of the respiratory system",
+  "categoryCode": "Q32",
+  "category": "Congenital malformations of trachea and bronchus",
+  "subcategory": "Q32.3",
+  "title": "Congenital stenosis of bronchus",
+  "inclusion": null,
+  "exclusion": [
+    "inborn errors of metabolism",
+    "congenital bronchiectasis"
+  ],
+  "children": null
+}

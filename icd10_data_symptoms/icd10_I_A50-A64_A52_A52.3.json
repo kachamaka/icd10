@@ -1,0 +1,35 @@
+{
+    "icd10code": "A52.3",
+    "type": "subcategory",
+    "title": "Neurosyphilis, unspecified",
+    "chapter": "Certain infectious and parasitic diseases",
+    "chapterCode": "I",
+    "block": "Infections with a predominantly sexual mode of transmission",
+    "blockCode": "A50-A64",
+    "category": "Late syphilis",
+    "categoryCode": "A52",
+    "subcategory": "A52.3",
+    "inclusion": [
+        "diseases generally recognized as communicable or transmissible",
+        "Gumma (syphilitic) of central nervous system NOS",
+        "Syphilis (late) of central nervous system NOS",
+        "Syphiloma of central nervous system NOS"
+    ],
+    "exclusion": [
+        "carrier or suspected carrier of infectious disease",
+        "certain localized infections - see body system-related chapters",
+        "infectious and parasitic diseases complicating pregnancy, childbirth and the puerperium [except obstetrical tetanus]",
+        "infectious and parasitic diseases specific to the perinatal period [except tetanus neonatorum, whooping cough, congenital syphilis, perinatal gonococcal infection and perinatal human immunodeficiency virus [HIV] disease]",
+        "influenza and other acute respiratory infections",
+        "erythrasma",
+        "endotoxic shock NOS",
+        "sepsis NOS"
+    ],
+    "symptoms": [
+        "dementia",
+        "tabes dorsalis",
+        "argyll robertson pupil",
+        "lower limb pain",
+        "bladder dysfunction"
+    ]
+}

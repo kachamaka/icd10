@@ -1,0 +1,33 @@
+{
+    "icd10code": "H27.9",
+    "type": "subcategory",
+    "title": "Disorder of lens, unspecified",
+    "chapter": "Diseases of the eye and adnexa",
+    "chapterCode": "VII",
+    "block": "Disorders of lens",
+    "blockCode": "H25-H28",
+    "category": "Other disorders of lens",
+    "categoryCode": "H27",
+    "subcategory": "H27.9",
+    "inclusion": null,
+    "exclusion": [
+        "certain conditions originating in the perinatal period",
+        "certain infectious and parasitic diseases",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "congenital lens malformations",
+        "mechanical complications of intraocular lens",
+        "pseudophakia"
+    ],
+    "symptoms": [
+        "blurred vision",
+        "eye pain",
+        "abnormal eye movements",
+        "headaches",
+        "light sensitivity"
+    ]
+}

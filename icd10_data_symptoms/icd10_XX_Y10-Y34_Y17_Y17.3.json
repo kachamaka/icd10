@@ -1,0 +1,24 @@
+{
+    "icd10code": "Y17.3",
+    "type": "subcategory",
+    "title": "Poisoning by and exposure to carbon monoxide from other sources, undetermined intent",
+    "chapter": "External causes of morbidity and mortality",
+    "chapterCode": "XX",
+    "block": "Event of undetermined intent",
+    "blockCode": "Y10-Y34",
+    "category": "Poisoning by and exposure to carbon monoxide and other gases and vapours, undetermined intent",
+    "categoryCode": "Y17",
+    "subcategory": "Y17.3",
+    "inclusion": [
+        "Carbon monoxide from: blast furnace gas",
+        "Carbon monoxide from: fuels in industrial use",
+        "Carbon monoxide from: kiln vapour"
+    ],
+    "exclusion": [
+        "carbon monoxide from smoke, fire and flames, undetermined intent",
+        "metal fumes and vapours"
+    ],
+    "symptoms": [
+        "asymptomatic"
+    ]
+}

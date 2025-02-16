@@ -1,0 +1,40 @@
+{
+    "icd10code": "N06",
+    "type": "modifiedcategory",
+    "title": "Isolated proteinuria with specified morphological lesion : minor glomerular abnormality",
+    "chapter": "Diseases of the genitourinary system",
+    "chapterCode": "XIV",
+    "block": "Glomerular diseases",
+    "blockCode": "N00-N08",
+    "category": "Isolated proteinuria with specified morphological lesion",
+    "categoryCode": "N06",
+    "subcategory": "",
+    "inclusion": [
+        "proteinuria (isolated)(orthostatic)(persistent) with morphological lesion specified in .0-.8 before N00.-",
+        "Minimal change lesion"
+    ],
+    "exclusion": [
+        "certain conditions originating in the perinatal period",
+        "certain infectious and parasitic diseases",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "hypertensive renal disease",
+        "renal tubulo-interstitial disorders in diseases classified elsewhere",
+        "hereditary amyloid nephropathy",
+        "nail patella syndrome",
+        "non-neuropathic heredofamilial amyloidosis",
+        "proteinuria: orthostatic NOS",
+        "proteinuria: persistent NOS"
+    ],
+    "symptoms": [
+        "proteinuria",
+        "edema",
+        "hypertension",
+        "hematuria",
+        "fatigue"
+    ]
+}

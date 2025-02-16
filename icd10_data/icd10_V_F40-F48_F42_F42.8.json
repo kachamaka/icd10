@@ -1,0 +1,22 @@
+{
+  "type": "subcategory",
+  "chapterCode": "V",
+  "chapter": "Mental and behavioural disorders",
+  "blockCode": "F40-F48",
+  "block": "Neurotic, stress-related and somatoform disorders",
+  "categoryCode": "F42",
+  "category": "Obsessive-compulsive disorder",
+  "subcategory": "F42.8",
+  "title": "Other obsessive-compulsive disorders",
+  "inclusion": [
+    "disorders of psychological development",
+    "anankastic neurosis",
+    "obsessive-compulsive neurosis"
+  ],
+  "exclusion": [
+    "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+    "when associated with conduct disorder in F91.-",
+    "obsessive-compulsive personality (disorder)"
+  ],
+  "children": null
+}

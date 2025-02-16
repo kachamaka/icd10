@@ -1,0 +1,37 @@
+{
+    "icd10code": "G31.2",
+    "type": "subcategory",
+    "title": "Degeneration of nervous system due to alcohol",
+    "chapter": "Diseases of the nervous system",
+    "chapterCode": "VI",
+    "block": "Other degenerative diseases of the nervous system",
+    "blockCode": "G30-G32",
+    "category": "Other degenerative diseases of nervous system, not elsewhere classified",
+    "categoryCode": "G31",
+    "subcategory": "G31.2",
+    "inclusion": [
+        "Alcoholic: cerebellar: ataxia",
+        "Alcoholic: cerebellar: degeneration",
+        "Alcoholic: cerebral degeneration",
+        "Alcoholic: encephalopathy",
+        "Dysfunction of autonomic nervous system due to alcohol"
+    ],
+    "exclusion": [
+        "certain conditions originating in the perinatal period",
+        "certain infectious and parasitic diseases",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "Reye syndrome"
+    ],
+    "symptoms": [
+        "memory loss",
+        "disorientation",
+        "difficulty with language",
+        "impaired judgment",
+        "difficulty with problem-solving"
+    ]
+}

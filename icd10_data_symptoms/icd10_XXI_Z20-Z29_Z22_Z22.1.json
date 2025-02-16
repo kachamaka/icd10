@@ -1,0 +1,23 @@
+{
+    "icd10code": "Z22.1",
+    "type": "subcategory",
+    "title": "Carrier of other intestinal infectious diseases",
+    "chapter": "Factors influencing health status and contact with health services",
+    "chapterCode": "XXI",
+    "block": "Persons with potential health hazards related to communicable diseases",
+    "blockCode": "Z20-Z29",
+    "category": "Carrier of infectious disease",
+    "categoryCode": "Z22",
+    "subcategory": "Z22.1",
+    "inclusion": [
+        "suspected carrier"
+    ],
+    "exclusion": null,
+    "symptoms": [
+        "asymptomatic",
+        "fatigue",
+        "jaundice",
+        "abdominal pain",
+        "dark urine"
+    ]
+}

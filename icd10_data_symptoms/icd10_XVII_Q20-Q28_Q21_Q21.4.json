@@ -1,0 +1,27 @@
+{
+    "icd10code": "Q21.4",
+    "type": "subcategory",
+    "title": "Aortopulmonary septal defect",
+    "chapter": "Congenital malformations, deformations and chromosomal abnormalities",
+    "chapterCode": "XVII",
+    "block": "Congenital malformations of the circulatory system",
+    "blockCode": "Q20-Q28",
+    "category": "Congenital malformations of cardiac septa",
+    "categoryCode": "Q21",
+    "subcategory": "Q21.4",
+    "inclusion": [
+        "Aortic septal defect",
+        "Aortopulmonary window"
+    ],
+    "exclusion": [
+        "inborn errors of metabolism",
+        "acquired cardiac septal defect"
+    ],
+    "symptoms": [
+        "heart murmur",
+        "shortness of breath",
+        "fatigue",
+        "cyanosis",
+        "poor weight gain"
+    ]
+}

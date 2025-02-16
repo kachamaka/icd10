@@ -1,0 +1,25 @@
+{
+    "icd10code": "R46.6",
+    "type": "subcategory",
+    "title": "Undue concern and preoccupation with stressful events",
+    "chapter": "Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+    "chapterCode": "XVIII",
+    "block": "Symptoms and signs involving cognition, perception, emotional state and behaviour",
+    "blockCode": "R40-R46",
+    "category": "Symptoms and signs involving appearance and behaviour",
+    "categoryCode": "R46",
+    "subcategory": "R46.6",
+    "inclusion": null,
+    "exclusion": [
+        "abnormal findings on antenatal screening of mother",
+        "certain conditions originating in the perinatal period",
+        "those constituting part of a pattern of mental disorder"
+    ],
+    "symptoms": [
+        "agitation",
+        "emotional distress",
+        "restlessness",
+        "aggressive behavior",
+        "irritability"
+    ]
+}

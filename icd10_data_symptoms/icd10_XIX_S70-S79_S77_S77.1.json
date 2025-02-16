@@ -1,0 +1,34 @@
+{
+    "icd10code": "S77.1",
+    "type": "subcategory",
+    "title": "Crushing injury of thigh",
+    "chapter": "Injury, poisoning and certain other consequences of external causes",
+    "chapterCode": "XIX",
+    "block": "Injuries to the hip and thigh",
+    "blockCode": "S70-S79",
+    "category": "Crushing injury of hip and thigh",
+    "categoryCode": "S77",
+    "subcategory": "S77.1",
+    "inclusion": null,
+    "exclusion": [
+        "birth trauma",
+        "obstetric trauma",
+        "malunion of fracture",
+        "nonunion of fracture [pseudarthrosis]",
+        "pathological fracture",
+        "pathological fracture with osteoporosis",
+        "stress fracture",
+        "bilateral involvement of hip and thigh",
+        "burns and corrosions",
+        "frostbite",
+        "injuries of leg, level unspecified",
+        "insect bite or sting, venomous"
+    ],
+    "symptoms": [
+        "pain",
+        "swelling",
+        "bruising",
+        "restricted movement",
+        "tenderness"
+    ]
+}

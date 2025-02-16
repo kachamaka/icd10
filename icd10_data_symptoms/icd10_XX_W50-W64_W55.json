@@ -1,0 +1,25 @@
+{
+    "icd10code": "W55",
+    "type": "category",
+    "title": "Bitten or struck by other mammals",
+    "chapter": "External causes of morbidity and mortality",
+    "chapterCode": "XX",
+    "block": "Exposure to animate mechanical forces",
+    "blockCode": "W50-W64",
+    "category": "Bitten or struck by other mammals",
+    "categoryCode": "W55",
+    "subcategory": "",
+    "inclusion": null,
+    "exclusion": [
+        "bites, venomous",
+        "stings (venomous)",
+        "contact with marine mammal"
+    ],
+    "symptoms": [
+        "redness",
+        "swelling",
+        "pain",
+        "itching",
+        "puncture marks"
+    ]
+}

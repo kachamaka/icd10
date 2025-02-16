@@ -1,0 +1,26 @@
+{
+    "icd10code": "F61",
+    "type": "category",
+    "title": "Mixed and other personality disorders",
+    "chapter": "Mental and behavioural disorders",
+    "chapterCode": "V",
+    "block": "Disorders of adult personality and behaviour",
+    "blockCode": "F60-F69",
+    "category": "Mixed and other personality disorders",
+    "categoryCode": "F61",
+    "subcategory": "",
+    "inclusion": [
+        "disorders of psychological development"
+    ],
+    "exclusion": [
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "accentuated personality traits"
+    ],
+    "symptoms": [
+        "emotional instability",
+        "impulsivity",
+        "interpersonal conflicts",
+        "low self-esteem",
+        "anxiety"
+    ]
+}

@@ -1,0 +1,33 @@
+{
+    "icd10code": "G05.8",
+    "type": "subcategory",
+    "title": "Encephalitis, myelitis and encephalomyelitis in other diseases classified elsewhere",
+    "chapter": "Diseases of the nervous system",
+    "chapterCode": "VI",
+    "block": "Inflammatory diseases of the central nervous system",
+    "blockCode": "G00-G09",
+    "category": "Encephalitis, myelitis and encephalomyelitis in diseases classified elsewhere",
+    "categoryCode": "G05",
+    "subcategory": "G05.8",
+    "inclusion": [
+        "meningoencephalitis and meningomyelitis in diseases classified elsewhere",
+        "Encephalitis in systemic lupus erythematosus"
+    ],
+    "exclusion": [
+        "certain conditions originating in the perinatal period",
+        "certain infectious and parasitic diseases",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified"
+    ],
+    "symptoms": [
+        "headache",
+        "fever",
+        "neck stiffness",
+        "confusion",
+        "seizures"
+    ]
+}

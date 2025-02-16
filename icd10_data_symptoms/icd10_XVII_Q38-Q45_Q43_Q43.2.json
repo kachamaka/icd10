@@ -1,0 +1,25 @@
+{
+    "icd10code": "Q43.2",
+    "type": "subcategory",
+    "title": "Other congenital functional disorders of colon",
+    "chapter": "Congenital malformations, deformations and chromosomal abnormalities",
+    "chapterCode": "XVII",
+    "block": "Other congenital malformations of the digestive system",
+    "blockCode": "Q38-Q45",
+    "category": "Other congenital malformations of intestine",
+    "categoryCode": "Q43",
+    "subcategory": "Q43.2",
+    "inclusion": [
+        "Congenital dilatation of colon"
+    ],
+    "exclusion": [
+        "inborn errors of metabolism"
+    ],
+    "symptoms": [
+        "abdominal pain",
+        "bloating",
+        "constipation",
+        "diarrhea",
+        "malabsorption"
+    ]
+}

@@ -1,0 +1,18 @@
+{
+  "type": "subcategory",
+  "chapterCode": "V",
+  "chapter": "Mental and behavioural disorders",
+  "blockCode": "F80-F89",
+  "block": "Disorders of psychological development",
+  "categoryCode": "F84",
+  "category": "Pervasive developmental disorders",
+  "subcategory": "F84.4",
+  "title": "Overactive disorder associated with mental retardation and stereotyped movements",
+  "inclusion": [
+    "disorders of psychological development"
+  ],
+  "exclusion": [
+    "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified"
+  ],
+  "children": null
+}

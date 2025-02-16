@@ -1,0 +1,26 @@
+{
+    "icd10code": "X54",
+    "type": "category",
+    "title": "Lack of water",
+    "chapter": "External causes of morbidity and mortality",
+    "chapterCode": "XX",
+    "block": "Overexertion, travel and privation",
+    "blockCode": "X50-X57",
+    "category": "Lack of water",
+    "categoryCode": "X54",
+    "subcategory": "",
+    "inclusion": [
+        "lack of water as the cause of: dehydration",
+        "lack of water as the cause of: inanition"
+    ],
+    "exclusion": [
+        "assault",
+        "transport accidents",
+        "insufficient intake of water (due to self neglect)",
+        "neglect or abandonment by others",
+        "self neglect NOS"
+    ],
+    "symptoms": [
+        "asymptomatic"
+    ]
+}

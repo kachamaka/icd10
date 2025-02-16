@@ -1,0 +1,21 @@
+{
+    "icd10code": "X32",
+    "type": "category",
+    "title": "Exposure to sunlight",
+    "chapter": "External causes of morbidity and mortality",
+    "chapterCode": "XX",
+    "block": "Exposure to forces of nature",
+    "blockCode": "X30-X39",
+    "category": "Exposure to sunlight",
+    "categoryCode": "X32",
+    "subcategory": "",
+    "inclusion": null,
+    "exclusion": null,
+    "symptoms": [
+        "heat exhaustion",
+        "dehydration",
+        "dizziness",
+        "fatigue",
+        "nausea"
+    ]
+}

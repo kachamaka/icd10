@@ -1,0 +1,34 @@
+{
+    "icd10code": "K00.8",
+    "type": "subcategory",
+    "title": "Other disorders of tooth development",
+    "chapter": "Diseases of the digestive system",
+    "chapterCode": "XI",
+    "block": "Diseases of oral cavity, salivary glands and jaws",
+    "blockCode": "K00-K14",
+    "category": "Disorders of tooth development and eruption",
+    "categoryCode": "K00",
+    "subcategory": "K00.8",
+    "inclusion": [
+        "Colour changes during tooth formation",
+        "Intrinsic staining of teeth NOS"
+    ],
+    "exclusion": [
+        "certain conditions originating in the perinatal period",
+        "certain infectious and parasitic diseases",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "embedded and impacted teeth"
+    ],
+    "symptoms": [
+        "tooth discoloration",
+        "enamel hypoplasia",
+        "irregular tooth shape",
+        "delayed tooth eruption",
+        "abnormal dentin formation"
+    ]
+}

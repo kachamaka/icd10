@@ -1,0 +1,27 @@
+{
+    "icd10code": "W22",
+    "type": "category",
+    "title": "Striking against or struck by other object(s)",
+    "chapter": "External causes of morbidity and mortality",
+    "chapterCode": "XX",
+    "block": "Exposure to inanimate mechanical forces",
+    "blockCode": "W20-W49",
+    "category": "Striking against or struck by other object(s)",
+    "categoryCode": "W22",
+    "subcategory": "",
+    "inclusion": [
+        "walked into wall"
+    ],
+    "exclusion": [
+        "assault",
+        "contact or collision with animals or persons",
+        "intentional self-harm"
+    ],
+    "symptoms": [
+        "bruising",
+        "swelling",
+        "pain",
+        "redness",
+        "tenderness"
+    ]
+}

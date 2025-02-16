@@ -1,0 +1,29 @@
+{
+    "icd10code": "C95.0",
+    "type": "subcategory",
+    "title": "Acute leukaemia of unspecified cell type",
+    "chapter": "Neoplasms",
+    "chapterCode": "II",
+    "block": "Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",
+    "blockCode": "C81-C96",
+    "category": "Leukaemia of unspecified cell type",
+    "categoryCode": "C95",
+    "subcategory": "C95.0",
+    "inclusion": [
+        "Acute bilineal leukaemia",
+        "Acute mixed lineage leukaemia",
+        "Biphenotypic acute leukaemia",
+        "Stem cell leukaemia of unclear lineage"
+    ],
+    "exclusion": [
+        "secondary and unspecified neoplasm of lymph nodes",
+        "acute exacerbation of unspecified chronic leukaemia"
+    ],
+    "symptoms": [
+        "fatigue",
+        "unexplained weight loss",
+        "bone pain",
+        "frequent infections",
+        "bleeding or bruising easily"
+    ]
+}

@@ -1,0 +1,22 @@
+{
+  "type": "subcategory",
+  "chapterCode": "V",
+  "chapter": "Mental and behavioural disorders",
+  "blockCode": "F60-F69",
+  "block": "Disorders of adult personality and behaviour",
+  "categoryCode": "F60",
+  "category": "Specific personality disorders",
+  "subcategory": "F60.7",
+  "title": "Dependent personality disorder",
+  "inclusion": [
+    "disorders of psychological development",
+    "Personality (disorder): asthenic",
+    "Personality (disorder): inadequate",
+    "Personality (disorder): passive",
+    "Personality (disorder): self-defeating"
+  ],
+  "exclusion": [
+    "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified"
+  ],
+  "children": null
+}

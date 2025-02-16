@@ -1,0 +1,25 @@
+{
+    "icd10code": "F88",
+    "type": "category",
+    "title": "Other disorders of psychological development",
+    "chapter": "Mental and behavioural disorders",
+    "chapterCode": "V",
+    "block": "Disorders of psychological development",
+    "blockCode": "F80-F89",
+    "category": "Other disorders of psychological development",
+    "categoryCode": "F88",
+    "subcategory": "",
+    "inclusion": [
+        "disorders of psychological development",
+        "Developmental agnosia"
+    ],
+    "exclusion": [
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified"
+    ],
+    "symptoms": [
+        "developmental delays",
+        "impaired communication",
+        "learning difficulties",
+        "motor skill challenges"
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "icd10code": "D40.9",
+    "type": "subcategory",
+    "title": "Neoplasm of uncertain or unknown behaviour: Male genital organ, unspecified",
+    "chapter": "Neoplasms",
+    "chapterCode": "II",
+    "block": "Neoplasms of uncertain or unknown behaviour",
+    "blockCode": "D37-D48",
+    "category": "Neoplasm of uncertain or unknown behaviour of male genital organs",
+    "categoryCode": "D40",
+    "subcategory": "D40.9",
+    "inclusion": null,
+    "exclusion": null,
+    "symptoms": [
+        "abnormal results in prostate screening",
+        "difficulty urinating",
+        "erectile dysfunction",
+        "blood in urine",
+        "pelvic pain"
+    ]
+}

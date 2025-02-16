@@ -1,0 +1,37 @@
+{
+    "icd10code": "J32.8",
+    "type": "subcategory",
+    "title": "Other chronic sinusitis",
+    "chapter": "Diseases of the respiratory system",
+    "chapterCode": "X",
+    "block": "Other diseases of upper respiratory tract",
+    "blockCode": "J30-J39",
+    "category": "Chronic sinusitis",
+    "categoryCode": "J32",
+    "subcategory": "J32.8",
+    "inclusion": [
+        "abscess (chronic) of sinus (accessory)(nasal)",
+        "empyema (chronic) of sinus (accessory)(nasal)",
+        "infection (chronic) of sinus (accessory)(nasal)",
+        "suppuration (chronic) of sinus (accessory)(nasal)",
+        "Sinusitis (chronic) involving more than one sinus but not pansinusitis"
+    ],
+    "exclusion": [
+        "certain conditions originating in the perinatal period",
+        "certain infectious and parasitic diseases",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "acute sinusitis"
+    ],
+    "symptoms": [
+        "facial pain",
+        "nasal congestion",
+        "headache",
+        "postnasal drip",
+        "nasal discharge"
+    ]
+}

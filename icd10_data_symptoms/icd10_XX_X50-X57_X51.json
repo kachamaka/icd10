@@ -1,0 +1,20 @@
+{
+    "icd10code": "X51",
+    "type": "category",
+    "title": "Travel and motion",
+    "chapter": "External causes of morbidity and mortality",
+    "chapterCode": "XX",
+    "block": "Overexertion, travel and privation",
+    "blockCode": "X50-X57",
+    "category": "Travel and motion",
+    "categoryCode": "X51",
+    "subcategory": "",
+    "inclusion": null,
+    "exclusion": [
+        "assault",
+        "transport accidents"
+    ],
+    "symptoms": [
+        "asymptomatic"
+    ]
+}

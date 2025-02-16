@@ -1,0 +1,37 @@
+{
+    "icd10code": "D68.4",
+    "type": "subcategory",
+    "title": "Acquired coagulation factor deficiency",
+    "chapter": "Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism",
+    "chapterCode": "III",
+    "block": "Coagulation defects, purpura and other haemorrhagic conditions",
+    "blockCode": "D65-D69",
+    "category": "Other coagulation defects",
+    "categoryCode": "D68",
+    "subcategory": "D68.4",
+    "inclusion": [
+        "Deficiency of coagulation factor due to: liver disease",
+        "Deficiency of coagulation factor due to: vitamin K deficiency"
+    ],
+    "exclusion": [
+        "autoimmune disease (systemic) NOS",
+        "certain conditions originating in the perinatal period",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "human immunodeficiency virus [HIV] disease",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "traumatic rupture of spleen",
+        "splenomegaly: congenital",
+        "vitamin K deficiency of newborn"
+    ],
+    "symptoms": [
+        "unexplained bruising",
+        "frequent nosebleeds",
+        "bleeding gums",
+        "excessive bleeding from small cuts",
+        "heavy periods"
+    ]
+}

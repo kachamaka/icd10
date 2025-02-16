@@ -1,0 +1,21 @@
+{
+  "type": "subcategory",
+  "chapterCode": "II",
+  "chapter": "Neoplasms",
+  "blockCode": "D37-D48",
+  "block": "Neoplasms of uncertain or unknown behaviour",
+  "categoryCode": "D44",
+  "category": "Neoplasm of uncertain or unknown behaviour of endocrine glands",
+  "subcategory": "D44.8",
+  "title": "Neoplasm of uncertain or unknown behaviour: Pluriglandular involvement",
+  "inclusion": [
+    "Multiple endocrine adenomatosis"
+  ],
+  "exclusion": [
+    "endocrine pancreas",
+    "ovary",
+    "testis",
+    "thymus"
+  ],
+  "children": null
+}

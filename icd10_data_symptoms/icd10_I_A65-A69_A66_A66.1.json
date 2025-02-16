@@ -1,0 +1,37 @@
+{
+    "icd10code": "A66.1",
+    "type": "subcategory",
+    "title": "Multiple papillomata and wet crab yaws",
+    "chapter": "Certain infectious and parasitic diseases",
+    "chapterCode": "I",
+    "block": "Other spirochaetal diseases",
+    "blockCode": "A65-A69",
+    "category": "Yaws",
+    "categoryCode": "A66",
+    "subcategory": "A66.1",
+    "inclusion": [
+        "diseases generally recognized as communicable or transmissible",
+        "bouba",
+        "framboesia (tropica)",
+        "pian",
+        "Framboesioma",
+        "Pianoma",
+        "Plantar or palmar papilloma of yaws"
+    ],
+    "exclusion": [
+        "carrier or suspected carrier of infectious disease",
+        "certain localized infections - see body system-related chapters",
+        "infectious and parasitic diseases complicating pregnancy, childbirth and the puerperium [except obstetrical tetanus]",
+        "infectious and parasitic diseases specific to the perinatal period [except tetanus neonatorum, whooping cough, congenital syphilis, perinatal gonococcal infection and perinatal human immunodeficiency virus [HIV] disease]",
+        "influenza and other acute respiratory infections",
+        "erythrasma",
+        "endotoxic shock NOS"
+    ],
+    "symptoms": [
+        "skin ulcers",
+        "painful swollen lymph nodes",
+        "fever",
+        "fatigue",
+        "secondary bacterial infections"
+    ]
+}

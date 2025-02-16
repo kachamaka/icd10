@@ -1,0 +1,26 @@
+{
+  "type": "category",
+  "chapterCode": "XX",
+  "chapter": "External causes of morbidity and mortality",
+  "blockCode": "Y10-Y34",
+  "block": "Event of undetermined intent",
+  "categoryCode": "Y14",
+  "category": "Poisoning by and exposure to other and unspecified drugs, medicaments and biological substances, undetermined intent",
+  "subcategory": "",
+  "title": "Poisoning by and exposure to other and unspecified drugs, medicaments and biological substances, undetermined intent",
+  "inclusion": [
+    "agents primarily acting on smooth and skeletal muscles and the respiratory system",
+    "anaesthetics (general)(local)",
+    "drugs affecting the: cardiovascular system",
+    "drugs affecting the: gastrointestinal system",
+    "hormones and synthetic substitutes",
+    "systemic and haematological agents",
+    "systemic antibiotics and other anti-infectives",
+    "therapeutic gases",
+    "topical preparations",
+    "vaccines",
+    "water-balance agents and drugs affecting mineral and uric acid metabolism"
+  ],
+  "exclusion": null,
+  "children": null
+}

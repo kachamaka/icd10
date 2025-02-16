@@ -1,0 +1,36 @@
+{
+    "icd10code": "O26.8",
+    "type": "subcategory",
+    "title": "Other specified pregnancy-related conditions",
+    "chapter": "Pregnancy, childbirth and the puerperium",
+    "chapterCode": "XV",
+    "block": "Other maternal disorders predominantly related to pregnancy",
+    "blockCode": "O20-O29",
+    "category": "Maternal care for other conditions predominantly related to pregnancy",
+    "categoryCode": "O26",
+    "subcategory": "O26.8",
+    "inclusion": [
+        "Exhaustion and fatigue pregnancy-related",
+        "Peripheral neuritis pregnancy-related",
+        "Renal disease pregnancy-related"
+    ],
+    "exclusion": [
+        "Certain diseases or injuries complicating pregnancy, childbirth and the puerperium classified elsewhere: external causes (for mortality)",
+        "Certain diseases or injuries complicating pregnancy, childbirth and the puerperium classified elsewhere: injury, poisoning and certain other consequences of external cause",
+        "Certain diseases or injuries complicating pregnancy, childbirth and the puerperium classified elsewhere: mental and behavioural disorders associated with the puerperium",
+        "Certain diseases or injuries complicating pregnancy, childbirth and the puerperium classified elsewhere: obstetrical tetanus",
+        "Certain diseases or injuries complicating pregnancy, childbirth and the puerperium classified elsewhere: postpartum necrosis of pituitary gland",
+        "Certain diseases or injuries complicating pregnancy, childbirth and the puerperium classified elsewhere: puerperal osteomalacia",
+        "supervision of: high-risk pregnancy",
+        "supervision of: normal pregnancy",
+        "maternal: care related to the fetus and amniotic cavity and possible delivery problems",
+        "maternal: diseases classifiable elsewhere but complicating pregnancy, labour and delivery, and the puerperium"
+    ],
+    "symptoms": [
+        "swelling",
+        "fatigue",
+        "back pain",
+        "varicose veins",
+        "leg cramps"
+    ]
+}

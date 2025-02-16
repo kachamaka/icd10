@@ -1,0 +1,23 @@
+{
+    "icd10code": "C77.9",
+    "type": "subcategory",
+    "title": "Secondary and unspecified malignant neoplasm: Lymph node, unspecified",
+    "chapter": "Neoplasms",
+    "chapterCode": "II",
+    "block": "Malignant neoplasms of ill-defined, secondary and unspecified sites",
+    "blockCode": "C76-C80",
+    "category": "Secondary and unspecified malignant neoplasm of lymph nodes",
+    "categoryCode": "C77",
+    "subcategory": "C77.9",
+    "inclusion": null,
+    "exclusion": [
+        "malignant neoplasm of lymph nodes, specified as primary"
+    ],
+    "symptoms": [
+        "swelling in the neck or armpit",
+        "unexplained weight loss",
+        "excessive night sweats",
+        "constant fatigue",
+        "and persistent fever"
+    ]
+}

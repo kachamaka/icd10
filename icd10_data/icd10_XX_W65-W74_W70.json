@@ -1,0 +1,18 @@
+{
+  "type": "category",
+  "chapterCode": "XX",
+  "chapter": "External causes of morbidity and mortality",
+  "blockCode": "W65-W74",
+  "block": "Accidental drowning and submersion",
+  "categoryCode": "W70",
+  "category": "Drowning and submersion following fall into natural water",
+  "subcategory": "",
+  "title": "Drowning and submersion following fall into natural water",
+  "inclusion": null,
+  "exclusion": [
+    "drowning and submersion due to: cataclysm",
+    "drowning and submersion due to: transport accidents",
+    "drowning and submersion due to: water transport accident"
+  ],
+  "children": null
+}

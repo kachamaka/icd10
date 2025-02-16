@@ -1,0 +1,52 @@
+{
+    "icd10code": "N18.5",
+    "type": "subcategory",
+    "title": "Chronic kidney disease, stage 5",
+    "chapter": "Diseases of the genitourinary system",
+    "chapterCode": "XIV",
+    "block": "Renal failure",
+    "blockCode": "N17-N19",
+    "category": "Chronic kidney disease",
+    "categoryCode": "N18",
+    "subcategory": "N18.5",
+    "inclusion": [
+        "chronic renal failure",
+        "End stage kidney disease: in allograft failure",
+        "End stage kidney disease: NOS",
+        "End stage kidney disease: on dialysis",
+        "End stage kidney disease: without dialysis or transplant",
+        "Renal retinitis",
+        "Uraemic: apoplexia",
+        "Uraemic: dementia",
+        "Uraemic: neuropathy",
+        "Uraemic: paralysis",
+        "Uraemic: pericarditis"
+    ],
+    "exclusion": [
+        "certain conditions originating in the perinatal period",
+        "certain infectious and parasitic diseases",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "congenital renal failure",
+        "drug- and heavy-metal-induced tubulo-interstitial and tubular conditions",
+        "extrarenal uraemia",
+        "haemolytic-uraemic syndrome",
+        "hepatorenal syndrome",
+        "hepatorenal syndrome postpartum",
+        "prerenal uraemia",
+        "renal failure: complicating abortion or ectopic or molar pregnancy",
+        "renal failure: following labour and delivery",
+        "renal failure: postprocedural"
+    ],
+    "symptoms": [
+        "fatigue",
+        "swelling in the legs",
+        "decreased urine output",
+        "shortness of breath",
+        "nausea"
+    ]
+}

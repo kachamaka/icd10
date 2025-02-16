@@ -1,0 +1,37 @@
+{
+    "icd10code": "I25.3",
+    "type": "subcategory",
+    "title": "Aneurysm of heart",
+    "chapter": "Diseases of the circulatory system",
+    "chapterCode": "IX",
+    "block": "Ischaemic heart diseases",
+    "blockCode": "I20-I25",
+    "category": "Chronic ischaemic heart disease",
+    "categoryCode": "I25",
+    "subcategory": "I25.3",
+    "inclusion": [
+        "with mention of hypertension",
+        "Aneurysm: mural",
+        "Aneurysm: ventricular"
+    ],
+    "exclusion": [
+        "certain conditions originating in the perinatal period",
+        "certain infectious and parasitic diseases",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "systemic connective tissue disorders",
+        "transient cerebral ischaemic attacks and related syndromes",
+        "Eisenmenger defect"
+    ],
+    "symptoms": [
+        "chest pain",
+        "shortness of breath",
+        "fatigue",
+        "irregular heartbeat",
+        "swelling in the legs or feet"
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "icd10code": "S43.0",
+    "type": "subcategory",
+    "title": "Dislocation of shoulder joint",
+    "chapter": "Injury, poisoning and certain other consequences of external causes",
+    "chapterCode": "XIX",
+    "block": "Injuries to the shoulder and upper arm",
+    "blockCode": "S40-S49",
+    "category": "Dislocation, sprain and strain of joints and ligaments of shoulder girdle",
+    "categoryCode": "S43",
+    "subcategory": "S43.0",
+    "inclusion": [
+        "injuries of: axilla",
+        "injuries of: scapular region",
+        "Glenohumeral joint"
+    ],
+    "exclusion": [
+        "birth trauma",
+        "obstetric trauma",
+        "malunion of fracture",
+        "nonunion of fracture [pseudarthrosis]",
+        "pathological fracture",
+        "pathological fracture with osteoporosis",
+        "stress fracture",
+        "bilateral involvement of shoulder and upper arm",
+        "burns and corrosions",
+        "frostbite",
+        "injuries of: arm, level unspecified",
+        "injuries of: elbow",
+        "insect bite or sting, venomous"
+    ],
+    "symptoms": [
+        "shoulder pain",
+        "limited range of motion",
+        "swelling",
+        "shoulder instability",
+        "difficulty lifting arm"
+    ]
+}

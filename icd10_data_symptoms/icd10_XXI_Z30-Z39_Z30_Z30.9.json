@@ -1,0 +1,17 @@
+{
+    "icd10code": "Z30.9",
+    "type": "subcategory",
+    "title": "Contraceptive management, unspecified",
+    "chapter": "Factors influencing health status and contact with health services",
+    "chapterCode": "XXI",
+    "block": "Persons encountering health services in circumstances related to reproduction",
+    "blockCode": "Z30-Z39",
+    "category": "Contraceptive management",
+    "categoryCode": "Z30",
+    "subcategory": "Z30.9",
+    "inclusion": null,
+    "exclusion": null,
+    "symptoms": [
+        "asymptomatic"
+    ]
+}

@@ -1,0 +1,14 @@
+{
+  "type": "category",
+  "chapterCode": "XX",
+  "chapter": "External causes of morbidity and mortality",
+  "blockCode": "X30-X39",
+  "block": "Exposure to forces of nature",
+  "categoryCode": "X35",
+  "category": "Victim of volcanic eruption",
+  "subcategory": "",
+  "title": "Victim of volcanic eruption",
+  "inclusion": null,
+  "exclusion": null,
+  "children": null
+}

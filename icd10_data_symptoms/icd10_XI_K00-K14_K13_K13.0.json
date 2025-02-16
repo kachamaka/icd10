@@ -1,0 +1,47 @@
+{
+    "icd10code": "K13.0",
+    "type": "subcategory",
+    "title": "Diseases of lips",
+    "chapter": "Diseases of the digestive system",
+    "chapterCode": "XI",
+    "block": "Diseases of oral cavity, salivary glands and jaws",
+    "blockCode": "K00-K14",
+    "category": "Other diseases of lip and oral mucosa",
+    "categoryCode": "K13",
+    "subcategory": "K13.0",
+    "inclusion": [
+        "epithelial disturbances of tongue",
+        "Cheilitis: NOS",
+        "Cheilitis: angular",
+        "Cheilitis: exfoliative",
+        "Cheilitis: glandular",
+        "Cheilodynia",
+        "Cheilosis",
+        "Perlèche NEC"
+    ],
+    "exclusion": [
+        "certain conditions originating in the perinatal period",
+        "certain infectious and parasitic diseases",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "certain disorders of gingiva and edentulous alveolar ridge",
+        "cysts of oral region",
+        "diseases of tongue",
+        "stomatitis and related lesions",
+        "ariboflavinosis",
+        "cheilitis due to radiation-related disorders",
+        "perlèche due to: candidiasis",
+        "perlèche due to: riboflavin deficiency"
+    ],
+    "symptoms": [
+        "mouth ulcers",
+        "pain in oral mucosa",
+        "redness in oral tissue",
+        "difficulty eating",
+        "swollen oral mucosa"
+    ]
+}

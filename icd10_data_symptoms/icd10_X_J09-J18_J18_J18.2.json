@@ -1,0 +1,43 @@
+{
+    "icd10code": "J18.2",
+    "type": "subcategory",
+    "title": "Hypostatic pneumonia, unspecified",
+    "chapter": "Diseases of the respiratory system",
+    "chapterCode": "X",
+    "block": "Influenza and pneumonia",
+    "blockCode": "J09-J18",
+    "category": "Pneumonia, organism unspecified",
+    "categoryCode": "J18",
+    "subcategory": "J18.2",
+    "inclusion": null,
+    "exclusion": [
+        "certain conditions originating in the perinatal period",
+        "certain infectious and parasitic diseases",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "abscess of lung with pneumonia",
+        "drug-induced interstitial lung disorders",
+        "pneumonia: aspiration (due to): NOS",
+        "pneumonia: aspiration (due to): anaesthesia during: labour and delivery",
+        "pneumonia: aspiration (due to): anaesthesia during: pregnancy",
+        "pneumonia: aspiration (due to): anaesthesia during: puerperium",
+        "pneumonia: neonatal",
+        "pneumonia: solids and liquids",
+        "pneumonia: congenital",
+        "pneumonia: interstitial NOS",
+        "pneumonia: lipid",
+        "pneumonia: usual interstitial",
+        "pneumonitis, due to external agents"
+    ],
+    "symptoms": [
+        "cough",
+        "fever",
+        "shortness of breath",
+        "chest pain",
+        "fatigue"
+    ]
+}

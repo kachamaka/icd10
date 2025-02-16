@@ -1,0 +1,25 @@
+{
+    "icd10code": "F66.1",
+    "type": "subcategory",
+    "title": "Egodystonic sexual orientation",
+    "chapter": "Mental and behavioural disorders",
+    "chapterCode": "V",
+    "block": "Disorders of adult personality and behaviour",
+    "blockCode": "F60-F69",
+    "category": "Psychological and behavioural disorders associated with sexual development and orientation",
+    "categoryCode": "F66",
+    "subcategory": "F66.1",
+    "inclusion": [
+        "disorders of psychological development"
+    ],
+    "exclusion": [
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified"
+    ],
+    "symptoms": [
+        "distress about sexual orientation",
+        "anxiety",
+        "depression",
+        "social withdrawal",
+        "difficulty in relationships"
+    ]
+}

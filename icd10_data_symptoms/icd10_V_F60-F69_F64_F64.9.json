@@ -1,0 +1,26 @@
+{
+    "icd10code": "F64.9",
+    "type": "subcategory",
+    "title": "Gender identity disorder, unspecified",
+    "chapter": "Mental and behavioural disorders",
+    "chapterCode": "V",
+    "block": "Disorders of adult personality and behaviour",
+    "blockCode": "F60-F69",
+    "category": "Gender identity disorders",
+    "categoryCode": "F64",
+    "subcategory": "F64.9",
+    "inclusion": [
+        "disorders of psychological development",
+        "Gender-role disorder NOS"
+    ],
+    "exclusion": [
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified"
+    ],
+    "symptoms": [
+        "distress",
+        "anxiety",
+        "depression",
+        "dissatisfaction",
+        "identity confusion"
+    ]
+}

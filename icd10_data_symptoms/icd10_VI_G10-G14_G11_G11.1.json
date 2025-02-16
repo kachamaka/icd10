@@ -1,0 +1,39 @@
+{
+    "icd10code": "G11.1",
+    "type": "subcategory",
+    "title": "Early-onset cerebellar ataxia",
+    "chapter": "Diseases of the nervous system",
+    "chapterCode": "VI",
+    "block": "Systemic atrophies primarily affecting the central nervous system",
+    "blockCode": "G10-G14",
+    "category": "Hereditary ataxia",
+    "categoryCode": "G11",
+    "subcategory": "G11.1",
+    "inclusion": [
+        "Early-onset cerebellar ataxia with: essential tremor",
+        "Early-onset cerebellar ataxia with: myoclonus [Hunt ataxia]",
+        "Early-onset cerebellar ataxia with: retained tendon reflexes",
+        "Friedreich ataxia (autosomal recessive)",
+        "X-linked recessive spinocerebellar ataxia"
+    ],
+    "exclusion": [
+        "certain conditions originating in the perinatal period",
+        "certain infectious and parasitic diseases",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "cerebral palsy",
+        "hereditary and idiopathic neuropathy",
+        "metabolic disorders"
+    ],
+    "symptoms": [
+        "gait ataxia",
+        "dysarthria",
+        "dysmetria",
+        "tremor",
+        "decreased reflexes"
+    ]
+}

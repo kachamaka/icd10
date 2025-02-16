@@ -1,0 +1,23 @@
+{
+    "icd10code": "C63.2",
+    "type": "subcategory",
+    "title": "Malignant neoplasm: Scrotum",
+    "chapter": "Neoplasms",
+    "chapterCode": "II",
+    "block": "Malignant neoplasms of male genital organs",
+    "blockCode": "C60-C63",
+    "category": "Malignant neoplasm of other and unspecified male genital organs",
+    "categoryCode": "C63",
+    "subcategory": "C63.2",
+    "inclusion": [
+        "skin of male genital organs",
+        "Skin of scrotum"
+    ],
+    "exclusion": null,
+    "symptoms": [
+        "painless swelling in the testicles",
+        "lower abdominal pain",
+        "gynecomastia (breast growth in men)",
+        "lumps in testicles,"
+    ]
+}

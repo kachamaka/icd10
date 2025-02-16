@@ -1,0 +1,26 @@
+{
+    "icd10code": "C43.7",
+    "type": "subcategory",
+    "title": "Malignant neoplasm: Malignant melanoma of lower limb, including hip",
+    "chapter": "Neoplasms",
+    "chapterCode": "II",
+    "block": "Melanoma and other malignant neoplasms of skin",
+    "blockCode": "C43-C44",
+    "category": "Malignant melanoma of skin",
+    "categoryCode": "C43",
+    "subcategory": "C43.7",
+    "inclusion": [
+        "morphology codes M872-M879 with behaviour code /3"
+    ],
+    "exclusion": [
+        "malignant melanoma of skin of genital organs"
+    ],
+    "symptoms": [
+        "change in size",
+        "shape",
+        "or color of a mole",
+        "itching or pain in the mole",
+        "skin lesion with irregular borders",
+        "unexplained bleeding or"
+    ]
+}

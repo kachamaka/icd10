@@ -1,0 +1,25 @@
+{
+    "icd10code": "Q67.2",
+    "type": "subcategory",
+    "title": "Dolichocephaly",
+    "chapter": "Congenital malformations, deformations and chromosomal abnormalities",
+    "chapterCode": "XVII",
+    "block": "Congenital malformations and deformations of the musculoskeletal system",
+    "blockCode": "Q65-Q79",
+    "category": "Congenital musculoskeletal deformities of head, face, spine and chest",
+    "categoryCode": "Q67",
+    "subcategory": "Q67.2",
+    "inclusion": null,
+    "exclusion": [
+        "inborn errors of metabolism",
+        "congenital malformation syndromes classified to Q87.-",
+        "Potter syndrome"
+    ],
+    "symptoms": [
+        "asymmetrical skull shape",
+        "craniofacial asymmetry",
+        "uneven ear positioning",
+        "facial misalignment",
+        "uneven jaw structure"
+    ]
+}

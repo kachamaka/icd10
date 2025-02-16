@@ -1,0 +1,28 @@
+{
+    "icd10code": "Q84.1",
+    "type": "subcategory",
+    "title": "Congenital morphological disturbances of hair, not elsewhere classified",
+    "chapter": "Congenital malformations, deformations and chromosomal abnormalities",
+    "chapterCode": "XVII",
+    "block": "Other congenital malformations",
+    "blockCode": "Q80-Q89",
+    "category": "Other congenital malformations of integument",
+    "categoryCode": "Q84",
+    "subcategory": "Q84.1",
+    "inclusion": [
+        "Beaded hair",
+        "Monilethrix",
+        "Pili annulati"
+    ],
+    "exclusion": [
+        "inborn errors of metabolism",
+        "Menkes kinky hair syndrome"
+    ],
+    "symptoms": [
+        "abnormal hair texture",
+        "sparse scalp hair",
+        "brittle hair",
+        "slow hair growth",
+        "patchy alopecia"
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "icd10code": "Z25.1",
+    "type": "subcategory",
+    "title": "Need for immunization against influenza",
+    "chapter": "Factors influencing health status and contact with health services",
+    "chapterCode": "XXI",
+    "block": "Persons with potential health hazards related to communicable diseases",
+    "blockCode": "Z20-Z29",
+    "category": "Need for immunization against other single viral diseases",
+    "categoryCode": "Z25",
+    "subcategory": "Z25.1",
+    "inclusion": null,
+    "exclusion": [
+        "immunization: against combinations of diseases",
+        "immunization: not carried out"
+    ],
+    "symptoms": [
+        "asymptomatic"
+    ]
+}

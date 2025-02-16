@@ -1,0 +1,29 @@
+{
+    "icd10code": "F50.9",
+    "type": "subcategory",
+    "title": "Eating disorder, unspecified",
+    "chapter": "Mental and behavioural disorders",
+    "chapterCode": "V",
+    "block": "Behavioural syndromes associated with physiological disturbances and physical factors",
+    "blockCode": "F50-F59",
+    "category": "Eating disorders",
+    "categoryCode": "F50",
+    "subcategory": "F50.9",
+    "inclusion": [
+        "disorders of psychological development"
+    ],
+    "exclusion": [
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "anorexia NOS",
+        "feeding: difficulties and mismanagement",
+        "feeding: disorder of infancy or childhood",
+        "polyphagia"
+    ],
+    "symptoms": [
+        "preoccupation with weight",
+        "distorted body image",
+        "fear of gaining weight",
+        "restrictive eating",
+        "bingeing"
+    ]
+}

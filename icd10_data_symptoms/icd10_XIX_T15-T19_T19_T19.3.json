@@ -1,0 +1,35 @@
+{
+    "icd10code": "T19.3",
+    "type": "subcategory",
+    "title": "Foreign body in uterus [any part]",
+    "chapter": "Injury, poisoning and certain other consequences of external causes",
+    "chapterCode": "XIX",
+    "block": "Effects of foreign body entering through natural orifice",
+    "blockCode": "T15-T19",
+    "category": "Foreign body in genitourinary tract",
+    "categoryCode": "T19",
+    "subcategory": "T19.3",
+    "inclusion": null,
+    "exclusion": [
+        "birth trauma",
+        "obstetric trauma",
+        "malunion of fracture",
+        "nonunion of fracture [pseudarthrosis]",
+        "pathological fracture",
+        "pathological fracture with osteoporosis",
+        "stress fracture",
+        "foreign body: accidentally left in operation wound",
+        "foreign body: in puncture wound - see open wound by body region",
+        "foreign body: residual, in soft tissue",
+        "splinter, without major open wound - see superficial injury by body region",
+        "foreign body in pharynx",
+        "contraceptive device (intrauterine)(vaginal): presence of"
+    ],
+    "symptoms": [
+        "abdominal pain",
+        "diarrhea",
+        "nausea",
+        "vomiting",
+        "rectal bleeding"
+    ]
+}

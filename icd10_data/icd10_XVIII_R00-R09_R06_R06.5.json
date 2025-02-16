@@ -1,0 +1,25 @@
+{
+  "type": "subcategory",
+  "chapterCode": "XVIII",
+  "chapter": "Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+  "blockCode": "R00-R09",
+  "block": "Symptoms and signs involving the circulatory and respiratory systems",
+  "categoryCode": "R06",
+  "category": "Abnormalities of breathing",
+  "subcategory": "R06.5",
+  "title": "Mouth breathing",
+  "inclusion": [
+    "Snoring"
+  ],
+  "exclusion": [
+    "abnormal findings on antenatal screening of mother",
+    "certain conditions originating in the perinatal period",
+    "respiratory: arrest",
+    "respiratory: distress: syndrome of adult",
+    "respiratory: distress: in newborn",
+    "respiratory: failure",
+    "respiratory: failure of newborn",
+    "dry mouth NOS"
+  ],
+  "children": null
+}

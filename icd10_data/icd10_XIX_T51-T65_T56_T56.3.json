@@ -1,0 +1,30 @@
+{
+  "type": "subcategory",
+  "chapterCode": "XIX",
+  "chapter": "Injury, poisoning and certain other consequences of external causes",
+  "blockCode": "T51-T65",
+  "block": "Toxic effects of substances chiefly nonmedicinal as to source",
+  "categoryCode": "T56",
+  "category": "Toxic effect of metals",
+  "subcategory": "T56.3",
+  "title": "Toxic effect: Cadmium and its compounds",
+  "inclusion": [
+    "fumes and vapours of metals",
+    "metals from all sources, except medicinal substances"
+  ],
+  "exclusion": [
+    "birth trauma",
+    "obstetric trauma",
+    "malunion of fracture",
+    "nonunion of fracture [pseudarthrosis]",
+    "pathological fracture",
+    "pathological fracture with osteoporosis",
+    "stress fracture",
+    "corrosions",
+    "localized toxic effects classified elsewhere",
+    "respiratory conditions due to external agents",
+    "organophosphate insecticides",
+    "homologues of benzene"
+  ],
+  "children": null
+}

@@ -1,0 +1,32 @@
+{
+  "type": "subcategory",
+  "chapterCode": "XV",
+  "chapter": "Pregnancy, childbirth and the puerperium",
+  "blockCode": "O30-O48",
+  "block": "Maternal care related to the fetus and amniotic cavity and possible delivery problems",
+  "categoryCode": "O46",
+  "category": "Antepartum haemorrhage, not elsewhere classified",
+  "subcategory": "O46.0",
+  "title": "Antepartum haemorrhage with coagulation defect",
+  "inclusion": [
+    "Antepartum haemorrhage (excessive) associated with: afibrinogenaemia",
+    "Antepartum haemorrhage (excessive) associated with: disseminated intravascular coagulation",
+    "Antepartum haemorrhage (excessive) associated with: hyperfibrinolysis",
+    "Antepartum haemorrhage (excessive) associated with: hypofibrinogenaemia"
+  ],
+  "exclusion": [
+    "Certain diseases or injuries complicating pregnancy, childbirth and the puerperium classified elsewhere: external causes (for mortality)",
+    "Certain diseases or injuries complicating pregnancy, childbirth and the puerperium classified elsewhere: injury, poisoning and certain other consequences of external cause",
+    "Certain diseases or injuries complicating pregnancy, childbirth and the puerperium classified elsewhere: mental and behavioural disorders associated with the puerperium",
+    "Certain diseases or injuries complicating pregnancy, childbirth and the puerperium classified elsewhere: obstetrical tetanus",
+    "Certain diseases or injuries complicating pregnancy, childbirth and the puerperium classified elsewhere: postpartum necrosis of pituitary gland",
+    "Certain diseases or injuries complicating pregnancy, childbirth and the puerperium classified elsewhere: puerperal osteomalacia",
+    "supervision of: high-risk pregnancy",
+    "supervision of: normal pregnancy",
+    "haemorrhage in early pregnancy",
+    "intrapartum haemorrhage NEC",
+    "placenta praevia",
+    "premature separation of placenta [abruptio placentae]"
+  ],
+  "children": null
+}

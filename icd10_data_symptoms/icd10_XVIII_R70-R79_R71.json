@@ -1,0 +1,42 @@
+{
+    "icd10code": "R71",
+    "type": "category",
+    "title": "Abnormality of red blood cells",
+    "chapter": "Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+    "chapterCode": "XVIII",
+    "block": "Abnormal findings on examination of blood, without diagnosis",
+    "blockCode": "R70-R79",
+    "category": "Abnormality of red blood cells",
+    "categoryCode": "R71",
+    "subcategory": "",
+    "inclusion": [
+        "Abnormal red-cell: morphology NOS",
+        "Abnormal red-cell: volume NOS",
+        "Anisocytosis",
+        "Poikilocytosis"
+    ],
+    "exclusion": [
+        "abnormal findings on antenatal screening of mother",
+        "certain conditions originating in the perinatal period",
+        "abnormalities (of)(on): antenatal screening of mother",
+        "abnormalities (of)(on): coagulation",
+        "abnormalities (of)(on): lipids",
+        "abnormalities (of)(on): platelets and thrombocytes",
+        "abnormalities (of)(on): white blood cells classified elsewhere",
+        "diagnostic abnormal findings classified elsewhere - see Alphabetical Index",
+        "haemorrhagic and haematological disorders of fetus and newborn",
+        "anaemias",
+        "polycythaemia: NOS",
+        "polycythaemia: benign (familial)",
+        "polycythaemia: neonatorum",
+        "polycythaemia: secondary",
+        "polycythaemia: vera"
+    ],
+    "symptoms": [
+        "abnormal bruising",
+        "prolonged bleeding",
+        "frequent nosebleeds",
+        "excessive menstrual bleeding",
+        "unexplained petechiae"
+    ]
+}

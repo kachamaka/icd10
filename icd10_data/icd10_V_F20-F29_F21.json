@@ -1,0 +1,28 @@
+{
+  "type": "category",
+  "chapterCode": "V",
+  "chapter": "Mental and behavioural disorders",
+  "blockCode": "F20-F29",
+  "block": "Schizophrenia, schizotypal and delusional disorders",
+  "categoryCode": "F21",
+  "category": "Schizotypal disorder",
+  "subcategory": "",
+  "title": "Schizotypal disorder",
+  "inclusion": [
+    "disorders of psychological development",
+    "Latent schizophrenic reaction",
+    "Schizophrenia: borderline",
+    "Schizophrenia: latent",
+    "Schizophrenia: prepsychotic",
+    "Schizophrenia: prodromal",
+    "Schizophrenia: pseudoneurotic",
+    "Schizophrenia: pseudopsychopathic",
+    "Schizotypal personality disorder"
+  ],
+  "exclusion": [
+    "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+    "Asperger syndrome",
+    "schizoid personality disorder"
+  ],
+  "children": null
+}

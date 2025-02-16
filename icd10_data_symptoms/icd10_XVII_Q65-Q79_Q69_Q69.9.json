@@ -1,0 +1,25 @@
+{
+    "icd10code": "Q69.9",
+    "type": "subcategory",
+    "title": "Polydactyly, unspecified",
+    "chapter": "Congenital malformations, deformations and chromosomal abnormalities",
+    "chapterCode": "XVII",
+    "block": "Congenital malformations and deformations of the musculoskeletal system",
+    "blockCode": "Q65-Q79",
+    "category": "Polydactyly",
+    "categoryCode": "Q69",
+    "subcategory": "Q69.9",
+    "inclusion": [
+        "Supernumerary digit(s) NOS"
+    ],
+    "exclusion": [
+        "inborn errors of metabolism"
+    ],
+    "symptoms": [
+        "absent or underdeveloped fingers",
+        "fused digits",
+        "abnormal finger length",
+        "limited hand mobility",
+        "hand deformity"
+    ]
+}

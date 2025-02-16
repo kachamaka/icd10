@@ -1,0 +1,23 @@
+{
+    "icd10code": "Y06.0",
+    "type": "subcategory",
+    "title": "By spouse or partner",
+    "chapter": "External causes of morbidity and mortality",
+    "chapterCode": "XX",
+    "block": "Assault",
+    "blockCode": "X85-Y09",
+    "category": "Neglect and abandonment",
+    "categoryCode": "Y06",
+    "subcategory": "Y06.0",
+    "inclusion": [
+        "homicide",
+        "injuries inflicted by another person with intent to injure or kill, by any means"
+    ],
+    "exclusion": [
+        "injuries due to: legal intervention",
+        "injuries due to: operations of war"
+    ],
+    "symptoms": [
+        "asymptomatic"
+    ]
+}

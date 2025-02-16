@@ -1,0 +1,31 @@
+{
+    "icd10code": "F90.9",
+    "type": "subcategory",
+    "title": "Hyperkinetic disorder, unspecified",
+    "chapter": "Mental and behavioural disorders",
+    "chapterCode": "V",
+    "block": "Behavioural and emotional disorders with onset usually occurring in childhood and adolescence",
+    "blockCode": "F90-F98",
+    "category": "Hyperkinetic disorders",
+    "categoryCode": "F90",
+    "subcategory": "F90.9",
+    "inclusion": [
+        "disorders of psychological development",
+        "Hyperkinetic reaction of childhood or adolescence NOS",
+        "Hyperkinetic syndrome NOS"
+    ],
+    "exclusion": [
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "anxiety disorders",
+        "mood [affective] disorders",
+        "pervasive developmental disorders",
+        "schizophrenia"
+    ],
+    "symptoms": [
+        "impulsiveness",
+        "inattention",
+        "hyperactivity",
+        "difficulty organizing tasks",
+        "forgetfulness"
+    ]
+}

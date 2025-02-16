@@ -1,0 +1,26 @@
+{
+    "icd10code": "X21",
+    "type": "category",
+    "title": "Contact with venomous spiders",
+    "chapter": "External causes of morbidity and mortality",
+    "chapterCode": "XX",
+    "block": "Contact with venomous animals and plants",
+    "blockCode": "X20-X29",
+    "category": "Contact with venomous spiders",
+    "categoryCode": "X21",
+    "subcategory": "",
+    "inclusion": [
+        "chemical released by: animal",
+        "chemical released by: insect",
+        "release of venom through fangs, hairs, spines, tentacles and other venom apparatus",
+        "venomous bites and stings",
+        "black widow spider",
+        "tarantula"
+    ],
+    "exclusion": [
+        "ingestion of poisonous animals or plants"
+    ],
+    "symptoms": [
+        "asymptomatic"
+    ]
+}

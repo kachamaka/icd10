@@ -1,0 +1,29 @@
+{
+    "icd10code": "Q89.4",
+    "type": "subcategory",
+    "title": "Conjoined twins",
+    "chapter": "Congenital malformations, deformations and chromosomal abnormalities",
+    "chapterCode": "XVII",
+    "block": "Other congenital malformations",
+    "blockCode": "Q80-Q89",
+    "category": "Other congenital malformations, not elsewhere classified",
+    "categoryCode": "Q89",
+    "subcategory": "Q89.4",
+    "inclusion": [
+        "Craniopagus",
+        "Dicephaly",
+        "Double monster",
+        "Pygopagus",
+        "Thoracopagus"
+    ],
+    "exclusion": [
+        "inborn errors of metabolism"
+    ],
+    "symptoms": [
+        "abnormal organ placement",
+        "situs inversus totalis",
+        "asymmetry in organ positioning",
+        "heterotaxy syndrome",
+        "disrupted embryological development"
+    ]
+}

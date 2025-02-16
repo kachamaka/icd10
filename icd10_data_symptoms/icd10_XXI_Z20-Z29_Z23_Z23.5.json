@@ -1,0 +1,24 @@
+{
+    "icd10code": "Z23.5",
+    "type": "subcategory",
+    "title": "Need for immunization against tetanus alone",
+    "chapter": "Factors influencing health status and contact with health services",
+    "chapterCode": "XXI",
+    "block": "Persons with potential health hazards related to communicable diseases",
+    "blockCode": "Z20-Z29",
+    "category": "Need for immunization against single bacterial diseases",
+    "categoryCode": "Z23",
+    "subcategory": "Z23.5",
+    "inclusion": null,
+    "exclusion": [
+        "immunization: against combinations of diseases",
+        "immunization: not carried out"
+    ],
+    "symptoms": [
+        "soreness",
+        "redness",
+        "mild swelling",
+        "low-grade fever",
+        "headache"
+    ]
+}

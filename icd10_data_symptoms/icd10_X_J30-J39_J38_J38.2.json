@@ -1,0 +1,39 @@
+{
+    "icd10code": "J38.2",
+    "type": "subcategory",
+    "title": "Nodules of vocal cords",
+    "chapter": "Diseases of the respiratory system",
+    "chapterCode": "X",
+    "block": "Other diseases of upper respiratory tract",
+    "blockCode": "J30-J39",
+    "category": "Diseases of vocal cords and larynx, not elsewhere classified",
+    "categoryCode": "J38",
+    "subcategory": "J38.2",
+    "inclusion": [
+        "Chorditis (fibrinous)(nodosa)(tuberosa)",
+        "Singer nodes",
+        "Teacher nodes"
+    ],
+    "exclusion": [
+        "certain conditions originating in the perinatal period",
+        "certain infectious and parasitic diseases",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "laryngitis: obstructive (acute)",
+        "laryngitis: ulcerative",
+        "postprocedural subglottic stenosis",
+        "stridor: congenital laryngeal NOS",
+        "stridor: NOS"
+    ],
+    "symptoms": [
+        "hoarseness",
+        "voice fatigue",
+        "weak voice",
+        "pitch changes",
+        "throat discomfort"
+    ]
+}

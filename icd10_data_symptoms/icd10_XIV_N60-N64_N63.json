@@ -1,0 +1,33 @@
+{
+    "icd10code": "N63",
+    "type": "category",
+    "title": "Unspecified lump in breast",
+    "chapter": "Diseases of the genitourinary system",
+    "chapterCode": "XIV",
+    "block": "Disorders of breast",
+    "blockCode": "N60-N64",
+    "category": "Unspecified lump in breast",
+    "categoryCode": "N63",
+    "subcategory": "",
+    "inclusion": [
+        "Nodule(s) NOS in breast"
+    ],
+    "exclusion": [
+        "certain conditions originating in the perinatal period",
+        "certain infectious and parasitic diseases",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "disorders of breast associated with childbirth"
+    ],
+    "symptoms": [
+        "lump in breast",
+        "breast pain",
+        "nipple discharge",
+        "skin changes",
+        "breast swelling"
+    ]
+}

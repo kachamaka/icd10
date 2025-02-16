@@ -1,0 +1,36 @@
+{
+    "icd10code": "H22.0",
+    "type": "subcategory",
+    "title": "Iridocyclitis in infectious and parasitic diseases classified elsewhere",
+    "chapter": "Diseases of the eye and adnexa",
+    "chapterCode": "VII",
+    "block": "Disorders of sclera, cornea, iris and ciliary body",
+    "blockCode": "H15-H22",
+    "category": "Disorders of iris and ciliary body in diseases classified elsewhere",
+    "categoryCode": "H22",
+    "subcategory": "H22.0",
+    "inclusion": [
+        "Iridocyclitis in: gonococcal infection",
+        "Iridocyclitis in: herpesviral [herpes simplex] infection",
+        "Iridocyclitis in: syphilis (secondary)",
+        "Iridocyclitis in: tuberculosis",
+        "Iridocyclitis in: zoster"
+    ],
+    "exclusion": [
+        "certain conditions originating in the perinatal period",
+        "certain infectious and parasitic diseases",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified"
+    ],
+    "symptoms": [
+        "red eye",
+        "tearing",
+        "eye pain",
+        "decreased vision",
+        "photophobia"
+    ]
+}

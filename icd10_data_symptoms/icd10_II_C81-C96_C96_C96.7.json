@@ -1,0 +1,23 @@
+{
+    "icd10code": "C96.7",
+    "type": "subcategory",
+    "title": "Other specified malignant neoplasms of lymphoid, haematopoietic and related tissue",
+    "chapter": "Neoplasms",
+    "chapterCode": "II",
+    "block": "Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",
+    "blockCode": "C81-C96",
+    "category": "Other and unspecified malignant neoplasms of lymphoid, haematopoietic and related tissue",
+    "categoryCode": "C96",
+    "subcategory": "C96.7",
+    "inclusion": null,
+    "exclusion": [
+        "secondary and unspecified neoplasm of lymph nodes"
+    ],
+    "symptoms": [
+        "unexplained weight loss",
+        "fever",
+        "loss of appetite",
+        "fatigue",
+        "pain or swelling in affected area"
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "icd10code": "D48.3",
+    "type": "subcategory",
+    "title": "Neoplasm of uncertain or unknown behaviour: Retroperitoneum",
+    "chapter": "Neoplasms",
+    "chapterCode": "II",
+    "block": "Neoplasms of uncertain or unknown behaviour",
+    "blockCode": "D37-D48",
+    "category": "Neoplasm of uncertain or unknown behaviour of other and unspecified sites",
+    "categoryCode": "D48",
+    "subcategory": "D48.3",
+    "inclusion": null,
+    "exclusion": [
+        "neurofibromatosis (nonmalignant)"
+    ],
+    "symptoms": [
+        "abnormal skin color changes",
+        "pain at the neoplasm site",
+        "lump or mass in the skin",
+        "skin redness"
+    ]
+}

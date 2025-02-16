@@ -1,0 +1,25 @@
+{
+    "icd10code": "Q86.2",
+    "type": "subcategory",
+    "title": "Dysmorphism due to warfarin",
+    "chapter": "Congenital malformations, deformations and chromosomal abnormalities",
+    "chapterCode": "XVII",
+    "block": "Other congenital malformations",
+    "blockCode": "Q80-Q89",
+    "category": "Congenital malformation syndromes due to known exogenous causes, not elsewhere classified",
+    "categoryCode": "Q86",
+    "subcategory": "Q86.2",
+    "inclusion": null,
+    "exclusion": [
+        "inborn errors of metabolism",
+        "iodine-deficiency-related hypothyroidism",
+        "nonteratogenic effects of substances transmitted via placenta or breast milk"
+    ],
+    "symptoms": [
+        "facial dysmorphism",
+        "intellectual disability",
+        "cleft palate",
+        "cardiac defects",
+        "limb anomalies"
+    ]
+}

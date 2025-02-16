@@ -1,0 +1,21 @@
+{
+  "type": "subcategory",
+  "chapterCode": "XXI",
+  "chapter": "Factors influencing health status and contact with health services",
+  "blockCode": "Z70-Z76",
+  "block": "Persons encountering health services in other circumstances",
+  "categoryCode": "Z70",
+  "category": "Counselling related to sexual attitude, behaviour and orientation",
+  "subcategory": "Z70.1",
+  "title": "Counselling related to patient's sexual behaviour and orientation",
+  "inclusion": [
+    "Patient concerned regarding: impotence",
+    "Patient concerned regarding: non-responsiveness",
+    "Patient concerned regarding: promiscuity",
+    "Patient concerned regarding: sexual orientation"
+  ],
+  "exclusion": [
+    "contraceptive or procreative counselling"
+  ],
+  "children": null
+}

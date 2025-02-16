@@ -1,0 +1,34 @@
+{
+    "icd10code": "K59.0",
+    "type": "subcategory",
+    "title": "Constipation",
+    "chapter": "Diseases of the digestive system",
+    "chapterCode": "XI",
+    "block": "Other diseases of intestines",
+    "blockCode": "K55-K64",
+    "category": "Other functional intestinal disorders",
+    "categoryCode": "K59",
+    "subcategory": "K59.0",
+    "inclusion": null,
+    "exclusion": [
+        "certain conditions originating in the perinatal period",
+        "certain infectious and parasitic diseases",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "change in bowel habit NOS",
+        "functional disorders of stomach",
+        "intestinal malabsorption",
+        "psychogenic intestinal disorders"
+    ],
+    "symptoms": [
+        "abdominal pain",
+        "bloating",
+        "constipation",
+        "difficulty passing stool",
+        "infrequent bowel movements"
+    ]
+}

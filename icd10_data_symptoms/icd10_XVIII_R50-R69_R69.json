@@ -1,0 +1,27 @@
+{
+    "icd10code": "R69",
+    "type": "category",
+    "title": "Unknown and unspecified causes of morbidity",
+    "chapter": "Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+    "chapterCode": "XVIII",
+    "block": "General symptoms and signs",
+    "blockCode": "R50-R69",
+    "category": "Unknown and unspecified causes of morbidity",
+    "categoryCode": "R69",
+    "subcategory": "",
+    "inclusion": [
+        "Illness NOS",
+        "Undiagnosed disease, not specified as to the site or system involved"
+    ],
+    "exclusion": [
+        "abnormal findings on antenatal screening of mother",
+        "certain conditions originating in the perinatal period"
+    ],
+    "symptoms": [
+        "fever",
+        "fatigue",
+        "weakness",
+        "malaise",
+        "nonspecific pain"
+    ]
+}

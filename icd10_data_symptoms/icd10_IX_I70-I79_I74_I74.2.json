@@ -1,0 +1,49 @@
+{
+    "icd10code": "I74.2",
+    "type": "subcategory",
+    "title": "Embolism and thrombosis of arteries of upper extremities",
+    "chapter": "Diseases of the circulatory system",
+    "chapterCode": "IX",
+    "block": "Diseases of arteries, arterioles and capillaries",
+    "blockCode": "I70-I79",
+    "category": "Arterial embolism and thrombosis",
+    "categoryCode": "I74",
+    "subcategory": "I74.2",
+    "inclusion": [
+        "infarction: embolic",
+        "infarction: thrombotic",
+        "occlusion: embolic",
+        "occlusion: thrombotic"
+    ],
+    "exclusion": [
+        "certain conditions originating in the perinatal period",
+        "certain infectious and parasitic diseases",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "systemic connective tissue disorders",
+        "transient cerebral ischaemic attacks and related syndromes",
+        "embolism and thrombosis: basilar",
+        "embolism and thrombosis: carotid",
+        "embolism and thrombosis: cerebral",
+        "embolism and thrombosis: complicating: abortion or ectopic or molar pregnancy",
+        "embolism and thrombosis: complicating: pregnancy, childbirth and the puerperium",
+        "embolism and thrombosis: coronary",
+        "embolism and thrombosis: mesenteric",
+        "embolism and thrombosis: precerebral",
+        "embolism and thrombosis: pulmonary",
+        "embolism and thrombosis: renal",
+        "embolism and thrombosis: retinal",
+        "embolism and thrombosis: vertebral"
+    ],
+    "symptoms": [
+        "leg pain",
+        "coldness or numbness in leg",
+        "muscle pain",
+        "pale or blue-colored skin",
+        "weak or absent leg pulse"
+    ]
+}

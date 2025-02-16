@@ -1,0 +1,25 @@
+{
+    "icd10code": "E02",
+    "type": "category",
+    "title": "Subclinical iodine-deficiency hypothyroidism",
+    "chapter": "Endocrine, nutritional and metabolic diseases",
+    "chapterCode": "IV",
+    "block": "Disorders of thyroid gland",
+    "blockCode": "E00-E07",
+    "category": "Subclinical iodine-deficiency hypothyroidism",
+    "categoryCode": "E02",
+    "subcategory": "",
+    "inclusion": null,
+    "exclusion": [
+        "complications of pregnancy, childbirth and the puerperium",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "transitory endocrine and metabolic disorders specific to fetus and newborn"
+    ],
+    "symptoms": [
+        "fatigue",
+        "weight gain",
+        "sensitivity to cold",
+        "constipation",
+        "dry skin"
+    ]
+}

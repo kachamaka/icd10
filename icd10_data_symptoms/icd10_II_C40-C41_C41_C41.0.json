@@ -1,0 +1,35 @@
+{
+    "icd10code": "C41.0",
+    "type": "subcategory",
+    "title": "Malignant neoplasm: Bones of skull and face",
+    "chapter": "Neoplasms",
+    "chapterCode": "II",
+    "block": "Malignant neoplasms of bone and articular cartilage",
+    "blockCode": "C40-C41",
+    "category": "Malignant neoplasm of bone and articular cartilage of other and unspecified sites",
+    "categoryCode": "C41",
+    "subcategory": "C41.0",
+    "inclusion": [
+        "Maxilla (superior)",
+        "Orbital bone"
+    ],
+    "exclusion": [
+        "bone marrow NOS",
+        "synovia",
+        "bones of limbs",
+        "cartilage of: ear",
+        "cartilage of: larynx",
+        "cartilage of: limbs",
+        "cartilage of: nose",
+        "carcinoma, any type except intraosseous or odontogenic of: maxillary sinus",
+        "carcinoma, any type except intraosseous or odontogenic of: upper jaw",
+        "jaw bone (lower)"
+    ],
+    "symptoms": [
+        "bone pain",
+        "swelling or tenderness",
+        "reduced mobility",
+        "fractures from minor injuries",
+        "visible deformities"
+    ]
+}

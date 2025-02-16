@@ -1,0 +1,16 @@
+{
+  "type": "subcategory",
+  "chapterCode": "II",
+  "chapter": "Neoplasms",
+  "blockCode": "C81-C96",
+  "block": "Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",
+  "categoryCode": "C96",
+  "category": "Other and unspecified malignant neoplasms of lymphoid, haematopoietic and related tissue",
+  "subcategory": "C96.7",
+  "title": "Other specified malignant neoplasms of lymphoid, haematopoietic and related tissue",
+  "inclusion": null,
+  "exclusion": [
+    "secondary and unspecified neoplasm of lymph nodes"
+  ],
+  "children": null
+}

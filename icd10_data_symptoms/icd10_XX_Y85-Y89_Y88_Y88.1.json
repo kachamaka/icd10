@@ -1,0 +1,17 @@
+{
+    "icd10code": "Y88.1",
+    "type": "subcategory",
+    "title": "Sequelae of misadventures to patients during surgical and medical procedures",
+    "chapter": "External causes of morbidity and mortality",
+    "chapterCode": "XX",
+    "block": "Sequelae of external causes of morbidity and mortality",
+    "blockCode": "Y85-Y89",
+    "category": "Sequelae with surgical and medical care as external cause",
+    "categoryCode": "Y88",
+    "subcategory": "Y88.1",
+    "inclusion": null,
+    "exclusion": null,
+    "symptoms": [
+        "asymptomatic"
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "icd10code": "Q31.0",
+    "type": "subcategory",
+    "title": "Web of larynx",
+    "chapter": "Congenital malformations, deformations and chromosomal abnormalities",
+    "chapterCode": "XVII",
+    "block": "Congenital malformations of the respiratory system",
+    "blockCode": "Q30-Q34",
+    "category": "Congenital malformations of larynx",
+    "categoryCode": "Q31",
+    "subcategory": "Q31.0",
+    "inclusion": [
+        "Web of larynx: NOS",
+        "Web of larynx: glottic",
+        "Web of larynx: subglottic"
+    ],
+    "exclusion": [
+        "inborn errors of metabolism",
+        "congenital (laryngeal) stridor NOS"
+    ],
+    "symptoms": [
+        "hoarseness",
+        "difficulty breathing",
+        "stridor",
+        "voice changes",
+        "noisy breathing"
+    ]
+}

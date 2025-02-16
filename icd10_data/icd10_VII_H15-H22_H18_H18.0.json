@@ -1,0 +1,28 @@
+{
+  "type": "subcategory",
+  "chapterCode": "VII",
+  "chapter": "Diseases of the eye and adnexa",
+  "blockCode": "H15-H22",
+  "block": "Disorders of sclera, cornea, iris and ciliary body",
+  "categoryCode": "H18",
+  "category": "Other disorders of cornea",
+  "subcategory": "H18.0",
+  "title": "Corneal pigmentations and deposits",
+  "inclusion": [
+    "Haematocornea",
+    "Kayser-Fleischer ring",
+    "Krukenberg spindle",
+    "Staehli line"
+  ],
+  "exclusion": [
+    "certain conditions originating in the perinatal period",
+    "certain infectious and parasitic diseases",
+    "complications of pregnancy, childbirth and the puerperium",
+    "congenital malformations, deformations and chromosomal abnormalities",
+    "endocrine, nutritional and metabolic diseases",
+    "injury, poisoning and certain other consequences of external causes",
+    "neoplasms",
+    "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified"
+  ],
+  "children": null
+}

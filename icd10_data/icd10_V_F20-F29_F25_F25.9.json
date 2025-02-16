@@ -1,0 +1,19 @@
+{
+  "type": "subcategory",
+  "chapterCode": "V",
+  "chapter": "Mental and behavioural disorders",
+  "blockCode": "F20-F29",
+  "block": "Schizophrenia, schizotypal and delusional disorders",
+  "categoryCode": "F25",
+  "category": "Schizoaffective disorders",
+  "subcategory": "F25.9",
+  "title": "Schizoaffective disorder, unspecified",
+  "inclusion": [
+    "disorders of psychological development",
+    "Schizoaffective psychosis NOS"
+  ],
+  "exclusion": [
+    "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified"
+  ],
+  "children": null
+}

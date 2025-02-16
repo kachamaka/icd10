@@ -1,0 +1,26 @@
+{
+    "icd10code": "D15.1",
+    "type": "subcategory",
+    "title": "Benign neoplasm: Heart",
+    "chapter": "Neoplasms",
+    "chapterCode": "II",
+    "block": "Benign neoplasms",
+    "blockCode": "D10-D36",
+    "category": "Benign neoplasm of other and unspecified intrathoracic organs",
+    "categoryCode": "D15",
+    "subcategory": "D15.1",
+    "inclusion": [
+        "morphology codes with behaviour code /0"
+    ],
+    "exclusion": [
+        "mesothelial tissue",
+        "great vessels"
+    ],
+    "symptoms": [
+        "cough",
+        "chest pain",
+        "weight loss",
+        "shortness of breath",
+        "fatigue"
+    ]
+}

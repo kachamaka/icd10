@@ -1,0 +1,27 @@
+{
+  "type": "subcategory",
+  "chapterCode": "I",
+  "chapter": "Certain infectious and parasitic diseases",
+  "blockCode": "A65-A69",
+  "block": "Other spirochaetal diseases",
+  "categoryCode": "A66",
+  "category": "Yaws",
+  "subcategory": "A66.9",
+  "title": "Yaws, unspecified",
+  "inclusion": [
+    "diseases generally recognized as communicable or transmissible",
+    "bouba",
+    "framboesia (tropica)",
+    "pian"
+  ],
+  "exclusion": [
+    "carrier or suspected carrier of infectious disease",
+    "certain localized infections - see body system-related chapters",
+    "infectious and parasitic diseases complicating pregnancy, childbirth and the puerperium [except obstetrical tetanus]",
+    "infectious and parasitic diseases specific to the perinatal period [except tetanus neonatorum, whooping cough, congenital syphilis, perinatal gonococcal infection and perinatal human immunodeficiency virus [HIV] disease]",
+    "influenza and other acute respiratory infections",
+    "erythrasma",
+    "endotoxic shock NOS"
+  ],
+  "children": null
+}

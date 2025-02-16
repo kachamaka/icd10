@@ -1,0 +1,17 @@
+{
+  "type": "subcategory",
+  "chapterCode": "XVII",
+  "chapter": "Congenital malformations, deformations and chromosomal abnormalities",
+  "blockCode": "Q80-Q89",
+  "block": "Other congenital malformations",
+  "categoryCode": "Q80",
+  "category": "Congenital ichthyosis",
+  "subcategory": "Q80.0",
+  "title": "Ichthyosis vulgaris",
+  "inclusion": null,
+  "exclusion": [
+    "inborn errors of metabolism",
+    "Refsum disease"
+  ],
+  "children": null
+}

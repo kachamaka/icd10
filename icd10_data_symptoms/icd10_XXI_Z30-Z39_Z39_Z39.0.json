@@ -1,0 +1,21 @@
+{
+    "icd10code": "Z39.0",
+    "type": "subcategory",
+    "title": "Care and examination immediately after delivery",
+    "chapter": "Factors influencing health status and contact with health services",
+    "chapterCode": "XXI",
+    "block": "Persons encountering health services in circumstances related to reproduction",
+    "blockCode": "Z30-Z39",
+    "category": "Postpartum care and examination",
+    "categoryCode": "Z39",
+    "subcategory": "Z39.0",
+    "inclusion": [
+        "Care and observation in uncomplicated cases"
+    ],
+    "exclusion": [
+        "care for postpartum complications - see Alphabetical Index"
+    ],
+    "symptoms": [
+        "asymptomatic"
+    ]
+}

@@ -1,0 +1,19 @@
+{
+  "type": "subcategory",
+  "chapterCode": "II",
+  "chapter": "Neoplasms",
+  "blockCode": "C30-C39",
+  "block": "Malignant neoplasms of respiratory and intrathoracic organs",
+  "categoryCode": "C38",
+  "category": "Malignant neoplasm of heart, mediastinum and pleura",
+  "subcategory": "C38.8",
+  "title": "Malignant neoplasm: Overlapping lesion of heart, mediastinum and pleura",
+  "inclusion": [
+    "middle ear"
+  ],
+  "exclusion": [
+    "mesothelioma",
+    "mesothelioma"
+  ],
+  "children": null
+}

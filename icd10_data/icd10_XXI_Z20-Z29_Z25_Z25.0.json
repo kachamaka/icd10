@@ -1,0 +1,17 @@
+{
+  "type": "subcategory",
+  "chapterCode": "XXI",
+  "chapter": "Factors influencing health status and contact with health services",
+  "blockCode": "Z20-Z29",
+  "block": "Persons with potential health hazards related to communicable diseases",
+  "categoryCode": "Z25",
+  "category": "Need for immunization against other single viral diseases",
+  "subcategory": "Z25.0",
+  "title": "Need for immunization against mumps alone",
+  "inclusion": null,
+  "exclusion": [
+    "immunization: against combinations of diseases",
+    "immunization: not carried out"
+  ],
+  "children": null
+}

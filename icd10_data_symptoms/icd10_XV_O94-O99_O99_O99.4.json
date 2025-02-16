@@ -1,0 +1,40 @@
+{
+    "icd10code": "O99.4",
+    "type": "subcategory",
+    "title": "Diseases of the circulatory system complicating pregnancy, childbirth and the puerperium",
+    "chapter": "Pregnancy, childbirth and the puerperium",
+    "chapterCode": "XV",
+    "block": "Other obstetric conditions, not elsewhere classified",
+    "blockCode": "O94-O99",
+    "category": "Other maternal diseases classifiable elsewhere but complicating pregnancy, childbirth and the puerperium",
+    "categoryCode": "O99",
+    "subcategory": "O99.4",
+    "inclusion": [
+        "Conditions in I00-I99"
+    ],
+    "exclusion": [
+        "Certain diseases or injuries complicating pregnancy, childbirth and the puerperium classified elsewhere: external causes (for mortality)",
+        "Certain diseases or injuries complicating pregnancy, childbirth and the puerperium classified elsewhere: injury, poisoning and certain other consequences of external cause",
+        "Certain diseases or injuries complicating pregnancy, childbirth and the puerperium classified elsewhere: mental and behavioural disorders associated with the puerperium",
+        "Certain diseases or injuries complicating pregnancy, childbirth and the puerperium classified elsewhere: obstetrical tetanus",
+        "Certain diseases or injuries complicating pregnancy, childbirth and the puerperium classified elsewhere: postpartum necrosis of pituitary gland",
+        "Certain diseases or injuries complicating pregnancy, childbirth and the puerperium classified elsewhere: puerperal osteomalacia",
+        "supervision of: high-risk pregnancy",
+        "supervision of: normal pregnancy",
+        "infectious and parasitic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "when the reason for maternal care is that the condition is known or suspected to have affected the fetus",
+        "cardiomyopathy in the puerperium",
+        "hypertensive disorders",
+        "obstetric embolism",
+        "venous complications and cerebrovenous sinus thrombosis in: labour, childbirth and the puerperium",
+        "venous complications and cerebrovenous sinus thrombosis in: pregnancy"
+    ],
+    "symptoms": [
+        "fatigue",
+        "shortness of breath",
+        "dizziness",
+        "chest pain",
+        "palpitations"
+    ]
+}

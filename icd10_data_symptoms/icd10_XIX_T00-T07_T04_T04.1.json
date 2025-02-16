@@ -1,0 +1,41 @@
+{
+    "icd10code": "T04.1",
+    "type": "subcategory",
+    "title": "Crushing injuries involving thorax with abdomen, lower back and pelvis",
+    "chapter": "Injury, poisoning and certain other consequences of external causes",
+    "chapterCode": "XIX",
+    "block": "Injuries involving multiple body regions",
+    "blockCode": "T00-T07",
+    "category": "Crushing injuries involving multiple body regions",
+    "categoryCode": "T04",
+    "subcategory": "T04.1",
+    "inclusion": [
+        "bilateral involvement of limbs of the same body region",
+        "Injuries by type involving two or more body regions classifiable within S00-S99",
+        "Crushing injury of: sites classifiable to S28.- and S38.-",
+        "Crushing injury of: trunk NOS"
+    ],
+    "exclusion": [
+        "birth trauma",
+        "obstetric trauma",
+        "malunion of fracture",
+        "nonunion of fracture [pseudarthrosis]",
+        "pathological fracture",
+        "pathological fracture with osteoporosis",
+        "stress fracture",
+        "burns and corrosions",
+        "frostbite",
+        "insect bite or sting, venomous",
+        "multiple injuries involving only one body region - see S-section",
+        "sunburn",
+        "with involvement of: limbs",
+        "with involvement of: other body regions"
+    ],
+    "symptoms": [
+        "extensive bruising",
+        "severe pain",
+        "swelling",
+        "tissue damage",
+        "bleeding"
+    ]
+}

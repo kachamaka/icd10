@@ -1,0 +1,21 @@
+{
+    "icd10code": "U09.9",
+    "type": "subcategory",
+    "title": "Post COVID-19 condition, unspecified",
+    "chapter": "Codes for special purposes",
+    "chapterCode": "XXII",
+    "block": "Provisional assignment of new diseases of uncertain etiology or emergency use",
+    "blockCode": "U00-U49",
+    "category": "Post COVID-19 condition",
+    "categoryCode": "U09",
+    "subcategory": "U09.9",
+    "inclusion": null,
+    "exclusion": null,
+    "symptoms": [
+        "fatigue",
+        "shortness of breath",
+        "chest pain",
+        "brain fog",
+        "joint pain"
+    ]
+}

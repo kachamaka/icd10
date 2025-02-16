@@ -1,0 +1,32 @@
+{
+    "icd10code": "V92",
+    "type": "modifiedcategory",
+    "title": "Water-transport-related drowning and submersion without accident to watercraft : sailboat",
+    "chapter": "External causes of morbidity and mortality",
+    "chapterCode": "XX",
+    "block": "Water transport accidents",
+    "blockCode": "V90-V94",
+    "category": "Water-transport-related drowning and submersion without accident to watercraft",
+    "categoryCode": "V92",
+    "subcategory": "",
+    "inclusion": [
+        "watercraft accidents in the course of recreational activities",
+        "drowning and submersion as a result of an accident, such as: fall: from gangplank",
+        "drowning and submersion as a result of an accident, such as: fall: from ship",
+        "drowning and submersion as a result of an accident, such as: fall: overboard",
+        "drowning and submersion as a result of an accident, such as: thrown overboard by motion of ship",
+        "drowning and submersion as a result of an accident, such as: washed overboard",
+        "Yacht"
+    ],
+    "exclusion": [
+        "accidents to persons engaged in the maintenance or repair of transport equipment or vehicle (not in motion) unless injured by another vehicle in motion",
+        "accidents involving vehicles, but unrelated to the hazards associated with the means of transportation, e.g., injuries received in a fight on board ship; transport vehicle involved in a cataclysm; finger crushed when shutting car door",
+        "assault by crashing of motor vehicle",
+        "event of undetermined intent",
+        "intentional self-harm",
+        "collision involving: pedal cyclist"
+    ],
+    "symptoms": [
+        "asymptomatic"
+    ]
+}

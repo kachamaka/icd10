@@ -1,0 +1,21 @@
+{
+    "icd10code": "X35",
+    "type": "category",
+    "title": "Victim of volcanic eruption",
+    "chapter": "External causes of morbidity and mortality",
+    "chapterCode": "XX",
+    "block": "Exposure to forces of nature",
+    "blockCode": "X30-X39",
+    "category": "Victim of volcanic eruption",
+    "categoryCode": "X35",
+    "subcategory": "",
+    "inclusion": null,
+    "exclusion": null,
+    "symptoms": [
+        "burns",
+        "smoke inhalation",
+        "respiratory distress",
+        "dehydration",
+        "shock"
+    ]
+}

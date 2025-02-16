@@ -1,0 +1,35 @@
+{
+    "icd10code": "J17.8",
+    "type": "subcategory",
+    "title": "Pneumonia in other diseases classified elsewhere",
+    "chapter": "Diseases of the respiratory system",
+    "chapterCode": "X",
+    "block": "Influenza and pneumonia",
+    "blockCode": "J09-J18",
+    "category": "Pneumonia in diseases classified elsewhere",
+    "categoryCode": "J17",
+    "subcategory": "J17.8",
+    "inclusion": [
+        "Pneumonia (in): ornithosis",
+        "Pneumonia (in): Q fever",
+        "Pneumonia (in): rheumatic fever",
+        "Pneumonia (in): spirochaetal, not elsewhere classified"
+    ],
+    "exclusion": [
+        "certain conditions originating in the perinatal period",
+        "certain infectious and parasitic diseases",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified"
+    ],
+    "symptoms": [
+        "fever",
+        "cough",
+        "shortness of breath",
+        "fatigue",
+        "chest pain"
+    ]
+}

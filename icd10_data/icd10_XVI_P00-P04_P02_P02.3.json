@@ -1,0 +1,25 @@
+{
+  "type": "subcategory",
+  "chapterCode": "XVI",
+  "chapter": "Certain conditions originating in the perinatal period",
+  "blockCode": "P00-P04",
+  "block": "Fetus and newborn affected by maternal factors and by complications of pregnancy, labour and delivery",
+  "categoryCode": "P02",
+  "category": "Fetus and newborn affected by complications of placenta, cord and membranes",
+  "subcategory": "P02.3",
+  "title": "Fetus and newborn affected by placental transfusion syndromes",
+  "inclusion": [
+    "conditions that have their origin in the perinatal period even though death or morbidity occurs later",
+    "the listed maternal conditions only when specified as a cause of mortality or morbidity in fetus or newborn",
+    "Placental and cord abnormalities resulting in twin-to-twin or other transplacental transfusion"
+  ],
+  "exclusion": [
+    "congenital malformations, deformations and chromosomal abnormalities",
+    "endocrine, nutritional and metabolic diseases",
+    "injury, poisoning and certain other consequences of external causes",
+    "neoplasms",
+    "tetanus neonatorum",
+    "whooping cough"
+  ],
+  "children": null
+}

@@ -1,0 +1,35 @@
+{
+    "icd10code": "I43.0",
+    "type": "subcategory",
+    "title": "Cardiomyopathy in infectious and parasitic diseases classified elsewhere",
+    "chapter": "Diseases of the circulatory system",
+    "chapterCode": "IX",
+    "block": "Other forms of heart disease",
+    "blockCode": "I30-I52",
+    "category": "Cardiomyopathy in diseases classified elsewhere",
+    "categoryCode": "I43",
+    "subcategory": "I43.0",
+    "inclusion": [
+        "Cardiomyopathy in diphtheria"
+    ],
+    "exclusion": [
+        "certain conditions originating in the perinatal period",
+        "certain infectious and parasitic diseases",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "systemic connective tissue disorders",
+        "transient cerebral ischaemic attacks and related syndromes"
+    ],
+    "symptoms": [
+        "fatigue",
+        "shortness of breath",
+        "swelling in legs",
+        "ankles or feet",
+        "irregular heartbeats",
+        "chest pain"
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "icd10code": "P39.1",
+    "type": "subcategory",
+    "title": "Neonatal conjunctivitis and dacryocystitis",
+    "chapter": "Certain conditions originating in the perinatal period",
+    "chapterCode": "XVI",
+    "block": "Infections specific to the perinatal period",
+    "blockCode": "P35-P39",
+    "category": "Other infections specific to the perinatal period",
+    "categoryCode": "P39",
+    "subcategory": "P39.1",
+    "inclusion": [
+        "conditions that have their origin in the perinatal period even though death or morbidity occurs later",
+        "infections acquired in utero or during birth",
+        "Neonatal chlamydial conjunctivitis",
+        "Ophthalmia neonatorum NOS"
+    ],
+    "exclusion": [
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "tetanus neonatorum",
+        "whooping cough",
+        "asymptomatic human immunodeficiency virus [HIV] infection status",
+        "congenital: gonococcal infection",
+        "congenital: pneumonia",
+        "congenital: syphilis",
+        "human immunodeficiency virus [HIV] disease",
+        "infectious diseases acquired after birth",
+        "intestinal infectious diseases",
+        "laboratory evidence of human immunodeficiency virus [HIV]",
+        "maternal infectious disease as a cause of mortality or morbidity in fetus or newborn not itself manifesting the disease",
+        "tetanus neonatorum",
+        "whooping cough",
+        "gonococcal conjunctivitis"
+    ],
+    "symptoms": [
+        "fever",
+        "poor feeding",
+        "irritability",
+        "jaundice",
+        "lethargy"
+    ]
+}

@@ -1,0 +1,17 @@
+{
+  "type": "category",
+  "chapterCode": "XX",
+  "chapter": "External causes of morbidity and mortality",
+  "blockCode": "W50-W64",
+  "block": "Exposure to animate mechanical forces",
+  "categoryCode": "W54",
+  "category": "Bitten or struck by dog",
+  "subcategory": "",
+  "title": "Bitten or struck by dog",
+  "inclusion": null,
+  "exclusion": [
+    "bites, venomous",
+    "stings (venomous)"
+  ],
+  "children": null
+}

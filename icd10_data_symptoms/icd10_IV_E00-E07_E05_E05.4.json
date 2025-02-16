@@ -1,0 +1,30 @@
+{
+    "icd10code": "E05.4",
+    "type": "subcategory",
+    "title": "Thyrotoxicosis factitia",
+    "chapter": "Endocrine, nutritional and metabolic diseases",
+    "chapterCode": "IV",
+    "block": "Disorders of thyroid gland",
+    "blockCode": "E00-E07",
+    "category": "Thyrotoxicosis [hyperthyroidism]",
+    "categoryCode": "E05",
+    "subcategory": "E05.4",
+    "inclusion": [
+        "Thyroid (thyrotoxic): eye disease",
+        "Thyroid (thyrotoxic): heart disease"
+    ],
+    "exclusion": [
+        "complications of pregnancy, childbirth and the puerperium",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "transitory endocrine and metabolic disorders specific to fetus and newborn",
+        "chronic thyroiditis with transient thyrotoxicosis",
+        "neonatal thyrotoxicosis"
+    ],
+    "symptoms": [
+        "rapid heart rate",
+        "irregular heartbeat",
+        "heightened nervousness",
+        "unexplained weight loss",
+        "excessive sweating"
+    ]
+}

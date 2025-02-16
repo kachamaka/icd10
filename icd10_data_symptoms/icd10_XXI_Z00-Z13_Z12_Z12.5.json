@@ -1,0 +1,23 @@
+{
+    "icd10code": "Z12.5",
+    "type": "subcategory",
+    "title": "Special screening examination for neoplasm of prostate",
+    "chapter": "Factors influencing health status and contact with health services",
+    "chapterCode": "XXI",
+    "block": "Persons encountering health services for examination and investigation",
+    "blockCode": "Z00-Z13",
+    "category": "Special screening examination for neoplasms",
+    "categoryCode": "Z12",
+    "subcategory": "Z12.5",
+    "inclusion": null,
+    "exclusion": [
+        "examinations related to pregnancy and reproduction"
+    ],
+    "symptoms": [
+        "abnormal bleeding",
+        "pain during intercourse",
+        "pelvic pain",
+        "vaginal discharge",
+        "irregular menstruation"
+    ]
+}

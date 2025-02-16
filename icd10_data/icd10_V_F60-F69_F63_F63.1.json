@@ -1,0 +1,26 @@
+{
+  "type": "subcategory",
+  "chapterCode": "V",
+  "chapter": "Mental and behavioural disorders",
+  "blockCode": "F60-F69",
+  "block": "Disorders of adult personality and behaviour",
+  "categoryCode": "F63",
+  "category": "Habit and impulse disorders",
+  "subcategory": "F63.1",
+  "title": "Pathological fire-setting [pyromania]",
+  "inclusion": [
+    "disorders of psychological development"
+  ],
+  "exclusion": [
+    "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+    "habitual excessive use of alcohol or psychoactive substances",
+    "impulse and habit disorders involving sexual behaviour",
+    "fire-setting (by)(in): adult with dissocial personality disorder",
+    "fire-setting (by)(in): alcohol or psychoactive substance intoxication",
+    "fire-setting (by)(in): as the reason for observation for suspected mental disorder, ruled out",
+    "fire-setting (by)(in): conduct disorders",
+    "fire-setting (by)(in): organic mental disorders",
+    "fire-setting (by)(in): schizophrenia"
+  ],
+  "children": null
+}

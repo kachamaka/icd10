@@ -1,0 +1,24 @@
+{
+  "type": "subcategory",
+  "chapterCode": "II",
+  "chapter": "Neoplasms",
+  "blockCode": "D10-D36",
+  "block": "Benign neoplasms",
+  "categoryCode": "D33",
+  "category": "Benign neoplasm of brain and other parts of central nervous system",
+  "subcategory": "D33.1",
+  "title": "Benign neoplasm: Brain, infratentorial",
+  "inclusion": [
+    "morphology codes with behaviour code /0",
+    "Brain stem",
+    "Cerebellum",
+    "Fourth ventricle"
+  ],
+  "exclusion": [
+    "angioma",
+    "meninges",
+    "peripheral nerves and autonomic nervous system",
+    "retro-ocular tissue"
+  ],
+  "children": null
+}

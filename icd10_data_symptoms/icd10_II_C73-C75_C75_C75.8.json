@@ -1,0 +1,28 @@
+{
+    "icd10code": "C75.8",
+    "type": "subcategory",
+    "title": "Malignant neoplasm: Pluriglandular involvement, unspecified",
+    "chapter": "Neoplasms",
+    "chapterCode": "II",
+    "block": "Malignant neoplasms of thyroid and other endocrine glands",
+    "blockCode": "C73-C75",
+    "category": "Malignant neoplasm of other endocrine glands and related structures",
+    "categoryCode": "C75",
+    "subcategory": "C75.8",
+    "inclusion": null,
+    "exclusion": [
+        "adrenal gland",
+        "endocrine pancreas",
+        "ovary",
+        "testis",
+        "thymus",
+        "thyroid gland"
+    ],
+    "symptoms": [
+        "unexplained weight loss",
+        "persistent pain in the affected area",
+        "abnormal bleeding or discharge",
+        "difficulty swallowing",
+        "persistent cough"
+    ]
+}

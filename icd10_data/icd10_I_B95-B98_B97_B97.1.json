@@ -1,0 +1,24 @@
+{
+  "type": "subcategory",
+  "chapterCode": "I",
+  "chapter": "Certain infectious and parasitic diseases",
+  "blockCode": "B95-B98",
+  "block": "Bacterial, viral and other infectious agents",
+  "categoryCode": "B97",
+  "category": "Viral agents as the cause of diseases classified to other chapters",
+  "subcategory": "B97.1",
+  "title": "Enterovirus as the cause of diseases classified to other chapters",
+  "inclusion": [
+    "diseases generally recognized as communicable or transmissible",
+    "Coxsackievirus",
+    "Echovirus"
+  ],
+  "exclusion": [
+    "carrier or suspected carrier of infectious disease",
+    "certain localized infections - see body system-related chapters",
+    "infectious and parasitic diseases complicating pregnancy, childbirth and the puerperium [except obstetrical tetanus]",
+    "infectious and parasitic diseases specific to the perinatal period [except tetanus neonatorum, whooping cough, congenital syphilis, perinatal gonococcal infection and perinatal human immunodeficiency virus [HIV] disease]",
+    "influenza and other acute respiratory infections"
+  ],
+  "children": null
+}

@@ -1,0 +1,40 @@
+{
+    "icd10code": "H53.1",
+    "type": "subcategory",
+    "title": "Subjective visual disturbances",
+    "chapter": "Diseases of the eye and adnexa",
+    "chapterCode": "VII",
+    "block": "Visual disturbances and blindness",
+    "blockCode": "H53-H54",
+    "category": "Visual disturbances",
+    "categoryCode": "H53",
+    "subcategory": "H53.1",
+    "inclusion": [
+        "Asthenopia",
+        "Day blindness",
+        "Hemeralopia",
+        "Metamorphopsia",
+        "Photophobia",
+        "Scintillating scotoma",
+        "Sudden visual loss",
+        "Visual halos"
+    ],
+    "exclusion": [
+        "certain conditions originating in the perinatal period",
+        "certain infectious and parasitic diseases",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "visual hallucinations"
+    ],
+    "symptoms": [
+        "blurred vision",
+        "double vision",
+        "difficulty focusing",
+        "eye strain",
+        "headaches"
+    ]
+}

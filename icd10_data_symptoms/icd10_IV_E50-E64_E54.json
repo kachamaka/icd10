@@ -1,0 +1,31 @@
+{
+    "icd10code": "E54",
+    "type": "category",
+    "title": "Ascorbic acid deficiency",
+    "chapter": "Endocrine, nutritional and metabolic diseases",
+    "chapterCode": "IV",
+    "block": "Other nutritional deficiencies",
+    "blockCode": "E50-E64",
+    "category": "Ascorbic acid deficiency",
+    "categoryCode": "E54",
+    "subcategory": "",
+    "inclusion": [
+        "Deficiency of vitamin C",
+        "Scurvy"
+    ],
+    "exclusion": [
+        "complications of pregnancy, childbirth and the puerperium",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "transitory endocrine and metabolic disorders specific to fetus and newborn",
+        "diabetes mellitus (in): malnutrition-related",
+        "scorbutic anaemia",
+        "sequelae of vitamin C deficiency"
+    ],
+    "symptoms": [
+        "fatigue",
+        "impaired growth and immunity",
+        "change in hair color",
+        "swollen or bleeding gums",
+        "joint pain"
+    ]
+}

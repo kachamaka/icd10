@@ -1,0 +1,27 @@
+{
+    "icd10code": "R04.0",
+    "type": "subcategory",
+    "title": "Epistaxis",
+    "chapter": "Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+    "chapterCode": "XVIII",
+    "block": "Symptoms and signs involving the circulatory and respiratory systems",
+    "blockCode": "R00-R09",
+    "category": "Haemorrhage from respiratory passages",
+    "categoryCode": "R04",
+    "subcategory": "R04.0",
+    "inclusion": [
+        "Haemorrhage from nose",
+        "Nosebleed"
+    ],
+    "exclusion": [
+        "abnormal findings on antenatal screening of mother",
+        "certain conditions originating in the perinatal period"
+    ],
+    "symptoms": [
+        "hemoptysis",
+        "coughing up blood",
+        "blood in sputum",
+        "pink-tinged mucus",
+        "frothy blood-streaked saliva"
+    ]
+}

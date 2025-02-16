@@ -1,0 +1,30 @@
+{
+    "icd10code": "A03.0",
+    "type": "subcategory",
+    "title": "Shigellosis due to Shigella dysenteriae",
+    "chapter": "Certain infectious and parasitic diseases",
+    "chapterCode": "I",
+    "block": "Intestinal infectious diseases",
+    "blockCode": "A00-A09",
+    "category": "Shigellosis",
+    "categoryCode": "A03",
+    "subcategory": "A03.0",
+    "inclusion": [
+        "diseases generally recognized as communicable or transmissible",
+        "Group A shigellosis [Shiga-Kruse dysentery]"
+    ],
+    "exclusion": [
+        "carrier or suspected carrier of infectious disease",
+        "certain localized infections - see body system-related chapters",
+        "infectious and parasitic diseases complicating pregnancy, childbirth and the puerperium [except obstetrical tetanus]",
+        "infectious and parasitic diseases specific to the perinatal period [except tetanus neonatorum, whooping cough, congenital syphilis, perinatal gonococcal infection and perinatal human immunodeficiency virus [HIV] disease]",
+        "influenza and other acute respiratory infections"
+    ],
+    "symptoms": [
+        "abdominal pain",
+        "fever",
+        "diarrhea",
+        "vomiting",
+        "loss of appetite"
+    ]
+}

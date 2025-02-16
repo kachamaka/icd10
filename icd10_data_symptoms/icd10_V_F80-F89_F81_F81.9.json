@@ -1,0 +1,28 @@
+{
+    "icd10code": "F81.9",
+    "type": "subcategory",
+    "title": "Developmental disorder of scholastic skills, unspecified",
+    "chapter": "Mental and behavioural disorders",
+    "chapterCode": "V",
+    "block": "Disorders of psychological development",
+    "blockCode": "F80-F89",
+    "category": "Specific developmental disorders of scholastic skills",
+    "categoryCode": "F81",
+    "subcategory": "F81.9",
+    "inclusion": [
+        "disorders of psychological development",
+        "Knowledge acquisition disability NOS",
+        "Learning: disability NOS",
+        "Learning: disorder NOS"
+    ],
+    "exclusion": [
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified"
+    ],
+    "symptoms": [
+        "difficulty reading",
+        "spelling issues",
+        "writing problems",
+        "challenges with math",
+        "trouble understanding verbal instructions"
+    ]
+}

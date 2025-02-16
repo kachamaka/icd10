@@ -1,0 +1,40 @@
+{
+    "icd10code": "A16.3",
+    "type": "subcategory",
+    "title": "Tuberculosis of intrathoracic lymph nodes, without mention of bacteriological or histological confirmation",
+    "chapter": "Certain infectious and parasitic diseases",
+    "chapterCode": "I",
+    "block": "Tuberculosis",
+    "blockCode": "A15-A19",
+    "category": "Respiratory tuberculosis, not confirmed bacteriologically or histologically",
+    "categoryCode": "A16",
+    "subcategory": "A16.3",
+    "inclusion": [
+        "diseases generally recognized as communicable or transmissible",
+        "infections due to Mycobacterium tuberculosis and Mycobacterium bovis",
+        "Tuberculosis of lymph nodes: hilar NOS (without mention of bacteriological or histological confirmation)",
+        "Tuberculosis of lymph nodes: intrathoracic NOS (without mention of bacteriological or histological confirmation)",
+        "Tuberculosis of lymph nodes: mediastinal NOS (without mention of bacteriological or histological confirmation)",
+        "Tuberculosis of lymph nodes: tracheobronchial NOS (without mention of bacteriological or histological confirmation)"
+    ],
+    "exclusion": [
+        "carrier or suspected carrier of infectious disease",
+        "certain localized infections - see body system-related chapters",
+        "infectious and parasitic diseases complicating pregnancy, childbirth and the puerperium [except obstetrical tetanus]",
+        "infectious and parasitic diseases specific to the perinatal period [except tetanus neonatorum, whooping cough, congenital syphilis, perinatal gonococcal infection and perinatal human immunodeficiency virus [HIV] disease]",
+        "influenza and other acute respiratory infections",
+        "congenital tuberculosis",
+        "human immunodeficieny [HIV] disease resulting in tuberculosis",
+        "pneumoconiosis associated with tuberculosis",
+        "sequelae of tuberculosis",
+        "silicotuberculosis",
+        "when specified as primary"
+    ],
+    "symptoms": [
+        "persistent cough",
+        "night sweats",
+        "chest pain",
+        "weight loss",
+        "fever"
+    ]
+}

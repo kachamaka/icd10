@@ -1,0 +1,20 @@
+{
+  "type": "subcategory",
+  "chapterCode": "II",
+  "chapter": "Neoplasms",
+  "blockCode": "C81-C96",
+  "block": "Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",
+  "categoryCode": "C83",
+  "category": "Non-follicular lymphoma",
+  "subcategory": "C83.7",
+  "title": "Burkitt lymphoma",
+  "inclusion": [
+    "Atypical Burkitt lymphoma",
+    "“Burkitt-like” lymphoma"
+  ],
+  "exclusion": [
+    "secondary and unspecified neoplasm of lymph nodes",
+    "mature B-cell leukaemia Burkitt-type"
+  ],
+  "children": null
+}

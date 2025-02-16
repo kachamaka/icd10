@@ -1,0 +1,23 @@
+{
+    "icd10code": "Q91.0",
+    "type": "subcategory",
+    "title": "Trisomy 18, meiotic nondisjunction",
+    "chapter": "Congenital malformations, deformations and chromosomal abnormalities",
+    "chapterCode": "XVII",
+    "block": "Chromosomal abnormalities, not elsewhere classified",
+    "blockCode": "Q90-Q99",
+    "category": "Edwards syndrome and Patau syndrome",
+    "categoryCode": "Q91",
+    "subcategory": "Q91.0",
+    "inclusion": null,
+    "exclusion": [
+        "inborn errors of metabolism"
+    ],
+    "symptoms": [
+        "severe intellectual disability",
+        "hypotonia",
+        "microcephaly",
+        "cleft lip/palate",
+        "heart defects"
+    ]
+}

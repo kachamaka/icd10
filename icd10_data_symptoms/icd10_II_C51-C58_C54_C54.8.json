@@ -1,0 +1,23 @@
+{
+    "icd10code": "C54.8",
+    "type": "subcategory",
+    "title": "Malignant neoplasm: Overlapping lesion of corpus uteri",
+    "chapter": "Neoplasms",
+    "chapterCode": "II",
+    "block": "Malignant neoplasms of female genital organs",
+    "blockCode": "C51-C58",
+    "category": "Malignant neoplasm of corpus uteri",
+    "categoryCode": "C54",
+    "subcategory": "C54.8",
+    "inclusion": [
+        "skin of female genital organs"
+    ],
+    "exclusion": null,
+    "symptoms": [
+        "abdominal pain",
+        "unusual vaginal bleeding",
+        "pelvic discomfort",
+        "back pain",
+        "persistent indigestion or nausea"
+    ]
+}

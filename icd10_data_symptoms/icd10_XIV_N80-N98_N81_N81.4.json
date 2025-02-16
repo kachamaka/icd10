@@ -1,0 +1,35 @@
+{
+    "icd10code": "N81.4",
+    "type": "subcategory",
+    "title": "Uterovaginal prolapse, unspecified",
+    "chapter": "Diseases of the genitourinary system",
+    "chapterCode": "XIV",
+    "block": "Noninflammatory disorders of female genital tract",
+    "blockCode": "N80-N98",
+    "category": "Female genital prolapse",
+    "categoryCode": "N81",
+    "subcategory": "N81.4",
+    "inclusion": [
+        "Prolapse of uterus NOS"
+    ],
+    "exclusion": [
+        "certain conditions originating in the perinatal period",
+        "certain infectious and parasitic diseases",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "genital prolapse complicating pregnancy, labour or delivery",
+        "prolapse and hernia of ovary and fallopian tube",
+        "prolapse of vaginal vault after hysterectomy"
+    ],
+    "symptoms": [
+        "vaginal bulge",
+        "pelvic pressure",
+        "urinary incontinence",
+        "difficulty with bowel movements",
+        "lower back pain"
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "icd10code": "Q60.0",
+    "type": "subcategory",
+    "title": "Renal agenesis, unilateral",
+    "chapter": "Congenital malformations, deformations and chromosomal abnormalities",
+    "chapterCode": "XVII",
+    "block": "Congenital malformations of the urinary system",
+    "blockCode": "Q60-Q64",
+    "category": "Renal agenesis and other reduction defects of kidney",
+    "categoryCode": "Q60",
+    "subcategory": "Q60.0",
+    "inclusion": [
+        "atrophy of kidney: congenital",
+        "atrophy of kidney: infantile",
+        "congenital absence of kidney"
+    ],
+    "exclusion": [
+        "inborn errors of metabolism"
+    ],
+    "symptoms": [
+        "kidney underdevelopment",
+        "reduced amniotic fluid",
+        "urinary tract abnormalities",
+        "poor renal function",
+        "delayed fetal growth"
+    ]
+}

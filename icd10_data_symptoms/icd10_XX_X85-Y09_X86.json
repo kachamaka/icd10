@@ -1,0 +1,28 @@
+{
+    "icd10code": "X86",
+    "type": "category",
+    "title": "Assault by corrosive substance",
+    "chapter": "External causes of morbidity and mortality",
+    "chapterCode": "XX",
+    "block": "Assault",
+    "blockCode": "X85-Y09",
+    "category": "Assault by corrosive substance",
+    "categoryCode": "X86",
+    "subcategory": "",
+    "inclusion": [
+        "homicide",
+        "injuries inflicted by another person with intent to injure or kill, by any means"
+    ],
+    "exclusion": [
+        "injuries due to: legal intervention",
+        "injuries due to: operations of war",
+        "corrosive gas"
+    ],
+    "symptoms": [
+        "pain",
+        "bruising",
+        "swelling",
+        "burns",
+        "lacerations"
+    ]
+}

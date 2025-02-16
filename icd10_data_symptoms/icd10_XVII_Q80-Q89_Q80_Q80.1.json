@@ -1,0 +1,25 @@
+{
+    "icd10code": "Q80.1",
+    "type": "subcategory",
+    "title": "X-linked ichthyosis",
+    "chapter": "Congenital malformations, deformations and chromosomal abnormalities",
+    "chapterCode": "XVII",
+    "block": "Other congenital malformations",
+    "blockCode": "Q80-Q89",
+    "category": "Congenital ichthyosis",
+    "categoryCode": "Q80",
+    "subcategory": "Q80.1",
+    "inclusion": null,
+    "exclusion": [
+        "inborn errors of metabolism",
+        "Refsum disease"
+    ],
+    "symptoms": [
+        "dry",
+        "scaly skin",
+        "thickened skin",
+        "cracking skin",
+        "restricted movement",
+        "risk of skin infections"
+    ]
+}

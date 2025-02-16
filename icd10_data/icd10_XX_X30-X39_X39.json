@@ -1,0 +1,20 @@
+{
+  "type": "category",
+  "chapterCode": "XX",
+  "chapter": "External causes of morbidity and mortality",
+  "blockCode": "X30-X39",
+  "block": "Exposure to forces of nature",
+  "categoryCode": "X39",
+  "category": "Exposure to other and unspecified forces of nature",
+  "subcategory": "",
+  "title": "Exposure to other and unspecified forces of nature",
+  "inclusion": [
+    "natural radiation NOS",
+    "tidal wave NOS"
+  ],
+  "exclusion": [
+    "exposure NOS",
+    "tsunami"
+  ],
+  "children": null
+}

@@ -1,0 +1,39 @@
+{
+    "icd10code": "G43.1",
+    "type": "subcategory",
+    "title": "Migraine with aura [classical migraine]",
+    "chapter": "Diseases of the nervous system",
+    "chapterCode": "VI",
+    "block": "Episodic and paroxysmal disorders",
+    "blockCode": "G40-G47",
+    "category": "Migraine",
+    "categoryCode": "G43",
+    "subcategory": "G43.1",
+    "inclusion": [
+        "Migraine: aura without headache",
+        "Migraine: basilar",
+        "Migraine: equivalents",
+        "Migraine: familial hemiplegic",
+        "Migraine: with: acute-onset aura",
+        "Migraine: with: prolonged aura",
+        "Migraine: with: typical aura"
+    ],
+    "exclusion": [
+        "certain conditions originating in the perinatal period",
+        "certain infectious and parasitic diseases",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "headache NOS"
+    ],
+    "symptoms": [
+        "throbbing headache",
+        "nausea",
+        "sensitivity to light",
+        "sensitivity to sound",
+        "visual disturbances"
+    ]
+}

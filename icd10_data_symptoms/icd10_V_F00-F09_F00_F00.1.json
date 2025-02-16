@@ -1,0 +1,28 @@
+{
+    "icd10code": "F00.1",
+    "type": "subcategory",
+    "title": "Dementia in Alzheimer disease with late onset",
+    "chapter": "Mental and behavioural disorders",
+    "chapterCode": "V",
+    "block": "Organic, including symptomatic, mental disorders",
+    "blockCode": "F00-F09",
+    "category": "Dementia in Alzheimer disease",
+    "categoryCode": "F00",
+    "subcategory": "F00.1",
+    "inclusion": [
+        "disorders of psychological development",
+        "Alzheimer disease, type 1",
+        "Primary degenerative dementia of the Alzheimer type, senile onset",
+        "Senile dementia, Alzheimer type"
+    ],
+    "exclusion": [
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified"
+    ],
+    "symptoms": [
+        "memory loss",
+        "confusion",
+        "difficulty with reasoning",
+        "disorientation",
+        "personality changes"
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "icd10code": "Z12.2",
+    "type": "subcategory",
+    "title": "Special screening examination for neoplasm of respiratory organs",
+    "chapter": "Factors influencing health status and contact with health services",
+    "chapterCode": "XXI",
+    "block": "Persons encountering health services for examination and investigation",
+    "blockCode": "Z00-Z13",
+    "category": "Special screening examination for neoplasms",
+    "categoryCode": "Z12",
+    "subcategory": "Z12.2",
+    "inclusion": null,
+    "exclusion": [
+        "examinations related to pregnancy and reproduction"
+    ],
+    "symptoms": [
+        "abdominal discomfort",
+        "changes in bowel habits",
+        "rectal bleeding",
+        "unintended weight loss",
+        "fatigue"
+    ]
+}

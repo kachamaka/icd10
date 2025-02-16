@@ -1,0 +1,30 @@
+{
+    "icd10code": "F41.1",
+    "type": "subcategory",
+    "title": "Generalized anxiety disorder",
+    "chapter": "Mental and behavioural disorders",
+    "chapterCode": "V",
+    "block": "Neurotic, stress-related and somatoform disorders",
+    "blockCode": "F40-F48",
+    "category": "Other anxiety disorders",
+    "categoryCode": "F41",
+    "subcategory": "F41.1",
+    "inclusion": [
+        "disorders of psychological development",
+        "Anxiety: neurosis",
+        "Anxiety: reaction",
+        "Anxiety: state"
+    ],
+    "exclusion": [
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "when associated with conduct disorder in F91.-",
+        "neurasthenia"
+    ],
+    "symptoms": [
+        "excessive fear",
+        "restlessness",
+        "fatigue",
+        "difficulty concentrating",
+        "muscle tension"
+    ]
+}

@@ -1,0 +1,38 @@
+{
+    "icd10code": "T17.5",
+    "type": "subcategory",
+    "title": "Foreign body in bronchus",
+    "chapter": "Injury, poisoning and certain other consequences of external causes",
+    "chapterCode": "XIX",
+    "block": "Effects of foreign body entering through natural orifice",
+    "blockCode": "T15-T19",
+    "category": "Foreign body in respiratory tract",
+    "categoryCode": "T17",
+    "subcategory": "T17.5",
+    "inclusion": [
+        "asphyxia due to foreign body",
+        "choked on: food (regurgitated)",
+        "choked on: phlegm",
+        "inhalation of liquid or vomitus NOS"
+    ],
+    "exclusion": [
+        "birth trauma",
+        "obstetric trauma",
+        "malunion of fracture",
+        "nonunion of fracture [pseudarthrosis]",
+        "pathological fracture",
+        "pathological fracture with osteoporosis",
+        "stress fracture",
+        "foreign body: accidentally left in operation wound",
+        "foreign body: in puncture wound - see open wound by body region",
+        "foreign body: residual, in soft tissue",
+        "splinter, without major open wound - see superficial injury by body region"
+    ],
+    "symptoms": [
+        "cough",
+        "difficulty breathing",
+        "wheezing",
+        "chest pain",
+        "choking"
+    ]
+}

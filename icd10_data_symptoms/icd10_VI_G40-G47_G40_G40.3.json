@@ -1,0 +1,46 @@
+{
+    "icd10code": "G40.3",
+    "type": "subcategory",
+    "title": "Generalized idiopathic epilepsy and epileptic syndromes",
+    "chapter": "Diseases of the nervous system",
+    "chapterCode": "VI",
+    "block": "Episodic and paroxysmal disorders",
+    "blockCode": "G40-G47",
+    "category": "Epilepsy",
+    "categoryCode": "G40",
+    "subcategory": "G40.3",
+    "inclusion": [
+        "Benign: myoclonic epilepsy in infancy",
+        "Benign: neonatal convulsions (familial)",
+        "Childhood absence epilepsy [pyknolepsy]",
+        "Epilepsy with grand mal seizures on awakening",
+        "Juvenile: absence epilepsy",
+        "Juvenile: myoclonic epilepsy [impulsive petit mal]",
+        "Nonspecific epileptic seizures: atonic",
+        "Nonspecific epileptic seizures: clonic",
+        "Nonspecific epileptic seizures: myoclonic",
+        "Nonspecific epileptic seizures: tonic",
+        "Nonspecific epileptic seizures: tonic-clonic"
+    ],
+    "exclusion": [
+        "certain conditions originating in the perinatal period",
+        "certain infectious and parasitic diseases",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "Landau-Kleffner syndrome",
+        "seizure (convulsive) NOS",
+        "status epilepticus",
+        "Todd paralysis"
+    ],
+    "symptoms": [
+        "blank stares",
+        "sudden brief jerks",
+        "loss of awareness",
+        "lip smacking",
+        "repetitive movements"
+    ]
+}

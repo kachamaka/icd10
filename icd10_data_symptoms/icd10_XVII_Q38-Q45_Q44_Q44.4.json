@@ -1,0 +1,23 @@
+{
+    "icd10code": "Q44.4",
+    "type": "subcategory",
+    "title": "Choledochal cyst",
+    "chapter": "Congenital malformations, deformations and chromosomal abnormalities",
+    "chapterCode": "XVII",
+    "block": "Other congenital malformations of the digestive system",
+    "blockCode": "Q38-Q45",
+    "category": "Congenital malformations of gallbladder, bile ducts and liver",
+    "categoryCode": "Q44",
+    "subcategory": "Q44.4",
+    "inclusion": null,
+    "exclusion": [
+        "inborn errors of metabolism"
+    ],
+    "symptoms": [
+        "jaundice",
+        "dark urine",
+        "pale stools",
+        "hepatomegaly",
+        "poor weight gain"
+    ]
+}

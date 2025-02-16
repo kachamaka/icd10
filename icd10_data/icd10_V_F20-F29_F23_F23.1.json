@@ -1,0 +1,20 @@
+{
+  "type": "subcategory",
+  "chapterCode": "V",
+  "chapter": "Mental and behavioural disorders",
+  "blockCode": "F20-F29",
+  "block": "Schizophrenia, schizotypal and delusional disorders",
+  "categoryCode": "F23",
+  "category": "Acute and transient psychotic disorders",
+  "subcategory": "F23.1",
+  "title": "Acute polymorphic psychotic disorder with symptoms of schizophrenia",
+  "inclusion": [
+    "disorders of psychological development",
+    "Bouffée délirante with symptoms of schizophrenia",
+    "Cycloid psychosis with symptoms of schizophrenia"
+  ],
+  "exclusion": [
+    "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified"
+  ],
+  "children": null
+}

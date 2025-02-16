@@ -1,0 +1,21 @@
+{
+  "type": "subcategory",
+  "chapterCode": "XXII",
+  "chapter": "Codes for special purposes",
+  "blockCode": "U00-U49",
+  "block": "Provisional assignment of new diseases of uncertain etiology or emergency use",
+  "categoryCode": "U10",
+  "category": "Multisystem inflammatory syndrome associated with COVID-19",
+  "subcategory": "U10.9",
+  "title": "Multisystem inflammatory syndrome associated with COVID-19, unspecified",
+  "inclusion": [
+    "Cytokine storm Temporally associated with COVID-19",
+    "Kawasaki-like syndrome Temporally associated with COVID-19",
+    "Multisystem Inflammatory Syndrome in Children (MIS-C) Temporally associated with COVID-19",
+    "Paediatric Inflammatory Multisystem Syndrome (PIMS) Temporally associated with COVID-19"
+  ],
+  "exclusion": [
+    "Mucocutaneous lymph node syndrome [Kawasaki]"
+  ],
+  "children": null
+}

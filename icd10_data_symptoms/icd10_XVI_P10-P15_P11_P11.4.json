@@ -1,0 +1,30 @@
+{
+    "icd10code": "P11.4",
+    "type": "subcategory",
+    "title": "Birth injury to other cranial nerves",
+    "chapter": "Certain conditions originating in the perinatal period",
+    "chapterCode": "XVI",
+    "block": "Birth trauma",
+    "blockCode": "P10-P15",
+    "category": "Other birth injuries to central nervous system",
+    "categoryCode": "P11",
+    "subcategory": "P11.4",
+    "inclusion": [
+        "conditions that have their origin in the perinatal period even though death or morbidity occurs later"
+    ],
+    "exclusion": [
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "tetanus neonatorum",
+        "whooping cough"
+    ],
+    "symptoms": [
+        "scalp swelling",
+        "skull fracture",
+        "bruising on head",
+        "cephalhematoma",
+        "intracranial hemorrhage"
+    ]
+}

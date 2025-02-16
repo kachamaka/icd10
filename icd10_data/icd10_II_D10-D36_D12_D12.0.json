@@ -1,0 +1,17 @@
+{
+  "type": "subcategory",
+  "chapterCode": "II",
+  "chapter": "Neoplasms",
+  "blockCode": "D10-D36",
+  "block": "Benign neoplasms",
+  "categoryCode": "D12",
+  "category": "Benign neoplasm of colon, rectum, anus and anal canal",
+  "subcategory": "D12.0",
+  "title": "Benign neoplasm: Caecum",
+  "inclusion": [
+    "morphology codes with behaviour code /0",
+    "Ileocaecal valve"
+  ],
+  "exclusion": null,
+  "children": null
+}

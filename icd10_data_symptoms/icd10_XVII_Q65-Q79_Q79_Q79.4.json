@@ -1,0 +1,24 @@
+{
+    "icd10code": "Q79.4",
+    "type": "subcategory",
+    "title": "Prune belly syndrome",
+    "chapter": "Congenital malformations, deformations and chromosomal abnormalities",
+    "chapterCode": "XVII",
+    "block": "Congenital malformations and deformations of the musculoskeletal system",
+    "blockCode": "Q65-Q79",
+    "category": "Congenital malformations of the musculoskeletal system, not elsewhere classified",
+    "categoryCode": "Q79",
+    "subcategory": "Q79.4",
+    "inclusion": null,
+    "exclusion": [
+        "inborn errors of metabolism",
+        "congenital (sternomastoid) torticollis"
+    ],
+    "symptoms": [
+        "abdominal wall defect",
+        "exposed abdominal organs",
+        "absence of protective skin layer",
+        "protrusion near umbilical cord",
+        "risk of organ infection"
+    ]
+}

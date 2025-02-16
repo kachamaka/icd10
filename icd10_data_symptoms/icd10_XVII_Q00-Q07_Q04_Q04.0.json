@@ -1,0 +1,27 @@
+{
+    "icd10code": "Q04.0",
+    "type": "subcategory",
+    "title": "Congenital malformations of corpus callosum",
+    "chapter": "Congenital malformations, deformations and chromosomal abnormalities",
+    "chapterCode": "XVII",
+    "block": "Congenital malformations of the nervous system",
+    "blockCode": "Q00-Q07",
+    "category": "Other congenital malformations of brain",
+    "categoryCode": "Q04",
+    "subcategory": "Q04.0",
+    "inclusion": [
+        "Agenesis of corpus callosum"
+    ],
+    "exclusion": [
+        "inborn errors of metabolism",
+        "cyclopia",
+        "macrocephaly"
+    ],
+    "symptoms": [
+        "brain malformation",
+        "developmental delays",
+        "seizures",
+        "impaired motor function",
+        "intellectual disabilities"
+    ]
+}

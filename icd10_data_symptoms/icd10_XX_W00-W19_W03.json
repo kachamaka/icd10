@@ -1,0 +1,31 @@
+{
+    "icd10code": "W03",
+    "type": "category",
+    "title": "Other fall on same level due to collision with, or pushing by, another person",
+    "chapter": "External causes of morbidity and mortality",
+    "chapterCode": "XX",
+    "block": "Falls",
+    "blockCode": "W00-W19",
+    "category": "Other fall on same level due to collision with, or pushing by, another person",
+    "categoryCode": "W03",
+    "subcategory": "",
+    "inclusion": [
+        "fall due to collision of pedestrian (conveyance) with another pedestrian (conveyance)"
+    ],
+    "exclusion": [
+        "assault",
+        "fall (in)(from): animal",
+        "fall (in)(from): burning building",
+        "fall (in)(from): into fire",
+        "fall (in)(from): into water (with drowning or submersion)",
+        "fall (in)(from): machinery (in operation)",
+        "fall (in)(from): repeated falls not resulting from accident",
+        "fall (in)(from): transport vehicle",
+        "intentional self-harm",
+        "crushed or pushed by crowd or human stampede",
+        "fall involving ice or snow"
+    ],
+    "symptoms": [
+        "asymptomatic"
+    ]
+}

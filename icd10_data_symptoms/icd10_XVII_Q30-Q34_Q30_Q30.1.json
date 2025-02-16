@@ -1,0 +1,26 @@
+{
+    "icd10code": "Q30.1",
+    "type": "subcategory",
+    "title": "Agenesis and underdevelopment of nose",
+    "chapter": "Congenital malformations, deformations and chromosomal abnormalities",
+    "chapterCode": "XVII",
+    "block": "Congenital malformations of the respiratory system",
+    "blockCode": "Q30-Q34",
+    "category": "Congenital malformations of nose",
+    "categoryCode": "Q30",
+    "subcategory": "Q30.1",
+    "inclusion": [
+        "Congenital absence of nose"
+    ],
+    "exclusion": [
+        "inborn errors of metabolism",
+        "congenital deviation of nasal septum"
+    ],
+    "symptoms": [
+        "nasal congestion",
+        "difficulty breathing",
+        "chronic nasal discharge",
+        "facial deformity",
+        "recurrent sinus infections"
+    ]
+}

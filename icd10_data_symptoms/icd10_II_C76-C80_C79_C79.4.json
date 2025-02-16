@@ -1,0 +1,21 @@
+{
+    "icd10code": "C79.4",
+    "type": "subcategory",
+    "title": "Secondary malignant neoplasm of other and unspecified parts of nervous system",
+    "chapter": "Neoplasms",
+    "chapterCode": "II",
+    "block": "Malignant neoplasms of ill-defined, secondary and unspecified sites",
+    "blockCode": "C76-C80",
+    "category": "Secondary malignant neoplasm of other and unspecified sites",
+    "categoryCode": "C79",
+    "subcategory": "C79.4",
+    "inclusion": null,
+    "exclusion": null,
+    "symptoms": [
+        "abdominal pain",
+        "noticeable lump in the abdomen",
+        "unintended weight loss",
+        "changes in bowel habits",
+        "feeling of fullness"
+    ]
+}

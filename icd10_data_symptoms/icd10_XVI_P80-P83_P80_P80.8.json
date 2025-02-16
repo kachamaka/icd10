@@ -1,0 +1,31 @@
+{
+    "icd10code": "P80.8",
+    "type": "subcategory",
+    "title": "Other hypothermia of newborn",
+    "chapter": "Certain conditions originating in the perinatal period",
+    "chapterCode": "XVI",
+    "block": "Conditions involving the integument and temperature regulation of fetus and newborn",
+    "blockCode": "P80-P83",
+    "category": "Hypothermia of newborn",
+    "categoryCode": "P80",
+    "subcategory": "P80.8",
+    "inclusion": [
+        "conditions that have their origin in the perinatal period even though death or morbidity occurs later",
+        "Mild hypothermia of newborn"
+    ],
+    "exclusion": [
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "tetanus neonatorum",
+        "whooping cough"
+    ],
+    "symptoms": [
+        "hypothermia",
+        "mottled skin",
+        "poor feeding",
+        "lethargy",
+        "bradycardia"
+    ]
+}

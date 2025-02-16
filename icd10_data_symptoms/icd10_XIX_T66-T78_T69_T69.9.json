@@ -1,0 +1,30 @@
+{
+    "icd10code": "T69.9",
+    "type": "subcategory",
+    "title": "Effect of reduced temperature, unspecified",
+    "chapter": "Injury, poisoning and certain other consequences of external causes",
+    "chapterCode": "XIX",
+    "block": "Other and unspecified effects of external causes",
+    "blockCode": "T66-T78",
+    "category": "Other effects of reduced temperature",
+    "categoryCode": "T69",
+    "subcategory": "T69.9",
+    "inclusion": null,
+    "exclusion": [
+        "birth trauma",
+        "obstetric trauma",
+        "malunion of fracture",
+        "nonunion of fracture [pseudarthrosis]",
+        "pathological fracture",
+        "pathological fracture with osteoporosis",
+        "stress fracture",
+        "polycythaemia due to high altitude"
+    ],
+    "symptoms": [
+        "hypothermia",
+        "shivering",
+        "confusion",
+        "drowsiness",
+        "slurred speech"
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "icd10code": "N41.2",
+    "type": "subcategory",
+    "title": "Abscess of prostate",
+    "chapter": "Diseases of the genitourinary system",
+    "chapterCode": "XIV",
+    "block": "Diseases of male genital organs",
+    "blockCode": "N40-N51",
+    "category": "Inflammatory diseases of prostate",
+    "categoryCode": "N41",
+    "subcategory": "N41.2",
+    "inclusion": null,
+    "exclusion": [
+        "certain conditions originating in the perinatal period",
+        "certain infectious and parasitic diseases",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified"
+    ],
+    "symptoms": [
+        "fever",
+        "pelvic pain",
+        "urinary urgency",
+        "painful urination",
+        "cloudy urine"
+    ]
+}

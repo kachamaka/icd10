@@ -1,0 +1,23 @@
+{
+    "icd10code": "W59",
+    "type": "category",
+    "title": "Bitten or crushed by other reptiles",
+    "chapter": "External causes of morbidity and mortality",
+    "chapterCode": "XX",
+    "block": "Exposure to animate mechanical forces",
+    "blockCode": "W50-W64",
+    "category": "Bitten or crushed by other reptiles",
+    "categoryCode": "W59",
+    "subcategory": "",
+    "inclusion": [
+        "lizard",
+        "snake, nonvenomous"
+    ],
+    "exclusion": [
+        "bites, venomous",
+        "stings (venomous)"
+    ],
+    "symptoms": [
+        "asymptomatic"
+    ]
+}

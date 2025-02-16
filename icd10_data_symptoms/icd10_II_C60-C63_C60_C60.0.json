@@ -1,0 +1,24 @@
+{
+    "icd10code": "C60.0",
+    "type": "subcategory",
+    "title": "Malignant neoplasm: Prepuce",
+    "chapter": "Neoplasms",
+    "chapterCode": "II",
+    "block": "Malignant neoplasms of male genital organs",
+    "blockCode": "C60-C63",
+    "category": "Malignant neoplasm of penis",
+    "categoryCode": "C60",
+    "subcategory": "C60.0",
+    "inclusion": [
+        "skin of male genital organs",
+        "Foreskin"
+    ],
+    "exclusion": null,
+    "symptoms": [
+        "pain or discomfort in the genital area",
+        "presence of a lump or mass",
+        "abnormal discharge",
+        "swelling in the groin",
+        "unexplained weight loss"
+    ]
+}

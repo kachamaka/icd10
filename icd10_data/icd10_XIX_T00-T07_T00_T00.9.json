@@ -1,0 +1,36 @@
+{
+  "type": "subcategory",
+  "chapterCode": "XIX",
+  "chapter": "Injury, poisoning and certain other consequences of external causes",
+  "blockCode": "T00-T07",
+  "block": "Injuries involving multiple body regions",
+  "categoryCode": "T00",
+  "category": "Superficial injuries involving multiple body regions",
+  "subcategory": "T00.9",
+  "title": "Multiple superficial injuries, unspecified",
+  "inclusion": [
+    "bilateral involvement of limbs of the same body region",
+    "Injuries by type involving two or more body regions classifiable within S00-S99",
+    "Multiple: abrasions NOS",
+    "Multiple: blisters (nonthermal) NOS",
+    "Multiple: bruises NOS",
+    "Multiple: contusions NOS",
+    "Multiple: haematomas NOS",
+    "Multiple: insect bites (nonvenomous) NOS"
+  ],
+  "exclusion": [
+    "birth trauma",
+    "obstetric trauma",
+    "malunion of fracture",
+    "nonunion of fracture [pseudarthrosis]",
+    "pathological fracture",
+    "pathological fracture with osteoporosis",
+    "stress fracture",
+    "burns and corrosions",
+    "frostbite",
+    "insect bite or sting, venomous",
+    "multiple injuries involving only one body region - see S-section",
+    "sunburn"
+  ],
+  "children": null
+}

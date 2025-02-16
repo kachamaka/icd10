@@ -1,0 +1,25 @@
+{
+    "icd10code": "Q38.2",
+    "type": "subcategory",
+    "title": "Macroglossia",
+    "chapter": "Congenital malformations, deformations and chromosomal abnormalities",
+    "chapterCode": "XVII",
+    "block": "Other congenital malformations of the digestive system",
+    "blockCode": "Q38-Q45",
+    "category": "Other congenital malformations of tongue, mouth and pharynx",
+    "categoryCode": "Q38",
+    "subcategory": "Q38.2",
+    "inclusion": null,
+    "exclusion": [
+        "inborn errors of metabolism",
+        "macrostomia",
+        "microstomia"
+    ],
+    "symptoms": [
+        "abnormalities in tongue structure",
+        "tongue pain",
+        "difficulty swallowing",
+        "speech difficulties",
+        "tongue mobility issues"
+    ]
+}

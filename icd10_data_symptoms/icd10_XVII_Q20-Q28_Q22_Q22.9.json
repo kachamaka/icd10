@@ -1,0 +1,23 @@
+{
+    "icd10code": "Q22.9",
+    "type": "subcategory",
+    "title": "Congenital malformation of tricuspid valve, unspecified",
+    "chapter": "Congenital malformations, deformations and chromosomal abnormalities",
+    "chapterCode": "XVII",
+    "block": "Congenital malformations of the circulatory system",
+    "blockCode": "Q20-Q28",
+    "category": "Congenital malformations of pulmonary and tricuspid valves",
+    "categoryCode": "Q22",
+    "subcategory": "Q22.9",
+    "inclusion": null,
+    "exclusion": [
+        "inborn errors of metabolism"
+    ],
+    "symptoms": [
+        "heart murmur",
+        "cyanosis",
+        "shortness of breath",
+        "fatigue",
+        "poor weight gain"
+    ]
+}

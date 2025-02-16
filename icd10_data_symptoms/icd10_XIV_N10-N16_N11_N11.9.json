@@ -1,0 +1,39 @@
+{
+    "icd10code": "N11.9",
+    "type": "subcategory",
+    "title": "Chronic tubulo-interstitial nephritis, unspecified",
+    "chapter": "Diseases of the genitourinary system",
+    "chapterCode": "XIV",
+    "block": "Renal tubulo-interstitial diseases",
+    "blockCode": "N10-N16",
+    "category": "Chronic tubulo-interstitial nephritis",
+    "categoryCode": "N11",
+    "subcategory": "N11.9",
+    "inclusion": [
+        "pyelonephritis",
+        "chronic: infectious interstitial nephritis",
+        "chronic: pyelitis",
+        "chronic: pyelonephritis",
+        "Chronic: interstitial nephritis NOS",
+        "Chronic: pyelitis NOS",
+        "Chronic: pyelonephritis NOS"
+    ],
+    "exclusion": [
+        "certain conditions originating in the perinatal period",
+        "certain infectious and parasitic diseases",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "pyeloureteritis cystica"
+    ],
+    "symptoms": [
+        "flank pain",
+        "fever",
+        "dysuria",
+        "urinary frequency",
+        "fatigue"
+    ]
+}

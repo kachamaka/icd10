@@ -1,0 +1,25 @@
+{
+    "icd10code": "Q26.0",
+    "type": "subcategory",
+    "title": "Congenital stenosis of vena cava",
+    "chapter": "Congenital malformations, deformations and chromosomal abnormalities",
+    "chapterCode": "XVII",
+    "block": "Congenital malformations of the circulatory system",
+    "blockCode": "Q20-Q28",
+    "category": "Congenital malformations of great veins",
+    "categoryCode": "Q26",
+    "subcategory": "Q26.0",
+    "inclusion": [
+        "Congenital stenosis of vena cava (inferior)(superior)"
+    ],
+    "exclusion": [
+        "inborn errors of metabolism"
+    ],
+    "symptoms": [
+        "abnormal vein development",
+        "venous malformations",
+        "swelling",
+        "cyanosis",
+        "impaired blood flow"
+    ]
+}

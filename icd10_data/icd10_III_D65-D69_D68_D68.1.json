@@ -1,0 +1,29 @@
+{
+  "type": "subcategory",
+  "chapterCode": "III",
+  "chapter": "Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism",
+  "blockCode": "D65-D69",
+  "block": "Coagulation defects, purpura and other haemorrhagic conditions",
+  "categoryCode": "D68",
+  "category": "Other coagulation defects",
+  "subcategory": "D68.1",
+  "title": "Hereditary factor XI deficiency",
+  "inclusion": [
+    "Haemophilia C",
+    "Plasma thromboplastin antecedent [PTA] deficiency"
+  ],
+  "exclusion": [
+    "autoimmune disease (systemic) NOS",
+    "certain conditions originating in the perinatal period",
+    "complications of pregnancy, childbirth and the puerperium",
+    "congenital malformations, deformations and chromosomal abnormalities",
+    "endocrine, nutritional and metabolic diseases",
+    "human immunodeficiency virus [HIV] disease",
+    "injury, poisoning and certain other consequences of external causes",
+    "neoplasms",
+    "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+    "traumatic rupture of spleen",
+    "splenomegaly: congenital"
+  ],
+  "children": null
+}

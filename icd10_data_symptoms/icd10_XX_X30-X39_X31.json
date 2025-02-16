@@ -1,0 +1,30 @@
+{
+    "icd10code": "X31",
+    "type": "category",
+    "title": "Exposure to excessive natural cold",
+    "chapter": "External causes of morbidity and mortality",
+    "chapterCode": "XX",
+    "block": "Exposure to forces of nature",
+    "blockCode": "X30-X39",
+    "category": "Exposure to excessive natural cold",
+    "categoryCode": "X31",
+    "subcategory": "",
+    "inclusion": [
+        "excessive cold as the cause of: chilblains NOS",
+        "excessive cold as the cause of: immersion foot or hand",
+        "exposure to: cold NOS",
+        "exposure to: weather conditions"
+    ],
+    "exclusion": [
+        "cold of man-made origin",
+        "contact with or inhalation of: dry ice",
+        "contact with or inhalation of: liquefied gas"
+    ],
+    "symptoms": [
+        "hypothermia",
+        "shivering",
+        "confusion",
+        "frostbite",
+        "fatigue"
+    ]
+}

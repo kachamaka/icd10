@@ -1,0 +1,43 @@
+{
+    "icd10code": "H35.0",
+    "type": "subcategory",
+    "title": "Background retinopathy and retinal vascular changes",
+    "chapter": "Diseases of the eye and adnexa",
+    "chapterCode": "VII",
+    "block": "Disorders of choroid and retina",
+    "blockCode": "H30-H36",
+    "category": "Other retinal disorders",
+    "categoryCode": "H35",
+    "subcategory": "H35.0",
+    "inclusion": [
+        "Changes in retinal vascular appearance",
+        "Retinal: micro-aneurysms",
+        "Retinal: neovascularization",
+        "Retinal: perivasculitis",
+        "Retinal: varices",
+        "Retinal: vascular sheathing",
+        "Retinal: vasculitis",
+        "Retinopathy: NOS",
+        "Retinopathy: background NOS",
+        "Retinopathy: Coats",
+        "Retinopathy: exudative",
+        "Retinopathy: hypertensive"
+    ],
+    "exclusion": [
+        "certain conditions originating in the perinatal period",
+        "certain infectious and parasitic diseases",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified"
+    ],
+    "symptoms": [
+        "vision distortion",
+        "straight lines appearing wavy",
+        "blurred vision",
+        "central vision loss",
+        "difficulty reading"
+    ]
+}

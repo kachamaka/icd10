@@ -1,0 +1,28 @@
+{
+    "icd10code": "F65.8",
+    "type": "subcategory",
+    "title": "Other disorders of sexual preference",
+    "chapter": "Mental and behavioural disorders",
+    "chapterCode": "V",
+    "block": "Disorders of adult personality and behaviour",
+    "blockCode": "F60-F69",
+    "category": "Disorders of sexual preference",
+    "categoryCode": "F65",
+    "subcategory": "F65.8",
+    "inclusion": [
+        "disorders of psychological development",
+        "paraphilias",
+        "Frotteurism",
+        "Necrophilia"
+    ],
+    "exclusion": [
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified"
+    ],
+    "symptoms": [
+        "paraphilic interests",
+        "distress in social functioning",
+        "fixation on specific fantasies",
+        "compulsive sexual behavior",
+        "difficulty in interpersonal relationships"
+    ]
+}

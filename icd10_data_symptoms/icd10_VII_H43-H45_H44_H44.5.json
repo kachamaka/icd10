@@ -1,0 +1,35 @@
+{
+    "icd10code": "H44.5",
+    "type": "subcategory",
+    "title": "Degenerated conditions of globe",
+    "chapter": "Diseases of the eye and adnexa",
+    "chapterCode": "VII",
+    "block": "Disorders of vitreous body and globe",
+    "blockCode": "H43-H45",
+    "category": "Disorders of globe",
+    "categoryCode": "H44",
+    "subcategory": "H44.5",
+    "inclusion": [
+        "disorders affecting multiple structures of eye",
+        "Absolute glaucoma",
+        "Atrophy of globe",
+        "Phthisis bulbi"
+    ],
+    "exclusion": [
+        "certain conditions originating in the perinatal period",
+        "certain infectious and parasitic diseases",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified"
+    ],
+    "symptoms": [
+        "eye pain",
+        "blurred vision",
+        "decreased visual acuity",
+        "eye redness",
+        "photophobia"
+    ]
+}

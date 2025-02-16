@@ -1,0 +1,26 @@
+{
+    "icd10code": "X14",
+    "type": "category",
+    "title": "Contact with hot air and gases",
+    "chapter": "External causes of morbidity and mortality",
+    "chapterCode": "XX",
+    "block": "Contact with heat and hot substances",
+    "blockCode": "X10-X19",
+    "category": "Contact with hot air and gases",
+    "categoryCode": "X14",
+    "subcategory": "",
+    "inclusion": [
+        "inhalation of hot air and gases"
+    ],
+    "exclusion": [
+        "exposure to: excessive natural heat",
+        "exposure to: fire and flames"
+    ],
+    "symptoms": [
+        "burns",
+        "blisters",
+        "redness",
+        "swelling",
+        "pain"
+    ]
+}

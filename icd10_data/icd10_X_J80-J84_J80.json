@@ -1,0 +1,25 @@
+{
+  "type": "category",
+  "chapterCode": "X",
+  "chapter": "Diseases of the respiratory system",
+  "blockCode": "J80-J84",
+  "block": "Other respiratory diseases principally affecting the interstitium",
+  "categoryCode": "J80",
+  "category": "Adult respiratory distress syndrome",
+  "subcategory": "",
+  "title": "Adult respiratory distress syndrome",
+  "inclusion": [
+    "Adult hyaline membrane disease"
+  ],
+  "exclusion": [
+    "certain conditions originating in the perinatal period",
+    "certain infectious and parasitic diseases",
+    "complications of pregnancy, childbirth and the puerperium",
+    "congenital malformations, deformations and chromosomal abnormalities",
+    "endocrine, nutritional and metabolic diseases",
+    "injury, poisoning and certain other consequences of external causes",
+    "neoplasms",
+    "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified"
+  ],
+  "children": null
+}

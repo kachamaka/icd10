@@ -1,0 +1,36 @@
+{
+    "icd10code": "G35",
+    "type": "category",
+    "title": "Multiple sclerosis",
+    "chapter": "Diseases of the nervous system",
+    "chapterCode": "VI",
+    "block": "Demyelinating diseases of the central nervous system",
+    "blockCode": "G35-G37",
+    "category": "Multiple sclerosis",
+    "categoryCode": "G35",
+    "subcategory": "",
+    "inclusion": [
+        "Multiple sclerosis (of): NOS",
+        "Multiple sclerosis (of): brain stem",
+        "Multiple sclerosis (of): cord",
+        "Multiple sclerosis (of): disseminated",
+        "Multiple sclerosis (of): generalized"
+    ],
+    "exclusion": [
+        "certain conditions originating in the perinatal period",
+        "certain infectious and parasitic diseases",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified"
+    ],
+    "symptoms": [
+        "fatigue",
+        "muscle weakness",
+        "vision problems",
+        "dizziness",
+        "difficulty with coordination and balance"
+    ]
+}

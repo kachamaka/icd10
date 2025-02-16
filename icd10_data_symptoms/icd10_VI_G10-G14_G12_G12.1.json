@@ -1,0 +1,37 @@
+{
+    "icd10code": "G12.1",
+    "type": "subcategory",
+    "title": "Other inherited spinal muscular atrophy",
+    "chapter": "Diseases of the nervous system",
+    "chapterCode": "VI",
+    "block": "Systemic atrophies primarily affecting the central nervous system",
+    "blockCode": "G10-G14",
+    "category": "Spinal muscular atrophy and related syndromes",
+    "categoryCode": "G12",
+    "subcategory": "G12.1",
+    "inclusion": [
+        "Progressive bulbar palsy of childhood [Fazio-Londe]",
+        "Spinal muscular atrophy: adult form",
+        "Spinal muscular atrophy: childhood form, type II",
+        "Spinal muscular atrophy: distal",
+        "Spinal muscular atrophy: juvenile form, type III [Kugelberg-Welander]",
+        "Spinal muscular atrophy: scapuloperoneal form"
+    ],
+    "exclusion": [
+        "certain conditions originating in the perinatal period",
+        "certain infectious and parasitic diseases",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified"
+    ],
+    "symptoms": [
+        "muscle weakness",
+        "difficulty swallowing",
+        "breathing problems",
+        "fatigue",
+        "muscle cramps"
+    ]
+}

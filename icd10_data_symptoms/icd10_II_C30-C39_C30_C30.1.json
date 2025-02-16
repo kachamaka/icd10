@@ -1,0 +1,32 @@
+{
+    "icd10code": "C30.1",
+    "type": "subcategory",
+    "title": "Malignant neoplasm: Middle ear",
+    "chapter": "Neoplasms",
+    "chapterCode": "II",
+    "block": "Malignant neoplasms of respiratory and intrathoracic organs",
+    "blockCode": "C30-C39",
+    "category": "Malignant neoplasm of nasal cavity and middle ear",
+    "categoryCode": "C30",
+    "subcategory": "C30.1",
+    "inclusion": [
+        "middle ear",
+        "Eustachian tube",
+        "Inner ear",
+        "Mastoid air cells"
+    ],
+    "exclusion": [
+        "mesothelioma",
+        "auricular canal (external)",
+        "bone of ear (meatus)",
+        "cartilage of ear",
+        "skin of (external) ear"
+    ],
+    "symptoms": [
+        "nasal congestion",
+        "loss of smell",
+        "facial pain or pressure",
+        "nosebleeds",
+        "persistent runny nose"
+    ]
+}

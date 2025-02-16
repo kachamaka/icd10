@@ -1,0 +1,28 @@
+{
+  "type": "subcategory",
+  "chapterCode": "X",
+  "chapter": "Diseases of the respiratory system",
+  "blockCode": "J95-J99",
+  "block": "Other diseases of the respiratory system",
+  "categoryCode": "J96",
+  "category": "Respiratory failure, not elsewhere classified",
+  "subcategory": "J96.1",
+  "title": "Chronic respiratory failure",
+  "inclusion": null,
+  "exclusion": [
+    "certain conditions originating in the perinatal period",
+    "certain infectious and parasitic diseases",
+    "complications of pregnancy, childbirth and the puerperium",
+    "congenital malformations, deformations and chromosomal abnormalities",
+    "endocrine, nutritional and metabolic diseases",
+    "injury, poisoning and certain other consequences of external causes",
+    "neoplasms",
+    "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+    "cardiorespiratory failure",
+    "postprocedural respiratory failure",
+    "respiratory: arrest",
+    "respiratory: distress: syndrome of adult",
+    "respiratory: distress: in newborn"
+  ],
+  "children": null
+}

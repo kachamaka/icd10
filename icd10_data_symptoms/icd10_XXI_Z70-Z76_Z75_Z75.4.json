@@ -1,0 +1,17 @@
+{
+    "icd10code": "Z75.4",
+    "type": "subcategory",
+    "title": "Unavailability and inaccessibility of other helping agencies",
+    "chapter": "Factors influencing health status and contact with health services",
+    "chapterCode": "XXI",
+    "block": "Persons encountering health services in other circumstances",
+    "blockCode": "Z70-Z76",
+    "category": "Problems related to medical facilities and other health care",
+    "categoryCode": "Z75",
+    "subcategory": "Z75.4",
+    "inclusion": null,
+    "exclusion": null,
+    "symptoms": [
+        "asymptomatic"
+    ]
+}

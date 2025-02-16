@@ -1,0 +1,32 @@
+{
+    "icd10code": "L56.3",
+    "type": "subcategory",
+    "title": "Solar urticaria",
+    "chapter": "Diseases of the skin and subcutaneous tissue",
+    "chapterCode": "XII",
+    "block": "Radiation-related disorders of the skin and subcutaneous tissue",
+    "blockCode": "L55-L59",
+    "category": "Other acute skin changes due to ultraviolet radiation",
+    "categoryCode": "L56",
+    "subcategory": "L56.3",
+    "inclusion": null,
+    "exclusion": [
+        "certain conditions originating in the perinatal period",
+        "certain infectious and parasitic diseases",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "lipomelanotic reticulosis",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "systemic connective tissue disorders"
+    ],
+    "symptoms": [
+        "redness",
+        "blisters",
+        "peeling skin",
+        "itching",
+        "pain"
+    ]
+}

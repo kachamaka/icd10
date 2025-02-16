@@ -1,0 +1,34 @@
+{
+    "icd10code": "J93.9",
+    "type": "subcategory",
+    "title": "Pneumothorax, unspecified",
+    "chapter": "Diseases of the respiratory system",
+    "chapterCode": "X",
+    "block": "Other diseases of pleura",
+    "blockCode": "J90-J94",
+    "category": "Pneumothorax",
+    "categoryCode": "J93",
+    "subcategory": "J93.9",
+    "inclusion": null,
+    "exclusion": [
+        "certain conditions originating in the perinatal period",
+        "certain infectious and parasitic diseases",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "pneumothorax: congenital or perinatal",
+        "pneumothorax: traumatic",
+        "pneumothorax: tuberculous (current disease)",
+        "pyopneumothorax"
+    ],
+    "symptoms": [
+        "chest pain",
+        "shortness of breath",
+        "dry cough",
+        "fatigue",
+        "asymptomatic"
+    ]
+}

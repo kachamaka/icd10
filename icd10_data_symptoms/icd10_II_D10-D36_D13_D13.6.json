@@ -1,0 +1,25 @@
+{
+    "icd10code": "D13.6",
+    "type": "subcategory",
+    "title": "Benign neoplasm: Pancreas",
+    "chapter": "Neoplasms",
+    "chapterCode": "II",
+    "block": "Benign neoplasms",
+    "blockCode": "D10-D36",
+    "category": "Benign neoplasm of other and ill-defined parts of digestive system",
+    "categoryCode": "D13",
+    "subcategory": "D13.6",
+    "inclusion": [
+        "morphology codes with behaviour code /0"
+    ],
+    "exclusion": [
+        "endocrine pancreas"
+    ],
+    "symptoms": [
+        "unexplained weight loss",
+        "abdominal discomfort or bloating",
+        "loss of appetite",
+        "nausea",
+        "vomiting"
+    ]
+}

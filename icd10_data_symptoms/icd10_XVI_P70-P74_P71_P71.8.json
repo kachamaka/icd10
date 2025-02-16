@@ -1,0 +1,31 @@
+{
+    "icd10code": "P71.8",
+    "type": "subcategory",
+    "title": "Other transitory neonatal disorders of calcium and magnesium metabolism",
+    "chapter": "Certain conditions originating in the perinatal period",
+    "chapterCode": "XVI",
+    "block": "Transitory endocrine and metabolic disorders specific to fetus and newborn",
+    "blockCode": "P70-P74",
+    "category": "Transitory neonatal disorders of calcium and magnesium metabolism",
+    "categoryCode": "P71",
+    "subcategory": "P71.8",
+    "inclusion": [
+        "conditions that have their origin in the perinatal period even though death or morbidity occurs later",
+        "transitory endocrine and metabolic disturbances caused by the infant's response to maternal endocrine and metabolic factors, or its adjustment to extrauterine existence"
+    ],
+    "exclusion": [
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "tetanus neonatorum",
+        "whooping cough"
+    ],
+    "symptoms": [
+        "hypotonia",
+        "poor feeding",
+        "lethargy",
+        "respiratory distress",
+        "jaundice"
+    ]
+}

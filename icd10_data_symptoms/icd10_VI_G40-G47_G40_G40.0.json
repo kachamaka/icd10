@@ -1,0 +1,37 @@
+{
+    "icd10code": "G40.0",
+    "type": "subcategory",
+    "title": "Localization-related (focal)(partial) idiopathic epilepsy and epileptic syndromes with seizures of localized onset",
+    "chapter": "Diseases of the nervous system",
+    "chapterCode": "VI",
+    "block": "Episodic and paroxysmal disorders",
+    "blockCode": "G40-G47",
+    "category": "Epilepsy",
+    "categoryCode": "G40",
+    "subcategory": "G40.0",
+    "inclusion": [
+        "Benign childhood epilepsy with centrotemporal EEG spikes",
+        "Childhood epilepsy with occipital EEG paroxysms"
+    ],
+    "exclusion": [
+        "certain conditions originating in the perinatal period",
+        "certain infectious and parasitic diseases",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "Landau-Kleffner syndrome",
+        "seizure (convulsive) NOS",
+        "status epilepticus",
+        "Todd paralysis"
+    ],
+    "symptoms": [
+        "seizures",
+        "loss of consciousness",
+        "muscle spasms",
+        "aura",
+        "confusion"
+    ]
+}

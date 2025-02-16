@@ -1,0 +1,25 @@
+{
+    "icd10code": "C31.3",
+    "type": "subcategory",
+    "title": "Malignant neoplasm: Sphenoidal sinus",
+    "chapter": "Neoplasms",
+    "chapterCode": "II",
+    "block": "Malignant neoplasms of respiratory and intrathoracic organs",
+    "blockCode": "C30-C39",
+    "category": "Malignant neoplasm of accessory sinuses",
+    "categoryCode": "C31",
+    "subcategory": "C31.3",
+    "inclusion": [
+        "middle ear"
+    ],
+    "exclusion": [
+        "mesothelioma"
+    ],
+    "symptoms": [
+        "facial pain or numbness",
+        "difficulty opening the mouth",
+        "swelling in the cheek or face",
+        "loss of vision",
+        "bloody nasal discharge"
+    ]
+}

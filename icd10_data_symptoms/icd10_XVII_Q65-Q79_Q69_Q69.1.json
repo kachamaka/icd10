@@ -1,0 +1,23 @@
+{
+    "icd10code": "Q69.1",
+    "type": "subcategory",
+    "title": "Accessory thumb(s)",
+    "chapter": "Congenital malformations, deformations and chromosomal abnormalities",
+    "chapterCode": "XVII",
+    "block": "Congenital malformations and deformations of the musculoskeletal system",
+    "blockCode": "Q65-Q79",
+    "category": "Polydactyly",
+    "categoryCode": "Q69",
+    "subcategory": "Q69.1",
+    "inclusion": null,
+    "exclusion": [
+        "inborn errors of metabolism"
+    ],
+    "symptoms": [
+        "underdeveloped fingers",
+        "missing digits",
+        "shortened metacarpals",
+        "abnormal hand appearance",
+        "reduced hand function"
+    ]
+}

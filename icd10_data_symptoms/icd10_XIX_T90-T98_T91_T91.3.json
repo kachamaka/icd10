@@ -1,0 +1,31 @@
+{
+    "icd10code": "T91.3",
+    "type": "subcategory",
+    "title": "Sequelae of injury of spinal cord",
+    "chapter": "Injury, poisoning and certain other consequences of external causes",
+    "chapterCode": "XIX",
+    "block": "Sequelae of injuries, of poisoning and of other consequences of external causes",
+    "blockCode": "T90-T98",
+    "category": "Sequelae of injuries of neck and trunk",
+    "categoryCode": "T91",
+    "subcategory": "T91.3",
+    "inclusion": [
+        "Sequelae of injury classifiable to S14.0-S14.1, S24.0-S24.1, S34.0-S34.1 and T09.3"
+    ],
+    "exclusion": [
+        "birth trauma",
+        "obstetric trauma",
+        "malunion of fracture",
+        "nonunion of fracture [pseudarthrosis]",
+        "pathological fracture",
+        "pathological fracture with osteoporosis",
+        "stress fracture"
+    ],
+    "symptoms": [
+        "pain",
+        "swelling",
+        "stiffness",
+        "limited mobility",
+        "scar tenderness"
+    ]
+}

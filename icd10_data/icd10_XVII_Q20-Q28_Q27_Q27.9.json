@@ -1,0 +1,23 @@
+{
+  "type": "subcategory",
+  "chapterCode": "XVII",
+  "chapter": "Congenital malformations, deformations and chromosomal abnormalities",
+  "blockCode": "Q20-Q28",
+  "block": "Congenital malformations of the circulatory system",
+  "categoryCode": "Q27",
+  "category": "Other congenital malformations of peripheral vascular system",
+  "subcategory": "Q27.9",
+  "title": "Congenital malformation of peripheral vascular system, unspecified",
+  "inclusion": [
+    "Anomaly of artery or vein NOS"
+  ],
+  "exclusion": [
+    "inborn errors of metabolism",
+    "anomalies of: cerebral and precerebral vessels",
+    "anomalies of: coronary vessels",
+    "anomalies of: pulmonary artery",
+    "congenital retinal aneurysm",
+    "haemangioma and lymphangioma"
+  ],
+  "children": null
+}

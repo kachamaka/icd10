@@ -1,0 +1,24 @@
+{
+    "icd10code": "Q97.8",
+    "type": "subcategory",
+    "title": "Other specified sex chromosome abnormalities, female phenotype",
+    "chapter": "Congenital malformations, deformations and chromosomal abnormalities",
+    "chapterCode": "XVII",
+    "block": "Chromosomal abnormalities, not elsewhere classified",
+    "blockCode": "Q90-Q99",
+    "category": "Other sex chromosome abnormalities, female phenotype, not elsewhere classified",
+    "categoryCode": "Q97",
+    "subcategory": "Q97.8",
+    "inclusion": null,
+    "exclusion": [
+        "inborn errors of metabolism",
+        "Turner syndrome"
+    ],
+    "symptoms": [
+        "short stature",
+        "infertility",
+        "developmental delays",
+        "learning disabilities",
+        "facial dysmorphism"
+    ]
+}

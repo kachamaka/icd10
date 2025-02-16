@@ -1,0 +1,36 @@
+{
+    "icd10code": "I87.1",
+    "type": "subcategory",
+    "title": "Compression of vein",
+    "chapter": "Diseases of the circulatory system",
+    "chapterCode": "IX",
+    "block": "Diseases of veins, lymphatic vessels and lymph nodes, not elsewhere classified",
+    "blockCode": "I80-I89",
+    "category": "Other disorders of veins",
+    "categoryCode": "I87",
+    "subcategory": "I87.1",
+    "inclusion": [
+        "Stricture of vein",
+        "Vena cava syndrome (inferior)(superior)"
+    ],
+    "exclusion": [
+        "certain conditions originating in the perinatal period",
+        "certain infectious and parasitic diseases",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "systemic connective tissue disorders",
+        "transient cerebral ischaemic attacks and related syndromes",
+        "pulmonary"
+    ],
+    "symptoms": [
+        "pain and swelling in the legs",
+        "skin discoloration",
+        "warmth over the vein",
+        "cramping or aching in the affected area",
+        "skin ul"
+    ]
+}

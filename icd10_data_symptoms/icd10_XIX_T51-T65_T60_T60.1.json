@@ -1,0 +1,35 @@
+{
+    "icd10code": "T60.1",
+    "type": "subcategory",
+    "title": "Toxic effect: Halogenated insecticides",
+    "chapter": "Injury, poisoning and certain other consequences of external causes",
+    "chapterCode": "XIX",
+    "block": "Toxic effects of substances chiefly nonmedicinal as to source",
+    "blockCode": "T51-T65",
+    "category": "Toxic effect of pesticides",
+    "categoryCode": "T60",
+    "subcategory": "T60.1",
+    "inclusion": [
+        "wood preservatives"
+    ],
+    "exclusion": [
+        "birth trauma",
+        "obstetric trauma",
+        "malunion of fracture",
+        "nonunion of fracture [pseudarthrosis]",
+        "pathological fracture",
+        "pathological fracture with osteoporosis",
+        "stress fracture",
+        "corrosions",
+        "localized toxic effects classified elsewhere",
+        "respiratory conditions due to external agents",
+        "chlorinated hydrocarbons"
+    ],
+    "symptoms": [
+        "nausea",
+        "vomiting",
+        "abdominal pain",
+        "dizziness",
+        "diarrhea"
+    ]
+}

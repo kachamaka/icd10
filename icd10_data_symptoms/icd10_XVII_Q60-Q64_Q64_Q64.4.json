@@ -1,0 +1,27 @@
+{
+    "icd10code": "Q64.4",
+    "type": "subcategory",
+    "title": "Malformation of urachus",
+    "chapter": "Congenital malformations, deformations and chromosomal abnormalities",
+    "chapterCode": "XVII",
+    "block": "Congenital malformations of the urinary system",
+    "blockCode": "Q60-Q64",
+    "category": "Other congenital malformations of urinary system",
+    "categoryCode": "Q64",
+    "subcategory": "Q64.4",
+    "inclusion": [
+        "Cyst of urachus",
+        "Patent urachus",
+        "Prolapse of urachus"
+    ],
+    "exclusion": [
+        "inborn errors of metabolism"
+    ],
+    "symptoms": [
+        "urinary incontinence",
+        "recurrent urinary tract infections",
+        "abdominal pain",
+        "difficulty urinating",
+        "visible urine leakage"
+    ]
+}

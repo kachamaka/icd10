@@ -1,0 +1,23 @@
+{
+    "icd10code": "C10.9",
+    "type": "subcategory",
+    "title": "Malignant neoplasm: Oropharynx, unspecified",
+    "chapter": "Neoplasms",
+    "chapterCode": "II",
+    "block": "Malignant neoplasms of lip, oral cavity and pharynx",
+    "blockCode": "C00-C14",
+    "category": "Malignant neoplasm of oropharynx",
+    "categoryCode": "C10",
+    "subcategory": "C10.9",
+    "inclusion": null,
+    "exclusion": [
+        "tonsil"
+    ],
+    "symptoms": [
+        "difficulty swallowing",
+        "hoarseness",
+        "unexplained weight loss",
+        "persistent sore throat",
+        "ear pain"
+    ]
+}

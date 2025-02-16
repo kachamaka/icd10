@@ -1,0 +1,20 @@
+{
+  "type": "subcategory",
+  "chapterCode": "V",
+  "chapter": "Mental and behavioural disorders",
+  "blockCode": "F50-F59",
+  "block": "Behavioural syndromes associated with physiological disturbances and physical factors",
+  "categoryCode": "F53",
+  "category": "Mental and behavioural disorders associated with the puerperium, not elsewhere classified",
+  "subcategory": "F53.0",
+  "title": "Mild mental and behavioural disorders associated with the puerperium, not elsewhere classified",
+  "inclusion": [
+    "disorders of psychological development",
+    "Depression: postnatal NOS",
+    "Depression: postpartum NOS"
+  ],
+  "exclusion": [
+    "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified"
+  ],
+  "children": null
+}

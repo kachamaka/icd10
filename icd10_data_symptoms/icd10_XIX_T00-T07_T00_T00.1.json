@@ -1,0 +1,39 @@
+{
+    "icd10code": "T00.1",
+    "type": "subcategory",
+    "title": "Superficial injuries involving thorax with abdomen, lower back and pelvis",
+    "chapter": "Injury, poisoning and certain other consequences of external causes",
+    "chapterCode": "XIX",
+    "block": "Injuries involving multiple body regions",
+    "blockCode": "T00-T07",
+    "category": "Superficial injuries involving multiple body regions",
+    "categoryCode": "T00",
+    "subcategory": "T00.1",
+    "inclusion": [
+        "bilateral involvement of limbs of the same body region",
+        "Injuries by type involving two or more body regions classifiable within S00-S99",
+        "Superficial injuries of sites classifiable to S20.-, S30.- and T09.0"
+    ],
+    "exclusion": [
+        "birth trauma",
+        "obstetric trauma",
+        "malunion of fracture",
+        "nonunion of fracture [pseudarthrosis]",
+        "pathological fracture",
+        "pathological fracture with osteoporosis",
+        "stress fracture",
+        "burns and corrosions",
+        "frostbite",
+        "insect bite or sting, venomous",
+        "multiple injuries involving only one body region - see S-section",
+        "sunburn",
+        "with involvement of other body region(s)"
+    ],
+    "symptoms": [
+        "bruising",
+        "swelling",
+        "abrasions",
+        "lacerations",
+        "pain"
+    ]
+}

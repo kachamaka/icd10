@@ -1,0 +1,25 @@
+{
+    "icd10code": "W26.8",
+    "type": "subcategory",
+    "title": "Contact with other sharp object(s), not elsewhere classified",
+    "chapter": "External causes of morbidity and mortality",
+    "chapterCode": "XX",
+    "block": "Exposure to inanimate mechanical forces",
+    "blockCode": "W20-W49",
+    "category": "Contact with other sharp object(s)",
+    "categoryCode": "W26",
+    "subcategory": "W26.8",
+    "inclusion": [
+        "Edge of stiff paper",
+        "Tin can lid"
+    ],
+    "exclusion": [
+        "assault",
+        "contact or collision with animals or persons",
+        "intentional self-harm",
+        "contact with: hand tools (nonpowered)(powered)"
+    ],
+    "symptoms": [
+        "asymptomatic"
+    ]
+}

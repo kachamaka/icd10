@@ -1,0 +1,19 @@
+{
+  "type": "category",
+  "chapterCode": "V",
+  "chapter": "Mental and behavioural disorders",
+  "blockCode": "F50-F59",
+  "block": "Behavioural syndromes associated with physiological disturbances and physical factors",
+  "categoryCode": "F59",
+  "category": "Unspecified behavioural syndromes associated with physiological disturbances and physical factors",
+  "subcategory": "",
+  "title": "Unspecified behavioural syndromes associated with physiological disturbances and physical factors",
+  "inclusion": [
+    "disorders of psychological development",
+    "Psychogenic physiological dysfunction NOS"
+  ],
+  "exclusion": [
+    "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified"
+  ],
+  "children": null
+}

@@ -1,0 +1,31 @@
+{
+    "icd10code": "X88.8",
+    "type": "subcategory",
+    "title": "Assault by other specified gases and vapours",
+    "chapter": "External causes of morbidity and mortality",
+    "chapterCode": "XX",
+    "block": "Assault",
+    "blockCode": "X85-Y09",
+    "category": "Assault by gases and vapours",
+    "categoryCode": "X88",
+    "subcategory": "X88.8",
+    "inclusion": [
+        "homicide",
+        "injuries inflicted by another person with intent to injure or kill, by any means",
+        "Helium (nonmedicinal) NEC",
+        "Lacrimogenic gas [tear gas]",
+        "Nitrogen oxides",
+        "Sulfur dioxide"
+    ],
+    "exclusion": [
+        "injuries due to: legal intervention",
+        "injuries due to: operations of war"
+    ],
+    "symptoms": [
+        "burns",
+        "respiratory distress",
+        "pain",
+        "tissue damage",
+        "shock"
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "icd10code": "D38.4",
+    "type": "subcategory",
+    "title": "Neoplasm of uncertain or unknown behaviour: Thymus",
+    "chapter": "Neoplasms",
+    "chapterCode": "II",
+    "block": "Neoplasms of uncertain or unknown behaviour",
+    "blockCode": "D37-D48",
+    "category": "Neoplasm of uncertain or unknown behaviour of middle ear and respiratory and intrathoracic organs",
+    "categoryCode": "D38",
+    "subcategory": "D38.4",
+    "inclusion": null,
+    "exclusion": [
+        "heart"
+    ],
+    "symptoms": [
+        "dysphagia",
+        "sensation of fullness in the neck",
+        "neck mass or swelling",
+        "hoarseness",
+        "difficulty in breathing"
+    ]
+}

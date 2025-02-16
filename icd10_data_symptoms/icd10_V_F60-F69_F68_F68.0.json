@@ -1,0 +1,26 @@
+{
+    "icd10code": "F68.0",
+    "type": "subcategory",
+    "title": "Elaboration of physical symptoms for psychological reasons",
+    "chapter": "Mental and behavioural disorders",
+    "chapterCode": "V",
+    "block": "Disorders of adult personality and behaviour",
+    "blockCode": "F60-F69",
+    "category": "Other disorders of adult personality and behaviour",
+    "categoryCode": "F68",
+    "subcategory": "F68.0",
+    "inclusion": [
+        "disorders of psychological development",
+        "Compensation neurosis"
+    ],
+    "exclusion": [
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified"
+    ],
+    "symptoms": [
+        "exaggerated perceptions of physical symptoms",
+        "somatic complaints",
+        "anxiety about health",
+        "frequent doctor visits",
+        "requests for unnecessary medical tests"
+    ]
+}

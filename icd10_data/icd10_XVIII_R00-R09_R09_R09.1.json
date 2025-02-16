@@ -1,0 +1,22 @@
+{
+  "type": "subcategory",
+  "chapterCode": "XVIII",
+  "chapter": "Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+  "blockCode": "R00-R09",
+  "block": "Symptoms and signs involving the circulatory and respiratory systems",
+  "categoryCode": "R09",
+  "category": "Other symptoms and signs involving the circulatory and respiratory systems",
+  "subcategory": "R09.1",
+  "title": "Pleurisy",
+  "inclusion": null,
+  "exclusion": [
+    "abnormal findings on antenatal screening of mother",
+    "certain conditions originating in the perinatal period",
+    "respiratory: distress (syndrome)(of): adult",
+    "respiratory: distress (syndrome)(of): newborn",
+    "respiratory: failure",
+    "respiratory: failure newborn",
+    "blood-stained sputum"
+  ],
+  "children": null
+}

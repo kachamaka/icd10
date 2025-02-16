@@ -1,0 +1,29 @@
+{
+    "icd10code": "E61.4",
+    "type": "subcategory",
+    "title": "Chromium deficiency",
+    "chapter": "Endocrine, nutritional and metabolic diseases",
+    "chapterCode": "IV",
+    "block": "Other nutritional deficiencies",
+    "blockCode": "E50-E64",
+    "category": "Deficiency of other nutrient elements",
+    "categoryCode": "E61",
+    "subcategory": "E61.4",
+    "inclusion": null,
+    "exclusion": [
+        "complications of pregnancy, childbirth and the puerperium",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "transitory endocrine and metabolic disorders specific to fetus and newborn",
+        "diabetes mellitus (in): malnutrition-related",
+        "disorders of mineral metabolism",
+        "iodine-deficiency-related thyroid disorders",
+        "sequelae of malnutrition and other nutritional deficiencies"
+    ],
+    "symptoms": [
+        "skin changes",
+        "hair loss",
+        "low energy or fatigue",
+        "changes in taste and smell",
+        "delayed wound healing"
+    ]
+}

@@ -1,0 +1,24 @@
+{
+  "type": "category",
+  "chapterCode": "V",
+  "chapter": "Mental and behavioural disorders",
+  "blockCode": "F80-F89",
+  "block": "Disorders of psychological development",
+  "categoryCode": "F82",
+  "category": "Specific developmental disorder of motor function",
+  "subcategory": "",
+  "title": "Specific developmental disorder of motor function",
+  "inclusion": [
+    "disorders of psychological development",
+    "Clumsy child syndrome",
+    "Developmental: coordination disorder",
+    "Developmental: dyspraxia"
+  ],
+  "exclusion": [
+    "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+    "abnormalities of gait and mobility",
+    "lack of coordination",
+    "lack of coordination secondary to mental retardation"
+  ],
+  "children": null
+}

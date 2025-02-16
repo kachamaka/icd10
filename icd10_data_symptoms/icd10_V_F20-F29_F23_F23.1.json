@@ -1,0 +1,27 @@
+{
+    "icd10code": "F23.1",
+    "type": "subcategory",
+    "title": "Acute polymorphic psychotic disorder with symptoms of schizophrenia",
+    "chapter": "Mental and behavioural disorders",
+    "chapterCode": "V",
+    "block": "Schizophrenia, schizotypal and delusional disorders",
+    "blockCode": "F20-F29",
+    "category": "Acute and transient psychotic disorders",
+    "categoryCode": "F23",
+    "subcategory": "F23.1",
+    "inclusion": [
+        "disorders of psychological development",
+        "Bouffée délirante with symptoms of schizophrenia",
+        "Cycloid psychosis with symptoms of schizophrenia"
+    ],
+    "exclusion": [
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified"
+    ],
+    "symptoms": [
+        "confusion",
+        "disorientation",
+        "hallucinations",
+        "agitation",
+        "rapid mood changes"
+    ]
+}

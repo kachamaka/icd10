@@ -1,0 +1,26 @@
+{
+    "icd10code": "C03.0",
+    "type": "subcategory",
+    "title": "Malignant neoplasm: Upper gum",
+    "chapter": "Neoplasms",
+    "chapterCode": "II",
+    "block": "Malignant neoplasms of lip, oral cavity and pharynx",
+    "blockCode": "C00-C14",
+    "category": "Malignant neoplasm of gum",
+    "categoryCode": "C03",
+    "subcategory": "C03.0",
+    "inclusion": [
+        "alveolar (ridge) mucosa",
+        "gingiva"
+    ],
+    "exclusion": [
+        "malignant odontogenic neoplasms"
+    ],
+    "symptoms": [
+        "difficulty swallowing",
+        "mouth pain",
+        "swollen lymph nodes in the neck",
+        "unexplained weight loss",
+        "persistent bad breath"
+    ]
+}

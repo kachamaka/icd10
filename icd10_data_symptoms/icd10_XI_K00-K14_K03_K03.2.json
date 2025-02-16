@@ -1,0 +1,40 @@
+{
+    "icd10code": "K03.2",
+    "type": "subcategory",
+    "title": "Erosion of teeth",
+    "chapter": "Diseases of the digestive system",
+    "chapterCode": "XI",
+    "block": "Diseases of oral cavity, salivary glands and jaws",
+    "blockCode": "K00-K14",
+    "category": "Other diseases of hard tissues of teeth",
+    "categoryCode": "K03",
+    "subcategory": "K03.2",
+    "inclusion": [
+        "Erosion of teeth: NOS",
+        "Erosion of teeth: due to: diet",
+        "Erosion of teeth: due to: drugs and medicaments",
+        "Erosion of teeth: due to: persistent vomiting",
+        "Erosion of teeth: idiopathic",
+        "Erosion of teeth: occupational"
+    ],
+    "exclusion": [
+        "certain conditions originating in the perinatal period",
+        "certain infectious and parasitic diseases",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "bruxism",
+        "dental caries",
+        "teeth-grinding NOS"
+    ],
+    "symptoms": [
+        "tooth discoloration",
+        "brown spots on teeth",
+        "weakened enamel",
+        "chalky white spots",
+        "abnormal tooth sensitivity"
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "icd10code": "N45.0",
+    "type": "subcategory",
+    "title": "Orchitis, epididymitis and epididymo-orchitis with abscess",
+    "chapter": "Diseases of the genitourinary system",
+    "chapterCode": "XIV",
+    "block": "Diseases of male genital organs",
+    "blockCode": "N40-N51",
+    "category": "Orchitis and epididymitis",
+    "categoryCode": "N45",
+    "subcategory": "N45.0",
+    "inclusion": [
+        "Abscess of epididymis or testis"
+    ],
+    "exclusion": [
+        "certain conditions originating in the perinatal period",
+        "certain infectious and parasitic diseases",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified"
+    ],
+    "symptoms": [
+        "pain",
+        "swelling",
+        "tenderness in the scrotum",
+        "fever",
+        "urinary symptoms"
+    ]
+}

@@ -1,0 +1,21 @@
+{
+  "type": "subcategory",
+  "chapterCode": "XVII",
+  "chapter": "Congenital malformations, deformations and chromosomal abnormalities",
+  "blockCode": "Q60-Q64",
+  "block": "Congenital malformations of the urinary system",
+  "categoryCode": "Q62",
+  "category": "Congenital obstructive defects of renal pelvis and congenital malformations of ureter",
+  "subcategory": "Q62.6",
+  "title": "Malposition of ureter",
+  "inclusion": [
+    "Deviation (of) ureter or ureteric orifice",
+    "Displacement (of) ureter or ureteric orifice",
+    "Ectopic (of) ureter or ureteric orifice",
+    "Implantation, anomalous (of) ureter or ureteric orifice"
+  ],
+  "exclusion": [
+    "inborn errors of metabolism"
+  ],
+  "children": null
+}

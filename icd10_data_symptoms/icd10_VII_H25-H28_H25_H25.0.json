@@ -1,0 +1,37 @@
+{
+    "icd10code": "H25.0",
+    "type": "subcategory",
+    "title": "Senile incipient cataract",
+    "chapter": "Diseases of the eye and adnexa",
+    "chapterCode": "VII",
+    "block": "Disorders of lens",
+    "blockCode": "H25-H28",
+    "category": "Senile cataract",
+    "categoryCode": "H25",
+    "subcategory": "H25.0",
+    "inclusion": [
+        "Senile cataract: coronary",
+        "Senile cataract: cortical",
+        "Senile cataract: punctate",
+        "Subcapsular polar senile cataract (anterior)(posterior)",
+        "Water clefts"
+    ],
+    "exclusion": [
+        "certain conditions originating in the perinatal period",
+        "certain infectious and parasitic diseases",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "capsular glaucoma with pseudoexfoliation of lens"
+    ],
+    "symptoms": [
+        "blurred vision",
+        "difficulty with night vision",
+        "frequent prescription changes",
+        "seeing halos around lights",
+        "and cloudy vision"
+    ]
+}

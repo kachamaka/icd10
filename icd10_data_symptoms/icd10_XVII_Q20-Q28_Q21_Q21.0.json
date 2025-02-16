@@ -1,0 +1,24 @@
+{
+    "icd10code": "Q21.0",
+    "type": "subcategory",
+    "title": "Ventricular septal defect",
+    "chapter": "Congenital malformations, deformations and chromosomal abnormalities",
+    "chapterCode": "XVII",
+    "block": "Congenital malformations of the circulatory system",
+    "blockCode": "Q20-Q28",
+    "category": "Congenital malformations of cardiac septa",
+    "categoryCode": "Q21",
+    "subcategory": "Q21.0",
+    "inclusion": null,
+    "exclusion": [
+        "inborn errors of metabolism",
+        "acquired cardiac septal defect"
+    ],
+    "symptoms": [
+        "heart murmur",
+        "shortness of breath",
+        "frequent respiratory infections",
+        "fatigue",
+        "poor weight gain"
+    ]
+}

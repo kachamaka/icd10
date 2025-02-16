@@ -1,0 +1,29 @@
+{
+    "icd10code": "T74.0",
+    "type": "subcategory",
+    "title": "Neglect or abandonment",
+    "chapter": "Injury, poisoning and certain other consequences of external causes",
+    "chapterCode": "XIX",
+    "block": "Other and unspecified effects of external causes",
+    "blockCode": "T66-T78",
+    "category": "Maltreatment syndromes",
+    "categoryCode": "T74",
+    "subcategory": "T74.0",
+    "inclusion": null,
+    "exclusion": [
+        "birth trauma",
+        "obstetric trauma",
+        "malunion of fracture",
+        "nonunion of fracture [pseudarthrosis]",
+        "pathological fracture",
+        "pathological fracture with osteoporosis",
+        "stress fracture"
+    ],
+    "symptoms": [
+        "bruising",
+        "fearfulness",
+        "withdrawal",
+        "unexplained injuries",
+        "inconsistent stories"
+    ]
+}

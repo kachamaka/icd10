@@ -1,0 +1,40 @@
+{
+    "icd10code": "K14.1",
+    "type": "subcategory",
+    "title": "Geographic tongue",
+    "chapter": "Diseases of the digestive system",
+    "chapterCode": "XI",
+    "block": "Diseases of oral cavity, salivary glands and jaws",
+    "blockCode": "K00-K14",
+    "category": "Diseases of tongue",
+    "categoryCode": "K14",
+    "subcategory": "K14.1",
+    "inclusion": [
+        "Benign migratory glossitis",
+        "Glossitis areata exfoliativa"
+    ],
+    "exclusion": [
+        "certain conditions originating in the perinatal period",
+        "certain infectious and parasitic diseases",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "erythroplakia of tongue",
+        "focal epithelial hyperplasia of tongue",
+        "leukoedema of tongue",
+        "leukoplakia of tongue",
+        "hairy leukoplakia",
+        "macroglossia (congenital)",
+        "submucous fibrosis of tongue"
+    ],
+    "symptoms": [
+        "tongue pain",
+        "tongue swelling",
+        "difficulty speaking",
+        "difficulty chewing",
+        "tongue redness"
+    ]
+}

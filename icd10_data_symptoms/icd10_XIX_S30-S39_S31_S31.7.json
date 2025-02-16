@@ -1,0 +1,48 @@
+{
+    "icd10code": "S31.7",
+    "type": "subcategory",
+    "title": "Multiple open wounds of abdomen, lower back and pelvis",
+    "chapter": "Injury, poisoning and certain other consequences of external causes",
+    "chapterCode": "XIX",
+    "block": "Injuries to the abdomen, lower back, lumbar spine and pelvis",
+    "blockCode": "S30-S39",
+    "category": "Open wound of abdomen, lower back and pelvis",
+    "categoryCode": "S31",
+    "subcategory": "S31.7",
+    "inclusion": [
+        "abdominal wall",
+        "anus",
+        "buttock",
+        "external genitalia",
+        "flank",
+        "groin"
+    ],
+    "exclusion": [
+        "birth trauma",
+        "obstetric trauma",
+        "malunion of fracture",
+        "nonunion of fracture [pseudarthrosis]",
+        "pathological fracture",
+        "pathological fracture with osteoporosis",
+        "stress fracture",
+        "burns and corrosions",
+        "effects of foreign body in: anus and rectum",
+        "effects of foreign body in: genitourinary tract",
+        "effects of foreign body in: stomach, small intestine and colon",
+        "fracture of spine NOS",
+        "frostbite",
+        "injuries of: back NOS",
+        "injuries of: spinal cord NOS",
+        "injuries of: trunk NOS",
+        "insect bite or sting, venomous",
+        "peritoneum and retroperitoneum",
+        "traumatic amputation of part of abdomen, lower back and pelvis"
+    ],
+    "symptoms": [
+        "pain",
+        "swelling",
+        "tenderness",
+        "bruising",
+        "skin laceration"
+    ]
+}

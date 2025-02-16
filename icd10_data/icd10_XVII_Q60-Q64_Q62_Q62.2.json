@@ -1,0 +1,18 @@
+{
+  "type": "subcategory",
+  "chapterCode": "XVII",
+  "chapter": "Congenital malformations, deformations and chromosomal abnormalities",
+  "blockCode": "Q60-Q64",
+  "block": "Congenital malformations of the urinary system",
+  "categoryCode": "Q62",
+  "category": "Congenital obstructive defects of renal pelvis and congenital malformations of ureter",
+  "subcategory": "Q62.2",
+  "title": "Congenital megaloureter",
+  "inclusion": [
+    "Congenital dilatation of ureter"
+  ],
+  "exclusion": [
+    "inborn errors of metabolism"
+  ],
+  "children": null
+}

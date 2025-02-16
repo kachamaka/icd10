@@ -1,0 +1,37 @@
+{
+    "icd10code": "M12.1",
+    "type": "subcategory",
+    "title": "Kaschin-Beck disease",
+    "chapter": "Diseases of the musculoskeletal system and connective tissue",
+    "chapterCode": "XIII",
+    "block": "Inflammatory polyarthropathies",
+    "blockCode": "M05-M14",
+    "category": "Other specific arthropathies",
+    "categoryCode": "M12",
+    "subcategory": "M12.1",
+    "inclusion": [
+        "Disorders affecting predominantly peripheral (limb) joints"
+    ],
+    "exclusion": [
+        "certain conditions originating in the perinatal period",
+        "certain disorders of the temporomandibular joint",
+        "certain infectious and parasitic diseases",
+        "compartment syndrome",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "polyarthritis NOS",
+        "viral arthropathies",
+        "adult-onset Still disease"
+    ],
+    "symptoms": [
+        "joint swelling",
+        "joint pain",
+        "stiffness",
+        "decreased range of motion",
+        "joint warmth"
+    ]
+}

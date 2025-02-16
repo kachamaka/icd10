@@ -1,0 +1,23 @@
+{
+    "icd10code": "C05.1",
+    "type": "subcategory",
+    "title": "Malignant neoplasm: Soft palate",
+    "chapter": "Neoplasms",
+    "chapterCode": "II",
+    "block": "Malignant neoplasms of lip, oral cavity and pharynx",
+    "blockCode": "C00-C14",
+    "category": "Malignant neoplasm of palate",
+    "categoryCode": "C05",
+    "subcategory": "C05.1",
+    "inclusion": null,
+    "exclusion": [
+        "nasopharyngeal surface of soft palate"
+    ],
+    "symptoms": [
+        "persistent mouth sore",
+        "difficulty swallowing or chewing",
+        "chronic hoarseness",
+        "unexplained weight loss",
+        "bleeding in the mouth"
+    ]
+}

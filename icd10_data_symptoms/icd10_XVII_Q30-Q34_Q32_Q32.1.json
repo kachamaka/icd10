@@ -1,0 +1,31 @@
+{
+    "icd10code": "Q32.1",
+    "type": "subcategory",
+    "title": "Other congenital malformations of trachea",
+    "chapter": "Congenital malformations, deformations and chromosomal abnormalities",
+    "chapterCode": "XVII",
+    "block": "Congenital malformations of the respiratory system",
+    "blockCode": "Q30-Q34",
+    "category": "Congenital malformations of trachea and bronchus",
+    "categoryCode": "Q32",
+    "subcategory": "Q32.1",
+    "inclusion": [
+        "Anomaly of tracheal cartilage",
+        "Atresia of trachea",
+        "Congenital: dilatation of trachea",
+        "Congenital: malformation of trachea",
+        "Congenital: stenosis of trachea",
+        "Congenital tracheocele"
+    ],
+    "exclusion": [
+        "inborn errors of metabolism",
+        "congenital bronchiectasis"
+    ],
+    "symptoms": [
+        "difficulty breathing",
+        "wheezing",
+        "persistent cough",
+        "recurrent respiratory infections",
+        "stridor"
+    ]
+}

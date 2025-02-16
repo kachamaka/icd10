@@ -1,0 +1,14 @@
+{
+  "type": "category",
+  "chapterCode": "XX",
+  "chapter": "External causes of morbidity and mortality",
+  "blockCode": "Y90-Y98",
+  "block": "Supplementary factors related to causes of morbidity and mortality classified elsewhere",
+  "categoryCode": "Y96",
+  "category": "Work-related condition",
+  "subcategory": "",
+  "title": "Work-related condition",
+  "inclusion": null,
+  "exclusion": null,
+  "children": null
+}

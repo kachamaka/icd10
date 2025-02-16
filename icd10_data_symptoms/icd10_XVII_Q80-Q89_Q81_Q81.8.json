@@ -1,0 +1,23 @@
+{
+    "icd10code": "Q81.8",
+    "type": "subcategory",
+    "title": "Other epidermolysis bullosa",
+    "chapter": "Congenital malformations, deformations and chromosomal abnormalities",
+    "chapterCode": "XVII",
+    "block": "Other congenital malformations",
+    "blockCode": "Q80-Q89",
+    "category": "Epidermolysis bullosa",
+    "categoryCode": "Q81",
+    "subcategory": "Q81.8",
+    "inclusion": null,
+    "exclusion": [
+        "inborn errors of metabolism"
+    ],
+    "symptoms": [
+        "blister formation",
+        "skin fragility",
+        "delayed wound healing",
+        "scarring",
+        "milia formation"
+    ]
+}

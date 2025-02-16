@@ -1,0 +1,29 @@
+{
+    "icd10code": "C44.1",
+    "type": "subcategory",
+    "title": "Malignant neoplasm: Skin of eyelid, including canthus",
+    "chapter": "Neoplasms",
+    "chapterCode": "II",
+    "block": "Melanoma and other malignant neoplasms of skin",
+    "blockCode": "C43-C44",
+    "category": "Other malignant neoplasms of skin",
+    "categoryCode": "C44",
+    "subcategory": "C44.1",
+    "inclusion": [
+        "malignant neoplasm of: sebaceous glands",
+        "malignant neoplasm of: sweat glands"
+    ],
+    "exclusion": [
+        "Kaposi sarcoma",
+        "malignant melanoma of skin",
+        "skin of genital organs",
+        "connective tissue of eyelid"
+    ],
+    "symptoms": [
+        "skin lump or growth",
+        "changes in skin color",
+        "bleeding or oozing from the growth",
+        "itching or tenderness",
+        "ulceration or open sore"
+    ]
+}

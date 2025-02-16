@@ -1,0 +1,26 @@
+{
+    "icd10code": "C72.5",
+    "type": "subcategory",
+    "title": "Malignant neoplasm: Other and unspecified cranial nerves",
+    "chapter": "Neoplasms",
+    "chapterCode": "II",
+    "block": "Malignant neoplasms of eye, brain and other parts of central nervous system",
+    "blockCode": "C69-C72",
+    "category": "Malignant neoplasm of spinal cord, cranial nerves and other parts of central nervous system",
+    "categoryCode": "C72",
+    "subcategory": "C72.5",
+    "inclusion": [
+        "Cranial nerve NOS"
+    ],
+    "exclusion": [
+        "meninges",
+        "peripheral nerves and autonomic nervous system"
+    ],
+    "symptoms": [
+        "headache",
+        "blurred or double vision",
+        "nausea and vomiting",
+        "difficulty speaking",
+        "loss of sensation in the facial area"
+    ]
+}

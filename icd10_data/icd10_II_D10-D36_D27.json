@@ -1,0 +1,16 @@
+{
+  "type": "category",
+  "chapterCode": "II",
+  "chapter": "Neoplasms",
+  "blockCode": "D10-D36",
+  "block": "Benign neoplasms",
+  "categoryCode": "D27",
+  "category": "Benign neoplasm of ovary",
+  "subcategory": "",
+  "title": "Benign neoplasm of ovary",
+  "inclusion": [
+    "morphology codes with behaviour code /0"
+  ],
+  "exclusion": null,
+  "children": null
+}

@@ -1,0 +1,37 @@
+{
+    "icd10code": "E71.1",
+    "type": "subcategory",
+    "title": "Other disorders of branched-chain amino-acid metabolism",
+    "chapter": "Endocrine, nutritional and metabolic diseases",
+    "chapterCode": "IV",
+    "block": "Metabolic disorders",
+    "blockCode": "E70-E90",
+    "category": "Disorders of branched-chain amino-acid metabolism and fatty-acid metabolism",
+    "categoryCode": "E71",
+    "subcategory": "E71.1",
+    "inclusion": [
+        "Hyperleucine-isoleucinaemia",
+        "Hypervalinaemia",
+        "Isovaleric acidaemia",
+        "Methylmalonic acidaemia",
+        "Propionic acidaemia"
+    ],
+    "exclusion": [
+        "complications of pregnancy, childbirth and the puerperium",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "transitory endocrine and metabolic disorders specific to fetus and newborn",
+        "androgen resistance syndrome",
+        "congenital adrenal hyperplasia",
+        "Ehlers-Danlos syndrome",
+        "haemolytic anaemias due to enzyme disorders",
+        "Marfan syndrome",
+        "5-alpha-reductase deficiency"
+    ],
+    "symptoms": [
+        "fatigue",
+        "muscle weakness",
+        "difficulty swallowing",
+        "rapid heart rate",
+        "fine tremor in hands"
+    ]
+}

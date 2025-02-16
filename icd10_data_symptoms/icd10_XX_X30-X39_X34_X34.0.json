@@ -1,0 +1,23 @@
+{
+    "icd10code": "X34.0",
+    "type": "subcategory",
+    "title": "Victim of cataclysmic earth movements caused by earthquake",
+    "chapter": "External causes of morbidity and mortality",
+    "chapterCode": "XX",
+    "block": "Exposure to forces of nature",
+    "blockCode": "X30-X39",
+    "category": "Victim of earthquake",
+    "categoryCode": "X34",
+    "subcategory": "X34.0",
+    "inclusion": [
+        "Trapped in or injured by collapsing building or other structure due to earthquake"
+    ],
+    "exclusion": null,
+    "symptoms": [
+        "injuries",
+        "cuts",
+        "bruises",
+        "fractures",
+        "burns"
+    ]
+}

@@ -1,0 +1,34 @@
+{
+  "type": "category",
+  "chapterCode": "X",
+  "chapter": "Diseases of the respiratory system",
+  "blockCode": "J40-J47",
+  "block": "Chronic lower respiratory diseases",
+  "categoryCode": "J42",
+  "category": "Unspecified chronic bronchitis",
+  "subcategory": "",
+  "title": "Unspecified chronic bronchitis",
+  "inclusion": [
+    "Chronic: bronchitis NOS",
+    "Chronic: tracheitis",
+    "Chronic: tracheobronchitis"
+  ],
+  "exclusion": [
+    "certain conditions originating in the perinatal period",
+    "certain infectious and parasitic diseases",
+    "complications of pregnancy, childbirth and the puerperium",
+    "congenital malformations, deformations and chromosomal abnormalities",
+    "endocrine, nutritional and metabolic diseases",
+    "injury, poisoning and certain other consequences of external causes",
+    "neoplasms",
+    "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+    "cystic fibrosis",
+    "respiratory infection NOS",
+    "chronic: asthmatic bronchitis",
+    "chronic: bronchitis: simple and mucopurulent",
+    "chronic: bronchitis: with airways obstruction",
+    "chronic: emphysematous bronchitis",
+    "chronic: obstructive pulmonary disease NOS"
+  ],
+  "children": null
+}

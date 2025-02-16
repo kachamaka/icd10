@@ -1,0 +1,23 @@
+{
+    "icd10code": "C51.8",
+    "type": "subcategory",
+    "title": "Malignant neoplasm: Overlapping lesion of vulva",
+    "chapter": "Neoplasms",
+    "chapterCode": "II",
+    "block": "Malignant neoplasms of female genital organs",
+    "blockCode": "C51-C58",
+    "category": "Malignant neoplasm of vulva",
+    "categoryCode": "C51",
+    "subcategory": "C51.8",
+    "inclusion": [
+        "skin of female genital organs"
+    ],
+    "exclusion": null,
+    "symptoms": [
+        "abnormal vaginal bleeding",
+        "pain during sexual intercourse",
+        "pelvic pain",
+        "foul-smelling vaginal discharge",
+        "presence of a lump in the vagina"
+    ]
+}

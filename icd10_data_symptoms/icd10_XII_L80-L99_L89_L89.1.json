@@ -1,0 +1,40 @@
+{
+    "icd10code": "L89.1",
+    "type": "subcategory",
+    "title": "Stage II decubitus ulcer",
+    "chapter": "Diseases of the skin and subcutaneous tissue",
+    "chapterCode": "XII",
+    "block": "Other disorders of the skin and subcutaneous tissue",
+    "blockCode": "L80-L99",
+    "category": "Decubitus ulcer and pressure area",
+    "categoryCode": "L89",
+    "subcategory": "L89.1",
+    "inclusion": [
+        "Bedsore",
+        "Plaster ulcer",
+        "Decubitus [pressure] ulcer with: abrasion",
+        "Decubitus [pressure] ulcer with: blister",
+        "Decubitus [pressure] ulcer with: partial thickness skin loss involving epidermis and/or dermis",
+        "Decubitus [pressure] ulcer with: skin loss NOS"
+    ],
+    "exclusion": [
+        "certain conditions originating in the perinatal period",
+        "certain infectious and parasitic diseases",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "lipomelanotic reticulosis",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "systemic connective tissue disorders",
+        "decubitus [pressure] ulcer and pressure area"
+    ],
+    "symptoms": [
+        "pain",
+        "redness",
+        "swelling",
+        "skin breakdown",
+        "open sore"
+    ]
+}

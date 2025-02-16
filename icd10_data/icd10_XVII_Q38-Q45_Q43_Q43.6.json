@@ -1,0 +1,20 @@
+{
+  "type": "subcategory",
+  "chapterCode": "XVII",
+  "chapter": "Congenital malformations, deformations and chromosomal abnormalities",
+  "blockCode": "Q38-Q45",
+  "block": "Other congenital malformations of the digestive system",
+  "categoryCode": "Q43",
+  "category": "Other congenital malformations of intestine",
+  "subcategory": "Q43.6",
+  "title": "Congenital fistula of rectum and anus",
+  "inclusion": null,
+  "exclusion": [
+    "inborn errors of metabolism",
+    "congenital fistula: rectovaginal",
+    "congenital fistula: urethrorectal",
+    "pilonidal fistula or sinus",
+    "with absence, atresia and stenosis"
+  ],
+  "children": null
+}

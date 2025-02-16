@@ -1,0 +1,21 @@
+{
+    "icd10code": "C78.8",
+    "type": "subcategory",
+    "title": "Secondary malignant neoplasm of other and unspecified digestive organs",
+    "chapter": "Neoplasms",
+    "chapterCode": "II",
+    "block": "Malignant neoplasms of ill-defined, secondary and unspecified sites",
+    "blockCode": "C76-C80",
+    "category": "Secondary malignant neoplasm of respiratory and digestive organs",
+    "categoryCode": "C78",
+    "subcategory": "C78.8",
+    "inclusion": null,
+    "exclusion": null,
+    "symptoms": [
+        "unintended weight loss",
+        "fatigue",
+        "persistent cough",
+        "loss of appetite",
+        "persistent pain"
+    ]
+}

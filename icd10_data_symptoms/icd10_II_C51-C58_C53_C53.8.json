@@ -1,0 +1,23 @@
+{
+    "icd10code": "C53.8",
+    "type": "subcategory",
+    "title": "Malignant neoplasm: Overlapping lesion of cervix uteri",
+    "chapter": "Neoplasms",
+    "chapterCode": "II",
+    "block": "Malignant neoplasms of female genital organs",
+    "blockCode": "C51-C58",
+    "category": "Malignant neoplasm of cervix uteri",
+    "categoryCode": "C53",
+    "subcategory": "C53.8",
+    "inclusion": [
+        "skin of female genital organs"
+    ],
+    "exclusion": null,
+    "symptoms": [
+        "vaginal bleeding after menopause",
+        "pelvic pain",
+        "abnormal vaginal discharge",
+        "pain during intercourse",
+        "uncontrollable and frequent urination"
+    ]
+}

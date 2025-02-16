@@ -1,0 +1,27 @@
+{
+    "icd10code": "D18.0",
+    "type": "subcategory",
+    "title": "Haemangioma, any site",
+    "chapter": "Neoplasms",
+    "chapterCode": "II",
+    "block": "Benign neoplasms",
+    "blockCode": "D10-D36",
+    "category": "Haemangioma and lymphangioma, any site",
+    "categoryCode": "D18",
+    "subcategory": "D18.0",
+    "inclusion": [
+        "morphology codes with behaviour code /0",
+        "morphology codes M912-M917 with behaviour code /0",
+        "Angioma NOS"
+    ],
+    "exclusion": [
+        "blue or pigmented naevus"
+    ],
+    "symptoms": [
+        "painless lump or mass",
+        "skin discoloration",
+        "easily bruising",
+        "pain or discomfort",
+        "itchiness or heat at site"
+    ]
+}

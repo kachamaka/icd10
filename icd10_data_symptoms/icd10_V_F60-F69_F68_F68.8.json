@@ -1,0 +1,27 @@
+{
+    "icd10code": "F68.8",
+    "type": "subcategory",
+    "title": "Other specified disorders of adult personality and behaviour",
+    "chapter": "Mental and behavioural disorders",
+    "chapterCode": "V",
+    "block": "Disorders of adult personality and behaviour",
+    "blockCode": "F60-F69",
+    "category": "Other disorders of adult personality and behaviour",
+    "categoryCode": "F68",
+    "subcategory": "F68.8",
+    "inclusion": [
+        "disorders of psychological development",
+        "Character disorder NOS",
+        "Relationship disorder NOS"
+    ],
+    "exclusion": [
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified"
+    ],
+    "symptoms": [
+        "anxiety",
+        "somatic complaints",
+        "unexplained physical symptoms",
+        "excessive worry",
+        "stress-related symptoms"
+    ]
+}

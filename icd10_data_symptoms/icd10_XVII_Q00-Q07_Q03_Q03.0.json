@@ -1,0 +1,33 @@
+{
+    "icd10code": "Q03.0",
+    "type": "subcategory",
+    "title": "Malformations of aqueduct of Sylvius",
+    "chapter": "Congenital malformations, deformations and chromosomal abnormalities",
+    "chapterCode": "XVII",
+    "block": "Congenital malformations of the nervous system",
+    "blockCode": "Q00-Q07",
+    "category": "Congenital hydrocephalus",
+    "categoryCode": "Q03",
+    "subcategory": "Q03.0",
+    "inclusion": [
+        "hydrocephalus in newborn",
+        "Aqueduct of Sylvius: anomaly",
+        "Aqueduct of Sylvius: obstruction, congenital",
+        "Aqueduct of Sylvius: stenosis"
+    ],
+    "exclusion": [
+        "inborn errors of metabolism",
+        "Arnold-Chiari syndrome",
+        "hydrocephalus: acquired NOS",
+        "hydrocephalus: acquired, of newborn",
+        "hydrocephalus: due to congenital toxoplasmosis",
+        "hydrocephalus: with spina bifida"
+    ],
+    "symptoms": [
+        "enlarged head",
+        "vomiting",
+        "irritability",
+        "seizures",
+        "developmental delay"
+    ]
+}

@@ -1,0 +1,21 @@
+{
+  "type": "subcategory",
+  "chapterCode": "XVIII",
+  "chapter": "Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+  "blockCode": "R47-R49",
+  "block": "Symptoms and signs involving speech and voice",
+  "categoryCode": "R47",
+  "category": "Speech disturbances, not elsewhere classified",
+  "subcategory": "R47.1",
+  "title": "Dysarthria and anarthria",
+  "inclusion": null,
+  "exclusion": [
+    "abnormal findings on antenatal screening of mother",
+    "certain conditions originating in the perinatal period",
+    "autism",
+    "cluttering",
+    "specific developmental disorders of speech and language",
+    "stuttering [stammering]"
+  ],
+  "children": null
+}

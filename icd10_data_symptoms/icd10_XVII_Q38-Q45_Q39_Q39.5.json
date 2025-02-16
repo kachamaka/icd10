@@ -1,0 +1,23 @@
+{
+    "icd10code": "Q39.5",
+    "type": "subcategory",
+    "title": "Congenital dilatation of oesophagus",
+    "chapter": "Congenital malformations, deformations and chromosomal abnormalities",
+    "chapterCode": "XVII",
+    "block": "Other congenital malformations of the digestive system",
+    "blockCode": "Q38-Q45",
+    "category": "Congenital malformations of oesophagus",
+    "categoryCode": "Q39",
+    "subcategory": "Q39.5",
+    "inclusion": null,
+    "exclusion": [
+        "inborn errors of metabolism"
+    ],
+    "symptoms": [
+        "dysphagia",
+        "regurgitation",
+        "recurrent pneumonia",
+        "failure to thrive",
+        "chronic cough"
+    ]
+}

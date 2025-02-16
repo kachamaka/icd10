@@ -1,0 +1,24 @@
+{
+    "icd10code": "Q77.3",
+    "type": "subcategory",
+    "title": "Chondrodysplasia punctata",
+    "chapter": "Congenital malformations, deformations and chromosomal abnormalities",
+    "chapterCode": "XVII",
+    "block": "Congenital malformations and deformations of the musculoskeletal system",
+    "blockCode": "Q65-Q79",
+    "category": "Osteochondrodysplasia with defects of growth of tubular bones and spine",
+    "categoryCode": "Q77",
+    "subcategory": "Q77.3",
+    "inclusion": null,
+    "exclusion": [
+        "inborn errors of metabolism",
+        "mucopolysaccharidosis"
+    ],
+    "symptoms": [
+        "short stature",
+        "bowed legs",
+        "joint pain",
+        "enlarged head",
+        "spinal deformities"
+    ]
+}

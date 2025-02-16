@@ -1,0 +1,14 @@
+{
+  "type": "subcategory",
+  "chapterCode": "II",
+  "chapter": "Neoplasms",
+  "blockCode": "C69-C72",
+  "block": "Malignant neoplasms of eye, brain and other parts of central nervous system",
+  "categoryCode": "C70",
+  "category": "Malignant neoplasm of meninges",
+  "subcategory": "C70.9",
+  "title": "Malignant neoplasm: Meninges, unspecified",
+  "inclusion": null,
+  "exclusion": null,
+  "children": null
+}

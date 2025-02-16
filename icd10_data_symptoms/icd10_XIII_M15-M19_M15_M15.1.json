@@ -1,0 +1,37 @@
+{
+    "icd10code": "M15.1",
+    "type": "subcategory",
+    "title": "Heberden nodes (with arthropathy)",
+    "chapter": "Diseases of the musculoskeletal system and connective tissue",
+    "chapterCode": "XIII",
+    "block": "Arthrosis",
+    "blockCode": "M15-M19",
+    "category": "Polyarthrosis",
+    "categoryCode": "M15",
+    "subcategory": "M15.1",
+    "inclusion": [
+        "Disorders affecting predominantly peripheral (limb) joints",
+        "arthrosis with mention of more than one site"
+    ],
+    "exclusion": [
+        "certain conditions originating in the perinatal period",
+        "certain disorders of the temporomandibular joint",
+        "certain infectious and parasitic diseases",
+        "compartment syndrome",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "polyarthritis NOS",
+        "viral arthropathies"
+    ],
+    "symptoms": [
+        "joint pain",
+        "stiffness",
+        "swelling",
+        "reduced range of motion",
+        "crepitus"
+    ]
+}

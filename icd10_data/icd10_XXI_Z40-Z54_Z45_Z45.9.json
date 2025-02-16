@@ -1,0 +1,18 @@
+{
+  "type": "subcategory",
+  "chapterCode": "XXI",
+  "chapter": "Factors influencing health status and contact with health services",
+  "blockCode": "Z40-Z54",
+  "block": "Persons encountering health services for specific procedures and health care",
+  "categoryCode": "Z45",
+  "category": "Adjustment and management of implanted device",
+  "subcategory": "Z45.9",
+  "title": "Adjustment and management of unspecified implanted device",
+  "inclusion": null,
+  "exclusion": [
+    "follow-up examination for medical surveillance after treatment",
+    "malfunction or other complications of device - see Alphabetical Index",
+    "presence of prosthetic and other devices"
+  ],
+  "children": null
+}

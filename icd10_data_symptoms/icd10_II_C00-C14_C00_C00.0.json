@@ -1,0 +1,27 @@
+{
+    "icd10code": "C00.0",
+    "type": "subcategory",
+    "title": "Malignant neoplasm: External upper lip",
+    "chapter": "Neoplasms",
+    "chapterCode": "II",
+    "block": "Malignant neoplasms of lip, oral cavity and pharynx",
+    "blockCode": "C00-C14",
+    "category": "Malignant neoplasm of lip",
+    "categoryCode": "C00",
+    "subcategory": "C00.0",
+    "inclusion": [
+        "Upper lip: NOS",
+        "Upper lip: lipstick area",
+        "Upper lip: vermilion border"
+    ],
+    "exclusion": [
+        "skin of lip"
+    ],
+    "symptoms": [
+        "mouth ulcers",
+        "persistent mouth sore",
+        "loose teeth",
+        "mouth pain",
+        "unexplained bleeding in the mouth"
+    ]
+}

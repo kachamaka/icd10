@@ -1,0 +1,29 @@
+{
+    "icd10code": "D38.0",
+    "type": "subcategory",
+    "title": "Neoplasm of uncertain or unknown behaviour: Larynx",
+    "chapter": "Neoplasms",
+    "chapterCode": "II",
+    "block": "Neoplasms of uncertain or unknown behaviour",
+    "blockCode": "D37-D48",
+    "category": "Neoplasm of uncertain or unknown behaviour of middle ear and respiratory and intrathoracic organs",
+    "categoryCode": "D38",
+    "subcategory": "D38.0",
+    "inclusion": [
+        "Aryepiglottic fold, laryngeal aspect",
+        "Epiglottis (suprahyoid portion)"
+    ],
+    "exclusion": [
+        "heart",
+        "aryepiglottic fold: NOS",
+        "aryepiglottic fold: hypopharyngeal aspect",
+        "aryepiglottic fold: marginal zone"
+    ],
+    "symptoms": [
+        "persistent cough",
+        "difficulty swallowing",
+        "hoarseness or voice changes",
+        "throat pain",
+        "unexplained weight loss"
+    ]
+}

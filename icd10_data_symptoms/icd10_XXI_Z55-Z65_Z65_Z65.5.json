@@ -1,0 +1,20 @@
+{
+    "icd10code": "Z65.5",
+    "type": "subcategory",
+    "title": "Exposure to disaster, war and other hostilities",
+    "chapter": "Factors influencing health status and contact with health services",
+    "chapterCode": "XXI",
+    "block": "Persons with potential health hazards related to socioeconomic and psychosocial circumstances",
+    "blockCode": "Z55-Z65",
+    "category": "Problems related to other psychosocial circumstances",
+    "categoryCode": "Z65",
+    "subcategory": "Z65.5",
+    "inclusion": null,
+    "exclusion": [
+        "current injury - see Alphabetical Index",
+        "target of perceived discrimination or persecution"
+    ],
+    "symptoms": [
+        "asymptomatic"
+    ]
+}

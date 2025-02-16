@@ -1,0 +1,33 @@
+{
+  "type": "subcategory",
+  "chapterCode": "XVIII",
+  "chapter": "Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+  "blockCode": "R50-R69",
+  "block": "General symptoms and signs",
+  "categoryCode": "R60",
+  "category": "Oedema, not elsewhere classified",
+  "subcategory": "R60.9",
+  "title": "Oedema, unspecified",
+  "inclusion": [
+    "Fluid retention NOS"
+  ],
+  "exclusion": [
+    "abnormal findings on antenatal screening of mother",
+    "certain conditions originating in the perinatal period",
+    "ascites",
+    "hydrops fetalis NOS",
+    "hydrothorax",
+    "oedema (of): angioneurotic",
+    "oedema (of): cerebral",
+    "oedema (of): cerebral due to birth injury",
+    "oedema (of): gestational",
+    "oedema (of): hereditary",
+    "oedema (of): larynx",
+    "oedema (of): malnutrition",
+    "oedema (of): nasopharynx",
+    "oedema (of): newborn",
+    "oedema (of): pharynx",
+    "oedema (of): pulmonary"
+  ],
+  "children": null
+}

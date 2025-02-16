@@ -1,0 +1,27 @@
+{
+    "icd10code": "Q30.8",
+    "type": "subcategory",
+    "title": "Other congenital malformations of nose",
+    "chapter": "Congenital malformations, deformations and chromosomal abnormalities",
+    "chapterCode": "XVII",
+    "block": "Congenital malformations of the respiratory system",
+    "blockCode": "Q30-Q34",
+    "category": "Congenital malformations of nose",
+    "categoryCode": "Q30",
+    "subcategory": "Q30.8",
+    "inclusion": [
+        "Accessory nose",
+        "Congenital anomaly of nasal sinus wall"
+    ],
+    "exclusion": [
+        "inborn errors of metabolism",
+        "congenital deviation of nasal septum"
+    ],
+    "symptoms": [
+        "nasal obstruction",
+        "craniofacial abnormalities",
+        "breathing difficulties",
+        "recurrent sinus infections",
+        "speech problems"
+    ]
+}

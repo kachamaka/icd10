@@ -1,0 +1,23 @@
+{
+    "icd10code": "C46.1",
+    "type": "subcategory",
+    "title": "Kaposi sarcoma of soft tissue",
+    "chapter": "Neoplasms",
+    "chapterCode": "II",
+    "block": "Malignant neoplasms of mesothelial and soft tissue",
+    "blockCode": "C45-C49",
+    "category": "Kaposi sarcoma",
+    "categoryCode": "C46",
+    "subcategory": "C46.1",
+    "inclusion": [
+        "morphology code M9140 with behaviour code /3"
+    ],
+    "exclusion": null,
+    "symptoms": [
+        "swollen lymph nodes",
+        "fever",
+        "weight loss",
+        "night sweats",
+        "persistent fatigue"
+    ]
+}

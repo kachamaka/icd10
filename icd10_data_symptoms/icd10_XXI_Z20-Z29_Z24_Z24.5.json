@@ -1,0 +1,20 @@
+{
+    "icd10code": "Z24.5",
+    "type": "subcategory",
+    "title": "Need for immunization against rubella alone",
+    "chapter": "Factors influencing health status and contact with health services",
+    "chapterCode": "XXI",
+    "block": "Persons with potential health hazards related to communicable diseases",
+    "blockCode": "Z20-Z29",
+    "category": "Need for immunization against certain single viral diseases",
+    "categoryCode": "Z24",
+    "subcategory": "Z24.5",
+    "inclusion": null,
+    "exclusion": [
+        "immunization: against combinations of diseases",
+        "immunization: not carried out"
+    ],
+    "symptoms": [
+        "asymptomatic"
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "icd10code": "I33.0",
+    "type": "subcategory",
+    "title": "Acute and subacute infective endocarditis",
+    "chapter": "Diseases of the circulatory system",
+    "chapterCode": "IX",
+    "block": "Other forms of heart disease",
+    "blockCode": "I30-I52",
+    "category": "Acute and subacute endocarditis",
+    "categoryCode": "I33",
+    "subcategory": "I33.0",
+    "inclusion": [
+        "Endocarditis (acute)(subacute): bacterial",
+        "Endocarditis (acute)(subacute): infective NOS",
+        "Endocarditis (acute)(subacute): lenta",
+        "Endocarditis (acute)(subacute): malignant",
+        "Endocarditis (acute)(subacute): septic",
+        "Endocarditis (acute)(subacute): ulcerative"
+    ],
+    "exclusion": [
+        "certain conditions originating in the perinatal period",
+        "certain infectious and parasitic diseases",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "systemic connective tissue disorders",
+        "transient cerebral ischaemic attacks and related syndromes",
+        "rheumatoid carditis",
+        "when not specified as rheumatic"
+    ],
+    "symptoms": [
+        "shortness of breath",
+        "chest pain",
+        "fatigue",
+        "rapid or irregular heartbeat",
+        "lightheadedness"
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "icd10code": "P92.1",
+    "type": "subcategory",
+    "title": "Regurgitation and rumination in newborn",
+    "chapter": "Certain conditions originating in the perinatal period",
+    "chapterCode": "XVI",
+    "block": "Other disorders originating in the perinatal period",
+    "blockCode": "P90-P96",
+    "category": "Feeding problems of newborn",
+    "categoryCode": "P92",
+    "subcategory": "P92.1",
+    "inclusion": [
+        "conditions that have their origin in the perinatal period even though death or morbidity occurs later"
+    ],
+    "exclusion": [
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "tetanus neonatorum",
+        "whooping cough"
+    ],
+    "symptoms": [
+        "poor feeding",
+        "inadequate weight gain",
+        "feeding difficulties",
+        "irritability during feeding",
+        "refusal to eat"
+    ]
+}

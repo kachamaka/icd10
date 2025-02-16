@@ -1,0 +1,25 @@
+{
+    "icd10code": "D29.4",
+    "type": "subcategory",
+    "title": "Benign neoplasm: Scrotum",
+    "chapter": "Neoplasms",
+    "chapterCode": "II",
+    "block": "Benign neoplasms",
+    "blockCode": "D10-D36",
+    "category": "Benign neoplasm of male genital organs",
+    "categoryCode": "D29",
+    "subcategory": "D29.4",
+    "inclusion": [
+        "morphology codes with behaviour code /0",
+        "skin of male genital organs",
+        "Skin of scrotum"
+    ],
+    "exclusion": null,
+    "symptoms": [
+        "frequent urination",
+        "pain or discomfort in pelvic area",
+        "blood in urine",
+        "erectile dysfunction",
+        "lower back pain"
+    ]
+}

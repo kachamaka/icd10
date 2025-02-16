@@ -1,0 +1,30 @@
+{
+  "type": "subcategory",
+  "chapterCode": "II",
+  "chapter": "Neoplasms",
+  "blockCode": "D10-D36",
+  "block": "Benign neoplasms",
+  "categoryCode": "D14",
+  "category": "Benign neoplasm of middle ear and respiratory system",
+  "subcategory": "D14.0",
+  "title": "Benign neoplasm: Middle ear, nasal cavity and accessory sinuses",
+  "inclusion": [
+    "morphology codes with behaviour code /0",
+    "Cartilage of nose"
+  ],
+  "exclusion": [
+    "auricular canal (external)",
+    "bone of: ear",
+    "bone of: nose",
+    "cartilage of ear",
+    "ear (external)(skin)",
+    "nose: NOS",
+    "nose: skin",
+    "olfactory bulb",
+    "polyp (of): accessory sinus",
+    "polyp (of): ear (middle)",
+    "polyp (of): nasal (cavity)",
+    "posterior margin of septum and choanae"
+  ],
+  "children": null
+}

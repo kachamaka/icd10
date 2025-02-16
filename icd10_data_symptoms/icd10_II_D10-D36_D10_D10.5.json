@@ -1,0 +1,30 @@
+{
+    "icd10code": "D10.5",
+    "type": "subcategory",
+    "title": "Benign neoplasm: Other parts of oropharynx",
+    "chapter": "Neoplasms",
+    "chapterCode": "II",
+    "block": "Benign neoplasms",
+    "blockCode": "D10-D36",
+    "category": "Benign neoplasm of mouth and pharynx",
+    "categoryCode": "D10",
+    "subcategory": "D10.5",
+    "inclusion": [
+        "morphology codes with behaviour code /0",
+        "Epiglottis, anterior aspect",
+        "Tonsillar: fossa",
+        "Tonsillar: pillars",
+        "Vallecula"
+    ],
+    "exclusion": [
+        "epiglottis: NOS",
+        "epiglottis: suprahyoid portion"
+    ],
+    "symptoms": [
+        "oral discomfort",
+        "difficulty swallowing",
+        "mouth sores",
+        "hemorrhagic disorders of the mouth",
+        "visible oral mass"
+    ]
+}

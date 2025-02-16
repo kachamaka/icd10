@@ -1,0 +1,31 @@
+{
+    "icd10code": "T34.0",
+    "type": "subcategory",
+    "title": "Frostbite with tissue necrosis of head",
+    "chapter": "Injury, poisoning and certain other consequences of external causes",
+    "chapterCode": "XIX",
+    "block": "Frostbite",
+    "blockCode": "T33-T35",
+    "category": "Frostbite with tissue necrosis",
+    "categoryCode": "T34",
+    "subcategory": "T34.0",
+    "inclusion": null,
+    "exclusion": [
+        "birth trauma",
+        "obstetric trauma",
+        "malunion of fracture",
+        "nonunion of fracture [pseudarthrosis]",
+        "pathological fracture",
+        "pathological fracture with osteoporosis",
+        "stress fracture",
+        "adverse effects of drugs and medicaments",
+        "frostbite with tissue necrosis involving multiple body regions"
+    ],
+    "symptoms": [
+        "cold skin",
+        "numbness",
+        "tingling",
+        "pale or blue skin",
+        "stiffness"
+    ]
+}

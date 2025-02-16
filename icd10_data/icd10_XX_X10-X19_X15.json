@@ -1,0 +1,25 @@
+{
+  "type": "category",
+  "chapterCode": "XX",
+  "chapter": "External causes of morbidity and mortality",
+  "blockCode": "X10-X19",
+  "block": "Contact with heat and hot substances",
+  "categoryCode": "X15",
+  "category": "Contact with hot household appliances",
+  "subcategory": "",
+  "title": "Contact with hot household appliances",
+  "inclusion": [
+    "cooker",
+    "hotplate",
+    "kettle",
+    "saucepan (glass)(metal)",
+    "stove (kitchen)",
+    "toaster"
+  ],
+  "exclusion": [
+    "exposure to: excessive natural heat",
+    "exposure to: fire and flames",
+    "heating appliances"
+  ],
+  "children": null
+}

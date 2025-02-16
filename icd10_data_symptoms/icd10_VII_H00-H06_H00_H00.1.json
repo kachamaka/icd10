@@ -1,0 +1,30 @@
+{
+    "icd10code": "H00.1",
+    "type": "subcategory",
+    "title": "Chalazion",
+    "chapter": "Diseases of the eye and adnexa",
+    "chapterCode": "VII",
+    "block": "Disorders of eyelid, lacrimal system and orbit",
+    "blockCode": "H00-H06",
+    "category": "Hordeolum and chalazion",
+    "categoryCode": "H00",
+    "subcategory": "H00.1",
+    "inclusion": null,
+    "exclusion": [
+        "certain conditions originating in the perinatal period",
+        "certain infectious and parasitic diseases",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified"
+    ],
+    "symptoms": [
+        "redness",
+        "swelling",
+        "pain",
+        "tenderness",
+        "crusting around the eyelid"
+    ]
+}

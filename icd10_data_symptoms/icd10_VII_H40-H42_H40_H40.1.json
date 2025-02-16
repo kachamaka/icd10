@@ -1,0 +1,38 @@
+{
+    "icd10code": "H40.1",
+    "type": "subcategory",
+    "title": "Primary open-angle glaucoma",
+    "chapter": "Diseases of the eye and adnexa",
+    "chapterCode": "VII",
+    "block": "Glaucoma",
+    "blockCode": "H40-H42",
+    "category": "Glaucoma",
+    "categoryCode": "H40",
+    "subcategory": "H40.1",
+    "inclusion": [
+        "Glaucoma (primary)(residual stage): capsular with pseudoexfoliation of lens",
+        "Glaucoma (primary)(residual stage): chronic simple",
+        "Glaucoma (primary)(residual stage): low-tension",
+        "Glaucoma (primary)(residual stage): pigmentary"
+    ],
+    "exclusion": [
+        "certain conditions originating in the perinatal period",
+        "certain infectious and parasitic diseases",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "absolute glaucoma",
+        "congenital glaucoma",
+        "traumatic glaucoma due to birth injury"
+    ],
+    "symptoms": [
+        "blurred vision",
+        "halos around lights",
+        "eye pain",
+        "nausea",
+        "headache"
+    ]
+}

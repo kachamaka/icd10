@@ -1,0 +1,28 @@
+{
+  "type": "subcategory",
+  "chapterCode": "VI",
+  "chapter": "Diseases of the nervous system",
+  "blockCode": "G00-G09",
+  "block": "Inflammatory diseases of the central nervous system",
+  "categoryCode": "G06",
+  "category": "Intracranial and intraspinal abscess and granuloma",
+  "subcategory": "G06.1",
+  "title": "Intraspinal abscess and granuloma",
+  "inclusion": [
+    "Abscess (embolic) of spinal cord [any part]",
+    "Intraspinal abscess or granuloma: epidural",
+    "Intraspinal abscess or granuloma: extradural",
+    "Intraspinal abscess or granuloma: subdural"
+  ],
+  "exclusion": [
+    "certain conditions originating in the perinatal period",
+    "certain infectious and parasitic diseases",
+    "complications of pregnancy, childbirth and the puerperium",
+    "congenital malformations, deformations and chromosomal abnormalities",
+    "endocrine, nutritional and metabolic diseases",
+    "injury, poisoning and certain other consequences of external causes",
+    "neoplasms",
+    "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified"
+  ],
+  "children": null
+}

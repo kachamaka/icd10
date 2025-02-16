@@ -1,0 +1,28 @@
+{
+    "icd10code": "D02.1",
+    "type": "subcategory",
+    "title": "Carcinoma in situ: Trachea",
+    "chapter": "Neoplasms",
+    "chapterCode": "II",
+    "block": "In situ neoplasms",
+    "blockCode": "D00-D09",
+    "category": "Carcinoma in situ of middle ear and respiratory system",
+    "categoryCode": "D02",
+    "subcategory": "D02.1",
+    "inclusion": [
+        "Bowen disease",
+        "erythroplasia",
+        "morphology codes with behaviour code /2",
+        "Queyrat erythroplasia"
+    ],
+    "exclusion": [
+        "melanoma in situ"
+    ],
+    "symptoms": [
+        "difficulty swallowing",
+        "persistent cough",
+        "unexplained weight loss",
+        "chest pain",
+        "hoarseness"
+    ]
+}

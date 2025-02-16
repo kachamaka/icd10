@@ -1,0 +1,24 @@
+{
+    "icd10code": "Q37.8",
+    "type": "subcategory",
+    "title": "Unspecified cleft palate with bilateral cleft lip",
+    "chapter": "Congenital malformations, deformations and chromosomal abnormalities",
+    "chapterCode": "XVII",
+    "block": "Cleft lip and cleft palate",
+    "blockCode": "Q35-Q37",
+    "category": "Cleft palate with cleft lip",
+    "categoryCode": "Q37",
+    "subcategory": "Q37.8",
+    "inclusion": null,
+    "exclusion": [
+        "inborn errors of metabolism",
+        "Robin syndrome"
+    ],
+    "symptoms": [
+        "cleft lip",
+        "cleft palate",
+        "difficulty feeding",
+        "speech difficulties",
+        "recurrent ear infections"
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "icd10code": "K37",
+    "type": "category",
+    "title": "Unspecified appendicitis",
+    "chapter": "Diseases of the digestive system",
+    "chapterCode": "XI",
+    "block": "Diseases of appendix",
+    "blockCode": "K35-K38",
+    "category": "Unspecified appendicitis",
+    "categoryCode": "K37",
+    "subcategory": "",
+    "inclusion": null,
+    "exclusion": [
+        "certain conditions originating in the perinatal period",
+        "certain infectious and parasitic diseases",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified"
+    ],
+    "symptoms": [
+        "abdominal pain",
+        "nausea",
+        "vomiting",
+        "fever",
+        "loss of appetite"
+    ]
+}

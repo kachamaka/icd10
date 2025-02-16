@@ -1,0 +1,23 @@
+{
+    "icd10code": "U84.8",
+    "type": "subcategory",
+    "title": "Resistance to other specified antimicrobial drug",
+    "chapter": "Codes for special purposes",
+    "chapterCode": "XXII",
+    "block": "Resistance to antimicrobial and antineoplastic drugs",
+    "blockCode": "U82-U85",
+    "category": "Resistance to other antimicrobial drugs",
+    "categoryCode": "U84",
+    "subcategory": "U84.8",
+    "inclusion": null,
+    "exclusion": [
+        "Resistance to antibiotics"
+    ],
+    "symptoms": [
+        "chronic cough",
+        "shortness of breath",
+        "fever",
+        "fatigue",
+        "chest pain"
+    ]
+}

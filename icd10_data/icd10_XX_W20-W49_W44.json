@@ -1,0 +1,20 @@
+{
+  "type": "category",
+  "chapterCode": "XX",
+  "chapter": "External causes of morbidity and mortality",
+  "blockCode": "W20-W49",
+  "block": "Exposure to inanimate mechanical forces",
+  "categoryCode": "W44",
+  "category": "Foreign body entering into or through eye or natural orifice",
+  "subcategory": "",
+  "title": "Foreign body entering into or through eye or natural orifice",
+  "inclusion": null,
+  "exclusion": [
+    "assault",
+    "contact or collision with animals or persons",
+    "intentional self-harm",
+    "corrosive fluid",
+    "inhalation or ingestion of foreign body with obstruction of respiratory tract"
+  ],
+  "children": null
+}

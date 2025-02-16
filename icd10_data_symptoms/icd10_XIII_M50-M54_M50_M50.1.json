@@ -1,0 +1,38 @@
+{
+    "icd10code": "M50.1",
+    "type": "subcategory",
+    "title": "Cervical disc disorder with radiculopathy",
+    "chapter": "Diseases of the musculoskeletal system and connective tissue",
+    "chapterCode": "XIII",
+    "block": "Other dorsopathies",
+    "blockCode": "M50-M54",
+    "category": "Cervical disc disorders",
+    "categoryCode": "M50",
+    "subcategory": "M50.1",
+    "inclusion": [
+        "cervical disc disorders with cervicalgia",
+        "cervicothoracic disc disorders"
+    ],
+    "exclusion": [
+        "certain conditions originating in the perinatal period",
+        "certain disorders of the temporomandibular joint",
+        "certain infectious and parasitic diseases",
+        "compartment syndrome",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "collapsed vertebra in osteoporosis",
+        "postural kyphosis",
+        "brachial radiculitis NOS"
+    ],
+    "symptoms": [
+        "neck pain",
+        "arm pain",
+        "numbness",
+        "tingling",
+        "muscle weakness"
+    ]
+}

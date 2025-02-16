@@ -1,0 +1,30 @@
+{
+    "icd10code": "G37.4",
+    "type": "subcategory",
+    "title": "Subacute necrotizing myelitis",
+    "chapter": "Diseases of the nervous system",
+    "chapterCode": "VI",
+    "block": "Demyelinating diseases of the central nervous system",
+    "blockCode": "G35-G37",
+    "category": "Other demyelinating diseases of central nervous system",
+    "categoryCode": "G37",
+    "subcategory": "G37.4",
+    "inclusion": null,
+    "exclusion": [
+        "certain conditions originating in the perinatal period",
+        "certain infectious and parasitic diseases",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified"
+    ],
+    "symptoms": [
+        "muscle weakness",
+        "sensory disturbances",
+        "coordination issues",
+        "fatigue",
+        "cognitive impairments"
+    ]
+}

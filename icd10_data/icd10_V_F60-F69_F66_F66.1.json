@@ -1,0 +1,18 @@
+{
+  "type": "subcategory",
+  "chapterCode": "V",
+  "chapter": "Mental and behavioural disorders",
+  "blockCode": "F60-F69",
+  "block": "Disorders of adult personality and behaviour",
+  "categoryCode": "F66",
+  "category": "Psychological and behavioural disorders associated with sexual development and orientation",
+  "subcategory": "F66.1",
+  "title": "Egodystonic sexual orientation",
+  "inclusion": [
+    "disorders of psychological development"
+  ],
+  "exclusion": [
+    "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified"
+  ],
+  "children": null
+}

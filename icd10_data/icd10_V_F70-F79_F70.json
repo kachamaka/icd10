@@ -1,0 +1,39 @@
+{
+  "type": "modifiedcategory",
+  "chapterCode": "V",
+  "chapter": "Mental and behavioural disorders",
+  "blockCode": "F70-F79",
+  "block": "Mental retardation",
+  "categoryCode": "F70",
+  "category": "Mild mental retardation",
+  "subcategory": "",
+  "title": "Mild mental retardation : other impairments of behaviour",
+  "inclusion": [
+    "disorders of psychological development",
+    "feeble-mindedness",
+    "mild mental subnormality"
+  ],
+  "exclusion": [
+    "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified"
+  ],
+  "children": null
+}{
+  "type": "modifiedcategory",
+  "chapterCode": "V",
+  "chapter": "Mental and behavioural disorders",
+  "blockCode": "F70-F79",
+  "block": "Mental retardation",
+  "categoryCode": "F70",
+  "category": "Mild mental retardation",
+  "subcategory": "",
+  "title": "Mild mental retardation with the statement of no, or minimal, impairment of behaviour",
+  "inclusion": [
+    "disorders of psychological development",
+    "feeble-mindedness",
+    "mild mental subnormality"
+  ],
+  "exclusion": [
+    "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified"
+  ],
+  "children": null
+}

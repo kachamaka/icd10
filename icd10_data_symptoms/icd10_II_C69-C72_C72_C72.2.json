@@ -1,0 +1,26 @@
+{
+    "icd10code": "C72.2",
+    "type": "subcategory",
+    "title": "Malignant neoplasm: Olfactory nerve",
+    "chapter": "Neoplasms",
+    "chapterCode": "II",
+    "block": "Malignant neoplasms of eye, brain and other parts of central nervous system",
+    "blockCode": "C69-C72",
+    "category": "Malignant neoplasm of spinal cord, cranial nerves and other parts of central nervous system",
+    "categoryCode": "C72",
+    "subcategory": "C72.2",
+    "inclusion": [
+        "Olfactory bulb"
+    ],
+    "exclusion": [
+        "meninges",
+        "peripheral nerves and autonomic nervous system"
+    ],
+    "symptoms": [
+        "headache",
+        "vomiting",
+        "seizures",
+        "changes in personality or behavior",
+        "difficulty speaking"
+    ]
+}

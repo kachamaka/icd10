@@ -1,0 +1,30 @@
+{
+    "icd10code": "X38",
+    "type": "category",
+    "title": "Victim of flood",
+    "chapter": "External causes of morbidity and mortality",
+    "chapterCode": "XX",
+    "block": "Exposure to forces of nature",
+    "blockCode": "X30-X39",
+    "category": "Victim of flood",
+    "categoryCode": "X38",
+    "subcategory": "",
+    "inclusion": [
+        "flood: arising from remote storm",
+        "flood: caused by storm",
+        "flood: of cataclysmic nature arising from melting snow",
+        "flood: resulting directly from storm",
+        "flood: river",
+        "flood: waters",
+        "high water (caused by flood)"
+    ],
+    "exclusion": [
+        "collapse of dam or man-made structure causing earth movement",
+        "tidal wave: NOS",
+        "tidal wave: caused by storm",
+        "tsunami"
+    ],
+    "symptoms": [
+        "asymptomatic"
+    ]
+}

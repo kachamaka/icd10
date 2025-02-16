@@ -1,0 +1,29 @@
+{
+    "icd10code": "Y07.8",
+    "type": "subcategory",
+    "title": "By other specified persons",
+    "chapter": "External causes of morbidity and mortality",
+    "chapterCode": "XX",
+    "block": "Assault",
+    "blockCode": "X85-Y09",
+    "category": "Other maltreatment",
+    "categoryCode": "Y07",
+    "subcategory": "Y07.8",
+    "inclusion": [
+        "homicide",
+        "injuries inflicted by another person with intent to injure or kill, by any means",
+        "mental cruelty",
+        "physical abuse",
+        "sexual abuse",
+        "torture"
+    ],
+    "exclusion": [
+        "injuries due to: legal intervention",
+        "injuries due to: operations of war",
+        "neglect and abandonment",
+        "sexual assault by bodily force"
+    ],
+    "symptoms": [
+        "asymptomatic"
+    ]
+}

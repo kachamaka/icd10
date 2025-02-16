@@ -1,0 +1,25 @@
+{
+    "icd10code": "U84.0",
+    "type": "subcategory",
+    "title": "Resistance to antiparasitic drug(s)",
+    "chapter": "Codes for special purposes",
+    "chapterCode": "XXII",
+    "block": "Resistance to antimicrobial and antineoplastic drugs",
+    "blockCode": "U82-U85",
+    "category": "Resistance to other antimicrobial drugs",
+    "categoryCode": "U84",
+    "subcategory": "U84.0",
+    "inclusion": [
+        "Resistance to quinine and related compounds"
+    ],
+    "exclusion": [
+        "Resistance to antibiotics"
+    ],
+    "symptoms": [
+        "chronic cough",
+        "shortness of breath",
+        "wheezing",
+        "fatigue",
+        "fever"
+    ]
+}

@@ -1,0 +1,24 @@
+{
+  "type": "subcategory",
+  "chapterCode": "IV",
+  "chapter": "Endocrine, nutritional and metabolic diseases",
+  "blockCode": "E00-E07",
+  "block": "Disorders of thyroid gland",
+  "categoryCode": "E05",
+  "category": "Thyrotoxicosis [hyperthyroidism]",
+  "subcategory": "E05.1",
+  "title": "Thyrotoxicosis with toxic single thyroid nodule",
+  "inclusion": [
+    "Thyroid (thyrotoxic): eye disease",
+    "Thyroid (thyrotoxic): heart disease",
+    "Thyrotoxicosis with toxic uninodular goitre"
+  ],
+  "exclusion": [
+    "complications of pregnancy, childbirth and the puerperium",
+    "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+    "transitory endocrine and metabolic disorders specific to fetus and newborn",
+    "chronic thyroiditis with transient thyrotoxicosis",
+    "neonatal thyrotoxicosis"
+  ],
+  "children": null
+}

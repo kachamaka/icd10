@@ -1,0 +1,34 @@
+{
+    "icd10code": "A09.9",
+    "type": "subcategory",
+    "title": "Gastroenteritis and colitis of unspecified origin",
+    "chapter": "Certain infectious and parasitic diseases",
+    "chapterCode": "I",
+    "block": "Intestinal infectious diseases",
+    "blockCode": "A00-A09",
+    "category": "Other gastroenteritis and colitis of infectious and unspecified origin",
+    "categoryCode": "A09",
+    "subcategory": "A09.9",
+    "inclusion": [
+        "diseases generally recognized as communicable or transmissible",
+        "Neonatal diarrhoea NOS"
+    ],
+    "exclusion": [
+        "carrier or suspected carrier of infectious disease",
+        "certain localized infections - see body system-related chapters",
+        "infectious and parasitic diseases complicating pregnancy, childbirth and the puerperium [except obstetrical tetanus]",
+        "infectious and parasitic diseases specific to the perinatal period [except tetanus neonatorum, whooping cough, congenital syphilis, perinatal gonococcal infection and perinatal human immunodeficiency virus [HIV] disease]",
+        "influenza and other acute respiratory infections",
+        "postpolio syndrome",
+        "capillariasis: intestinal",
+        "extraintestinal yersiniosis",
+        "indeterminate colitis"
+    ],
+    "symptoms": [
+        "abdominal pain",
+        "nausea and vomiting",
+        "diarrhea",
+        "fever",
+        "and loss of appetite"
+    ]
+}

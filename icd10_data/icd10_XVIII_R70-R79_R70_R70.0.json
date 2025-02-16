@@ -1,0 +1,24 @@
+{
+  "type": "subcategory",
+  "chapterCode": "XVIII",
+  "chapter": "Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+  "blockCode": "R70-R79",
+  "block": "Abnormal findings on examination of blood, without diagnosis",
+  "categoryCode": "R70",
+  "category": "Elevated erythrocyte sedimentation rate and abnormality of plasma viscosity",
+  "subcategory": "R70.0",
+  "title": "Elevated erythrocyte sedimentation rate",
+  "inclusion": null,
+  "exclusion": [
+    "abnormal findings on antenatal screening of mother",
+    "certain conditions originating in the perinatal period",
+    "abnormalities (of)(on): antenatal screening of mother",
+    "abnormalities (of)(on): coagulation",
+    "abnormalities (of)(on): lipids",
+    "abnormalities (of)(on): platelets and thrombocytes",
+    "abnormalities (of)(on): white blood cells classified elsewhere",
+    "diagnostic abnormal findings classified elsewhere - see Alphabetical Index",
+    "haemorrhagic and haematological disorders of fetus and newborn"
+  ],
+  "children": null
+}

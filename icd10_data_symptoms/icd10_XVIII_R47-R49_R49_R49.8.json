@@ -1,0 +1,27 @@
+{
+    "icd10code": "R49.8",
+    "type": "subcategory",
+    "title": "Other and unspecified voice disturbances",
+    "chapter": "Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+    "chapterCode": "XVIII",
+    "block": "Symptoms and signs involving speech and voice",
+    "blockCode": "R47-R49",
+    "category": "Voice disturbances",
+    "categoryCode": "R49",
+    "subcategory": "R49.8",
+    "inclusion": [
+        "Change in voice NOS"
+    ],
+    "exclusion": [
+        "abnormal findings on antenatal screening of mother",
+        "certain conditions originating in the perinatal period",
+        "psychogenic voice disturbance"
+    ],
+    "symptoms": [
+        "voice fatigue",
+        "speech hoarseness",
+        "abnormal vocal pitch",
+        "inconsistent voice quality",
+        "strained vocalization"
+    ]
+}

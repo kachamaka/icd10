@@ -1,0 +1,24 @@
+{
+    "icd10code": "W74",
+    "type": "category",
+    "title": "Unspecified drowning and submersion",
+    "chapter": "External causes of morbidity and mortality",
+    "chapterCode": "XX",
+    "block": "Accidental drowning and submersion",
+    "blockCode": "W65-W74",
+    "category": "Unspecified drowning and submersion",
+    "categoryCode": "W74",
+    "subcategory": "",
+    "inclusion": [
+        "drowning NOS",
+        "fall into water NOS"
+    ],
+    "exclusion": [
+        "drowning and submersion due to: cataclysm",
+        "drowning and submersion due to: transport accidents",
+        "drowning and submersion due to: water transport accident"
+    ],
+    "symptoms": [
+        "asymptomatic"
+    ]
+}

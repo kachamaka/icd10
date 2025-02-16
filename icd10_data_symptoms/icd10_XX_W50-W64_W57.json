@@ -1,0 +1,24 @@
+{
+    "icd10code": "W57",
+    "type": "category",
+    "title": "Bitten or stung by nonvenomous insect and other nonvenomous arthropods",
+    "chapter": "External causes of morbidity and mortality",
+    "chapterCode": "XX",
+    "block": "Exposure to animate mechanical forces",
+    "blockCode": "W50-W64",
+    "category": "Bitten or stung by nonvenomous insect and other nonvenomous arthropods",
+    "categoryCode": "W57",
+    "subcategory": "",
+    "inclusion": null,
+    "exclusion": [
+        "bites, venomous",
+        "stings (venomous)"
+    ],
+    "symptoms": [
+        "pain",
+        "redness",
+        "swelling",
+        "itching",
+        "localized rash"
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "icd10code": "C70.9",
+    "type": "subcategory",
+    "title": "Malignant neoplasm: Meninges, unspecified",
+    "chapter": "Neoplasms",
+    "chapterCode": "II",
+    "block": "Malignant neoplasms of eye, brain and other parts of central nervous system",
+    "blockCode": "C69-C72",
+    "category": "Malignant neoplasm of meninges",
+    "categoryCode": "C70",
+    "subcategory": "C70.9",
+    "inclusion": null,
+    "exclusion": null,
+    "symptoms": [
+        "headache",
+        "seizures",
+        "vision changes",
+        "personality changes",
+        "nausea and vomiting"
+    ]
+}

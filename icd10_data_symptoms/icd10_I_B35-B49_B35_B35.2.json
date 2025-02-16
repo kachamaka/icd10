@@ -1,0 +1,36 @@
+{
+    "icd10code": "B35.2",
+    "type": "subcategory",
+    "title": "Tinea manuum",
+    "chapter": "Certain infectious and parasitic diseases",
+    "chapterCode": "I",
+    "block": "Mycoses",
+    "blockCode": "B35-B49",
+    "category": "Dermatophytosis",
+    "categoryCode": "B35",
+    "subcategory": "B35.2",
+    "inclusion": [
+        "diseases generally recognized as communicable or transmissible",
+        "favus",
+        "infections due to species of Epidermophyton, Microsporum and Trichophyton",
+        "tinea, any type except those in B36.-",
+        "Dermatophytosis of hand",
+        "Hand ringworm"
+    ],
+    "exclusion": [
+        "carrier or suspected carrier of infectious disease",
+        "certain localized infections - see body system-related chapters",
+        "infectious and parasitic diseases complicating pregnancy, childbirth and the puerperium [except obstetrical tetanus]",
+        "infectious and parasitic diseases specific to the perinatal period [except tetanus neonatorum, whooping cough, congenital syphilis, perinatal gonococcal infection and perinatal human immunodeficiency virus [HIV] disease]",
+        "influenza and other acute respiratory infections",
+        "haemorrhagic fever with renal manifestations",
+        "monkeypox"
+    ],
+    "symptoms": [
+        "itching",
+        "redness",
+        "flaking",
+        "ring-shaped rash",
+        "cracked skin"
+    ]
+}

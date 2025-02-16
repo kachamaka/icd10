@@ -1,0 +1,25 @@
+{
+  "type": "category",
+  "chapterCode": "XVI",
+  "chapter": "Certain conditions originating in the perinatal period",
+  "blockCode": "P90-P96",
+  "block": "Other disorders originating in the perinatal period",
+  "categoryCode": "P95",
+  "category": "Fetal death of unspecified cause",
+  "subcategory": "",
+  "title": "Fetal death of unspecified cause",
+  "inclusion": [
+    "conditions that have their origin in the perinatal period even though death or morbidity occurs later",
+    "Deadborn fetus NOS",
+    "Stillbirth NOS"
+  ],
+  "exclusion": [
+    "congenital malformations, deformations and chromosomal abnormalities",
+    "endocrine, nutritional and metabolic diseases",
+    "injury, poisoning and certain other consequences of external causes",
+    "neoplasms",
+    "tetanus neonatorum",
+    "whooping cough"
+  ],
+  "children": null
+}

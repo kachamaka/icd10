@@ -1,0 +1,31 @@
+{
+    "icd10code": "P15.4",
+    "type": "subcategory",
+    "title": "Birth injury to face",
+    "chapter": "Certain conditions originating in the perinatal period",
+    "chapterCode": "XVI",
+    "block": "Birth trauma",
+    "blockCode": "P10-P15",
+    "category": "Other birth injuries",
+    "categoryCode": "P15",
+    "subcategory": "P15.4",
+    "inclusion": [
+        "conditions that have their origin in the perinatal period even though death or morbidity occurs later",
+        "Facial congestion due to birth injury"
+    ],
+    "exclusion": [
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "tetanus neonatorum",
+        "whooping cough"
+    ],
+    "symptoms": [
+        "brachial plexus injury",
+        "arm weakness",
+        "reduced arm movement",
+        "numbness in arm",
+        "shoulder pain"
+    ]
+}

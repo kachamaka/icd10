@@ -1,0 +1,25 @@
+{
+    "icd10code": "Z22.4",
+    "type": "subcategory",
+    "title": "Carrier of infections with a predominantly sexual mode of transmission",
+    "chapter": "Factors influencing health status and contact with health services",
+    "chapterCode": "XXI",
+    "block": "Persons with potential health hazards related to communicable diseases",
+    "blockCode": "Z20-Z29",
+    "category": "Carrier of infectious disease",
+    "categoryCode": "Z22",
+    "subcategory": "Z22.4",
+    "inclusion": [
+        "suspected carrier",
+        "Carrier of: gonorrhoea",
+        "Carrier of: syphilis"
+    ],
+    "exclusion": null,
+    "symptoms": [
+        "asymptomatic",
+        "fatigue",
+        "fever",
+        "weight loss",
+        "appetite loss"
+    ]
+}

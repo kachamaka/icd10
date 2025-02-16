@@ -1,0 +1,26 @@
+{
+    "icd10code": "Q92.8",
+    "type": "subcategory",
+    "title": "Other specified trisomies and partial trisomies of autosomes",
+    "chapter": "Congenital malformations, deformations and chromosomal abnormalities",
+    "chapterCode": "XVII",
+    "block": "Chromosomal abnormalities, not elsewhere classified",
+    "blockCode": "Q90-Q99",
+    "category": "Other trisomies and partial trisomies of the autosomes, not elsewhere classified",
+    "categoryCode": "Q92",
+    "subcategory": "Q92.8",
+    "inclusion": [
+        "unbalanced translocations and insertions"
+    ],
+    "exclusion": [
+        "inborn errors of metabolism",
+        "trisomies of chromosomes 13, 18, 21"
+    ],
+    "symptoms": [
+        "developmental delay",
+        "intellectual disability",
+        "physical malformations",
+        "growth abnormalities",
+        "distinct facial features"
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "icd10code": "Q35.5",
+    "type": "subcategory",
+    "title": "Cleft hard palate with cleft soft palate",
+    "chapter": "Congenital malformations, deformations and chromosomal abnormalities",
+    "chapterCode": "XVII",
+    "block": "Cleft lip and cleft palate",
+    "blockCode": "Q35-Q37",
+    "category": "Cleft palate",
+    "categoryCode": "Q35",
+    "subcategory": "Q35.5",
+    "inclusion": [
+        "fissure of palate",
+        "palatoschisis"
+    ],
+    "exclusion": [
+        "inborn errors of metabolism",
+        "Robin syndrome",
+        "cleft palate with cleft lip"
+    ],
+    "symptoms": [
+        "cleft palate",
+        "nasal speech",
+        "feeding difficulties",
+        "ear infections",
+        "dental issues"
+    ]
+}

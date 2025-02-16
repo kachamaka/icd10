@@ -1,0 +1,26 @@
+{
+    "icd10code": "C71.0",
+    "type": "subcategory",
+    "title": "Malignant neoplasm: Cerebrum, except lobes and ventricles",
+    "chapter": "Neoplasms",
+    "chapterCode": "II",
+    "block": "Malignant neoplasms of eye, brain and other parts of central nervous system",
+    "blockCode": "C69-C72",
+    "category": "Malignant neoplasm of brain",
+    "categoryCode": "C71",
+    "subcategory": "C71.0",
+    "inclusion": [
+        "Supratentorial NOS"
+    ],
+    "exclusion": [
+        "cranial nerves",
+        "retrobulbar tissue"
+    ],
+    "symptoms": [
+        "headaches",
+        "seizures",
+        "mental changes",
+        "speech difficulty",
+        "vision problems"
+    ]
+}

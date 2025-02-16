@@ -1,0 +1,27 @@
+{
+    "icd10code": "C08.9",
+    "type": "subcategory",
+    "title": "Malignant neoplasm: Major salivary gland, unspecified",
+    "chapter": "Neoplasms",
+    "chapterCode": "II",
+    "block": "Malignant neoplasms of lip, oral cavity and pharynx",
+    "blockCode": "C00-C14",
+    "category": "Malignant neoplasm of other and unspecified major salivary glands",
+    "categoryCode": "C08",
+    "subcategory": "C08.9",
+    "inclusion": [
+        "Salivary gland (major) NOS"
+    ],
+    "exclusion": [
+        "malignant neoplasms of specified minor salivary glands which are classified according to their anatomical location",
+        "malignant neoplasms of minor salivary glands NOS",
+        "parotid gland"
+    ],
+    "symptoms": [
+        "difficulty in swallowing",
+        "enlarged cervical lymph nodes",
+        "pain in mouth",
+        "toothache",
+        "mouth ulcer"
+    ]
+}

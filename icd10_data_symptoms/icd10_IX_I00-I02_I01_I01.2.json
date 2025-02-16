@@ -1,0 +1,35 @@
+{
+    "icd10code": "I01.2",
+    "type": "subcategory",
+    "title": "Acute rheumatic myocarditis",
+    "chapter": "Diseases of the circulatory system",
+    "chapterCode": "IX",
+    "block": "Acute rheumatic fever",
+    "blockCode": "I00-I02",
+    "category": "Rheumatic fever with heart involvement",
+    "categoryCode": "I01",
+    "subcategory": "I01.2",
+    "inclusion": [
+        "Any condition in I00 with myocarditis"
+    ],
+    "exclusion": [
+        "certain conditions originating in the perinatal period",
+        "certain infectious and parasitic diseases",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "systemic connective tissue disorders",
+        "transient cerebral ischaemic attacks and related syndromes",
+        "postoperative shock"
+    ],
+    "symptoms": [
+        "fever",
+        "sore throat",
+        "swelled lymph nodes",
+        "rash",
+        "rapid heart rate"
+    ]
+}

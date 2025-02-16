@@ -1,0 +1,27 @@
+{
+  "type": "subcategory",
+  "chapterCode": "V",
+  "chapter": "Mental and behavioural disorders",
+  "blockCode": "F20-F29",
+  "block": "Schizophrenia, schizotypal and delusional disorders",
+  "categoryCode": "F22",
+  "category": "Persistent delusional disorders",
+  "subcategory": "F22.0",
+  "title": "Delusional disorder",
+  "inclusion": [
+    "disorders of psychological development",
+    "Paranoia",
+    "Paranoid: psychosis",
+    "Paranoid: state",
+    "Paraphrenia (late)",
+    "Sensitiver Beziehungswahn"
+  ],
+  "exclusion": [
+    "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+    "paranoid: personality disorder",
+    "paranoid: psychosis, psychogenic",
+    "paranoid: reaction",
+    "paranoid: schizophrenia"
+  ],
+  "children": null
+}

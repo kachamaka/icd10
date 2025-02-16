@@ -1,0 +1,24 @@
+{
+    "icd10code": "R61.0",
+    "type": "subcategory",
+    "title": "Localized hyperhidrosis",
+    "chapter": "Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+    "chapterCode": "XVIII",
+    "block": "General symptoms and signs",
+    "blockCode": "R50-R69",
+    "category": "Hyperhidrosis",
+    "categoryCode": "R61",
+    "subcategory": "R61.0",
+    "inclusion": null,
+    "exclusion": [
+        "abnormal findings on antenatal screening of mother",
+        "certain conditions originating in the perinatal period"
+    ],
+    "symptoms": [
+        "excessive sweating",
+        "night sweats",
+        "clammy skin",
+        "cold sweats",
+        "profuse perspiration"
+    ]
+}

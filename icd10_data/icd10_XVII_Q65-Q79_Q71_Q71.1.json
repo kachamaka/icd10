@@ -1,0 +1,16 @@
+{
+  "type": "subcategory",
+  "chapterCode": "XVII",
+  "chapter": "Congenital malformations, deformations and chromosomal abnormalities",
+  "blockCode": "Q65-Q79",
+  "block": "Congenital malformations and deformations of the musculoskeletal system",
+  "categoryCode": "Q71",
+  "category": "Reduction defects of upper limb",
+  "subcategory": "Q71.1",
+  "title": "Congenital absence of upper arm and forearm with hand present",
+  "inclusion": null,
+  "exclusion": [
+    "inborn errors of metabolism"
+  ],
+  "children": null
+}

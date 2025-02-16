@@ -1,0 +1,28 @@
+{
+    "icd10code": "Y72",
+    "type": "modifiedcategory",
+    "title": "Otorhinolaryngological devices associated with adverse incidents : prosthetic and other implants, materials and accessory devices",
+    "chapter": "External causes of morbidity and mortality",
+    "chapterCode": "XX",
+    "block": "Medical devices associated with adverse incidents in diagnostic and therapeutic use",
+    "blockCode": "Y70-Y82",
+    "category": "Otorhinolaryngological devices associated with adverse incidents",
+    "categoryCode": "Y72",
+    "subcategory": "",
+    "inclusion": [
+        "complications of medical devices",
+        "correct drug properly administered in therapeutic or prophylactic dosage as the cause of any adverse effect",
+        "misadventures to patients during surgical and medical care",
+        "surgical and medical procedures as the cause of abnormal reaction of the patient, or of later complication, without mention of misadventure at the time of the procedure",
+        "breakdown or malfunctioning of medical device (during procedure)(after implantation)(ongoing use)"
+    ],
+    "exclusion": [
+        "accidental overdose of drug or wrong drug given or taken in error",
+        "later complications following use of medical devices without mention of breakdown or malfunctioning of medical device",
+        "medical devices associated with adverse incidents due to external causes classified elsewhere",
+        "misadventure to patients during surgical and medical care, classifiable to Y60-Y69"
+    ],
+    "symptoms": [
+        "asymptomatic"
+    ]
+}

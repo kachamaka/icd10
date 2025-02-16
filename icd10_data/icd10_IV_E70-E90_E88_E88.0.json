@@ -1,0 +1,32 @@
+{
+  "type": "subcategory",
+  "chapterCode": "IV",
+  "chapter": "Endocrine, nutritional and metabolic diseases",
+  "blockCode": "E70-E90",
+  "block": "Metabolic disorders",
+  "categoryCode": "E88",
+  "category": "Other metabolic disorders",
+  "subcategory": "E88.0",
+  "title": "Disorders of plasma-protein metabolism, not elsewhere classified",
+  "inclusion": [
+    "Alpha-1-antitrypsin deficiency",
+    "Bisalbuminaemia"
+  ],
+  "exclusion": [
+    "complications of pregnancy, childbirth and the puerperium",
+    "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+    "transitory endocrine and metabolic disorders specific to fetus and newborn",
+    "androgen resistance syndrome",
+    "congenital adrenal hyperplasia",
+    "Ehlers-Danlos syndrome",
+    "haemolytic anaemias due to enzyme disorders",
+    "Marfan syndrome",
+    "5-alpha-reductase deficiency",
+    "meconium obstruction (ileus) in cases where cystic fibrosis is known not to be present",
+    "disorder of lipoprotein metabolism",
+    "monoclonal gammopathy of undetermined significance (MGUS)",
+    "polyclonal hypergammaglobulinaemia",
+    "Waldenström macroglobulinaemia"
+  ],
+  "children": null
+}

@@ -1,0 +1,25 @@
+{
+    "icd10code": "C51.9",
+    "type": "subcategory",
+    "title": "Malignant neoplasm: Vulva, unspecified",
+    "chapter": "Neoplasms",
+    "chapterCode": "II",
+    "block": "Malignant neoplasms of female genital organs",
+    "blockCode": "C51-C58",
+    "category": "Malignant neoplasm of vulva",
+    "categoryCode": "C51",
+    "subcategory": "C51.9",
+    "inclusion": [
+        "skin of female genital organs",
+        "External female genitalia NOS",
+        "Pudendum"
+    ],
+    "exclusion": null,
+    "symptoms": [
+        "abnormal vaginal bleeding",
+        "irregular menstruation",
+        "pelvic pain",
+        "painful sexual intercourse",
+        "presence of vaginal lump"
+    ]
+}

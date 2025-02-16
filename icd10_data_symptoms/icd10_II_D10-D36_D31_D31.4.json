@@ -1,0 +1,27 @@
+{
+    "icd10code": "D31.4",
+    "type": "subcategory",
+    "title": "Benign neoplasm: Ciliary body",
+    "chapter": "Neoplasms",
+    "chapterCode": "II",
+    "block": "Benign neoplasms",
+    "blockCode": "D10-D36",
+    "category": "Benign neoplasm of eye and adnexa",
+    "categoryCode": "D31",
+    "subcategory": "D31.4",
+    "inclusion": [
+        "morphology codes with behaviour code /0"
+    ],
+    "exclusion": [
+        "connective tissue of eyelid",
+        "optic nerve",
+        "skin of eyelid"
+    ],
+    "symptoms": [
+        "blurred vision",
+        "eye pain",
+        "partial or total loss of vision",
+        "abnormal eye movements",
+        "bulging eyes"
+    ]
+}

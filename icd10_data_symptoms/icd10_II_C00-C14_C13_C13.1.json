@@ -1,0 +1,27 @@
+{
+    "icd10code": "C13.1",
+    "type": "subcategory",
+    "title": "Malignant neoplasm: Aryepiglottic fold, hypopharyngeal aspect",
+    "chapter": "Neoplasms",
+    "chapterCode": "II",
+    "block": "Malignant neoplasms of lip, oral cavity and pharynx",
+    "blockCode": "C00-C14",
+    "category": "Malignant neoplasm of hypopharynx",
+    "categoryCode": "C13",
+    "subcategory": "C13.1",
+    "inclusion": [
+        "Aryepiglottic fold: NOS",
+        "Aryepiglottic fold: marginal zone"
+    ],
+    "exclusion": [
+        "piriform sinus",
+        "aryepiglottic fold, laryngeal aspect"
+    ],
+    "symptoms": [
+        "difficulty swallowing",
+        "pain when swallowing",
+        "frequent heartburn",
+        "weight loss",
+        "throat discomfort"
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "icd10code": "T73.2",
+    "type": "subcategory",
+    "title": "Exhaustion due to exposure",
+    "chapter": "Injury, poisoning and certain other consequences of external causes",
+    "chapterCode": "XIX",
+    "block": "Other and unspecified effects of external causes",
+    "blockCode": "T66-T78",
+    "category": "Effects of other deprivation",
+    "categoryCode": "T73",
+    "subcategory": "T73.2",
+    "inclusion": null,
+    "exclusion": [
+        "birth trauma",
+        "obstetric trauma",
+        "malunion of fracture",
+        "nonunion of fracture [pseudarthrosis]",
+        "pathological fracture",
+        "pathological fracture with osteoporosis",
+        "stress fracture"
+    ],
+    "symptoms": [
+        "fatigue",
+        "dizziness",
+        "headache",
+        "nausea",
+        "confusion"
+    ]
+}

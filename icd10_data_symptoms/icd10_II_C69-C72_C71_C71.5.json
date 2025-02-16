@@ -1,0 +1,25 @@
+{
+    "icd10code": "C71.5",
+    "type": "subcategory",
+    "title": "Malignant neoplasm: Cerebral ventricle",
+    "chapter": "Neoplasms",
+    "chapterCode": "II",
+    "block": "Malignant neoplasms of eye, brain and other parts of central nervous system",
+    "blockCode": "C69-C72",
+    "category": "Malignant neoplasm of brain",
+    "categoryCode": "C71",
+    "subcategory": "C71.5",
+    "inclusion": null,
+    "exclusion": [
+        "cranial nerves",
+        "retrobulbar tissue",
+        "fourth ventricle"
+    ],
+    "symptoms": [
+        "headaches",
+        "seizures",
+        "difficulty with balance or coordination",
+        "speech difficulties",
+        "personality or behavior changes"
+    ]
+}

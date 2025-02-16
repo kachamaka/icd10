@@ -1,0 +1,26 @@
+{
+    "icd10code": "U07.2",
+    "type": "subcategory",
+    "title": "COVID-19, virus not identified",
+    "chapter": "Codes for special purposes",
+    "chapterCode": "XXII",
+    "block": "Provisional assignment of new diseases of uncertain etiology or emergency use",
+    "blockCode": "U00-U49",
+    "category": "Emergency use of U07",
+    "categoryCode": "U07",
+    "subcategory": "U07.2",
+    "inclusion": null,
+    "exclusion": [
+        "Coronavirus infection, unspecified site",
+        "COVID-19: confirmed by laboratory testing",
+        "COVID-19: special screening examination",
+        "COVID-19: suspected but ruled out by negative laboratory results"
+    ],
+    "symptoms": [
+        "fever",
+        "cough",
+        "shortness of breath",
+        "fatigue",
+        "loss of taste or smell"
+    ]
+}

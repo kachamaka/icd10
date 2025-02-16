@@ -1,0 +1,23 @@
+{
+  "type": "subcategory",
+  "chapterCode": "XIX",
+  "chapter": "Injury, poisoning and certain other consequences of external causes",
+  "blockCode": "T66-T78",
+  "block": "Other and unspecified effects of external causes",
+  "categoryCode": "T69",
+  "category": "Other effects of reduced temperature",
+  "subcategory": "T69.8",
+  "title": "Other specified effects of reduced temperature",
+  "inclusion": null,
+  "exclusion": [
+    "birth trauma",
+    "obstetric trauma",
+    "malunion of fracture",
+    "nonunion of fracture [pseudarthrosis]",
+    "pathological fracture",
+    "pathological fracture with osteoporosis",
+    "stress fracture",
+    "polycythaemia due to high altitude"
+  ],
+  "children": null
+}

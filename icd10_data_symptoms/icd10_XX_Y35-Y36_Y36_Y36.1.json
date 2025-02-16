@@ -1,0 +1,23 @@
+{
+    "icd10code": "Y36.1",
+    "type": "subcategory",
+    "title": "War operations involving destruction of aircraft",
+    "chapter": "External causes of morbidity and mortality",
+    "chapterCode": "XX",
+    "block": "Legal intervention and operations of war",
+    "blockCode": "Y35-Y36",
+    "category": "Operations of war",
+    "categoryCode": "Y36",
+    "subcategory": "Y36.1",
+    "inclusion": [
+        "injuries to military personnel and civilians caused by war and civil insurrection",
+        "Aircraft: burned",
+        "Aircraft: exploded",
+        "Aircraft: shot down",
+        "Crushed by falling aircraft"
+    ],
+    "exclusion": null,
+    "symptoms": [
+        "asymptomatic"
+    ]
+}

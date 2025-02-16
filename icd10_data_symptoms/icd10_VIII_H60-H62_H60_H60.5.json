@@ -1,0 +1,37 @@
+{
+    "icd10code": "H60.5",
+    "type": "subcategory",
+    "title": "Acute otitis externa, noninfective",
+    "chapter": "Diseases of the ear and mastoid process",
+    "chapterCode": "VIII",
+    "block": "Diseases of external ear",
+    "blockCode": "H60-H62",
+    "category": "Otitis externa",
+    "categoryCode": "H60",
+    "subcategory": "H60.5",
+    "inclusion": [
+        "Acute otitis externa: NOS",
+        "Acute otitis externa: actinic",
+        "Acute otitis externa: chemical",
+        "Acute otitis externa: contact",
+        "Acute otitis externa: eczematoid",
+        "Acute otitis externa: reactive"
+    ],
+    "exclusion": [
+        "certain conditions originating in the perinatal period",
+        "certain infectious and parasitic diseases",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified"
+    ],
+    "symptoms": [
+        "ear pain",
+        "itching in the ear",
+        "redness in the ear canal",
+        "ear discharge",
+        "swelling in the ear"
+    ]
+}

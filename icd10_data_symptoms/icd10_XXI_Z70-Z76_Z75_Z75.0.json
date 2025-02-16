@@ -1,0 +1,19 @@
+{
+    "icd10code": "Z75.0",
+    "type": "subcategory",
+    "title": "Medical services not available in home",
+    "chapter": "Factors influencing health status and contact with health services",
+    "chapterCode": "XXI",
+    "block": "Persons encountering health services in other circumstances",
+    "blockCode": "Z70-Z76",
+    "category": "Problems related to medical facilities and other health care",
+    "categoryCode": "Z75",
+    "subcategory": "Z75.0",
+    "inclusion": null,
+    "exclusion": [
+        "no other household member able to render care"
+    ],
+    "symptoms": [
+        "asymptomatic"
+    ]
+}

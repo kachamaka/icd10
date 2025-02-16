@@ -1,0 +1,41 @@
+{
+    "icd10code": "R19.5",
+    "type": "subcategory",
+    "title": "Other faecal abnormalities",
+    "chapter": "Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+    "chapterCode": "XVIII",
+    "block": "Symptoms and signs involving the digestive system and abdomen",
+    "blockCode": "R10-R19",
+    "category": "Other symptoms and signs involving the digestive system and abdomen",
+    "categoryCode": "R19",
+    "subcategory": "R19.5",
+    "inclusion": [
+        "Abnormal stool colour",
+        "Bulky stools",
+        "Mucus in stools",
+        "Occult blood in stools"
+    ],
+    "exclusion": [
+        "abnormal findings on antenatal screening of mother",
+        "certain conditions originating in the perinatal period",
+        "gastrointestinal haemorrhage",
+        "gastrointestinal haemorrhage newborn",
+        "intestinal obstruction",
+        "intestinal obstruction newborn",
+        "pylorospasm",
+        "pylorospasm congenital or infantile",
+        "symptoms and signs involving the urinary system",
+        "symptoms referable to genital organs: female",
+        "symptoms referable to genital organs: male",
+        "acute abdomen",
+        "melaena",
+        "melaena neonatal"
+    ],
+    "symptoms": [
+        "abdominal tenderness",
+        "abdominal pain",
+        "bloating",
+        "discomfort",
+        "guarding"
+    ]
+}

@@ -1,0 +1,17 @@
+{
+  "type": "subcategory",
+  "chapterCode": "II",
+  "chapter": "Neoplasms",
+  "blockCode": "C60-C63",
+  "block": "Malignant neoplasms of male genital organs",
+  "categoryCode": "C63",
+  "category": "Malignant neoplasm of other and unspecified male genital organs",
+  "subcategory": "C63.2",
+  "title": "Malignant neoplasm: Scrotum",
+  "inclusion": [
+    "skin of male genital organs",
+    "Skin of scrotum"
+  ],
+  "exclusion": null,
+  "children": null
+}

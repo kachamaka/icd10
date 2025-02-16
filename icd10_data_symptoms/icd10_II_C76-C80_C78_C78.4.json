@@ -1,0 +1,21 @@
+{
+    "icd10code": "C78.4",
+    "type": "subcategory",
+    "title": "Secondary malignant neoplasm of small intestine",
+    "chapter": "Neoplasms",
+    "chapterCode": "II",
+    "block": "Malignant neoplasms of ill-defined, secondary and unspecified sites",
+    "blockCode": "C76-C80",
+    "category": "Secondary malignant neoplasm of respiratory and digestive organs",
+    "categoryCode": "C78",
+    "subcategory": "C78.4",
+    "inclusion": null,
+    "exclusion": null,
+    "symptoms": [
+        "shortness of breath",
+        "chronic cough",
+        "chest pain",
+        "unintended weight loss",
+        "bloody phlegm or hemoptysis"
+    ]
+}

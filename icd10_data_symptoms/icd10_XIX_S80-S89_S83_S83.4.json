@@ -1,0 +1,42 @@
+{
+    "icd10code": "S83.4",
+    "type": "subcategory",
+    "title": "Sprain and strain involving (fibular)(tibial) collateral ligament of knee",
+    "chapter": "Injury, poisoning and certain other consequences of external causes",
+    "chapterCode": "XIX",
+    "block": "Injuries to the knee and lower leg",
+    "blockCode": "S80-S89",
+    "category": "Dislocation, sprain and strain of joints and ligaments of knee",
+    "categoryCode": "S83",
+    "subcategory": "S83.4",
+    "inclusion": [
+        "fracture of ankle and malleolus"
+    ],
+    "exclusion": [
+        "birth trauma",
+        "obstetric trauma",
+        "malunion of fracture",
+        "nonunion of fracture [pseudarthrosis]",
+        "pathological fracture",
+        "pathological fracture with osteoporosis",
+        "stress fracture",
+        "bilateral involvement of knee and lower leg",
+        "burns and corrosions",
+        "frostbite",
+        "injuries of: ankle and foot, except fracture of ankle and malleolus",
+        "injuries of: leg, level unspecified",
+        "insect bite or sting, venomous",
+        "derangement of: knee, internal",
+        "derangement of: patella",
+        "dislocation of knee: old",
+        "dislocation of knee: pathological",
+        "dislocation of knee: recurrent"
+    ],
+    "symptoms": [
+        "knee pain",
+        "swelling",
+        "stiffness",
+        "limited range of motion",
+        "joint instability"
+    ]
+}

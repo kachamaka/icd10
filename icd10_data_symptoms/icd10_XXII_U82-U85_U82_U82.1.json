@@ -1,0 +1,25 @@
+{
+    "icd10code": "U82.1",
+    "type": "subcategory",
+    "title": "Resistance to methicillin",
+    "chapter": "Codes for special purposes",
+    "chapterCode": "XXII",
+    "block": "Resistance to antimicrobial and antineoplastic drugs",
+    "blockCode": "U82-U85",
+    "category": "Resistance to betalactam antibiotics",
+    "categoryCode": "U82",
+    "subcategory": "U82.1",
+    "inclusion": [
+        "Resistance to: Cloxacillin",
+        "Resistance to: Flucloxacillin",
+        "Resistance to: Oxacillin"
+    ],
+    "exclusion": null,
+    "symptoms": [
+        "antibiotic resistance",
+        "persistent infections",
+        "treatment failure",
+        "recurring symptoms",
+        "limited therapeutic options"
+    ]
+}

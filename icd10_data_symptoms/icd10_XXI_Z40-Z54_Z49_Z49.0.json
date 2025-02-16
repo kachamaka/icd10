@@ -1,0 +1,22 @@
+{
+    "icd10code": "Z49.0",
+    "type": "subcategory",
+    "title": "Preparatory care for dialysis",
+    "chapter": "Factors influencing health status and contact with health services",
+    "chapterCode": "XXI",
+    "block": "Persons encountering health services for specific procedures and health care",
+    "blockCode": "Z40-Z54",
+    "category": "Care involving dialysis",
+    "categoryCode": "Z49",
+    "subcategory": "Z49.0",
+    "inclusion": [
+        "dialysis preparation and treatment"
+    ],
+    "exclusion": [
+        "follow-up examination for medical surveillance after treatment",
+        "renal dialysis status"
+    ],
+    "symptoms": [
+        "asymptomatic"
+    ]
+}

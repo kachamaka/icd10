@@ -1,0 +1,16 @@
+{
+  "type": "subcategory",
+  "chapterCode": "II",
+  "chapter": "Neoplasms",
+  "blockCode": "C76-C80",
+  "block": "Malignant neoplasms of ill-defined, secondary and unspecified sites",
+  "categoryCode": "C77",
+  "category": "Secondary and unspecified malignant neoplasm of lymph nodes",
+  "subcategory": "C77.9",
+  "title": "Secondary and unspecified malignant neoplasm: Lymph node, unspecified",
+  "inclusion": null,
+  "exclusion": [
+    "malignant neoplasm of lymph nodes, specified as primary"
+  ],
+  "children": null
+}

@@ -1,0 +1,26 @@
+{
+    "icd10code": "F40.8",
+    "type": "subcategory",
+    "title": "Other phobic anxiety disorders",
+    "chapter": "Mental and behavioural disorders",
+    "chapterCode": "V",
+    "block": "Neurotic, stress-related and somatoform disorders",
+    "blockCode": "F40-F48",
+    "category": "Phobic anxiety disorders",
+    "categoryCode": "F40",
+    "subcategory": "F40.8",
+    "inclusion": [
+        "disorders of psychological development"
+    ],
+    "exclusion": [
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "when associated with conduct disorder in F91.-"
+    ],
+    "symptoms": [
+        "anxiety",
+        "excessive worry",
+        "avoidance behaviors",
+        "restlessness",
+        "fear of specific situations"
+    ]
+}

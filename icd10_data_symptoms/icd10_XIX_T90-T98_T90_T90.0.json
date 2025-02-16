@@ -1,0 +1,31 @@
+{
+    "icd10code": "T90.0",
+    "type": "subcategory",
+    "title": "Sequelae of superficial injury of head",
+    "chapter": "Injury, poisoning and certain other consequences of external causes",
+    "chapterCode": "XIX",
+    "block": "Sequelae of injuries, of poisoning and of other consequences of external causes",
+    "blockCode": "T90-T98",
+    "category": "Sequelae of injuries of head",
+    "categoryCode": "T90",
+    "subcategory": "T90.0",
+    "inclusion": [
+        "Sequelae of injury classified to S00.-"
+    ],
+    "exclusion": [
+        "birth trauma",
+        "obstetric trauma",
+        "malunion of fracture",
+        "nonunion of fracture [pseudarthrosis]",
+        "pathological fracture",
+        "pathological fracture with osteoporosis",
+        "stress fracture"
+    ],
+    "symptoms": [
+        "headache",
+        "dizziness",
+        "memory issues",
+        "fatigue",
+        "difficulty concentrating"
+    ]
+}

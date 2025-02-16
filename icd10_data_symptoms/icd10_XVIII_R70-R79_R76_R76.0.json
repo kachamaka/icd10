@@ -1,0 +1,29 @@
+{
+    "icd10code": "R76.0",
+    "type": "subcategory",
+    "title": "Raised antibody titre",
+    "chapter": "Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+    "chapterCode": "XVIII",
+    "block": "Abnormal findings on examination of blood, without diagnosis",
+    "blockCode": "R70-R79",
+    "category": "Other abnormal immunological findings in serum",
+    "categoryCode": "R76",
+    "subcategory": "R76.0",
+    "inclusion": null,
+    "exclusion": [
+        "abnormal findings on antenatal screening of mother",
+        "certain conditions originating in the perinatal period",
+        "abnormalities (of)(on): antenatal screening of mother",
+        "abnormalities (of)(on): coagulation",
+        "abnormalities (of)(on): lipids",
+        "abnormalities (of)(on): platelets and thrombocytes",
+        "abnormalities (of)(on): white blood cells classified elsewhere",
+        "diagnostic abnormal findings classified elsewhere - see Alphabetical Index",
+        "haemorrhagic and haematological disorders of fetus and newborn",
+        "isoimmunization, in pregnancy",
+        "isoimmunization, in pregnancy affecting fetus or newborn"
+    ],
+    "symptoms": [
+        "asymptomatic"
+    ]
+}

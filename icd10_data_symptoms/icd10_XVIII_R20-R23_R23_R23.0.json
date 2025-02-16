@@ -1,0 +1,26 @@
+{
+    "icd10code": "R23.0",
+    "type": "subcategory",
+    "title": "Cyanosis",
+    "chapter": "Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+    "chapterCode": "XVIII",
+    "block": "Symptoms and signs involving the skin and subcutaneous tissue",
+    "blockCode": "R20-R23",
+    "category": "Other skin changes",
+    "categoryCode": "R23",
+    "subcategory": "R23.0",
+    "inclusion": null,
+    "exclusion": [
+        "abnormal findings on antenatal screening of mother",
+        "certain conditions originating in the perinatal period",
+        "acrocyanosis",
+        "cyanotic attacks of newborn"
+    ],
+    "symptoms": [
+        "skin discoloration",
+        "redness",
+        "bruising",
+        "blue skin",
+        "pallor"
+    ]
+}

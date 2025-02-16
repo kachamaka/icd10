@@ -1,0 +1,17 @@
+{
+    "icd10code": "Z35.0",
+    "type": "subcategory",
+    "title": "Supervision of pregnancy with history of infertility",
+    "chapter": "Factors influencing health status and contact with health services",
+    "chapterCode": "XXI",
+    "block": "Persons encountering health services in circumstances related to reproduction",
+    "blockCode": "Z30-Z39",
+    "category": "Supervision of high-risk pregnancy",
+    "categoryCode": "Z35",
+    "subcategory": "Z35.0",
+    "inclusion": null,
+    "exclusion": null,
+    "symptoms": [
+        "asymptomatic"
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "icd10code": "E63.8",
+    "type": "subcategory",
+    "title": "Other specified nutritional deficiencies",
+    "chapter": "Endocrine, nutritional and metabolic diseases",
+    "chapterCode": "IV",
+    "block": "Other nutritional deficiencies",
+    "blockCode": "E50-E64",
+    "category": "Other nutritional deficiencies",
+    "categoryCode": "E63",
+    "subcategory": "E63.8",
+    "inclusion": null,
+    "exclusion": [
+        "complications of pregnancy, childbirth and the puerperium",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "transitory endocrine and metabolic disorders specific to fetus and newborn",
+        "diabetes mellitus (in): malnutrition-related",
+        "dehydration",
+        "failure to thrive (in): adult",
+        "failure to thrive (in): child",
+        "failure to thrive (in): NOS",
+        "feeding problems in newborn",
+        "sequelae of malnutrition and other nutritional deficiencies"
+    ],
+    "symptoms": [
+        "hair loss",
+        "brittle nails",
+        "dry skin",
+        "frequent infections",
+        "fatigue"
+    ]
+}

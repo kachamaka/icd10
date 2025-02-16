@@ -1,0 +1,18 @@
+{
+  "type": "subcategory",
+  "chapterCode": "XXI",
+  "chapter": "Factors influencing health status and contact with health services",
+  "blockCode": "Z70-Z76",
+  "block": "Persons encountering health services in other circumstances",
+  "categoryCode": "Z73",
+  "category": "Problems related to life-management difficulty",
+  "subcategory": "Z73.1",
+  "title": "Accentuation of personality traits",
+  "inclusion": [
+    "Type A behaviour pattern (characterized by unbridled ambition, a need for high achievement, impatience, competitiveness, and a sense of urgency)"
+  ],
+  "exclusion": [
+    "problems related to socioeconomic and psychosocial circumstances"
+  ],
+  "children": null
+}

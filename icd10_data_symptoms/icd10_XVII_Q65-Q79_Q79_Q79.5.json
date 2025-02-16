@@ -1,0 +1,25 @@
+{
+    "icd10code": "Q79.5",
+    "type": "subcategory",
+    "title": "Other congenital malformations of abdominal wall",
+    "chapter": "Congenital malformations, deformations and chromosomal abnormalities",
+    "chapterCode": "XVII",
+    "block": "Congenital malformations and deformations of the musculoskeletal system",
+    "blockCode": "Q65-Q79",
+    "category": "Congenital malformations of the musculoskeletal system, not elsewhere classified",
+    "categoryCode": "Q79",
+    "subcategory": "Q79.5",
+    "inclusion": null,
+    "exclusion": [
+        "inborn errors of metabolism",
+        "congenital (sternomastoid) torticollis",
+        "umbilical hernia"
+    ],
+    "symptoms": [
+        "abnormal skin pigmentation",
+        "hernias",
+        "joint hypermobility",
+        "soft skin texture",
+        "delayed wound healing"
+    ]
+}

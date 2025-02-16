@@ -1,0 +1,44 @@
+{
+    "icd10code": "J02.9",
+    "type": "subcategory",
+    "title": "Acute pharyngitis, unspecified",
+    "chapter": "Diseases of the respiratory system",
+    "chapterCode": "X",
+    "block": "Acute upper respiratory infections",
+    "blockCode": "J00-J06",
+    "category": "Acute pharyngitis",
+    "categoryCode": "J02",
+    "subcategory": "J02.9",
+    "inclusion": [
+        "acute sore throat",
+        "Pharyngitis (acute): NOS",
+        "Pharyngitis (acute): gangrenous",
+        "Pharyngitis (acute): infective NOS",
+        "Pharyngitis (acute): suppurative",
+        "Pharyngitis (acute): ulcerative",
+        "Sore throat (acute) NOS"
+    ],
+    "exclusion": [
+        "certain conditions originating in the perinatal period",
+        "certain infectious and parasitic diseases",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "chronic obstructive pulmonary disease with acute exacerbation NOS",
+        "acute respiratory infection NOS",
+        "influenza virus: identified",
+        "influenza virus: not identified",
+        "respiratory infection NOS",
+        "chronic pharyngitis"
+    ],
+    "symptoms": [
+        "sore throat",
+        "fever",
+        "difficulty swallowing",
+        "swollen lymph nodes",
+        "headache"
+    ]
+}

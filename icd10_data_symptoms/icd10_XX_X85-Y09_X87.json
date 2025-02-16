@@ -1,0 +1,25 @@
+{
+    "icd10code": "X87",
+    "type": "category",
+    "title": "Assault by pesticides",
+    "chapter": "External causes of morbidity and mortality",
+    "chapterCode": "XX",
+    "block": "Assault",
+    "blockCode": "X85-Y09",
+    "category": "Assault by pesticides",
+    "categoryCode": "X87",
+    "subcategory": "",
+    "inclusion": [
+        "homicide",
+        "injuries inflicted by another person with intent to injure or kill, by any means",
+        "wood preservatives"
+    ],
+    "exclusion": [
+        "injuries due to: legal intervention",
+        "injuries due to: operations of war",
+        "plant food and fertilizers"
+    ],
+    "symptoms": [
+        "asymptomatic"
+    ]
+}

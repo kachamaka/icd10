@@ -1,0 +1,40 @@
+{
+    "icd10code": "M67.4",
+    "type": "subcategory",
+    "title": "Ganglion",
+    "chapter": "Diseases of the musculoskeletal system and connective tissue",
+    "chapterCode": "XIII",
+    "block": "Disorders of synovium and tendon",
+    "blockCode": "M65-M68",
+    "category": "Other disorders of synovium and tendon",
+    "categoryCode": "M67",
+    "subcategory": "M67.4",
+    "inclusion": [
+        "Ganglion of joint or tendon (sheath)"
+    ],
+    "exclusion": [
+        "certain conditions originating in the perinatal period",
+        "certain disorders of the temporomandibular joint",
+        "certain infectious and parasitic diseases",
+        "compartment syndrome",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "stress fracture of vertebra",
+        "chondromalacia patellae",
+        "rupture of popliteal cyst",
+        "cyst of: bursa",
+        "cyst of: synovium",
+        "ganglion in yaws"
+    ],
+    "symptoms": [
+        "pain",
+        "swelling",
+        "limited range of motion",
+        "stiffness",
+        "clicking or popping sound"
+    ]
+}

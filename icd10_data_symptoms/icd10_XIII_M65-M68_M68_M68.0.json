@@ -1,0 +1,36 @@
+{
+    "icd10code": "M68.0",
+    "type": "subcategory",
+    "title": "Synovitis and tenosynovitis in bacterial diseases classified elsewhere",
+    "chapter": "Diseases of the musculoskeletal system and connective tissue",
+    "chapterCode": "XIII",
+    "block": "Disorders of synovium and tendon",
+    "blockCode": "M65-M68",
+    "category": "Disorders of synovium and tendon in diseases classified elsewhere",
+    "categoryCode": "M68",
+    "subcategory": "M68.0",
+    "inclusion": [
+        "Synovitis or tenosynovitis in: gonorrhoea",
+        "Synovitis or tenosynovitis in: syphilis",
+        "Synovitis or tenosynovitis in: tuberculosis"
+    ],
+    "exclusion": [
+        "certain conditions originating in the perinatal period",
+        "certain disorders of the temporomandibular joint",
+        "certain infectious and parasitic diseases",
+        "compartment syndrome",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified"
+    ],
+    "symptoms": [
+        "joint pain",
+        "swelling",
+        "stiffness",
+        "warm skin over joints",
+        "reduced range of motion"
+    ]
+}

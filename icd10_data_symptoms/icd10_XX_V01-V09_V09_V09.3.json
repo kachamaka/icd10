@@ -1,0 +1,27 @@
+{
+    "icd10code": "V09.3",
+    "type": "subcategory",
+    "title": "Pedestrian injured in unspecified traffic accident",
+    "chapter": "External causes of morbidity and mortality",
+    "chapterCode": "XX",
+    "block": "Pedestrian injured in transport accident",
+    "blockCode": "V01-V09",
+    "category": "Pedestrian injured in other and unspecified transport accidents",
+    "categoryCode": "V09",
+    "subcategory": "V09.3",
+    "inclusion": [
+        "pedestrian injured by special vehicle"
+    ],
+    "exclusion": [
+        "accidents to persons engaged in the maintenance or repair of transport equipment or vehicle (not in motion) unless injured by another vehicle in motion",
+        "accidents involving vehicles, but unrelated to the hazards associated with the means of transportation, e.g., injuries received in a fight on board ship; transport vehicle involved in a cataclysm; finger crushed when shutting car door",
+        "assault by crashing of motor vehicle",
+        "event of undetermined intent",
+        "intentional self-harm",
+        "collision involving: pedal cyclist",
+        "collision involving: pedestrian"
+    ],
+    "symptoms": [
+        "asymptomatic"
+    ]
+}

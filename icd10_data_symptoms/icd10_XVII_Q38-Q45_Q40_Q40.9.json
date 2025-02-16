@@ -1,0 +1,26 @@
+{
+    "icd10code": "Q40.9",
+    "type": "subcategory",
+    "title": "Congenital malformation of upper alimentary tract, unspecified",
+    "chapter": "Congenital malformations, deformations and chromosomal abnormalities",
+    "chapterCode": "XVII",
+    "block": "Other congenital malformations of the digestive system",
+    "blockCode": "Q38-Q45",
+    "category": "Other congenital malformations of upper alimentary tract",
+    "categoryCode": "Q40",
+    "subcategory": "Q40.9",
+    "inclusion": [
+        "Congenital: anomaly NOS of upper alimentary tract",
+        "Congenital: deformity NOS of upper alimentary tract"
+    ],
+    "exclusion": [
+        "inborn errors of metabolism"
+    ],
+    "symptoms": [
+        "difficulty swallowing",
+        "regurgitation",
+        "chest pain",
+        "abdominal discomfort",
+        "poor weight gain"
+    ]
+}

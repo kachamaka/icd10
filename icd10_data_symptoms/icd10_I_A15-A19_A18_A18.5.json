@@ -1,0 +1,41 @@
+{
+    "icd10code": "A18.5",
+    "type": "subcategory",
+    "title": "Tuberculosis of eye",
+    "chapter": "Certain infectious and parasitic diseases",
+    "chapterCode": "I",
+    "block": "Tuberculosis",
+    "blockCode": "A15-A19",
+    "category": "Tuberculosis of other organs",
+    "categoryCode": "A18",
+    "subcategory": "A18.5",
+    "inclusion": [
+        "diseases generally recognized as communicable or transmissible",
+        "infections due to Mycobacterium tuberculosis and Mycobacterium bovis",
+        "Tuberculous: chorioretinitis",
+        "Tuberculous: episcleritis",
+        "Tuberculous: interstitial keratitis",
+        "Tuberculous: iridocyclitis",
+        "Tuberculous: keratoconjunctivitis (interstitial)(phlyctenular)"
+    ],
+    "exclusion": [
+        "carrier or suspected carrier of infectious disease",
+        "certain localized infections - see body system-related chapters",
+        "infectious and parasitic diseases complicating pregnancy, childbirth and the puerperium [except obstetrical tetanus]",
+        "infectious and parasitic diseases specific to the perinatal period [except tetanus neonatorum, whooping cough, congenital syphilis, perinatal gonococcal infection and perinatal human immunodeficiency virus [HIV] disease]",
+        "influenza and other acute respiratory infections",
+        "congenital tuberculosis",
+        "human immunodeficieny [HIV] disease resulting in tuberculosis",
+        "pneumoconiosis associated with tuberculosis",
+        "sequelae of tuberculosis",
+        "silicotuberculosis",
+        "lupus vulgaris of eyelid"
+    ],
+    "symptoms": [
+        "chronic cough",
+        "chest pain",
+        "fatigue",
+        "difficulty breathing",
+        "night sweats"
+    ]
+}

@@ -1,0 +1,52 @@
+{
+    "icd10code": "L23.4",
+    "type": "subcategory",
+    "title": "Allergic contact dermatitis due to dyes",
+    "chapter": "Diseases of the skin and subcutaneous tissue",
+    "chapterCode": "XII",
+    "block": "Dermatitis and eczema",
+    "blockCode": "L20-L30",
+    "category": "Allergic contact dermatitis",
+    "categoryCode": "L23",
+    "subcategory": "L23.4",
+    "inclusion": [
+        "allergic contact eczema"
+    ],
+    "exclusion": [
+        "certain conditions originating in the perinatal period",
+        "certain infectious and parasitic diseases",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "lipomelanotic reticulosis",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "systemic connective tissue disorders",
+        "chronic (childhood) granulomatous disease",
+        "dermatitis: dry skin",
+        "dermatitis: factitial",
+        "dermatitis: gangrenosa",
+        "dermatitis: herpetiformis",
+        "dermatitis: perioral",
+        "dermatitis: stasis",
+        "radiation-related disorders of the skin and subcutaneous tissue",
+        "dermatitis: contact",
+        "dermatitis: dry skin",
+        "small plaque parapsoriasis",
+        "stasis dermatitis",
+        "drug: photoallergic response",
+        "drug: phototoxic response",
+        "urticaria",
+        "dermatitis (of): perioral",
+        "eczema of external ear",
+        "radiation-related disorders of the skin and subcutaneous tissue"
+    ],
+    "symptoms": [
+        "itchiness",
+        "redness",
+        "swelling",
+        "blistering",
+        "dry patches"
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "icd10code": "D47.5",
+    "type": "subcategory",
+    "title": "Chronic eosinophilic leukaemia [hypereosinophilic syndrome]",
+    "chapter": "Neoplasms",
+    "chapterCode": "II",
+    "block": "Neoplasms of uncertain or unknown behaviour",
+    "blockCode": "D37-D48",
+    "category": "Other neoplasms of uncertain or unknown behaviour of lymphoid, haematopoietic and related tissue",
+    "categoryCode": "D47",
+    "subcategory": "D47.5",
+    "inclusion": null,
+    "exclusion": null,
+    "symptoms": [
+        "enlarged spleen",
+        "fatigue",
+        "fever",
+        "unexplained weight loss",
+        "easy bruising or bleeding"
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "icd10code": "R07.1",
+    "type": "subcategory",
+    "title": "Chest pain on breathing",
+    "chapter": "Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+    "chapterCode": "XVIII",
+    "block": "Symptoms and signs involving the circulatory and respiratory systems",
+    "blockCode": "R00-R09",
+    "category": "Pain in throat and chest",
+    "categoryCode": "R07",
+    "subcategory": "R07.1",
+    "inclusion": [
+        "Painful respiration"
+    ],
+    "exclusion": [
+        "abnormal findings on antenatal screening of mother",
+        "certain conditions originating in the perinatal period",
+        "dysphagia",
+        "epidemic myalgia",
+        "pain in: breast",
+        "pain in: neck",
+        "sore throat (acute) NOS"
+    ],
+    "symptoms": [
+        "chest pain",
+        "pressure in the chest",
+        "discomfort in the chest",
+        "tightness in the chest",
+        "chest heaviness"
+    ]
+}

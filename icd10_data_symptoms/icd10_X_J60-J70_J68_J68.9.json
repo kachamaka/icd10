@@ -1,0 +1,31 @@
+{
+    "icd10code": "J68.9",
+    "type": "subcategory",
+    "title": "Unspecified respiratory condition due to chemicals, gases, fumes and vapours",
+    "chapter": "Diseases of the respiratory system",
+    "chapterCode": "X",
+    "block": "Lung diseases due to external agents",
+    "blockCode": "J60-J70",
+    "category": "Respiratory conditions due to inhalation of chemicals, gases, fumes and vapours",
+    "categoryCode": "J68",
+    "subcategory": "J68.9",
+    "inclusion": null,
+    "exclusion": [
+        "certain conditions originating in the perinatal period",
+        "certain infectious and parasitic diseases",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "asthma classified to J45.-"
+    ],
+    "symptoms": [
+        "cough",
+        "shortness of breath",
+        "wheezing",
+        "chest pain",
+        "fatigue"
+    ]
+}

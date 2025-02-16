@@ -1,0 +1,30 @@
+{
+    "icd10code": "Q32.4",
+    "type": "subcategory",
+    "title": "Other congenital malformations of bronchus",
+    "chapter": "Congenital malformations, deformations and chromosomal abnormalities",
+    "chapterCode": "XVII",
+    "block": "Congenital malformations of the respiratory system",
+    "blockCode": "Q30-Q34",
+    "category": "Congenital malformations of trachea and bronchus",
+    "categoryCode": "Q32",
+    "subcategory": "Q32.4",
+    "inclusion": [
+        "Absence of bronchus",
+        "Agenesis of bronchus",
+        "Atresia of bronchus",
+        "Congenital malformation NOS of bronchus",
+        "Diverticulum of bronchus"
+    ],
+    "exclusion": [
+        "inborn errors of metabolism",
+        "congenital bronchiectasis"
+    ],
+    "symptoms": [
+        "respiratory distress",
+        "chronic cough",
+        "recurrent infections",
+        "stridor",
+        "wheezing"
+    ]
+}

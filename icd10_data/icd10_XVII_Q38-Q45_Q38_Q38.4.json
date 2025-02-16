@@ -1,0 +1,23 @@
+{
+  "type": "subcategory",
+  "chapterCode": "XVII",
+  "chapter": "Congenital malformations, deformations and chromosomal abnormalities",
+  "blockCode": "Q38-Q45",
+  "block": "Other congenital malformations of the digestive system",
+  "categoryCode": "Q38",
+  "category": "Other congenital malformations of tongue, mouth and pharynx",
+  "subcategory": "Q38.4",
+  "title": "Congenital malformations of salivary glands and ducts",
+  "inclusion": [
+    "Absence (of) salivary gland or duct",
+    "Accessory (of) salivary gland or duct",
+    "Atresia (of) salivary gland or duct",
+    "Congenital fistula of salivary gland"
+  ],
+  "exclusion": [
+    "inborn errors of metabolism",
+    "macrostomia",
+    "microstomia"
+  ],
+  "children": null
+}

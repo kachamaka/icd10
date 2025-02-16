@@ -1,0 +1,28 @@
+{
+  "type": "subcategory",
+  "chapterCode": "V",
+  "chapter": "Mental and behavioural disorders",
+  "blockCode": "F90-F98",
+  "block": "Behavioural and emotional disorders with onset usually occurring in childhood and adolescence",
+  "categoryCode": "F91",
+  "category": "Conduct disorders",
+  "subcategory": "F91.2",
+  "title": "Socialized conduct disorder",
+  "inclusion": [
+    "disorders of psychological development",
+    "Conduct disorder, group type",
+    "Group delinquency",
+    "Offences in the context of gang membership",
+    "Stealing in company with others",
+    "Truancy from school"
+  ],
+  "exclusion": [
+    "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+    "mood [affective]",
+    "pervasive developmental disorders",
+    "schizophrenia",
+    "when associated with: emotional disorders",
+    "when associated with: hyperkinetic disorders"
+  ],
+  "children": null
+}

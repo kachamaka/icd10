@@ -1,0 +1,28 @@
+{
+    "icd10code": "D07.3",
+    "type": "subcategory",
+    "title": "Carcinoma in situ: Other and unspecified female genital organs",
+    "chapter": "Neoplasms",
+    "chapterCode": "II",
+    "block": "In situ neoplasms",
+    "blockCode": "D00-D09",
+    "category": "Carcinoma in situ of other and unspecified genital organs",
+    "categoryCode": "D07",
+    "subcategory": "D07.3",
+    "inclusion": [
+        "Bowen disease",
+        "erythroplasia",
+        "morphology codes with behaviour code /2",
+        "Queyrat erythroplasia"
+    ],
+    "exclusion": [
+        "melanoma in situ"
+    ],
+    "symptoms": [
+        "abnormal uterine bleeding",
+        "postmenopausal bleeding",
+        "pelvic pain",
+        "vaginal discharge",
+        "enlargement of uterus"
+    ]
+}

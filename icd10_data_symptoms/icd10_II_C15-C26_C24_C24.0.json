@@ -1,0 +1,28 @@
+{
+    "icd10code": "C24.0",
+    "type": "subcategory",
+    "title": "Malignant neoplasm: Extrahepatic bile duct",
+    "chapter": "Neoplasms",
+    "chapterCode": "II",
+    "block": "Malignant neoplasms of digestive organs",
+    "blockCode": "C15-C26",
+    "category": "Malignant neoplasm of other and unspecified parts of biliary tract",
+    "categoryCode": "C24",
+    "subcategory": "C24.0",
+    "inclusion": [
+        "Biliary duct or passage NOS",
+        "Common bile duct",
+        "Cystic duct",
+        "Hepatic duct"
+    ],
+    "exclusion": [
+        "intrahepatic bile duct"
+    ],
+    "symptoms": [
+        "abdominal pain",
+        "jaundice",
+        "fever",
+        "unexplained weight loss",
+        "loss of appetite"
+    ]
+}

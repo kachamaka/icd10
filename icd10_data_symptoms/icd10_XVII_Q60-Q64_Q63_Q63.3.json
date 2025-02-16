@@ -1,0 +1,24 @@
+{
+    "icd10code": "Q63.3",
+    "type": "subcategory",
+    "title": "Hyperplastic and giant kidney",
+    "chapter": "Congenital malformations, deformations and chromosomal abnormalities",
+    "chapterCode": "XVII",
+    "block": "Congenital malformations of the urinary system",
+    "blockCode": "Q60-Q64",
+    "category": "Other congenital malformations of kidney",
+    "categoryCode": "Q63",
+    "subcategory": "Q63.3",
+    "inclusion": null,
+    "exclusion": [
+        "inborn errors of metabolism",
+        "congenital nephrotic syndrome"
+    ],
+    "symptoms": [
+        "flank pain",
+        "recurrent urinary tract infections",
+        "abdominal mass",
+        "hematuria",
+        "hypertension"
+    ]
+}

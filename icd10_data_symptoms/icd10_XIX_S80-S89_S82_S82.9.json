@@ -1,0 +1,39 @@
+{
+    "icd10code": "S82.9",
+    "type": "subcategory",
+    "title": "Fracture of lower leg, part unspecified",
+    "chapter": "Injury, poisoning and certain other consequences of external causes",
+    "chapterCode": "XIX",
+    "block": "Injuries to the knee and lower leg",
+    "blockCode": "S80-S89",
+    "category": "Fracture of lower leg, including ankle",
+    "categoryCode": "S82",
+    "subcategory": "S82.9",
+    "inclusion": [
+        "fracture of ankle and malleolus",
+        "malleolus"
+    ],
+    "exclusion": [
+        "birth trauma",
+        "obstetric trauma",
+        "malunion of fracture",
+        "nonunion of fracture [pseudarthrosis]",
+        "pathological fracture",
+        "pathological fracture with osteoporosis",
+        "stress fracture",
+        "bilateral involvement of knee and lower leg",
+        "burns and corrosions",
+        "frostbite",
+        "injuries of: ankle and foot, except fracture of ankle and malleolus",
+        "injuries of: leg, level unspecified",
+        "insect bite or sting, venomous",
+        "injury of: muscle and tendon at or below ankle"
+    ],
+    "symptoms": [
+        "pain in the lower leg",
+        "swelling near the affected area",
+        "difficulty bearing weight",
+        "bruising around the leg",
+        "deformity in the lower leg"
+    ]
+}

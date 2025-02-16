@@ -1,0 +1,26 @@
+{
+  "type": "subcategory",
+  "chapterCode": "II",
+  "chapter": "Neoplasms",
+  "blockCode": "C81-C96",
+  "block": "Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",
+  "categoryCode": "C83",
+  "category": "Non-follicular lymphoma",
+  "subcategory": "C83.3",
+  "title": "Diffuse large B-cell lymphoma",
+  "inclusion": [
+    "Anaplastic diffuse large B-cell lymphoma",
+    "CD30-positive diffuse large B-cell lymphoma",
+    "Centroblastic diffuse large B-cell lymphoma",
+    "Plasmablastic diffuse large B-cell lymphoma",
+    "Immunoblastic diffuse large B-cell lymphoma",
+    "Subtype not specified diffuse large B-cell lymphoma",
+    "T-cell rich diffuse large B-cell lymphoma"
+  ],
+  "exclusion": [
+    "secondary and unspecified neoplasm of lymph nodes",
+    "mediastinal (thymic) large B-cell lymphoma",
+    "mature T/NK-cell lymphomas"
+  ],
+  "children": null
+}

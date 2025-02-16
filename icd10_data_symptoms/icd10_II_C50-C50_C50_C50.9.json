@@ -1,0 +1,25 @@
+{
+    "icd10code": "C50.9",
+    "type": "subcategory",
+    "title": "Malignant neoplasm: Breast, unspecified",
+    "chapter": "Neoplasms",
+    "chapterCode": "II",
+    "block": "Malignant neoplasm of breast",
+    "blockCode": "C50-C50",
+    "category": "Malignant neoplasm of breast",
+    "categoryCode": "C50",
+    "subcategory": "C50.9",
+    "inclusion": [
+        "connective tissue of breast"
+    ],
+    "exclusion": [
+        "skin of breast"
+    ],
+    "symptoms": [
+        "lump in breast",
+        "change in breast size or shape",
+        "skin changes on breast",
+        "nipple discharge",
+        "nipple inversion"
+    ]
+}

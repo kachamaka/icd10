@@ -1,0 +1,32 @@
+{
+    "icd10code": "T70.3",
+    "type": "subcategory",
+    "title": "Caisson disease [decompression sickness]",
+    "chapter": "Injury, poisoning and certain other consequences of external causes",
+    "chapterCode": "XIX",
+    "block": "Other and unspecified effects of external causes",
+    "blockCode": "T66-T78",
+    "category": "Effects of air pressure and water pressure",
+    "categoryCode": "T70",
+    "subcategory": "T70.3",
+    "inclusion": [
+        "Compressed-air disease",
+        "Diver palsy or paralysis"
+    ],
+    "exclusion": [
+        "birth trauma",
+        "obstetric trauma",
+        "malunion of fracture",
+        "nonunion of fracture [pseudarthrosis]",
+        "pathological fracture",
+        "pathological fracture with osteoporosis",
+        "stress fracture"
+    ],
+    "symptoms": [
+        "vertigo",
+        "nausea",
+        "headache",
+        "confusion",
+        "hearing loss"
+    ]
+}

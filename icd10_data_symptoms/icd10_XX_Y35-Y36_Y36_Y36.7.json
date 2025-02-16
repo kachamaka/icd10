@@ -1,0 +1,21 @@
+{
+    "icd10code": "Y36.7",
+    "type": "subcategory",
+    "title": "War operations involving chemical weapons and other forms of unconventional warfare",
+    "chapter": "External causes of morbidity and mortality",
+    "chapterCode": "XX",
+    "block": "Legal intervention and operations of war",
+    "blockCode": "Y35-Y36",
+    "category": "Operations of war",
+    "categoryCode": "Y36",
+    "subcategory": "Y36.7",
+    "inclusion": [
+        "injuries to military personnel and civilians caused by war and civil insurrection",
+        "Gases, fumes and chemicals",
+        "Lasers"
+    ],
+    "exclusion": null,
+    "symptoms": [
+        "asymptomatic"
+    ]
+}

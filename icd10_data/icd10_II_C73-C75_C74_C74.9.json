@@ -1,0 +1,14 @@
+{
+  "type": "subcategory",
+  "chapterCode": "II",
+  "chapter": "Neoplasms",
+  "blockCode": "C73-C75",
+  "block": "Malignant neoplasms of thyroid and other endocrine glands",
+  "categoryCode": "C74",
+  "category": "Malignant neoplasm of adrenal gland",
+  "subcategory": "C74.9",
+  "title": "Malignant neoplasm: Adrenal gland, unspecified",
+  "inclusion": null,
+  "exclusion": null,
+  "children": null
+}

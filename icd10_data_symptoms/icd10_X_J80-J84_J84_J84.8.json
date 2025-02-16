@@ -1,0 +1,34 @@
+{
+    "icd10code": "J84.8",
+    "type": "subcategory",
+    "title": "Other specified interstitial pulmonary diseases",
+    "chapter": "Diseases of the respiratory system",
+    "chapterCode": "X",
+    "block": "Other respiratory diseases principally affecting the interstitium",
+    "blockCode": "J80-J84",
+    "category": "Other interstitial pulmonary diseases",
+    "categoryCode": "J84",
+    "subcategory": "J84.8",
+    "inclusion": null,
+    "exclusion": [
+        "certain conditions originating in the perinatal period",
+        "certain infectious and parasitic diseases",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "drug-induced interstitial lung disorders",
+        "interstitial emphysema",
+        "lung diseases due to external agents",
+        "lymphoid interstitial pneumonitis resulting from human immunodeficiency virus [HIV] disease"
+    ],
+    "symptoms": [
+        "shortness of breath",
+        "dry cough",
+        "fatigue",
+        "chest discomfort",
+        "exercise intolerance"
+    ]
+}

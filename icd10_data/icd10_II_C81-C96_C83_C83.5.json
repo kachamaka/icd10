@@ -1,0 +1,22 @@
+{
+  "type": "subcategory",
+  "chapterCode": "II",
+  "chapter": "Neoplasms",
+  "blockCode": "C81-C96",
+  "block": "Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",
+  "categoryCode": "C83",
+  "category": "Non-follicular lymphoma",
+  "subcategory": "C83.5",
+  "title": "Lymphoblastic (diffuse) lymphoma",
+  "inclusion": [
+    "B-cell precursor lymphoma",
+    "Lymphoblastic B-cell lymphoma",
+    "Lymphoblastic lymphoma NOS",
+    "Lymphoblastic T-cell lymphoma",
+    "T-cell precursor lymphoma"
+  ],
+  "exclusion": [
+    "secondary and unspecified neoplasm of lymph nodes"
+  ],
+  "children": null
+}

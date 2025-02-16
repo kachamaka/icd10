@@ -1,0 +1,17 @@
+{
+  "type": "subcategory",
+  "chapterCode": "II",
+  "chapter": "Neoplasms",
+  "blockCode": "C00-C14",
+  "block": "Malignant neoplasms of lip, oral cavity and pharynx",
+  "categoryCode": "C09",
+  "category": "Malignant neoplasm of tonsil",
+  "subcategory": "C09.1",
+  "title": "Malignant neoplasm: Tonsillar pillar (anterior)(posterior)",
+  "inclusion": null,
+  "exclusion": [
+    "lingual tonsil",
+    "pharyngeal tonsil"
+  ],
+  "children": null
+}

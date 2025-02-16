@@ -1,0 +1,30 @@
+{
+    "icd10code": "H22.8",
+    "type": "subcategory",
+    "title": "Other disorders of iris and ciliary body in diseases classified elsewhere",
+    "chapter": "Diseases of the eye and adnexa",
+    "chapterCode": "VII",
+    "block": "Disorders of sclera, cornea, iris and ciliary body",
+    "blockCode": "H15-H22",
+    "category": "Disorders of iris and ciliary body in diseases classified elsewhere",
+    "categoryCode": "H22",
+    "subcategory": "H22.8",
+    "inclusion": null,
+    "exclusion": [
+        "certain conditions originating in the perinatal period",
+        "certain infectious and parasitic diseases",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified"
+    ],
+    "symptoms": [
+        "eye redness",
+        "eye pain",
+        "blurred vision",
+        "watering eyes",
+        "light sensitivity"
+    ]
+}

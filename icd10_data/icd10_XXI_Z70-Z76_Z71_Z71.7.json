@@ -1,0 +1,17 @@
+{
+  "type": "subcategory",
+  "chapterCode": "XXI",
+  "chapter": "Factors influencing health status and contact with health services",
+  "blockCode": "Z70-Z76",
+  "block": "Persons encountering health services in other circumstances",
+  "categoryCode": "Z71",
+  "category": "Persons encountering health services for other counselling and medical advice, not elsewhere classified",
+  "subcategory": "Z71.7",
+  "title": "Human immunodeficiency virus [HIV] counselling",
+  "inclusion": null,
+  "exclusion": [
+    "contraceptive or procreation counselling",
+    "sex counselling"
+  ],
+  "children": null
+}

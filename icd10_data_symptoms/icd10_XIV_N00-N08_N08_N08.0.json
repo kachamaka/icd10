@@ -1,0 +1,40 @@
+{
+    "icd10code": "N08.0",
+    "type": "subcategory",
+    "title": "Glomerular disorders in infectious and parasitic diseases classified elsewhere",
+    "chapter": "Diseases of the genitourinary system",
+    "chapterCode": "XIV",
+    "block": "Glomerular diseases",
+    "blockCode": "N00-N08",
+    "category": "Glomerular disorders in diseases classified elsewhere",
+    "categoryCode": "N08",
+    "subcategory": "N08.0",
+    "inclusion": [
+        "nephropathy in diseases classified elsewhere",
+        "Glomerular disorders in: Plasmodium malariae malaria",
+        "Glomerular disorders in: mumps",
+        "Glomerular disorders in: schistosomiasis [bilharziasis]",
+        "Glomerular disorders in: sepsis",
+        "Glomerular disorders in: strongyloidiasis",
+        "Glomerular disorders in: syphilis"
+    ],
+    "exclusion": [
+        "certain conditions originating in the perinatal period",
+        "certain infectious and parasitic diseases",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "hypertensive renal disease",
+        "renal tubulo-interstitial disorders in diseases classified elsewhere"
+    ],
+    "symptoms": [
+        "proteinuria",
+        "hematuria",
+        "edema",
+        "hypertension",
+        "fatigue"
+    ]
+}

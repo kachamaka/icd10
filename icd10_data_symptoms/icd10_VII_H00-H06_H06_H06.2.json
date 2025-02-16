@@ -1,0 +1,30 @@
+{
+    "icd10code": "H06.2",
+    "type": "subcategory",
+    "title": "Dysthyroid exophthalmos",
+    "chapter": "Diseases of the eye and adnexa",
+    "chapterCode": "VII",
+    "block": "Disorders of eyelid, lacrimal system and orbit",
+    "blockCode": "H00-H06",
+    "category": "Disorders of lacrimal system and orbit in diseases classified elsewhere",
+    "categoryCode": "H06",
+    "subcategory": "H06.2",
+    "inclusion": null,
+    "exclusion": [
+        "certain conditions originating in the perinatal period",
+        "certain infectious and parasitic diseases",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified"
+    ],
+    "symptoms": [
+        "swelling",
+        "pain around eyes",
+        "redness",
+        "tenderness",
+        "eyelid heaviness"
+    ]
+}

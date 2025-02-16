@@ -1,0 +1,31 @@
+{
+    "icd10code": "E40",
+    "type": "category",
+    "title": "Kwashiorkor",
+    "chapter": "Endocrine, nutritional and metabolic diseases",
+    "chapterCode": "IV",
+    "block": "Malnutrition",
+    "blockCode": "E40-E46",
+    "category": "Kwashiorkor",
+    "categoryCode": "E40",
+    "subcategory": "",
+    "inclusion": null,
+    "exclusion": [
+        "complications of pregnancy, childbirth and the puerperium",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "transitory endocrine and metabolic disorders specific to fetus and newborn",
+        "intestinal malabsorption",
+        "nutritional anaemias",
+        "sequelae of protein-energy malnutrition",
+        "slim disease",
+        "starvation",
+        "marasmic kwashiorkor"
+    ],
+    "symptoms": [
+        "unintentional weight loss",
+        "fatigue",
+        "stunted growth",
+        "delayed development",
+        "chronic diarrhea"
+    ]
+}

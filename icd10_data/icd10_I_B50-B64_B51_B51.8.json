@@ -1,0 +1,26 @@
+{
+  "type": "subcategory",
+  "chapterCode": "I",
+  "chapter": "Certain infectious and parasitic diseases",
+  "blockCode": "B50-B64",
+  "block": "Protozoal diseases",
+  "categoryCode": "B51",
+  "category": "Plasmodium vivax malaria",
+  "subcategory": "B51.8",
+  "title": "Plasmodium vivax malaria with other complications",
+  "inclusion": [
+    "diseases generally recognized as communicable or transmissible",
+    "mixed infections of Plasmodium vivax with other Plasmodium species, except Plasmodium falciparum"
+  ],
+  "exclusion": [
+    "carrier or suspected carrier of infectious disease",
+    "certain localized infections - see body system-related chapters",
+    "infectious and parasitic diseases complicating pregnancy, childbirth and the puerperium [except obstetrical tetanus]",
+    "infectious and parasitic diseases specific to the perinatal period [except tetanus neonatorum, whooping cough, congenital syphilis, perinatal gonococcal infection and perinatal human immunodeficiency virus [HIV] disease]",
+    "influenza and other acute respiratory infections",
+    "larval diphyllobothriasis",
+    "monkeypox",
+    "intestinal helminthiasis NOS"
+  ],
+  "children": null
+}

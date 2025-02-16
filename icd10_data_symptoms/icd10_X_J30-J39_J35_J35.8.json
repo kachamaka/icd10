@@ -1,0 +1,36 @@
+{
+    "icd10code": "J35.8",
+    "type": "subcategory",
+    "title": "Other chronic diseases of tonsils and adenoids",
+    "chapter": "Diseases of the respiratory system",
+    "chapterCode": "X",
+    "block": "Other diseases of upper respiratory tract",
+    "blockCode": "J30-J39",
+    "category": "Chronic diseases of tonsils and adenoids",
+    "categoryCode": "J35",
+    "subcategory": "J35.8",
+    "inclusion": [
+        "Adenoid vegetations",
+        "Amygdalolith",
+        "Cicatrix of tonsil (and adenoid)",
+        "Tonsillar tag",
+        "Ulcer of tonsil"
+    ],
+    "exclusion": [
+        "certain conditions originating in the perinatal period",
+        "certain infectious and parasitic diseases",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified"
+    ],
+    "symptoms": [
+        "chronic sore throat",
+        "difficulty swallowing",
+        "recurrent infections",
+        "sleep apnea",
+        "enlarged tonsils"
+    ]
+}

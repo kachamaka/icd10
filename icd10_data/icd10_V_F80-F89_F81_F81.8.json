@@ -1,0 +1,19 @@
+{
+  "type": "subcategory",
+  "chapterCode": "V",
+  "chapter": "Mental and behavioural disorders",
+  "blockCode": "F80-F89",
+  "block": "Disorders of psychological development",
+  "categoryCode": "F81",
+  "category": "Specific developmental disorders of scholastic skills",
+  "subcategory": "F81.8",
+  "title": "Other developmental disorders of scholastic skills",
+  "inclusion": [
+    "disorders of psychological development",
+    "Developmental expressive writing disorder"
+  ],
+  "exclusion": [
+    "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified"
+  ],
+  "children": null
+}

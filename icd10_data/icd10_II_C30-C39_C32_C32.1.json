@@ -1,0 +1,28 @@
+{
+  "type": "subcategory",
+  "chapterCode": "II",
+  "chapter": "Neoplasms",
+  "blockCode": "C30-C39",
+  "block": "Malignant neoplasms of respiratory and intrathoracic organs",
+  "categoryCode": "C32",
+  "category": "Malignant neoplasm of larynx",
+  "subcategory": "C32.1",
+  "title": "Malignant neoplasm: Supraglottis",
+  "inclusion": [
+    "middle ear",
+    "Aryepiglottic fold, laryngeal aspect",
+    "Epiglottis (suprahyoid portion) NOS",
+    "Extrinsic larynx",
+    "False vocal cord",
+    "Posterior (laryngeal) surface of epiglottis",
+    "Ventricular bands"
+  ],
+  "exclusion": [
+    "mesothelioma",
+    "anterior surface of epiglottis",
+    "aryepiglottic fold: NOS",
+    "aryepiglottic fold: hypopharyngeal aspect",
+    "aryepiglottic fold: marginal zone"
+  ],
+  "children": null
+}

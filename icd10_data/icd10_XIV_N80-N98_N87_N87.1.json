@@ -1,0 +1,26 @@
+{
+  "type": "subcategory",
+  "chapterCode": "XIV",
+  "chapter": "Diseases of the genitourinary system",
+  "blockCode": "N80-N98",
+  "block": "Noninflammatory disorders of female genital tract",
+  "categoryCode": "N87",
+  "category": "Dysplasia of cervix uteri",
+  "subcategory": "N87.1",
+  "title": "Moderate cervical dysplasia",
+  "inclusion": [
+    "Cervical intraepithelial neoplasia [CIN], grade II"
+  ],
+  "exclusion": [
+    "certain conditions originating in the perinatal period",
+    "certain infectious and parasitic diseases",
+    "complications of pregnancy, childbirth and the puerperium",
+    "congenital malformations, deformations and chromosomal abnormalities",
+    "endocrine, nutritional and metabolic diseases",
+    "injury, poisoning and certain other consequences of external causes",
+    "neoplasms",
+    "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+    "carcinoma in situ of cervix"
+  ],
+  "children": null
+}

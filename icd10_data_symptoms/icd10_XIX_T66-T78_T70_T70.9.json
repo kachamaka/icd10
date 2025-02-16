@@ -1,0 +1,29 @@
+{
+    "icd10code": "T70.9",
+    "type": "subcategory",
+    "title": "Effect of air pressure and water pressure, unspecified",
+    "chapter": "Injury, poisoning and certain other consequences of external causes",
+    "chapterCode": "XIX",
+    "block": "Other and unspecified effects of external causes",
+    "blockCode": "T66-T78",
+    "category": "Effects of air pressure and water pressure",
+    "categoryCode": "T70",
+    "subcategory": "T70.9",
+    "inclusion": null,
+    "exclusion": [
+        "birth trauma",
+        "obstetric trauma",
+        "malunion of fracture",
+        "nonunion of fracture [pseudarthrosis]",
+        "pathological fracture",
+        "pathological fracture with osteoporosis",
+        "stress fracture"
+    ],
+    "symptoms": [
+        "dizziness",
+        "headache",
+        "fatigue",
+        "nausea",
+        "disorientation"
+    ]
+}

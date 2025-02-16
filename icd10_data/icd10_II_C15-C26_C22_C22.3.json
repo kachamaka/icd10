@@ -1,0 +1,19 @@
+{
+  "type": "subcategory",
+  "chapterCode": "II",
+  "chapter": "Neoplasms",
+  "blockCode": "C15-C26",
+  "block": "Malignant neoplasms of digestive organs",
+  "categoryCode": "C22",
+  "category": "Malignant neoplasm of liver and intrahepatic bile ducts",
+  "subcategory": "C22.3",
+  "title": "Malignant neoplasm: Angiosarcoma of liver",
+  "inclusion": [
+    "Kupffer cell sarcoma"
+  ],
+  "exclusion": [
+    "biliary tract NOS",
+    "secondary malignant neoplasm of liver"
+  ],
+  "children": null
+}

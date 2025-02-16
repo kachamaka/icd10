@@ -1,0 +1,34 @@
+{
+    "icd10code": "D50.8",
+    "type": "subcategory",
+    "title": "Other iron deficiency anaemias",
+    "chapter": "Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism",
+    "chapterCode": "III",
+    "block": "Nutritional anaemias",
+    "blockCode": "D50-D53",
+    "category": "Iron deficiency anaemia",
+    "categoryCode": "D50",
+    "subcategory": "D50.8",
+    "inclusion": [
+        "anaemia: asiderotic",
+        "anaemia: hypochromic"
+    ],
+    "exclusion": [
+        "autoimmune disease (systemic) NOS",
+        "certain conditions originating in the perinatal period",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "human immunodeficiency virus [HIV] disease",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified"
+    ],
+    "symptoms": [
+        "fatigue",
+        "pallor",
+        "shortness of breath",
+        "rapid heart rate",
+        "dizziness"
+    ]
+}

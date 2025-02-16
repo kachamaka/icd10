@@ -1,0 +1,30 @@
+{
+    "icd10code": "X11",
+    "type": "category",
+    "title": "Contact with hot tap-water",
+    "chapter": "External causes of morbidity and mortality",
+    "chapterCode": "XX",
+    "block": "Contact with heat and hot substances",
+    "blockCode": "X10-X19",
+    "category": "Contact with hot tap-water",
+    "categoryCode": "X11",
+    "subcategory": "",
+    "inclusion": [
+        "hot water in: bath",
+        "hot water in: bucket",
+        "hot water in: tub",
+        "hot water running out of: hose",
+        "hot water running out of: tap"
+    ],
+    "exclusion": [
+        "exposure to: excessive natural heat",
+        "exposure to: fire and flames"
+    ],
+    "symptoms": [
+        "redness",
+        "itching",
+        "blisters",
+        "pain",
+        "swelling"
+    ]
+}

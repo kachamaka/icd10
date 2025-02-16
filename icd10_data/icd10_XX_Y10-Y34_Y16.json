@@ -1,0 +1,19 @@
+{
+  "type": "category",
+  "chapterCode": "XX",
+  "chapter": "External causes of morbidity and mortality",
+  "blockCode": "Y10-Y34",
+  "block": "Event of undetermined intent",
+  "categoryCode": "Y16",
+  "category": "Poisoning by and exposure to organic solvents and halogenated hydrocarbons and their vapours, undetermined intent",
+  "subcategory": "",
+  "title": "Poisoning by and exposure to organic solvents and halogenated hydrocarbons and their vapours, undetermined intent",
+  "inclusion": [
+    "benzene and homologues",
+    "carbon tetrachloride [tetrachloromethane]",
+    "chlorofluorocarbons",
+    "petroleum (derivatives)"
+  ],
+  "exclusion": null,
+  "children": null
+}

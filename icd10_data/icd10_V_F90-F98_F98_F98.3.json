@@ -1,0 +1,23 @@
+{
+  "type": "subcategory",
+  "chapterCode": "V",
+  "chapter": "Mental and behavioural disorders",
+  "blockCode": "F90-F98",
+  "block": "Behavioural and emotional disorders with onset usually occurring in childhood and adolescence",
+  "categoryCode": "F98",
+  "category": "Other behavioural and emotional disorders with onset usually occurring in childhood and adolescence",
+  "subcategory": "F98.3",
+  "title": "Pica of infancy and childhood",
+  "inclusion": [
+    "disorders of psychological development"
+  ],
+  "exclusion": [
+    "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+    "breath-holding spells",
+    "gender identity disorder of childhood",
+    "Kleine-Levin syndrome",
+    "obsessive-compulsive disorder",
+    "sleep disorders due to emotional causes"
+  ],
+  "children": null
+}

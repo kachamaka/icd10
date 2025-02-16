@@ -1,0 +1,19 @@
+{
+    "icd10code": "Z41.8",
+    "type": "subcategory",
+    "title": "Other procedures for purposes other than remedying health state",
+    "chapter": "Factors influencing health status and contact with health services",
+    "chapterCode": "XXI",
+    "block": "Persons encountering health services for specific procedures and health care",
+    "blockCode": "Z40-Z54",
+    "category": "Procedures for purposes other than remedying health state",
+    "categoryCode": "Z41",
+    "subcategory": "Z41.8",
+    "inclusion": null,
+    "exclusion": [
+        "follow-up examination for medical surveillance after treatment"
+    ],
+    "symptoms": [
+        "asymptomatic"
+    ]
+}

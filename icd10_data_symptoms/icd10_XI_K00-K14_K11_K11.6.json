@@ -1,0 +1,34 @@
+{
+    "icd10code": "K11.6",
+    "type": "subcategory",
+    "title": "Mucocele of salivary gland",
+    "chapter": "Diseases of the digestive system",
+    "chapterCode": "XI",
+    "block": "Diseases of oral cavity, salivary glands and jaws",
+    "blockCode": "K00-K14",
+    "category": "Diseases of salivary glands",
+    "categoryCode": "K11",
+    "subcategory": "K11.6",
+    "inclusion": [
+        "Mucous: extravasation cyst of salivary gland",
+        "Mucous: retention cyst of salivary gland",
+        "Ranula"
+    ],
+    "exclusion": [
+        "certain conditions originating in the perinatal period",
+        "certain infectious and parasitic diseases",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified"
+    ],
+    "symptoms": [
+        "dry mouth",
+        "difficulty swallowing",
+        "cracked lips",
+        "bad breath",
+        "altered taste"
+    ]
+}

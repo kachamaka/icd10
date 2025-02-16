@@ -1,0 +1,37 @@
+{
+    "icd10code": "H40.2",
+    "type": "subcategory",
+    "title": "Primary angle-closure glaucoma",
+    "chapter": "Diseases of the eye and adnexa",
+    "chapterCode": "VII",
+    "block": "Glaucoma",
+    "blockCode": "H40-H42",
+    "category": "Glaucoma",
+    "categoryCode": "H40",
+    "subcategory": "H40.2",
+    "inclusion": [
+        "Angle-closure glaucoma (primary)(residual stage): acute",
+        "Angle-closure glaucoma (primary)(residual stage): chronic",
+        "Angle-closure glaucoma (primary)(residual stage): intermittent"
+    ],
+    "exclusion": [
+        "certain conditions originating in the perinatal period",
+        "certain infectious and parasitic diseases",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "absolute glaucoma",
+        "congenital glaucoma",
+        "traumatic glaucoma due to birth injury"
+    ],
+    "symptoms": [
+        "eye pain",
+        "redness",
+        "blurred vision",
+        "headache",
+        "nausea"
+    ]
+}

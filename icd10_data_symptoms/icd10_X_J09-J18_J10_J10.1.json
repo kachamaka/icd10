@@ -1,0 +1,40 @@
+{
+    "icd10code": "J10.1",
+    "type": "subcategory",
+    "title": "Influenza with other respiratory manifestations, seasonal influenza virus identified",
+    "chapter": "Diseases of the respiratory system",
+    "chapterCode": "X",
+    "block": "Influenza and pneumonia",
+    "blockCode": "J09-J18",
+    "category": "Influenza due to identified seasonal influenza virus",
+    "categoryCode": "J10",
+    "subcategory": "J10.1",
+    "inclusion": [
+        "Influenza seasonal influenza virus identified",
+        "Influenzal: acute upper respiratory infection seasonal influenza virus identified",
+        "Influenzal: laryngitis seasonal influenza virus identified",
+        "Influenzal: pharyngitis seasonal influenza virus identified",
+        "Influenzal: pleural effusion seasonal influenza virus identified"
+    ],
+    "exclusion": [
+        "certain conditions originating in the perinatal period",
+        "certain infectious and parasitic diseases",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "Haemophilus influenzae [H. influenzae]: infection NOS",
+        "Haemophilus influenzae [H. influenzae]: meningitis",
+        "Haemophilus influenzae [H. influenzae]: pneumonia",
+        "influenza due to identified zoonotic or pandemic influenza virus"
+    ],
+    "symptoms": [
+        "fever",
+        "cough",
+        "sore throat",
+        "muscle pain",
+        "fatigue"
+    ]
+}

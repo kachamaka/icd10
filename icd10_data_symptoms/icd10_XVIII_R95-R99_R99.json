@@ -1,0 +1,29 @@
+{
+    "icd10code": "R99",
+    "type": "category",
+    "title": "Other ill-defined and unspecified causes of mortality",
+    "chapter": "Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+    "chapterCode": "XVIII",
+    "block": "Ill-defined and unknown causes of mortality",
+    "blockCode": "R95-R99",
+    "category": "Other ill-defined and unspecified causes of mortality",
+    "categoryCode": "R99",
+    "subcategory": "",
+    "inclusion": [
+        "Death NOS",
+        "Unknown cause of mortality"
+    ],
+    "exclusion": [
+        "abnormal findings on antenatal screening of mother",
+        "certain conditions originating in the perinatal period",
+        "fetal death of unspecified cause",
+        "obstetric death NOS"
+    ],
+    "symptoms": [
+        "unspecified symptoms",
+        "sudden death",
+        "unknown causes",
+        "unresponsive state",
+        "unexplained collapse"
+    ]
+}

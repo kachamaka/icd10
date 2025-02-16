@@ -1,0 +1,32 @@
+{
+    "icd10code": "B18.9",
+    "type": "subcategory",
+    "title": "Chronic viral hepatitis, unspecified",
+    "chapter": "Certain infectious and parasitic diseases",
+    "chapterCode": "I",
+    "block": "Viral hepatitis",
+    "blockCode": "B15-B19",
+    "category": "Chronic viral hepatitis",
+    "categoryCode": "B18",
+    "subcategory": "B18.9",
+    "inclusion": [
+        "diseases generally recognized as communicable or transmissible"
+    ],
+    "exclusion": [
+        "carrier or suspected carrier of infectious disease",
+        "certain localized infections - see body system-related chapters",
+        "infectious and parasitic diseases complicating pregnancy, childbirth and the puerperium [except obstetrical tetanus]",
+        "infectious and parasitic diseases specific to the perinatal period [except tetanus neonatorum, whooping cough, congenital syphilis, perinatal gonococcal infection and perinatal human immunodeficiency virus [HIV] disease]",
+        "influenza and other acute respiratory infections",
+        "erythrasma",
+        "monkeypox",
+        "hantavirus (cardio-)pulmonary syndrome"
+    ],
+    "symptoms": [
+        "fatigue",
+        "jaundice",
+        "abdominal pain",
+        "loss of appetite",
+        "nausea"
+    ]
+}

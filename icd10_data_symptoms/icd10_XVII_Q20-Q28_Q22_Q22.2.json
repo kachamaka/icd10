@@ -1,0 +1,25 @@
+{
+    "icd10code": "Q22.2",
+    "type": "subcategory",
+    "title": "Congenital pulmonary valve insufficiency",
+    "chapter": "Congenital malformations, deformations and chromosomal abnormalities",
+    "chapterCode": "XVII",
+    "block": "Congenital malformations of the circulatory system",
+    "blockCode": "Q20-Q28",
+    "category": "Congenital malformations of pulmonary and tricuspid valves",
+    "categoryCode": "Q22",
+    "subcategory": "Q22.2",
+    "inclusion": [
+        "Congenital pulmonary valve regurgitation"
+    ],
+    "exclusion": [
+        "inborn errors of metabolism"
+    ],
+    "symptoms": [
+        "fatigue",
+        "dyspnea",
+        "cyanosis",
+        "chest pain",
+        "syncope"
+    ]
+}

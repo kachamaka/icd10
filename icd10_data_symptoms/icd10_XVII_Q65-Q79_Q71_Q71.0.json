@@ -1,0 +1,23 @@
+{
+    "icd10code": "Q71.0",
+    "type": "subcategory",
+    "title": "Congenital complete absence of upper limb(s)",
+    "chapter": "Congenital malformations, deformations and chromosomal abnormalities",
+    "chapterCode": "XVII",
+    "block": "Congenital malformations and deformations of the musculoskeletal system",
+    "blockCode": "Q65-Q79",
+    "category": "Reduction defects of upper limb",
+    "categoryCode": "Q71",
+    "subcategory": "Q71.0",
+    "inclusion": null,
+    "exclusion": [
+        "inborn errors of metabolism"
+    ],
+    "symptoms": [
+        "missing hand(s)",
+        "underdeveloped hand(s)",
+        "absent fingers",
+        "shortened forearm",
+        "reduced arm functionality"
+    ]
+}

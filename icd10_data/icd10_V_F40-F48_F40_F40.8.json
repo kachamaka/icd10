@@ -1,0 +1,19 @@
+{
+  "type": "subcategory",
+  "chapterCode": "V",
+  "chapter": "Mental and behavioural disorders",
+  "blockCode": "F40-F48",
+  "block": "Neurotic, stress-related and somatoform disorders",
+  "categoryCode": "F40",
+  "category": "Phobic anxiety disorders",
+  "subcategory": "F40.8",
+  "title": "Other phobic anxiety disorders",
+  "inclusion": [
+    "disorders of psychological development"
+  ],
+  "exclusion": [
+    "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+    "when associated with conduct disorder in F91.-"
+  ],
+  "children": null
+}

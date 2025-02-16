@@ -1,0 +1,41 @@
+{
+    "icd10code": "J45.9",
+    "type": "subcategory",
+    "title": "Asthma, unspecified",
+    "chapter": "Diseases of the respiratory system",
+    "chapterCode": "X",
+    "block": "Chronic lower respiratory diseases",
+    "blockCode": "J40-J47",
+    "category": "Asthma",
+    "categoryCode": "J45",
+    "subcategory": "J45.9",
+    "inclusion": [
+        "Asthmatic bronchitis NOS",
+        "Late-onset asthma"
+    ],
+    "exclusion": [
+        "certain conditions originating in the perinatal period",
+        "certain infectious and parasitic diseases",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "cystic fibrosis",
+        "respiratory infection NOS",
+        "congenital bronchiectasis",
+        "tuberculous bronchiectasis (current disease)",
+        "chronic: bronchitis: with airways obstruction",
+        "chronic: emphysematous bronchitis",
+        "chronic: obstructive pulmonary disease NOS",
+        "chronic: tracheitis"
+    ],
+    "symptoms": [
+        "wheezing",
+        "shortness of breath",
+        "coughing",
+        "chest tightness",
+        "trouble sleeping"
+    ]
+}

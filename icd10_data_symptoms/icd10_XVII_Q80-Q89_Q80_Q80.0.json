@@ -1,0 +1,24 @@
+{
+    "icd10code": "Q80.0",
+    "type": "subcategory",
+    "title": "Ichthyosis vulgaris",
+    "chapter": "Congenital malformations, deformations and chromosomal abnormalities",
+    "chapterCode": "XVII",
+    "block": "Other congenital malformations",
+    "blockCode": "Q80-Q89",
+    "category": "Congenital ichthyosis",
+    "categoryCode": "Q80",
+    "subcategory": "Q80.0",
+    "inclusion": null,
+    "exclusion": [
+        "inborn errors of metabolism",
+        "Refsum disease"
+    ],
+    "symptoms": [
+        "blistering skin",
+        "fragile skin",
+        "skin peeling",
+        "redness",
+        "prone to infections"
+    ]
+}

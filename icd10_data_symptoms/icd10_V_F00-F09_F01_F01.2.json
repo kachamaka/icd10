@@ -1,0 +1,26 @@
+{
+    "icd10code": "F01.2",
+    "type": "subcategory",
+    "title": "Subcortical vascular dementia",
+    "chapter": "Mental and behavioural disorders",
+    "chapterCode": "V",
+    "block": "Organic, including symptomatic, mental disorders",
+    "blockCode": "F00-F09",
+    "category": "Vascular dementia",
+    "categoryCode": "F01",
+    "subcategory": "F01.2",
+    "inclusion": [
+        "disorders of psychological development",
+        "arteriosclerotic dementia"
+    ],
+    "exclusion": [
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified"
+    ],
+    "symptoms": [
+        "memory problems",
+        "confusion",
+        "difficulty problem solving",
+        "impaired judgment",
+        "changes in personality"
+    ]
+}

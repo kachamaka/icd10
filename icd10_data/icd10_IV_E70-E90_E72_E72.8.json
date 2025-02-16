@@ -1,0 +1,33 @@
+{
+  "type": "subcategory",
+  "chapterCode": "IV",
+  "chapter": "Endocrine, nutritional and metabolic diseases",
+  "blockCode": "E70-E90",
+  "block": "Metabolic disorders",
+  "categoryCode": "E72",
+  "category": "Other disorders of amino-acid metabolism",
+  "subcategory": "E72.8",
+  "title": "Other specified disorders of amino-acid metabolism",
+  "inclusion": [
+    "Disorders of: Beta-amino-acid metabolism",
+    "Disorders of: Gamma-glutamyl cycle"
+  ],
+  "exclusion": [
+    "complications of pregnancy, childbirth and the puerperium",
+    "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+    "transitory endocrine and metabolic disorders specific to fetus and newborn",
+    "androgen resistance syndrome",
+    "congenital adrenal hyperplasia",
+    "Ehlers-Danlos syndrome",
+    "haemolytic anaemias due to enzyme disorders",
+    "Marfan syndrome",
+    "5-alpha-reductase deficiency",
+    "Schilder disease",
+    "hypovolaemic shock: NOS",
+    "hypovolaemic shock: postoperative",
+    "hypovolaemic shock: traumatic",
+    "xeroderma pigmentosum",
+    "gout"
+  ],
+  "children": null
+}

@@ -1,0 +1,24 @@
+{
+    "icd10code": "C60.2",
+    "type": "subcategory",
+    "title": "Malignant neoplasm: Body of penis",
+    "chapter": "Neoplasms",
+    "chapterCode": "II",
+    "block": "Malignant neoplasms of male genital organs",
+    "blockCode": "C60-C63",
+    "category": "Malignant neoplasm of penis",
+    "categoryCode": "C60",
+    "subcategory": "C60.2",
+    "inclusion": [
+        "skin of male genital organs",
+        "Corpus cavernosum"
+    ],
+    "exclusion": null,
+    "symptoms": [
+        "pain in testicles",
+        "swelling or lump in testicle",
+        "abdominal pain",
+        "back pain",
+        "unexplained weight loss"
+    ]
+}

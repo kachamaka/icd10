@@ -1,0 +1,25 @@
+{
+    "icd10code": "R62.9",
+    "type": "subcategory",
+    "title": "Lack of expected normal physiological development, unspecified",
+    "chapter": "Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+    "chapterCode": "XVIII",
+    "block": "General symptoms and signs",
+    "blockCode": "R50-R69",
+    "category": "Lack of expected normal physiological development",
+    "categoryCode": "R62",
+    "subcategory": "R62.9",
+    "inclusion": null,
+    "exclusion": [
+        "abnormal findings on antenatal screening of mother",
+        "certain conditions originating in the perinatal period",
+        "delayed puberty"
+    ],
+    "symptoms": [
+        "delayed milestones",
+        "failure to thrive",
+        "developmental delay",
+        "abnormal growth pattern",
+        "unspecified developmental disorder"
+    ]
+}

@@ -1,0 +1,37 @@
+{
+    "icd10code": "I41.1",
+    "type": "subcategory",
+    "title": "Myocarditis in viral diseases classified elsewhere",
+    "chapter": "Diseases of the circulatory system",
+    "chapterCode": "IX",
+    "block": "Other forms of heart disease",
+    "blockCode": "I30-I52",
+    "category": "Myocarditis in diseases classified elsewhere",
+    "categoryCode": "I41",
+    "subcategory": "I41.1",
+    "inclusion": [
+        "Influenzal myocarditis (acute): seasonal virus identified",
+        "Influenzal myocarditis (acute): virus not identified",
+        "Influenzal myocarditis (acute): zoonotic or pandemic influenza virus identified",
+        "Mumps myocarditis"
+    ],
+    "exclusion": [
+        "certain conditions originating in the perinatal period",
+        "certain infectious and parasitic diseases",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "systemic connective tissue disorders",
+        "transient cerebral ischaemic attacks and related syndromes"
+    ],
+    "symptoms": [
+        "decreased exercise tolerance",
+        "shortness of breath",
+        "chest pain",
+        "fatigue",
+        "irregular heartbeat"
+    ]
+}

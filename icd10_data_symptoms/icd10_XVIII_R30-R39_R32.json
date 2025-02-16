@@ -1,0 +1,28 @@
+{
+    "icd10code": "R32",
+    "type": "category",
+    "title": "Unspecified urinary incontinence",
+    "chapter": "Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+    "chapterCode": "XVIII",
+    "block": "Symptoms and signs involving the urinary system",
+    "blockCode": "R30-R39",
+    "category": "Unspecified urinary incontinence",
+    "categoryCode": "R32",
+    "subcategory": "",
+    "inclusion": [
+        "Enuresis NOS"
+    ],
+    "exclusion": [
+        "abnormal findings on antenatal screening of mother",
+        "certain conditions originating in the perinatal period",
+        "nonorganic enuresis",
+        "stress incontinence and other specified urinary incontinence"
+    ],
+    "symptoms": [
+        "urinary incontinence",
+        "involuntary urine leakage",
+        "loss of bladder control",
+        "uncontrolled urination",
+        "accidental urine release"
+    ]
+}

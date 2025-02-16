@@ -1,0 +1,27 @@
+{
+    "icd10code": "Z94.0",
+    "type": "subcategory",
+    "title": "Kidney transplant status",
+    "chapter": "Factors influencing health status and contact with health services",
+    "chapterCode": "XXI",
+    "block": "Persons with potential health hazards related to family and personal history and certain conditions influencing health status",
+    "blockCode": "Z80-Z99",
+    "category": "Transplanted organ and tissue status",
+    "categoryCode": "Z94",
+    "subcategory": "Z94.0",
+    "inclusion": [
+        "organ or tissue replaced by heterogenous or homogenous transplant"
+    ],
+    "exclusion": [
+        "follow-up examination",
+        "follow-up medical care and convalescence",
+        "when family or personal history is the reason for special screening or other examination or investigation",
+        "when the possibility that the fetus might be affected is the reason for observation or action during pregnancy",
+        "complications of transplanted organ or tissue - see Alphabetical Index",
+        "presence of: vascular graft",
+        "presence of: xenogenic heart valve"
+    ],
+    "symptoms": [
+        "asymptomatic"
+    ]
+}

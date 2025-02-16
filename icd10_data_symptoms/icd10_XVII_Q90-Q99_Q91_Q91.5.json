@@ -1,0 +1,23 @@
+{
+    "icd10code": "Q91.5",
+    "type": "subcategory",
+    "title": "Trisomy 13, mosaicism (mitotic nondisjunction)",
+    "chapter": "Congenital malformations, deformations and chromosomal abnormalities",
+    "chapterCode": "XVII",
+    "block": "Chromosomal abnormalities, not elsewhere classified",
+    "blockCode": "Q90-Q99",
+    "category": "Edwards syndrome and Patau syndrome",
+    "categoryCode": "Q91",
+    "subcategory": "Q91.5",
+    "inclusion": null,
+    "exclusion": [
+        "inborn errors of metabolism"
+    ],
+    "symptoms": [
+        "distinctive facial features",
+        "intellectual disability",
+        "growth delays",
+        "heart defects",
+        "skeletal abnormalities"
+    ]
+}

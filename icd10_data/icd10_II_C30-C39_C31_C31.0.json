@@ -1,0 +1,19 @@
+{
+  "type": "subcategory",
+  "chapterCode": "II",
+  "chapter": "Neoplasms",
+  "blockCode": "C30-C39",
+  "block": "Malignant neoplasms of respiratory and intrathoracic organs",
+  "categoryCode": "C31",
+  "category": "Malignant neoplasm of accessory sinuses",
+  "subcategory": "C31.0",
+  "title": "Malignant neoplasm: Maxillary sinus",
+  "inclusion": [
+    "middle ear",
+    "Antrum (Highmore)(maxillary)"
+  ],
+  "exclusion": [
+    "mesothelioma"
+  ],
+  "children": null
+}

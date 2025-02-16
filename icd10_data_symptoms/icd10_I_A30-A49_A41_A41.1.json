@@ -1,0 +1,52 @@
+{
+    "icd10code": "A41.1",
+    "type": "subcategory",
+    "title": "Sepsis due to other specified staphylococcus",
+    "chapter": "Certain infectious and parasitic diseases",
+    "chapterCode": "I",
+    "block": "Other bacterial diseases",
+    "blockCode": "A30-A49",
+    "category": "Other sepsis",
+    "categoryCode": "A41",
+    "subcategory": "A41.1",
+    "inclusion": [
+        "diseases generally recognized as communicable or transmissible",
+        "Sepsis due to coagulase-negative staphylococcus"
+    ],
+    "exclusion": [
+        "carrier or suspected carrier of infectious disease",
+        "certain localized infections - see body system-related chapters",
+        "infectious and parasitic diseases complicating pregnancy, childbirth and the puerperium [except obstetrical tetanus]",
+        "infectious and parasitic diseases specific to the perinatal period [except tetanus neonatorum, whooping cough, congenital syphilis, perinatal gonococcal infection and perinatal human immunodeficiency virus [HIV] disease]",
+        "influenza and other acute respiratory infections",
+        "bacteraemia NOS",
+        "during labour",
+        "following: abortion or ectopic or molar pregnancy",
+        "following: immunization",
+        "following: infusion, transfusion or therapeutic injection",
+        "sepsis (due to)(in): actinomycotic",
+        "sepsis (due to)(in): anthrax",
+        "sepsis (due to)(in): candidal",
+        "sepsis (due to)(in): Erysipelothrix",
+        "sepsis (due to)(in): extraintestinal yersiniosis",
+        "sepsis (due to)(in): gonococcal",
+        "sepsis (due to)(in): herpesviral",
+        "sepsis (due to)(in): listerial",
+        "sepsis (due to)(in): meningococcal",
+        "sepsis (due to)(in): neonatal",
+        "sepsis (due to)(in): postprocedural",
+        "sepsis (due to)(in): puerperal",
+        "sepsis (due to)(in): streptococcal",
+        "sepsis (due to)(in): tularaemia",
+        "septic: melioidosis",
+        "septic: plague",
+        "toxic shock syndrome"
+    ],
+    "symptoms": [
+        "fever",
+        "chills",
+        "rapid heartbeat",
+        "low blood pressure",
+        "mental confusion"
+    ]
+}

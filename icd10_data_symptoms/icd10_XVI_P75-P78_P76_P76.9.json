@@ -1,0 +1,30 @@
+{
+    "icd10code": "P76.9",
+    "type": "subcategory",
+    "title": "Intestinal obstruction of newborn, unspecified",
+    "chapter": "Certain conditions originating in the perinatal period",
+    "chapterCode": "XVI",
+    "block": "Digestive system disorders of fetus and newborn",
+    "blockCode": "P75-P78",
+    "category": "Other intestinal obstruction of newborn",
+    "categoryCode": "P76",
+    "subcategory": "P76.9",
+    "inclusion": [
+        "conditions that have their origin in the perinatal period even though death or morbidity occurs later"
+    ],
+    "exclusion": [
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "tetanus neonatorum",
+        "whooping cough"
+    ],
+    "symptoms": [
+        "abdominal distension",
+        "vomiting",
+        "delayed passage of meconium",
+        "feeding difficulties",
+        "irritability"
+    ]
+}

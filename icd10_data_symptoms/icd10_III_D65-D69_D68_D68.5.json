@@ -1,0 +1,39 @@
+{
+    "icd10code": "D68.5",
+    "type": "subcategory",
+    "title": "Primary thrombophilia",
+    "chapter": "Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism",
+    "chapterCode": "III",
+    "block": "Coagulation defects, purpura and other haemorrhagic conditions",
+    "blockCode": "D65-D69",
+    "category": "Other coagulation defects",
+    "categoryCode": "D68",
+    "subcategory": "D68.5",
+    "inclusion": [
+        "Activated protein C resistance [factor V Leiden mutation]",
+        "Deficiency: antithrombin",
+        "Deficiency: protein C",
+        "Deficiency: protein S",
+        "Prothrombin gene mutation"
+    ],
+    "exclusion": [
+        "autoimmune disease (systemic) NOS",
+        "certain conditions originating in the perinatal period",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "human immunodeficiency virus [HIV] disease",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "traumatic rupture of spleen",
+        "splenomegaly: congenital"
+    ],
+    "symptoms": [
+        "easy bruising",
+        "prolonged bleeding from cuts",
+        "frequent nosebleeds",
+        "bleeding gums",
+        "heavy menstrual flow"
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "icd10code": "X29",
+    "type": "category",
+    "title": "Contact with unspecified venomous animal or plant",
+    "chapter": "External causes of morbidity and mortality",
+    "chapterCode": "XX",
+    "block": "Contact with venomous animals and plants",
+    "blockCode": "X20-X29",
+    "category": "Contact with unspecified venomous animal or plant",
+    "categoryCode": "X29",
+    "subcategory": "",
+    "inclusion": [
+        "chemical released by: animal",
+        "chemical released by: insect",
+        "release of venom through fangs, hairs, spines, tentacles and other venom apparatus",
+        "venomous bites and stings",
+        "sting (venomous) NOS",
+        "venomous bite NOS"
+    ],
+    "exclusion": [
+        "ingestion of poisonous animals or plants"
+    ],
+    "symptoms": [
+        "redness",
+        "blistering",
+        "swelling",
+        "pain",
+        "peeling skin"
+    ]
+}

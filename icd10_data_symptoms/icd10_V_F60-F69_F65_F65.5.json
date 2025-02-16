@@ -1,0 +1,28 @@
+{
+    "icd10code": "F65.5",
+    "type": "subcategory",
+    "title": "Sadomasochism",
+    "chapter": "Mental and behavioural disorders",
+    "chapterCode": "V",
+    "block": "Disorders of adult personality and behaviour",
+    "blockCode": "F60-F69",
+    "category": "Disorders of sexual preference",
+    "categoryCode": "F65",
+    "subcategory": "F65.5",
+    "inclusion": [
+        "disorders of psychological development",
+        "paraphilias",
+        "Masochism",
+        "Sadism"
+    ],
+    "exclusion": [
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified"
+    ],
+    "symptoms": [
+        "intense cravings",
+        "compulsive overconsumption",
+        "emotional distress",
+        "inability to moderate intake",
+        "neglect of responsibilities"
+    ]
+}

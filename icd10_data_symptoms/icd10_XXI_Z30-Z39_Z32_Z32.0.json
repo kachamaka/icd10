@@ -1,0 +1,17 @@
+{
+    "icd10code": "Z32.0",
+    "type": "subcategory",
+    "title": "Pregnancy, not (yet) confirmed",
+    "chapter": "Factors influencing health status and contact with health services",
+    "chapterCode": "XXI",
+    "block": "Persons encountering health services in circumstances related to reproduction",
+    "blockCode": "Z30-Z39",
+    "category": "Pregnancy examination and test",
+    "categoryCode": "Z32",
+    "subcategory": "Z32.0",
+    "inclusion": null,
+    "exclusion": null,
+    "symptoms": [
+        "asymptomatic"
+    ]
+}

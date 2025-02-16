@@ -1,0 +1,23 @@
+{
+    "icd10code": "Q71.6",
+    "type": "subcategory",
+    "title": "Lobster-claw hand",
+    "chapter": "Congenital malformations, deformations and chromosomal abnormalities",
+    "chapterCode": "XVII",
+    "block": "Congenital malformations and deformations of the musculoskeletal system",
+    "blockCode": "Q65-Q79",
+    "category": "Reduction defects of upper limb",
+    "categoryCode": "Q71",
+    "subcategory": "Q71.6",
+    "inclusion": null,
+    "exclusion": [
+        "inborn errors of metabolism"
+    ],
+    "symptoms": [
+        "partial absence of upper limb(s)",
+        "reduced range of motion",
+        "abnormal limb development",
+        "asymmetry in limb length",
+        "difficulty performing fine motor tasks"
+    ]
+}

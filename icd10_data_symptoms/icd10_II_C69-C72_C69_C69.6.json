@@ -1,0 +1,32 @@
+{
+    "icd10code": "C69.6",
+    "type": "subcategory",
+    "title": "Malignant neoplasm: Orbit",
+    "chapter": "Neoplasms",
+    "chapterCode": "II",
+    "block": "Malignant neoplasms of eye, brain and other parts of central nervous system",
+    "blockCode": "C69-C72",
+    "category": "Malignant neoplasm of eye and adnexa",
+    "categoryCode": "C69",
+    "subcategory": "C69.6",
+    "inclusion": [
+        "Connective tissue of orbit",
+        "Extraocular muscle",
+        "Peripheral nerves of orbit",
+        "Retrobulbar tissue",
+        "Retro-ocular tissue"
+    ],
+    "exclusion": [
+        "connective tissue of eyelid",
+        "eyelid (skin)",
+        "optic nerve",
+        "orbital bone"
+    ],
+    "symptoms": [
+        "blurred vision",
+        "eye pain",
+        "loss of vision",
+        "bulging eyes",
+        "dark spots in visual field"
+    ]
+}

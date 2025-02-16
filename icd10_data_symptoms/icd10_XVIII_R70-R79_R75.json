@@ -1,0 +1,36 @@
+{
+    "icd10code": "R75",
+    "type": "category",
+    "title": "Laboratory evidence of human immunodeficiency virus [HIV]",
+    "chapter": "Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+    "chapterCode": "XVIII",
+    "block": "Abnormal findings on examination of blood, without diagnosis",
+    "blockCode": "R70-R79",
+    "category": "Laboratory evidence of human immunodeficiency virus [HIV]",
+    "categoryCode": "R75",
+    "subcategory": "",
+    "inclusion": [
+        "Nonconclusive HIV-test finding in infants"
+    ],
+    "exclusion": [
+        "abnormal findings on antenatal screening of mother",
+        "certain conditions originating in the perinatal period",
+        "abnormalities (of)(on): antenatal screening of mother",
+        "abnormalities (of)(on): coagulation",
+        "abnormalities (of)(on): lipids",
+        "abnormalities (of)(on): platelets and thrombocytes",
+        "abnormalities (of)(on): white blood cells classified elsewhere",
+        "diagnostic abnormal findings classified elsewhere - see Alphabetical Index",
+        "haemorrhagic and haematological disorders of fetus and newborn",
+        "asymptomatic human immunodeficiency virus [HIV] infection status",
+        "human immunodeficiency virus [HIV] disease",
+        "human immunodeficiency virus [HIV] disease complicating pregnancy, childbirth and the puerperium"
+    ],
+    "symptoms": [
+        "asymptomatic",
+        "fatigue",
+        "mild fever",
+        "lymphadenopathy",
+        "night sweats"
+    ]
+}

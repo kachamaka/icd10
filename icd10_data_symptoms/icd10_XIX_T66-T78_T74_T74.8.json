@@ -1,0 +1,31 @@
+{
+    "icd10code": "T74.8",
+    "type": "subcategory",
+    "title": "Other maltreatment syndromes",
+    "chapter": "Injury, poisoning and certain other consequences of external causes",
+    "chapterCode": "XIX",
+    "block": "Other and unspecified effects of external causes",
+    "blockCode": "T66-T78",
+    "category": "Maltreatment syndromes",
+    "categoryCode": "T74",
+    "subcategory": "T74.8",
+    "inclusion": [
+        "Mixed forms"
+    ],
+    "exclusion": [
+        "birth trauma",
+        "obstetric trauma",
+        "malunion of fracture",
+        "nonunion of fracture [pseudarthrosis]",
+        "pathological fracture",
+        "pathological fracture with osteoporosis",
+        "stress fracture"
+    ],
+    "symptoms": [
+        "bruising",
+        "anxiety",
+        "depression",
+        "chronic pain",
+        "fearfulness"
+    ]
+}

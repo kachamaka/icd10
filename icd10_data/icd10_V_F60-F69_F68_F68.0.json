@@ -1,0 +1,19 @@
+{
+  "type": "subcategory",
+  "chapterCode": "V",
+  "chapter": "Mental and behavioural disorders",
+  "blockCode": "F60-F69",
+  "block": "Disorders of adult personality and behaviour",
+  "categoryCode": "F68",
+  "category": "Other disorders of adult personality and behaviour",
+  "subcategory": "F68.0",
+  "title": "Elaboration of physical symptoms for psychological reasons",
+  "inclusion": [
+    "disorders of psychological development",
+    "Compensation neurosis"
+  ],
+  "exclusion": [
+    "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified"
+  ],
+  "children": null
+}

@@ -1,0 +1,40 @@
+{
+    "icd10code": "K12.1",
+    "type": "subcategory",
+    "title": "Other forms of stomatitis",
+    "chapter": "Diseases of the digestive system",
+    "chapterCode": "XI",
+    "block": "Diseases of oral cavity, salivary glands and jaws",
+    "blockCode": "K00-K14",
+    "category": "Stomatitis and related lesions",
+    "categoryCode": "K12",
+    "subcategory": "K12.1",
+    "inclusion": [
+        "Stomatitis: NOS",
+        "Stomatitis: denture",
+        "Stomatitis: ulcerative",
+        "Stomatitis: vesicular"
+    ],
+    "exclusion": [
+        "certain conditions originating in the perinatal period",
+        "certain infectious and parasitic diseases",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "cancrum oris",
+        "cheilitis",
+        "gangrenous stomatitis",
+        "herpesviral [herpes simplex] gingivostomatitis",
+        "noma"
+    ],
+    "symptoms": [
+        "mouth ulcers",
+        "painful sores",
+        "redness in the mouth",
+        "swelling",
+        "difficulty eating"
+    ]
+}

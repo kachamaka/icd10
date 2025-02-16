@@ -1,0 +1,16 @@
+{
+  "type": "subcategory",
+  "chapterCode": "XXI",
+  "chapter": "Factors influencing health status and contact with health services",
+  "blockCode": "Z55-Z65",
+  "block": "Persons with potential health hazards related to socioeconomic and psychosocial circumstances",
+  "categoryCode": "Z64",
+  "category": "Problems related to certain psychosocial circumstances",
+  "subcategory": "Z64.0",
+  "title": "Problems related to unwanted pregnancy",
+  "inclusion": null,
+  "exclusion": [
+    "supervision of high-risk pregnancy due to social problems"
+  ],
+  "children": null
+}

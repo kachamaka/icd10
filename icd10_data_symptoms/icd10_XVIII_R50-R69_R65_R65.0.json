@@ -1,0 +1,24 @@
+{
+    "icd10code": "R65.0",
+    "type": "subcategory",
+    "title": "Systemic Inflammatory Response Syndrome of infectious origin without organ failure",
+    "chapter": "Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+    "chapterCode": "XVIII",
+    "block": "General symptoms and signs",
+    "blockCode": "R50-R69",
+    "category": "Systemic Inflammatory Response Syndrome [SIRS]",
+    "categoryCode": "R65",
+    "subcategory": "R65.0",
+    "inclusion": null,
+    "exclusion": [
+        "abnormal findings on antenatal screening of mother",
+        "certain conditions originating in the perinatal period"
+    ],
+    "symptoms": [
+        "fever",
+        "rapid heart rate",
+        "rapid breathing",
+        "low blood pressure",
+        "elevated white blood cell count"
+    ]
+}

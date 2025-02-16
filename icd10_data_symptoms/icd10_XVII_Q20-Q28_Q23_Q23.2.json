@@ -1,0 +1,25 @@
+{
+    "icd10code": "Q23.2",
+    "type": "subcategory",
+    "title": "Congenital mitral stenosis",
+    "chapter": "Congenital malformations, deformations and chromosomal abnormalities",
+    "chapterCode": "XVII",
+    "block": "Congenital malformations of the circulatory system",
+    "blockCode": "Q20-Q28",
+    "category": "Congenital malformations of aortic and mitral valves",
+    "categoryCode": "Q23",
+    "subcategory": "Q23.2",
+    "inclusion": [
+        "Congenital mitral atresia"
+    ],
+    "exclusion": [
+        "inborn errors of metabolism"
+    ],
+    "symptoms": [
+        "congenital heart defect",
+        "cyanosis",
+        "heart murmur",
+        "fatigue",
+        "shortness of breath"
+    ]
+}

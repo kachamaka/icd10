@@ -1,0 +1,31 @@
+{
+    "icd10code": "A75.2",
+    "type": "subcategory",
+    "title": "Typhus fever due to Rickettsia typhi",
+    "chapter": "Certain infectious and parasitic diseases",
+    "chapterCode": "I",
+    "block": "Rickettsioses",
+    "blockCode": "A75-A79",
+    "category": "Typhus fever",
+    "categoryCode": "A75",
+    "subcategory": "A75.2",
+    "inclusion": [
+        "diseases generally recognized as communicable or transmissible",
+        "Murine (flea-borne) typhus"
+    ],
+    "exclusion": [
+        "carrier or suspected carrier of infectious disease",
+        "certain localized infections - see body system-related chapters",
+        "infectious and parasitic diseases complicating pregnancy, childbirth and the puerperium [except obstetrical tetanus]",
+        "infectious and parasitic diseases specific to the perinatal period [except tetanus neonatorum, whooping cough, congenital syphilis, perinatal gonococcal infection and perinatal human immunodeficiency virus [HIV] disease]",
+        "influenza and other acute respiratory infections",
+        "erythrasma"
+    ],
+    "symptoms": [
+        "fever",
+        "headache",
+        "muscle pain",
+        "rash",
+        "swollen lymph nodes"
+    ]
+}

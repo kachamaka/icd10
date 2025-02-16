@@ -1,0 +1,35 @@
+{
+    "icd10code": "L64.9",
+    "type": "subcategory",
+    "title": "Androgenic alopecia, unspecified",
+    "chapter": "Diseases of the skin and subcutaneous tissue",
+    "chapterCode": "XII",
+    "block": "Disorders of skin appendages",
+    "blockCode": "L60-L75",
+    "category": "Androgenic alopecia",
+    "categoryCode": "L64",
+    "subcategory": "L64.9",
+    "inclusion": [
+        "male-pattern baldness"
+    ],
+    "exclusion": [
+        "certain conditions originating in the perinatal period",
+        "certain infectious and parasitic diseases",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "lipomelanotic reticulosis",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "systemic connective tissue disorders",
+        "decubitus [pressure] ulcer and pressure area"
+    ],
+    "symptoms": [
+        "thinning hair",
+        "receding hairline",
+        "hair loss in patches",
+        "scalp visibility increase",
+        "gradual hair thinning"
+    ]
+}

@@ -1,0 +1,37 @@
+{
+    "icd10code": "K29.6",
+    "type": "subcategory",
+    "title": "Other gastritis",
+    "chapter": "Diseases of the digestive system",
+    "chapterCode": "XI",
+    "block": "Diseases of oesophagus, stomach and duodenum",
+    "blockCode": "K20-K31",
+    "category": "Gastritis and duodenitis",
+    "categoryCode": "K29",
+    "subcategory": "K29.6",
+    "inclusion": [
+        "Giant hypertrophic gastritis",
+        "Granulomatous gastritis",
+        "Ménétrier disease"
+    ],
+    "exclusion": [
+        "certain conditions originating in the perinatal period",
+        "certain infectious and parasitic diseases",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "hiatus hernia",
+        "primary ulcer of small intestine",
+        "Barrett ulcer"
+    ],
+    "symptoms": [
+        "abdominal pain",
+        "nausea",
+        "vomiting",
+        "bloating",
+        "indigestion"
+    ]
+}

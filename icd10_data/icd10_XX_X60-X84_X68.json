@@ -1,0 +1,25 @@
+{
+  "type": "category",
+  "chapterCode": "XX",
+  "chapter": "External causes of morbidity and mortality",
+  "blockCode": "X60-X84",
+  "block": "Intentional self-harm",
+  "categoryCode": "X68",
+  "category": "Intentional self-poisoning by and exposure to pesticides",
+  "subcategory": "",
+  "title": "Intentional self-poisoning by and exposure to pesticides",
+  "inclusion": [
+    "purposely self-inflicted poisoning or injury",
+    "suicide (attempted)",
+    "fumigants",
+    "fungicides",
+    "herbicides",
+    "insecticides",
+    "rodenticides",
+    "wood preservatives"
+  ],
+  "exclusion": [
+    "plant foods and fertilizers"
+  ],
+  "children": null
+}

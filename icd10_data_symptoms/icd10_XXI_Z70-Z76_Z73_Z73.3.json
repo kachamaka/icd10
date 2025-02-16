@@ -1,0 +1,26 @@
+{
+    "icd10code": "Z73.3",
+    "type": "subcategory",
+    "title": "Stress, not elsewhere classified",
+    "chapter": "Factors influencing health status and contact with health services",
+    "chapterCode": "XXI",
+    "block": "Persons encountering health services in other circumstances",
+    "blockCode": "Z70-Z76",
+    "category": "Problems related to life-management difficulty",
+    "categoryCode": "Z73",
+    "subcategory": "Z73.3",
+    "inclusion": [
+        "Physical and mental strain NOS"
+    ],
+    "exclusion": [
+        "problems related to socioeconomic and psychosocial circumstances",
+        "related to employment or unemployment"
+    ],
+    "symptoms": [
+        "burnout",
+        "fatigue",
+        "irritability",
+        "sleep disturbances",
+        "difficulty concentrating"
+    ]
+}

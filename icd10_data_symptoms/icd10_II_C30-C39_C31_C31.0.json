@@ -1,0 +1,26 @@
+{
+    "icd10code": "C31.0",
+    "type": "subcategory",
+    "title": "Malignant neoplasm: Maxillary sinus",
+    "chapter": "Neoplasms",
+    "chapterCode": "II",
+    "block": "Malignant neoplasms of respiratory and intrathoracic organs",
+    "blockCode": "C30-C39",
+    "category": "Malignant neoplasm of accessory sinuses",
+    "categoryCode": "C31",
+    "subcategory": "C31.0",
+    "inclusion": [
+        "middle ear",
+        "Antrum (Highmore)(maxillary)"
+    ],
+    "exclusion": [
+        "mesothelioma"
+    ],
+    "symptoms": [
+        "facial pain",
+        "nasal obstruction",
+        "nosebleeds",
+        "vision changes",
+        "swollen lymph nodes"
+    ]
+}

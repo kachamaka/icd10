@@ -1,0 +1,29 @@
+{
+    "icd10code": "Q07.9",
+    "type": "subcategory",
+    "title": "Congenital malformation of nervous system, unspecified",
+    "chapter": "Congenital malformations, deformations and chromosomal abnormalities",
+    "chapterCode": "XVII",
+    "block": "Congenital malformations of the nervous system",
+    "blockCode": "Q00-Q07",
+    "category": "Other congenital malformations of nervous system",
+    "categoryCode": "Q07",
+    "subcategory": "Q07.9",
+    "inclusion": [
+        "Congenital: anomaly NOS of nervous system",
+        "Congenital: deformity NOS of nervous system",
+        "Congenital: disease or lesion NOS of nervous system"
+    ],
+    "exclusion": [
+        "inborn errors of metabolism",
+        "familial dysautonomia [Riley-Day]",
+        "neurofibromatosis (nonmalignant)"
+    ],
+    "symptoms": [
+        "hydrocephalus",
+        "poor muscle coordination",
+        "developmental delays",
+        "abnormal head size",
+        "seizures"
+    ]
+}

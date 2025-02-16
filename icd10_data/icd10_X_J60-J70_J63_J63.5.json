@@ -1,0 +1,25 @@
+{
+  "type": "subcategory",
+  "chapterCode": "X",
+  "chapter": "Diseases of the respiratory system",
+  "blockCode": "J60-J70",
+  "block": "Lung diseases due to external agents",
+  "categoryCode": "J63",
+  "category": "Pneumoconiosis due to other inorganic dusts",
+  "subcategory": "J63.5",
+  "title": "Stannosis",
+  "inclusion": null,
+  "exclusion": [
+    "certain conditions originating in the perinatal period",
+    "certain infectious and parasitic diseases",
+    "complications of pregnancy, childbirth and the puerperium",
+    "congenital malformations, deformations and chromosomal abnormalities",
+    "endocrine, nutritional and metabolic diseases",
+    "injury, poisoning and certain other consequences of external causes",
+    "neoplasms",
+    "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+    "asthma classified to J45.-",
+    "neonatal aspiration syndromes"
+  ],
+  "children": null
+}

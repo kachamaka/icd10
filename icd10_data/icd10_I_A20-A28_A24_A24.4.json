@@ -1,0 +1,25 @@
+{
+  "type": "subcategory",
+  "chapterCode": "I",
+  "chapter": "Certain infectious and parasitic diseases",
+  "blockCode": "A20-A28",
+  "block": "Certain zoonotic bacterial diseases",
+  "categoryCode": "A24",
+  "category": "Glanders and melioidosis",
+  "subcategory": "A24.4",
+  "title": "Melioidosis, unspecified",
+  "inclusion": [
+    "diseases generally recognized as communicable or transmissible",
+    "Infection due to Pseudomonas pseudomallei NOS",
+    "Infection due to Burkholderia pseudomallei NOS",
+    "Whitmore disease"
+  ],
+  "exclusion": [
+    "carrier or suspected carrier of infectious disease",
+    "certain localized infections - see body system-related chapters",
+    "infectious and parasitic diseases complicating pregnancy, childbirth and the puerperium [except obstetrical tetanus]",
+    "infectious and parasitic diseases specific to the perinatal period [except tetanus neonatorum, whooping cough, congenital syphilis, perinatal gonococcal infection and perinatal human immunodeficiency virus [HIV] disease]",
+    "influenza and other acute respiratory infections"
+  ],
+  "children": null
+}

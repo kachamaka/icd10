@@ -1,0 +1,28 @@
+{
+    "icd10code": "F52.5",
+    "type": "subcategory",
+    "title": "Nonorganic vaginismus",
+    "chapter": "Mental and behavioural disorders",
+    "chapterCode": "V",
+    "block": "Behavioural syndromes associated with physiological disturbances and physical factors",
+    "blockCode": "F50-F59",
+    "category": "Sexual dysfunction, not caused by organic disorder or disease",
+    "categoryCode": "F52",
+    "subcategory": "F52.5",
+    "inclusion": [
+        "disorders of psychological development",
+        "Psychogenic vaginismus"
+    ],
+    "exclusion": [
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "Dhat syndrome",
+        "vaginismus (organic)"
+    ],
+    "symptoms": [
+        "reduced libido",
+        "lack of sexual interest",
+        "difficulty becoming aroused",
+        "distress about low desire",
+        "decreased frequency of sexual activity"
+    ]
+}

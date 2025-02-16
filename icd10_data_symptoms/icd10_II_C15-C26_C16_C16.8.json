@@ -1,0 +1,21 @@
+{
+    "icd10code": "C16.8",
+    "type": "subcategory",
+    "title": "Malignant neoplasm: Overlapping lesion of stomach",
+    "chapter": "Neoplasms",
+    "chapterCode": "II",
+    "block": "Malignant neoplasms of digestive organs",
+    "blockCode": "C15-C26",
+    "category": "Malignant neoplasm of stomach",
+    "categoryCode": "C16",
+    "subcategory": "C16.8",
+    "inclusion": null,
+    "exclusion": null,
+    "symptoms": [
+        "abdominal pain",
+        "indigestion",
+        "loss of appetite",
+        "unexplained weight loss",
+        "feeling full after eating little"
+    ]
+}

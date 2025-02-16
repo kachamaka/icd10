@@ -1,0 +1,27 @@
+{
+  "type": "subcategory",
+  "chapterCode": "XIX",
+  "chapter": "Injury, poisoning and certain other consequences of external causes",
+  "blockCode": "T66-T78",
+  "block": "Other and unspecified effects of external causes",
+  "categoryCode": "T75",
+  "category": "Effects of other external causes",
+  "subcategory": "T75.1",
+  "title": "Drowning and nonfatal submersion",
+  "inclusion": [
+    "Immersion",
+    "Swimmer cramp"
+  ],
+  "exclusion": [
+    "birth trauma",
+    "obstetric trauma",
+    "malunion of fracture",
+    "nonunion of fracture [pseudarthrosis]",
+    "pathological fracture",
+    "pathological fracture with osteoporosis",
+    "stress fracture",
+    "adverse effects NEC",
+    "burns (electric)"
+  ],
+  "children": null
+}

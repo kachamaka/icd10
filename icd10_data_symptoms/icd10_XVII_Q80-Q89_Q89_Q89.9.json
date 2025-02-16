@@ -1,0 +1,26 @@
+{
+    "icd10code": "Q89.9",
+    "type": "subcategory",
+    "title": "Congenital malformation, unspecified",
+    "chapter": "Congenital malformations, deformations and chromosomal abnormalities",
+    "chapterCode": "XVII",
+    "block": "Other congenital malformations",
+    "blockCode": "Q80-Q89",
+    "category": "Other congenital malformations, not elsewhere classified",
+    "categoryCode": "Q89",
+    "subcategory": "Q89.9",
+    "inclusion": [
+        "Congenital: anomaly NOS",
+        "Congenital: deformity NOS"
+    ],
+    "exclusion": [
+        "inborn errors of metabolism"
+    ],
+    "symptoms": [
+        "rare congenital anomalies",
+        "unusual body structure abnormalities",
+        "developmental delays",
+        "unspecified genetic disorders",
+        "atypical organ development"
+    ]
+}

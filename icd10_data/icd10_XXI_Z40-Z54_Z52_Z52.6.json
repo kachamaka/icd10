@@ -1,0 +1,17 @@
+{
+  "type": "subcategory",
+  "chapterCode": "XXI",
+  "chapter": "Factors influencing health status and contact with health services",
+  "blockCode": "Z40-Z54",
+  "block": "Persons encountering health services for specific procedures and health care",
+  "categoryCode": "Z52",
+  "category": "Donors of organs and tissues",
+  "subcategory": "Z52.6",
+  "title": "Liver donor",
+  "inclusion": null,
+  "exclusion": [
+    "follow-up examination for medical surveillance after treatment",
+    "examination of potential donor"
+  ],
+  "children": null
+}

@@ -1,0 +1,34 @@
+{
+    "icd10code": "C41.1",
+    "type": "subcategory",
+    "title": "Malignant neoplasm: Mandible",
+    "chapter": "Neoplasms",
+    "chapterCode": "II",
+    "block": "Malignant neoplasms of bone and articular cartilage",
+    "blockCode": "C40-C41",
+    "category": "Malignant neoplasm of bone and articular cartilage of other and unspecified sites",
+    "categoryCode": "C41",
+    "subcategory": "C41.1",
+    "inclusion": [
+        "Lower jaw bone"
+    ],
+    "exclusion": [
+        "bone marrow NOS",
+        "synovia",
+        "bones of limbs",
+        "cartilage of: ear",
+        "cartilage of: larynx",
+        "cartilage of: limbs",
+        "cartilage of: nose",
+        "carcinoma, any type except intraosseous or odontogenic of: jaw NOS",
+        "carcinoma, any type except intraosseous or odontogenic of: jaw NOS lower",
+        "upper jaw bone"
+    ],
+    "symptoms": [
+        "bone pain",
+        "bone fractures",
+        "swelling",
+        "unexplained weight loss",
+        "fatigue"
+    ]
+}

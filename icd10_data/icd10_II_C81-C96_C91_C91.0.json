@@ -1,0 +1,16 @@
+{
+  "type": "subcategory",
+  "chapterCode": "II",
+  "chapter": "Neoplasms",
+  "blockCode": "C81-C96",
+  "block": "Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",
+  "categoryCode": "C91",
+  "category": "Lymphoid leukaemia",
+  "subcategory": "C91.0",
+  "title": "Acute lymphoblastic leukaemia [ALL]",
+  "inclusion": null,
+  "exclusion": [
+    "secondary and unspecified neoplasm of lymph nodes"
+  ],
+  "children": null
+}

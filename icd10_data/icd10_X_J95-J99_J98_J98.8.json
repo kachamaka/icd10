@@ -1,0 +1,27 @@
+{
+  "type": "subcategory",
+  "chapterCode": "X",
+  "chapter": "Diseases of the respiratory system",
+  "blockCode": "J95-J99",
+  "block": "Other diseases of the respiratory system",
+  "categoryCode": "J98",
+  "category": "Other respiratory disorders",
+  "subcategory": "J98.8",
+  "title": "Other specified respiratory disorders",
+  "inclusion": null,
+  "exclusion": [
+    "certain conditions originating in the perinatal period",
+    "certain infectious and parasitic diseases",
+    "complications of pregnancy, childbirth and the puerperium",
+    "congenital malformations, deformations and chromosomal abnormalities",
+    "endocrine, nutritional and metabolic diseases",
+    "injury, poisoning and certain other consequences of external causes",
+    "neoplasms",
+    "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+    "apnoea: NOS",
+    "apnoea: newborn",
+    "apnoea: sleep",
+    "apnoea: sleep newborn"
+  ],
+  "children": null
+}

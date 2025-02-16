@@ -1,0 +1,33 @@
+{
+    "icd10code": "L85.2",
+    "type": "subcategory",
+    "title": "Keratosis punctata (palmaris et plantaris)",
+    "chapter": "Diseases of the skin and subcutaneous tissue",
+    "chapterCode": "XII",
+    "block": "Other disorders of the skin and subcutaneous tissue",
+    "blockCode": "L80-L99",
+    "category": "Other epidermal thickening",
+    "categoryCode": "L85",
+    "subcategory": "L85.2",
+    "inclusion": null,
+    "exclusion": [
+        "certain conditions originating in the perinatal period",
+        "certain infectious and parasitic diseases",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "lipomelanotic reticulosis",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "systemic connective tissue disorders",
+        "decubitus [pressure] ulcer and pressure area"
+    ],
+    "symptoms": [
+        "dry",
+        "rough skin",
+        "scaling",
+        "mild itching",
+        "possible redness"
+    ]
+}

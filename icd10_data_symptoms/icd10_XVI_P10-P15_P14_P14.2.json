@@ -1,0 +1,30 @@
+{
+    "icd10code": "P14.2",
+    "type": "subcategory",
+    "title": "Phrenic nerve paralysis due to birth injury",
+    "chapter": "Certain conditions originating in the perinatal period",
+    "chapterCode": "XVI",
+    "block": "Birth trauma",
+    "blockCode": "P10-P15",
+    "category": "Birth injury to peripheral nervous system",
+    "categoryCode": "P14",
+    "subcategory": "P14.2",
+    "inclusion": [
+        "conditions that have their origin in the perinatal period even though death or morbidity occurs later"
+    ],
+    "exclusion": [
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "tetanus neonatorum",
+        "whooping cough"
+    ],
+    "symptoms": [
+        "decreased arm movement",
+        "weakness in affected arm",
+        "asymmetric moro reflex",
+        "absent grasp reflex",
+        "arm held in internal rotation flexion"
+    ]
+}

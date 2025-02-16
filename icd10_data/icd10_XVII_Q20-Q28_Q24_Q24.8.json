@@ -1,0 +1,23 @@
+{
+  "type": "subcategory",
+  "chapterCode": "XVII",
+  "chapter": "Congenital malformations, deformations and chromosomal abnormalities",
+  "blockCode": "Q20-Q28",
+  "block": "Congenital malformations of the circulatory system",
+  "categoryCode": "Q24",
+  "category": "Other congenital malformations of heart",
+  "subcategory": "Q24.8",
+  "title": "Other specified congenital malformations of heart",
+  "inclusion": [
+    "Congenital: diverticulum of left ventricle",
+    "Congenital: malformation of: myocardium",
+    "Congenital: malformation of: pericardium",
+    "Malposition of heart",
+    "Uhl disease"
+  ],
+  "exclusion": [
+    "inborn errors of metabolism",
+    "endocardial fibroelastosis"
+  ],
+  "children": null
+}

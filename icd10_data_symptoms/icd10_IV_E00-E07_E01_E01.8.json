@@ -1,0 +1,29 @@
+{
+    "icd10code": "E01.8",
+    "type": "subcategory",
+    "title": "Other iodine-deficiency-related thyroid disorders and allied conditions",
+    "chapter": "Endocrine, nutritional and metabolic diseases",
+    "chapterCode": "IV",
+    "block": "Disorders of thyroid gland",
+    "blockCode": "E00-E07",
+    "category": "Iodine-deficiency-related thyroid disorders and allied conditions",
+    "categoryCode": "E01",
+    "subcategory": "E01.8",
+    "inclusion": [
+        "Acquired iodine-deficiency hypothyroidism NOS"
+    ],
+    "exclusion": [
+        "complications of pregnancy, childbirth and the puerperium",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "transitory endocrine and metabolic disorders specific to fetus and newborn",
+        "congenital iodine-deficiency syndrome",
+        "subclinical iodine-deficiency hypothyroidism"
+    ],
+    "symptoms": [
+        "enlarged thyroid",
+        "rapid heart rate",
+        "weight loss",
+        "difficulty sleeping",
+        "increased sensitivity to heat"
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "icd10code": "Q28.0",
+    "type": "subcategory",
+    "title": "Arteriovenous malformation of precerebral vessels",
+    "chapter": "Congenital malformations, deformations and chromosomal abnormalities",
+    "chapterCode": "XVII",
+    "block": "Congenital malformations of the circulatory system",
+    "blockCode": "Q20-Q28",
+    "category": "Other congenital malformations of circulatory system",
+    "categoryCode": "Q28",
+    "subcategory": "Q28.0",
+    "inclusion": [
+        "Congenital arteriovenous precerebral aneurysm (nonruptured)"
+    ],
+    "exclusion": [
+        "inborn errors of metabolism",
+        "congenital aneurysm: NOS",
+        "congenital aneurysm: coronary",
+        "congenital aneurysm: peripheral",
+        "congenital aneurysm: pulmonary",
+        "congenital aneurysm: retinal",
+        "ruptured: cerebral arteriovenous malformation",
+        "ruptured: malformation of precerebral vessels"
+    ],
+    "symptoms": [
+        "asymptomatic",
+        "headache",
+        "dizziness",
+        "seizures",
+        "developmental delays"
+    ]
+}

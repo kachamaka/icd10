@@ -1,0 +1,34 @@
+{
+    "icd10code": "S60.1",
+    "type": "subcategory",
+    "title": "Contusion of finger(s) with damage to nail",
+    "chapter": "Injury, poisoning and certain other consequences of external causes",
+    "chapterCode": "XIX",
+    "block": "Injuries to the wrist and hand",
+    "blockCode": "S60-S69",
+    "category": "Superficial injury of wrist and hand",
+    "categoryCode": "S60",
+    "subcategory": "S60.1",
+    "inclusion": null,
+    "exclusion": [
+        "birth trauma",
+        "obstetric trauma",
+        "malunion of fracture",
+        "nonunion of fracture [pseudarthrosis]",
+        "pathological fracture",
+        "pathological fracture with osteoporosis",
+        "stress fracture",
+        "bilateral involvement of wrist and hand",
+        "burns and corrosions",
+        "frostbite",
+        "injuries of arm, level unspecified",
+        "insect bite or sting, venomous"
+    ],
+    "symptoms": [
+        "pain",
+        "swelling",
+        "tenderness",
+        "bruising",
+        "limited hand function"
+    ]
+}

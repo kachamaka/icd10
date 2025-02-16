@@ -1,0 +1,31 @@
+{
+    "icd10code": "R82.7",
+    "type": "subcategory",
+    "title": "Abnormal findings on microbiological examination of urine",
+    "chapter": "Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+    "chapterCode": "XVIII",
+    "block": "Abnormal findings on examination of urine, without diagnosis",
+    "blockCode": "R80-R82",
+    "category": "Other abnormal findings in urine",
+    "categoryCode": "R82",
+    "subcategory": "R82.7",
+    "inclusion": [
+        "Positive culture findings"
+    ],
+    "exclusion": [
+        "abnormal findings on antenatal screening of mother",
+        "certain conditions originating in the perinatal period",
+        "abnormal findings on antenatal screening of mother",
+        "diagnostic abnormal findings classified elsewhere - see Alphabetical Index",
+        "specific findings indicating disorder of: amino-acid metabolism",
+        "specific findings indicating disorder of: carbohydrate metabolism",
+        "haematuria"
+    ],
+    "symptoms": [
+        "abnormal urine odor",
+        "unusual urine color",
+        "foamy urine",
+        "cloudy urine",
+        "strong ammonia-like smell"
+    ]
+}

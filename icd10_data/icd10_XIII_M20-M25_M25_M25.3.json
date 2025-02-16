@@ -1,0 +1,36 @@
+{
+  "type": "subcategory",
+  "chapterCode": "XIII",
+  "chapter": "Diseases of the musculoskeletal system and connective tissue",
+  "blockCode": "M20-M25",
+  "block": "Other joint disorders",
+  "categoryCode": "M25",
+  "category": "Other joint disorders, not elsewhere classified",
+  "subcategory": "M25.3",
+  "title": "Other instability of joint",
+  "inclusion": [
+    "Disorders affecting predominantly peripheral (limb) joints"
+  ],
+  "exclusion": [
+    "certain conditions originating in the perinatal period",
+    "certain disorders of the temporomandibular joint",
+    "certain infectious and parasitic diseases",
+    "compartment syndrome",
+    "complications of pregnancy, childbirth and the puerperium",
+    "congenital malformations, deformations and chromosomal abnormalities",
+    "endocrine, nutritional and metabolic diseases",
+    "injury, poisoning and certain other consequences of external causes",
+    "neoplasms",
+    "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+    "arthropathy in: haematological disorders",
+    "abnormality of gait and mobility",
+    "calcification of: bursa",
+    "calcification of: shoulder (joint)",
+    "calcification of: tendon",
+    "deformities classified to M20-M21",
+    "difficulty in walking",
+    "instability of joint secondary to: old ligament injury",
+    "instability of joint secondary to: removal of joint prosthesis"
+  ],
+  "children": null
+}

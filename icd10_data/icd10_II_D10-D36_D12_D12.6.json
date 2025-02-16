@@ -1,0 +1,19 @@
+{
+  "type": "subcategory",
+  "chapterCode": "II",
+  "chapter": "Neoplasms",
+  "blockCode": "D10-D36",
+  "block": "Benign neoplasms",
+  "categoryCode": "D12",
+  "category": "Benign neoplasm of colon, rectum, anus and anal canal",
+  "subcategory": "D12.6",
+  "title": "Benign neoplasm: Colon, unspecified",
+  "inclusion": [
+    "morphology codes with behaviour code /0",
+    "Adenomatosis of colon",
+    "Large intestine NOS",
+    "Polyposis (hereditary) of colon"
+  ],
+  "exclusion": null,
+  "children": null
+}

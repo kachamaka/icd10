@@ -1,0 +1,23 @@
+{
+    "icd10code": "C51.1",
+    "type": "subcategory",
+    "title": "Malignant neoplasm: Labium minus",
+    "chapter": "Neoplasms",
+    "chapterCode": "II",
+    "block": "Malignant neoplasms of female genital organs",
+    "blockCode": "C51-C58",
+    "category": "Malignant neoplasm of vulva",
+    "categoryCode": "C51",
+    "subcategory": "C51.1",
+    "inclusion": [
+        "skin of female genital organs"
+    ],
+    "exclusion": null,
+    "symptoms": [
+        "vaginal bleeding after menopause",
+        "painful intercourse",
+        "abnormal vaginal discharge",
+        "pelvic pain",
+        "visible mass or lump in the vagina"
+    ]
+}

@@ -1,0 +1,42 @@
+{
+    "icd10code": "G40.4",
+    "type": "subcategory",
+    "title": "Other generalized epilepsy and epileptic syndromes",
+    "chapter": "Diseases of the nervous system",
+    "chapterCode": "VI",
+    "block": "Episodic and paroxysmal disorders",
+    "blockCode": "G40-G47",
+    "category": "Epilepsy",
+    "categoryCode": "G40",
+    "subcategory": "G40.4",
+    "inclusion": [
+        "Epilepsy with: myoclonic absences",
+        "Epilepsy with: myoclonic-astatic seizures",
+        "Infantile spasms",
+        "Lennox-Gastaut syndrome",
+        "Salaam attacks",
+        "Symptomatic early myoclonic encephalopathy",
+        "West syndrome"
+    ],
+    "exclusion": [
+        "certain conditions originating in the perinatal period",
+        "certain infectious and parasitic diseases",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "Landau-Kleffner syndrome",
+        "seizure (convulsive) NOS",
+        "status epilepticus",
+        "Todd paralysis"
+    ],
+    "symptoms": [
+        "seizures",
+        "staring episodes",
+        "confusion",
+        "muscle spasms",
+        "temporary memory loss"
+    ]
+}

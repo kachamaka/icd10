@@ -1,0 +1,31 @@
+{
+    "icd10code": "E32.0",
+    "type": "subcategory",
+    "title": "Persistent hyperplasia of thymus",
+    "chapter": "Endocrine, nutritional and metabolic diseases",
+    "chapterCode": "IV",
+    "block": "Disorders of other endocrine glands",
+    "blockCode": "E20-E35",
+    "category": "Diseases of thymus",
+    "categoryCode": "E32",
+    "subcategory": "E32.0",
+    "inclusion": [
+        "Hypertrophy of thymus"
+    ],
+    "exclusion": [
+        "complications of pregnancy, childbirth and the puerperium",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "transitory endocrine and metabolic disorders specific to fetus and newborn",
+        "galactorrhoea",
+        "gynaecomastia",
+        "Albright(-McCune)(-Sternberg) syndrome",
+        "progeria"
+    ],
+    "symptoms": [
+        "difficulty swallowing",
+        "shortness of breath",
+        "persistent cough",
+        "throat pain",
+        "hoarseness or voice changes"
+    ]
+}

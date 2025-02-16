@@ -1,0 +1,16 @@
+{
+  "type": "subcategory",
+  "chapterCode": "XVII",
+  "chapter": "Congenital malformations, deformations and chromosomal abnormalities",
+  "blockCode": "Q38-Q45",
+  "block": "Other congenital malformations of the digestive system",
+  "categoryCode": "Q43",
+  "category": "Other congenital malformations of intestine",
+  "subcategory": "Q43.5",
+  "title": "Ectopic anus",
+  "inclusion": null,
+  "exclusion": [
+    "inborn errors of metabolism"
+  ],
+  "children": null
+}

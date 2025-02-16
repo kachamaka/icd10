@@ -1,0 +1,20 @@
+{
+  "type": "category",
+  "chapterCode": "XX",
+  "chapter": "External causes of morbidity and mortality",
+  "blockCode": "X85-Y09",
+  "block": "Assault",
+  "categoryCode": "X94",
+  "category": "Assault by rifle, shotgun and larger firearm discharge",
+  "subcategory": "",
+  "title": "Assault by rifle, shotgun and larger firearm discharge",
+  "inclusion": [
+    "homicide",
+    "injuries inflicted by another person with intent to injure or kill, by any means"
+  ],
+  "exclusion": [
+    "injuries due to: legal intervention",
+    "injuries due to: operations of war"
+  ],
+  "children": null
+}

@@ -1,0 +1,25 @@
+{
+    "icd10code": "F66.2",
+    "type": "subcategory",
+    "title": "Sexual relationship disorder",
+    "chapter": "Mental and behavioural disorders",
+    "chapterCode": "V",
+    "block": "Disorders of adult personality and behaviour",
+    "blockCode": "F60-F69",
+    "category": "Psychological and behavioural disorders associated with sexual development and orientation",
+    "categoryCode": "F66",
+    "subcategory": "F66.2",
+    "inclusion": [
+        "disorders of psychological development"
+    ],
+    "exclusion": [
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified"
+    ],
+    "symptoms": [
+        "anxiety",
+        "depression",
+        "confusion",
+        "low self-esteem",
+        "difficulty in social relationships"
+    ]
+}

@@ -1,0 +1,16 @@
+{
+  "type": "subcategory",
+  "chapterCode": "II",
+  "chapter": "Neoplasms",
+  "blockCode": "C81-C96",
+  "block": "Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",
+  "categoryCode": "C91",
+  "category": "Lymphoid leukaemia",
+  "subcategory": "C91.6",
+  "title": "Prolymphocytic leukaemia of T-cell type",
+  "inclusion": null,
+  "exclusion": [
+    "secondary and unspecified neoplasm of lymph nodes"
+  ],
+  "children": null
+}

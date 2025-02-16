@@ -1,0 +1,33 @@
+{
+    "icd10code": "C44.5",
+    "type": "subcategory",
+    "title": "Malignant neoplasm: Skin of trunk",
+    "chapter": "Neoplasms",
+    "chapterCode": "II",
+    "block": "Melanoma and other malignant neoplasms of skin",
+    "blockCode": "C43-C44",
+    "category": "Other malignant neoplasms of skin",
+    "categoryCode": "C44",
+    "subcategory": "C44.5",
+    "inclusion": [
+        "malignant neoplasm of: sebaceous glands",
+        "malignant neoplasm of: sweat glands",
+        "Anal: margin",
+        "Anal: skin",
+        "Perianal skin",
+        "Skin of breast"
+    ],
+    "exclusion": [
+        "Kaposi sarcoma",
+        "malignant melanoma of skin",
+        "skin of genital organs",
+        "anus NOS"
+    ],
+    "symptoms": [
+        "continuous itching",
+        "changes in skin color",
+        "rapid growth of a skin spot",
+        "skin lesion bleeding",
+        "development of irregular borders on skin"
+    ]
+}

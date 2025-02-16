@@ -1,0 +1,40 @@
+{
+    "icd10code": "S45.1",
+    "type": "subcategory",
+    "title": "Injury of brachial artery",
+    "chapter": "Injury, poisoning and certain other consequences of external causes",
+    "chapterCode": "XIX",
+    "block": "Injuries to the shoulder and upper arm",
+    "blockCode": "S40-S49",
+    "category": "Injury of blood vessels at shoulder and upper arm level",
+    "categoryCode": "S45",
+    "subcategory": "S45.1",
+    "inclusion": [
+        "injuries of: axilla",
+        "injuries of: scapular region"
+    ],
+    "exclusion": [
+        "birth trauma",
+        "obstetric trauma",
+        "malunion of fracture",
+        "nonunion of fracture [pseudarthrosis]",
+        "pathological fracture",
+        "pathological fracture with osteoporosis",
+        "stress fracture",
+        "bilateral involvement of shoulder and upper arm",
+        "burns and corrosions",
+        "frostbite",
+        "injuries of: arm, level unspecified",
+        "injuries of: elbow",
+        "insect bite or sting, venomous",
+        "fracture of elbow NOS",
+        "radial nerve NOS"
+    ],
+    "symptoms": [
+        "pain",
+        "swelling",
+        "muscle weakness",
+        "limited range of motion",
+        "numbness"
+    ]
+}

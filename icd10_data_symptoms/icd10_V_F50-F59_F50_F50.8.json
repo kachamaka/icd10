@@ -1,0 +1,32 @@
+{
+    "icd10code": "F50.8",
+    "type": "subcategory",
+    "title": "Other eating disorders",
+    "chapter": "Mental and behavioural disorders",
+    "chapterCode": "V",
+    "block": "Behavioural syndromes associated with physiological disturbances and physical factors",
+    "blockCode": "F50-F59",
+    "category": "Eating disorders",
+    "categoryCode": "F50",
+    "subcategory": "F50.8",
+    "inclusion": [
+        "disorders of psychological development",
+        "Pica in adults",
+        "Psychogenic loss of appetite"
+    ],
+    "exclusion": [
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "anorexia NOS",
+        "feeding: difficulties and mismanagement",
+        "feeding: disorder of infancy or childhood",
+        "polyphagia",
+        "pica of infancy and childhood"
+    ],
+    "symptoms": [
+        "anxiety",
+        "abnormal eating habits",
+        "preoccupation with body weight",
+        "fear of gaining weight",
+        "distorted body image"
+    ]
+}

@@ -1,0 +1,47 @@
+{
+    "icd10code": "S37.7",
+    "type": "subcategory",
+    "title": "Injury of multiple pelvic organs",
+    "chapter": "Injury, poisoning and certain other consequences of external causes",
+    "chapterCode": "XIX",
+    "block": "Injuries to the abdomen, lower back, lumbar spine and pelvis",
+    "blockCode": "S30-S39",
+    "category": "Injury of urinary and pelvic organs",
+    "categoryCode": "S37",
+    "subcategory": "S37.7",
+    "inclusion": [
+        "abdominal wall",
+        "anus",
+        "buttock",
+        "external genitalia",
+        "flank",
+        "groin"
+    ],
+    "exclusion": [
+        "birth trauma",
+        "obstetric trauma",
+        "malunion of fracture",
+        "nonunion of fracture [pseudarthrosis]",
+        "pathological fracture",
+        "pathological fracture with osteoporosis",
+        "stress fracture",
+        "burns and corrosions",
+        "effects of foreign body in: anus and rectum",
+        "effects of foreign body in: genitourinary tract",
+        "effects of foreign body in: stomach, small intestine and colon",
+        "fracture of spine NOS",
+        "frostbite",
+        "injuries of: back NOS",
+        "injuries of: spinal cord NOS",
+        "injuries of: trunk NOS",
+        "insect bite or sting, venomous",
+        "aorta NOS"
+    ],
+    "symptoms": [
+        "lower abdominal pain",
+        "blood in urine",
+        "difficulty urinating",
+        "swelling in the pelvic area",
+        "tenderness to touch"
+    ]
+}

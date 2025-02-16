@@ -1,0 +1,21 @@
+{
+    "icd10code": "Z62.5",
+    "type": "subcategory",
+    "title": "Other problems related to neglect in upbringing",
+    "chapter": "Factors influencing health status and contact with health services",
+    "chapterCode": "XXI",
+    "block": "Persons with potential health hazards related to socioeconomic and psychosocial circumstances",
+    "blockCode": "Z55-Z65",
+    "category": "Other problems related to upbringing",
+    "categoryCode": "Z62",
+    "subcategory": "Z62.5",
+    "inclusion": [
+        "Lack of learning and play experience"
+    ],
+    "exclusion": [
+        "maltreatment syndromes"
+    ],
+    "symptoms": [
+        "asymptomatic"
+    ]
+}

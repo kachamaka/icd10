@@ -1,0 +1,22 @@
+{
+    "icd10code": "Z36.8",
+    "type": "subcategory",
+    "title": "Other antenatal screening",
+    "chapter": "Factors influencing health status and contact with health services",
+    "chapterCode": "XXI",
+    "block": "Persons encountering health services in circumstances related to reproduction",
+    "blockCode": "Z30-Z39",
+    "category": "Antenatal screening",
+    "categoryCode": "Z36",
+    "subcategory": "Z36.8",
+    "inclusion": [
+        "Screening for haemoglobinopathy"
+    ],
+    "exclusion": [
+        "abnormal findings on antenatal screening of mother",
+        "routine prenatal care"
+    ],
+    "symptoms": [
+        "asymptomatic"
+    ]
+}

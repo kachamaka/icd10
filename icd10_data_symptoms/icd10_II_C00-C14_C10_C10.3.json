@@ -1,0 +1,23 @@
+{
+    "icd10code": "C10.3",
+    "type": "subcategory",
+    "title": "Malignant neoplasm: Posterior wall of oropharynx",
+    "chapter": "Neoplasms",
+    "chapterCode": "II",
+    "block": "Malignant neoplasms of lip, oral cavity and pharynx",
+    "blockCode": "C00-C14",
+    "category": "Malignant neoplasm of oropharynx",
+    "categoryCode": "C10",
+    "subcategory": "C10.3",
+    "inclusion": null,
+    "exclusion": [
+        "tonsil"
+    ],
+    "symptoms": [
+        "difficulty swallowing",
+        "persistent pain in neck",
+        "unexplained weight loss",
+        "hoarseness or voice changes",
+        "ear pain"
+    ]
+}

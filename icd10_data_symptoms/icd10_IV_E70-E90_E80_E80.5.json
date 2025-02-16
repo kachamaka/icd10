@@ -1,0 +1,33 @@
+{
+    "icd10code": "E80.5",
+    "type": "subcategory",
+    "title": "Crigler-Najjar syndrome",
+    "chapter": "Endocrine, nutritional and metabolic diseases",
+    "chapterCode": "IV",
+    "block": "Metabolic disorders",
+    "blockCode": "E70-E90",
+    "category": "Disorders of porphyrin and bilirubin metabolism",
+    "categoryCode": "E80",
+    "subcategory": "E80.5",
+    "inclusion": [
+        "defects of catalase and peroxidase"
+    ],
+    "exclusion": [
+        "complications of pregnancy, childbirth and the puerperium",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "transitory endocrine and metabolic disorders specific to fetus and newborn",
+        "androgen resistance syndrome",
+        "congenital adrenal hyperplasia",
+        "Ehlers-Danlos syndrome",
+        "haemolytic anaemias due to enzyme disorders",
+        "Marfan syndrome",
+        "5-alpha-reductase deficiency"
+    ],
+    "symptoms": [
+        "jaundice",
+        "dark urine",
+        "pale stools",
+        "itchy skin",
+        "abdominal pain"
+    ]
+}

@@ -1,0 +1,19 @@
+{
+  "type": "subcategory",
+  "chapterCode": "II",
+  "chapter": "Neoplasms",
+  "blockCode": "C69-C72",
+  "block": "Malignant neoplasms of eye, brain and other parts of central nervous system",
+  "categoryCode": "C72",
+  "category": "Malignant neoplasm of spinal cord, cranial nerves and other parts of central nervous system",
+  "subcategory": "C72.2",
+  "title": "Malignant neoplasm: Olfactory nerve",
+  "inclusion": [
+    "Olfactory bulb"
+  ],
+  "exclusion": [
+    "meninges",
+    "peripheral nerves and autonomic nervous system"
+  ],
+  "children": null
+}

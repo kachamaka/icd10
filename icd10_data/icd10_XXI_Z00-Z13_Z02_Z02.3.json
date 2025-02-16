@@ -1,0 +1,17 @@
+{
+  "type": "subcategory",
+  "chapterCode": "XXI",
+  "chapter": "Factors influencing health status and contact with health services",
+  "blockCode": "Z00-Z13",
+  "block": "Persons encountering health services for examination and investigation",
+  "categoryCode": "Z02",
+  "category": "Examination and encounter for administrative purposes",
+  "subcategory": "Z02.3",
+  "title": "Examination for recruitment to armed forces",
+  "inclusion": null,
+  "exclusion": [
+    "examinations related to pregnancy and reproduction",
+    "general health check-up of armed forces"
+  ],
+  "children": null
+}

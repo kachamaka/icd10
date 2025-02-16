@@ -1,0 +1,28 @@
+{
+    "icd10code": "D31.9",
+    "type": "subcategory",
+    "title": "Benign neoplasm: Eye, unspecified",
+    "chapter": "Neoplasms",
+    "chapterCode": "II",
+    "block": "Benign neoplasms",
+    "blockCode": "D10-D36",
+    "category": "Benign neoplasm of eye and adnexa",
+    "categoryCode": "D31",
+    "subcategory": "D31.9",
+    "inclusion": [
+        "morphology codes with behaviour code /0",
+        "Eyeball"
+    ],
+    "exclusion": [
+        "connective tissue of eyelid",
+        "optic nerve",
+        "skin of eyelid"
+    ],
+    "symptoms": [
+        "decreased vision",
+        "bulging eyes",
+        "eye pain",
+        "headache",
+        "double vision"
+    ]
+}

@@ -1,0 +1,33 @@
+{
+    "icd10code": "K02.4",
+    "type": "subcategory",
+    "title": "Odontoclasia",
+    "chapter": "Diseases of the digestive system",
+    "chapterCode": "XI",
+    "block": "Diseases of oral cavity, salivary glands and jaws",
+    "blockCode": "K00-K14",
+    "category": "Dental caries",
+    "categoryCode": "K02",
+    "subcategory": "K02.4",
+    "inclusion": [
+        "Infantile melanodontia",
+        "Melanodontoclasia"
+    ],
+    "exclusion": [
+        "certain conditions originating in the perinatal period",
+        "certain infectious and parasitic diseases",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified"
+    ],
+    "symptoms": [
+        "tooth pain",
+        "sensitivity to hot or cold",
+        "visible pits or holes in teeth",
+        "discoloration of teeth",
+        "difficulty chewing"
+    ]
+}

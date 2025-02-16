@@ -1,0 +1,46 @@
+{
+    "icd10code": "T79.4",
+    "type": "subcategory",
+    "title": "Traumatic shock",
+    "chapter": "Injury, poisoning and certain other consequences of external causes",
+    "chapterCode": "XIX",
+    "block": "Certain early complications of trauma",
+    "blockCode": "T79-T79",
+    "category": "Certain early complications of trauma, not elsewhere classified",
+    "categoryCode": "T79",
+    "subcategory": "T79.4",
+    "inclusion": [
+        "Shock (immediate)(delayed) following injury"
+    ],
+    "exclusion": [
+        "birth trauma",
+        "obstetric trauma",
+        "malunion of fracture",
+        "nonunion of fracture [pseudarthrosis]",
+        "pathological fracture",
+        "pathological fracture with osteoporosis",
+        "stress fracture",
+        "complications of surgical and medical care NEC",
+        "respiratory distress: syndrome of adult",
+        "respiratory distress: in newborn",
+        "when occurring during or following medical procedures",
+        "shock: anaesthetic",
+        "shock: anaphylactic: NOS",
+        "shock: anaphylactic: due to: adverse food reaction",
+        "shock: anaphylactic: due to: correct medicinal substance properly administered",
+        "shock: anaphylactic: due to: serum",
+        "shock: complicating abortion or ectopic or molar pregnancy",
+        "shock: electric",
+        "shock: lightning",
+        "shock: nontraumatic NEC",
+        "shock: obstetric",
+        "shock: postoperative"
+    ],
+    "symptoms": [
+        "pain",
+        "swelling",
+        "discoloration",
+        "tissue damage",
+        "impaired function"
+    ]
+}

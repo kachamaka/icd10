@@ -1,0 +1,25 @@
+{
+    "icd10code": "Z02.5",
+    "type": "subcategory",
+    "title": "Examination for participation in sport",
+    "chapter": "Factors influencing health status and contact with health services",
+    "chapterCode": "XXI",
+    "block": "Persons encountering health services for examination and investigation",
+    "blockCode": "Z00-Z13",
+    "category": "Examination and encounter for administrative purposes",
+    "categoryCode": "Z02",
+    "subcategory": "Z02.5",
+    "inclusion": null,
+    "exclusion": [
+        "examinations related to pregnancy and reproduction",
+        "blood-alcohol and blood-drug test",
+        "general health check-up of sports teams"
+    ],
+    "symptoms": [
+        "routine screening",
+        "fatigue",
+        "dizziness",
+        "stress",
+        "anxiety"
+    ]
+}

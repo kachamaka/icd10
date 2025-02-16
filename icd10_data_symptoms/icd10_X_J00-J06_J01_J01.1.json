@@ -1,0 +1,38 @@
+{
+    "icd10code": "J01.1",
+    "type": "subcategory",
+    "title": "Acute frontal sinusitis",
+    "chapter": "Diseases of the respiratory system",
+    "chapterCode": "X",
+    "block": "Acute upper respiratory infections",
+    "blockCode": "J00-J06",
+    "category": "Acute sinusitis",
+    "categoryCode": "J01",
+    "subcategory": "J01.1",
+    "inclusion": [
+        "abscess acute, of sinus (accessory)(nasal)",
+        "empyema acute, of sinus (accessory)(nasal)",
+        "infection acute, of sinus (accessory)(nasal)",
+        "inflammation acute, of sinus (accessory)(nasal)",
+        "suppuration acute, of sinus (accessory)(nasal)"
+    ],
+    "exclusion": [
+        "certain conditions originating in the perinatal period",
+        "certain infectious and parasitic diseases",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "chronic obstructive pulmonary disease with acute exacerbation NOS",
+        "acute respiratory infection NOS"
+    ],
+    "symptoms": [
+        "facial pain",
+        "nasal congestion",
+        "postnasal drip",
+        "headache",
+        "fever"
+    ]
+}

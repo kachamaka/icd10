@@ -1,0 +1,22 @@
+{
+  "type": "subcategory",
+  "chapterCode": "II",
+  "chapter": "Neoplasms",
+  "blockCode": "C81-C96",
+  "block": "Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",
+  "categoryCode": "C95",
+  "category": "Leukaemia of unspecified cell type",
+  "subcategory": "C95.0",
+  "title": "Acute leukaemia of unspecified cell type",
+  "inclusion": [
+    "Acute bilineal leukaemia",
+    "Acute mixed lineage leukaemia",
+    "Biphenotypic acute leukaemia",
+    "Stem cell leukaemia of unclear lineage"
+  ],
+  "exclusion": [
+    "secondary and unspecified neoplasm of lymph nodes",
+    "acute exacerbation of unspecified chronic leukaemia"
+  ],
+  "children": null
+}

@@ -1,0 +1,50 @@
+{
+    "icd10code": "N11.1",
+    "type": "subcategory",
+    "title": "Chronic obstructive pyelonephritis",
+    "chapter": "Diseases of the genitourinary system",
+    "chapterCode": "XIV",
+    "block": "Renal tubulo-interstitial diseases",
+    "blockCode": "N10-N16",
+    "category": "Chronic tubulo-interstitial nephritis",
+    "categoryCode": "N11",
+    "subcategory": "N11.1",
+    "inclusion": [
+        "pyelonephritis",
+        "chronic: infectious interstitial nephritis",
+        "chronic: pyelitis",
+        "chronic: pyelonephritis",
+        "Pyelonephritis (chronic) associated with: anomaly of pelviureteric junction",
+        "Pyelonephritis (chronic) associated with: anomaly of pyeloureteric junction",
+        "Pyelonephritis (chronic) associated with: anomaly of ureter",
+        "Pyelonephritis (chronic) associated with: kinking of pelviureteric junction",
+        "Pyelonephritis (chronic) associated with: kinking of pyeloureteric junction",
+        "Pyelonephritis (chronic) associated with: kinking of ureter",
+        "Pyelonephritis (chronic) associated with: obstruction of pelviureteric junction",
+        "Pyelonephritis (chronic) associated with: obstruction of pyeloureteric junction",
+        "Pyelonephritis (chronic) associated with: obstruction of ureter",
+        "Pyelonephritis (chronic) associated with: stricture of pelviureteric junction",
+        "Pyelonephritis (chronic) associated with: stricture of pyeloureteric junction",
+        "Pyelonephritis (chronic) associated with: stricture of ureter"
+    ],
+    "exclusion": [
+        "certain conditions originating in the perinatal period",
+        "certain infectious and parasitic diseases",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "pyeloureteritis cystica",
+        "calculous pyelonephritis",
+        "obstructive uropathy"
+    ],
+    "symptoms": [
+        "pelvic pain",
+        "frequent urination",
+        "burning sensation",
+        "cloudy urine",
+        "back pain"
+    ]
+}

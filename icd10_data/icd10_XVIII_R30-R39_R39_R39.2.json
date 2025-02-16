@@ -1,0 +1,19 @@
+{
+  "type": "subcategory",
+  "chapterCode": "XVIII",
+  "chapter": "Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+  "blockCode": "R30-R39",
+  "block": "Symptoms and signs involving the urinary system",
+  "categoryCode": "R39",
+  "category": "Other symptoms and signs involving the urinary system",
+  "subcategory": "R39.2",
+  "title": "Extrarenal uraemia",
+  "inclusion": [
+    "Prerenal uraemia"
+  ],
+  "exclusion": [
+    "abnormal findings on antenatal screening of mother",
+    "certain conditions originating in the perinatal period"
+  ],
+  "children": null
+}

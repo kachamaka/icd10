@@ -1,0 +1,38 @@
+{
+    "icd10code": "M92.9",
+    "type": "subcategory",
+    "title": "Juvenile osteochondrosis, unspecified",
+    "chapter": "Diseases of the musculoskeletal system and connective tissue",
+    "chapterCode": "XIII",
+    "block": "Chondropathies",
+    "blockCode": "M91-M94",
+    "category": "Other juvenile osteochondrosis",
+    "categoryCode": "M92",
+    "subcategory": "M92.9",
+    "inclusion": [
+        "Apophysitis specified as juvenile, of unspecified site",
+        "Epiphysitis specified as juvenile, of unspecified site",
+        "Osteochondritis specified as juvenile, of unspecified site",
+        "Osteochondrosis specified as juvenile, of unspecified site"
+    ],
+    "exclusion": [
+        "certain conditions originating in the perinatal period",
+        "certain disorders of the temporomandibular joint",
+        "certain infectious and parasitic diseases",
+        "compartment syndrome",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "stress fracture of vertebra"
+    ],
+    "symptoms": [
+        "joint pain",
+        "swelling",
+        "tenderness",
+        "limited motion",
+        "stiffness"
+    ]
+}

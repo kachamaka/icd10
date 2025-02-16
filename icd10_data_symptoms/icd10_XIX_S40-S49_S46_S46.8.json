@@ -1,0 +1,39 @@
+{
+    "icd10code": "S46.8",
+    "type": "subcategory",
+    "title": "Injury of other muscles and tendons at shoulder and upper arm level",
+    "chapter": "Injury, poisoning and certain other consequences of external causes",
+    "chapterCode": "XIX",
+    "block": "Injuries to the shoulder and upper arm",
+    "blockCode": "S40-S49",
+    "category": "Injury of muscle and tendon at shoulder and upper arm level",
+    "categoryCode": "S46",
+    "subcategory": "S46.8",
+    "inclusion": [
+        "injuries of: axilla",
+        "injuries of: scapular region"
+    ],
+    "exclusion": [
+        "birth trauma",
+        "obstetric trauma",
+        "malunion of fracture",
+        "nonunion of fracture [pseudarthrosis]",
+        "pathological fracture",
+        "pathological fracture with osteoporosis",
+        "stress fracture",
+        "bilateral involvement of shoulder and upper arm",
+        "burns and corrosions",
+        "frostbite",
+        "injuries of: arm, level unspecified",
+        "injuries of: elbow",
+        "insect bite or sting, venomous",
+        "fracture of elbow NOS"
+    ],
+    "symptoms": [
+        "pain",
+        "swelling",
+        "limited range of motion",
+        "weakness",
+        "bruising"
+    ]
+}

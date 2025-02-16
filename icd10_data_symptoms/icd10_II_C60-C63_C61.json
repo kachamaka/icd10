@@ -1,0 +1,23 @@
+{
+    "icd10code": "C61",
+    "type": "category",
+    "title": "Malignant neoplasm of prostate",
+    "chapter": "Neoplasms",
+    "chapterCode": "II",
+    "block": "Malignant neoplasms of male genital organs",
+    "blockCode": "C60-C63",
+    "category": "Malignant neoplasm of prostate",
+    "categoryCode": "C61",
+    "subcategory": "",
+    "inclusion": [
+        "skin of male genital organs"
+    ],
+    "exclusion": null,
+    "symptoms": [
+        "difficulty urinating",
+        "blood in urine",
+        "pelvic pain",
+        "erectile dysfunction",
+        "bone pain"
+    ]
+}

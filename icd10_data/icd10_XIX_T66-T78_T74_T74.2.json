@@ -1,0 +1,22 @@
+{
+  "type": "subcategory",
+  "chapterCode": "XIX",
+  "chapter": "Injury, poisoning and certain other consequences of external causes",
+  "blockCode": "T66-T78",
+  "block": "Other and unspecified effects of external causes",
+  "categoryCode": "T74",
+  "category": "Maltreatment syndromes",
+  "subcategory": "T74.2",
+  "title": "Sexual abuse",
+  "inclusion": null,
+  "exclusion": [
+    "birth trauma",
+    "obstetric trauma",
+    "malunion of fracture",
+    "nonunion of fracture [pseudarthrosis]",
+    "pathological fracture",
+    "pathological fracture with osteoporosis",
+    "stress fracture"
+  ],
+  "children": null
+}

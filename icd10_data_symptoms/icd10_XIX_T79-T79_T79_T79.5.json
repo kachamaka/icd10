@@ -1,0 +1,36 @@
+{
+    "icd10code": "T79.5",
+    "type": "subcategory",
+    "title": "Traumatic anuria",
+    "chapter": "Injury, poisoning and certain other consequences of external causes",
+    "chapterCode": "XIX",
+    "block": "Certain early complications of trauma",
+    "blockCode": "T79-T79",
+    "category": "Certain early complications of trauma, not elsewhere classified",
+    "categoryCode": "T79",
+    "subcategory": "T79.5",
+    "inclusion": [
+        "Crush syndrome",
+        "Renal failure following crushing"
+    ],
+    "exclusion": [
+        "birth trauma",
+        "obstetric trauma",
+        "malunion of fracture",
+        "nonunion of fracture [pseudarthrosis]",
+        "pathological fracture",
+        "pathological fracture with osteoporosis",
+        "stress fracture",
+        "complications of surgical and medical care NEC",
+        "respiratory distress: syndrome of adult",
+        "respiratory distress: in newborn",
+        "when occurring during or following medical procedures"
+    ],
+    "symptoms": [
+        "pain",
+        "swelling",
+        "discoloration",
+        "decreased range of motion",
+        "tissue necrosis"
+    ]
+}

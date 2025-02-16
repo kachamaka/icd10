@@ -1,0 +1,33 @@
+{
+    "icd10code": "L43.1",
+    "type": "subcategory",
+    "title": "Bullous lichen planus",
+    "chapter": "Diseases of the skin and subcutaneous tissue",
+    "chapterCode": "XII",
+    "block": "Papulosquamous disorders",
+    "blockCode": "L40-L45",
+    "category": "Lichen planus",
+    "categoryCode": "L43",
+    "subcategory": "L43.1",
+    "inclusion": null,
+    "exclusion": [
+        "certain conditions originating in the perinatal period",
+        "certain infectious and parasitic diseases",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "lipomelanotic reticulosis",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "systemic connective tissue disorders",
+        "decubitus [pressure] ulcer and pressure area"
+    ],
+    "symptoms": [
+        "lesions",
+        "itching",
+        "redness",
+        "scaling",
+        "rash"
+    ]
+}

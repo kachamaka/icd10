@@ -1,0 +1,31 @@
+{
+    "icd10code": "K81.1",
+    "type": "subcategory",
+    "title": "Chronic cholecystitis",
+    "chapter": "Diseases of the digestive system",
+    "chapterCode": "XI",
+    "block": "Disorders of gallbladder, biliary tract and pancreas",
+    "blockCode": "K80-K87",
+    "category": "Cholecystitis",
+    "categoryCode": "K81",
+    "subcategory": "K81.1",
+    "inclusion": null,
+    "exclusion": [
+        "certain conditions originating in the perinatal period",
+        "certain infectious and parasitic diseases",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "with cholelithiasis"
+    ],
+    "symptoms": [
+        "abdominal pain",
+        "fever",
+        "nausea",
+        "vomiting",
+        "localized tenderness"
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "icd10code": "R45.7",
+    "type": "subcategory",
+    "title": "State of emotional shock and stress, unspecified",
+    "chapter": "Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+    "chapterCode": "XVIII",
+    "block": "Symptoms and signs involving cognition, perception, emotional state and behaviour",
+    "blockCode": "R40-R46",
+    "category": "Symptoms and signs involving emotional state",
+    "categoryCode": "R45",
+    "subcategory": "R45.7",
+    "inclusion": null,
+    "exclusion": [
+        "abnormal findings on antenatal screening of mother",
+        "certain conditions originating in the perinatal period",
+        "those constituting part of a pattern of mental disorder"
+    ],
+    "symptoms": [
+        "agitation",
+        "emotional distress",
+        "irritability",
+        "restlessness",
+        "excessive worry"
+    ]
+}

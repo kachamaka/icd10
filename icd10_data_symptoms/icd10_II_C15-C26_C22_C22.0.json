@@ -1,0 +1,27 @@
+{
+    "icd10code": "C22.0",
+    "type": "subcategory",
+    "title": "Malignant neoplasm: Liver cell carcinoma",
+    "chapter": "Neoplasms",
+    "chapterCode": "II",
+    "block": "Malignant neoplasms of digestive organs",
+    "blockCode": "C15-C26",
+    "category": "Malignant neoplasm of liver and intrahepatic bile ducts",
+    "categoryCode": "C22",
+    "subcategory": "C22.0",
+    "inclusion": [
+        "Hepatocellular carcinoma",
+        "Hepatoma"
+    ],
+    "exclusion": [
+        "biliary tract NOS",
+        "secondary malignant neoplasm of liver"
+    ],
+    "symptoms": [
+        "abdominal pain",
+        "jaundice",
+        "loss of appetite",
+        "weight loss",
+        "itchy skin"
+    ]
+}

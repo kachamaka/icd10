@@ -1,0 +1,24 @@
+{
+    "icd10code": "Q39.4",
+    "type": "subcategory",
+    "title": "Congenital oesophageal web",
+    "chapter": "Congenital malformations, deformations and chromosomal abnormalities",
+    "chapterCode": "XVII",
+    "block": "Other congenital malformations of the digestive system",
+    "blockCode": "Q38-Q45",
+    "category": "Congenital malformations of oesophagus",
+    "categoryCode": "Q39",
+    "subcategory": "Q39.4",
+    "inclusion": null,
+    "exclusion": [
+        "inborn errors of metabolism",
+        "oesophageal web (acquired)"
+    ],
+    "symptoms": [
+        "dysphagia",
+        "regurgitation of food",
+        "chronic cough",
+        "recurrent aspiration",
+        "failure to thrive"
+    ]
+}

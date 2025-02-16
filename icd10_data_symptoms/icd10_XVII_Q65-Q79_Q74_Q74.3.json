@@ -1,0 +1,26 @@
+{
+    "icd10code": "Q74.3",
+    "type": "subcategory",
+    "title": "Arthrogryposis multiplex congenita",
+    "chapter": "Congenital malformations, deformations and chromosomal abnormalities",
+    "chapterCode": "XVII",
+    "block": "Congenital malformations and deformations of the musculoskeletal system",
+    "blockCode": "Q65-Q79",
+    "category": "Other congenital malformations of limb(s)",
+    "categoryCode": "Q74",
+    "subcategory": "Q74.3",
+    "inclusion": null,
+    "exclusion": [
+        "inborn errors of metabolism",
+        "polydactyly",
+        "reduction defect of limb",
+        "syndactyly"
+    ],
+    "symptoms": [
+        "limited joint mobility",
+        "limb abnormalities",
+        "abnormal gait",
+        "muscle stiffness",
+        "restricted range of motion"
+    ]
+}

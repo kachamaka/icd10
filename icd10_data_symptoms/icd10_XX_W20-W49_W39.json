@@ -1,0 +1,21 @@
+{
+    "icd10code": "W39",
+    "type": "category",
+    "title": "Discharge of firework",
+    "chapter": "External causes of morbidity and mortality",
+    "chapterCode": "XX",
+    "block": "Exposure to inanimate mechanical forces",
+    "blockCode": "W20-W49",
+    "category": "Discharge of firework",
+    "categoryCode": "W39",
+    "subcategory": "",
+    "inclusion": null,
+    "exclusion": [
+        "assault",
+        "contact or collision with animals or persons",
+        "intentional self-harm"
+    ],
+    "symptoms": [
+        "asymptomatic"
+    ]
+}

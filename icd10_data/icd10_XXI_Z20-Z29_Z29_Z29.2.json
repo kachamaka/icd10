@@ -1,0 +1,20 @@
+{
+  "type": "subcategory",
+  "chapterCode": "XXI",
+  "chapter": "Factors influencing health status and contact with health services",
+  "blockCode": "Z20-Z29",
+  "block": "Persons with potential health hazards related to communicable diseases",
+  "categoryCode": "Z29",
+  "category": "Need for other prophylactic measures",
+  "subcategory": "Z29.2",
+  "title": "Other prophylactic chemotherapy",
+  "inclusion": [
+    "Chemoprophylaxis",
+    "Prophylactic antibiotic therapy"
+  ],
+  "exclusion": [
+    "desensitization to allergens",
+    "prophylactic surgery"
+  ],
+  "children": null
+}

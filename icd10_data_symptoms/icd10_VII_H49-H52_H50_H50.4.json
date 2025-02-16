@@ -1,0 +1,36 @@
+{
+    "icd10code": "H50.4",
+    "type": "subcategory",
+    "title": "Other and unspecified heterotropia",
+    "chapter": "Diseases of the eye and adnexa",
+    "chapterCode": "VII",
+    "block": "Disorders of ocular muscles, binocular movement, accommodation and refraction",
+    "blockCode": "H49-H52",
+    "category": "Other strabismus",
+    "categoryCode": "H50",
+    "subcategory": "H50.4",
+    "inclusion": [
+        "Concomitant strabismus NOS",
+        "Cyclotropia",
+        "Microtropia",
+        "Monofixation syndrome"
+    ],
+    "exclusion": [
+        "certain conditions originating in the perinatal period",
+        "certain infectious and parasitic diseases",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "nystagmus and other irregular eye movements"
+    ],
+    "symptoms": [
+        "double vision",
+        "eye strain",
+        "headaches",
+        "difficulty focusing",
+        "blurred vision"
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "icd10code": "X85",
+    "type": "category",
+    "title": "Assault by drugs, medicaments and biological substances",
+    "chapter": "External causes of morbidity and mortality",
+    "chapterCode": "XX",
+    "block": "Assault",
+    "blockCode": "X85-Y09",
+    "category": "Assault by drugs, medicaments and biological substances",
+    "categoryCode": "X85",
+    "subcategory": "",
+    "inclusion": [
+        "homicide",
+        "injuries inflicted by another person with intent to injure or kill, by any means",
+        "homicidal poisoning by (any): biological substance",
+        "homicidal poisoning by (any): drug",
+        "homicidal poisoning by (any): medicament"
+    ],
+    "exclusion": [
+        "injuries due to: legal intervention",
+        "injuries due to: operations of war"
+    ],
+    "symptoms": [
+        "asymptomatic"
+    ]
+}

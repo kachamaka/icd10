@@ -1,0 +1,26 @@
+{
+    "icd10code": "X18",
+    "type": "category",
+    "title": "Contact with other hot metals",
+    "chapter": "External causes of morbidity and mortality",
+    "chapterCode": "XX",
+    "block": "Contact with heat and hot substances",
+    "blockCode": "X10-X19",
+    "category": "Contact with other hot metals",
+    "categoryCode": "X18",
+    "subcategory": "",
+    "inclusion": [
+        "liquid metal"
+    ],
+    "exclusion": [
+        "exposure to: excessive natural heat",
+        "exposure to: fire and flames"
+    ],
+    "symptoms": [
+        "skin redness",
+        "blistering",
+        "swelling",
+        "pain",
+        "peeling skin"
+    ]
+}

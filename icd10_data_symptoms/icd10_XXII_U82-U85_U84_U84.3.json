@@ -1,0 +1,23 @@
+{
+    "icd10code": "U84.3",
+    "type": "subcategory",
+    "title": "Resistance to tuberculostatic drug(s)",
+    "chapter": "Codes for special purposes",
+    "chapterCode": "XXII",
+    "block": "Resistance to antimicrobial and antineoplastic drugs",
+    "blockCode": "U82-U85",
+    "category": "Resistance to other antimicrobial drugs",
+    "categoryCode": "U84",
+    "subcategory": "U84.3",
+    "inclusion": null,
+    "exclusion": [
+        "Resistance to antibiotics"
+    ],
+    "symptoms": [
+        "chronic cough",
+        "shortness of breath",
+        "fatigue",
+        "recurrent lung infections",
+        "weight loss"
+    ]
+}

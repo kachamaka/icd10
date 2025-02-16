@@ -1,0 +1,42 @@
+{
+    "icd10code": "A18.4",
+    "type": "subcategory",
+    "title": "Tuberculosis of skin and subcutaneous tissue",
+    "chapter": "Certain infectious and parasitic diseases",
+    "chapterCode": "I",
+    "block": "Tuberculosis",
+    "blockCode": "A15-A19",
+    "category": "Tuberculosis of other organs",
+    "categoryCode": "A18",
+    "subcategory": "A18.4",
+    "inclusion": [
+        "diseases generally recognized as communicable or transmissible",
+        "infections due to Mycobacterium tuberculosis and Mycobacterium bovis",
+        "Erythema induratum, tuberculous",
+        "Lupus: exedens",
+        "Lupus: vulgaris: NOS",
+        "Lupus: vulgaris: of eyelid",
+        "Scrofuloderma"
+    ],
+    "exclusion": [
+        "carrier or suspected carrier of infectious disease",
+        "certain localized infections - see body system-related chapters",
+        "infectious and parasitic diseases complicating pregnancy, childbirth and the puerperium [except obstetrical tetanus]",
+        "infectious and parasitic diseases specific to the perinatal period [except tetanus neonatorum, whooping cough, congenital syphilis, perinatal gonococcal infection and perinatal human immunodeficiency virus [HIV] disease]",
+        "influenza and other acute respiratory infections",
+        "congenital tuberculosis",
+        "human immunodeficieny [HIV] disease resulting in tuberculosis",
+        "pneumoconiosis associated with tuberculosis",
+        "sequelae of tuberculosis",
+        "silicotuberculosis",
+        "lupus erythematosus",
+        "lupus erythematosus systemic"
+    ],
+    "symptoms": [
+        "persistent cough",
+        "chest pain",
+        "shortness of breath",
+        "weight loss",
+        "night sweats"
+    ]
+}

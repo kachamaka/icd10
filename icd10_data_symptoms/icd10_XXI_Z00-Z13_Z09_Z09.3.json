@@ -1,0 +1,28 @@
+{
+    "icd10code": "Z09.3",
+    "type": "subcategory",
+    "title": "Follow-up examination after psychotherapy",
+    "chapter": "Factors influencing health status and contact with health services",
+    "chapterCode": "XXI",
+    "block": "Persons encountering health services for examination and investigation",
+    "blockCode": "Z00-Z13",
+    "category": "Follow-up examination after treatment for conditions other than malignant neoplasms",
+    "categoryCode": "Z09",
+    "subcategory": "Z09.3",
+    "inclusion": [
+        "medical surveillance following treatment"
+    ],
+    "exclusion": [
+        "examinations related to pregnancy and reproduction",
+        "follow-up medical care and convalescence",
+        "medical surveillance following treatment for malignant neoplasms",
+        "surveillance of: contraception",
+        "surveillance of: prosthetic and other medical devices"
+    ],
+    "symptoms": [
+        "residual symptoms",
+        "unresolved condition",
+        "incomplete recovery",
+        "ongoing monitoring"
+    ]
+}

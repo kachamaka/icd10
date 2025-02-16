@@ -1,0 +1,19 @@
+{
+    "icd10code": "Z35.4",
+    "type": "subcategory",
+    "title": "Supervision of pregnancy with grand multiparity",
+    "chapter": "Factors influencing health status and contact with health services",
+    "chapterCode": "XXI",
+    "block": "Persons encountering health services in circumstances related to reproduction",
+    "blockCode": "Z30-Z39",
+    "category": "Supervision of high-risk pregnancy",
+    "categoryCode": "Z35",
+    "subcategory": "Z35.4",
+    "inclusion": null,
+    "exclusion": [
+        "multiparity without current pregnancy"
+    ],
+    "symptoms": [
+        "asymptomatic"
+    ]
+}

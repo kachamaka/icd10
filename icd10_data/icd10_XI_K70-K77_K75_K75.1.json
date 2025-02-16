@@ -1,0 +1,36 @@
+{
+  "type": "subcategory",
+  "chapterCode": "XI",
+  "chapter": "Diseases of the digestive system",
+  "blockCode": "K70-K77",
+  "block": "Diseases of liver",
+  "categoryCode": "K75",
+  "category": "Other inflammatory liver diseases",
+  "subcategory": "K75.1",
+  "title": "Phlebitis of portal vein",
+  "inclusion": [
+    "Pylephlebitis"
+  ],
+  "exclusion": [
+    "certain conditions originating in the perinatal period",
+    "certain infectious and parasitic diseases",
+    "complications of pregnancy, childbirth and the puerperium",
+    "congenital malformations, deformations and chromosomal abnormalities",
+    "endocrine, nutritional and metabolic diseases",
+    "injury, poisoning and certain other consequences of external causes",
+    "neoplasms",
+    "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+    "haemochromatosis",
+    "jaundice NOS",
+    "Reye syndrome",
+    "viral hepatitis",
+    "Wilson disease",
+    "chronic hepatitis NEC",
+    "hepatitis: acute or subacute: NOS",
+    "hepatitis: acute or subacute: Non-viral",
+    "hepatitis: viral",
+    "toxic liver disease",
+    "pylephlebitic liver abscess"
+  ],
+  "children": null
+}

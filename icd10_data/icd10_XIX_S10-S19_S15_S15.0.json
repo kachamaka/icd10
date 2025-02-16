@@ -1,0 +1,37 @@
+{
+  "type": "subcategory",
+  "chapterCode": "XIX",
+  "chapter": "Injury, poisoning and certain other consequences of external causes",
+  "blockCode": "S10-S19",
+  "block": "Injuries to the neck",
+  "categoryCode": "S15",
+  "category": "Injury of blood vessels at neck level",
+  "subcategory": "S15.0",
+  "title": "Injury of carotid artery",
+  "inclusion": [
+    "injuries of: nape",
+    "injuries of: supraclavicular region",
+    "injuries of: throat",
+    "Carotid artery (common) (external) (internal)"
+  ],
+  "exclusion": [
+    "birth trauma",
+    "obstetric trauma",
+    "malunion of fracture",
+    "nonunion of fracture [pseudarthrosis]",
+    "pathological fracture",
+    "pathological fracture with osteoporosis",
+    "stress fracture",
+    "burns and corrosions",
+    "effects of foreign body in: larynx",
+    "effects of foreign body in: oesophagus",
+    "effects of foreign body in: pharynx",
+    "effects of foreign body in: trachea",
+    "fracture of spine NOS",
+    "frostbite",
+    "injury of: spinal cord NOS",
+    "injury of: trunk NOS",
+    "insect bite or sting, venomous"
+  ],
+  "children": null
+}

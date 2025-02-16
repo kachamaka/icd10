@@ -1,0 +1,33 @@
+{
+    "icd10code": "H42.0",
+    "type": "subcategory",
+    "title": "Glaucoma in endocrine, nutritional and metabolic diseases",
+    "chapter": "Diseases of the eye and adnexa",
+    "chapterCode": "VII",
+    "block": "Glaucoma",
+    "blockCode": "H40-H42",
+    "category": "Glaucoma in diseases classified elsewhere",
+    "categoryCode": "H42",
+    "subcategory": "H42.0",
+    "inclusion": [
+        "Glaucoma in: amyloidosis",
+        "Glaucoma in: Lowe syndrome"
+    ],
+    "exclusion": [
+        "certain conditions originating in the perinatal period",
+        "certain infectious and parasitic diseases",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified"
+    ],
+    "symptoms": [
+        "blurred vision",
+        "eye pain",
+        "halos around lights",
+        "headache",
+        "nausea"
+    ]
+}

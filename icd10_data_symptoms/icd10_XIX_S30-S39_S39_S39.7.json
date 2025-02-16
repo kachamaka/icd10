@@ -1,0 +1,48 @@
+{
+    "icd10code": "S39.7",
+    "type": "subcategory",
+    "title": "Other multiple injuries of abdomen, lower back and pelvis",
+    "chapter": "Injury, poisoning and certain other consequences of external causes",
+    "chapterCode": "XIX",
+    "block": "Injuries to the abdomen, lower back, lumbar spine and pelvis",
+    "blockCode": "S30-S39",
+    "category": "Other and unspecified injuries of abdomen, lower back and pelvis",
+    "categoryCode": "S39",
+    "subcategory": "S39.7",
+    "inclusion": [
+        "abdominal wall",
+        "anus",
+        "buttock",
+        "external genitalia",
+        "flank",
+        "groin",
+        "Injuries classifiable to more than one of the categories S30-S39.6"
+    ],
+    "exclusion": [
+        "birth trauma",
+        "obstetric trauma",
+        "malunion of fracture",
+        "nonunion of fracture [pseudarthrosis]",
+        "pathological fracture",
+        "pathological fracture with osteoporosis",
+        "stress fracture",
+        "burns and corrosions",
+        "effects of foreign body in: anus and rectum",
+        "effects of foreign body in: genitourinary tract",
+        "effects of foreign body in: stomach, small intestine and colon",
+        "fracture of spine NOS",
+        "frostbite",
+        "injuries of: back NOS",
+        "injuries of: spinal cord NOS",
+        "injuries of: trunk NOS",
+        "insect bite or sting, venomous",
+        "injuries in S36.- with injuries in S37.-"
+    ],
+    "symptoms": [
+        "pain in the pelvis",
+        "bruising",
+        "swelling",
+        "difficulty walking",
+        "tenderness"
+    ]
+}

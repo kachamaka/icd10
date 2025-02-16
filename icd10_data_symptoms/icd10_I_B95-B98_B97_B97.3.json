@@ -1,0 +1,31 @@
+{
+    "icd10code": "B97.3",
+    "type": "subcategory",
+    "title": "Retrovirus as the cause of diseases classified to other chapters",
+    "chapter": "Certain infectious and parasitic diseases",
+    "chapterCode": "I",
+    "block": "Bacterial, viral and other infectious agents",
+    "blockCode": "B95-B98",
+    "category": "Viral agents as the cause of diseases classified to other chapters",
+    "categoryCode": "B97",
+    "subcategory": "B97.3",
+    "inclusion": [
+        "diseases generally recognized as communicable or transmissible",
+        "Lentivirus",
+        "Oncovirus"
+    ],
+    "exclusion": [
+        "carrier or suspected carrier of infectious disease",
+        "certain localized infections - see body system-related chapters",
+        "infectious and parasitic diseases complicating pregnancy, childbirth and the puerperium [except obstetrical tetanus]",
+        "infectious and parasitic diseases specific to the perinatal period [except tetanus neonatorum, whooping cough, congenital syphilis, perinatal gonococcal infection and perinatal human immunodeficiency virus [HIV] disease]",
+        "influenza and other acute respiratory infections"
+    ],
+    "symptoms": [
+        "fever",
+        "headache",
+        "sore throat",
+        "runny nose",
+        "cough"
+    ]
+}

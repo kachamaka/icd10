@@ -1,0 +1,27 @@
+{
+    "icd10code": "Q54.2",
+    "type": "subcategory",
+    "title": "Hypospadias, penoscrotal",
+    "chapter": "Congenital malformations, deformations and chromosomal abnormalities",
+    "chapterCode": "XVII",
+    "block": "Congenital malformations of genital organs",
+    "blockCode": "Q50-Q56",
+    "category": "Hypospadias",
+    "categoryCode": "Q54",
+    "subcategory": "Q54.2",
+    "inclusion": null,
+    "exclusion": [
+        "inborn errors of metabolism",
+        "androgen resistance syndrome",
+        "syndromes associated with anomalies in the number and form of chromosomes",
+        "testicular feminization syndrome",
+        "epispadias"
+    ],
+    "symptoms": [
+        "hypospadias",
+        "abnormal urinary stream",
+        "difficulty urinating",
+        "ventral penile curvature",
+        "urethral opening misplacement"
+    ]
+}

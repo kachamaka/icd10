@@ -1,0 +1,34 @@
+{
+    "icd10code": "T51.1",
+    "type": "subcategory",
+    "title": "Toxic effect: Methanol",
+    "chapter": "Injury, poisoning and certain other consequences of external causes",
+    "chapterCode": "XIX",
+    "block": "Toxic effects of substances chiefly nonmedicinal as to source",
+    "blockCode": "T51-T65",
+    "category": "Toxic effect of alcohol",
+    "categoryCode": "T51",
+    "subcategory": "T51.1",
+    "inclusion": [
+        "Methyl alcohol"
+    ],
+    "exclusion": [
+        "birth trauma",
+        "obstetric trauma",
+        "malunion of fracture",
+        "nonunion of fracture [pseudarthrosis]",
+        "pathological fracture",
+        "pathological fracture with osteoporosis",
+        "stress fracture",
+        "corrosions",
+        "localized toxic effects classified elsewhere",
+        "respiratory conditions due to external agents"
+    ],
+    "symptoms": [
+        "dizziness",
+        "headache",
+        "nausea",
+        "confusion",
+        "vomiting"
+    ]
+}

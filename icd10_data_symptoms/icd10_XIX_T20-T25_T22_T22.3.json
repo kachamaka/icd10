@@ -1,0 +1,51 @@
+{
+    "icd10code": "T22.3",
+    "type": "subcategory",
+    "title": "Burn of third degree of shoulder and upper limb, except wrist and hand",
+    "chapter": "Injury, poisoning and certain other consequences of external causes",
+    "chapterCode": "XIX",
+    "block": "Burns and corrosions of external body surface, specified by site",
+    "blockCode": "T20-T25",
+    "category": "Burn and corrosion of shoulder and upper limb, except wrist and hand",
+    "categoryCode": "T22",
+    "subcategory": "T22.3",
+    "inclusion": [
+        "burns (thermal) from: electrical heating appliances",
+        "burns (thermal) from: electricity",
+        "burns (thermal) from: flame",
+        "burns (thermal) from: friction",
+        "burns (thermal) from: hot air and hot gases",
+        "burns (thermal) from: hot objects",
+        "burns (thermal) from: lightning",
+        "burns (thermal) from: radiation",
+        "chemical burns [corrosions] (external)(internal)",
+        "scalds",
+        "burns and corrosions classifiable to more than one of the categories T20-T28",
+        "burns and corrosions of: second degree [blisters] [epidermal loss]",
+        "burns and corrosions of: third degree [deep necrosis of underlying tissue] [full-thickness skin loss]",
+        "leg [any part, except ankle and foot alone]",
+        "anus",
+        "back [any part]"
+    ],
+    "exclusion": [
+        "birth trauma",
+        "obstetric trauma",
+        "malunion of fracture",
+        "nonunion of fracture [pseudarthrosis]",
+        "pathological fracture",
+        "pathological fracture with osteoporosis",
+        "stress fracture",
+        "erythema [dermatitis] ab igne",
+        "radiation-related disorders of the skin and subcutaneous tissue",
+        "sunburn",
+        "burn and corrosion with statement of the extent of body surface involved",
+        "burn and corrosion of: scapular region"
+    ],
+    "symptoms": [
+        "pain",
+        "redness",
+        "swelling",
+        "blistering",
+        "charred skin"
+    ]
+}

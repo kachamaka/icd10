@@ -1,0 +1,27 @@
+{
+    "icd10code": "Q77.4",
+    "type": "subcategory",
+    "title": "Achondroplasia",
+    "chapter": "Congenital malformations, deformations and chromosomal abnormalities",
+    "chapterCode": "XVII",
+    "block": "Congenital malformations and deformations of the musculoskeletal system",
+    "blockCode": "Q65-Q79",
+    "category": "Osteochondrodysplasia with defects of growth of tubular bones and spine",
+    "categoryCode": "Q77",
+    "subcategory": "Q77.4",
+    "inclusion": [
+        "Hypochondroplasia",
+        "Osteosclerosis congenita"
+    ],
+    "exclusion": [
+        "inborn errors of metabolism",
+        "mucopolysaccharidosis"
+    ],
+    "symptoms": [
+        "short stature",
+        "bowed legs",
+        "joint pain",
+        "bone deformities",
+        "frequent fractures"
+    ]
+}

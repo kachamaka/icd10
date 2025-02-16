@@ -1,0 +1,32 @@
+{
+    "icd10code": "F20.5",
+    "type": "subcategory",
+    "title": "Residual schizophrenia",
+    "chapter": "Mental and behavioural disorders",
+    "chapterCode": "V",
+    "block": "Schizophrenia, schizotypal and delusional disorders",
+    "blockCode": "F20-F29",
+    "category": "Schizophrenia",
+    "categoryCode": "F20",
+    "subcategory": "F20.5",
+    "inclusion": [
+        "disorders of psychological development",
+        "Chronic undifferentiated schizophrenia",
+        "Restzustand (schizophrenic)",
+        "Schizophrenic residual state"
+    ],
+    "exclusion": [
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "schizophrenia: acute (undifferentiated)",
+        "schizophrenia: cyclic",
+        "schizophrenic reaction",
+        "schizotypal disorder"
+    ],
+    "symptoms": [
+        "hallucinations",
+        "delusions",
+        "disorganized thinking",
+        "flattened affect",
+        "social withdrawal"
+    ]
+}

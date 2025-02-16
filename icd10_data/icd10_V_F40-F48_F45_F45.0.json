@@ -1,0 +1,33 @@
+{
+  "type": "subcategory",
+  "chapterCode": "V",
+  "chapter": "Mental and behavioural disorders",
+  "blockCode": "F40-F48",
+  "block": "Neurotic, stress-related and somatoform disorders",
+  "categoryCode": "F45",
+  "category": "Somatoform disorders",
+  "subcategory": "F45.0",
+  "title": "Somatization disorder",
+  "inclusion": [
+    "disorders of psychological development",
+    "Briquet disorder",
+    "Multiple psychosomatic disorder"
+  ],
+  "exclusion": [
+    "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+    "when associated with conduct disorder in F91.-",
+    "dissociative disorders",
+    "hair-plucking",
+    "lalling",
+    "lisping",
+    "nail-biting",
+    "psychological or behavioural factors associated with disorders or diseases classified elsewhere",
+    "sexual dysfunction, not caused by organic disorder or disease",
+    "thumb-sucking",
+    "tic disorders (in childhood and adolescence)",
+    "Tourette syndrome",
+    "trichotillomania",
+    "malingering [conscious simulation]"
+  ],
+  "children": null
+}

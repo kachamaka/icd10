@@ -1,0 +1,26 @@
+{
+    "icd10code": "Q63.8",
+    "type": "subcategory",
+    "title": "Other specified congenital malformations of kidney",
+    "chapter": "Congenital malformations, deformations and chromosomal abnormalities",
+    "chapterCode": "XVII",
+    "block": "Congenital malformations of the urinary system",
+    "blockCode": "Q60-Q64",
+    "category": "Other congenital malformations of kidney",
+    "categoryCode": "Q63",
+    "subcategory": "Q63.8",
+    "inclusion": [
+        "Congenital renal calculi"
+    ],
+    "exclusion": [
+        "inborn errors of metabolism",
+        "congenital nephrotic syndrome"
+    ],
+    "symptoms": [
+        "abnormal kidney shape",
+        "ectopic kidney",
+        "renal hypoplasia",
+        "kidney cysts",
+        "duplicated renal system"
+    ]
+}

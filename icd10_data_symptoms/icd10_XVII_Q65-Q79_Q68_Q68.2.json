@@ -1,0 +1,27 @@
+{
+    "icd10code": "Q68.2",
+    "type": "subcategory",
+    "title": "Congenital deformity of knee",
+    "chapter": "Congenital malformations, deformations and chromosomal abnormalities",
+    "chapterCode": "XVII",
+    "block": "Congenital malformations and deformations of the musculoskeletal system",
+    "blockCode": "Q65-Q79",
+    "category": "Other congenital musculoskeletal deformities",
+    "categoryCode": "Q68",
+    "subcategory": "Q68.2",
+    "inclusion": [
+        "Congenital: dislocation of knee",
+        "Congenital: genu recurvatum"
+    ],
+    "exclusion": [
+        "inborn errors of metabolism",
+        "reduction defects of limb(s)"
+    ],
+    "symptoms": [
+        "congenital joint contractures",
+        "restricted joint movement",
+        "abnormal limb positioning",
+        "joint stiffness",
+        "limited range of motion"
+    ]
+}

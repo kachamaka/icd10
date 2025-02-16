@@ -1,0 +1,25 @@
+{
+  "type": "subcategory",
+  "chapterCode": "II",
+  "chapter": "Neoplasms",
+  "blockCode": "D37-D48",
+  "block": "Neoplasms of uncertain or unknown behaviour",
+  "categoryCode": "D37",
+  "category": "Neoplasm of uncertain or unknown behaviour of oral cavity and digestive organs",
+  "subcategory": "D37.0",
+  "title": "Neoplasm of uncertain or unknown behaviour: Lip, oral cavity and pharynx",
+  "inclusion": [
+    "Aryepiglottic fold: NOS",
+    "Aryepiglottic fold: hypopharyngeal aspect",
+    "Aryepiglottic fold: marginal zone",
+    "Major and minor salivary glands",
+    "Vermilion border of lip"
+  ],
+  "exclusion": [
+    "aryepiglottic fold, laryngeal aspect",
+    "epiglottis: NOS",
+    "epiglottis: suprahyoid portion",
+    "skin of lip"
+  ],
+  "children": null
+}

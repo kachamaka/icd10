@@ -1,0 +1,49 @@
+{
+    "icd10code": "S33.2",
+    "type": "subcategory",
+    "title": "Dislocation of sacroiliac and sacrococcygeal joint",
+    "chapter": "Injury, poisoning and certain other consequences of external causes",
+    "chapterCode": "XIX",
+    "block": "Injuries to the abdomen, lower back, lumbar spine and pelvis",
+    "blockCode": "S30-S39",
+    "category": "Dislocation, sprain and strain of joints and ligaments of lumbar spine and pelvis",
+    "categoryCode": "S33",
+    "subcategory": "S33.2",
+    "inclusion": [
+        "abdominal wall",
+        "anus",
+        "buttock",
+        "external genitalia",
+        "flank",
+        "groin"
+    ],
+    "exclusion": [
+        "birth trauma",
+        "obstetric trauma",
+        "malunion of fracture",
+        "nonunion of fracture [pseudarthrosis]",
+        "pathological fracture",
+        "pathological fracture with osteoporosis",
+        "stress fracture",
+        "burns and corrosions",
+        "effects of foreign body in: anus and rectum",
+        "effects of foreign body in: genitourinary tract",
+        "effects of foreign body in: stomach, small intestine and colon",
+        "fracture of spine NOS",
+        "frostbite",
+        "injuries of: back NOS",
+        "injuries of: spinal cord NOS",
+        "injuries of: trunk NOS",
+        "insect bite or sting, venomous",
+        "peritoneum and retroperitoneum",
+        "traumatic amputation of part of abdomen, lower back and pelvis",
+        "rupture or displacement (nontraumatic) of lumbar intervertebral disc"
+    ],
+    "symptoms": [
+        "lower back pain",
+        "groin pain",
+        "hip pain",
+        "difficulty walking",
+        "limited range of motion"
+    ]
+}

@@ -1,0 +1,18 @@
+{
+  "type": "subcategory",
+  "chapterCode": "XVII",
+  "chapter": "Congenital malformations, deformations and chromosomal abnormalities",
+  "blockCode": "Q60-Q64",
+  "block": "Congenital malformations of the urinary system",
+  "categoryCode": "Q61",
+  "category": "Cystic kidney disease",
+  "subcategory": "Q61.3",
+  "title": "Polycystic kidney, unspecified",
+  "inclusion": null,
+  "exclusion": [
+    "inborn errors of metabolism",
+    "cyst of kidney (acquired)",
+    "Potter syndrome"
+  ],
+  "children": null
+}

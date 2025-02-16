@@ -1,0 +1,27 @@
+{
+    "icd10code": "Y84.8",
+    "type": "subcategory",
+    "title": "Other medical procedures",
+    "chapter": "External causes of morbidity and mortality",
+    "chapterCode": "XX",
+    "block": "Surgical and other medical procedures as the cause of abnormal reaction of the patient, or of later complication, without mention of misadventure at the time of the procedure",
+    "blockCode": "Y83-Y84",
+    "category": "Other medical procedures as the cause of abnormal reaction of the patient, or of later complication, without mention of misadventure at the time of the procedure",
+    "categoryCode": "Y84",
+    "subcategory": "Y84.8",
+    "inclusion": [
+        "complications of medical devices",
+        "correct drug properly administered in therapeutic or prophylactic dosage as the cause of any adverse effect",
+        "misadventures to patients during surgical and medical care",
+        "surgical and medical procedures as the cause of abnormal reaction of the patient, or of later complication, without mention of misadventure at the time of the procedure"
+    ],
+    "exclusion": [
+        "accidental overdose of drug or wrong drug given or taken in error",
+        "breakdown or malfunctioning of medical device (during procedure)(after implantation)(ongoing use)",
+        "medical devices associated with adverse incidents due to external causes classified elsewhere",
+        "misadventures to patients during surgical and medical care, classifiable to Y60-Y69"
+    ],
+    "symptoms": [
+        "asymptomatic"
+    ]
+}

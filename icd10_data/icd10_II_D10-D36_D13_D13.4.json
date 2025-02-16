@@ -1,0 +1,17 @@
+{
+  "type": "subcategory",
+  "chapterCode": "II",
+  "chapter": "Neoplasms",
+  "blockCode": "D10-D36",
+  "block": "Benign neoplasms",
+  "categoryCode": "D13",
+  "category": "Benign neoplasm of other and ill-defined parts of digestive system",
+  "subcategory": "D13.4",
+  "title": "Benign neoplasm: Liver",
+  "inclusion": [
+    "morphology codes with behaviour code /0",
+    "Intrahepatic bile ducts"
+  ],
+  "exclusion": null,
+  "children": null
+}

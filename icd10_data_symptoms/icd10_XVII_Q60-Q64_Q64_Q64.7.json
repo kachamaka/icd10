@@ -1,0 +1,34 @@
+{
+    "icd10code": "Q64.7",
+    "type": "subcategory",
+    "title": "Other congenital malformations of bladder and urethra",
+    "chapter": "Congenital malformations, deformations and chromosomal abnormalities",
+    "chapterCode": "XVII",
+    "block": "Congenital malformations of the urinary system",
+    "blockCode": "Q60-Q64",
+    "category": "Other congenital malformations of urinary system",
+    "categoryCode": "Q64",
+    "subcategory": "Q64.7",
+    "inclusion": [
+        "Accessory: bladder",
+        "Accessory: urethra",
+        "Congenital: hernia of bladder",
+        "Congenital: malformation of bladder or urethra NOS",
+        "Congenital: prolapse of: bladder (mucosa)",
+        "Congenital: prolapse of: urethra",
+        "Congenital: prolapse of: urinary meatus",
+        "Congenital: urethrorectal fistula",
+        "Double: urethra",
+        "Double: urinary meatus"
+    ],
+    "exclusion": [
+        "inborn errors of metabolism"
+    ],
+    "symptoms": [
+        "urinary incontinence",
+        "recurrent urinary tract infections",
+        "abnormal urination patterns",
+        "urinary retention",
+        "pelvic discomfort"
+    ]
+}

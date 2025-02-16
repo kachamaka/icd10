@@ -1,0 +1,16 @@
+{
+  "type": "subcategory",
+  "chapterCode": "XVII",
+  "chapter": "Congenital malformations, deformations and chromosomal abnormalities",
+  "blockCode": "Q20-Q28",
+  "block": "Congenital malformations of the circulatory system",
+  "categoryCode": "Q22",
+  "category": "Congenital malformations of pulmonary and tricuspid valves",
+  "subcategory": "Q22.0",
+  "title": "Pulmonary valve atresia",
+  "inclusion": null,
+  "exclusion": [
+    "inborn errors of metabolism"
+  ],
+  "children": null
+}

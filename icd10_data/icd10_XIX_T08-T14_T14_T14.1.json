@@ -1,0 +1,36 @@
+{
+  "type": "subcategory",
+  "chapterCode": "XIX",
+  "chapter": "Injury, poisoning and certain other consequences of external causes",
+  "blockCode": "T08-T14",
+  "block": "Injuries to unspecified part of trunk, limb or body region",
+  "categoryCode": "T14",
+  "category": "Injury of unspecified body region",
+  "subcategory": "T14.1",
+  "title": "Open wound of unspecified body region",
+  "inclusion": [
+    "Animal bite NOS",
+    "Cut NOS",
+    "Laceration NOS",
+    "Open wound NOS",
+    "Puncture wound with (penetrating) foreign body NOS"
+  ],
+  "exclusion": [
+    "birth trauma",
+    "obstetric trauma",
+    "malunion of fracture",
+    "nonunion of fracture [pseudarthrosis]",
+    "pathological fracture",
+    "pathological fracture with osteoporosis",
+    "stress fracture",
+    "burns and corrosions",
+    "frostbite",
+    "injuries involving multiple body regions",
+    "insect bite or sting, venomous",
+    "injuries involving multiple body regions",
+    "multiple: open wounds NOS",
+    "multiple: traumatic amputations NOS",
+    "traumatic amputation NOS"
+  ],
+  "children": null
+}

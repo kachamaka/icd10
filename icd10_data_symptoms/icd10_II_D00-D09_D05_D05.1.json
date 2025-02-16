@@ -1,0 +1,29 @@
+{
+    "icd10code": "D05.1",
+    "type": "subcategory",
+    "title": "Intraductal carcinoma in situ",
+    "chapter": "Neoplasms",
+    "chapterCode": "II",
+    "block": "In situ neoplasms",
+    "blockCode": "D00-D09",
+    "category": "Carcinoma in situ of breast",
+    "categoryCode": "D05",
+    "subcategory": "D05.1",
+    "inclusion": [
+        "Bowen disease",
+        "erythroplasia",
+        "morphology codes with behaviour code /2",
+        "Queyrat erythroplasia"
+    ],
+    "exclusion": [
+        "carcinoma in situ of skin of breast",
+        "melanoma in situ of breast (skin)"
+    ],
+    "symptoms": [
+        "breast lump",
+        "nipple discharge",
+        "changes in breast size or shape",
+        "skin changes around the breast",
+        "pain in the breast or nipple"
+    ]
+}

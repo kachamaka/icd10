@@ -1,0 +1,36 @@
+{
+    "icd10code": "T15.0",
+    "type": "subcategory",
+    "title": "Foreign body in cornea",
+    "chapter": "Injury, poisoning and certain other consequences of external causes",
+    "chapterCode": "XIX",
+    "block": "Effects of foreign body entering through natural orifice",
+    "blockCode": "T15-T19",
+    "category": "Foreign body on external eye",
+    "categoryCode": "T15",
+    "subcategory": "T15.0",
+    "inclusion": null,
+    "exclusion": [
+        "birth trauma",
+        "obstetric trauma",
+        "malunion of fracture",
+        "nonunion of fracture [pseudarthrosis]",
+        "pathological fracture",
+        "pathological fracture with osteoporosis",
+        "stress fracture",
+        "foreign body: accidentally left in operation wound",
+        "foreign body: in puncture wound - see open wound by body region",
+        "foreign body: residual, in soft tissue",
+        "splinter, without major open wound - see superficial injury by body region",
+        "foreign body in pharynx",
+        "contraceptive device (intrauterine)(vaginal): presence of",
+        "retained foreign body in eyelid"
+    ],
+    "symptoms": [
+        "foreign body sensation",
+        "eye redness",
+        "tearing",
+        "eye pain",
+        "blurry vision"
+    ]
+}

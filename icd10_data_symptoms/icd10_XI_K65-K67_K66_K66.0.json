@@ -1,0 +1,42 @@
+{
+    "icd10code": "K66.0",
+    "type": "subcategory",
+    "title": "Peritoneal adhesions",
+    "chapter": "Diseases of the digestive system",
+    "chapterCode": "XI",
+    "block": "Diseases of peritoneum",
+    "blockCode": "K65-K67",
+    "category": "Other disorders of peritoneum",
+    "categoryCode": "K66",
+    "subcategory": "K66.0",
+    "inclusion": [
+        "Adhesions (of): abdominal (wall)",
+        "Adhesions (of): diaphragm",
+        "Adhesions (of): intestine",
+        "Adhesions (of): male pelvis",
+        "Adhesions (of): mesenteric",
+        "Adhesions (of): omentum",
+        "Adhesions (of): stomach",
+        "Adhesive bands"
+    ],
+    "exclusion": [
+        "certain conditions originating in the perinatal period",
+        "certain infectious and parasitic diseases",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "ascites",
+        "adhesions [bands] (of): female pelvis",
+        "adhesions [bands] (of): with intestinal obstruction"
+    ],
+    "symptoms": [
+        "abdominal pain",
+        "bloating",
+        "nausea",
+        "vomiting",
+        "reduced bowel movements"
+    ]
+}

@@ -1,0 +1,16 @@
+{
+  "type": "subcategory",
+  "chapterCode": "XXI",
+  "chapter": "Factors influencing health status and contact with health services",
+  "blockCode": "Z55-Z65",
+  "block": "Persons with potential health hazards related to socioeconomic and psychosocial circumstances",
+  "categoryCode": "Z60",
+  "category": "Problems related to social environment",
+  "subcategory": "Z60.4",
+  "title": "Social exclusion and rejection",
+  "inclusion": null,
+  "exclusion": [
+    "target of adverse discrimination such as for racial or religious reasons"
+  ],
+  "children": null
+}

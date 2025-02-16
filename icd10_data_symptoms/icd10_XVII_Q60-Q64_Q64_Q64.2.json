@@ -1,0 +1,23 @@
+{
+    "icd10code": "Q64.2",
+    "type": "subcategory",
+    "title": "Congenital posterior urethral valves",
+    "chapter": "Congenital malformations, deformations and chromosomal abnormalities",
+    "chapterCode": "XVII",
+    "block": "Congenital malformations of the urinary system",
+    "blockCode": "Q60-Q64",
+    "category": "Other congenital malformations of urinary system",
+    "categoryCode": "Q64",
+    "subcategory": "Q64.2",
+    "inclusion": null,
+    "exclusion": [
+        "inborn errors of metabolism"
+    ],
+    "symptoms": [
+        "urinary dribbling",
+        "weak urine stream",
+        "urinary retention",
+        "recurrent urinary infections",
+        "abdominal pain"
+    ]
+}

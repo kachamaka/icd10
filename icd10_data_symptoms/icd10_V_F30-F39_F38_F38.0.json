@@ -1,0 +1,26 @@
+{
+    "icd10code": "F38.0",
+    "type": "subcategory",
+    "title": "Other single mood [affective] disorders",
+    "chapter": "Mental and behavioural disorders",
+    "chapterCode": "V",
+    "block": "Mood [affective] disorders",
+    "blockCode": "F30-F39",
+    "category": "Other mood [affective] disorders",
+    "categoryCode": "F38",
+    "subcategory": "F38.0",
+    "inclusion": [
+        "disorders of psychological development",
+        "Mixed affective episode"
+    ],
+    "exclusion": [
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified"
+    ],
+    "symptoms": [
+        "depressed mood",
+        "loss of interest",
+        "fatigue",
+        "difficulty concentrating",
+        "sleep disturbances"
+    ]
+}

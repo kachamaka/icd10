@@ -1,0 +1,24 @@
+{
+    "icd10code": "C57.9",
+    "type": "subcategory",
+    "title": "Malignant neoplasm: Female genital organ, unspecified",
+    "chapter": "Neoplasms",
+    "chapterCode": "II",
+    "block": "Malignant neoplasms of female genital organs",
+    "blockCode": "C51-C58",
+    "category": "Malignant neoplasm of other and unspecified female genital organs",
+    "categoryCode": "C57",
+    "subcategory": "C57.9",
+    "inclusion": [
+        "skin of female genital organs",
+        "Female genitourinary tract NOS"
+    ],
+    "exclusion": null,
+    "symptoms": [
+        "abnormal vaginal bleeding",
+        "pelvic pain",
+        "unexplained weight loss",
+        "pain during sexual intercourse",
+        "fatigue"
+    ]
+}

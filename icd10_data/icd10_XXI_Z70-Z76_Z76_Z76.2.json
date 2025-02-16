@@ -1,0 +1,19 @@
+{
+  "type": "subcategory",
+  "chapterCode": "XXI",
+  "chapter": "Factors influencing health status and contact with health services",
+  "blockCode": "Z70-Z76",
+  "block": "Persons encountering health services in other circumstances",
+  "categoryCode": "Z76",
+  "category": "Persons encountering health services in other circumstances",
+  "subcategory": "Z76.2",
+  "title": "Health supervision and care of other healthy infant and child",
+  "inclusion": [
+    "Medical or nursing care or supervision of healthy infant under circumstances such as: adverse socioeconomic conditions at home",
+    "Medical or nursing care or supervision of healthy infant under circumstances such as: awaiting foster or adoptive placement",
+    "Medical or nursing care or supervision of healthy infant under circumstances such as: maternal illness",
+    "Medical or nursing care or supervision of healthy infant under circumstances such as: number of children at home preventing or interfering with normal care"
+  ],
+  "exclusion": null,
+  "children": null
+}

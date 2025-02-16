@@ -1,0 +1,23 @@
+{
+    "icd10code": "Q72.9",
+    "type": "subcategory",
+    "title": "Reduction defect of lower limb, unspecified",
+    "chapter": "Congenital malformations, deformations and chromosomal abnormalities",
+    "chapterCode": "XVII",
+    "block": "Congenital malformations and deformations of the musculoskeletal system",
+    "blockCode": "Q65-Q79",
+    "category": "Reduction defects of lower limb",
+    "categoryCode": "Q72",
+    "subcategory": "Q72.9",
+    "inclusion": null,
+    "exclusion": [
+        "inborn errors of metabolism"
+    ],
+    "symptoms": [
+        "partial or underdeveloped limbs",
+        "missing toes or fingers",
+        "limb length discrepancies",
+        "abnormal limb shape",
+        "difficulty with mobility"
+    ]
+}

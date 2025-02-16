@@ -1,0 +1,24 @@
+{
+    "icd10code": "Q21.3",
+    "type": "subcategory",
+    "title": "Tetralogy of Fallot",
+    "chapter": "Congenital malformations, deformations and chromosomal abnormalities",
+    "chapterCode": "XVII",
+    "block": "Congenital malformations of the circulatory system",
+    "blockCode": "Q20-Q28",
+    "category": "Congenital malformations of cardiac septa",
+    "categoryCode": "Q21",
+    "subcategory": "Q21.3",
+    "inclusion": null,
+    "exclusion": [
+        "inborn errors of metabolism",
+        "acquired cardiac septal defect"
+    ],
+    "symptoms": [
+        "heart murmur",
+        "cyanosis",
+        "fatigue",
+        "shortness of breath",
+        "poor weight gain"
+    ]
+}

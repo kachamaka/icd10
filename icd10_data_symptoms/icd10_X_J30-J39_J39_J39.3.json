@@ -1,0 +1,33 @@
+{
+    "icd10code": "J39.3",
+    "type": "subcategory",
+    "title": "Upper respiratory tract hypersensitivity reaction, site unspecified",
+    "chapter": "Diseases of the respiratory system",
+    "chapterCode": "X",
+    "block": "Other diseases of upper respiratory tract",
+    "blockCode": "J30-J39",
+    "category": "Other diseases of upper respiratory tract",
+    "categoryCode": "J39",
+    "subcategory": "J39.3",
+    "inclusion": null,
+    "exclusion": [
+        "certain conditions originating in the perinatal period",
+        "certain infectious and parasitic diseases",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "acute respiratory infection NOS",
+        "acute respiratory infection NOS upper",
+        "upper respiratory inflammation due to chemicals, gases, fumes or vapours"
+    ],
+    "symptoms": [
+        "sore throat",
+        "difficulty swallowing",
+        "neck swelling",
+        "hoarseness",
+        "fever"
+    ]
+}

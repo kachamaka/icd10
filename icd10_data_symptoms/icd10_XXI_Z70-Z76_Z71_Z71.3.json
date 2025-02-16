@@ -1,0 +1,28 @@
+{
+    "icd10code": "Z71.3",
+    "type": "subcategory",
+    "title": "Dietary counselling and surveillance",
+    "chapter": "Factors influencing health status and contact with health services",
+    "chapterCode": "XXI",
+    "block": "Persons encountering health services in other circumstances",
+    "blockCode": "Z70-Z76",
+    "category": "Persons encountering health services for other counselling and medical advice, not elsewhere classified",
+    "categoryCode": "Z71",
+    "subcategory": "Z71.3",
+    "inclusion": [
+        "Dietary counselling and surveillance (for): NOS",
+        "Dietary counselling and surveillance (for): colitis",
+        "Dietary counselling and surveillance (for): diabetes mellitus",
+        "Dietary counselling and surveillance (for): food allergies or intolerance",
+        "Dietary counselling and surveillance (for): gastritis",
+        "Dietary counselling and surveillance (for): hypercholesterolaemia",
+        "Dietary counselling and surveillance (for): obesity"
+    ],
+    "exclusion": [
+        "contraceptive or procreation counselling",
+        "sex counselling"
+    ],
+    "symptoms": [
+        "asymptomatic"
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "icd10code": "D14.2",
+    "type": "subcategory",
+    "title": "Benign neoplasm: Trachea",
+    "chapter": "Neoplasms",
+    "chapterCode": "II",
+    "block": "Benign neoplasms",
+    "blockCode": "D10-D36",
+    "category": "Benign neoplasm of middle ear and respiratory system",
+    "categoryCode": "D14",
+    "subcategory": "D14.2",
+    "inclusion": [
+        "morphology codes with behaviour code /0"
+    ],
+    "exclusion": null,
+    "symptoms": [
+        "hoarseness",
+        "persistent cough",
+        "unexplained weight loss",
+        "wheezing",
+        "bloody sputum"
+    ]
+}

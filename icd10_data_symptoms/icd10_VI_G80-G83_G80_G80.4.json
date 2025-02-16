@@ -1,0 +1,31 @@
+{
+    "icd10code": "G80.4",
+    "type": "subcategory",
+    "title": "Ataxic cerebral palsy",
+    "chapter": "Diseases of the nervous system",
+    "chapterCode": "VI",
+    "block": "Cerebral palsy and other paralytic syndromes",
+    "blockCode": "G80-G83",
+    "category": "Cerebral palsy",
+    "categoryCode": "G80",
+    "subcategory": "G80.4",
+    "inclusion": null,
+    "exclusion": [
+        "certain conditions originating in the perinatal period",
+        "certain infectious and parasitic diseases",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "hereditary spastic paraplegia"
+    ],
+    "symptoms": [
+        "muscle stiffness",
+        "unwanted movements",
+        "lack of coordination",
+        "difficulty walking",
+        "reduced balance"
+    ]
+}

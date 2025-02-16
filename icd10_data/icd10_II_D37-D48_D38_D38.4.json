@@ -1,0 +1,16 @@
+{
+  "type": "subcategory",
+  "chapterCode": "II",
+  "chapter": "Neoplasms",
+  "blockCode": "D37-D48",
+  "block": "Neoplasms of uncertain or unknown behaviour",
+  "categoryCode": "D38",
+  "category": "Neoplasm of uncertain or unknown behaviour of middle ear and respiratory and intrathoracic organs",
+  "subcategory": "D38.4",
+  "title": "Neoplasm of uncertain or unknown behaviour: Thymus",
+  "inclusion": null,
+  "exclusion": [
+    "heart"
+  ],
+  "children": null
+}

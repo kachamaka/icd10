@@ -1,0 +1,29 @@
+{
+    "icd10code": "R98",
+    "type": "category",
+    "title": "Unattended death",
+    "chapter": "Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+    "chapterCode": "XVIII",
+    "block": "Ill-defined and unknown causes of mortality",
+    "blockCode": "R95-R99",
+    "category": "Unattended death",
+    "categoryCode": "R98",
+    "subcategory": "",
+    "inclusion": [
+        "Death in circumstances where the body of the deceased was found and no cause could be discovered",
+        "Found dead"
+    ],
+    "exclusion": [
+        "abnormal findings on antenatal screening of mother",
+        "certain conditions originating in the perinatal period",
+        "fetal death of unspecified cause",
+        "obstetric death NOS"
+    ],
+    "symptoms": [
+        "death from unknown cause",
+        "sudden collapse",
+        "unresponsiveness",
+        "asymptomatic",
+        "no clear diagnosis before death"
+    ]
+}

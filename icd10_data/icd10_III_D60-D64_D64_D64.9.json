@@ -1,0 +1,29 @@
+{
+  "type": "subcategory",
+  "chapterCode": "III",
+  "chapter": "Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism",
+  "blockCode": "D60-D64",
+  "block": "Aplastic and other anaemias",
+  "categoryCode": "D64",
+  "category": "Other anaemias",
+  "subcategory": "D64.9",
+  "title": "Anaemia, unspecified",
+  "inclusion": null,
+  "exclusion": [
+    "autoimmune disease (systemic) NOS",
+    "certain conditions originating in the perinatal period",
+    "complications of pregnancy, childbirth and the puerperium",
+    "congenital malformations, deformations and chromosomal abnormalities",
+    "endocrine, nutritional and metabolic diseases",
+    "human immunodeficiency virus [HIV] disease",
+    "injury, poisoning and certain other consequences of external causes",
+    "neoplasms",
+    "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+    "benign hypergammaglobulinaemic purpura",
+    "cryoglobulinaemic purpura",
+    "essential (haemorrhagic) thrombocythaemia",
+    "purpura fulminans",
+    "hyperglobulinaemia NOS"
+  ],
+  "children": null
+}

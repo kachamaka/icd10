@@ -1,0 +1,26 @@
+{
+    "icd10code": "C76.8",
+    "type": "subcategory",
+    "title": "Malignant neoplasm of other and ill-defined sites: Overlapping lesion of other and ill-defined sites",
+    "chapter": "Neoplasms",
+    "chapterCode": "II",
+    "block": "Malignant neoplasms of ill-defined, secondary and unspecified sites",
+    "blockCode": "C76-C80",
+    "category": "Malignant neoplasm of other and ill-defined sites",
+    "categoryCode": "C76",
+    "subcategory": "C76.8",
+    "inclusion": null,
+    "exclusion": [
+        "malignant neoplasm of: genitourinary tract NOS: female",
+        "malignant neoplasm of: genitourinary tract NOS: male",
+        "malignant neoplasm of: lymphoid, haematopoietic and related tissue",
+        "malignant neoplasm of: unspecified site"
+    ],
+    "symptoms": [
+        "unexplained weight loss",
+        "continuous pain in affected area",
+        "non-specific systemic symptoms like fatigue",
+        "inflammation or swelling",
+        "presence of lumps or growths"
+    ]
+}

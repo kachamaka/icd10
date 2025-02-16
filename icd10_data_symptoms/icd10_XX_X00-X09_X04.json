@@ -1,0 +1,30 @@
+{
+    "icd10code": "X04",
+    "type": "category",
+    "title": "Exposure to ignition of highly flammable material",
+    "chapter": "External causes of morbidity and mortality",
+    "chapterCode": "XX",
+    "block": "Exposure to smoke, fire and flames",
+    "blockCode": "X00-X09",
+    "category": "Exposure to ignition of highly flammable material",
+    "categoryCode": "X04",
+    "subcategory": "",
+    "inclusion": [
+        "fire caused by lightning",
+        "ignition of: gasoline",
+        "ignition of: kerosene",
+        "ignition of: petrol"
+    ],
+    "exclusion": [
+        "arson",
+        "secondary fire resulting from explosion",
+        "transport accidents"
+    ],
+    "symptoms": [
+        "burns",
+        "smoke inhalation",
+        "respiratory distress",
+        "skin irritation",
+        "eye irritation"
+    ]
+}

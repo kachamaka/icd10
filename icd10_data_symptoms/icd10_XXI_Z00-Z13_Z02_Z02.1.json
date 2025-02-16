@@ -1,0 +1,20 @@
+{
+    "icd10code": "Z02.1",
+    "type": "subcategory",
+    "title": "Pre-employment examination",
+    "chapter": "Factors influencing health status and contact with health services",
+    "chapterCode": "XXI",
+    "block": "Persons encountering health services for examination and investigation",
+    "blockCode": "Z00-Z13",
+    "category": "Examination and encounter for administrative purposes",
+    "categoryCode": "Z02",
+    "subcategory": "Z02.1",
+    "inclusion": null,
+    "exclusion": [
+        "examinations related to pregnancy and reproduction",
+        "occupational health examination"
+    ],
+    "symptoms": [
+        "asymptomatic"
+    ]
+}

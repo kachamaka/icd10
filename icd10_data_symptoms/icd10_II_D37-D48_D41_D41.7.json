@@ -1,0 +1,21 @@
+{
+    "icd10code": "D41.7",
+    "type": "subcategory",
+    "title": "Neoplasm of uncertain or unknown behaviour: Other urinary organs",
+    "chapter": "Neoplasms",
+    "chapterCode": "II",
+    "block": "Neoplasms of uncertain or unknown behaviour",
+    "blockCode": "D37-D48",
+    "category": "Neoplasm of uncertain or unknown behaviour of urinary organs",
+    "categoryCode": "D41",
+    "subcategory": "D41.7",
+    "inclusion": null,
+    "exclusion": null,
+    "symptoms": [
+        "abnormal urination frequency",
+        "flank pain",
+        "hematuria (blood in the urine)",
+        "growth or mass in pelvis",
+        "lower abdominal pain"
+    ]
+}

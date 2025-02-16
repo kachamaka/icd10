@@ -1,0 +1,25 @@
+{
+  "type": "subcategory",
+  "chapterCode": "XX",
+  "chapter": "External causes of morbidity and mortality",
+  "blockCode": "X85-Y09",
+  "block": "Assault",
+  "categoryCode": "X88",
+  "category": "Assault by gases and vapours",
+  "subcategory": "X88.2",
+  "title": "Assault by carbon monoxide from other domestic fuels",
+  "inclusion": [
+    "homicide",
+    "injuries inflicted by another person with intent to injure or kill, by any means",
+    "Carbon monoxide from: charcoal in domestic stove, portable grill, barbecue or fireplace (free-standing)",
+    "Carbon monoxide from: coal in domestic stove, portable grill, barbecue or fireplace (free-standing)",
+    "Carbon monoxide from: coke in domestic stove, portable grill, barbecue or fireplace (free-standing)",
+    "Carbon monoxide from: kerosine or paraffin in domestic stove, portable grill, barbecue or fireplace (free-standing)",
+    "Carbon monoxide from: wood in domestic stove, portable grill, barbecue or fireplace (free-standing)"
+  ],
+  "exclusion": [
+    "injuries due to: legal intervention",
+    "injuries due to: operations of war"
+  ],
+  "children": null
+}

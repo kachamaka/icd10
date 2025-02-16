@@ -1,0 +1,33 @@
+{
+    "icd10code": "O08.9",
+    "type": "subcategory",
+    "title": "Complication following abortion and ectopic and molar pregnancy, unspecified",
+    "chapter": "Pregnancy, childbirth and the puerperium",
+    "chapterCode": "XV",
+    "block": "Pregnancy with abortive outcome",
+    "blockCode": "O00-O08",
+    "category": "Complications following abortion and ectopic and molar pregnancy",
+    "categoryCode": "O08",
+    "subcategory": "O08.9",
+    "inclusion": [
+        "Unspecified complication following conditions classifiable to O00-O07"
+    ],
+    "exclusion": [
+        "Certain diseases or injuries complicating pregnancy, childbirth and the puerperium classified elsewhere: external causes (for mortality)",
+        "Certain diseases or injuries complicating pregnancy, childbirth and the puerperium classified elsewhere: injury, poisoning and certain other consequences of external cause",
+        "Certain diseases or injuries complicating pregnancy, childbirth and the puerperium classified elsewhere: mental and behavioural disorders associated with the puerperium",
+        "Certain diseases or injuries complicating pregnancy, childbirth and the puerperium classified elsewhere: obstetrical tetanus",
+        "Certain diseases or injuries complicating pregnancy, childbirth and the puerperium classified elsewhere: postpartum necrosis of pituitary gland",
+        "Certain diseases or injuries complicating pregnancy, childbirth and the puerperium classified elsewhere: puerperal osteomalacia",
+        "supervision of: high-risk pregnancy",
+        "supervision of: normal pregnancy",
+        "continuing pregnancy in multiple gestation after abortion of one fetus or more"
+    ],
+    "symptoms": [
+        "fever",
+        "abdominal pain",
+        "heavy bleeding",
+        "infection",
+        "fatigue"
+    ]
+}

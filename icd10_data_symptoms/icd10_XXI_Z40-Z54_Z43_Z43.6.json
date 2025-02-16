@@ -1,0 +1,31 @@
+{
+    "icd10code": "Z43.6",
+    "type": "subcategory",
+    "title": "Attention to other artificial openings of urinary tract",
+    "chapter": "Factors influencing health status and contact with health services",
+    "chapterCode": "XXI",
+    "block": "Persons encountering health services for specific procedures and health care",
+    "blockCode": "Z40-Z54",
+    "category": "Attention to artificial openings",
+    "categoryCode": "Z43",
+    "subcategory": "Z43.6",
+    "inclusion": [
+        "closure",
+        "passage of sounds or bougies",
+        "reforming",
+        "removal of catheter",
+        "toilet or cleansing",
+        "Nephrostomy",
+        "Ureterostomy",
+        "Urethrostomy"
+    ],
+    "exclusion": [
+        "follow-up examination for medical surveillance after treatment",
+        "artificial opening status only, without need for care",
+        "complications of external stoma",
+        "fitting and adjustment of prosthetic and other devices"
+    ],
+    "symptoms": [
+        "asymptomatic"
+    ]
+}

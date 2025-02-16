@@ -1,0 +1,25 @@
+{
+    "icd10code": "Q04.1",
+    "type": "subcategory",
+    "title": "Arhinencephaly",
+    "chapter": "Congenital malformations, deformations and chromosomal abnormalities",
+    "chapterCode": "XVII",
+    "block": "Congenital malformations of the nervous system",
+    "blockCode": "Q00-Q07",
+    "category": "Other congenital malformations of brain",
+    "categoryCode": "Q04",
+    "subcategory": "Q04.1",
+    "inclusion": null,
+    "exclusion": [
+        "inborn errors of metabolism",
+        "cyclopia",
+        "macrocephaly"
+    ],
+    "symptoms": [
+        "developmental delay",
+        "intellectual disability",
+        "impaired motor skills",
+        "seizures",
+        "abnormal head size"
+    ]
+}

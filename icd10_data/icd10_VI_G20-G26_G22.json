@@ -1,0 +1,25 @@
+{
+  "type": "category",
+  "chapterCode": "VI",
+  "chapter": "Diseases of the nervous system",
+  "blockCode": "G20-G26",
+  "block": "Extrapyramidal and movement disorders",
+  "categoryCode": "G22",
+  "category": "Parkinsonism in diseases classified elsewhere",
+  "subcategory": "",
+  "title": "Parkinsonism in diseases classified elsewhere",
+  "inclusion": [
+    "Syphilitic parkinsonism"
+  ],
+  "exclusion": [
+    "certain conditions originating in the perinatal period",
+    "certain infectious and parasitic diseases",
+    "complications of pregnancy, childbirth and the puerperium",
+    "congenital malformations, deformations and chromosomal abnormalities",
+    "endocrine, nutritional and metabolic diseases",
+    "injury, poisoning and certain other consequences of external causes",
+    "neoplasms",
+    "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified"
+  ],
+  "children": null
+}

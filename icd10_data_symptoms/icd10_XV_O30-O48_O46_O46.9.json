@@ -1,0 +1,34 @@
+{
+    "icd10code": "O46.9",
+    "type": "subcategory",
+    "title": "Antepartum haemorrhage, unspecified",
+    "chapter": "Pregnancy, childbirth and the puerperium",
+    "chapterCode": "XV",
+    "block": "Maternal care related to the fetus and amniotic cavity and possible delivery problems",
+    "blockCode": "O30-O48",
+    "category": "Antepartum haemorrhage, not elsewhere classified",
+    "categoryCode": "O46",
+    "subcategory": "O46.9",
+    "inclusion": null,
+    "exclusion": [
+        "Certain diseases or injuries complicating pregnancy, childbirth and the puerperium classified elsewhere: external causes (for mortality)",
+        "Certain diseases or injuries complicating pregnancy, childbirth and the puerperium classified elsewhere: injury, poisoning and certain other consequences of external cause",
+        "Certain diseases or injuries complicating pregnancy, childbirth and the puerperium classified elsewhere: mental and behavioural disorders associated with the puerperium",
+        "Certain diseases or injuries complicating pregnancy, childbirth and the puerperium classified elsewhere: obstetrical tetanus",
+        "Certain diseases or injuries complicating pregnancy, childbirth and the puerperium classified elsewhere: postpartum necrosis of pituitary gland",
+        "Certain diseases or injuries complicating pregnancy, childbirth and the puerperium classified elsewhere: puerperal osteomalacia",
+        "supervision of: high-risk pregnancy",
+        "supervision of: normal pregnancy",
+        "haemorrhage in early pregnancy",
+        "intrapartum haemorrhage NEC",
+        "placenta praevia",
+        "premature separation of placenta [abruptio placentae]"
+    ],
+    "symptoms": [
+        "vaginal bleeding",
+        "pelvic pain",
+        "uterine cramps",
+        "dizziness",
+        "weakness"
+    ]
+}

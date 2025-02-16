@@ -1,0 +1,35 @@
+{
+    "icd10code": "D53.1",
+    "type": "subcategory",
+    "title": "Other megaloblastic anaemias, not elsewhere classified",
+    "chapter": "Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism",
+    "chapterCode": "III",
+    "block": "Nutritional anaemias",
+    "blockCode": "D50-D53",
+    "category": "Other nutritional anaemias",
+    "categoryCode": "D53",
+    "subcategory": "D53.1",
+    "inclusion": [
+        "megaloblastic anaemia unresponsive to vitamin B 12 or folate therapy",
+        "Megaloblastic anaemia NOS"
+    ],
+    "exclusion": [
+        "autoimmune disease (systemic) NOS",
+        "certain conditions originating in the perinatal period",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "human immunodeficiency virus [HIV] disease",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "Di Guglielmo disease"
+    ],
+    "symptoms": [
+        "fatigue",
+        "numbness or tingling in hands and feet",
+        "trouble walking",
+        "pale or yellowish skin",
+        "glossitis (inflamed tongue)"
+    ]
+}

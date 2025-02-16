@@ -1,0 +1,35 @@
+{
+    "icd10code": "J62.8",
+    "type": "subcategory",
+    "title": "Pneumoconiosis due to other dust containing silica",
+    "chapter": "Diseases of the respiratory system",
+    "chapterCode": "X",
+    "block": "Lung diseases due to external agents",
+    "blockCode": "J60-J70",
+    "category": "Pneumoconiosis due to dust containing silica",
+    "categoryCode": "J62",
+    "subcategory": "J62.8",
+    "inclusion": [
+        "silicotic fibrosis (massive) of lung",
+        "Silicosis NOS"
+    ],
+    "exclusion": [
+        "certain conditions originating in the perinatal period",
+        "certain infectious and parasitic diseases",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "asthma classified to J45.-",
+        "neonatal aspiration syndromes"
+    ],
+    "symptoms": [
+        "cough",
+        "shortness of breath",
+        "chest pain",
+        "wheezing",
+        "fatigue"
+    ]
+}

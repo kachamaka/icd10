@@ -1,0 +1,25 @@
+{
+  "type": "subcategory",
+  "chapterCode": "VI",
+  "chapter": "Diseases of the nervous system",
+  "blockCode": "G70-G73",
+  "block": "Diseases of myoneural junction and muscle",
+  "categoryCode": "G70",
+  "category": "Myasthenia gravis and other myoneural disorders",
+  "subcategory": "G70.2",
+  "title": "Congenital and developmental myasthenia",
+  "inclusion": null,
+  "exclusion": [
+    "certain conditions originating in the perinatal period",
+    "certain infectious and parasitic diseases",
+    "complications of pregnancy, childbirth and the puerperium",
+    "congenital malformations, deformations and chromosomal abnormalities",
+    "endocrine, nutritional and metabolic diseases",
+    "injury, poisoning and certain other consequences of external causes",
+    "neoplasms",
+    "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+    "botulism",
+    "transient neonatal myasthenia gravis"
+  ],
+  "children": null
+}

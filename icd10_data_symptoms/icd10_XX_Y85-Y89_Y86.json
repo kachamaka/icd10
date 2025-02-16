@@ -1,0 +1,17 @@
+{
+    "icd10code": "Y86",
+    "type": "category",
+    "title": "Sequelae of other accidents",
+    "chapter": "External causes of morbidity and mortality",
+    "chapterCode": "XX",
+    "block": "Sequelae of external causes of morbidity and mortality",
+    "blockCode": "Y85-Y89",
+    "category": "Sequelae of other accidents",
+    "categoryCode": "Y86",
+    "subcategory": "",
+    "inclusion": null,
+    "exclusion": null,
+    "symptoms": [
+        "asymptomatic"
+    ]
+}

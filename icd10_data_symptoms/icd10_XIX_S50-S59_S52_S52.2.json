@@ -1,0 +1,36 @@
+{
+    "icd10code": "S52.2",
+    "type": "subcategory",
+    "title": "Fracture of shaft of ulna",
+    "chapter": "Injury, poisoning and certain other consequences of external causes",
+    "chapterCode": "XIX",
+    "block": "Injuries to the elbow and forearm",
+    "blockCode": "S50-S59",
+    "category": "Fracture of forearm",
+    "categoryCode": "S52",
+    "subcategory": "S52.2",
+    "inclusion": null,
+    "exclusion": [
+        "birth trauma",
+        "obstetric trauma",
+        "malunion of fracture",
+        "nonunion of fracture [pseudarthrosis]",
+        "pathological fracture",
+        "pathological fracture with osteoporosis",
+        "stress fracture",
+        "bilateral involvement of elbow and forearm",
+        "burns and corrosions",
+        "frostbite",
+        "injuries of: arm, level unspecified",
+        "injuries of: wrist and hand",
+        "insect bite or sting, venomous",
+        "other and unspecified injuries of wrist and hand"
+    ],
+    "symptoms": [
+        "pain in forearm",
+        "swelling in forearm",
+        "limited range of motion",
+        "tenderness at fracture site",
+        "visible deformity in forearm"
+    ]
+}

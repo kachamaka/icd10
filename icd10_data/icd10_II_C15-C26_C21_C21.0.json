@@ -1,0 +1,18 @@
+{
+  "type": "subcategory",
+  "chapterCode": "II",
+  "chapter": "Neoplasms",
+  "blockCode": "C15-C26",
+  "block": "Malignant neoplasms of digestive organs",
+  "categoryCode": "C21",
+  "category": "Malignant neoplasm of anus and anal canal",
+  "subcategory": "C21.0",
+  "title": "Malignant neoplasm: Anus, unspecified",
+  "inclusion": null,
+  "exclusion": [
+    "anal: margin",
+    "anal: skin",
+    "perianal skin"
+  ],
+  "children": null
+}

@@ -1,0 +1,30 @@
+{
+    "icd10code": "C76.3",
+    "type": "subcategory",
+    "title": "Malignant neoplasm of other and ill-defined sites: Pelvis",
+    "chapter": "Neoplasms",
+    "chapterCode": "II",
+    "block": "Malignant neoplasms of ill-defined, secondary and unspecified sites",
+    "blockCode": "C76-C80",
+    "category": "Malignant neoplasm of other and ill-defined sites",
+    "categoryCode": "C76",
+    "subcategory": "C76.3",
+    "inclusion": [
+        "Groin NOS",
+        "Sites overlapping systems within the pelvis, such as: rectovaginal (septum)",
+        "Sites overlapping systems within the pelvis, such as: rectovesical (septum)"
+    ],
+    "exclusion": [
+        "malignant neoplasm of: genitourinary tract NOS: female",
+        "malignant neoplasm of: genitourinary tract NOS: male",
+        "malignant neoplasm of: lymphoid, haematopoietic and related tissue",
+        "malignant neoplasm of: unspecified site"
+    ],
+    "symptoms": [
+        "abdominal pain",
+        "unexpected weight loss",
+        "loss of appetite",
+        "jaundice",
+        "fatigue"
+    ]
+}

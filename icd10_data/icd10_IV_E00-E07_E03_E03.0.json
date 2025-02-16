@@ -1,0 +1,24 @@
+{
+  "type": "subcategory",
+  "chapterCode": "IV",
+  "chapter": "Endocrine, nutritional and metabolic diseases",
+  "blockCode": "E00-E07",
+  "block": "Disorders of thyroid gland",
+  "categoryCode": "E03",
+  "category": "Other hypothyroidism",
+  "subcategory": "E03.0",
+  "title": "Congenital hypothyroidism with diffuse goitre",
+  "inclusion": [
+    "Goitre (nontoxic) congenital: NOS",
+    "Goitre (nontoxic) congenital: parenchymatous"
+  ],
+  "exclusion": [
+    "complications of pregnancy, childbirth and the puerperium",
+    "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+    "transitory endocrine and metabolic disorders specific to fetus and newborn",
+    "iodine-deficiency-related hypothyroidism",
+    "postprocedural hypothyroidism",
+    "transitory congenital goitre with normal function"
+  ],
+  "children": null
+}

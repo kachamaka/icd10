@@ -1,0 +1,23 @@
+{
+  "type": "subcategory",
+  "chapterCode": "XXI",
+  "chapter": "Factors influencing health status and contact with health services",
+  "blockCode": "Z80-Z99",
+  "block": "Persons with potential health hazards related to family and personal history and certain conditions influencing health status",
+  "categoryCode": "Z85",
+  "category": "Personal history of malignant neoplasm",
+  "subcategory": "Z85.8",
+  "title": "Personal history of malignant neoplasms of other organs and systems",
+  "inclusion": [
+    "Conditions classifiable to C00-C14, C40-C49, C69-C79, C97"
+  ],
+  "exclusion": [
+    "follow-up examination",
+    "follow-up medical care and convalescence",
+    "when family or personal history is the reason for special screening or other examination or investigation",
+    "when the possibility that the fetus might be affected is the reason for observation or action during pregnancy",
+    "follow-up medical care and convalescence",
+    "follow-up examination after treatment of malignant neoplasm"
+  ],
+  "children": null
+}

@@ -1,0 +1,20 @@
+{
+  "type": "category",
+  "chapterCode": "XVIII",
+  "chapter": "Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+  "blockCode": "R50-R69",
+  "block": "General symptoms and signs",
+  "categoryCode": "R69",
+  "category": "Unknown and unspecified causes of morbidity",
+  "subcategory": "",
+  "title": "Unknown and unspecified causes of morbidity",
+  "inclusion": [
+    "Illness NOS",
+    "Undiagnosed disease, not specified as to the site or system involved"
+  ],
+  "exclusion": [
+    "abnormal findings on antenatal screening of mother",
+    "certain conditions originating in the perinatal period"
+  ],
+  "children": null
+}

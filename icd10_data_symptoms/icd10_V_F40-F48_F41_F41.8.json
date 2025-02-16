@@ -1,0 +1,27 @@
+{
+    "icd10code": "F41.8",
+    "type": "subcategory",
+    "title": "Other specified anxiety disorders",
+    "chapter": "Mental and behavioural disorders",
+    "chapterCode": "V",
+    "block": "Neurotic, stress-related and somatoform disorders",
+    "blockCode": "F40-F48",
+    "category": "Other anxiety disorders",
+    "categoryCode": "F41",
+    "subcategory": "F41.8",
+    "inclusion": [
+        "disorders of psychological development",
+        "Anxiety hysteria"
+    ],
+    "exclusion": [
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "when associated with conduct disorder in F91.-"
+    ],
+    "symptoms": [
+        "restlessness",
+        "fatigue",
+        "difficulty concentrating",
+        "muscle tension",
+        "sleep disturbances"
+    ]
+}

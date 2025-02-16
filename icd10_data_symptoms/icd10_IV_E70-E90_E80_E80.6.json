@@ -1,0 +1,35 @@
+{
+    "icd10code": "E80.6",
+    "type": "subcategory",
+    "title": "Other disorders of bilirubin metabolism",
+    "chapter": "Endocrine, nutritional and metabolic diseases",
+    "chapterCode": "IV",
+    "block": "Metabolic disorders",
+    "blockCode": "E70-E90",
+    "category": "Disorders of porphyrin and bilirubin metabolism",
+    "categoryCode": "E80",
+    "subcategory": "E80.6",
+    "inclusion": [
+        "defects of catalase and peroxidase",
+        "Dubin-Johnson syndrome",
+        "Rotor syndrome"
+    ],
+    "exclusion": [
+        "complications of pregnancy, childbirth and the puerperium",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "transitory endocrine and metabolic disorders specific to fetus and newborn",
+        "androgen resistance syndrome",
+        "congenital adrenal hyperplasia",
+        "Ehlers-Danlos syndrome",
+        "haemolytic anaemias due to enzyme disorders",
+        "Marfan syndrome",
+        "5-alpha-reductase deficiency"
+    ],
+    "symptoms": [
+        "jaundice",
+        "pruritus",
+        "dark urine",
+        "abdominal pain",
+        "fatigue"
+    ]
+}

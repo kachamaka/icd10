@@ -1,0 +1,24 @@
+{
+    "icd10code": "Q63.1",
+    "type": "subcategory",
+    "title": "Lobulated, fused and horseshoe kidney",
+    "chapter": "Congenital malformations, deformations and chromosomal abnormalities",
+    "chapterCode": "XVII",
+    "block": "Congenital malformations of the urinary system",
+    "blockCode": "Q60-Q64",
+    "category": "Other congenital malformations of kidney",
+    "categoryCode": "Q63",
+    "subcategory": "Q63.1",
+    "inclusion": null,
+    "exclusion": [
+        "inborn errors of metabolism",
+        "congenital nephrotic syndrome"
+    ],
+    "symptoms": [
+        "abnormal kidney shape",
+        "horseshoe kidney",
+        "urinary tract infections",
+        "flank pain",
+        "kidney stones"
+    ]
+}

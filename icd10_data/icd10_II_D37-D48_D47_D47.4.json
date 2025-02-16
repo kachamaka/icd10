@@ -1,0 +1,21 @@
+{
+  "type": "subcategory",
+  "chapterCode": "II",
+  "chapter": "Neoplasms",
+  "blockCode": "D37-D48",
+  "block": "Neoplasms of uncertain or unknown behaviour",
+  "categoryCode": "D47",
+  "category": "Other neoplasms of uncertain or unknown behaviour of lymphoid, haematopoietic and related tissue",
+  "subcategory": "D47.4",
+  "title": "Osteomyelofibrosis",
+  "inclusion": [
+    "Chronic idiopathic myelofibrosis",
+    "Myelofibrosis (idiopathic) (with myeloid metaplasia)",
+    "Myelosclerosis (megakaryocytic) with myeloid metaplasia",
+    "Secondary myelofibrosis in myeloproliferative disease"
+  ],
+  "exclusion": [
+    "acute myelofibrosis"
+  ],
+  "children": null
+}

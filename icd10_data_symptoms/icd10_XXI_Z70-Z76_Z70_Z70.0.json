@@ -1,0 +1,21 @@
+{
+    "icd10code": "Z70.0",
+    "type": "subcategory",
+    "title": "Counselling related to sexual attitude",
+    "chapter": "Factors influencing health status and contact with health services",
+    "chapterCode": "XXI",
+    "block": "Persons encountering health services in other circumstances",
+    "blockCode": "Z70-Z76",
+    "category": "Counselling related to sexual attitude, behaviour and orientation",
+    "categoryCode": "Z70",
+    "subcategory": "Z70.0",
+    "inclusion": [
+        "Person concerned regarding embarrassment, timidity or other negative response to sexual matters"
+    ],
+    "exclusion": [
+        "contraceptive or procreative counselling"
+    ],
+    "symptoms": [
+        "asymptomatic"
+    ]
+}

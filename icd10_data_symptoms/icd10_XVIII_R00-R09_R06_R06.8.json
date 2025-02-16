@@ -1,0 +1,37 @@
+{
+    "icd10code": "R06.8",
+    "type": "subcategory",
+    "title": "Other and unspecified abnormalities of breathing",
+    "chapter": "Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+    "chapterCode": "XVIII",
+    "block": "Symptoms and signs involving the circulatory and respiratory systems",
+    "blockCode": "R00-R09",
+    "category": "Abnormalities of breathing",
+    "categoryCode": "R06",
+    "subcategory": "R06.8",
+    "inclusion": [
+        "Apnoea NOS",
+        "Breath-holding (spells)",
+        "Choking sensation",
+        "Sighing"
+    ],
+    "exclusion": [
+        "abnormal findings on antenatal screening of mother",
+        "certain conditions originating in the perinatal period",
+        "respiratory: arrest",
+        "respiratory: distress: syndrome of adult",
+        "respiratory: distress: in newborn",
+        "respiratory: failure",
+        "respiratory: failure of newborn",
+        "apnoea (of): newborn",
+        "apnoea (of): sleep",
+        "apnoea (of): sleep newborn (primary)"
+    ],
+    "symptoms": [
+        "shortness of breath",
+        "chest tightness",
+        "labored breathing",
+        "rapid breathing",
+        "irregular breathing"
+    ]
+}

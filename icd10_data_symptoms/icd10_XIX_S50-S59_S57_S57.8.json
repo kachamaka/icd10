@@ -1,0 +1,36 @@
+{
+    "icd10code": "S57.8",
+    "type": "subcategory",
+    "title": "Crushing injury of other parts of forearm",
+    "chapter": "Injury, poisoning and certain other consequences of external causes",
+    "chapterCode": "XIX",
+    "block": "Injuries to the elbow and forearm",
+    "blockCode": "S50-S59",
+    "category": "Crushing injury of forearm",
+    "categoryCode": "S57",
+    "subcategory": "S57.8",
+    "inclusion": null,
+    "exclusion": [
+        "birth trauma",
+        "obstetric trauma",
+        "malunion of fracture",
+        "nonunion of fracture [pseudarthrosis]",
+        "pathological fracture",
+        "pathological fracture with osteoporosis",
+        "stress fracture",
+        "bilateral involvement of elbow and forearm",
+        "burns and corrosions",
+        "frostbite",
+        "injuries of: arm, level unspecified",
+        "injuries of: wrist and hand",
+        "insect bite or sting, venomous",
+        "Monteggia fracture-dislocation"
+    ],
+    "symptoms": [
+        "pain in forearm",
+        "swelling in forearm",
+        "limited range of motion",
+        "bruising",
+        "weakness in arm"
+    ]
+}

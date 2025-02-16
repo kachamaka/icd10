@@ -1,0 +1,24 @@
+{
+  "type": "subcategory",
+  "chapterCode": "V",
+  "chapter": "Mental and behavioural disorders",
+  "blockCode": "F30-F39",
+  "block": "Mood [affective] disorders",
+  "categoryCode": "F31",
+  "category": "Bipolar affective disorder",
+  "subcategory": "F31.5",
+  "title": "Bipolar affective disorder, current episode severe depression with psychotic symptoms",
+  "inclusion": [
+    "disorders of psychological development",
+    "manic depression",
+    "manic-depressive: illness",
+    "manic-depressive: psychosis",
+    "manic-depressive: reaction"
+  ],
+  "exclusion": [
+    "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+    "bipolar disorder, single manic episode",
+    "cyclothymia"
+  ],
+  "children": null
+}

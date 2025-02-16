@@ -1,0 +1,25 @@
+{
+    "icd10code": "Q78.5",
+    "type": "subcategory",
+    "title": "Metaphyseal dysplasia",
+    "chapter": "Congenital malformations, deformations and chromosomal abnormalities",
+    "chapterCode": "XVII",
+    "block": "Congenital malformations and deformations of the musculoskeletal system",
+    "blockCode": "Q65-Q79",
+    "category": "Other osteochondrodysplasias",
+    "categoryCode": "Q78",
+    "subcategory": "Q78.5",
+    "inclusion": [
+        "Pyle syndrome"
+    ],
+    "exclusion": [
+        "inborn errors of metabolism"
+    ],
+    "symptoms": [
+        "short stature",
+        "scoliosis",
+        "joint stiffness",
+        "brittle bones",
+        "hearing loss"
+    ]
+}

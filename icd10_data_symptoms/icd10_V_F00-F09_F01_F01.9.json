@@ -1,0 +1,26 @@
+{
+    "icd10code": "F01.9",
+    "type": "subcategory",
+    "title": "Vascular dementia, unspecified",
+    "chapter": "Mental and behavioural disorders",
+    "chapterCode": "V",
+    "block": "Organic, including symptomatic, mental disorders",
+    "blockCode": "F00-F09",
+    "category": "Vascular dementia",
+    "categoryCode": "F01",
+    "subcategory": "F01.9",
+    "inclusion": [
+        "disorders of psychological development",
+        "arteriosclerotic dementia"
+    ],
+    "exclusion": [
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified"
+    ],
+    "symptoms": [
+        "memory loss",
+        "confusion",
+        "difficulty with problem-solving",
+        "mood changes",
+        "impaired judgment"
+    ]
+}

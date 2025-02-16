@@ -1,0 +1,27 @@
+{
+    "icd10code": "Z04.0",
+    "type": "subcategory",
+    "title": "Blood-alcohol and blood-drug test",
+    "chapter": "Factors influencing health status and contact with health services",
+    "chapterCode": "XXI",
+    "block": "Persons encountering health services for examination and investigation",
+    "blockCode": "Z00-Z13",
+    "category": "Examination and observation for other reasons",
+    "categoryCode": "Z04",
+    "subcategory": "Z04.0",
+    "inclusion": [
+        "examination for medicolegal reasons"
+    ],
+    "exclusion": [
+        "examinations related to pregnancy and reproduction",
+        "presence of: alcohol in blood",
+        "presence of: drugs in blood"
+    ],
+    "symptoms": [
+        "emotional distress",
+        "anxiety",
+        "restlessness",
+        "confusion",
+        "irritability"
+    ]
+}

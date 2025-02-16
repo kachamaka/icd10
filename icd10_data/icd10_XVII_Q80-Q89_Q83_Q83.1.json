@@ -1,0 +1,19 @@
+{
+  "type": "subcategory",
+  "chapterCode": "XVII",
+  "chapter": "Congenital malformations, deformations and chromosomal abnormalities",
+  "blockCode": "Q80-Q89",
+  "block": "Other congenital malformations",
+  "categoryCode": "Q83",
+  "category": "Congenital malformations of breast",
+  "subcategory": "Q83.1",
+  "title": "Accessory breast",
+  "inclusion": [
+    "Supernumerary breast"
+  ],
+  "exclusion": [
+    "inborn errors of metabolism",
+    "absence of pectoral muscle"
+  ],
+  "children": null
+}

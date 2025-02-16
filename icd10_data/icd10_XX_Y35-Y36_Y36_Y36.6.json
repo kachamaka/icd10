@@ -1,0 +1,16 @@
+{
+  "type": "subcategory",
+  "chapterCode": "XX",
+  "chapter": "External causes of morbidity and mortality",
+  "blockCode": "Y35-Y36",
+  "block": "Legal intervention and operations of war",
+  "categoryCode": "Y36",
+  "category": "Operations of war",
+  "subcategory": "Y36.6",
+  "title": "War operations involving biological weapons",
+  "inclusion": [
+    "injuries to military personnel and civilians caused by war and civil insurrection"
+  ],
+  "exclusion": null,
+  "children": null
+}

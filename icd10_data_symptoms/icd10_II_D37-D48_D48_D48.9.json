@@ -1,0 +1,28 @@
+{
+    "icd10code": "D48.9",
+    "type": "subcategory",
+    "title": "Neoplasm of uncertain or unknown behaviour: Neoplasm of uncertain or unknown behaviour, unspecified",
+    "chapter": "Neoplasms",
+    "chapterCode": "II",
+    "block": "Neoplasms of uncertain or unknown behaviour",
+    "blockCode": "D37-D48",
+    "category": "Neoplasm of uncertain or unknown behaviour of other and unspecified sites",
+    "categoryCode": "D48",
+    "subcategory": "D48.9",
+    "inclusion": [
+        "\"Growth\" NOS",
+        "Neoplasm NOS",
+        "New growth NOS",
+        "Tumour NOS"
+    ],
+    "exclusion": [
+        "neurofibromatosis (nonmalignant)"
+    ],
+    "symptoms": [
+        "unexplained weight loss",
+        "persistent pain in a specific area",
+        "new lumps or swelling",
+        "unexplained fever",
+        "night sweats"
+    ]
+}

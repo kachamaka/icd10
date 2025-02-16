@@ -1,0 +1,18 @@
+{
+  "type": "subcategory",
+  "chapterCode": "XVII",
+  "chapter": "Congenital malformations, deformations and chromosomal abnormalities",
+  "blockCode": "Q65-Q79",
+  "block": "Congenital malformations and deformations of the musculoskeletal system",
+  "categoryCode": "Q67",
+  "category": "Congenital musculoskeletal deformities of head, face, spine and chest",
+  "subcategory": "Q67.0",
+  "title": "Facial asymmetry",
+  "inclusion": null,
+  "exclusion": [
+    "inborn errors of metabolism",
+    "congenital malformation syndromes classified to Q87.-",
+    "Potter syndrome"
+  ],
+  "children": null
+}

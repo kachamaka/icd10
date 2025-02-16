@@ -1,0 +1,28 @@
+{
+    "icd10code": "D22.2",
+    "type": "subcategory",
+    "title": "Melanocytic naevi of ear and external auricular canal",
+    "chapter": "Neoplasms",
+    "chapterCode": "II",
+    "block": "Benign neoplasms",
+    "blockCode": "D10-D36",
+    "category": "Melanocytic naevi",
+    "categoryCode": "D22",
+    "subcategory": "D22.2",
+    "inclusion": [
+        "morphology codes with behaviour code /0",
+        "morphology codes M872-M879 with behaviour code /0",
+        "naevus: NOS",
+        "naevus: blue",
+        "naevus: hairy",
+        "naevus: pigmented"
+    ],
+    "exclusion": null,
+    "symptoms": [
+        "painful skin lesion",
+        "change in skin color",
+        "growth or lump in skin",
+        "itching",
+        "bleeding or oozing from the mole"
+    ]
+}

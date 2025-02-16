@@ -1,0 +1,35 @@
+{
+    "icd10code": "H52.5",
+    "type": "subcategory",
+    "title": "Disorders of accommodation",
+    "chapter": "Diseases of the eye and adnexa",
+    "chapterCode": "VII",
+    "block": "Disorders of ocular muscles, binocular movement, accommodation and refraction",
+    "blockCode": "H49-H52",
+    "category": "Disorders of refraction and accommodation",
+    "categoryCode": "H52",
+    "subcategory": "H52.5",
+    "inclusion": [
+        "Internal ophthalmoplegia (complete)(total)",
+        "Paresis of accommodation",
+        "Spasm of accommodation"
+    ],
+    "exclusion": [
+        "certain conditions originating in the perinatal period",
+        "certain infectious and parasitic diseases",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "nystagmus and other irregular eye movements"
+    ],
+    "symptoms": [
+        "headaches",
+        "eye strain",
+        "blurred vision",
+        "double vision",
+        "difficulty focusing"
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "icd10code": "T94.0",
+    "type": "subcategory",
+    "title": "Sequelae of injuries involving multiple body regions",
+    "chapter": "Injury, poisoning and certain other consequences of external causes",
+    "chapterCode": "XIX",
+    "block": "Sequelae of injuries, of poisoning and of other consequences of external causes",
+    "blockCode": "T90-T98",
+    "category": "Sequelae of injuries involving multiple and unspecified body regions",
+    "categoryCode": "T94",
+    "subcategory": "T94.0",
+    "inclusion": [
+        "Sequelae of injury classifiable to T00-T07"
+    ],
+    "exclusion": [
+        "birth trauma",
+        "obstetric trauma",
+        "malunion of fracture",
+        "nonunion of fracture [pseudarthrosis]",
+        "pathological fracture",
+        "pathological fracture with osteoporosis",
+        "stress fracture"
+    ],
+    "symptoms": [
+        "chronic pain",
+        "limited mobility",
+        "muscle weakness",
+        "stiffness",
+        "joint deformity"
+    ]
+}

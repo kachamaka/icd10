@@ -1,0 +1,21 @@
+{
+    "icd10code": "C17.1",
+    "type": "subcategory",
+    "title": "Malignant neoplasm: Jejunum",
+    "chapter": "Neoplasms",
+    "chapterCode": "II",
+    "block": "Malignant neoplasms of digestive organs",
+    "blockCode": "C15-C26",
+    "category": "Malignant neoplasm of small intestine",
+    "categoryCode": "C17",
+    "subcategory": "C17.1",
+    "inclusion": null,
+    "exclusion": null,
+    "symptoms": [
+        "abdominal pain",
+        "unintentional weight loss",
+        "loss of appetite",
+        "blood in stool",
+        "fatigue"
+    ]
+}

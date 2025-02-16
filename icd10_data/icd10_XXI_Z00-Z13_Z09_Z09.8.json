@@ -1,0 +1,22 @@
+{
+  "type": "subcategory",
+  "chapterCode": "XXI",
+  "chapter": "Factors influencing health status and contact with health services",
+  "blockCode": "Z00-Z13",
+  "block": "Persons encountering health services for examination and investigation",
+  "categoryCode": "Z09",
+  "category": "Follow-up examination after treatment for conditions other than malignant neoplasms",
+  "subcategory": "Z09.8",
+  "title": "Follow-up examination after other treatment for other conditions",
+  "inclusion": [
+    "medical surveillance following treatment"
+  ],
+  "exclusion": [
+    "examinations related to pregnancy and reproduction",
+    "follow-up medical care and convalescence",
+    "medical surveillance following treatment for malignant neoplasms",
+    "surveillance of: contraception",
+    "surveillance of: prosthetic and other medical devices"
+  ],
+  "children": null
+}

@@ -1,0 +1,40 @@
+{
+    "icd10code": "P52.2",
+    "type": "subcategory",
+    "title": "Intraventricular (nontraumatic) haemorrhage, grade 3, and grade 4 of fetus and newborn",
+    "chapter": "Certain conditions originating in the perinatal period",
+    "chapterCode": "XVI",
+    "block": "Haemorrhagic and haematological disorders of fetus and newborn",
+    "blockCode": "P50-P61",
+    "category": "Intracranial nontraumatic haemorrhage of fetus and newborn",
+    "categoryCode": "P52",
+    "subcategory": "P52.2",
+    "inclusion": [
+        "conditions that have their origin in the perinatal period even though death or morbidity occurs later",
+        "intracranial haemorrhage due to anoxia or hypoxia",
+        "Subependymal haemorrhage with both intraventricular and intracerebral extension"
+    ],
+    "exclusion": [
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "tetanus neonatorum",
+        "whooping cough",
+        "congenital stenosis and stricture of bile ducts",
+        "Crigler-Najjar syndrome",
+        "Dubin-Johnson syndrome",
+        "Gilbert syndrome",
+        "hereditary haemolytic anaemias",
+        "due to inborn errors of metabolism",
+        "kernicterus",
+        "intracranial haemorrhage due to injury: other"
+    ],
+    "symptoms": [
+        "seizures",
+        "lethargy",
+        "poor feeding",
+        "vomiting",
+        "abnormal muscle tone"
+    ]
+}

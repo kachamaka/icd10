@@ -1,0 +1,27 @@
+{
+    "icd10code": "C34.0",
+    "type": "subcategory",
+    "title": "Malignant neoplasm: Main bronchus",
+    "chapter": "Neoplasms",
+    "chapterCode": "II",
+    "block": "Malignant neoplasms of respiratory and intrathoracic organs",
+    "blockCode": "C30-C39",
+    "category": "Malignant neoplasm of bronchus and lung",
+    "categoryCode": "C34",
+    "subcategory": "C34.0",
+    "inclusion": [
+        "middle ear",
+        "Carina",
+        "Hilus (of lung)"
+    ],
+    "exclusion": [
+        "mesothelioma"
+    ],
+    "symptoms": [
+        "persistent cough",
+        "coughing up blood",
+        "chest pain",
+        "shortness of breath",
+        "unexplained weight loss"
+    ]
+}

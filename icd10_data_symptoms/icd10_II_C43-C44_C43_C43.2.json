@@ -1,0 +1,25 @@
+{
+    "icd10code": "C43.2",
+    "type": "subcategory",
+    "title": "Malignant neoplasm: Malignant melanoma of ear and external auricular canal",
+    "chapter": "Neoplasms",
+    "chapterCode": "II",
+    "block": "Melanoma and other malignant neoplasms of skin",
+    "blockCode": "C43-C44",
+    "category": "Malignant melanoma of skin",
+    "categoryCode": "C43",
+    "subcategory": "C43.2",
+    "inclusion": [
+        "morphology codes M872-M879 with behaviour code /3"
+    ],
+    "exclusion": [
+        "malignant melanoma of skin of genital organs"
+    ],
+    "symptoms": [
+        "change in skin color",
+        "growth of pigmented skin patches",
+        "itchiness",
+        "skin lesion",
+        "irregular mole borders"
+    ]
+}

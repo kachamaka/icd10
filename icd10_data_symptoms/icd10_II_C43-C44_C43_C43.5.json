@@ -1,0 +1,30 @@
+{
+    "icd10code": "C43.5",
+    "type": "subcategory",
+    "title": "Malignant neoplasm: Malignant melanoma of trunk",
+    "chapter": "Neoplasms",
+    "chapterCode": "II",
+    "block": "Melanoma and other malignant neoplasms of skin",
+    "blockCode": "C43-C44",
+    "category": "Malignant melanoma of skin",
+    "categoryCode": "C43",
+    "subcategory": "C43.5",
+    "inclusion": [
+        "morphology codes M872-M879 with behaviour code /3",
+        "Anal: margin",
+        "Anal: skin",
+        "Perianal skin",
+        "Skin of breast"
+    ],
+    "exclusion": [
+        "malignant melanoma of skin of genital organs",
+        "anus NOS"
+    ],
+    "symptoms": [
+        "change in size of skin lesion",
+        "irregular border on skin",
+        "skin lesion with uneven color",
+        "bleeding or oozing from mole",
+        "itchiness or pain"
+    ]
+}

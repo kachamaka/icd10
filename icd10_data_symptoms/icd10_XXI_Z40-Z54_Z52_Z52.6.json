@@ -1,0 +1,20 @@
+{
+    "icd10code": "Z52.6",
+    "type": "subcategory",
+    "title": "Liver donor",
+    "chapter": "Factors influencing health status and contact with health services",
+    "chapterCode": "XXI",
+    "block": "Persons encountering health services for specific procedures and health care",
+    "blockCode": "Z40-Z54",
+    "category": "Donors of organs and tissues",
+    "categoryCode": "Z52",
+    "subcategory": "Z52.6",
+    "inclusion": null,
+    "exclusion": [
+        "follow-up examination for medical surveillance after treatment",
+        "examination of potential donor"
+    ],
+    "symptoms": [
+        "asymptomatic"
+    ]
+}

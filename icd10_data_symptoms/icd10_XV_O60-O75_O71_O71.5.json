@@ -1,0 +1,35 @@
+{
+    "icd10code": "O71.5",
+    "type": "subcategory",
+    "title": "Other obstetric injury to pelvic organs",
+    "chapter": "Pregnancy, childbirth and the puerperium",
+    "chapterCode": "XV",
+    "block": "Complications of labour and delivery",
+    "blockCode": "O60-O75",
+    "category": "Other obstetric trauma",
+    "categoryCode": "O71",
+    "subcategory": "O71.5",
+    "inclusion": [
+        "damage from instruments",
+        "Obstetric injury to: bladder",
+        "Obstetric injury to: urethra"
+    ],
+    "exclusion": [
+        "Certain diseases or injuries complicating pregnancy, childbirth and the puerperium classified elsewhere: external causes (for mortality)",
+        "Certain diseases or injuries complicating pregnancy, childbirth and the puerperium classified elsewhere: injury, poisoning and certain other consequences of external cause",
+        "Certain diseases or injuries complicating pregnancy, childbirth and the puerperium classified elsewhere: mental and behavioural disorders associated with the puerperium",
+        "Certain diseases or injuries complicating pregnancy, childbirth and the puerperium classified elsewhere: obstetrical tetanus",
+        "Certain diseases or injuries complicating pregnancy, childbirth and the puerperium classified elsewhere: postpartum necrosis of pituitary gland",
+        "Certain diseases or injuries complicating pregnancy, childbirth and the puerperium classified elsewhere: puerperal osteomalacia",
+        "supervision of: high-risk pregnancy",
+        "supervision of: normal pregnancy",
+        "(minor) laceration involving periurethral tissue only"
+    ],
+    "symptoms": [
+        "severe pelvic pain",
+        "vaginal bleeding",
+        "difficulty urinating",
+        "abnormal uterine contractions",
+        "signs of fetal distress"
+    ]
+}

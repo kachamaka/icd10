@@ -1,0 +1,25 @@
+{
+    "icd10code": "Z59.1",
+    "type": "subcategory",
+    "title": "Inadequate housing",
+    "chapter": "Factors influencing health status and contact with health services",
+    "chapterCode": "XXI",
+    "block": "Persons with potential health hazards related to socioeconomic and psychosocial circumstances",
+    "blockCode": "Z55-Z65",
+    "category": "Problems related to housing and economic circumstances",
+    "categoryCode": "Z59",
+    "subcategory": "Z59.1",
+    "inclusion": [
+        "Lack of heating",
+        "Restriction of space",
+        "Technical defects in home preventing adequate care",
+        "Unsatisfactory surroundings"
+    ],
+    "exclusion": [
+        "inadequate drinking-water supply",
+        "problems related to physical environment"
+    ],
+    "symptoms": [
+        "asymptomatic"
+    ]
+}

@@ -1,0 +1,47 @@
+{
+    "icd10code": "I70.0",
+    "type": "subcategory",
+    "title": "Atherosclerosis of aorta",
+    "chapter": "Diseases of the circulatory system",
+    "chapterCode": "IX",
+    "block": "Diseases of arteries, arterioles and capillaries",
+    "blockCode": "I70-I79",
+    "category": "Atherosclerosis",
+    "categoryCode": "I70",
+    "subcategory": "I70.0",
+    "inclusion": [
+        "arteriolosclerosis",
+        "arteriosclerosis",
+        "arteriosclerotic vascular disease",
+        "atheroma",
+        "degeneration: arterial",
+        "degeneration: arteriovascular",
+        "degeneration: vascular",
+        "endarteritis deformans or obliterans",
+        "senile: arteritis",
+        "senile: endarteritis"
+    ],
+    "exclusion": [
+        "certain conditions originating in the perinatal period",
+        "certain infectious and parasitic diseases",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "systemic connective tissue disorders",
+        "transient cerebral ischaemic attacks and related syndromes",
+        "Eisenmenger defect",
+        "congenital coronary (artery) aneurysm",
+        "ischaemic heart disease (chronic) NOS",
+        "sudden death: NOS"
+    ],
+    "symptoms": [
+        "severe leg pain especially when walking",
+        "sores that won't heal",
+        "leg numbness or weakness",
+        "color changes in legs or feet",
+        "cold leg"
+    ]
+}

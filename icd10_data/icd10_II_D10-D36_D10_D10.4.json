@@ -1,0 +1,22 @@
+{
+  "type": "subcategory",
+  "chapterCode": "II",
+  "chapter": "Neoplasms",
+  "blockCode": "D10-D36",
+  "block": "Benign neoplasms",
+  "categoryCode": "D10",
+  "category": "Benign neoplasm of mouth and pharynx",
+  "subcategory": "D10.4",
+  "title": "Benign neoplasm: Tonsil",
+  "inclusion": [
+    "morphology codes with behaviour code /0",
+    "Tonsil (faucial)(palatine)"
+  ],
+  "exclusion": [
+    "lingual tonsil",
+    "pharyngeal tonsil",
+    "tonsillar: fossa",
+    "tonsillar: pillars"
+  ],
+  "children": null
+}

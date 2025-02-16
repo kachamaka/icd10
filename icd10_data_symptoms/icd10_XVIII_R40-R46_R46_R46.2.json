@@ -1,0 +1,25 @@
+{
+    "icd10code": "R46.2",
+    "type": "subcategory",
+    "title": "Strange and inexplicable behaviour",
+    "chapter": "Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+    "chapterCode": "XVIII",
+    "block": "Symptoms and signs involving cognition, perception, emotional state and behaviour",
+    "blockCode": "R40-R46",
+    "category": "Symptoms and signs involving appearance and behaviour",
+    "categoryCode": "R46",
+    "subcategory": "R46.2",
+    "inclusion": null,
+    "exclusion": [
+        "abnormal findings on antenatal screening of mother",
+        "certain conditions originating in the perinatal period",
+        "those constituting part of a pattern of mental disorder"
+    ],
+    "symptoms": [
+        "confusion",
+        "disorientation",
+        "impaired judgment",
+        "altered perception of reality",
+        "decreased awareness"
+    ]
+}

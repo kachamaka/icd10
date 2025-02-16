@@ -1,0 +1,28 @@
+{
+    "icd10code": "F29",
+    "type": "category",
+    "title": "Unspecified nonorganic psychosis",
+    "chapter": "Mental and behavioural disorders",
+    "chapterCode": "V",
+    "block": "Schizophrenia, schizotypal and delusional disorders",
+    "blockCode": "F20-F29",
+    "category": "Unspecified nonorganic psychosis",
+    "categoryCode": "F29",
+    "subcategory": "",
+    "inclusion": [
+        "disorders of psychological development",
+        "Psychosis NOS"
+    ],
+    "exclusion": [
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "mental disorder NOS",
+        "organic or symptomatic psychosis NOS"
+    ],
+    "symptoms": [
+        "delusions",
+        "hallucinations",
+        "disorganized speech",
+        "disorganized behavior",
+        "negative symptoms"
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "icd10code": "Q79.0",
+    "type": "subcategory",
+    "title": "Congenital diaphragmatic hernia",
+    "chapter": "Congenital malformations, deformations and chromosomal abnormalities",
+    "chapterCode": "XVII",
+    "block": "Congenital malformations and deformations of the musculoskeletal system",
+    "blockCode": "Q65-Q79",
+    "category": "Congenital malformations of the musculoskeletal system, not elsewhere classified",
+    "categoryCode": "Q79",
+    "subcategory": "Q79.0",
+    "inclusion": null,
+    "exclusion": [
+        "inborn errors of metabolism",
+        "congenital (sternomastoid) torticollis",
+        "congenital hiatus hernia"
+    ],
+    "symptoms": [
+        "abdominal wall defect",
+        "intestines outside body",
+        "visible organ protrusion",
+        "thin membranous sac",
+        "gastrointestinal complications"
+    ]
+}

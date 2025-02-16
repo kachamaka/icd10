@@ -1,0 +1,39 @@
+{
+    "icd10code": "H16.1",
+    "type": "subcategory",
+    "title": "Other superficial keratitis without conjunctivitis",
+    "chapter": "Diseases of the eye and adnexa",
+    "chapterCode": "VII",
+    "block": "Disorders of sclera, cornea, iris and ciliary body",
+    "blockCode": "H15-H22",
+    "category": "Keratitis",
+    "categoryCode": "H16",
+    "subcategory": "H16.1",
+    "inclusion": [
+        "Keratitis: areolar",
+        "Keratitis: filamentary",
+        "Keratitis: nummular",
+        "Keratitis: stellate",
+        "Keratitis: striate",
+        "Keratitis: superficial punctate",
+        "Photokeratitis",
+        "Snow blindness"
+    ],
+    "exclusion": [
+        "certain conditions originating in the perinatal period",
+        "certain infectious and parasitic diseases",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified"
+    ],
+    "symptoms": [
+        "redness",
+        "eye pain",
+        "tearing",
+        "blurred vision",
+        "sensitivity to light"
+    ]
+}

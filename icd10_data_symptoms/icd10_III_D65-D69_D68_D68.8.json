@@ -1,0 +1,33 @@
+{
+    "icd10code": "D68.8",
+    "type": "subcategory",
+    "title": "Other specified coagulation defects",
+    "chapter": "Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism",
+    "chapterCode": "III",
+    "block": "Coagulation defects, purpura and other haemorrhagic conditions",
+    "blockCode": "D65-D69",
+    "category": "Other coagulation defects",
+    "categoryCode": "D68",
+    "subcategory": "D68.8",
+    "inclusion": null,
+    "exclusion": [
+        "autoimmune disease (systemic) NOS",
+        "certain conditions originating in the perinatal period",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "human immunodeficiency virus [HIV] disease",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "traumatic rupture of spleen",
+        "splenomegaly: congenital"
+    ],
+    "symptoms": [
+        "unexplained bleeding or bruising",
+        "prolonged bleeding after cuts or surgery",
+        "frequent nosebleeds",
+        "heavy menstrual periods",
+        "excessive clotting"
+    ]
+}

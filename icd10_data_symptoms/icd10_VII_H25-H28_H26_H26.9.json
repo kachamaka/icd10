@@ -1,0 +1,31 @@
+{
+    "icd10code": "H26.9",
+    "type": "subcategory",
+    "title": "Cataract, unspecified",
+    "chapter": "Diseases of the eye and adnexa",
+    "chapterCode": "VII",
+    "block": "Disorders of lens",
+    "blockCode": "H25-H28",
+    "category": "Other cataract",
+    "categoryCode": "H26",
+    "subcategory": "H26.9",
+    "inclusion": null,
+    "exclusion": [
+        "certain conditions originating in the perinatal period",
+        "certain infectious and parasitic diseases",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "congenital cataract"
+    ],
+    "symptoms": [
+        "blurred vision",
+        "glare or halos",
+        "poor night vision",
+        "fading colors",
+        "frequent prescription changes"
+    ]
+}

@@ -1,0 +1,36 @@
+{
+    "icd10code": "F44.3",
+    "type": "subcategory",
+    "title": "Trance and possession disorders",
+    "chapter": "Mental and behavioural disorders",
+    "chapterCode": "V",
+    "block": "Neurotic, stress-related and somatoform disorders",
+    "blockCode": "F40-F48",
+    "category": "Dissociative [conversion] disorders",
+    "categoryCode": "F44",
+    "subcategory": "F44.3",
+    "inclusion": [
+        "disorders of psychological development",
+        "conversion: hysteria",
+        "conversion: reaction",
+        "hysteria",
+        "hysterical psychosis"
+    ],
+    "exclusion": [
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "when associated with conduct disorder in F91.-",
+        "malingering [conscious simulation]",
+        "states associated with: acute and transient psychotic disorders",
+        "states associated with: organic personality disorder",
+        "states associated with: postconcussional syndrome",
+        "states associated with: psychoactive substance intoxication",
+        "states associated with: schizophrenia"
+    ],
+    "symptoms": [
+        "altered consciousness",
+        "loss of sensation",
+        "amnesia",
+        "motor dysfunction",
+        "psuedoseizures"
+    ]
+}

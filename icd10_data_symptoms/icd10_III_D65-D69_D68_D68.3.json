@@ -1,0 +1,42 @@
+{
+    "icd10code": "D68.3",
+    "type": "subcategory",
+    "title": "Haemorrhagic disorder due to circulating anticoagulants",
+    "chapter": "Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism",
+    "chapterCode": "III",
+    "block": "Coagulation defects, purpura and other haemorrhagic conditions",
+    "blockCode": "D65-D69",
+    "category": "Other coagulation defects",
+    "categoryCode": "D68",
+    "subcategory": "D68.3",
+    "inclusion": [
+        "Haemorrhage during long-term use of anticoagulants",
+        "Hyperheparinaemia",
+        "Increase in: antithrombin",
+        "Increase in: anti-VIIIa",
+        "Increase in: anti-IXa",
+        "Increase in: anti-Xa",
+        "Increase in: anti-XIa"
+    ],
+    "exclusion": [
+        "autoimmune disease (systemic) NOS",
+        "certain conditions originating in the perinatal period",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "human immunodeficiency virus [HIV] disease",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "traumatic rupture of spleen",
+        "splenomegaly: congenital",
+        "long-term use of anticoagulants without haemorrhage"
+    ],
+    "symptoms": [
+        "excessive bleeding from minor cuts",
+        "frequent or unexplained bruising",
+        "prolonged or heavy menstrual cycles",
+        "frequent nosebleeds",
+        "bleeding gums"
+    ]
+}

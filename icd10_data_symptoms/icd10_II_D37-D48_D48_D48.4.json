@@ -1,0 +1,23 @@
+{
+    "icd10code": "D48.4",
+    "type": "subcategory",
+    "title": "Neoplasm of uncertain or unknown behaviour: Peritoneum",
+    "chapter": "Neoplasms",
+    "chapterCode": "II",
+    "block": "Neoplasms of uncertain or unknown behaviour",
+    "blockCode": "D37-D48",
+    "category": "Neoplasm of uncertain or unknown behaviour of other and unspecified sites",
+    "categoryCode": "D48",
+    "subcategory": "D48.4",
+    "inclusion": null,
+    "exclusion": [
+        "neurofibromatosis (nonmalignant)"
+    ],
+    "symptoms": [
+        "abnormal lump in breast",
+        "breast pain or discomfort",
+        "nipple discharge",
+        "change in breast size or shape",
+        "skin changes on breast"
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "icd10code": "F84.2",
+    "type": "subcategory",
+    "title": "Rett syndrome",
+    "chapter": "Mental and behavioural disorders",
+    "chapterCode": "V",
+    "block": "Disorders of psychological development",
+    "blockCode": "F80-F89",
+    "category": "Pervasive developmental disorders",
+    "categoryCode": "F84",
+    "subcategory": "F84.2",
+    "inclusion": [
+        "disorders of psychological development"
+    ],
+    "exclusion": [
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified"
+    ],
+    "symptoms": [
+        "delayed speech development",
+        "difficulty with social interactions",
+        "repetitive behaviors",
+        "narrow interests",
+        "lack of emotional reciprocity"
+    ]
+}

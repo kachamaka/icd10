@@ -1,0 +1,33 @@
+{
+    "icd10code": "B56.0",
+    "type": "subcategory",
+    "title": "Gambiense trypanosomiasis",
+    "chapter": "Certain infectious and parasitic diseases",
+    "chapterCode": "I",
+    "block": "Protozoal diseases",
+    "blockCode": "B50-B64",
+    "category": "African trypanosomiasis",
+    "categoryCode": "B56",
+    "subcategory": "B56.0",
+    "inclusion": [
+        "diseases generally recognized as communicable or transmissible",
+        "Infection due to Trypanosoma brucei gambiense",
+        "West African sleeping sickness"
+    ],
+    "exclusion": [
+        "carrier or suspected carrier of infectious disease",
+        "certain localized infections - see body system-related chapters",
+        "infectious and parasitic diseases complicating pregnancy, childbirth and the puerperium [except obstetrical tetanus]",
+        "infectious and parasitic diseases specific to the perinatal period [except tetanus neonatorum, whooping cough, congenital syphilis, perinatal gonococcal infection and perinatal human immunodeficiency virus [HIV] disease]",
+        "influenza and other acute respiratory infections",
+        "larval diphyllobothriasis",
+        "monkeypox"
+    ],
+    "symptoms": [
+        "fever",
+        "chills",
+        "muscle aches",
+        "fatigue",
+        "headache"
+    ]
+}

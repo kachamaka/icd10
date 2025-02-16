@@ -1,0 +1,26 @@
+{
+    "icd10code": "C24.8",
+    "type": "subcategory",
+    "title": "Malignant neoplasm: Overlapping lesion of biliary tract",
+    "chapter": "Neoplasms",
+    "chapterCode": "II",
+    "block": "Malignant neoplasms of digestive organs",
+    "blockCode": "C15-C26",
+    "category": "Malignant neoplasm of other and unspecified parts of biliary tract",
+    "categoryCode": "C24",
+    "subcategory": "C24.8",
+    "inclusion": [
+        "Malignant neoplasm involving both intrahepatic and extrahepatic bile ducts",
+        "Malignant neoplasm of biliary tract whose point of origin cannot be classified to any one of the categories C22.0-C24.1"
+    ],
+    "exclusion": [
+        "intrahepatic bile duct"
+    ],
+    "symptoms": [
+        "abdominal pain",
+        "loss of appetite",
+        "unexplained weight loss",
+        "jaundice",
+        "fatigue"
+    ]
+}

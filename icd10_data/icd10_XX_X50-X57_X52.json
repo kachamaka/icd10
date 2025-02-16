@@ -1,0 +1,19 @@
+{
+  "type": "category",
+  "chapterCode": "XX",
+  "chapter": "External causes of morbidity and mortality",
+  "blockCode": "X50-X57",
+  "block": "Overexertion, travel and privation",
+  "categoryCode": "X52",
+  "category": "Prolonged stay in weightless environment",
+  "subcategory": "",
+  "title": "Prolonged stay in weightless environment",
+  "inclusion": [
+    "weightlessness in spacecraft (simulator)"
+  ],
+  "exclusion": [
+    "assault",
+    "transport accidents"
+  ],
+  "children": null
+}

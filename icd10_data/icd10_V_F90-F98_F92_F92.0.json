@@ -1,0 +1,19 @@
+{
+  "type": "subcategory",
+  "chapterCode": "V",
+  "chapter": "Mental and behavioural disorders",
+  "blockCode": "F90-F98",
+  "block": "Behavioural and emotional disorders with onset usually occurring in childhood and adolescence",
+  "categoryCode": "F92",
+  "category": "Mixed disorders of conduct and emotions",
+  "subcategory": "F92.0",
+  "title": "Depressive conduct disorder",
+  "inclusion": [
+    "disorders of psychological development",
+    "Conduct disorder in F91.- associated with depressive disorder in F32.-"
+  ],
+  "exclusion": [
+    "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified"
+  ],
+  "children": null
+}

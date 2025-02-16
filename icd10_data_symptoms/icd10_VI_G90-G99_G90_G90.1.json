@@ -1,0 +1,31 @@
+{
+    "icd10code": "G90.1",
+    "type": "subcategory",
+    "title": "Familial dysautonomia [Riley-Day]",
+    "chapter": "Diseases of the nervous system",
+    "chapterCode": "VI",
+    "block": "Other disorders of the nervous system",
+    "blockCode": "G90-G99",
+    "category": "Disorders of autonomic nervous system",
+    "categoryCode": "G90",
+    "subcategory": "G90.1",
+    "inclusion": null,
+    "exclusion": [
+        "certain conditions originating in the perinatal period",
+        "certain infectious and parasitic diseases",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "dysfunction of autonomic nervous system due to alcohol"
+    ],
+    "symptoms": [
+        "pain",
+        "swelling",
+        "excessive sweating",
+        "skin color changes",
+        "temperature sensitivity"
+    ]
+}

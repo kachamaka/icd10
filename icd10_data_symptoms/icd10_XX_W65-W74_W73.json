@@ -1,0 +1,24 @@
+{
+    "icd10code": "W73",
+    "type": "category",
+    "title": "Other specified drowning and submersion",
+    "chapter": "External causes of morbidity and mortality",
+    "chapterCode": "XX",
+    "block": "Accidental drowning and submersion",
+    "blockCode": "W65-W74",
+    "category": "Other specified drowning and submersion",
+    "categoryCode": "W73",
+    "subcategory": "",
+    "inclusion": [
+        "quenching tank",
+        "reservoir"
+    ],
+    "exclusion": [
+        "drowning and submersion due to: cataclysm",
+        "drowning and submersion due to: transport accidents",
+        "drowning and submersion due to: water transport accident"
+    ],
+    "symptoms": [
+        "asymptomatic"
+    ]
+}

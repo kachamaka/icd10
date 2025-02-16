@@ -1,0 +1,40 @@
+{
+    "icd10code": "N85.4",
+    "type": "subcategory",
+    "title": "Malposition of uterus",
+    "chapter": "Diseases of the genitourinary system",
+    "chapterCode": "XIV",
+    "block": "Noninflammatory disorders of female genital tract",
+    "blockCode": "N80-N98",
+    "category": "Other noninflammatory disorders of uterus, except cervix",
+    "categoryCode": "N85",
+    "subcategory": "N85.4",
+    "inclusion": [
+        "Anteversion of uterus",
+        "Retroflexion of uterus",
+        "Retroversion of uterus"
+    ],
+    "exclusion": [
+        "certain conditions originating in the perinatal period",
+        "certain infectious and parasitic diseases",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "endometriosis",
+        "inflammatory diseases of uterus",
+        "noninflammatory disorders of cervix except malposition",
+        "polyp of corpus uteri",
+        "uterine prolapse",
+        "that complicating pregnancy, labour or delivery"
+    ],
+    "symptoms": [
+        "irregular bleeding",
+        "pelvic pain",
+        "unusual discharge",
+        "menstrual irregularities",
+        "lower abdominal discomfort"
+    ]
+}

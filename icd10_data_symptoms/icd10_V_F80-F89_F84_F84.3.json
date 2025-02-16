@@ -1,0 +1,30 @@
+{
+    "icd10code": "F84.3",
+    "type": "subcategory",
+    "title": "Other childhood disintegrative disorder",
+    "chapter": "Mental and behavioural disorders",
+    "chapterCode": "V",
+    "block": "Disorders of psychological development",
+    "blockCode": "F80-F89",
+    "category": "Pervasive developmental disorders",
+    "categoryCode": "F84",
+    "subcategory": "F84.3",
+    "inclusion": [
+        "disorders of psychological development",
+        "Dementia infantilis",
+        "Disintegrative psychosis",
+        "Heller syndrome",
+        "Symbiotic psychosis"
+    ],
+    "exclusion": [
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "Rett syndrome"
+    ],
+    "symptoms": [
+        "social communication difficulties",
+        "restricted interests",
+        "repetitive behaviors",
+        "sensory sensitivities",
+        "difficulty with changes"
+    ]
+}

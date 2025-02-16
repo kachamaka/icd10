@@ -1,0 +1,47 @@
+{
+    "icd10code": "D21.9",
+    "type": "subcategory",
+    "title": "Benign neoplasm: Connective and other soft tissue, unspecified",
+    "chapter": "Neoplasms",
+    "chapterCode": "II",
+    "block": "Benign neoplasms",
+    "blockCode": "D10-D36",
+    "category": "Other benign neoplasms of connective and other soft tissue",
+    "categoryCode": "D21",
+    "subcategory": "D21.9",
+    "inclusion": [
+        "morphology codes with behaviour code /0",
+        "blood vessel",
+        "bursa",
+        "cartilage",
+        "fascia",
+        "fat",
+        "ligament, except uterine",
+        "lymphatic channel",
+        "muscle",
+        "synovia",
+        "tendon (sheath)"
+    ],
+    "exclusion": [
+        "cartilage: articular",
+        "cartilage: larynx",
+        "cartilage: nose",
+        "connective tissue of breast",
+        "haemangioma",
+        "lipomatous neoplasm",
+        "lymphangioma",
+        "peripheral nerves and autonomic nervous system",
+        "peritoneum",
+        "retroperitoneum",
+        "uterine: leiomyoma",
+        "uterine: ligament, any",
+        "vascular tissue"
+    ],
+    "symptoms": [
+        "lump or mass in soft tissue of unspecified site",
+        "unexplained pain",
+        "swelling",
+        "inflammation",
+        "localized discomfort"
+    ]
+}

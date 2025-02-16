@@ -1,0 +1,30 @@
+{
+    "icd10code": "E27.2",
+    "type": "subcategory",
+    "title": "Addisonian crisis",
+    "chapter": "Endocrine, nutritional and metabolic diseases",
+    "chapterCode": "IV",
+    "block": "Disorders of other endocrine glands",
+    "blockCode": "E20-E35",
+    "category": "Other disorders of adrenal gland",
+    "categoryCode": "E27",
+    "subcategory": "E27.2",
+    "inclusion": [
+        "Adrenal crisis",
+        "Adrenocortical crisis"
+    ],
+    "exclusion": [
+        "complications of pregnancy, childbirth and the puerperium",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "transitory endocrine and metabolic disorders specific to fetus and newborn",
+        "galactorrhoea",
+        "gynaecomastia"
+    ],
+    "symptoms": [
+        "fatigue",
+        "muscle weakness",
+        "low blood pressure",
+        "irritability",
+        "depression"
+    ]
+}

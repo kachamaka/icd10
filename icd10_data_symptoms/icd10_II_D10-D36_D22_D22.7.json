@@ -1,0 +1,28 @@
+{
+    "icd10code": "D22.7",
+    "type": "subcategory",
+    "title": "Melanocytic naevi of lower limb, including hip",
+    "chapter": "Neoplasms",
+    "chapterCode": "II",
+    "block": "Benign neoplasms",
+    "blockCode": "D10-D36",
+    "category": "Melanocytic naevi",
+    "categoryCode": "D22",
+    "subcategory": "D22.7",
+    "inclusion": [
+        "morphology codes with behaviour code /0",
+        "morphology codes M872-M879 with behaviour code /0",
+        "naevus: NOS",
+        "naevus: blue",
+        "naevus: hairy",
+        "naevus: pigmented"
+    ],
+    "exclusion": null,
+    "symptoms": [
+        "abnormal skin growth",
+        "change in mole appearance",
+        "itching",
+        "irregular shape of skin lesion",
+        "darkening of skin mole"
+    ]
+}

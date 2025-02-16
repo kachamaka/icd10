@@ -1,0 +1,25 @@
+{
+  "type": "subcategory",
+  "chapterCode": "V",
+  "chapter": "Mental and behavioural disorders",
+  "blockCode": "F40-F48",
+  "block": "Neurotic, stress-related and somatoform disorders",
+  "categoryCode": "F40",
+  "category": "Phobic anxiety disorders",
+  "subcategory": "F40.2",
+  "title": "Specific (isolated) phobias",
+  "inclusion": [
+    "disorders of psychological development",
+    "Acrophobia",
+    "Animal phobias",
+    "Claustrophobia",
+    "Simple phobia"
+  ],
+  "exclusion": [
+    "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+    "when associated with conduct disorder in F91.-",
+    "dysmorphophobia (nondelusional)",
+    "nosophobia"
+  ],
+  "children": null
+}

@@ -1,0 +1,28 @@
+{
+    "icd10code": "C75.5",
+    "type": "subcategory",
+    "title": "Malignant neoplasm: Aortic body and other paraganglia",
+    "chapter": "Neoplasms",
+    "chapterCode": "II",
+    "block": "Malignant neoplasms of thyroid and other endocrine glands",
+    "blockCode": "C73-C75",
+    "category": "Malignant neoplasm of other endocrine glands and related structures",
+    "categoryCode": "C75",
+    "subcategory": "C75.5",
+    "inclusion": null,
+    "exclusion": [
+        "adrenal gland",
+        "endocrine pancreas",
+        "ovary",
+        "testis",
+        "thymus",
+        "thyroid gland"
+    ],
+    "symptoms": [
+        "persistent headaches",
+        "vision problems",
+        "nausea or vomiting",
+        "loss of balance or incoordination",
+        "personality changes"
+    ]
+}

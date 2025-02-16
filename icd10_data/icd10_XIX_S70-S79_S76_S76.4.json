@@ -1,0 +1,27 @@
+{
+  "type": "subcategory",
+  "chapterCode": "XIX",
+  "chapter": "Injury, poisoning and certain other consequences of external causes",
+  "blockCode": "S70-S79",
+  "block": "Injuries to the hip and thigh",
+  "categoryCode": "S76",
+  "category": "Injury of muscle and tendon at hip and thigh level",
+  "subcategory": "S76.4",
+  "title": "Injury of other and unspecified muscles and tendons at thigh level",
+  "inclusion": null,
+  "exclusion": [
+    "birth trauma",
+    "obstetric trauma",
+    "malunion of fracture",
+    "nonunion of fracture [pseudarthrosis]",
+    "pathological fracture",
+    "pathological fracture with osteoporosis",
+    "stress fracture",
+    "bilateral involvement of hip and thigh",
+    "burns and corrosions",
+    "frostbite",
+    "injuries of leg, level unspecified",
+    "insect bite or sting, venomous"
+  ],
+  "children": null
+}

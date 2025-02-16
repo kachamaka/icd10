@@ -1,0 +1,23 @@
+{
+  "type": "subcategory",
+  "chapterCode": "V",
+  "chapter": "Mental and behavioural disorders",
+  "blockCode": "F40-F48",
+  "block": "Neurotic, stress-related and somatoform disorders",
+  "categoryCode": "F43",
+  "category": "Reaction to severe stress, and adjustment disorders",
+  "subcategory": "F43.2",
+  "title": "Adjustment disorders",
+  "inclusion": [
+    "disorders of psychological development",
+    "Culture shock",
+    "Grief reaction",
+    "Hospitalism in children"
+  ],
+  "exclusion": [
+    "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+    "when associated with conduct disorder in F91.-",
+    "separation anxiety disorder of childhood"
+  ],
+  "children": null
+}

@@ -1,0 +1,26 @@
+{
+    "icd10code": "R20.8",
+    "type": "subcategory",
+    "title": "Other and unspecified disturbances of skin sensation",
+    "chapter": "Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+    "chapterCode": "XVIII",
+    "block": "Symptoms and signs involving the skin and subcutaneous tissue",
+    "blockCode": "R20-R23",
+    "category": "Disturbances of skin sensation",
+    "categoryCode": "R20",
+    "subcategory": "R20.8",
+    "inclusion": null,
+    "exclusion": [
+        "abnormal findings on antenatal screening of mother",
+        "certain conditions originating in the perinatal period",
+        "dissociative anaesthesia and sensory loss",
+        "psychogenic disturbances"
+    ],
+    "symptoms": [
+        "numbness",
+        "tingling",
+        "abnormal skin sensations",
+        "crawling sensation",
+        "pricking"
+    ]
+}

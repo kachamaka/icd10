@@ -1,0 +1,33 @@
+{
+    "icd10code": "Q38.0",
+    "type": "subcategory",
+    "title": "Congenital malformations of lips, not elsewhere classified",
+    "chapter": "Congenital malformations, deformations and chromosomal abnormalities",
+    "chapterCode": "XVII",
+    "block": "Other congenital malformations of the digestive system",
+    "blockCode": "Q38-Q45",
+    "category": "Other congenital malformations of tongue, mouth and pharynx",
+    "categoryCode": "Q38",
+    "subcategory": "Q38.0",
+    "inclusion": [
+        "Congenital: fistula of lip",
+        "Congenital: malformation of lip NOS",
+        "Van der Woude syndrome"
+    ],
+    "exclusion": [
+        "inborn errors of metabolism",
+        "macrostomia",
+        "microstomia",
+        "cleft lip",
+        "cleft lip with cleft palate",
+        "macrocheilia",
+        "microcheilia"
+    ],
+    "symptoms": [
+        "mouth pain",
+        "tongue swelling",
+        "difficulty swallowing",
+        "tongue redness",
+        "abnormal tongue shape"
+    ]
+}

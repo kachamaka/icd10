@@ -1,0 +1,20 @@
+{
+  "type": "subcategory",
+  "chapterCode": "II",
+  "chapter": "Neoplasms",
+  "blockCode": "D10-D36",
+  "block": "Benign neoplasms",
+  "categoryCode": "D12",
+  "category": "Benign neoplasm of colon, rectum, anus and anal canal",
+  "subcategory": "D12.9",
+  "title": "Benign neoplasm: Anus and anal canal",
+  "inclusion": [
+    "morphology codes with behaviour code /0"
+  ],
+  "exclusion": [
+    "anal: margin",
+    "anal: skin",
+    "perianal skin"
+  ],
+  "children": null
+}

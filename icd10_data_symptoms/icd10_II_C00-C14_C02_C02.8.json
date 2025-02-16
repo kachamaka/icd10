@@ -1,0 +1,23 @@
+{
+    "icd10code": "C02.8",
+    "type": "subcategory",
+    "title": "Malignant neoplasm: Overlapping lesion of tongue",
+    "chapter": "Neoplasms",
+    "chapterCode": "II",
+    "block": "Malignant neoplasms of lip, oral cavity and pharynx",
+    "blockCode": "C00-C14",
+    "category": "Malignant neoplasm of other and unspecified parts of tongue",
+    "categoryCode": "C02",
+    "subcategory": "C02.8",
+    "inclusion": [
+        "Malignant neoplasm of tongue whose point of origin cannot be classified to any one of the categories C01-C02.4"
+    ],
+    "exclusion": null,
+    "symptoms": [
+        "difficulty swallowing",
+        "sore throat",
+        "swollen lymph nodes",
+        "unexplained weight loss",
+        "persistent mouth ulcers"
+    ]
+}

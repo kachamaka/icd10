@@ -1,0 +1,25 @@
+{
+    "icd10code": "Z83.7",
+    "type": "subcategory",
+    "title": "Family history of diseases of the digestive system",
+    "chapter": "Factors influencing health status and contact with health services",
+    "chapterCode": "XXI",
+    "block": "Persons with potential health hazards related to family and personal history and certain conditions influencing health status",
+    "blockCode": "Z80-Z99",
+    "category": "Family history of other specific disorders",
+    "categoryCode": "Z83",
+    "subcategory": "Z83.7",
+    "inclusion": [
+        "Conditions classifiable to K00-K93"
+    ],
+    "exclusion": [
+        "follow-up examination",
+        "follow-up medical care and convalescence",
+        "when family or personal history is the reason for special screening or other examination or investigation",
+        "when the possibility that the fetus might be affected is the reason for observation or action during pregnancy",
+        "contact with or exposure to communicable disease in the family"
+    ],
+    "symptoms": [
+        "asymptomatic"
+    ]
+}

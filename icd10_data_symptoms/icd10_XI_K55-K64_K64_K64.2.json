@@ -1,0 +1,36 @@
+{
+    "icd10code": "K64.2",
+    "type": "subcategory",
+    "title": "Third degree haemorrhoids",
+    "chapter": "Diseases of the digestive system",
+    "chapterCode": "XI",
+    "block": "Other diseases of intestines",
+    "blockCode": "K55-K64",
+    "category": "Haemorrhoids and perianal venous thrombosis",
+    "categoryCode": "K64",
+    "subcategory": "K64.2",
+    "inclusion": [
+        "piles",
+        "Grade/stage III haemorrhoids",
+        "Haemorrhoids (bleeding) that prolapse with straining and require manual replacement back inside anal canal"
+    ],
+    "exclusion": [
+        "certain conditions originating in the perinatal period",
+        "certain infectious and parasitic diseases",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "complicating: childbirth and the puerperium",
+        "complicating: pregnancy"
+    ],
+    "symptoms": [
+        "painless rectal bleeding",
+        "anal itching",
+        "swelling or lump near anus",
+        "discomfort during bowel movements",
+        "soiling or leakage of stool"
+    ]
+}

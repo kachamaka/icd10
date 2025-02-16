@@ -1,0 +1,35 @@
+{
+    "icd10code": "Q27.8",
+    "type": "subcategory",
+    "title": "Other specified congenital malformations of peripheral vascular system",
+    "chapter": "Congenital malformations, deformations and chromosomal abnormalities",
+    "chapterCode": "XVII",
+    "block": "Congenital malformations of the circulatory system",
+    "blockCode": "Q20-Q28",
+    "category": "Other congenital malformations of peripheral vascular system",
+    "categoryCode": "Q27",
+    "subcategory": "Q27.8",
+    "inclusion": [
+        "Aberrant subclavian artery",
+        "Absence of artery or vein NEC",
+        "Atresia of artery or vein NEC",
+        "Congenital: aneurysm (peripheral)",
+        "Congenital: stricture, artery",
+        "Congenital: varix"
+    ],
+    "exclusion": [
+        "inborn errors of metabolism",
+        "anomalies of: cerebral and precerebral vessels",
+        "anomalies of: coronary vessels",
+        "anomalies of: pulmonary artery",
+        "congenital retinal aneurysm",
+        "haemangioma and lymphangioma"
+    ],
+    "symptoms": [
+        "abnormal blood vessels",
+        "vascular malformations",
+        "poor circulation",
+        "recurring swelling",
+        "localized pain"
+    ]
+}

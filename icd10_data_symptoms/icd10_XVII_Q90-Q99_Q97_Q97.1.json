@@ -1,0 +1,24 @@
+{
+    "icd10code": "Q97.1",
+    "type": "subcategory",
+    "title": "Female with more than three X chromosomes",
+    "chapter": "Congenital malformations, deformations and chromosomal abnormalities",
+    "chapterCode": "XVII",
+    "block": "Chromosomal abnormalities, not elsewhere classified",
+    "blockCode": "Q90-Q99",
+    "category": "Other sex chromosome abnormalities, female phenotype, not elsewhere classified",
+    "categoryCode": "Q97",
+    "subcategory": "Q97.1",
+    "inclusion": null,
+    "exclusion": [
+        "inborn errors of metabolism",
+        "Turner syndrome"
+    ],
+    "symptoms": [
+        "short stature",
+        "infertility",
+        "learning difficulties",
+        "delayed puberty",
+        "distinct facial features"
+    ]
+}

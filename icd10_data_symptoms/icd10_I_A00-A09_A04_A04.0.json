@@ -1,0 +1,31 @@
+{
+    "icd10code": "A04.0",
+    "type": "subcategory",
+    "title": "Enteropathogenic Escherichia coli infection",
+    "chapter": "Certain infectious and parasitic diseases",
+    "chapterCode": "I",
+    "block": "Intestinal infectious diseases",
+    "blockCode": "A00-A09",
+    "category": "Other bacterial intestinal infections",
+    "categoryCode": "A04",
+    "subcategory": "A04.0",
+    "inclusion": [
+        "diseases generally recognized as communicable or transmissible"
+    ],
+    "exclusion": [
+        "carrier or suspected carrier of infectious disease",
+        "certain localized infections - see body system-related chapters",
+        "infectious and parasitic diseases complicating pregnancy, childbirth and the puerperium [except obstetrical tetanus]",
+        "infectious and parasitic diseases specific to the perinatal period [except tetanus neonatorum, whooping cough, congenital syphilis, perinatal gonococcal infection and perinatal human immunodeficiency virus [HIV] disease]",
+        "influenza and other acute respiratory infections",
+        "postpolio syndrome",
+        "capillariasis: intestinal"
+    ],
+    "symptoms": [
+        "abdominal pain",
+        "diarrhea",
+        "fever",
+        "loss of appetite",
+        "nausea and violent vomiting"
+    ]
+}

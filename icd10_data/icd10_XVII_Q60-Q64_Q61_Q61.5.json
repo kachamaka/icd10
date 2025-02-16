@@ -1,0 +1,20 @@
+{
+  "type": "subcategory",
+  "chapterCode": "XVII",
+  "chapter": "Congenital malformations, deformations and chromosomal abnormalities",
+  "blockCode": "Q60-Q64",
+  "block": "Congenital malformations of the urinary system",
+  "categoryCode": "Q61",
+  "category": "Cystic kidney disease",
+  "subcategory": "Q61.5",
+  "title": "Medullary cystic kidney",
+  "inclusion": [
+    "Sponge kidney NOS"
+  ],
+  "exclusion": [
+    "inborn errors of metabolism",
+    "cyst of kidney (acquired)",
+    "Potter syndrome"
+  ],
+  "children": null
+}

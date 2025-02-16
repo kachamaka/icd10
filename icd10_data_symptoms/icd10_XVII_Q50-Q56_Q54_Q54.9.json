@@ -1,0 +1,27 @@
+{
+    "icd10code": "Q54.9",
+    "type": "subcategory",
+    "title": "Hypospadias, unspecified",
+    "chapter": "Congenital malformations, deformations and chromosomal abnormalities",
+    "chapterCode": "XVII",
+    "block": "Congenital malformations of genital organs",
+    "blockCode": "Q50-Q56",
+    "category": "Hypospadias",
+    "categoryCode": "Q54",
+    "subcategory": "Q54.9",
+    "inclusion": null,
+    "exclusion": [
+        "inborn errors of metabolism",
+        "androgen resistance syndrome",
+        "syndromes associated with anomalies in the number and form of chromosomes",
+        "testicular feminization syndrome",
+        "epispadias"
+    ],
+    "symptoms": [
+        "hypospadias",
+        "abnormal urine stream",
+        "penile curvature",
+        "difficulty urinating",
+        "recurrent urinary tract infections"
+    ]
+}

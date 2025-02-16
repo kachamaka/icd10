@@ -1,0 +1,53 @@
+{
+    "icd10code": "D21.3",
+    "type": "subcategory",
+    "title": "Benign neoplasm: Connective and other soft tissue of thorax",
+    "chapter": "Neoplasms",
+    "chapterCode": "II",
+    "block": "Benign neoplasms",
+    "blockCode": "D10-D36",
+    "category": "Other benign neoplasms of connective and other soft tissue",
+    "categoryCode": "D21",
+    "subcategory": "D21.3",
+    "inclusion": [
+        "morphology codes with behaviour code /0",
+        "blood vessel",
+        "bursa",
+        "cartilage",
+        "fascia",
+        "fat",
+        "ligament, except uterine",
+        "lymphatic channel",
+        "muscle",
+        "synovia",
+        "tendon (sheath)",
+        "Axilla",
+        "Diaphragm",
+        "Great vessels"
+    ],
+    "exclusion": [
+        "cartilage: articular",
+        "cartilage: larynx",
+        "cartilage: nose",
+        "connective tissue of breast",
+        "haemangioma",
+        "lipomatous neoplasm",
+        "lymphangioma",
+        "peripheral nerves and autonomic nervous system",
+        "peritoneum",
+        "retroperitoneum",
+        "uterine: leiomyoma",
+        "uterine: ligament, any",
+        "vascular tissue",
+        "heart",
+        "mediastinum",
+        "thymus"
+    ],
+    "symptoms": [
+        "lump in the abdomen",
+        "abdominal pain",
+        "change in bowel habits",
+        "unusual weight loss",
+        "swelling and tenderness in the abdomen"
+    ]
+}

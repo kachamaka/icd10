@@ -1,0 +1,26 @@
+{
+    "icd10code": "F07.9",
+    "type": "subcategory",
+    "title": "Unspecified organic personality and behavioural disorder due to brain disease, damage and dysfunction",
+    "chapter": "Mental and behavioural disorders",
+    "chapterCode": "V",
+    "block": "Organic, including symptomatic, mental disorders",
+    "blockCode": "F00-F09",
+    "category": "Personality and behavioural disorders due to brain disease, damage and dysfunction",
+    "categoryCode": "F07",
+    "subcategory": "F07.9",
+    "inclusion": [
+        "disorders of psychological development",
+        "Organic psychosyndrome"
+    ],
+    "exclusion": [
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified"
+    ],
+    "symptoms": [
+        "personality changes",
+        "mood swings",
+        "impaired judgment",
+        "difficulty with impulse control",
+        "altered decision-making ability"
+    ]
+}

@@ -1,0 +1,50 @@
+{
+    "icd10code": "P37.0",
+    "type": "subcategory",
+    "title": "Congenital tuberculosis",
+    "chapter": "Certain conditions originating in the perinatal period",
+    "chapterCode": "XVI",
+    "block": "Infections specific to the perinatal period",
+    "blockCode": "P35-P39",
+    "category": "Other congenital infectious and parasitic diseases",
+    "categoryCode": "P37",
+    "subcategory": "P37.0",
+    "inclusion": [
+        "conditions that have their origin in the perinatal period even though death or morbidity occurs later",
+        "infections acquired in utero or during birth"
+    ],
+    "exclusion": [
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "tetanus neonatorum",
+        "whooping cough",
+        "asymptomatic human immunodeficiency virus [HIV] infection status",
+        "congenital: gonococcal infection",
+        "congenital: pneumonia",
+        "congenital: syphilis",
+        "human immunodeficiency virus [HIV] disease",
+        "infectious diseases acquired after birth",
+        "intestinal infectious diseases",
+        "laboratory evidence of human immunodeficiency virus [HIV]",
+        "maternal infectious disease as a cause of mortality or morbidity in fetus or newborn not itself manifesting the disease",
+        "tetanus neonatorum",
+        "whooping cough",
+        "congenital syphilis",
+        "necrotizing enterocolitis of fetus or newborn",
+        "neonatal diarrhoea: infectious",
+        "neonatal diarrhoea: noninfective",
+        "neonatal diarrhoea: NOS",
+        "ophthalmia neonatorum due to gonococcus",
+        "tetanus neonatorum",
+        "whooping cough"
+    ],
+    "symptoms": [
+        "fever",
+        "hepatosplenomegaly",
+        "jaundice",
+        "respiratory distress",
+        "poor feeding"
+    ]
+}

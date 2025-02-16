@@ -1,0 +1,35 @@
+{
+    "icd10code": "N92.2",
+    "type": "subcategory",
+    "title": "Excessive menstruation at puberty",
+    "chapter": "Diseases of the genitourinary system",
+    "chapterCode": "XIV",
+    "block": "Noninflammatory disorders of female genital tract",
+    "blockCode": "N80-N98",
+    "category": "Excessive, frequent and irregular menstruation",
+    "categoryCode": "N92",
+    "subcategory": "N92.2",
+    "inclusion": [
+        "Excessive bleeding associated with onset of menstrual periods",
+        "Pubertal menorrhagia",
+        "Puberty bleeding"
+    ],
+    "exclusion": [
+        "certain conditions originating in the perinatal period",
+        "certain infectious and parasitic diseases",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "postmenopausal bleeding"
+    ],
+    "symptoms": [
+        "heavy menstrual bleeding",
+        "prolonged periods",
+        "irregular menstrual cycles",
+        "spotting between periods",
+        "increased menstrual flow duration"
+    ]
+}

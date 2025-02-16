@@ -1,0 +1,27 @@
+{
+    "icd10code": "Q30.0",
+    "type": "subcategory",
+    "title": "Choanal atresia",
+    "chapter": "Congenital malformations, deformations and chromosomal abnormalities",
+    "chapterCode": "XVII",
+    "block": "Congenital malformations of the respiratory system",
+    "blockCode": "Q30-Q34",
+    "category": "Congenital malformations of nose",
+    "categoryCode": "Q30",
+    "subcategory": "Q30.0",
+    "inclusion": [
+        "Atresia of nares (anterior)(posterior)",
+        "Congenital stenosis of nares (anterior)(posterior)"
+    ],
+    "exclusion": [
+        "inborn errors of metabolism",
+        "congenital deviation of nasal septum"
+    ],
+    "symptoms": [
+        "nasal obstruction",
+        "recurrent infections",
+        "breathing difficulties",
+        "snoring",
+        "nasal discharge"
+    ]
+}

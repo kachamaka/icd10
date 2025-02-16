@@ -1,0 +1,37 @@
+{
+    "icd10code": "H16.2",
+    "type": "subcategory",
+    "title": "Keratoconjunctivitis",
+    "chapter": "Diseases of the eye and adnexa",
+    "chapterCode": "VII",
+    "block": "Disorders of sclera, cornea, iris and ciliary body",
+    "blockCode": "H15-H22",
+    "category": "Keratitis",
+    "categoryCode": "H16",
+    "subcategory": "H16.2",
+    "inclusion": [
+        "Keratoconjunctivitis: NOS",
+        "Keratoconjunctivitis: exposure",
+        "Keratoconjunctivitis: neurotrophic",
+        "Keratoconjunctivitis: phlyctenular",
+        "Ophthalmia nodosa",
+        "Superficial keratitis with conjunctivitis"
+    ],
+    "exclusion": [
+        "certain conditions originating in the perinatal period",
+        "certain infectious and parasitic diseases",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified"
+    ],
+    "symptoms": [
+        "eye pain",
+        "red eyes",
+        "blurred vision",
+        "tearing",
+        "light sensitivity"
+    ]
+}

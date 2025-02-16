@@ -1,0 +1,35 @@
+{
+    "icd10code": "S98.0",
+    "type": "subcategory",
+    "title": "Traumatic amputation of foot at ankle level",
+    "chapter": "Injury, poisoning and certain other consequences of external causes",
+    "chapterCode": "XIX",
+    "block": "Injuries to the ankle and foot",
+    "blockCode": "S90-S99",
+    "category": "Traumatic amputation of ankle and foot",
+    "categoryCode": "S98",
+    "subcategory": "S98.0",
+    "inclusion": null,
+    "exclusion": [
+        "birth trauma",
+        "obstetric trauma",
+        "malunion of fracture",
+        "nonunion of fracture [pseudarthrosis]",
+        "pathological fracture",
+        "pathological fracture with osteoporosis",
+        "stress fracture",
+        "bilateral involvement of ankle and foot",
+        "burns and corrosions",
+        "fracture of ankle and malleolus",
+        "frostbite",
+        "injuries of leg, level unspecified",
+        "insect bite or sting, venomous"
+    ],
+    "symptoms": [
+        "pain",
+        "swelling",
+        "bruising",
+        "open wound",
+        "impaired movement"
+    ]
+}

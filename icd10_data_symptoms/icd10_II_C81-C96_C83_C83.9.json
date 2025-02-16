@@ -1,0 +1,23 @@
+{
+    "icd10code": "C83.9",
+    "type": "subcategory",
+    "title": "Non-follicular (diffuse) lymphoma, unspecified",
+    "chapter": "Neoplasms",
+    "chapterCode": "II",
+    "block": "Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",
+    "blockCode": "C81-C96",
+    "category": "Non-follicular lymphoma",
+    "categoryCode": "C83",
+    "subcategory": "C83.9",
+    "inclusion": null,
+    "exclusion": [
+        "secondary and unspecified neoplasm of lymph nodes"
+    ],
+    "symptoms": [
+        "unexplained weight loss",
+        "fatigue",
+        "enlarged lymph nodes",
+        "fever",
+        "night sweats"
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "icd10code": "C16.9",
+    "type": "subcategory",
+    "title": "Malignant neoplasm: Stomach, unspecified",
+    "chapter": "Neoplasms",
+    "chapterCode": "II",
+    "block": "Malignant neoplasms of digestive organs",
+    "blockCode": "C15-C26",
+    "category": "Malignant neoplasm of stomach",
+    "categoryCode": "C16",
+    "subcategory": "C16.9",
+    "inclusion": [
+        "Gastric cancer NOS"
+    ],
+    "exclusion": null,
+    "symptoms": [
+        "abdominal pain",
+        "indigestion or heartburn",
+        "unexplained weight loss",
+        "vomiting",
+        "loss of appetite"
+    ]
+}

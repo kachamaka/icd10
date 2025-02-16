@@ -1,0 +1,35 @@
+{
+    "icd10code": "N50.1",
+    "type": "subcategory",
+    "title": "Vascular disorders of male genital organs",
+    "chapter": "Diseases of the genitourinary system",
+    "chapterCode": "XIV",
+    "block": "Diseases of male genital organs",
+    "blockCode": "N40-N51",
+    "category": "Other disorders of male genital organs",
+    "categoryCode": "N50",
+    "subcategory": "N50.1",
+    "inclusion": [
+        "Haematocele NOS of male genital organs",
+        "Haemorrhage of male genital organs",
+        "Thrombosis of male genital organs"
+    ],
+    "exclusion": [
+        "certain conditions originating in the perinatal period",
+        "certain infectious and parasitic diseases",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "torsion of testis"
+    ],
+    "symptoms": [
+        "scrotal pain",
+        "swelling",
+        "discomfort",
+        "tenderness",
+        "erythema"
+    ]
+}

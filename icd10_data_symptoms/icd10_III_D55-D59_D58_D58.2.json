@@ -1,0 +1,44 @@
+{
+    "icd10code": "D58.2",
+    "type": "subcategory",
+    "title": "Other haemoglobinopathies",
+    "chapter": "Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism",
+    "chapterCode": "III",
+    "block": "Haemolytic anaemias",
+    "blockCode": "D55-D59",
+    "category": "Other hereditary haemolytic anaemias",
+    "categoryCode": "D58",
+    "subcategory": "D58.2",
+    "inclusion": [
+        "Abnormal haemoglobin NOS",
+        "Congenital Heinz body anaemia",
+        "Disease: Hb-C",
+        "Disease: Hb-D",
+        "Disease: Hb-E",
+        "Haemoglobinopathy NOS",
+        "Unstable haemoglobin haemolytic disease"
+    ],
+    "exclusion": [
+        "autoimmune disease (systemic) NOS",
+        "certain conditions originating in the perinatal period",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "human immunodeficiency virus [HIV] disease",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "familial polycythaemia",
+        "Hb-M disease",
+        "hereditary persistence of fetal haemoglobin [HPFH]",
+        "high-altitude polycythaemia",
+        "methaemoglobinaemia"
+    ],
+    "symptoms": [
+        "fatigue",
+        "shortness of breath",
+        "rapid heart rate",
+        "pale or yellow skin",
+        "dark urine"
+    ]
+}

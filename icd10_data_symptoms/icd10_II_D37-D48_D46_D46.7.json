@@ -1,0 +1,28 @@
+{
+    "icd10code": "D46.7",
+    "type": "subcategory",
+    "title": "Other myelodysplastic syndromes",
+    "chapter": "Neoplasms",
+    "chapterCode": "II",
+    "block": "Neoplasms of uncertain or unknown behaviour",
+    "blockCode": "D37-D48",
+    "category": "Myelodysplastic syndromes",
+    "categoryCode": "D46",
+    "subcategory": "D46.7",
+    "inclusion": [
+        "Alkylating-agent-related myelodysplastic syndrome",
+        "Epipodophyllotoxin-related myelodysplastic syndrome",
+        "Therapy-related myelodysplastic syndrome NOS"
+    ],
+    "exclusion": [
+        "drug induced aplastic anaemia",
+        "chronic myelomonocytic leukaemia"
+    ],
+    "symptoms": [
+        "fatigue",
+        "shortness of breath",
+        "frequent infections",
+        "easy bruising",
+        "unusual bleeding (such as nosebleeds or heavy periods)"
+    ]
+}

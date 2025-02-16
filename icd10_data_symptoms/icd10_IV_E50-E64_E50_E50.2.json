@@ -1,0 +1,27 @@
+{
+    "icd10code": "E50.2",
+    "type": "subcategory",
+    "title": "Vitamin A deficiency with corneal xerosis",
+    "chapter": "Endocrine, nutritional and metabolic diseases",
+    "chapterCode": "IV",
+    "block": "Other nutritional deficiencies",
+    "blockCode": "E50-E64",
+    "category": "Vitamin A deficiency",
+    "categoryCode": "E50",
+    "subcategory": "E50.2",
+    "inclusion": null,
+    "exclusion": [
+        "complications of pregnancy, childbirth and the puerperium",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "transitory endocrine and metabolic disorders specific to fetus and newborn",
+        "diabetes mellitus (in): malnutrition-related",
+        "sequelae of vitamin A deficiency"
+    ],
+    "symptoms": [
+        "photophobia",
+        "dry eyes",
+        "night blindness",
+        "blurred vision",
+        "corneal ulcers"
+    ]
+}

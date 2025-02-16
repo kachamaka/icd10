@@ -1,0 +1,17 @@
+{
+  "type": "subcategory",
+  "chapterCode": "XVIII",
+  "chapter": "Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+  "blockCode": "R20-R23",
+  "block": "Symptoms and signs involving the skin and subcutaneous tissue",
+  "categoryCode": "R23",
+  "category": "Other skin changes",
+  "subcategory": "R23.8",
+  "title": "Other and unspecified skin changes",
+  "inclusion": null,
+  "exclusion": [
+    "abnormal findings on antenatal screening of mother",
+    "certain conditions originating in the perinatal period"
+  ],
+  "children": null
+}

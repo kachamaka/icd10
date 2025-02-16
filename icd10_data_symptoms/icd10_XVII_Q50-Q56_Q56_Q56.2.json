@@ -1,0 +1,31 @@
+{
+    "icd10code": "Q56.2",
+    "type": "subcategory",
+    "title": "Female pseudohermaphroditism, not elsewhere classified",
+    "chapter": "Congenital malformations, deformations and chromosomal abnormalities",
+    "chapterCode": "XVII",
+    "block": "Congenital malformations of genital organs",
+    "blockCode": "Q50-Q56",
+    "category": "Indeterminate sex and pseudohermaphroditism",
+    "categoryCode": "Q56",
+    "subcategory": "Q56.2",
+    "inclusion": [
+        "Female pseudohermaphroditism NOS"
+    ],
+    "exclusion": [
+        "inborn errors of metabolism",
+        "androgen resistance syndrome",
+        "syndromes associated with anomalies in the number and form of chromosomes",
+        "testicular feminization syndrome",
+        "pseudohermaphroditism: female, with adrenocortical disorder",
+        "pseudohermaphroditism: male, with androgen resistance",
+        "pseudohermaphroditism: with specified chromosomal anomaly"
+    ],
+    "symptoms": [
+        "ambiguous genitalia",
+        "delayed puberty",
+        "hypospadias",
+        "underdeveloped gonads",
+        "atypical secondary sexual characteristics"
+    ]
+}

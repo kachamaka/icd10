@@ -1,0 +1,30 @@
+{
+    "icd10code": "F94.0",
+    "type": "subcategory",
+    "title": "Elective mutism",
+    "chapter": "Mental and behavioural disorders",
+    "chapterCode": "V",
+    "block": "Behavioural and emotional disorders with onset usually occurring in childhood and adolescence",
+    "blockCode": "F90-F98",
+    "category": "Disorders of social functioning with onset specific to childhood and adolescence",
+    "categoryCode": "F94",
+    "subcategory": "F94.0",
+    "inclusion": [
+        "disorders of psychological development",
+        "Selective mutism"
+    ],
+    "exclusion": [
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "pervasive developmental disorders",
+        "schizophrenia",
+        "specific developmental disorders of speech and language",
+        "transient mutism as part of separation anxiety in young children"
+    ],
+    "symptoms": [
+        "lack of emotional responsiveness",
+        "difficulty forming social connections",
+        "isolation",
+        "inappropriate attachment behaviors",
+        "withdrawal from social interactions"
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "icd10code": "F32.2",
+    "type": "subcategory",
+    "title": "Severe depressive episode without psychotic symptoms",
+    "chapter": "Mental and behavioural disorders",
+    "chapterCode": "V",
+    "block": "Mood [affective] disorders",
+    "blockCode": "F30-F39",
+    "category": "Depressive episode",
+    "categoryCode": "F32",
+    "subcategory": "F32.2",
+    "inclusion": [
+        "disorders of psychological development",
+        "single episodes of: depressive reaction",
+        "single episodes of: psychogenic depression",
+        "single episodes of: reactive depression",
+        "Agitated depression single episode without psychotic symptoms",
+        "Major depression single episode without psychotic symptoms",
+        "Vital depression single episode without psychotic symptoms"
+    ],
+    "exclusion": [
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "adjustment disorder",
+        "recurrent depressive disorder",
+        "when associated with conduct disorders in F91.-"
+    ],
+    "symptoms": [
+        "depressed mood",
+        "loss of interest",
+        "fatigue",
+        "feelings of worthlessness",
+        "difficulty concentrating"
+    ]
+}

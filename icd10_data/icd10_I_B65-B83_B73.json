@@ -1,0 +1,25 @@
+{
+  "type": "category",
+  "chapterCode": "I",
+  "chapter": "Certain infectious and parasitic diseases",
+  "blockCode": "B65-B83",
+  "block": "Helminthiases",
+  "categoryCode": "B73",
+  "category": "Onchocerciasis",
+  "subcategory": "",
+  "title": "Onchocerciasis",
+  "inclusion": [
+    "diseases generally recognized as communicable or transmissible",
+    "Onchocerca volvulus infection",
+    "Onchocercosis",
+    "River blindness"
+  ],
+  "exclusion": [
+    "carrier or suspected carrier of infectious disease",
+    "certain localized infections - see body system-related chapters",
+    "infectious and parasitic diseases complicating pregnancy, childbirth and the puerperium [except obstetrical tetanus]",
+    "infectious and parasitic diseases specific to the perinatal period [except tetanus neonatorum, whooping cough, congenital syphilis, perinatal gonococcal infection and perinatal human immunodeficiency virus [HIV] disease]",
+    "influenza and other acute respiratory infections"
+  ],
+  "children": null
+}

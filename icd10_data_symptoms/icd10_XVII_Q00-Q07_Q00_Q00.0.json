@@ -1,0 +1,29 @@
+{
+    "icd10code": "Q00.0",
+    "type": "subcategory",
+    "title": "Anencephaly",
+    "chapter": "Congenital malformations, deformations and chromosomal abnormalities",
+    "chapterCode": "XVII",
+    "block": "Congenital malformations of the nervous system",
+    "blockCode": "Q00-Q07",
+    "category": "Anencephaly and similar malformations",
+    "categoryCode": "Q00",
+    "subcategory": "Q00.0",
+    "inclusion": [
+        "Acephaly",
+        "Acrania",
+        "Amyelencephaly",
+        "Hemianencephaly",
+        "Hemicephaly"
+    ],
+    "exclusion": [
+        "inborn errors of metabolism"
+    ],
+    "symptoms": [
+        "incomplete skull formation",
+        "exposed brain tissue",
+        "absence of scalp",
+        "cranial vault defects",
+        "underdeveloped cerebrum"
+    ]
+}

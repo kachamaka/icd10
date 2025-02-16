@@ -1,0 +1,28 @@
+{
+    "icd10code": "E58",
+    "type": "category",
+    "title": "Dietary calcium deficiency",
+    "chapter": "Endocrine, nutritional and metabolic diseases",
+    "chapterCode": "IV",
+    "block": "Other nutritional deficiencies",
+    "blockCode": "E50-E64",
+    "category": "Dietary calcium deficiency",
+    "categoryCode": "E58",
+    "subcategory": "",
+    "inclusion": null,
+    "exclusion": [
+        "complications of pregnancy, childbirth and the puerperium",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "transitory endocrine and metabolic disorders specific to fetus and newborn",
+        "diabetes mellitus (in): malnutrition-related",
+        "disorder of calcium metabolism",
+        "sequelae of calcium deficiency"
+    ],
+    "symptoms": [
+        "bone pain",
+        "fractures after minor trauma",
+        "bone deformities",
+        "stunted growth",
+        "development of bow legs or spinal deformities"
+    ]
+}

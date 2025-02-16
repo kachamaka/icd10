@@ -1,0 +1,16 @@
+{
+  "type": "subcategory",
+  "chapterCode": "XX",
+  "chapter": "External causes of morbidity and mortality",
+  "blockCode": "Y90-Y98",
+  "block": "Supplementary factors related to causes of morbidity and mortality classified elsewhere",
+  "categoryCode": "Y91",
+  "category": "Evidence of alcohol involvement determined by level of intoxication",
+  "subcategory": "Y91.3",
+  "title": "Very severe alcohol intoxication",
+  "inclusion": null,
+  "exclusion": [
+    "evidence of alcohol involvement determined by blood alcohol content"
+  ],
+  "children": null
+}

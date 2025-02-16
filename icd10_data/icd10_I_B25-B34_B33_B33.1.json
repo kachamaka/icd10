@@ -1,0 +1,24 @@
+{
+  "type": "subcategory",
+  "chapterCode": "I",
+  "chapter": "Certain infectious and parasitic diseases",
+  "blockCode": "B25-B34",
+  "block": "Other viral diseases",
+  "categoryCode": "B33",
+  "category": "Other viral diseases, not elsewhere classified",
+  "subcategory": "B33.1",
+  "title": "Ross River disease",
+  "inclusion": [
+    "diseases generally recognized as communicable or transmissible",
+    "Epidemic polyarthritis and exanthema",
+    "Ross River fever"
+  ],
+  "exclusion": [
+    "carrier or suspected carrier of infectious disease",
+    "certain localized infections - see body system-related chapters",
+    "infectious and parasitic diseases complicating pregnancy, childbirth and the puerperium [except obstetrical tetanus]",
+    "infectious and parasitic diseases specific to the perinatal period [except tetanus neonatorum, whooping cough, congenital syphilis, perinatal gonococcal infection and perinatal human immunodeficiency virus [HIV] disease]",
+    "influenza and other acute respiratory infections"
+  ],
+  "children": null
+}

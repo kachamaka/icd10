@@ -1,0 +1,21 @@
+{
+    "icd10code": "D42.0",
+    "type": "subcategory",
+    "title": "Neoplasm of uncertain or unknown behaviour: Cerebral meninges",
+    "chapter": "Neoplasms",
+    "chapterCode": "II",
+    "block": "Neoplasms of uncertain or unknown behaviour",
+    "blockCode": "D37-D48",
+    "category": "Neoplasm of uncertain or unknown behaviour of meninges",
+    "categoryCode": "D42",
+    "subcategory": "D42.0",
+    "inclusion": null,
+    "exclusion": null,
+    "symptoms": [
+        "headache",
+        "seizures",
+        "memory disturbances",
+        "visual disturbances",
+        "personality changes"
+    ]
+}

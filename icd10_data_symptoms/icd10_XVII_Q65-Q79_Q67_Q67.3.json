@@ -1,0 +1,25 @@
+{
+    "icd10code": "Q67.3",
+    "type": "subcategory",
+    "title": "Plagiocephaly",
+    "chapter": "Congenital malformations, deformations and chromosomal abnormalities",
+    "chapterCode": "XVII",
+    "block": "Congenital malformations and deformations of the musculoskeletal system",
+    "blockCode": "Q65-Q79",
+    "category": "Congenital musculoskeletal deformities of head, face, spine and chest",
+    "categoryCode": "Q67",
+    "subcategory": "Q67.3",
+    "inclusion": null,
+    "exclusion": [
+        "inborn errors of metabolism",
+        "congenital malformation syndromes classified to Q87.-",
+        "Potter syndrome"
+    ],
+    "symptoms": [
+        "asymmetrical face shape",
+        "uneven facial appearance",
+        "facial asymmetry",
+        "irregular craniofacial development",
+        "disproportionate facial features"
+    ]
+}

@@ -1,0 +1,33 @@
+{
+    "icd10code": "F44.4",
+    "type": "subcategory",
+    "title": "Dissociative motor disorders",
+    "chapter": "Mental and behavioural disorders",
+    "chapterCode": "V",
+    "block": "Neurotic, stress-related and somatoform disorders",
+    "blockCode": "F40-F48",
+    "category": "Dissociative [conversion] disorders",
+    "categoryCode": "F44",
+    "subcategory": "F44.4",
+    "inclusion": [
+        "disorders of psychological development",
+        "conversion: hysteria",
+        "conversion: reaction",
+        "hysteria",
+        "hysterical psychosis",
+        "Psychogenic: aphonia",
+        "Psychogenic: dysphonia"
+    ],
+    "exclusion": [
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "when associated with conduct disorder in F91.-",
+        "malingering [conscious simulation]"
+    ],
+    "symptoms": [
+        "loss of motor function",
+        "sensory symptoms",
+        "difficulty walking",
+        "abnormal movement",
+        "lack of coordination"
+    ]
+}

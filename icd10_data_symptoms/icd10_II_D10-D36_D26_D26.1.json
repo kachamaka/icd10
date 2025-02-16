@@ -1,0 +1,23 @@
+{
+    "icd10code": "D26.1",
+    "type": "subcategory",
+    "title": "Other benign neoplasm: Corpus uteri",
+    "chapter": "Neoplasms",
+    "chapterCode": "II",
+    "block": "Benign neoplasms",
+    "blockCode": "D10-D36",
+    "category": "Other benign neoplasms of uterus",
+    "categoryCode": "D26",
+    "subcategory": "D26.1",
+    "inclusion": [
+        "morphology codes with behaviour code /0"
+    ],
+    "exclusion": null,
+    "symptoms": [
+        "abnormal uterine bleeding",
+        "pelvic pain",
+        "menstrual irregularities",
+        "infertility",
+        "pressure or discomfort during sexual intercourse"
+    ]
+}

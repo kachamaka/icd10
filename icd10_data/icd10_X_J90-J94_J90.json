@@ -1,0 +1,28 @@
+{
+  "type": "category",
+  "chapterCode": "X",
+  "chapter": "Diseases of the respiratory system",
+  "blockCode": "J90-J94",
+  "block": "Other diseases of pleura",
+  "categoryCode": "J90",
+  "category": "Pleural effusion, not elsewhere classified",
+  "subcategory": "",
+  "title": "Pleural effusion, not elsewhere classified",
+  "inclusion": [
+    "Pleurisy with effusion"
+  ],
+  "exclusion": [
+    "certain conditions originating in the perinatal period",
+    "certain infectious and parasitic diseases",
+    "complications of pregnancy, childbirth and the puerperium",
+    "congenital malformations, deformations and chromosomal abnormalities",
+    "endocrine, nutritional and metabolic diseases",
+    "injury, poisoning and certain other consequences of external causes",
+    "neoplasms",
+    "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+    "chylous (pleural) effusion",
+    "pleurisy NOS",
+    "tuberculous"
+  ],
+  "children": null
+}

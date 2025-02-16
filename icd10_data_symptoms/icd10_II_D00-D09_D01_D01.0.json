@@ -1,0 +1,28 @@
+{
+    "icd10code": "D01.0",
+    "type": "subcategory",
+    "title": "Carcinoma in situ: Colon",
+    "chapter": "Neoplasms",
+    "chapterCode": "II",
+    "block": "In situ neoplasms",
+    "blockCode": "D00-D09",
+    "category": "Carcinoma in situ of other and unspecified digestive organs",
+    "categoryCode": "D01",
+    "subcategory": "D01.0",
+    "inclusion": [
+        "Bowen disease",
+        "erythroplasia",
+        "morphology codes with behaviour code /2",
+        "Queyrat erythroplasia"
+    ],
+    "exclusion": [
+        "melanoma in situ",
+        "rectosigmoid junction"
+    ],
+    "symptoms": [
+        "abnormal uterine bleeding",
+        "postmenopausal bleeding",
+        "vaginal discharge",
+        "pelvic pain"
+    ]
+}

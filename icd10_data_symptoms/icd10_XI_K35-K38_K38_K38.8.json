@@ -1,0 +1,32 @@
+{
+    "icd10code": "K38.8",
+    "type": "subcategory",
+    "title": "Other specified diseases of appendix",
+    "chapter": "Diseases of the digestive system",
+    "chapterCode": "XI",
+    "block": "Diseases of appendix",
+    "blockCode": "K35-K38",
+    "category": "Other diseases of appendix",
+    "categoryCode": "K38",
+    "subcategory": "K38.8",
+    "inclusion": [
+        "Intussusception of appendix"
+    ],
+    "exclusion": [
+        "certain conditions originating in the perinatal period",
+        "certain infectious and parasitic diseases",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified"
+    ],
+    "symptoms": [
+        "abdominal pain",
+        "fever",
+        "nausea",
+        "vomiting",
+        "loss of appetite"
+    ]
+}

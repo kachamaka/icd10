@@ -1,0 +1,42 @@
+{
+    "icd10code": "K56.2",
+    "type": "subcategory",
+    "title": "Volvulus",
+    "chapter": "Diseases of the digestive system",
+    "chapterCode": "XI",
+    "block": "Other diseases of intestines",
+    "blockCode": "K55-K64",
+    "category": "Paralytic ileus and intestinal obstruction without hernia",
+    "categoryCode": "K56",
+    "subcategory": "K56.2",
+    "inclusion": [
+        "Strangulation of colon or intestine",
+        "Torsion of colon or intestine",
+        "Twist of colon or intestine"
+    ],
+    "exclusion": [
+        "certain conditions originating in the perinatal period",
+        "certain infectious and parasitic diseases",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "congenital stricture or stenosis of intestine",
+        "ischaemic stricture of intestine",
+        "meconium ileus",
+        "obstruction of duodenum",
+        "perinatal intestinal obstruction",
+        "postoperative intestinal obstruction",
+        "stenosis of anus or rectum",
+        "with hernia"
+    ],
+    "symptoms": [
+        "abdominal pain",
+        "nausea",
+        "vomiting",
+        "bloating",
+        "constipation"
+    ]
+}

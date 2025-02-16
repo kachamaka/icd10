@@ -1,0 +1,30 @@
+{
+    "icd10code": "H31.4",
+    "type": "subcategory",
+    "title": "Choroidal detachment",
+    "chapter": "Diseases of the eye and adnexa",
+    "chapterCode": "VII",
+    "block": "Disorders of choroid and retina",
+    "blockCode": "H30-H36",
+    "category": "Other disorders of choroid",
+    "categoryCode": "H31",
+    "subcategory": "H31.4",
+    "inclusion": null,
+    "exclusion": [
+        "certain conditions originating in the perinatal period",
+        "certain infectious and parasitic diseases",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified"
+    ],
+    "symptoms": [
+        "floaters",
+        "flashes of light",
+        "visual field defects",
+        "blurred vision",
+        "decreased night vision"
+    ]
+}

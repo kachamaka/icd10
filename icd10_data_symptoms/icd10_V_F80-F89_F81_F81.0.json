@@ -1,0 +1,31 @@
+{
+    "icd10code": "F81.0",
+    "type": "subcategory",
+    "title": "Specific reading disorder",
+    "chapter": "Mental and behavioural disorders",
+    "chapterCode": "V",
+    "block": "Disorders of psychological development",
+    "blockCode": "F80-F89",
+    "category": "Specific developmental disorders of scholastic skills",
+    "categoryCode": "F81",
+    "subcategory": "F81.0",
+    "inclusion": [
+        "disorders of psychological development",
+        "\"Backward reading\"",
+        "Developmental dyslexia",
+        "Specific reading retardation"
+    ],
+    "exclusion": [
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "alexia NOS",
+        "dyslexia NOS",
+        "reading difficulties secondary to emotional disorders"
+    ],
+    "symptoms": [
+        "difficulties with reading",
+        "spelling errors",
+        "slow reading",
+        "comprehension issues",
+        "letter reversal"
+    ]
+}

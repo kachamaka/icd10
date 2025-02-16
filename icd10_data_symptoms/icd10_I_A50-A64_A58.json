@@ -1,0 +1,33 @@
+{
+    "icd10code": "A58",
+    "type": "category",
+    "title": "Granuloma inguinale",
+    "chapter": "Certain infectious and parasitic diseases",
+    "chapterCode": "I",
+    "block": "Infections with a predominantly sexual mode of transmission",
+    "blockCode": "A50-A64",
+    "category": "Granuloma inguinale",
+    "categoryCode": "A58",
+    "subcategory": "",
+    "inclusion": [
+        "diseases generally recognized as communicable or transmissible",
+        "Donovanosis"
+    ],
+    "exclusion": [
+        "carrier or suspected carrier of infectious disease",
+        "certain localized infections - see body system-related chapters",
+        "infectious and parasitic diseases complicating pregnancy, childbirth and the puerperium [except obstetrical tetanus]",
+        "infectious and parasitic diseases specific to the perinatal period [except tetanus neonatorum, whooping cough, congenital syphilis, perinatal gonococcal infection and perinatal human immunodeficiency virus [HIV] disease]",
+        "influenza and other acute respiratory infections",
+        "postpartum or puerperal erysipelas",
+        "chlamydial infection NOS",
+        "meningococcal infection NOS"
+    ],
+    "symptoms": [
+        "swollen lymph nodes",
+        "fever",
+        "headache",
+        "sore throat",
+        "skin rash"
+    ]
+}

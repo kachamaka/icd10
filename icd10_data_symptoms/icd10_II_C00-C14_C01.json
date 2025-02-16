@@ -1,0 +1,25 @@
+{
+    "icd10code": "C01",
+    "type": "category",
+    "title": "Malignant neoplasm of base of tongue",
+    "chapter": "Neoplasms",
+    "chapterCode": "II",
+    "block": "Malignant neoplasms of lip, oral cavity and pharynx",
+    "blockCode": "C00-C14",
+    "category": "Malignant neoplasm of base of tongue",
+    "categoryCode": "C01",
+    "subcategory": "",
+    "inclusion": [
+        "Dorsal surface of base of tongue",
+        "Fixed part of tongue NOS",
+        "Posterior third of tongue"
+    ],
+    "exclusion": null,
+    "symptoms": [
+        "swollen lymph nodes in the neck",
+        "ear pain",
+        "unexplained weight loss",
+        "constant sore throat",
+        "difficulty swallowing"
+    ]
+}

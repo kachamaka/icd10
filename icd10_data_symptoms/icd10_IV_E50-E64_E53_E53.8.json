@@ -1,0 +1,35 @@
+{
+    "icd10code": "E53.8",
+    "type": "subcategory",
+    "title": "Deficiency of other specified B group vitamins",
+    "chapter": "Endocrine, nutritional and metabolic diseases",
+    "chapterCode": "IV",
+    "block": "Other nutritional deficiencies",
+    "blockCode": "E50-E64",
+    "category": "Deficiency of other B group vitamins",
+    "categoryCode": "E53",
+    "subcategory": "E53.8",
+    "inclusion": [
+        "Deficiency: biotin",
+        "Deficiency: cyanocobalamin",
+        "Deficiency: folate",
+        "Deficiency: folic acid",
+        "Deficiency: pantothenic acid",
+        "Deficiency: vitamin B 12"
+    ],
+    "exclusion": [
+        "complications of pregnancy, childbirth and the puerperium",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "transitory endocrine and metabolic disorders specific to fetus and newborn",
+        "diabetes mellitus (in): malnutrition-related",
+        "sequelae of vitamin B deficiency",
+        "vitamin B 12 deficiency anaemia"
+    ],
+    "symptoms": [
+        "fatigue",
+        "muscle weakness",
+        "depression",
+        "nerve damage",
+        "concentration difficulties"
+    ]
+}

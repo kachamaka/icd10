@@ -1,0 +1,35 @@
+{
+    "icd10code": "N60.1",
+    "type": "subcategory",
+    "title": "Diffuse cystic mastopathy",
+    "chapter": "Diseases of the genitourinary system",
+    "chapterCode": "XIV",
+    "block": "Disorders of breast",
+    "blockCode": "N60-N64",
+    "category": "Benign mammary dysplasia",
+    "categoryCode": "N60",
+    "subcategory": "N60.1",
+    "inclusion": [
+        "fibrocystic mastopathy",
+        "Cystic breast"
+    ],
+    "exclusion": [
+        "certain conditions originating in the perinatal period",
+        "certain infectious and parasitic diseases",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "disorders of breast associated with childbirth",
+        "with epithelial proliferation"
+    ],
+    "symptoms": [
+        "breast pain",
+        "breast tenderness",
+        "palpable breast lumps",
+        "breast swelling",
+        "nipple discharge"
+    ]
+}

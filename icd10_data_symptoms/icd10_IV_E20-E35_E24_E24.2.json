@@ -1,0 +1,27 @@
+{
+    "icd10code": "E24.2",
+    "type": "subcategory",
+    "title": "Drug-induced Cushing syndrome",
+    "chapter": "Endocrine, nutritional and metabolic diseases",
+    "chapterCode": "IV",
+    "block": "Disorders of other endocrine glands",
+    "blockCode": "E20-E35",
+    "category": "Cushing syndrome",
+    "categoryCode": "E24",
+    "subcategory": "E24.2",
+    "inclusion": null,
+    "exclusion": [
+        "complications of pregnancy, childbirth and the puerperium",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "transitory endocrine and metabolic disorders specific to fetus and newborn",
+        "galactorrhoea",
+        "gynaecomastia"
+    ],
+    "symptoms": [
+        "unintentional weight loss",
+        "muscle weakness",
+        "increased thirst and urination",
+        "fatigue",
+        "changes in mood and behavior"
+    ]
+}

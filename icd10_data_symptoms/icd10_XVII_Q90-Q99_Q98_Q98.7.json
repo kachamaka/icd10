@@ -1,0 +1,23 @@
+{
+    "icd10code": "Q98.7",
+    "type": "subcategory",
+    "title": "Male with sex chromosome mosaicism",
+    "chapter": "Congenital malformations, deformations and chromosomal abnormalities",
+    "chapterCode": "XVII",
+    "block": "Chromosomal abnormalities, not elsewhere classified",
+    "blockCode": "Q90-Q99",
+    "category": "Other sex chromosome abnormalities, male phenotype, not elsewhere classified",
+    "categoryCode": "Q98",
+    "subcategory": "Q98.7",
+    "inclusion": null,
+    "exclusion": [
+        "inborn errors of metabolism"
+    ],
+    "symptoms": [
+        "infertility",
+        "small testes",
+        "tall stature",
+        "gynecomastia",
+        "delayed puberty"
+    ]
+}

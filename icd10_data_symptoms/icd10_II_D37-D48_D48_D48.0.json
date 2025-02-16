@@ -1,0 +1,28 @@
+{
+    "icd10code": "D48.0",
+    "type": "subcategory",
+    "title": "Neoplasm of uncertain or unknown behaviour: Bone and articular cartilage",
+    "chapter": "Neoplasms",
+    "chapterCode": "II",
+    "block": "Neoplasms of uncertain or unknown behaviour",
+    "blockCode": "D37-D48",
+    "category": "Neoplasm of uncertain or unknown behaviour of other and unspecified sites",
+    "categoryCode": "D48",
+    "subcategory": "D48.0",
+    "inclusion": null,
+    "exclusion": [
+        "neurofibromatosis (nonmalignant)",
+        "cartilage of: ear",
+        "cartilage of: larynx",
+        "cartilage of: nose",
+        "connective tissue of eyelid",
+        "synovia"
+    ],
+    "symptoms": [
+        "unusual lump in breast",
+        "breast pain",
+        "changes in breast appearance",
+        "changes in nipple or skin",
+        "nipple discharge"
+    ]
+}

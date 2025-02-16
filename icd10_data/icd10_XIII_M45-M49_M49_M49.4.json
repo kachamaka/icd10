@@ -1,0 +1,29 @@
+{
+  "type": "subcategory",
+  "chapterCode": "XIII",
+  "chapter": "Diseases of the musculoskeletal system and connective tissue",
+  "blockCode": "M45-M49",
+  "block": "Spondylopathies",
+  "categoryCode": "M49",
+  "category": "Spondylopathies in diseases classified elsewhere",
+  "subcategory": "M49.4",
+  "title": "Neuropathic spondylopathy",
+  "inclusion": [
+    "Neuropathic spondylopathy in: syringomyelia and syringobulbia",
+    "Neuropathic spondylopathy in: tabes dorsalis"
+  ],
+  "exclusion": [
+    "certain conditions originating in the perinatal period",
+    "certain disorders of the temporomandibular joint",
+    "certain infectious and parasitic diseases",
+    "compartment syndrome",
+    "complications of pregnancy, childbirth and the puerperium",
+    "congenital malformations, deformations and chromosomal abnormalities",
+    "endocrine, nutritional and metabolic diseases",
+    "injury, poisoning and certain other consequences of external causes",
+    "neoplasms",
+    "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+    "collapsed vertebra in osteoporosis"
+  ],
+  "children": null
+}

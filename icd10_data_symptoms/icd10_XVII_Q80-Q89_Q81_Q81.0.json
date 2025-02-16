@@ -1,0 +1,24 @@
+{
+    "icd10code": "Q81.0",
+    "type": "subcategory",
+    "title": "Epidermolysis bullosa simplex",
+    "chapter": "Congenital malformations, deformations and chromosomal abnormalities",
+    "chapterCode": "XVII",
+    "block": "Other congenital malformations",
+    "blockCode": "Q80-Q89",
+    "category": "Epidermolysis bullosa",
+    "categoryCode": "Q81",
+    "subcategory": "Q81.0",
+    "inclusion": null,
+    "exclusion": [
+        "inborn errors of metabolism",
+        "Cockayne syndrome"
+    ],
+    "symptoms": [
+        "skin blistering",
+        "nail abnormalities",
+        "scarring",
+        "slow wound healing",
+        "palm and sole thickening"
+    ]
+}

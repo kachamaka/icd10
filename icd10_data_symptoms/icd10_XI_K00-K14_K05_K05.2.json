@@ -1,0 +1,37 @@
+{
+    "icd10code": "K05.2",
+    "type": "subcategory",
+    "title": "Acute periodontitis",
+    "chapter": "Diseases of the digestive system",
+    "chapterCode": "XI",
+    "block": "Diseases of oral cavity, salivary glands and jaws",
+    "blockCode": "K00-K14",
+    "category": "Gingivitis and periodontal diseases",
+    "categoryCode": "K05",
+    "subcategory": "K05.2",
+    "inclusion": [
+        "Acute pericoronitis",
+        "Parodontal abscess",
+        "Periodontal abscess"
+    ],
+    "exclusion": [
+        "certain conditions originating in the perinatal period",
+        "certain infectious and parasitic diseases",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "acute apical periodontitis",
+        "periapical abscess",
+        "periapical abscess with sinus"
+    ],
+    "symptoms": [
+        "gum redness",
+        "gum swelling",
+        "gum bleeding",
+        "gum pain",
+        "bad breath"
+    ]
+}

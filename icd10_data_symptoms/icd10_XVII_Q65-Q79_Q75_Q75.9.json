@@ -1,0 +1,34 @@
+{
+    "icd10code": "Q75.9",
+    "type": "subcategory",
+    "title": "Congenital malformation of skull and face bones, unspecified",
+    "chapter": "Congenital malformations, deformations and chromosomal abnormalities",
+    "chapterCode": "XVII",
+    "block": "Congenital malformations and deformations of the musculoskeletal system",
+    "blockCode": "Q65-Q79",
+    "category": "Other congenital malformations of skull and face bones",
+    "categoryCode": "Q75",
+    "subcategory": "Q75.9",
+    "inclusion": [
+        "Congenital anomaly of: face bones NOS",
+        "Congenital anomaly of: skull NOS"
+    ],
+    "exclusion": [
+        "inborn errors of metabolism",
+        "congenital malformation of face NOS",
+        "congenital malformation syndromes classified to Q87.-",
+        "dentofacial anomalies [including malocclusion]",
+        "musculoskeletal deformities of head and face",
+        "skull defects associated with congenital anomalies of brain such as: anencephaly",
+        "skull defects associated with congenital anomalies of brain such as: encephalocele",
+        "skull defects associated with congenital anomalies of brain such as: hydrocephalus",
+        "skull defects associated with congenital anomalies of brain such as: microcephaly"
+    ],
+    "symptoms": [
+        "abnormal skull shape",
+        "facial asymmetry",
+        "cranial malformations",
+        "head deformities",
+        "delayed cranial sutures closure"
+    ]
+}

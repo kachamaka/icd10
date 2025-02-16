@@ -1,0 +1,30 @@
+{
+    "icd10code": "C44.0",
+    "type": "subcategory",
+    "title": "Malignant neoplasm: Skin of lip",
+    "chapter": "Neoplasms",
+    "chapterCode": "II",
+    "block": "Melanoma and other malignant neoplasms of skin",
+    "blockCode": "C43-C44",
+    "category": "Other malignant neoplasms of skin",
+    "categoryCode": "C44",
+    "subcategory": "C44.0",
+    "inclusion": [
+        "malignant neoplasm of: sebaceous glands",
+        "malignant neoplasm of: sweat glands",
+        "Basal cell carcinoma of lip"
+    ],
+    "exclusion": [
+        "Kaposi sarcoma",
+        "malignant melanoma of skin",
+        "skin of genital organs",
+        "malignant neoplasm of lip"
+    ],
+    "symptoms": [
+        "skin abnormalities like increased size or color change",
+        "itching or pain in the area",
+        "bleeding or oozing",
+        "non healing wound",
+        "new mole growth"
+    ]
+}

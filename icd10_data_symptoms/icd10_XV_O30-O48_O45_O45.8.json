@@ -1,0 +1,30 @@
+{
+    "icd10code": "O45.8",
+    "type": "subcategory",
+    "title": "Other premature separation of placenta",
+    "chapter": "Pregnancy, childbirth and the puerperium",
+    "chapterCode": "XV",
+    "block": "Maternal care related to the fetus and amniotic cavity and possible delivery problems",
+    "blockCode": "O30-O48",
+    "category": "Premature separation of placenta [abruptio placentae]",
+    "categoryCode": "O45",
+    "subcategory": "O45.8",
+    "inclusion": null,
+    "exclusion": [
+        "Certain diseases or injuries complicating pregnancy, childbirth and the puerperium classified elsewhere: external causes (for mortality)",
+        "Certain diseases or injuries complicating pregnancy, childbirth and the puerperium classified elsewhere: injury, poisoning and certain other consequences of external cause",
+        "Certain diseases or injuries complicating pregnancy, childbirth and the puerperium classified elsewhere: mental and behavioural disorders associated with the puerperium",
+        "Certain diseases or injuries complicating pregnancy, childbirth and the puerperium classified elsewhere: obstetrical tetanus",
+        "Certain diseases or injuries complicating pregnancy, childbirth and the puerperium classified elsewhere: postpartum necrosis of pituitary gland",
+        "Certain diseases or injuries complicating pregnancy, childbirth and the puerperium classified elsewhere: puerperal osteomalacia",
+        "supervision of: high-risk pregnancy",
+        "supervision of: normal pregnancy"
+    ],
+    "symptoms": [
+        "abdominal pain",
+        "vaginal bleeding",
+        "uterine tenderness",
+        "decreased fetal movement",
+        "contractions"
+    ]
+}

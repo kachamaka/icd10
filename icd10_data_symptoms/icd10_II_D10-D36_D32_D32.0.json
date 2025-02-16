@@ -1,0 +1,23 @@
+{
+    "icd10code": "D32.0",
+    "type": "subcategory",
+    "title": "Benign neoplasm: Cerebral meninges",
+    "chapter": "Neoplasms",
+    "chapterCode": "II",
+    "block": "Benign neoplasms",
+    "blockCode": "D10-D36",
+    "category": "Benign neoplasm of meninges",
+    "categoryCode": "D32",
+    "subcategory": "D32.0",
+    "inclusion": [
+        "morphology codes with behaviour code /0"
+    ],
+    "exclusion": null,
+    "symptoms": [
+        "headache",
+        "seizures",
+        "nausea or vomiting",
+        "changes in behavior or personality",
+        "problems with balance or walking"
+    ]
+}

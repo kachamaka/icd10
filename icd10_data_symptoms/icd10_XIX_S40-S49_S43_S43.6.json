@@ -1,0 +1,38 @@
+{
+    "icd10code": "S43.6",
+    "type": "subcategory",
+    "title": "Sprain and strain of sternoclavicular joint",
+    "chapter": "Injury, poisoning and certain other consequences of external causes",
+    "chapterCode": "XIX",
+    "block": "Injuries to the shoulder and upper arm",
+    "blockCode": "S40-S49",
+    "category": "Dislocation, sprain and strain of joints and ligaments of shoulder girdle",
+    "categoryCode": "S43",
+    "subcategory": "S43.6",
+    "inclusion": [
+        "injuries of: axilla",
+        "injuries of: scapular region"
+    ],
+    "exclusion": [
+        "birth trauma",
+        "obstetric trauma",
+        "malunion of fracture",
+        "nonunion of fracture [pseudarthrosis]",
+        "pathological fracture",
+        "pathological fracture with osteoporosis",
+        "stress fracture",
+        "bilateral involvement of shoulder and upper arm",
+        "burns and corrosions",
+        "frostbite",
+        "injuries of: arm, level unspecified",
+        "injuries of: elbow",
+        "insect bite or sting, venomous"
+    ],
+    "symptoms": [
+        "shoulder pain",
+        "limited range of motion",
+        "swelling",
+        "bruising",
+        "shoulder instability"
+    ]
+}

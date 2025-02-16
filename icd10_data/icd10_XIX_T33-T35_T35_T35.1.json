@@ -1,0 +1,25 @@
+{
+  "type": "subcategory",
+  "chapterCode": "XIX",
+  "chapter": "Injury, poisoning and certain other consequences of external causes",
+  "blockCode": "T33-T35",
+  "block": "Frostbite",
+  "categoryCode": "T35",
+  "category": "Frostbite involving multiple body regions and unspecified frostbite",
+  "subcategory": "T35.1",
+  "title": "Frostbite with tissue necrosis involving multiple body regions",
+  "inclusion": [
+    "Multiple frostbite with tissue necrosis NOS"
+  ],
+  "exclusion": [
+    "birth trauma",
+    "obstetric trauma",
+    "malunion of fracture",
+    "nonunion of fracture [pseudarthrosis]",
+    "pathological fracture",
+    "pathological fracture with osteoporosis",
+    "stress fracture",
+    "complications of surgical and medical care NEC"
+  ],
+  "children": null
+}

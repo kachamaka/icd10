@@ -1,0 +1,26 @@
+{
+    "icd10code": "Z03.9",
+    "type": "subcategory",
+    "title": "Observation for suspected disease or condition, unspecified",
+    "chapter": "Factors influencing health status and contact with health services",
+    "chapterCode": "XXI",
+    "block": "Persons encountering health services for examination and investigation",
+    "blockCode": "Z00-Z13",
+    "category": "Medical observation and evaluation for suspected diseases and conditions, ruled out",
+    "categoryCode": "Z03",
+    "subcategory": "Z03.9",
+    "inclusion": [
+        "persons who present some symptoms or evidence of an abnormal condition which requires study, but who, after examination and observation, show no need for further treatment or medical care"
+    ],
+    "exclusion": [
+        "examinations related to pregnancy and reproduction",
+        "person with feared complaint in whom no diagnosis is made"
+    ],
+    "symptoms": [
+        "fever",
+        "headache",
+        "cough",
+        "fatigue",
+        "sore throat"
+    ]
+}

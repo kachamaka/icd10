@@ -1,0 +1,30 @@
+{
+    "icd10code": "F94.1",
+    "type": "subcategory",
+    "title": "Reactive attachment disorder of childhood",
+    "chapter": "Mental and behavioural disorders",
+    "chapterCode": "V",
+    "block": "Behavioural and emotional disorders with onset usually occurring in childhood and adolescence",
+    "blockCode": "F90-F98",
+    "category": "Disorders of social functioning with onset specific to childhood and adolescence",
+    "categoryCode": "F94",
+    "subcategory": "F94.1",
+    "inclusion": [
+        "disorders of psychological development"
+    ],
+    "exclusion": [
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "Asperger syndrome",
+        "disinhibited attachment disorder of childhood",
+        "maltreatment syndromes",
+        "normal variation in pattern of selective attachment",
+        "sexual or physical abuse in childhood, resulting in psychosocial problems"
+    ],
+    "symptoms": [
+        "social withdrawal",
+        "communication difficulties",
+        "repetitive behaviors",
+        "intense preoccupation",
+        "emotional flatness"
+    ]
+}

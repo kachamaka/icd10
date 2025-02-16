@@ -1,0 +1,35 @@
+{
+    "icd10code": "A02.2",
+    "type": "subcategory",
+    "title": "Localized salmonella infections",
+    "chapter": "Certain infectious and parasitic diseases",
+    "chapterCode": "I",
+    "block": "Intestinal infectious diseases",
+    "blockCode": "A00-A09",
+    "category": "Other salmonella infections",
+    "categoryCode": "A02",
+    "subcategory": "A02.2",
+    "inclusion": [
+        "diseases generally recognized as communicable or transmissible",
+        "infection or foodborne intoxication due to any Salmonella species other than S. typhi and S. paratyphi",
+        "Salmonella: arthritis",
+        "Salmonella: meningitis",
+        "Salmonella: osteomyelitis",
+        "Salmonella: pneumonia",
+        "Salmonella: renal tubulo-interstitial disease"
+    ],
+    "exclusion": [
+        "carrier or suspected carrier of infectious disease",
+        "certain localized infections - see body system-related chapters",
+        "infectious and parasitic diseases complicating pregnancy, childbirth and the puerperium [except obstetrical tetanus]",
+        "infectious and parasitic diseases specific to the perinatal period [except tetanus neonatorum, whooping cough, congenital syphilis, perinatal gonococcal infection and perinatal human immunodeficiency virus [HIV] disease]",
+        "influenza and other acute respiratory infections"
+    ],
+    "symptoms": [
+        "abdominal pain",
+        "fever",
+        "diarrhea",
+        "vomiting",
+        "loss of appetite"
+    ]
+}

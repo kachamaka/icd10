@@ -1,0 +1,26 @@
+{
+    "icd10code": "Q76.3",
+    "type": "subcategory",
+    "title": "Congenital scoliosis due to congenital bony malformation",
+    "chapter": "Congenital malformations, deformations and chromosomal abnormalities",
+    "chapterCode": "XVII",
+    "block": "Congenital malformations and deformations of the musculoskeletal system",
+    "blockCode": "Q65-Q79",
+    "category": "Congenital malformations of spine and bony thorax",
+    "categoryCode": "Q76",
+    "subcategory": "Q76.3",
+    "inclusion": [
+        "Hemivertebra fusion or failure of segmentation with scoliosis"
+    ],
+    "exclusion": [
+        "inborn errors of metabolism",
+        "congenital musculoskeletal deformities of spine and chest"
+    ],
+    "symptoms": [
+        "short neck",
+        "limited neck movement",
+        "low hairline",
+        "cervical spine anomalies",
+        "fused vertebrae"
+    ]
+}

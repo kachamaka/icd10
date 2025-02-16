@@ -1,0 +1,25 @@
+{
+  "type": "subcategory",
+  "chapterCode": "IV",
+  "chapter": "Endocrine, nutritional and metabolic diseases",
+  "blockCode": "E20-E35",
+  "block": "Disorders of other endocrine glands",
+  "categoryCode": "E21",
+  "category": "Hyperparathyroidism and other disorders of parathyroid gland",
+  "subcategory": "E21.2",
+  "title": "Other hyperparathyroidism",
+  "inclusion": [
+    "Tertiary hyperparathryoidism"
+  ],
+  "exclusion": [
+    "complications of pregnancy, childbirth and the puerperium",
+    "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+    "transitory endocrine and metabolic disorders specific to fetus and newborn",
+    "galactorrhoea",
+    "gynaecomastia",
+    "aplasia or hypoplasia with immunodeficiency",
+    "myasthenia gravis",
+    "familial hypocalciuric hypercalcaemia"
+  ],
+  "children": null
+}

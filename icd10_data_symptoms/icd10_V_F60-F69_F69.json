@@ -1,0 +1,25 @@
+{
+    "icd10code": "F69",
+    "type": "category",
+    "title": "Unspecified disorder of adult personality and behaviour",
+    "chapter": "Mental and behavioural disorders",
+    "chapterCode": "V",
+    "block": "Disorders of adult personality and behaviour",
+    "blockCode": "F60-F69",
+    "category": "Unspecified disorder of adult personality and behaviour",
+    "categoryCode": "F69",
+    "subcategory": "",
+    "inclusion": [
+        "disorders of psychological development"
+    ],
+    "exclusion": [
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified"
+    ],
+    "symptoms": [
+        "identity issues",
+        "mood swings",
+        "impulsive behavior",
+        "unstable relationships",
+        "self-image disturbances"
+    ]
+}

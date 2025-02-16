@@ -1,0 +1,24 @@
+{
+    "icd10code": "C71.3",
+    "type": "subcategory",
+    "title": "Malignant neoplasm: Parietal lobe",
+    "chapter": "Neoplasms",
+    "chapterCode": "II",
+    "block": "Malignant neoplasms of eye, brain and other parts of central nervous system",
+    "blockCode": "C69-C72",
+    "category": "Malignant neoplasm of brain",
+    "categoryCode": "C71",
+    "subcategory": "C71.3",
+    "inclusion": null,
+    "exclusion": [
+        "cranial nerves",
+        "retrobulbar tissue"
+    ],
+    "symptoms": [
+        "headaches",
+        "seizures",
+        "changes in personality or behavior",
+        "nausea or vomiting",
+        "difficulties with motor skills"
+    ]
+}

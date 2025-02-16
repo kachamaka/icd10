@@ -1,0 +1,40 @@
+{
+    "icd10code": "K22.1",
+    "type": "subcategory",
+    "title": "Ulcer of oesophagus",
+    "chapter": "Diseases of the digestive system",
+    "chapterCode": "XI",
+    "block": "Diseases of oesophagus, stomach and duodenum",
+    "blockCode": "K20-K31",
+    "category": "Other diseases of oesophagus",
+    "categoryCode": "K22",
+    "subcategory": "K22.1",
+    "inclusion": [
+        "Erosion of oesophagus",
+        "Ulcer of oesophagus: NOS",
+        "Ulcer of oesophagus: due to ingestion of: chemicals",
+        "Ulcer of oesophagus: due to ingestion of: drugs and medicaments",
+        "Ulcer of oesophagus: fungal",
+        "Ulcer of oesophagus: peptic",
+        "Ulcerative oesophagitis"
+    ],
+    "exclusion": [
+        "certain conditions originating in the perinatal period",
+        "certain infectious and parasitic diseases",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "hiatus hernia",
+        "primary ulcer of small intestine"
+    ],
+    "symptoms": [
+        "heartburn",
+        "chest pain",
+        "difficulty swallowing",
+        "regurgitation of food",
+        "sensation of a lump in the throat"
+    ]
+}

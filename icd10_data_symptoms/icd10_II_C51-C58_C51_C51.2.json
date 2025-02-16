@@ -1,0 +1,23 @@
+{
+    "icd10code": "C51.2",
+    "type": "subcategory",
+    "title": "Malignant neoplasm: Clitoris",
+    "chapter": "Neoplasms",
+    "chapterCode": "II",
+    "block": "Malignant neoplasms of female genital organs",
+    "blockCode": "C51-C58",
+    "category": "Malignant neoplasm of vulva",
+    "categoryCode": "C51",
+    "subcategory": "C51.2",
+    "inclusion": [
+        "skin of female genital organs"
+    ],
+    "exclusion": null,
+    "symptoms": [
+        "unusual vaginal bleeding",
+        "pelvic pain",
+        "foul-smelling vaginal discharge",
+        "difficulty urinating",
+        "pain during sexual intercourse"
+    ]
+}

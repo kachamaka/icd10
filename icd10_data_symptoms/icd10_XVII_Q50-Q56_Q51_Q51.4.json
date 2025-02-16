@@ -1,0 +1,26 @@
+{
+    "icd10code": "Q51.4",
+    "type": "subcategory",
+    "title": "Unicornate uterus",
+    "chapter": "Congenital malformations, deformations and chromosomal abnormalities",
+    "chapterCode": "XVII",
+    "block": "Congenital malformations of genital organs",
+    "blockCode": "Q50-Q56",
+    "category": "Congenital malformations of uterus and cervix",
+    "categoryCode": "Q51",
+    "subcategory": "Q51.4",
+    "inclusion": null,
+    "exclusion": [
+        "inborn errors of metabolism",
+        "androgen resistance syndrome",
+        "syndromes associated with anomalies in the number and form of chromosomes",
+        "testicular feminization syndrome"
+    ],
+    "symptoms": [
+        "abnormal uterine bleeding",
+        "pelvic pain",
+        "infertility",
+        "irregular menstruation",
+        "recurrent pregnancy loss"
+    ]
+}

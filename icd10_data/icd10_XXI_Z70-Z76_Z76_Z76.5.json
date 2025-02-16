@@ -1,0 +1,19 @@
+{
+  "type": "subcategory",
+  "chapterCode": "XXI",
+  "chapter": "Factors influencing health status and contact with health services",
+  "blockCode": "Z70-Z76",
+  "block": "Persons encountering health services in other circumstances",
+  "categoryCode": "Z76",
+  "category": "Persons encountering health services in other circumstances",
+  "subcategory": "Z76.5",
+  "title": "Malingerer [conscious simulation]",
+  "inclusion": [
+    "Person feigning illness (with obvious motivation)"
+  ],
+  "exclusion": [
+    "factitious disorder",
+    "peregrinating patient"
+  ],
+  "children": null
+}

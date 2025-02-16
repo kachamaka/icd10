@@ -1,0 +1,31 @@
+{
+    "icd10code": "F43.0",
+    "type": "subcategory",
+    "title": "Acute stress reaction",
+    "chapter": "Mental and behavioural disorders",
+    "chapterCode": "V",
+    "block": "Neurotic, stress-related and somatoform disorders",
+    "blockCode": "F40-F48",
+    "category": "Reaction to severe stress, and adjustment disorders",
+    "categoryCode": "F43",
+    "subcategory": "F43.0",
+    "inclusion": [
+        "disorders of psychological development",
+        "Acute: crisis reaction",
+        "Acute: reaction to stress",
+        "Combat fatigue",
+        "Crisis state",
+        "Psychic shock"
+    ],
+    "exclusion": [
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "when associated with conduct disorder in F91.-"
+    ],
+    "symptoms": [
+        "anxiety",
+        "irritability",
+        "difficulty concentrating",
+        "emotional numbness",
+        "sleep disturbances"
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "icd10code": "C68.9",
+    "type": "subcategory",
+    "title": "Malignant neoplasm: Urinary organ, unspecified",
+    "chapter": "Neoplasms",
+    "chapterCode": "II",
+    "block": "Malignant neoplasms of urinary tract",
+    "blockCode": "C64-C68",
+    "category": "Malignant neoplasm of other and unspecified urinary organs",
+    "categoryCode": "C68",
+    "subcategory": "C68.9",
+    "inclusion": [
+        "Urinary system NOS"
+    ],
+    "exclusion": [
+        "genitourinary tract NOS: female",
+        "genitourinary tract NOS: male"
+    ],
+    "symptoms": [
+        "pain during urination",
+        "blood in urine",
+        "frequent urination",
+        "lower abdominal pain",
+        "back pain"
+    ]
+}

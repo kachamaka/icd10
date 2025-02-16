@@ -1,0 +1,34 @@
+{
+    "icd10code": "A63.8",
+    "type": "subcategory",
+    "title": "Other specified predominantly sexually transmitted diseases",
+    "chapter": "Certain infectious and parasitic diseases",
+    "chapterCode": "I",
+    "block": "Infections with a predominantly sexual mode of transmission",
+    "blockCode": "A50-A64",
+    "category": "Other predominantly sexually transmitted diseases, not elsewhere classified",
+    "categoryCode": "A63",
+    "subcategory": "A63.8",
+    "inclusion": [
+        "diseases generally recognized as communicable or transmissible"
+    ],
+    "exclusion": [
+        "carrier or suspected carrier of infectious disease",
+        "certain localized infections - see body system-related chapters",
+        "infectious and parasitic diseases complicating pregnancy, childbirth and the puerperium [except obstetrical tetanus]",
+        "infectious and parasitic diseases specific to the perinatal period [except tetanus neonatorum, whooping cough, congenital syphilis, perinatal gonococcal infection and perinatal human immunodeficiency virus [HIV] disease]",
+        "influenza and other acute respiratory infections",
+        "postpartum or puerperal erysipelas",
+        "chlamydial infection NOS",
+        "meningococcal infection NOS",
+        "molluscum contagiosum",
+        "papilloma of cervix"
+    ],
+    "symptoms": [
+        "rashes",
+        "itching",
+        "bumps",
+        "warts",
+        "irritation"
+    ]
+}

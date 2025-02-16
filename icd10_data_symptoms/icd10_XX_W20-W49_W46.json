@@ -1,0 +1,25 @@
+{
+    "icd10code": "W46",
+    "type": "category",
+    "title": "Contact with hypodermic needle",
+    "chapter": "External causes of morbidity and mortality",
+    "chapterCode": "XX",
+    "block": "Exposure to inanimate mechanical forces",
+    "blockCode": "W20-W49",
+    "category": "Contact with hypodermic needle",
+    "categoryCode": "W46",
+    "subcategory": "",
+    "inclusion": null,
+    "exclusion": [
+        "assault",
+        "contact or collision with animals or persons",
+        "intentional self-harm"
+    ],
+    "symptoms": [
+        "redness",
+        "swelling",
+        "pain",
+        "warmth",
+        "discharge"
+    ]
+}

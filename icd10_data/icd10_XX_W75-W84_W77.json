@@ -1,0 +1,19 @@
+{
+  "type": "category",
+  "chapterCode": "XX",
+  "chapter": "External causes of morbidity and mortality",
+  "blockCode": "W75-W84",
+  "block": "Other accidental threats to breathing",
+  "categoryCode": "W77",
+  "category": "Threat to breathing due to cave-in, falling earth and other substances",
+  "subcategory": "",
+  "title": "Threat to breathing due to cave-in, falling earth and other substances",
+  "inclusion": [
+    "cave-in NOS"
+  ],
+  "exclusion": [
+    "cave-in caused by cataclysm",
+    "cave-in without asphyxiation or suffocation"
+  ],
+  "children": null
+}

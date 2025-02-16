@@ -1,0 +1,29 @@
+{
+    "icd10code": "F60.3",
+    "type": "subcategory",
+    "title": "Emotionally unstable personality disorder",
+    "chapter": "Mental and behavioural disorders",
+    "chapterCode": "V",
+    "block": "Disorders of adult personality and behaviour",
+    "blockCode": "F60-F69",
+    "category": "Specific personality disorders",
+    "categoryCode": "F60",
+    "subcategory": "F60.3",
+    "inclusion": [
+        "disorders of psychological development",
+        "Personality (disorder): aggressive",
+        "Personality (disorder): borderline",
+        "Personality (disorder): explosive"
+    ],
+    "exclusion": [
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "dissocial personality disorder"
+    ],
+    "symptoms": [
+        "emotional instability",
+        "impulsive behavior",
+        "intense anger",
+        "fear of abandonment",
+        "identity disturbance"
+    ]
+}

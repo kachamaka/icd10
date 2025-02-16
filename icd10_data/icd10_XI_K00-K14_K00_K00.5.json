@@ -1,0 +1,30 @@
+{
+  "type": "subcategory",
+  "chapterCode": "XI",
+  "chapter": "Diseases of the digestive system",
+  "blockCode": "K00-K14",
+  "block": "Diseases of oral cavity, salivary glands and jaws",
+  "categoryCode": "K00",
+  "category": "Disorders of tooth development and eruption",
+  "subcategory": "K00.5",
+  "title": "Hereditary disturbances in tooth structure, not elsewhere classified",
+  "inclusion": [
+    "Amelogenesis imperfecta",
+    "Dentinogenesis imperfecta",
+    "Odontogenesis imperfecta",
+    "Dentinal dysplasia",
+    "Shell teeth"
+  ],
+  "exclusion": [
+    "certain conditions originating in the perinatal period",
+    "certain infectious and parasitic diseases",
+    "complications of pregnancy, childbirth and the puerperium",
+    "congenital malformations, deformations and chromosomal abnormalities",
+    "endocrine, nutritional and metabolic diseases",
+    "injury, poisoning and certain other consequences of external causes",
+    "neoplasms",
+    "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+    "embedded and impacted teeth"
+  ],
+  "children": null
+}

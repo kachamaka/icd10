@@ -1,0 +1,27 @@
+{
+  "type": "subcategory",
+  "chapterCode": "XIV",
+  "chapter": "Diseases of the genitourinary system",
+  "blockCode": "N00-N08",
+  "block": "Glomerular diseases",
+  "categoryCode": "N08",
+  "category": "Glomerular disorders in diseases classified elsewhere",
+  "subcategory": "N08.3",
+  "title": "Glomerular disorders in diabetes mellitus",
+  "inclusion": [
+    "nephropathy in diseases classified elsewhere"
+  ],
+  "exclusion": [
+    "certain conditions originating in the perinatal period",
+    "certain infectious and parasitic diseases",
+    "complications of pregnancy, childbirth and the puerperium",
+    "congenital malformations, deformations and chromosomal abnormalities",
+    "endocrine, nutritional and metabolic diseases",
+    "injury, poisoning and certain other consequences of external causes",
+    "neoplasms",
+    "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+    "hypertensive renal disease",
+    "renal tubulo-interstitial disorders in diseases classified elsewhere"
+  ],
+  "children": null
+}

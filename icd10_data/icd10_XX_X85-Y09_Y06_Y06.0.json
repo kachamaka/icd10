@@ -1,0 +1,20 @@
+{
+  "type": "subcategory",
+  "chapterCode": "XX",
+  "chapter": "External causes of morbidity and mortality",
+  "blockCode": "X85-Y09",
+  "block": "Assault",
+  "categoryCode": "Y06",
+  "category": "Neglect and abandonment",
+  "subcategory": "Y06.0",
+  "title": "By spouse or partner",
+  "inclusion": [
+    "homicide",
+    "injuries inflicted by another person with intent to injure or kill, by any means"
+  ],
+  "exclusion": [
+    "injuries due to: legal intervention",
+    "injuries due to: operations of war"
+  ],
+  "children": null
+}

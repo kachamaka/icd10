@@ -1,0 +1,16 @@
+{
+  "type": "subcategory",
+  "chapterCode": "XXI",
+  "chapter": "Factors influencing health status and contact with health services",
+  "blockCode": "Z40-Z54",
+  "block": "Persons encountering health services for specific procedures and health care",
+  "categoryCode": "Z54",
+  "category": "Convalescence",
+  "subcategory": "Z54.4",
+  "title": "Convalescence following treatment of fracture",
+  "inclusion": null,
+  "exclusion": [
+    "follow-up examination for medical surveillance after treatment"
+  ],
+  "children": null
+}

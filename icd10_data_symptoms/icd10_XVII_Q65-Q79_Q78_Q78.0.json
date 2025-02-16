@@ -1,0 +1,26 @@
+{
+    "icd10code": "Q78.0",
+    "type": "subcategory",
+    "title": "Osteogenesis imperfecta",
+    "chapter": "Congenital malformations, deformations and chromosomal abnormalities",
+    "chapterCode": "XVII",
+    "block": "Congenital malformations and deformations of the musculoskeletal system",
+    "blockCode": "Q65-Q79",
+    "category": "Other osteochondrodysplasias",
+    "categoryCode": "Q78",
+    "subcategory": "Q78.0",
+    "inclusion": [
+        "Fragilitas ossium",
+        "Osteopsathyrosis"
+    ],
+    "exclusion": [
+        "inborn errors of metabolism"
+    ],
+    "symptoms": [
+        "short stature",
+        "bowed legs",
+        "frontal bossing",
+        "joint pain",
+        "dental abnormalities"
+    ]
+}

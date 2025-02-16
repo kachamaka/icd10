@@ -1,0 +1,27 @@
+{
+    "icd10code": "D48.6",
+    "type": "subcategory",
+    "title": "Neoplasm of uncertain or unknown behaviour: Breast",
+    "chapter": "Neoplasms",
+    "chapterCode": "II",
+    "block": "Neoplasms of uncertain or unknown behaviour",
+    "blockCode": "D37-D48",
+    "category": "Neoplasm of uncertain or unknown behaviour of other and unspecified sites",
+    "categoryCode": "D48",
+    "subcategory": "D48.6",
+    "inclusion": [
+        "Connective tissue of breast",
+        "Cystosarcoma phyllodes"
+    ],
+    "exclusion": [
+        "neurofibromatosis (nonmalignant)",
+        "skin of breast"
+    ],
+    "symptoms": [
+        "unexplained weight loss",
+        "persistent cough",
+        "hoarseness or voice changes",
+        "difficulty swallowing",
+        "lasting chest pain"
+    ]
+}

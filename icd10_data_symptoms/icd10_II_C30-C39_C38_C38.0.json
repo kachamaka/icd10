@@ -1,0 +1,28 @@
+{
+    "icd10code": "C38.0",
+    "type": "subcategory",
+    "title": "Malignant neoplasm: Heart",
+    "chapter": "Neoplasms",
+    "chapterCode": "II",
+    "block": "Malignant neoplasms of respiratory and intrathoracic organs",
+    "blockCode": "C30-C39",
+    "category": "Malignant neoplasm of heart, mediastinum and pleura",
+    "categoryCode": "C38",
+    "subcategory": "C38.0",
+    "inclusion": [
+        "middle ear",
+        "Pericardium"
+    ],
+    "exclusion": [
+        "mesothelioma",
+        "mesothelioma",
+        "great vessels"
+    ],
+    "symptoms": [
+        "chest pain",
+        "persistent cough",
+        "shortness of breath",
+        "fatigue",
+        "unexplained weight loss"
+    ]
+}

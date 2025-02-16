@@ -1,0 +1,34 @@
+{
+    "icd10code": "H18.4",
+    "type": "subcategory",
+    "title": "Corneal degeneration",
+    "chapter": "Diseases of the eye and adnexa",
+    "chapterCode": "VII",
+    "block": "Disorders of sclera, cornea, iris and ciliary body",
+    "blockCode": "H15-H22",
+    "category": "Other disorders of cornea",
+    "categoryCode": "H18",
+    "subcategory": "H18.4",
+    "inclusion": [
+        "Arcus senilis",
+        "Band keratopathy"
+    ],
+    "exclusion": [
+        "certain conditions originating in the perinatal period",
+        "certain infectious and parasitic diseases",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "Mooren ulcer"
+    ],
+    "symptoms": [
+        "eye redness",
+        "irritation",
+        "blurred vision",
+        "light sensitivity",
+        "eye pain"
+    ]
+}

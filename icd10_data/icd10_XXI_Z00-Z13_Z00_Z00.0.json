@@ -1,0 +1,23 @@
+{
+  "type": "subcategory",
+  "chapterCode": "XXI",
+  "chapter": "Factors influencing health status and contact with health services",
+  "blockCode": "Z00-Z13",
+  "block": "Persons encountering health services for examination and investigation",
+  "categoryCode": "Z00",
+  "category": "General examination and investigation of persons without complaint and reported diagnosis",
+  "subcategory": "Z00.0",
+  "title": "General medical examination",
+  "inclusion": [
+    "Health check-up NOS",
+    "Periodic examination (annual)(physical)"
+  ],
+  "exclusion": [
+    "examinations related to pregnancy and reproduction",
+    "examination for administrative purposes",
+    "special screening examinations",
+    "general health check-up of: defined subpopulations",
+    "general health check-up of: infant or child"
+  ],
+  "children": null
+}

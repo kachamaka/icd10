@@ -1,0 +1,35 @@
+{
+    "icd10code": "S78.9",
+    "type": "subcategory",
+    "title": "Traumatic amputation of hip and thigh, level unspecified",
+    "chapter": "Injury, poisoning and certain other consequences of external causes",
+    "chapterCode": "XIX",
+    "block": "Injuries to the hip and thigh",
+    "blockCode": "S70-S79",
+    "category": "Traumatic amputation of hip and thigh",
+    "categoryCode": "S78",
+    "subcategory": "S78.9",
+    "inclusion": null,
+    "exclusion": [
+        "birth trauma",
+        "obstetric trauma",
+        "malunion of fracture",
+        "nonunion of fracture [pseudarthrosis]",
+        "pathological fracture",
+        "pathological fracture with osteoporosis",
+        "stress fracture",
+        "bilateral involvement of hip and thigh",
+        "burns and corrosions",
+        "frostbite",
+        "injuries of leg, level unspecified",
+        "insect bite or sting, venomous",
+        "traumatic amputation of lower limb, level unspecified"
+    ],
+    "symptoms": [
+        "pain",
+        "swelling",
+        "bruising",
+        "limited mobility",
+        "deformity"
+    ]
+}

@@ -1,0 +1,25 @@
+{
+  "type": "subcategory",
+  "chapterCode": "XVII",
+  "chapter": "Congenital malformations, deformations and chromosomal abnormalities",
+  "blockCode": "Q30-Q34",
+  "block": "Congenital malformations of the respiratory system",
+  "categoryCode": "Q31",
+  "category": "Congenital malformations of larynx",
+  "subcategory": "Q31.8",
+  "title": "Other congenital malformations of larynx",
+  "inclusion": [
+    "Absence of cricoid cartilage, epiglottis, glottis, larynx or thyroid cartilage",
+    "Agenesis of cricoid cartilage, epiglottis, glottis, larynx or thyroid cartilage",
+    "Atresia of cricoid cartilage, epiglottis, glottis, larynx or thyroid cartilage",
+    "Cleft thyroid cartilage",
+    "Congenital stenosis of larynx NEC",
+    "Fissure of epiglottis",
+    "Posterior cleft of cricoid cartilage"
+  ],
+  "exclusion": [
+    "inborn errors of metabolism",
+    "congenital (laryngeal) stridor NOS"
+  ],
+  "children": null
+}

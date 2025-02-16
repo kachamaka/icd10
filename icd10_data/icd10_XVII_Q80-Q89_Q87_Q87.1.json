@@ -1,0 +1,28 @@
+{
+  "type": "subcategory",
+  "chapterCode": "XVII",
+  "chapter": "Congenital malformations, deformations and chromosomal abnormalities",
+  "blockCode": "Q80-Q89",
+  "block": "Other congenital malformations",
+  "categoryCode": "Q87",
+  "category": "Other specified congenital malformation syndromes affecting multiple systems",
+  "subcategory": "Q87.1",
+  "title": "Congenital malformation syndromes predominantly associated with short stature",
+  "inclusion": [
+    "Syndrome: Aarskog",
+    "Syndrome: Cockayne",
+    "Syndrome: De Lange",
+    "Syndrome: Dubowitz",
+    "Syndrome: Noonan",
+    "Syndrome: Prader-Willi",
+    "Syndrome: Robinow-Silverman-Smith",
+    "Syndrome: Russell-Silver",
+    "Syndrome: Seckel",
+    "Syndrome: Smith-Lemli-Opitz"
+  ],
+  "exclusion": [
+    "inborn errors of metabolism",
+    "Ellis-van Creveld syndrome"
+  ],
+  "children": null
+}

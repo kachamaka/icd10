@@ -1,0 +1,35 @@
+{
+    "icd10code": "T52.1",
+    "type": "subcategory",
+    "title": "Toxic effect: Benzene",
+    "chapter": "Injury, poisoning and certain other consequences of external causes",
+    "chapterCode": "XIX",
+    "block": "Toxic effects of substances chiefly nonmedicinal as to source",
+    "blockCode": "T51-T65",
+    "category": "Toxic effect of organic solvents",
+    "categoryCode": "T52",
+    "subcategory": "T52.1",
+    "inclusion": null,
+    "exclusion": [
+        "birth trauma",
+        "obstetric trauma",
+        "malunion of fracture",
+        "nonunion of fracture [pseudarthrosis]",
+        "pathological fracture",
+        "pathological fracture with osteoporosis",
+        "stress fracture",
+        "corrosions",
+        "localized toxic effects classified elsewhere",
+        "respiratory conditions due to external agents",
+        "acute alcohol intoxication or \"hangover\" effects",
+        "homologues of benzene",
+        "nitroderivatives and aminoderivatives of benzene and its homologues"
+    ],
+    "symptoms": [
+        "headache",
+        "dizziness",
+        "nausea",
+        "confusion",
+        "respiratory irritation"
+    ]
+}

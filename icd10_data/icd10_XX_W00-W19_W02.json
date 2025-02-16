@@ -1,0 +1,24 @@
+{
+  "type": "category",
+  "chapterCode": "XX",
+  "chapter": "External causes of morbidity and mortality",
+  "blockCode": "W00-W19",
+  "block": "Falls",
+  "categoryCode": "W02",
+  "category": "Fall involving ice-skates, skis, roller-skates or skateboards",
+  "subcategory": "",
+  "title": "Fall involving ice-skates, skis, roller-skates or skateboards",
+  "inclusion": null,
+  "exclusion": [
+    "assault",
+    "fall (in)(from): animal",
+    "fall (in)(from): burning building",
+    "fall (in)(from): into fire",
+    "fall (in)(from): into water (with drowning or submersion)",
+    "fall (in)(from): machinery (in operation)",
+    "fall (in)(from): repeated falls not resulting from accident",
+    "fall (in)(from): transport vehicle",
+    "intentional self-harm"
+  ],
+  "children": null
+}

@@ -1,0 +1,24 @@
+{
+    "icd10code": "X03",
+    "type": "category",
+    "title": "Exposure to controlled fire, not in building or structure",
+    "chapter": "External causes of morbidity and mortality",
+    "chapterCode": "XX",
+    "block": "Exposure to smoke, fire and flames",
+    "blockCode": "X00-X09",
+    "category": "Exposure to controlled fire, not in building or structure",
+    "categoryCode": "X03",
+    "subcategory": "",
+    "inclusion": [
+        "fire caused by lightning",
+        "camp-fire"
+    ],
+    "exclusion": [
+        "arson",
+        "secondary fire resulting from explosion",
+        "transport accidents"
+    ],
+    "symptoms": [
+        "asymptomatic"
+    ]
+}

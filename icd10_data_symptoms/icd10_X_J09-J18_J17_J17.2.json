@@ -1,0 +1,35 @@
+{
+    "icd10code": "J17.2",
+    "type": "subcategory",
+    "title": "Pneumonia in mycoses",
+    "chapter": "Diseases of the respiratory system",
+    "chapterCode": "X",
+    "block": "Influenza and pneumonia",
+    "blockCode": "J09-J18",
+    "category": "Pneumonia in diseases classified elsewhere",
+    "categoryCode": "J17",
+    "subcategory": "J17.2",
+    "inclusion": [
+        "Pneumonia in: aspergillosis",
+        "Pneumonia in: candidiasis",
+        "Pneumonia in: coccidioidomycosis",
+        "Pneumonia in: histoplasmosis"
+    ],
+    "exclusion": [
+        "certain conditions originating in the perinatal period",
+        "certain infectious and parasitic diseases",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified"
+    ],
+    "symptoms": [
+        "cough",
+        "fever",
+        "shortness of breath",
+        "chest pain",
+        "fatigue"
+    ]
+}

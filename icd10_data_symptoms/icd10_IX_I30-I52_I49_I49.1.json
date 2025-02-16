@@ -1,0 +1,41 @@
+{
+    "icd10code": "I49.1",
+    "type": "subcategory",
+    "title": "Atrial premature depolarization",
+    "chapter": "Diseases of the circulatory system",
+    "chapterCode": "IX",
+    "block": "Other forms of heart disease",
+    "blockCode": "I30-I52",
+    "category": "Other cardiac arrhythmias",
+    "categoryCode": "I49",
+    "subcategory": "I49.1",
+    "inclusion": [
+        "Atrial premature beats"
+    ],
+    "exclusion": [
+        "certain conditions originating in the perinatal period",
+        "certain infectious and parasitic diseases",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "systemic connective tissue disorders",
+        "transient cerebral ischaemic attacks and related syndromes",
+        "bradycardia: NOS",
+        "bradycardia: sinoatrial",
+        "bradycardia: sinus",
+        "bradycardia: vagal",
+        "complicating: abortion or ectopic or molar pregnancy",
+        "complicating: obstetric surgery and procedures",
+        "neonatal cardiac dysrhythmia"
+    ],
+    "symptoms": [
+        "rapid heart rate",
+        "chest discomfort",
+        "shortness of breath",
+        "fatigue",
+        "dizziness or fainting"
+    ]
+}

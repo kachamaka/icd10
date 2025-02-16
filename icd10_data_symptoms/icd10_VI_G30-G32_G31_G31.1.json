@@ -1,0 +1,33 @@
+{
+    "icd10code": "G31.1",
+    "type": "subcategory",
+    "title": "Senile degeneration of brain, not elsewhere classified",
+    "chapter": "Diseases of the nervous system",
+    "chapterCode": "VI",
+    "block": "Other degenerative diseases of the nervous system",
+    "blockCode": "G30-G32",
+    "category": "Other degenerative diseases of nervous system, not elsewhere classified",
+    "categoryCode": "G31",
+    "subcategory": "G31.1",
+    "inclusion": null,
+    "exclusion": [
+        "certain conditions originating in the perinatal period",
+        "certain infectious and parasitic diseases",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "Reye syndrome",
+        "Alzheimer disease",
+        "senility NOS"
+    ],
+    "symptoms": [
+        "memory loss",
+        "confusion",
+        "difficulty with language",
+        "impaired judgment",
+        "personality changes"
+    ]
+}

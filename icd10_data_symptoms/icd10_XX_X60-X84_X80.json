@@ -1,0 +1,21 @@
+{
+    "icd10code": "X80",
+    "type": "category",
+    "title": "Intentional self-harm by jumping from a high place",
+    "chapter": "External causes of morbidity and mortality",
+    "chapterCode": "XX",
+    "block": "Intentional self-harm",
+    "blockCode": "X60-X84",
+    "category": "Intentional self-harm by jumping from a high place",
+    "categoryCode": "X80",
+    "subcategory": "",
+    "inclusion": [
+        "purposely self-inflicted poisoning or injury",
+        "suicide (attempted)",
+        "intentional fall from one level to another"
+    ],
+    "exclusion": null,
+    "symptoms": [
+        "asymptomatic"
+    ]
+}

@@ -1,0 +1,36 @@
+{
+    "icd10code": "I97.1",
+    "type": "subcategory",
+    "title": "Other functional disturbances following cardiac surgery",
+    "chapter": "Diseases of the circulatory system",
+    "chapterCode": "IX",
+    "block": "Other and unspecified disorders of the circulatory system",
+    "blockCode": "I95-I99",
+    "category": "Postprocedural disorders of circulatory system, not elsewhere classified",
+    "categoryCode": "I97",
+    "subcategory": "I97.1",
+    "inclusion": [
+        "Cardiac insufficiency following cardiac surgery or due to presence of cardiac prosthesis",
+        "Heart failure following cardiac surgery or due to presence of cardiac prosthesis"
+    ],
+    "exclusion": [
+        "certain conditions originating in the perinatal period",
+        "certain infectious and parasitic diseases",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "systemic connective tissue disorders",
+        "transient cerebral ischaemic attacks and related syndromes",
+        "pulmonary"
+    ],
+    "symptoms": [
+        "coughing up blood",
+        "shortness of breath",
+        "chest pain",
+        "rapid heart rate",
+        "unexplained weight loss"
+    ]
+}

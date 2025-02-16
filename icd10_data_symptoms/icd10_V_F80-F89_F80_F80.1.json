@@ -1,0 +1,32 @@
+{
+    "icd10code": "F80.1",
+    "type": "subcategory",
+    "title": "Expressive language disorder",
+    "chapter": "Mental and behavioural disorders",
+    "chapterCode": "V",
+    "block": "Disorders of psychological development",
+    "blockCode": "F80-F89",
+    "category": "Specific developmental disorders of speech and language",
+    "categoryCode": "F80",
+    "subcategory": "F80.1",
+    "inclusion": [
+        "disorders of psychological development",
+        "Developmental dysphasia or aphasia, expressive type"
+    ],
+    "exclusion": [
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "acquired aphasia with epilepsy [Landau-Kleffner]",
+        "dysphasia and aphasia: NOS",
+        "dysphasia and aphasia: developmental, receptive type",
+        "elective mutism",
+        "mental retardation",
+        "pervasive developmental disorders"
+    ],
+    "symptoms": [
+        "delayed speech development",
+        "limited vocabulary",
+        "difficulty forming sentences",
+        "impaired language comprehension",
+        "incorrect word order"
+    ]
+}

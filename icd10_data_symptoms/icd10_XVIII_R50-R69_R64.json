@@ -1,0 +1,29 @@
+{
+    "icd10code": "R64",
+    "type": "category",
+    "title": "Cachexia",
+    "chapter": "Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+    "chapterCode": "XVIII",
+    "block": "General symptoms and signs",
+    "blockCode": "R50-R69",
+    "category": "Cachexia",
+    "categoryCode": "R64",
+    "subcategory": "",
+    "inclusion": [
+        "Failure to thrive in adult"
+    ],
+    "exclusion": [
+        "abnormal findings on antenatal screening of mother",
+        "certain conditions originating in the perinatal period",
+        "HIV disease resulting in wasting syndrome",
+        "malignant cachexia",
+        "nutritional marasmus"
+    ],
+    "symptoms": [
+        "weight loss",
+        "fatigue",
+        "weakness",
+        "decreased appetite",
+        "general decline in function"
+    ]
+}

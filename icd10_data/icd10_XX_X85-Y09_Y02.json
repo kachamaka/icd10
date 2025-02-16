@@ -1,0 +1,20 @@
+{
+  "type": "category",
+  "chapterCode": "XX",
+  "chapter": "External causes of morbidity and mortality",
+  "blockCode": "X85-Y09",
+  "block": "Assault",
+  "categoryCode": "Y02",
+  "category": "Assault by pushing or placing victim before moving object",
+  "subcategory": "",
+  "title": "Assault by pushing or placing victim before moving object",
+  "inclusion": [
+    "homicide",
+    "injuries inflicted by another person with intent to injure or kill, by any means"
+  ],
+  "exclusion": [
+    "injuries due to: legal intervention",
+    "injuries due to: operations of war"
+  ],
+  "children": null
+}

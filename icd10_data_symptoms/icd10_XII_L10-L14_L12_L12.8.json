@@ -1,0 +1,37 @@
+{
+    "icd10code": "L12.8",
+    "type": "subcategory",
+    "title": "Other pemphigoid",
+    "chapter": "Diseases of the skin and subcutaneous tissue",
+    "chapterCode": "XII",
+    "block": "Bullous disorders",
+    "blockCode": "L10-L14",
+    "category": "Pemphigoid",
+    "categoryCode": "L12",
+    "subcategory": "L12.8",
+    "inclusion": null,
+    "exclusion": [
+        "certain conditions originating in the perinatal period",
+        "certain infectious and parasitic diseases",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "lipomelanotic reticulosis",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "systemic connective tissue disorders",
+        "decubitus [pressure] ulcer and pressure area",
+        "gangrene",
+        "skin infections",
+        "specific infections classified to A00-B99",
+        "varicose ulcer"
+    ],
+    "symptoms": [
+        "blistering",
+        "itching",
+        "rash",
+        "redness",
+        "pain"
+    ]
+}

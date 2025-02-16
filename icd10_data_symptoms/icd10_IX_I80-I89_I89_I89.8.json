@@ -1,0 +1,40 @@
+{
+    "icd10code": "I89.8",
+    "type": "subcategory",
+    "title": "Other specified noninfective disorders of lymphatic vessels and lymph nodes",
+    "chapter": "Diseases of the circulatory system",
+    "chapterCode": "IX",
+    "block": "Diseases of veins, lymphatic vessels and lymph nodes, not elsewhere classified",
+    "blockCode": "I80-I89",
+    "category": "Other noninfective disorders of lymphatic vessels and lymph nodes",
+    "categoryCode": "I89",
+    "subcategory": "I89.8",
+    "inclusion": [
+        "Chylocele (nonfilarial)",
+        "Lipomelanotic reticulosis"
+    ],
+    "exclusion": [
+        "certain conditions originating in the perinatal period",
+        "certain infectious and parasitic diseases",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "systemic connective tissue disorders",
+        "transient cerebral ischaemic attacks and related syndromes",
+        "pulmonary",
+        "naevus: blue",
+        "complicating: childbirth and the puerperium",
+        "complicating: pregnancy",
+        "naevus: melanocytic"
+    ],
+    "symptoms": [
+        "swelling in legs",
+        "pain in affected area",
+        "fatigue",
+        "skin discoloration",
+        "difficulty walking"
+    ]
+}

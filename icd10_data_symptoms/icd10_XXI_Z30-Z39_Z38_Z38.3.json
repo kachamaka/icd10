@@ -1,0 +1,17 @@
+{
+    "icd10code": "Z38.3",
+    "type": "subcategory",
+    "title": "Twin, born in hospital",
+    "chapter": "Factors influencing health status and contact with health services",
+    "chapterCode": "XXI",
+    "block": "Persons encountering health services in circumstances related to reproduction",
+    "blockCode": "Z30-Z39",
+    "category": "Liveborn infants according to place of birth",
+    "categoryCode": "Z38",
+    "subcategory": "Z38.3",
+    "inclusion": null,
+    "exclusion": null,
+    "symptoms": [
+        "asymptomatic"
+    ]
+}

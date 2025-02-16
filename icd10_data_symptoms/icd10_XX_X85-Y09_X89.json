@@ -1,0 +1,28 @@
+{
+    "icd10code": "X89",
+    "type": "category",
+    "title": "Assault by other specified chemicals and noxious substances",
+    "chapter": "External causes of morbidity and mortality",
+    "chapterCode": "XX",
+    "block": "Assault",
+    "blockCode": "X85-Y09",
+    "category": "Assault by other specified chemicals and noxious substances",
+    "categoryCode": "X89",
+    "subcategory": "",
+    "inclusion": [
+        "homicide",
+        "injuries inflicted by another person with intent to injure or kill, by any means",
+        "plant food and fertilizers"
+    ],
+    "exclusion": [
+        "injuries due to: legal intervention",
+        "injuries due to: operations of war"
+    ],
+    "symptoms": [
+        "burns",
+        "blisters",
+        "respiratory distress",
+        "nausea",
+        "eye irritation"
+    ]
+}

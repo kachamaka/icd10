@@ -1,0 +1,23 @@
+{
+    "icd10code": "Q25.9",
+    "type": "subcategory",
+    "title": "Congenital malformation of great arteries, unspecified",
+    "chapter": "Congenital malformations, deformations and chromosomal abnormalities",
+    "chapterCode": "XVII",
+    "block": "Congenital malformations of the circulatory system",
+    "blockCode": "Q20-Q28",
+    "category": "Congenital malformations of great arteries",
+    "categoryCode": "Q25",
+    "subcategory": "Q25.9",
+    "inclusion": null,
+    "exclusion": [
+        "inborn errors of metabolism"
+    ],
+    "symptoms": [
+        "heart murmur",
+        "shortness of breath",
+        "fatigue",
+        "chest pain",
+        "abnormal blood pressure"
+    ]
+}

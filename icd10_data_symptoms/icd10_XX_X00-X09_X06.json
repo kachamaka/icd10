@@ -1,0 +1,29 @@
+{
+    "icd10code": "X06",
+    "type": "category",
+    "title": "Exposure to ignition or melting of other clothing and apparel",
+    "chapter": "External causes of morbidity and mortality",
+    "chapterCode": "XX",
+    "block": "Exposure to smoke, fire and flames",
+    "blockCode": "X00-X09",
+    "category": "Exposure to ignition or melting of other clothing and apparel",
+    "categoryCode": "X06",
+    "subcategory": "",
+    "inclusion": [
+        "fire caused by lightning",
+        "ignition of plastic jewellery",
+        "melting of plastic jewellery"
+    ],
+    "exclusion": [
+        "arson",
+        "secondary fire resulting from explosion",
+        "transport accidents"
+    ],
+    "symptoms": [
+        "burning pain",
+        "erythema",
+        "blisters",
+        "swelling",
+        "tissue damage"
+    ]
+}

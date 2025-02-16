@@ -1,0 +1,34 @@
+{
+    "icd10code": "H21.1",
+    "type": "subcategory",
+    "title": "Other vascular disorders of iris and ciliary body",
+    "chapter": "Diseases of the eye and adnexa",
+    "chapterCode": "VII",
+    "block": "Disorders of sclera, cornea, iris and ciliary body",
+    "blockCode": "H15-H22",
+    "category": "Other disorders of iris and ciliary body",
+    "categoryCode": "H21",
+    "subcategory": "H21.1",
+    "inclusion": [
+        "Neovascularization of iris or ciliary body",
+        "Rubeosis of iris"
+    ],
+    "exclusion": [
+        "certain conditions originating in the perinatal period",
+        "certain infectious and parasitic diseases",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "sympathetic uveitis"
+    ],
+    "symptoms": [
+        "red eye",
+        "eye pain",
+        "blurred vision",
+        "sensitivity to light",
+        "excessive tearing"
+    ]
+}

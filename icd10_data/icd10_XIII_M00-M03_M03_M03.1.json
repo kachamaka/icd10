@@ -1,0 +1,30 @@
+{
+  "type": "subcategory",
+  "chapterCode": "XIII",
+  "chapter": "Diseases of the musculoskeletal system and connective tissue",
+  "blockCode": "M00-M03",
+  "block": "Infectious arthropathies",
+  "categoryCode": "M03",
+  "category": "Postinfective and reactive arthropathies in diseases classified elsewhere",
+  "subcategory": "M03.1",
+  "title": "Postinfective arthropathy in syphilis",
+  "inclusion": [
+    "Disorders affecting predominantly peripheral (limb) joints",
+    "Clutton joints"
+  ],
+  "exclusion": [
+    "certain conditions originating in the perinatal period",
+    "certain disorders of the temporomandibular joint",
+    "certain infectious and parasitic diseases",
+    "compartment syndrome",
+    "complications of pregnancy, childbirth and the puerperium",
+    "congenital malformations, deformations and chromosomal abnormalities",
+    "endocrine, nutritional and metabolic diseases",
+    "injury, poisoning and certain other consequences of external causes",
+    "neoplasms",
+    "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+    "polyarthritis NOS",
+    "Charcot or tabetic arthropathy"
+  ],
+  "children": null
+}

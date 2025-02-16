@@ -1,0 +1,16 @@
+{
+  "type": "subcategory",
+  "chapterCode": "II",
+  "chapter": "Neoplasms",
+  "blockCode": "D37-D48",
+  "block": "Neoplasms of uncertain or unknown behaviour",
+  "categoryCode": "D48",
+  "category": "Neoplasm of uncertain or unknown behaviour of other and unspecified sites",
+  "subcategory": "D48.3",
+  "title": "Neoplasm of uncertain or unknown behaviour: Retroperitoneum",
+  "inclusion": null,
+  "exclusion": [
+    "neurofibromatosis (nonmalignant)"
+  ],
+  "children": null
+}

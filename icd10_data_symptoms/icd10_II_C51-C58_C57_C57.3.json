@@ -1,0 +1,24 @@
+{
+    "icd10code": "C57.3",
+    "type": "subcategory",
+    "title": "Malignant neoplasm: Parametrium",
+    "chapter": "Neoplasms",
+    "chapterCode": "II",
+    "block": "Malignant neoplasms of female genital organs",
+    "blockCode": "C51-C58",
+    "category": "Malignant neoplasm of other and unspecified female genital organs",
+    "categoryCode": "C57",
+    "subcategory": "C57.3",
+    "inclusion": [
+        "skin of female genital organs",
+        "Uterine ligament NOS"
+    ],
+    "exclusion": null,
+    "symptoms": [
+        "abdominal pain",
+        "irregular menstruation",
+        "vaginal bleeding post menopause",
+        "lower back discomfort",
+        "bloating and swollen abdomen"
+    ]
+}

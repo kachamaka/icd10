@@ -1,0 +1,24 @@
+{
+    "icd10code": "Z23.3",
+    "type": "subcategory",
+    "title": "Need for immunization against plague",
+    "chapter": "Factors influencing health status and contact with health services",
+    "chapterCode": "XXI",
+    "block": "Persons with potential health hazards related to communicable diseases",
+    "blockCode": "Z20-Z29",
+    "category": "Need for immunization against single bacterial diseases",
+    "categoryCode": "Z23",
+    "subcategory": "Z23.3",
+    "inclusion": null,
+    "exclusion": [
+        "immunization: against combinations of diseases",
+        "immunization: not carried out"
+    ],
+    "symptoms": [
+        "fever",
+        "fatigue",
+        "mild pain at injection site",
+        "headache",
+        "muscle ache"
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "icd10code": "Q91.3",
+    "type": "subcategory",
+    "title": "Edwards syndrome, unspecified",
+    "chapter": "Congenital malformations, deformations and chromosomal abnormalities",
+    "chapterCode": "XVII",
+    "block": "Chromosomal abnormalities, not elsewhere classified",
+    "blockCode": "Q90-Q99",
+    "category": "Edwards syndrome and Patau syndrome",
+    "categoryCode": "Q91",
+    "subcategory": "Q91.3",
+    "inclusion": null,
+    "exclusion": [
+        "inborn errors of metabolism"
+    ],
+    "symptoms": [
+        "distinct facial features",
+        "delayed growth",
+        "intellectual disability",
+        "heart defects",
+        "hypotonia"
+    ]
+}

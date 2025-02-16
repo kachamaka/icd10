@@ -1,0 +1,23 @@
+{
+    "icd10code": "C77.1",
+    "type": "subcategory",
+    "title": "Secondary and unspecified malignant neoplasm: Intrathoracic lymph nodes",
+    "chapter": "Neoplasms",
+    "chapterCode": "II",
+    "block": "Malignant neoplasms of ill-defined, secondary and unspecified sites",
+    "blockCode": "C76-C80",
+    "category": "Secondary and unspecified malignant neoplasm of lymph nodes",
+    "categoryCode": "C77",
+    "subcategory": "C77.1",
+    "inclusion": null,
+    "exclusion": [
+        "malignant neoplasm of lymph nodes, specified as primary"
+    ],
+    "symptoms": [
+        "swollen neck lymph nodes",
+        "pain in the neck",
+        "fatigue",
+        "unexpected weight loss",
+        "night sweats"
+    ]
+}

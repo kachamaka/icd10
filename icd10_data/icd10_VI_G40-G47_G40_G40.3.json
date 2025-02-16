@@ -1,0 +1,39 @@
+{
+  "type": "subcategory",
+  "chapterCode": "VI",
+  "chapter": "Diseases of the nervous system",
+  "blockCode": "G40-G47",
+  "block": "Episodic and paroxysmal disorders",
+  "categoryCode": "G40",
+  "category": "Epilepsy",
+  "subcategory": "G40.3",
+  "title": "Generalized idiopathic epilepsy and epileptic syndromes",
+  "inclusion": [
+    "Benign: myoclonic epilepsy in infancy",
+    "Benign: neonatal convulsions (familial)",
+    "Childhood absence epilepsy [pyknolepsy]",
+    "Epilepsy with grand mal seizures on awakening",
+    "Juvenile: absence epilepsy",
+    "Juvenile: myoclonic epilepsy [impulsive petit mal]",
+    "Nonspecific epileptic seizures: atonic",
+    "Nonspecific epileptic seizures: clonic",
+    "Nonspecific epileptic seizures: myoclonic",
+    "Nonspecific epileptic seizures: tonic",
+    "Nonspecific epileptic seizures: tonic-clonic"
+  ],
+  "exclusion": [
+    "certain conditions originating in the perinatal period",
+    "certain infectious and parasitic diseases",
+    "complications of pregnancy, childbirth and the puerperium",
+    "congenital malformations, deformations and chromosomal abnormalities",
+    "endocrine, nutritional and metabolic diseases",
+    "injury, poisoning and certain other consequences of external causes",
+    "neoplasms",
+    "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+    "Landau-Kleffner syndrome",
+    "seizure (convulsive) NOS",
+    "status epilepticus",
+    "Todd paralysis"
+  ],
+  "children": null
+}

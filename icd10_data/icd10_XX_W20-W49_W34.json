@@ -1,0 +1,24 @@
+{
+  "type": "category",
+  "chapterCode": "XX",
+  "chapter": "External causes of morbidity and mortality",
+  "blockCode": "W20-W49",
+  "block": "Exposure to inanimate mechanical forces",
+  "categoryCode": "W34",
+  "category": "Discharge from other and unspecified firearms",
+  "subcategory": "",
+  "title": "Discharge from other and unspecified firearms",
+  "inclusion": [
+    "airgun",
+    "BB gun",
+    "gunshot wound NOS",
+    "shot NOS",
+    "Very pistol [flare]"
+  ],
+  "exclusion": [
+    "assault",
+    "contact or collision with animals or persons",
+    "intentional self-harm"
+  ],
+  "children": null
+}

@@ -1,0 +1,28 @@
+{
+    "icd10code": "Z09.2",
+    "type": "subcategory",
+    "title": "Follow-up examination after chemotherapy for other conditions",
+    "chapter": "Factors influencing health status and contact with health services",
+    "chapterCode": "XXI",
+    "block": "Persons encountering health services for examination and investigation",
+    "blockCode": "Z00-Z13",
+    "category": "Follow-up examination after treatment for conditions other than malignant neoplasms",
+    "categoryCode": "Z09",
+    "subcategory": "Z09.2",
+    "inclusion": [
+        "medical surveillance following treatment"
+    ],
+    "exclusion": [
+        "examinations related to pregnancy and reproduction",
+        "follow-up medical care and convalescence",
+        "medical surveillance following treatment for malignant neoplasms",
+        "surveillance of: contraception",
+        "surveillance of: prosthetic and other medical devices",
+        "maintenance chemotherapy"
+    ],
+    "symptoms": [
+        "history of treatment",
+        "residual health issue",
+        "monitoring recovery"
+    ]
+}

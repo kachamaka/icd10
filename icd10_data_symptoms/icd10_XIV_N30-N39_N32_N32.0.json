@@ -1,0 +1,38 @@
+{
+    "icd10code": "N32.0",
+    "type": "subcategory",
+    "title": "Bladder-neck obstruction",
+    "chapter": "Diseases of the genitourinary system",
+    "chapterCode": "XIV",
+    "block": "Other diseases of urinary system",
+    "blockCode": "N30-N39",
+    "category": "Other disorders of bladder",
+    "categoryCode": "N32",
+    "subcategory": "N32.0",
+    "inclusion": [
+        "Bladder-neck stenosis (acquired)"
+    ],
+    "exclusion": [
+        "certain conditions originating in the perinatal period",
+        "certain infectious and parasitic diseases",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "urinary infection (complicating): abortion or ectopic or molar pregnancy",
+        "urinary infection (complicating): pregnancy, childbirth and the puerperium",
+        "urinary infection (complicating): with urolithiasis",
+        "haematuria: NOS",
+        "haematuria: recurrent and persistent",
+        "haematuria: with specified morphological lesion"
+    ],
+    "symptoms": [
+        "frequent urination",
+        "urgent urination",
+        "burning sensation during urination",
+        "pelvic pain",
+        "cloudy urine"
+    ]
+}

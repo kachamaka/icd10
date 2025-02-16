@@ -1,0 +1,40 @@
+{
+    "icd10code": "E11",
+    "type": "modifiedcategory",
+    "title": "Type 2 diabetes mellitus with ketoacidosis",
+    "chapter": "Endocrine, nutritional and metabolic diseases",
+    "chapterCode": "IV",
+    "block": "Diabetes mellitus",
+    "blockCode": "E10-E14",
+    "category": "Type 2 diabetes mellitus",
+    "categoryCode": "E11",
+    "subcategory": "",
+    "inclusion": [
+        "diabetes (mellitus)(nonobese)(obese): adult-onset",
+        "diabetes (mellitus)(nonobese)(obese): maturity-onset",
+        "diabetes (mellitus)(nonobese)(obese): nonketotic",
+        "diabetes (mellitus)(nonobese)(obese): stable",
+        "non-insulin-dependent diabetes of the young",
+        "Diabetic: acidosis without mention of coma",
+        "Diabetic: ketoacidosis without mention of coma"
+    ],
+    "exclusion": [
+        "complications of pregnancy, childbirth and the puerperium",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "transitory endocrine and metabolic disorders specific to fetus and newborn",
+        "diabetes mellitus (in): malnutrition-related",
+        "diabetes mellitus (in): neonatal",
+        "diabetes mellitus (in): pregnancy, childbirth and the puerperium",
+        "glycosuria: NOS",
+        "glycosuria: renal",
+        "impaired glucose tolerance",
+        "postsurgical hypoinsulinaemia"
+    ],
+    "symptoms": [
+        "frequent urination",
+        "excessive thirst",
+        "fatigue",
+        "blurry vision",
+        "unintentional weight loss"
+    ]
+}

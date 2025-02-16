@@ -1,0 +1,21 @@
+{
+    "icd10code": "C17.3",
+    "type": "subcategory",
+    "title": "Malignant neoplasm: Meckel diverticulum",
+    "chapter": "Neoplasms",
+    "chapterCode": "II",
+    "block": "Malignant neoplasms of digestive organs",
+    "blockCode": "C15-C26",
+    "category": "Malignant neoplasm of small intestine",
+    "categoryCode": "C17",
+    "subcategory": "C17.3",
+    "inclusion": null,
+    "exclusion": null,
+    "symptoms": [
+        "abdominal pain",
+        "changes in bowel habits",
+        "rectal bleeding",
+        "unintentional weight loss",
+        "fatigue"
+    ]
+}

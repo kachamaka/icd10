@@ -1,0 +1,21 @@
+{
+    "icd10code": "D37.9",
+    "type": "subcategory",
+    "title": "Neoplasm of uncertain or unknown behaviour: Digestive organ, unspecified",
+    "chapter": "Neoplasms",
+    "chapterCode": "II",
+    "block": "Neoplasms of uncertain or unknown behaviour",
+    "blockCode": "D37-D48",
+    "category": "Neoplasm of uncertain or unknown behaviour of oral cavity and digestive organs",
+    "categoryCode": "D37",
+    "subcategory": "D37.9",
+    "inclusion": null,
+    "exclusion": null,
+    "symptoms": [
+        "unexplained weight loss",
+        "loss of appetite",
+        "abdominal pain",
+        "fatigue",
+        "general discomfort"
+    ]
+}

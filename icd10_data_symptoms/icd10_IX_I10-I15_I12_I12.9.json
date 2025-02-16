@@ -1,0 +1,45 @@
+{
+    "icd10code": "I12.9",
+    "type": "subcategory",
+    "title": "Hypertensive renal disease without renal failure",
+    "chapter": "Diseases of the circulatory system",
+    "chapterCode": "IX",
+    "block": "Hypertensive diseases",
+    "blockCode": "I10-I15",
+    "category": "Hypertensive renal disease",
+    "categoryCode": "I12",
+    "subcategory": "I12.9",
+    "inclusion": [
+        "any condition in N00-N07, N18.-, N19 or N26 due to hypertension",
+        "arteriosclerosis of kidney",
+        "arteriosclerotic nephritis (chronic)(interstitial)",
+        "hypertensive nephropathy",
+        "nephrosclerosis",
+        "Hypertensive renal disease NOS"
+    ],
+    "exclusion": [
+        "certain conditions originating in the perinatal period",
+        "certain infectious and parasitic diseases",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "systemic connective tissue disorders",
+        "transient cerebral ischaemic attacks and related syndromes",
+        "postoperative shock",
+        "maternal hypotension syndrome",
+        "nonspecific low blood pressure reading NOS",
+        "sequelae of the listed conditions",
+        "postmastectomy lymphoedema",
+        "phlebitis and thrombophlebitis (of): portal (vein)"
+    ],
+    "symptoms": [
+        "high blood pressure",
+        "swelling in legs and ankles",
+        "fatigue",
+        "shortness of breath",
+        "blood in urine"
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "icd10code": "D44.8",
+    "type": "subcategory",
+    "title": "Neoplasm of uncertain or unknown behaviour: Pluriglandular involvement",
+    "chapter": "Neoplasms",
+    "chapterCode": "II",
+    "block": "Neoplasms of uncertain or unknown behaviour",
+    "blockCode": "D37-D48",
+    "category": "Neoplasm of uncertain or unknown behaviour of endocrine glands",
+    "categoryCode": "D44",
+    "subcategory": "D44.8",
+    "inclusion": [
+        "Multiple endocrine adenomatosis"
+    ],
+    "exclusion": [
+        "endocrine pancreas",
+        "ovary",
+        "testis",
+        "thymus"
+    ],
+    "symptoms": [
+        "unexplained weight loss",
+        "anxiety",
+        "persistent headaches",
+        "vision changes",
+        "increased heart rate"
+    ]
+}

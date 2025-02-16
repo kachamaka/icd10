@@ -1,0 +1,27 @@
+{
+  "type": "category",
+  "chapterCode": "I",
+  "chapter": "Certain infectious and parasitic diseases",
+  "blockCode": "A65-A69",
+  "block": "Other spirochaetal diseases",
+  "categoryCode": "A65",
+  "category": "Nonvenereal syphilis",
+  "subcategory": "",
+  "title": "Nonvenereal syphilis",
+  "inclusion": [
+    "diseases generally recognized as communicable or transmissible",
+    "Bejel",
+    "Endemic syphilis",
+    "Njovera"
+  ],
+  "exclusion": [
+    "carrier or suspected carrier of infectious disease",
+    "certain localized infections - see body system-related chapters",
+    "infectious and parasitic diseases complicating pregnancy, childbirth and the puerperium [except obstetrical tetanus]",
+    "infectious and parasitic diseases specific to the perinatal period [except tetanus neonatorum, whooping cough, congenital syphilis, perinatal gonococcal infection and perinatal human immunodeficiency virus [HIV] disease]",
+    "influenza and other acute respiratory infections",
+    "chlamydial pneumonia",
+    "neonatal chlamydial: conjunctivitis"
+  ],
+  "children": null
+}

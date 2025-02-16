@@ -1,0 +1,28 @@
+{
+    "icd10code": "V97.3",
+    "type": "subcategory",
+    "title": "Person on ground injured in air transport accident",
+    "chapter": "External causes of morbidity and mortality",
+    "chapterCode": "XX",
+    "block": "Air and space transport accidents",
+    "blockCode": "V95-V97",
+    "category": "Other specified air transport accidents",
+    "categoryCode": "V97",
+    "subcategory": "V97.3",
+    "inclusion": [
+        "accidents to nonoccupants of aircraft",
+        "Hit by object falling from aircraft",
+        "Injured by rotating propeller",
+        "Sucked into jet"
+    ],
+    "exclusion": [
+        "accidents to persons engaged in the maintenance or repair of transport equipment or vehicle (not in motion) unless injured by another vehicle in motion",
+        "accidents involving vehicles, but unrelated to the hazards associated with the means of transportation, e.g., injuries received in a fight on board ship; transport vehicle involved in a cataclysm; finger crushed when shutting car door",
+        "assault by crashing of motor vehicle",
+        "event of undetermined intent",
+        "intentional self-harm"
+    ],
+    "symptoms": [
+        "asymptomatic"
+    ]
+}

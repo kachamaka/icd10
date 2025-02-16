@@ -1,0 +1,31 @@
+{
+    "icd10code": "T91.9",
+    "type": "subcategory",
+    "title": "Sequelae of unspecified injury of neck and trunk",
+    "chapter": "Injury, poisoning and certain other consequences of external causes",
+    "chapterCode": "XIX",
+    "block": "Sequelae of injuries, of poisoning and of other consequences of external causes",
+    "blockCode": "T90-T98",
+    "category": "Sequelae of injuries of neck and trunk",
+    "categoryCode": "T91",
+    "subcategory": "T91.9",
+    "inclusion": [
+        "Sequelae of injury classifiable to S19.9, S29.9, S39.9 and T09.9"
+    ],
+    "exclusion": [
+        "birth trauma",
+        "obstetric trauma",
+        "malunion of fracture",
+        "nonunion of fracture [pseudarthrosis]",
+        "pathological fracture",
+        "pathological fracture with osteoporosis",
+        "stress fracture"
+    ],
+    "symptoms": [
+        "pain",
+        "swelling",
+        "limited mobility",
+        "tenderness",
+        "tissue scarring"
+    ]
+}

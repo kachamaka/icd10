@@ -1,0 +1,24 @@
+{
+  "type": "subcategory",
+  "chapterCode": "II",
+  "chapter": "Neoplasms",
+  "blockCode": "C81-C96",
+  "block": "Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",
+  "categoryCode": "C84",
+  "category": "Mature T/NK-cell lymphomas",
+  "subcategory": "C84.5",
+  "title": "Other mature T/NK-cell lymphomas",
+  "inclusion": null,
+  "exclusion": [
+    "secondary and unspecified neoplasm of lymph nodes",
+    "angioimmunoblastic T-cell lymphoma",
+    "blastic NK-cell lymphoma",
+    "enteropathy-type T-cell lymphoma",
+    "extranodal NK-cell lymphoma, nasal type",
+    "hepatosplenic T-cell lymphoma",
+    "primary cutaneous CD30-positive T-cell proliferations",
+    "subcutaneous panniculitis-like T-cell lymphoma",
+    "T-cell leukaemia"
+  ],
+  "children": null
+}

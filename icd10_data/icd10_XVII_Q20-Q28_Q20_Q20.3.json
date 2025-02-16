@@ -1,0 +1,21 @@
+{
+  "type": "subcategory",
+  "chapterCode": "XVII",
+  "chapter": "Congenital malformations, deformations and chromosomal abnormalities",
+  "blockCode": "Q20-Q28",
+  "block": "Congenital malformations of the circulatory system",
+  "categoryCode": "Q20",
+  "category": "Congenital malformations of cardiac chambers and connections",
+  "subcategory": "Q20.3",
+  "title": "Discordant ventriculoarterial connection",
+  "inclusion": [
+    "Dextrotransposition of aorta",
+    "Transposition of great vessels (complete)"
+  ],
+  "exclusion": [
+    "inborn errors of metabolism",
+    "dextrocardia with situs inversus",
+    "mirror-image atrial arrangement with situs inversus"
+  ],
+  "children": null
+}

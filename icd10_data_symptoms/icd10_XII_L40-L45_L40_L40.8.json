@@ -1,0 +1,34 @@
+{
+    "icd10code": "L40.8",
+    "type": "subcategory",
+    "title": "Other psoriasis",
+    "chapter": "Diseases of the skin and subcutaneous tissue",
+    "chapterCode": "XII",
+    "block": "Papulosquamous disorders",
+    "blockCode": "L40-L45",
+    "category": "Psoriasis",
+    "categoryCode": "L40",
+    "subcategory": "L40.8",
+    "inclusion": [
+        "Flexural psoriasis"
+    ],
+    "exclusion": [
+        "certain conditions originating in the perinatal period",
+        "certain infectious and parasitic diseases",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "lipomelanotic reticulosis",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "systemic connective tissue disorders"
+    ],
+    "symptoms": [
+        "scaly skin",
+        "itching",
+        "red patches",
+        "inflamed joints",
+        "nail changes"
+    ]
+}

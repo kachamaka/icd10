@@ -1,0 +1,30 @@
+{
+    "icd10code": "X97",
+    "type": "category",
+    "title": "Assault by smoke, fire and flames",
+    "chapter": "External causes of morbidity and mortality",
+    "chapterCode": "XX",
+    "block": "Assault",
+    "blockCode": "X85-Y09",
+    "category": "Assault by smoke, fire and flames",
+    "categoryCode": "X97",
+    "subcategory": "",
+    "inclusion": [
+        "homicide",
+        "injuries inflicted by another person with intent to injure or kill, by any means",
+        "arson",
+        "cigarettes",
+        "incendiary device"
+    ],
+    "exclusion": [
+        "injuries due to: legal intervention",
+        "injuries due to: operations of war"
+    ],
+    "symptoms": [
+        "burns",
+        "respiratory distress",
+        "coughing",
+        "shortness of breath",
+        "shock"
+    ]
+}

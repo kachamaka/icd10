@@ -1,0 +1,30 @@
+{
+    "icd10code": "Q40.2",
+    "type": "subcategory",
+    "title": "Other specified congenital malformations of stomach",
+    "chapter": "Congenital malformations, deformations and chromosomal abnormalities",
+    "chapterCode": "XVII",
+    "block": "Other congenital malformations of the digestive system",
+    "blockCode": "Q38-Q45",
+    "category": "Other congenital malformations of upper alimentary tract",
+    "categoryCode": "Q40",
+    "subcategory": "Q40.2",
+    "inclusion": [
+        "Congenital: displacement of stomach",
+        "Congenital: diverticulum of stomach",
+        "Congenital: hourglass stomach",
+        "Duplication of stomach",
+        "Megalogastria",
+        "Microgastria"
+    ],
+    "exclusion": [
+        "inborn errors of metabolism"
+    ],
+    "symptoms": [
+        "difficulty swallowing",
+        "chest pain",
+        "vomiting",
+        "regurgitation",
+        "failure to thrive"
+    ]
+}

@@ -1,0 +1,31 @@
+{
+  "type": "subcategory",
+  "chapterCode": "IX",
+  "chapter": "Diseases of the circulatory system",
+  "blockCode": "I20-I25",
+  "block": "Ischaemic heart diseases",
+  "categoryCode": "I22",
+  "category": "Subsequent myocardial infarction",
+  "subcategory": "I22.9",
+  "title": "Subsequent myocardial infarction of unspecified site",
+  "inclusion": [
+    "with mention of hypertension",
+    "myocardial infarction: extension",
+    "myocardial infarction: recurrent",
+    "myocardial infarction: reinfarction"
+  ],
+  "exclusion": [
+    "certain conditions originating in the perinatal period",
+    "certain infectious and parasitic diseases",
+    "complications of pregnancy, childbirth and the puerperium",
+    "congenital malformations, deformations and chromosomal abnormalities",
+    "endocrine, nutritional and metabolic diseases",
+    "injury, poisoning and certain other consequences of external causes",
+    "neoplasms",
+    "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+    "systemic connective tissue disorders",
+    "transient cerebral ischaemic attacks and related syndromes",
+    "Eisenmenger defect"
+  ],
+  "children": null
+}

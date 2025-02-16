@@ -1,0 +1,21 @@
+{
+  "type": "subcategory",
+  "chapterCode": "XX",
+  "chapter": "External causes of morbidity and mortality",
+  "blockCode": "Y35-Y36",
+  "block": "Legal intervention and operations of war",
+  "categoryCode": "Y36",
+  "category": "Operations of war",
+  "subcategory": "Y36.5",
+  "title": "War operations involving nuclear weapons",
+  "inclusion": [
+    "injuries to military personnel and civilians caused by war and civil insurrection",
+    "Blast effects",
+    "Exposure to ionizing radiation from nuclear weapon",
+    "Fireball effects",
+    "Heat",
+    "Other direct and secondary effects of nuclear weapons"
+  ],
+  "exclusion": null,
+  "children": null
+}

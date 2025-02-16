@@ -1,0 +1,36 @@
+{
+    "icd10code": "J94.2",
+    "type": "subcategory",
+    "title": "Haemothorax",
+    "chapter": "Diseases of the respiratory system",
+    "chapterCode": "X",
+    "block": "Other diseases of pleura",
+    "blockCode": "J90-J94",
+    "category": "Other pleural conditions",
+    "categoryCode": "J94",
+    "subcategory": "J94.2",
+    "inclusion": [
+        "Haemopneumothorax"
+    ],
+    "exclusion": [
+        "certain conditions originating in the perinatal period",
+        "certain infectious and parasitic diseases",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "pleurisy NOS",
+        "traumatic: haemopneumothorax",
+        "traumatic: haemothorax",
+        "tuberculous pleural conditions (current disease)"
+    ],
+    "symptoms": [
+        "chest pain",
+        "dyspnea",
+        "cough",
+        "fatigue",
+        "fever"
+    ]
+}

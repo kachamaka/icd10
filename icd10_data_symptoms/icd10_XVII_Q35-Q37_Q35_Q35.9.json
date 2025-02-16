@@ -1,0 +1,28 @@
+{
+    "icd10code": "Q35.9",
+    "type": "subcategory",
+    "title": "Cleft palate, unspecified",
+    "chapter": "Congenital malformations, deformations and chromosomal abnormalities",
+    "chapterCode": "XVII",
+    "block": "Cleft lip and cleft palate",
+    "blockCode": "Q35-Q37",
+    "category": "Cleft palate",
+    "categoryCode": "Q35",
+    "subcategory": "Q35.9",
+    "inclusion": [
+        "fissure of palate",
+        "palatoschisis"
+    ],
+    "exclusion": [
+        "inborn errors of metabolism",
+        "Robin syndrome",
+        "cleft palate with cleft lip"
+    ],
+    "symptoms": [
+        "cleft palate",
+        "feeding difficulties",
+        "speech problems",
+        "ear infections",
+        "dental issues"
+    ]
+}

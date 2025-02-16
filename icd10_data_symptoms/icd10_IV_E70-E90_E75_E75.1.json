@@ -1,0 +1,38 @@
+{
+    "icd10code": "E75.1",
+    "type": "subcategory",
+    "title": "Other gangliosidosis",
+    "chapter": "Endocrine, nutritional and metabolic diseases",
+    "chapterCode": "IV",
+    "block": "Metabolic disorders",
+    "blockCode": "E70-E90",
+    "category": "Disorders of sphingolipid metabolism and other lipid storage disorders",
+    "categoryCode": "E75",
+    "subcategory": "E75.1",
+    "inclusion": [
+        "Gangliosidosis: NOS",
+        "Gangliosidosis: GM 1",
+        "Gangliosidosis: GM 3",
+        "Mucolipidosis IV"
+    ],
+    "exclusion": [
+        "complications of pregnancy, childbirth and the puerperium",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "transitory endocrine and metabolic disorders specific to fetus and newborn",
+        "androgen resistance syndrome",
+        "congenital adrenal hyperplasia",
+        "Ehlers-Danlos syndrome",
+        "haemolytic anaemias due to enzyme disorders",
+        "Marfan syndrome",
+        "5-alpha-reductase deficiency",
+        "Schilder disease",
+        "hypovolaemic shock: NOS"
+    ],
+    "symptoms": [
+        "abdominal pain",
+        "vomiting",
+        "fatigue",
+        "enlarged liver",
+        "muscle weakness"
+    ]
+}

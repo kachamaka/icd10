@@ -1,0 +1,24 @@
+{
+    "icd10code": "X16",
+    "type": "category",
+    "title": "Contact with hot heating appliances, radiators and pipes",
+    "chapter": "External causes of morbidity and mortality",
+    "chapterCode": "XX",
+    "block": "Contact with heat and hot substances",
+    "blockCode": "X10-X19",
+    "category": "Contact with hot heating appliances, radiators and pipes",
+    "categoryCode": "X16",
+    "subcategory": "",
+    "inclusion": null,
+    "exclusion": [
+        "exposure to: excessive natural heat",
+        "exposure to: fire and flames"
+    ],
+    "symptoms": [
+        "burns",
+        "redness",
+        "swelling",
+        "pain",
+        "blistering"
+    ]
+}

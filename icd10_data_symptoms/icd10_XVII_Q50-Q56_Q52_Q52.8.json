@@ -1,0 +1,26 @@
+{
+    "icd10code": "Q52.8",
+    "type": "subcategory",
+    "title": "Other specified congenital malformations of female genitalia",
+    "chapter": "Congenital malformations, deformations and chromosomal abnormalities",
+    "chapterCode": "XVII",
+    "block": "Congenital malformations of genital organs",
+    "blockCode": "Q50-Q56",
+    "category": "Other congenital malformations of female genitalia",
+    "categoryCode": "Q52",
+    "subcategory": "Q52.8",
+    "inclusion": null,
+    "exclusion": [
+        "inborn errors of metabolism",
+        "androgen resistance syndrome",
+        "syndromes associated with anomalies in the number and form of chromosomes",
+        "testicular feminization syndrome"
+    ],
+    "symptoms": [
+        "abnormal vaginal structure",
+        "uterine malformation",
+        "atypical hymen development",
+        "irregular menstruation",
+        "recurrent pelvic pain"
+    ]
+}

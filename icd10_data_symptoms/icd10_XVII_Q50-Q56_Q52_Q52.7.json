@@ -1,0 +1,30 @@
+{
+    "icd10code": "Q52.7",
+    "type": "subcategory",
+    "title": "Other congenital malformations of vulva",
+    "chapter": "Congenital malformations, deformations and chromosomal abnormalities",
+    "chapterCode": "XVII",
+    "block": "Congenital malformations of genital organs",
+    "blockCode": "Q50-Q56",
+    "category": "Other congenital malformations of female genitalia",
+    "categoryCode": "Q52",
+    "subcategory": "Q52.7",
+    "inclusion": [
+        "Congenital: absence of vulva",
+        "Congenital: cyst of vulva",
+        "Congenital: malformation NOS of vulva"
+    ],
+    "exclusion": [
+        "inborn errors of metabolism",
+        "androgen resistance syndrome",
+        "syndromes associated with anomalies in the number and form of chromosomes",
+        "testicular feminization syndrome"
+    ],
+    "symptoms": [
+        "vaginal agenesis",
+        "absent vaginal opening",
+        "pelvic pain",
+        "primary amenorrhea",
+        "infertility"
+    ]
+}

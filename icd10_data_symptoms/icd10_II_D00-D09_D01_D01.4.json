@@ -1,0 +1,29 @@
+{
+    "icd10code": "D01.4",
+    "type": "subcategory",
+    "title": "Carcinoma in situ: Other and unspecified parts of intestine",
+    "chapter": "Neoplasms",
+    "chapterCode": "II",
+    "block": "In situ neoplasms",
+    "blockCode": "D00-D09",
+    "category": "Carcinoma in situ of other and unspecified digestive organs",
+    "categoryCode": "D01",
+    "subcategory": "D01.4",
+    "inclusion": [
+        "Bowen disease",
+        "erythroplasia",
+        "morphology codes with behaviour code /2",
+        "Queyrat erythroplasia"
+    ],
+    "exclusion": [
+        "melanoma in situ",
+        "ampulla of Vater"
+    ],
+    "symptoms": [
+        "abnormal uterine bleeding",
+        "postmenopausal bleeding",
+        "abnormal cervical smear",
+        "pelvic pain",
+        "abnormal vaginal discharge"
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "icd10code": "Q67.4",
+    "type": "subcategory",
+    "title": "Other congenital deformities of skull, face and jaw",
+    "chapter": "Congenital malformations, deformations and chromosomal abnormalities",
+    "chapterCode": "XVII",
+    "block": "Congenital malformations and deformations of the musculoskeletal system",
+    "blockCode": "Q65-Q79",
+    "category": "Congenital musculoskeletal deformities of head, face, spine and chest",
+    "categoryCode": "Q67",
+    "subcategory": "Q67.4",
+    "inclusion": [
+        "Depressions in skull",
+        "Deviation of nasal septum, congenital",
+        "Hemifacial atrophy or hypertrophy",
+        "Squashed or bent nose, congenital"
+    ],
+    "exclusion": [
+        "inborn errors of metabolism",
+        "congenital malformation syndromes classified to Q87.-",
+        "Potter syndrome",
+        "dentofacial anomalies [including malocclusion]",
+        "syphilitic saddle nose"
+    ],
+    "symptoms": [
+        "asymmetry of skull",
+        "craniofacial deformity",
+        "abnormal head shape",
+        "uneven skull growth",
+        "misaligned facial features"
+    ]
+}

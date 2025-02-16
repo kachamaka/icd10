@@ -1,0 +1,33 @@
+{
+    "icd10code": "K86.9",
+    "type": "subcategory",
+    "title": "Disease of pancreas, unspecified",
+    "chapter": "Diseases of the digestive system",
+    "chapterCode": "XI",
+    "block": "Disorders of gallbladder, biliary tract and pancreas",
+    "blockCode": "K80-K87",
+    "category": "Other diseases of pancreas",
+    "categoryCode": "K86",
+    "subcategory": "K86.9",
+    "inclusion": null,
+    "exclusion": [
+        "certain conditions originating in the perinatal period",
+        "certain infectious and parasitic diseases",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "fibrocystic disease of pancreas",
+        "islet cell tumour (of pancreas)",
+        "pancreatic steatorrhoea"
+    ],
+    "symptoms": [
+        "abdominal pain",
+        "nausea",
+        "vomiting",
+        "weight loss",
+        "jaundice"
+    ]
+}

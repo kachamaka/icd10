@@ -1,0 +1,23 @@
+{
+    "icd10code": "C62.9",
+    "type": "subcategory",
+    "title": "Malignant neoplasm: Testis, unspecified",
+    "chapter": "Neoplasms",
+    "chapterCode": "II",
+    "block": "Malignant neoplasms of male genital organs",
+    "blockCode": "C60-C63",
+    "category": "Malignant neoplasm of testis",
+    "categoryCode": "C62",
+    "subcategory": "C62.9",
+    "inclusion": [
+        "skin of male genital organs"
+    ],
+    "exclusion": null,
+    "symptoms": [
+        "testicular lump",
+        "persistent pain in the testicle",
+        "fatigue",
+        "lower back pain",
+        "swelling or tenderness in the breasts"
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "icd10code": "O31.1",
+    "type": "subcategory",
+    "title": "Continuing pregnancy after abortion of one fetus or more",
+    "chapter": "Pregnancy, childbirth and the puerperium",
+    "chapterCode": "XV",
+    "block": "Maternal care related to the fetus and amniotic cavity and possible delivery problems",
+    "blockCode": "O30-O48",
+    "category": "Complications specific to multiple gestation",
+    "categoryCode": "O31",
+    "subcategory": "O31.1",
+    "inclusion": null,
+    "exclusion": [
+        "Certain diseases or injuries complicating pregnancy, childbirth and the puerperium classified elsewhere: external causes (for mortality)",
+        "Certain diseases or injuries complicating pregnancy, childbirth and the puerperium classified elsewhere: injury, poisoning and certain other consequences of external cause",
+        "Certain diseases or injuries complicating pregnancy, childbirth and the puerperium classified elsewhere: mental and behavioural disorders associated with the puerperium",
+        "Certain diseases or injuries complicating pregnancy, childbirth and the puerperium classified elsewhere: obstetrical tetanus",
+        "Certain diseases or injuries complicating pregnancy, childbirth and the puerperium classified elsewhere: postpartum necrosis of pituitary gland",
+        "Certain diseases or injuries complicating pregnancy, childbirth and the puerperium classified elsewhere: puerperal osteomalacia",
+        "supervision of: high-risk pregnancy",
+        "supervision of: normal pregnancy",
+        "conjoined twins causing disproportion",
+        "delayed delivery of second twin, triplet, etc.",
+        "malpresentation of one fetus or more",
+        "with obstructed labour"
+    ],
+    "symptoms": [
+        "abdominal pain",
+        "vaginal bleeding",
+        "contractions",
+        "decreased fetal movement",
+        "premature labor"
+    ]
+}

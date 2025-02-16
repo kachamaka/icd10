@@ -1,0 +1,19 @@
+{
+  "type": "subcategory",
+  "chapterCode": "XVII",
+  "chapter": "Congenital malformations, deformations and chromosomal abnormalities",
+  "blockCode": "Q80-Q89",
+  "block": "Other congenital malformations",
+  "categoryCode": "Q89",
+  "category": "Other congenital malformations, not elsewhere classified",
+  "subcategory": "Q89.9",
+  "title": "Congenital malformation, unspecified",
+  "inclusion": [
+    "Congenital: anomaly NOS",
+    "Congenital: deformity NOS"
+  ],
+  "exclusion": [
+    "inborn errors of metabolism"
+  ],
+  "children": null
+}

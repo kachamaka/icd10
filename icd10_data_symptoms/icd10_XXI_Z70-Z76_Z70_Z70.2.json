@@ -1,0 +1,23 @@
+{
+    "icd10code": "Z70.2",
+    "type": "subcategory",
+    "title": "Counselling related to sexual behaviour and orientation of third party",
+    "chapter": "Factors influencing health status and contact with health services",
+    "chapterCode": "XXI",
+    "block": "Persons encountering health services in other circumstances",
+    "blockCode": "Z70-Z76",
+    "category": "Counselling related to sexual attitude, behaviour and orientation",
+    "categoryCode": "Z70",
+    "subcategory": "Z70.2",
+    "inclusion": [
+        "Advice sought regarding sexual behaviour and orientation of: child",
+        "Advice sought regarding sexual behaviour and orientation of: partner",
+        "Advice sought regarding sexual behaviour and orientation of: spouse"
+    ],
+    "exclusion": [
+        "contraceptive or procreative counselling"
+    ],
+    "symptoms": [
+        "asymptomatic"
+    ]
+}

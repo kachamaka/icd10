@@ -1,0 +1,25 @@
+{
+    "icd10code": "Y05",
+    "type": "category",
+    "title": "Sexual assault by bodily force",
+    "chapter": "External causes of morbidity and mortality",
+    "chapterCode": "XX",
+    "block": "Assault",
+    "blockCode": "X85-Y09",
+    "category": "Sexual assault by bodily force",
+    "categoryCode": "Y05",
+    "subcategory": "",
+    "inclusion": [
+        "homicide",
+        "injuries inflicted by another person with intent to injure or kill, by any means",
+        "rape (attempted)",
+        "sodomy (attempted)"
+    ],
+    "exclusion": [
+        "injuries due to: legal intervention",
+        "injuries due to: operations of war"
+    ],
+    "symptoms": [
+        "asymptomatic"
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "icd10code": "C10.1",
+    "type": "subcategory",
+    "title": "Malignant neoplasm: Anterior surface of epiglottis",
+    "chapter": "Neoplasms",
+    "chapterCode": "II",
+    "block": "Malignant neoplasms of lip, oral cavity and pharynx",
+    "blockCode": "C00-C14",
+    "category": "Malignant neoplasm of oropharynx",
+    "categoryCode": "C10",
+    "subcategory": "C10.1",
+    "inclusion": [
+        "Epiglottis, free border [margin]",
+        "Glossoepiglottic fold(s)"
+    ],
+    "exclusion": [
+        "tonsil",
+        "epiglottis (suprahyoid portion) NOS"
+    ],
+    "symptoms": [
+        "pain in throat",
+        "difficulty swallowing",
+        "hoarseness",
+        "ear pain",
+        "presence of lump in neck"
+    ]
+}

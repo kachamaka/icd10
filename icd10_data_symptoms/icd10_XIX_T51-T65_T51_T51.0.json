@@ -1,0 +1,37 @@
+{
+    "icd10code": "T51.0",
+    "type": "subcategory",
+    "title": "Toxic effect: Ethanol",
+    "chapter": "Injury, poisoning and certain other consequences of external causes",
+    "chapterCode": "XIX",
+    "block": "Toxic effects of substances chiefly nonmedicinal as to source",
+    "blockCode": "T51-T65",
+    "category": "Toxic effect of alcohol",
+    "categoryCode": "T51",
+    "subcategory": "T51.0",
+    "inclusion": [
+        "Ethyl alcohol"
+    ],
+    "exclusion": [
+        "birth trauma",
+        "obstetric trauma",
+        "malunion of fracture",
+        "nonunion of fracture [pseudarthrosis]",
+        "pathological fracture",
+        "pathological fracture with osteoporosis",
+        "stress fracture",
+        "corrosions",
+        "localized toxic effects classified elsewhere",
+        "respiratory conditions due to external agents",
+        "acute alcohol intoxication or \"hangover\" effects",
+        "drunkenness",
+        "pathological alcohol intoxication"
+    ],
+    "symptoms": [
+        "headache",
+        "dizziness",
+        "confusion",
+        "nausea",
+        "respiratory distress"
+    ]
+}

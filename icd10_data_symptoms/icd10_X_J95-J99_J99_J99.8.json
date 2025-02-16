@@ -1,0 +1,36 @@
+{
+    "icd10code": "J99.8",
+    "type": "subcategory",
+    "title": "Respiratory disorders in other diseases classified elsewhere",
+    "chapter": "Diseases of the respiratory system",
+    "chapterCode": "X",
+    "block": "Other diseases of the respiratory system",
+    "blockCode": "J95-J99",
+    "category": "Respiratory disorders in diseases classified elsewhere",
+    "categoryCode": "J99",
+    "subcategory": "J99.8",
+    "inclusion": [
+        "Respiratory disorders in: amoebiasis",
+        "Respiratory disorders in: ankylosing spondylitis",
+        "Respiratory disorders in: cryoglobulinaemia",
+        "Respiratory disorders in: sporotrichosis",
+        "Respiratory disorders in: syphilis"
+    ],
+    "exclusion": [
+        "certain conditions originating in the perinatal period",
+        "certain infectious and parasitic diseases",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified"
+    ],
+    "symptoms": [
+        "cough",
+        "shortness of breath",
+        "chest pain",
+        "fatigue",
+        "weight loss"
+    ]
+}

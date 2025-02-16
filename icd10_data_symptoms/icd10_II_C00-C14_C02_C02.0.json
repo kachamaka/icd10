@@ -1,0 +1,25 @@
+{
+    "icd10code": "C02.0",
+    "type": "subcategory",
+    "title": "Malignant neoplasm: Dorsal surface of tongue",
+    "chapter": "Neoplasms",
+    "chapterCode": "II",
+    "block": "Malignant neoplasms of lip, oral cavity and pharynx",
+    "blockCode": "C00-C14",
+    "category": "Malignant neoplasm of other and unspecified parts of tongue",
+    "categoryCode": "C02",
+    "subcategory": "C02.0",
+    "inclusion": [
+        "Anterior two-thirds of tongue, dorsal surface"
+    ],
+    "exclusion": [
+        "dorsal surface of base of tongue"
+    ],
+    "symptoms": [
+        "sore throat",
+        "swelling in the neck",
+        "difficulty swallowing",
+        "voice changes",
+        "unintentional weight loss"
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "icd10code": "U44.9",
+    "type": "subcategory",
+    "title": "Emergency use of U44.9",
+    "chapter": "Codes for special purposes",
+    "chapterCode": "XXII",
+    "block": "Provisional assignment of new diseases of uncertain etiology or emergency use",
+    "blockCode": "U00-U49",
+    "category": "Emergency use of U44",
+    "categoryCode": "U44",
+    "subcategory": "U44.9",
+    "inclusion": null,
+    "exclusion": null,
+    "symptoms": [
+        "fever",
+        "cough",
+        "fatigue",
+        "shortness of breath",
+        "chest tightness"
+    ]
+}

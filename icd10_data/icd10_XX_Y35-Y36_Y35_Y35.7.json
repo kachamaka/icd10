@@ -1,0 +1,16 @@
+{
+  "type": "subcategory",
+  "chapterCode": "XX",
+  "chapter": "External causes of morbidity and mortality",
+  "blockCode": "Y35-Y36",
+  "block": "Legal intervention and operations of war",
+  "categoryCode": "Y35",
+  "category": "Legal intervention",
+  "subcategory": "Y35.7",
+  "title": "Legal intervention, means unspecified",
+  "inclusion": [
+    "injuries inflicted by the police or other law-enforcing agents, including military on duty, in the course of arresting or attempting to arrest lawbreakers, suppressing disturbances, maintaining order, and other legal action"
+  ],
+  "exclusion": null,
+  "children": null
+}

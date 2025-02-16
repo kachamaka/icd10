@@ -1,0 +1,34 @@
+{
+    "icd10code": "S64.0",
+    "type": "subcategory",
+    "title": "Injury of ulnar nerve at wrist and hand level",
+    "chapter": "Injury, poisoning and certain other consequences of external causes",
+    "chapterCode": "XIX",
+    "block": "Injuries to the wrist and hand",
+    "blockCode": "S60-S69",
+    "category": "Injury of nerves at wrist and hand level",
+    "categoryCode": "S64",
+    "subcategory": "S64.0",
+    "inclusion": null,
+    "exclusion": [
+        "birth trauma",
+        "obstetric trauma",
+        "malunion of fracture",
+        "nonunion of fracture [pseudarthrosis]",
+        "pathological fracture",
+        "pathological fracture with osteoporosis",
+        "stress fracture",
+        "bilateral involvement of wrist and hand",
+        "burns and corrosions",
+        "frostbite",
+        "injuries of arm, level unspecified",
+        "insect bite or sting, venomous"
+    ],
+    "symptoms": [
+        "numbness",
+        "tingling",
+        "weakness",
+        "loss of sensation",
+        "difficulty moving fingers"
+    ]
+}

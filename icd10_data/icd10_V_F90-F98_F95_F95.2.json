@@ -1,0 +1,18 @@
+{
+  "type": "subcategory",
+  "chapterCode": "V",
+  "chapter": "Mental and behavioural disorders",
+  "blockCode": "F90-F98",
+  "block": "Behavioural and emotional disorders with onset usually occurring in childhood and adolescence",
+  "categoryCode": "F95",
+  "category": "Tic disorders",
+  "subcategory": "F95.2",
+  "title": "Combined vocal and multiple motor tic disorder [de la Tourette]",
+  "inclusion": [
+    "disorders of psychological development"
+  ],
+  "exclusion": [
+    "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified"
+  ],
+  "children": null
+}

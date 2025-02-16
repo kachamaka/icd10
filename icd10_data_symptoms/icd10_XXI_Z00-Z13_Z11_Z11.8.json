@@ -1,0 +1,24 @@
+{
+    "icd10code": "Z11.8",
+    "type": "subcategory",
+    "title": "Special screening examination for other infectious and parasitic diseases",
+    "chapter": "Factors influencing health status and contact with health services",
+    "chapterCode": "XXI",
+    "block": "Persons encountering health services for examination and investigation",
+    "blockCode": "Z00-Z13",
+    "category": "Special screening examination for infectious and parasitic diseases",
+    "categoryCode": "Z11",
+    "subcategory": "Z11.8",
+    "inclusion": [
+        "Chlamydial diseases",
+        "Rickettsial diseases",
+        "Spirochaetal diseases",
+        "Mycoses"
+    ],
+    "exclusion": [
+        "examinations related to pregnancy and reproduction"
+    ],
+    "symptoms": [
+        "asymptomatic"
+    ]
+}

@@ -1,0 +1,27 @@
+{
+  "type": "subcategory",
+  "chapterCode": "XVIII",
+  "chapter": "Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+  "blockCode": "R50-R69",
+  "block": "General symptoms and signs",
+  "categoryCode": "R62",
+  "category": "Lack of expected normal physiological development",
+  "subcategory": "R62.8",
+  "title": "Other lack of expected normal physiological development",
+  "inclusion": [
+    "Failure to: gain weight",
+    "Failure to: thrive (in child) NOS",
+    "Infantilism NOS",
+    "Lack of growth",
+    "Physical retardation"
+  ],
+  "exclusion": [
+    "abnormal findings on antenatal screening of mother",
+    "certain conditions originating in the perinatal period",
+    "delayed puberty",
+    "failure to thrive in adult",
+    "HIV disease resulting in failure to thrive",
+    "physical retardation due to malnutrition"
+  ],
+  "children": null
+}

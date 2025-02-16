@@ -1,0 +1,23 @@
+{
+    "icd10code": "C63.1",
+    "type": "subcategory",
+    "title": "Malignant neoplasm: Spermatic cord",
+    "chapter": "Neoplasms",
+    "chapterCode": "II",
+    "block": "Malignant neoplasms of male genital organs",
+    "blockCode": "C60-C63",
+    "category": "Malignant neoplasm of other and unspecified male genital organs",
+    "categoryCode": "C63",
+    "subcategory": "C63.1",
+    "inclusion": [
+        "skin of male genital organs"
+    ],
+    "exclusion": null,
+    "symptoms": [
+        "blood in urine",
+        "pain during urination",
+        "urinary urgency",
+        "lower back pain",
+        "palpable abdominal mass"
+    ]
+}

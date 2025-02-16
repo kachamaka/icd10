@@ -1,0 +1,31 @@
+{
+    "icd10code": "F60.8",
+    "type": "subcategory",
+    "title": "Other specific personality disorders",
+    "chapter": "Mental and behavioural disorders",
+    "chapterCode": "V",
+    "block": "Disorders of adult personality and behaviour",
+    "blockCode": "F60-F69",
+    "category": "Specific personality disorders",
+    "categoryCode": "F60",
+    "subcategory": "F60.8",
+    "inclusion": [
+        "disorders of psychological development",
+        "Personality (disorder): eccentric",
+        "Personality (disorder): \"haltlose\" type",
+        "Personality (disorder): immature",
+        "Personality (disorder): narcissistic",
+        "Personality (disorder): passive-aggressive",
+        "Personality (disorder): psychoneurotic"
+    ],
+    "exclusion": [
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified"
+    ],
+    "symptoms": [
+        "impulsivity",
+        "unstable self-image",
+        "emotional instability",
+        "difficulty forming relationships",
+        "anxiety"
+    ]
+}

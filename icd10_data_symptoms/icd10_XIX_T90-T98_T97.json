@@ -1,0 +1,27 @@
+{
+    "icd10code": "T97",
+    "type": "category",
+    "title": "Sequelae of toxic effects of substances chiefly nonmedicinal as to source",
+    "chapter": "Injury, poisoning and certain other consequences of external causes",
+    "chapterCode": "XIX",
+    "block": "Sequelae of injuries, of poisoning and of other consequences of external causes",
+    "blockCode": "T90-T98",
+    "category": "Sequelae of toxic effects of substances chiefly nonmedicinal as to source",
+    "categoryCode": "T97",
+    "subcategory": "",
+    "inclusion": [
+        "Sequelae of toxic effects classifiable to T51-T65"
+    ],
+    "exclusion": [
+        "birth trauma",
+        "obstetric trauma",
+        "malunion of fracture",
+        "nonunion of fracture [pseudarthrosis]",
+        "pathological fracture",
+        "pathological fracture with osteoporosis",
+        "stress fracture"
+    ],
+    "symptoms": [
+        "t97 does not correspond to a specific set of symptoms but represents **sequelae of injuries involving multiple body regions** symptoms depend on the initial"
+    ]
+}

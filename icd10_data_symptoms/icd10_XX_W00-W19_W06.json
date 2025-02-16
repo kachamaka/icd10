@@ -1,0 +1,27 @@
+{
+    "icd10code": "W06",
+    "type": "category",
+    "title": "Fall involving bed",
+    "chapter": "External causes of morbidity and mortality",
+    "chapterCode": "XX",
+    "block": "Falls",
+    "blockCode": "W00-W19",
+    "category": "Fall involving bed",
+    "categoryCode": "W06",
+    "subcategory": "",
+    "inclusion": null,
+    "exclusion": [
+        "assault",
+        "fall (in)(from): animal",
+        "fall (in)(from): burning building",
+        "fall (in)(from): into fire",
+        "fall (in)(from): into water (with drowning or submersion)",
+        "fall (in)(from): machinery (in operation)",
+        "fall (in)(from): repeated falls not resulting from accident",
+        "fall (in)(from): transport vehicle",
+        "intentional self-harm"
+    ],
+    "symptoms": [
+        "asymptomatic"
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "icd10code": "G04.2",
+    "type": "subcategory",
+    "title": "Bacterial meningoencephalitis and meningomyelitis, not elsewhere classified",
+    "chapter": "Diseases of the nervous system",
+    "chapterCode": "VI",
+    "block": "Inflammatory diseases of the central nervous system",
+    "blockCode": "G00-G09",
+    "category": "Encephalitis, myelitis and encephalomyelitis",
+    "categoryCode": "G04",
+    "subcategory": "G04.2",
+    "inclusion": [
+        "acute ascending myelitis",
+        "meningoencephalitis",
+        "meningomyelitis"
+    ],
+    "exclusion": [
+        "certain conditions originating in the perinatal period",
+        "certain infectious and parasitic diseases",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "encephalopathy: NOS",
+        "encephalopathy: alcoholic",
+        "encephalopathy: toxic",
+        "multiple sclerosis",
+        "myalgic encephalomyelitis",
+        "myelitis: acute transverse",
+        "myelitis: subacute necrotizing"
+    ],
+    "symptoms": [
+        "headache",
+        "fever",
+        "neck stiffness",
+        "confusion",
+        "seizures"
+    ]
+}

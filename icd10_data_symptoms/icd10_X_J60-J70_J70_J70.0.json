@@ -1,0 +1,33 @@
+{
+    "icd10code": "J70.0",
+    "type": "subcategory",
+    "title": "Acute pulmonary manifestations due to radiation",
+    "chapter": "Diseases of the respiratory system",
+    "chapterCode": "X",
+    "block": "Lung diseases due to external agents",
+    "blockCode": "J60-J70",
+    "category": "Respiratory conditions due to other external agents",
+    "categoryCode": "J70",
+    "subcategory": "J70.0",
+    "inclusion": [
+        "Radiation pneumonitis"
+    ],
+    "exclusion": [
+        "certain conditions originating in the perinatal period",
+        "certain infectious and parasitic diseases",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "asthma classified to J45.-"
+    ],
+    "symptoms": [
+        "cough",
+        "shortness of breath",
+        "chest pain",
+        "fever",
+        "wheezing"
+    ]
+}

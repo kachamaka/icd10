@@ -1,0 +1,26 @@
+{
+  "type": "subcategory",
+  "chapterCode": "X",
+  "chapter": "Diseases of the respiratory system",
+  "blockCode": "J00-J06",
+  "block": "Acute upper respiratory infections",
+  "categoryCode": "J05",
+  "category": "Acute obstructive laryngitis [croup] and epiglottitis",
+  "subcategory": "J05.0",
+  "title": "Acute obstructive laryngitis [croup]",
+  "inclusion": [
+    "Obstructive laryngitis NOS"
+  ],
+  "exclusion": [
+    "certain conditions originating in the perinatal period",
+    "certain infectious and parasitic diseases",
+    "complications of pregnancy, childbirth and the puerperium",
+    "congenital malformations, deformations and chromosomal abnormalities",
+    "endocrine, nutritional and metabolic diseases",
+    "injury, poisoning and certain other consequences of external causes",
+    "neoplasms",
+    "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+    "chronic obstructive pulmonary disease with acute exacerbation NOS"
+  ],
+  "children": null
+}

@@ -1,0 +1,27 @@
+{
+    "icd10code": "C69.9",
+    "type": "subcategory",
+    "title": "Malignant neoplasm: Eye, unspecified",
+    "chapter": "Neoplasms",
+    "chapterCode": "II",
+    "block": "Malignant neoplasms of eye, brain and other parts of central nervous system",
+    "blockCode": "C69-C72",
+    "category": "Malignant neoplasm of eye and adnexa",
+    "categoryCode": "C69",
+    "subcategory": "C69.9",
+    "inclusion": [
+        "Eyeball"
+    ],
+    "exclusion": [
+        "connective tissue of eyelid",
+        "eyelid (skin)",
+        "optic nerve"
+    ],
+    "symptoms": [
+        "blurred vision",
+        "eye pain",
+        "loss of vision",
+        "floaters in vision",
+        "bulging eyes"
+    ]
+}

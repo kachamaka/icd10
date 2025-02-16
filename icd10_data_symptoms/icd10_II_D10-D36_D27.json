@@ -1,0 +1,23 @@
+{
+    "icd10code": "D27",
+    "type": "category",
+    "title": "Benign neoplasm of ovary",
+    "chapter": "Neoplasms",
+    "chapterCode": "II",
+    "block": "Benign neoplasms",
+    "blockCode": "D10-D36",
+    "category": "Benign neoplasm of ovary",
+    "categoryCode": "D27",
+    "subcategory": "",
+    "inclusion": [
+        "morphology codes with behaviour code /0"
+    ],
+    "exclusion": null,
+    "symptoms": [
+        "pelvic pain",
+        "abnormal uterine bleeding",
+        "urinary problems",
+        "discomfort during sex",
+        "anemia"
+    ]
+}

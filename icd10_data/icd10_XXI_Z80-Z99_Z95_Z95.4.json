@@ -1,0 +1,20 @@
+{
+  "type": "subcategory",
+  "chapterCode": "XXI",
+  "chapter": "Factors influencing health status and contact with health services",
+  "blockCode": "Z80-Z99",
+  "block": "Persons with potential health hazards related to family and personal history and certain conditions influencing health status",
+  "categoryCode": "Z95",
+  "category": "Presence of cardiac and vascular implants and grafts",
+  "subcategory": "Z95.4",
+  "title": "Presence of other heart-valve replacement",
+  "inclusion": null,
+  "exclusion": [
+    "follow-up examination",
+    "follow-up medical care and convalescence",
+    "when family or personal history is the reason for special screening or other examination or investigation",
+    "when the possibility that the fetus might be affected is the reason for observation or action during pregnancy",
+    "complications of cardiac and vascular devices, implants and grafts"
+  ],
+  "children": null
+}

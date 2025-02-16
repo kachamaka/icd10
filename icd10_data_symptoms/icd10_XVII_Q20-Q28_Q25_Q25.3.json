@@ -1,0 +1,26 @@
+{
+    "icd10code": "Q25.3",
+    "type": "subcategory",
+    "title": "Stenosis of aorta",
+    "chapter": "Congenital malformations, deformations and chromosomal abnormalities",
+    "chapterCode": "XVII",
+    "block": "Congenital malformations of the circulatory system",
+    "blockCode": "Q20-Q28",
+    "category": "Congenital malformations of great arteries",
+    "categoryCode": "Q25",
+    "subcategory": "Q25.3",
+    "inclusion": [
+        "Supravalvular aortic stenosis"
+    ],
+    "exclusion": [
+        "inborn errors of metabolism",
+        "congenital stenosis of aortic valve"
+    ],
+    "symptoms": [
+        "heart murmur",
+        "fatigue",
+        "difficulty breathing",
+        "chest pain",
+        "irregular pulse"
+    ]
+}

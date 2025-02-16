@@ -1,0 +1,30 @@
+{
+    "icd10code": "B90.9",
+    "type": "subcategory",
+    "title": "Sequelae of respiratory and unspecified tuberculosis",
+    "chapter": "Certain infectious and parasitic diseases",
+    "chapterCode": "I",
+    "block": "Sequelae of infectious and parasitic diseases",
+    "blockCode": "B90-B94",
+    "category": "Sequelae of tuberculosis",
+    "categoryCode": "B90",
+    "subcategory": "B90.9",
+    "inclusion": [
+        "diseases generally recognized as communicable or transmissible",
+        "Sequelae of tuberculosis NOS"
+    ],
+    "exclusion": [
+        "carrier or suspected carrier of infectious disease",
+        "certain localized infections - see body system-related chapters",
+        "infectious and parasitic diseases complicating pregnancy, childbirth and the puerperium [except obstetrical tetanus]",
+        "infectious and parasitic diseases specific to the perinatal period [except tetanus neonatorum, whooping cough, congenital syphilis, perinatal gonococcal infection and perinatal human immunodeficiency virus [HIV] disease]",
+        "influenza and other acute respiratory infections"
+    ],
+    "symptoms": [
+        "chronic cough",
+        "fatigue",
+        "weight loss",
+        "night sweats",
+        "fever"
+    ]
+}

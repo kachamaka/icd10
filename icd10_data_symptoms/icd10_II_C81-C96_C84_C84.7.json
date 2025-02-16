@@ -1,0 +1,24 @@
+{
+    "icd10code": "C84.7",
+    "type": "subcategory",
+    "title": "Anaplastic large cell lymphoma, ALK-negative",
+    "chapter": "Neoplasms",
+    "chapterCode": "II",
+    "block": "Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",
+    "blockCode": "C81-C96",
+    "category": "Mature T/NK-cell lymphomas",
+    "categoryCode": "C84",
+    "subcategory": "C84.7",
+    "inclusion": null,
+    "exclusion": [
+        "secondary and unspecified neoplasm of lymph nodes",
+        "primary cutaneous CD30-positive T-cell proliferations"
+    ],
+    "symptoms": [
+        "unexplained weight loss",
+        "night sweats",
+        "persistent cough",
+        "fatigue",
+        "swollen lymph nodes"
+    ]
+}

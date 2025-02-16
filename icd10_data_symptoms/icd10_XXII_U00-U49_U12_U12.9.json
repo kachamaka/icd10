@@ -1,0 +1,23 @@
+{
+    "icd10code": "U12.9",
+    "type": "subcategory",
+    "title": "COVID-19 vaccines causing adverse effects in therapeutic use, unspecified",
+    "chapter": "Codes for special purposes",
+    "chapterCode": "XXII",
+    "block": "Provisional assignment of new diseases of uncertain etiology or emergency use",
+    "blockCode": "U00-U49",
+    "category": "COVID-19 vaccines causing adverse effects in therapeutic use",
+    "categoryCode": "U12",
+    "subcategory": "U12.9",
+    "inclusion": [
+        "Correct administration of COVID-19 vaccine in prophylactic therapeutic use as the cause of any adverse effect."
+    ],
+    "exclusion": null,
+    "symptoms": [
+        "fever",
+        "cough",
+        "fatigue",
+        "shortness of breath",
+        "loss of taste or smell"
+    ]
+}

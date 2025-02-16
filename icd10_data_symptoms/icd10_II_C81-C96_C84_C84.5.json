@@ -1,0 +1,31 @@
+{
+    "icd10code": "C84.5",
+    "type": "subcategory",
+    "title": "Other mature T/NK-cell lymphomas",
+    "chapter": "Neoplasms",
+    "chapterCode": "II",
+    "block": "Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",
+    "blockCode": "C81-C96",
+    "category": "Mature T/NK-cell lymphomas",
+    "categoryCode": "C84",
+    "subcategory": "C84.5",
+    "inclusion": null,
+    "exclusion": [
+        "secondary and unspecified neoplasm of lymph nodes",
+        "angioimmunoblastic T-cell lymphoma",
+        "blastic NK-cell lymphoma",
+        "enteropathy-type T-cell lymphoma",
+        "extranodal NK-cell lymphoma, nasal type",
+        "hepatosplenic T-cell lymphoma",
+        "primary cutaneous CD30-positive T-cell proliferations",
+        "subcutaneous panniculitis-like T-cell lymphoma",
+        "T-cell leukaemia"
+    ],
+    "symptoms": [
+        "unexplained weight loss",
+        "recurring fever or night sweats",
+        "enlarged lymph nodes",
+        "fatigue",
+        "feeling of fullness"
+    ]
+}

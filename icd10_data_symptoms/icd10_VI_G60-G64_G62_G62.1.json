@@ -1,0 +1,34 @@
+{
+    "icd10code": "G62.1",
+    "type": "subcategory",
+    "title": "Alcoholic polyneuropathy",
+    "chapter": "Diseases of the nervous system",
+    "chapterCode": "VI",
+    "block": "Polyneuropathies and other disorders of the peripheral nervous system",
+    "blockCode": "G60-G64",
+    "category": "Other polyneuropathies",
+    "categoryCode": "G62",
+    "subcategory": "G62.1",
+    "inclusion": null,
+    "exclusion": [
+        "certain conditions originating in the perinatal period",
+        "certain infectious and parasitic diseases",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "neuralgia NOS",
+        "neuritis NOS",
+        "peripheral neuritis in pregnancy",
+        "radiculitis NOS"
+    ],
+    "symptoms": [
+        "numbness",
+        "tingling",
+        "burning pain",
+        "muscle weakness",
+        "loss of balance"
+    ]
+}

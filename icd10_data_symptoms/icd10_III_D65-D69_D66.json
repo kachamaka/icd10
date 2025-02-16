@@ -1,0 +1,37 @@
+{
+    "icd10code": "D66",
+    "type": "category",
+    "title": "Hereditary factor VIII deficiency",
+    "chapter": "Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism",
+    "chapterCode": "III",
+    "block": "Coagulation defects, purpura and other haemorrhagic conditions",
+    "blockCode": "D65-D69",
+    "category": "Hereditary factor VIII deficiency",
+    "categoryCode": "D66",
+    "subcategory": "",
+    "inclusion": [
+        "Deficiency factor VIII (with functional defect)",
+        "Haemophilia: NOS",
+        "Haemophilia: A",
+        "Haemophilia: classical"
+    ],
+    "exclusion": [
+        "autoimmune disease (systemic) NOS",
+        "certain conditions originating in the perinatal period",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "human immunodeficiency virus [HIV] disease",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "factor VIII deficiency with vascular defect"
+    ],
+    "symptoms": [
+        "unusual or easy bruising",
+        "frequent nosebleeds or gum bleeding",
+        "prolonged bleeding from cuts",
+        "heavy menstrual bleeding",
+        "internal bleeding"
+    ]
+}

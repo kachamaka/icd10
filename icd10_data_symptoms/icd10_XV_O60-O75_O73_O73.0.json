@@ -1,0 +1,30 @@
+{
+    "icd10code": "O73.0",
+    "type": "subcategory",
+    "title": "Retained placenta without haemorrhage",
+    "chapter": "Pregnancy, childbirth and the puerperium",
+    "chapterCode": "XV",
+    "block": "Complications of labour and delivery",
+    "blockCode": "O60-O75",
+    "category": "Retained placenta and membranes, without haemorrhage",
+    "categoryCode": "O73",
+    "subcategory": "O73.0",
+    "inclusion": null,
+    "exclusion": [
+        "Certain diseases or injuries complicating pregnancy, childbirth and the puerperium classified elsewhere: external causes (for mortality)",
+        "Certain diseases or injuries complicating pregnancy, childbirth and the puerperium classified elsewhere: injury, poisoning and certain other consequences of external cause",
+        "Certain diseases or injuries complicating pregnancy, childbirth and the puerperium classified elsewhere: mental and behavioural disorders associated with the puerperium",
+        "Certain diseases or injuries complicating pregnancy, childbirth and the puerperium classified elsewhere: obstetrical tetanus",
+        "Certain diseases or injuries complicating pregnancy, childbirth and the puerperium classified elsewhere: postpartum necrosis of pituitary gland",
+        "Certain diseases or injuries complicating pregnancy, childbirth and the puerperium classified elsewhere: puerperal osteomalacia",
+        "supervision of: high-risk pregnancy",
+        "supervision of: normal pregnancy"
+    ],
+    "symptoms": [
+        "heavy vaginal bleeding",
+        "low blood pressure",
+        "rapid heart rate",
+        "weakness",
+        "lightheadedness"
+    ]
+}

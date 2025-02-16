@@ -1,0 +1,23 @@
+{
+  "type": "subcategory",
+  "chapterCode": "VI",
+  "chapter": "Diseases of the nervous system",
+  "blockCode": "G40-G47",
+  "block": "Episodic and paroxysmal disorders",
+  "categoryCode": "G41",
+  "category": "Status epilepticus",
+  "subcategory": "G41.9",
+  "title": "Status epilepticus, unspecified",
+  "inclusion": null,
+  "exclusion": [
+    "certain conditions originating in the perinatal period",
+    "certain infectious and parasitic diseases",
+    "complications of pregnancy, childbirth and the puerperium",
+    "congenital malformations, deformations and chromosomal abnormalities",
+    "endocrine, nutritional and metabolic diseases",
+    "injury, poisoning and certain other consequences of external causes",
+    "neoplasms",
+    "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified"
+  ],
+  "children": null
+}

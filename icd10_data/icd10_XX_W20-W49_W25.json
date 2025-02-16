@@ -1,0 +1,21 @@
+{
+  "type": "category",
+  "chapterCode": "XX",
+  "chapter": "External causes of morbidity and mortality",
+  "blockCode": "W20-W49",
+  "block": "Exposure to inanimate mechanical forces",
+  "categoryCode": "W25",
+  "category": "Contact with sharp glass",
+  "subcategory": "",
+  "title": "Contact with sharp glass",
+  "inclusion": null,
+  "exclusion": [
+    "assault",
+    "contact or collision with animals or persons",
+    "intentional self-harm",
+    "fall involving glass",
+    "flying glass due to explosion or firearm discharge",
+    "glass embedded in skin"
+  ],
+  "children": null
+}

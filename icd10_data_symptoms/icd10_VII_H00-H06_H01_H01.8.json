@@ -1,0 +1,30 @@
+{
+    "icd10code": "H01.8",
+    "type": "subcategory",
+    "title": "Other specified inflammation of eyelid",
+    "chapter": "Diseases of the eye and adnexa",
+    "chapterCode": "VII",
+    "block": "Disorders of eyelid, lacrimal system and orbit",
+    "blockCode": "H00-H06",
+    "category": "Other inflammation of eyelid",
+    "categoryCode": "H01",
+    "subcategory": "H01.8",
+    "inclusion": null,
+    "exclusion": [
+        "certain conditions originating in the perinatal period",
+        "certain infectious and parasitic diseases",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified"
+    ],
+    "symptoms": [
+        "redness of eyelid",
+        "swelling of eyelid",
+        "itching",
+        "scaling of skin",
+        "eyelid tenderness"
+    ]
+}

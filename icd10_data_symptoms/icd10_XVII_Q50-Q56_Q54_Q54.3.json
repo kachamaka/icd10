@@ -1,0 +1,27 @@
+{
+    "icd10code": "Q54.3",
+    "type": "subcategory",
+    "title": "Hypospadias, perineal",
+    "chapter": "Congenital malformations, deformations and chromosomal abnormalities",
+    "chapterCode": "XVII",
+    "block": "Congenital malformations of genital organs",
+    "blockCode": "Q50-Q56",
+    "category": "Hypospadias",
+    "categoryCode": "Q54",
+    "subcategory": "Q54.3",
+    "inclusion": null,
+    "exclusion": [
+        "inborn errors of metabolism",
+        "androgen resistance syndrome",
+        "syndromes associated with anomalies in the number and form of chromosomes",
+        "testicular feminization syndrome",
+        "epispadias"
+    ],
+    "symptoms": [
+        "hypospadias",
+        "abnormal urethral opening",
+        "downward urine stream",
+        "difficulty urinating",
+        "penile curvature"
+    ]
+}

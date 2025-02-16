@@ -1,0 +1,24 @@
+{
+    "icd10code": "V77",
+    "type": "modifiedcategory",
+    "title": "Bus occupant injured in collision with fixed or stationary object : driver injured in traffic accident",
+    "chapter": "External causes of morbidity and mortality",
+    "chapterCode": "XX",
+    "block": "Bus occupant injured in transport accident",
+    "blockCode": "V70-V79",
+    "category": "Bus occupant injured in collision with fixed or stationary object",
+    "categoryCode": "V77",
+    "subcategory": "",
+    "inclusion": null,
+    "exclusion": [
+        "accidents to persons engaged in the maintenance or repair of transport equipment or vehicle (not in motion) unless injured by another vehicle in motion",
+        "accidents involving vehicles, but unrelated to the hazards associated with the means of transportation, e.g., injuries received in a fight on board ship; transport vehicle involved in a cataclysm; finger crushed when shutting car door",
+        "assault by crashing of motor vehicle",
+        "event of undetermined intent",
+        "intentional self-harm",
+        "collision involving: pedal cyclist"
+    ],
+    "symptoms": [
+        "asymptomatic"
+    ]
+}

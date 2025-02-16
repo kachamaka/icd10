@@ -1,0 +1,24 @@
+{
+    "icd10code": "C63.7",
+    "type": "subcategory",
+    "title": "Malignant neoplasm: Other specified male genital organs",
+    "chapter": "Neoplasms",
+    "chapterCode": "II",
+    "block": "Malignant neoplasms of male genital organs",
+    "blockCode": "C60-C63",
+    "category": "Malignant neoplasm of other and unspecified male genital organs",
+    "categoryCode": "C63",
+    "subcategory": "C63.7",
+    "inclusion": [
+        "skin of male genital organs",
+        "Seminal vesicle",
+        "Tunica vaginalis"
+    ],
+    "exclusion": null,
+    "symptoms": [
+        "lump or mass in the testicle",
+        "pain or discomfort in the testicle",
+        "swelling in the testicle",
+        "changes in the size or shape of"
+    ]
+}

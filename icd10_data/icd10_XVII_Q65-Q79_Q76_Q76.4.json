@@ -1,0 +1,27 @@
+{
+  "type": "subcategory",
+  "chapterCode": "XVII",
+  "chapter": "Congenital malformations, deformations and chromosomal abnormalities",
+  "blockCode": "Q65-Q79",
+  "block": "Congenital malformations and deformations of the musculoskeletal system",
+  "categoryCode": "Q76",
+  "category": "Congenital malformations of spine and bony thorax",
+  "subcategory": "Q76.4",
+  "title": "Other congenital malformations of spine, not associated with scoliosis",
+  "inclusion": [
+    "Congenital: absence of vertebra unspecified or not associated with scoliosis",
+    "Congenital: fusion of spine unspecified or not associated with scoliosis",
+    "Congenital: kyphosis unspecified or not associated with scoliosis",
+    "Congenital: lordosis unspecified or not associated with scoliosis",
+    "Congenital: malformation of lumbosacral (joint) (region) unspecified or not associated with scoliosis",
+    "Hemivertebra unspecified or not associated with scoliosis",
+    "Malformation of spine unspecified or not associated with scoliosis",
+    "Platyspondylisis unspecified or not associated with scoliosis",
+    "Supernumerary vertebra unspecified or not associated with scoliosis"
+  ],
+  "exclusion": [
+    "inborn errors of metabolism",
+    "congenital musculoskeletal deformities of spine and chest"
+  ],
+  "children": null
+}

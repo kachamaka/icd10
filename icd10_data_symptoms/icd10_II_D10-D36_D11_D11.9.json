@@ -1,0 +1,26 @@
+{
+    "icd10code": "D11.9",
+    "type": "subcategory",
+    "title": "Benign neoplasm: Major salivary gland, unspecified",
+    "chapter": "Neoplasms",
+    "chapterCode": "II",
+    "block": "Benign neoplasms",
+    "blockCode": "D10-D36",
+    "category": "Benign neoplasm of major salivary glands",
+    "categoryCode": "D11",
+    "subcategory": "D11.9",
+    "inclusion": [
+        "morphology codes with behaviour code /0"
+    ],
+    "exclusion": [
+        "benign neoplasms of specified minor salivary glands which are classified according to their anatomical location",
+        "benign neoplasms of minor salivary glands NOS"
+    ],
+    "symptoms": [
+        "difficulty swallowing",
+        "dry mouth",
+        "unintended weight loss",
+        "constant cough",
+        "mouth pain"
+    ]
+}

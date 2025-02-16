@@ -1,0 +1,22 @@
+{
+    "icd10code": "Z52.9",
+    "type": "subcategory",
+    "title": "Donor of unspecified organ or tissue",
+    "chapter": "Factors influencing health status and contact with health services",
+    "chapterCode": "XXI",
+    "block": "Persons encountering health services for specific procedures and health care",
+    "blockCode": "Z40-Z54",
+    "category": "Donors of organs and tissues",
+    "categoryCode": "Z52",
+    "subcategory": "Z52.9",
+    "inclusion": [
+        "Donor NOS"
+    ],
+    "exclusion": [
+        "follow-up examination for medical surveillance after treatment",
+        "examination of potential donor"
+    ],
+    "symptoms": [
+        "asymptomatic"
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "icd10code": "C84.0",
+    "type": "subcategory",
+    "title": "Mycosis fungoides",
+    "chapter": "Neoplasms",
+    "chapterCode": "II",
+    "block": "Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",
+    "blockCode": "C81-C96",
+    "category": "Mature T/NK-cell lymphomas",
+    "categoryCode": "C84",
+    "subcategory": "C84.0",
+    "inclusion": null,
+    "exclusion": [
+        "secondary and unspecified neoplasm of lymph nodes"
+    ],
+    "symptoms": [
+        "enlarged lymph nodes",
+        "fatigue",
+        "weight loss",
+        "night sweats",
+        "persistent fever"
+    ]
+}

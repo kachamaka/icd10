@@ -1,0 +1,34 @@
+{
+    "icd10code": "I37.8",
+    "type": "subcategory",
+    "title": "Other pulmonary valve disorders",
+    "chapter": "Diseases of the circulatory system",
+    "chapterCode": "IX",
+    "block": "Other forms of heart disease",
+    "blockCode": "I30-I52",
+    "category": "Pulmonary valve disorders",
+    "categoryCode": "I37",
+    "subcategory": "I37.8",
+    "inclusion": null,
+    "exclusion": [
+        "certain conditions originating in the perinatal period",
+        "certain infectious and parasitic diseases",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "systemic connective tissue disorders",
+        "transient cerebral ischaemic attacks and related syndromes",
+        "rheumatoid carditis",
+        "when not specified as rheumatic"
+    ],
+    "symptoms": [
+        "chest discomfort",
+        "shortness of breath",
+        "lightheadedness",
+        "fatigue",
+        "rapid or irregular heartbeat"
+    ]
+}

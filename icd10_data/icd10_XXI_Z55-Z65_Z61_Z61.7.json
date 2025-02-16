@@ -1,0 +1,16 @@
+{
+  "type": "subcategory",
+  "chapterCode": "XXI",
+  "chapter": "Factors influencing health status and contact with health services",
+  "blockCode": "Z55-Z65",
+  "block": "Persons with potential health hazards related to socioeconomic and psychosocial circumstances",
+  "categoryCode": "Z61",
+  "category": "Problems related to negative life events in childhood",
+  "subcategory": "Z61.7",
+  "title": "Personal frightening experience in childhood",
+  "inclusion": null,
+  "exclusion": [
+    "maltreatment syndromes"
+  ],
+  "children": null
+}

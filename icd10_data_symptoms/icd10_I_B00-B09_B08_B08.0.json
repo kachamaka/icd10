@@ -1,0 +1,35 @@
+{
+    "icd10code": "B08.0",
+    "type": "subcategory",
+    "title": "Other orthopoxvirus infections",
+    "chapter": "Certain infectious and parasitic diseases",
+    "chapterCode": "I",
+    "block": "Viral infections characterized by skin and mucous membrane lesions",
+    "blockCode": "B00-B09",
+    "category": "Other viral infections characterized by skin and mucous membrane lesions, not elsewhere classified",
+    "categoryCode": "B08",
+    "subcategory": "B08.0",
+    "inclusion": [
+        "diseases generally recognized as communicable or transmissible",
+        "Cowpox",
+        "Orf virus disease",
+        "Pseudocowpox [milker node]",
+        "Vaccinia"
+    ],
+    "exclusion": [
+        "carrier or suspected carrier of infectious disease",
+        "certain localized infections - see body system-related chapters",
+        "infectious and parasitic diseases complicating pregnancy, childbirth and the puerperium [except obstetrical tetanus]",
+        "infectious and parasitic diseases specific to the perinatal period [except tetanus neonatorum, whooping cough, congenital syphilis, perinatal gonococcal infection and perinatal human immunodeficiency virus [HIV] disease]",
+        "influenza and other acute respiratory infections",
+        "erythrasma",
+        "monkeypox"
+    ],
+    "symptoms": [
+        "fever",
+        "sore throat",
+        "headache",
+        "fatigue",
+        "swollen lymph nodes"
+    ]
+}

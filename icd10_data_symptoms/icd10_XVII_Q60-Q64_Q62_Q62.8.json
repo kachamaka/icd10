@@ -1,0 +1,25 @@
+{
+    "icd10code": "Q62.8",
+    "type": "subcategory",
+    "title": "Other congenital malformations of ureter",
+    "chapter": "Congenital malformations, deformations and chromosomal abnormalities",
+    "chapterCode": "XVII",
+    "block": "Congenital malformations of the urinary system",
+    "blockCode": "Q60-Q64",
+    "category": "Congenital obstructive defects of renal pelvis and congenital malformations of ureter",
+    "categoryCode": "Q62",
+    "subcategory": "Q62.8",
+    "inclusion": [
+        "Anomaly of ureter NOS"
+    ],
+    "exclusion": [
+        "inborn errors of metabolism"
+    ],
+    "symptoms": [
+        "hydronephrosis",
+        "urinary tract obstruction",
+        "flank pain",
+        "recurrent urinary infections",
+        "impaired kidney function"
+    ]
+}

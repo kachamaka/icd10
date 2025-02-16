@@ -1,0 +1,31 @@
+{
+    "icd10code": "P91.7",
+    "type": "subcategory",
+    "title": "Acquired hydrocephalus of newborn",
+    "chapter": "Certain conditions originating in the perinatal period",
+    "chapterCode": "XVI",
+    "block": "Other disorders originating in the perinatal period",
+    "blockCode": "P90-P96",
+    "category": "Other disturbances of cerebral status of newborn",
+    "categoryCode": "P91",
+    "subcategory": "P91.7",
+    "inclusion": [
+        "conditions that have their origin in the perinatal period even though death or morbidity occurs later",
+        "Posthaemorrhagic hydrocephalus of newborn"
+    ],
+    "exclusion": [
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "tetanus neonatorum",
+        "whooping cough"
+    ],
+    "symptoms": [
+        "seizures",
+        "lethargy",
+        "abnormal muscle tone",
+        "irritability",
+        "poor feeding"
+    ]
+}

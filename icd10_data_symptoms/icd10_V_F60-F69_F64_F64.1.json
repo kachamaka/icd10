@@ -1,0 +1,27 @@
+{
+    "icd10code": "F64.1",
+    "type": "subcategory",
+    "title": "Dual-role transvestism",
+    "chapter": "Mental and behavioural disorders",
+    "chapterCode": "V",
+    "block": "Disorders of adult personality and behaviour",
+    "blockCode": "F60-F69",
+    "category": "Gender identity disorders",
+    "categoryCode": "F64",
+    "subcategory": "F64.1",
+    "inclusion": [
+        "disorders of psychological development",
+        "Gender identity disorder of adolescence or adulthood, nontranssexual type"
+    ],
+    "exclusion": [
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "fetishistic transvestism"
+    ],
+    "symptoms": [
+        "identity confusion",
+        "desire to be opposite gender",
+        "distress about gender",
+        "discomfort with own sex",
+        "seeking gender transition"
+    ]
+}

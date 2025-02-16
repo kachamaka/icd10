@@ -1,0 +1,28 @@
+{
+    "icd10code": "R68.0",
+    "type": "subcategory",
+    "title": "Hypothermia, not associated with low environmental temperature",
+    "chapter": "Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+    "chapterCode": "XVIII",
+    "block": "General symptoms and signs",
+    "blockCode": "R50-R69",
+    "category": "Other general symptoms and signs",
+    "categoryCode": "R68",
+    "subcategory": "R68.0",
+    "inclusion": null,
+    "exclusion": [
+        "abnormal findings on antenatal screening of mother",
+        "certain conditions originating in the perinatal period",
+        "hypothermia (due to)(of): NOS (accidental)",
+        "hypothermia (due to)(of): anaesthesia",
+        "hypothermia (due to)(of): low environmental temperature",
+        "hypothermia (due to)(of): newborn"
+    ],
+    "symptoms": [
+        "fever",
+        "chills",
+        "malaise",
+        "fatigue",
+        "generalized weakness"
+    ]
+}

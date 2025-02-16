@@ -1,0 +1,22 @@
+{
+    "icd10code": "X36",
+    "type": "category",
+    "title": "Victim of avalanche, landslide and other earth movements",
+    "chapter": "External causes of morbidity and mortality",
+    "chapterCode": "XX",
+    "block": "Exposure to forces of nature",
+    "blockCode": "X30-X39",
+    "category": "Victim of avalanche, landslide and other earth movements",
+    "categoryCode": "X36",
+    "subcategory": "",
+    "inclusion": [
+        "mudslide of cataclysmic nature"
+    ],
+    "exclusion": [
+        "earthquake",
+        "transport accident involving collision with avalanche or landslide not in motion"
+    ],
+    "symptoms": [
+        "asymptomatic"
+    ]
+}

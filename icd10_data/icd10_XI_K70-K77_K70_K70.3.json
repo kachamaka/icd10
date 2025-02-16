@@ -1,0 +1,30 @@
+{
+  "type": "subcategory",
+  "chapterCode": "XI",
+  "chapter": "Diseases of the digestive system",
+  "blockCode": "K70-K77",
+  "block": "Diseases of liver",
+  "categoryCode": "K70",
+  "category": "Alcoholic liver disease",
+  "subcategory": "K70.3",
+  "title": "Alcoholic cirrhosis of liver",
+  "inclusion": [
+    "Alcoholic cirrhosis NOS"
+  ],
+  "exclusion": [
+    "certain conditions originating in the perinatal period",
+    "certain infectious and parasitic diseases",
+    "complications of pregnancy, childbirth and the puerperium",
+    "congenital malformations, deformations and chromosomal abnormalities",
+    "endocrine, nutritional and metabolic diseases",
+    "injury, poisoning and certain other consequences of external causes",
+    "neoplasms",
+    "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+    "haemochromatosis",
+    "jaundice NOS",
+    "Reye syndrome",
+    "viral hepatitis",
+    "Wilson disease"
+  ],
+  "children": null
+}

@@ -1,0 +1,27 @@
+{
+    "icd10code": "Q82.1",
+    "type": "subcategory",
+    "title": "Xeroderma pigmentosum",
+    "chapter": "Congenital malformations, deformations and chromosomal abnormalities",
+    "chapterCode": "XVII",
+    "block": "Other congenital malformations",
+    "blockCode": "Q80-Q89",
+    "category": "Other congenital malformations of skin",
+    "categoryCode": "Q82",
+    "subcategory": "Q82.1",
+    "inclusion": null,
+    "exclusion": [
+        "inborn errors of metabolism",
+        "acrodermatitis enteropathica",
+        "congenital erythropoietic porphyria",
+        "pilonidal cyst or sinus",
+        "Sturge-Weber(-Dimitri) syndrome"
+    ],
+    "symptoms": [
+        "dry scaly skin",
+        "thickened skin",
+        "redness of the skin",
+        "skin cracking",
+        "abnormal skin shedding"
+    ]
+}

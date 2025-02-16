@@ -1,0 +1,24 @@
+{
+    "icd10code": "Z23.0",
+    "type": "subcategory",
+    "title": "Need for immunization against cholera alone",
+    "chapter": "Factors influencing health status and contact with health services",
+    "chapterCode": "XXI",
+    "block": "Persons with potential health hazards related to communicable diseases",
+    "blockCode": "Z20-Z29",
+    "category": "Need for immunization against single bacterial diseases",
+    "categoryCode": "Z23",
+    "subcategory": "Z23.0",
+    "inclusion": null,
+    "exclusion": [
+        "immunization: against combinations of diseases",
+        "immunization: not carried out"
+    ],
+    "symptoms": [
+        "fever",
+        "sore arm",
+        "mild swelling",
+        "fatigue",
+        "headache"
+    ]
+}

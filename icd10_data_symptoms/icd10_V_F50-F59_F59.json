@@ -1,0 +1,26 @@
+{
+    "icd10code": "F59",
+    "type": "category",
+    "title": "Unspecified behavioural syndromes associated with physiological disturbances and physical factors",
+    "chapter": "Mental and behavioural disorders",
+    "chapterCode": "V",
+    "block": "Behavioural syndromes associated with physiological disturbances and physical factors",
+    "blockCode": "F50-F59",
+    "category": "Unspecified behavioural syndromes associated with physiological disturbances and physical factors",
+    "categoryCode": "F59",
+    "subcategory": "",
+    "inclusion": [
+        "disorders of psychological development",
+        "Psychogenic physiological dysfunction NOS"
+    ],
+    "exclusion": [
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified"
+    ],
+    "symptoms": [
+        "confusion",
+        "disorientation",
+        "mood swings",
+        "altered consciousness",
+        "cognitive impairment"
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "icd10code": "F09",
+    "type": "category",
+    "title": "Unspecified organic or symptomatic mental disorder",
+    "chapter": "Mental and behavioural disorders",
+    "chapterCode": "V",
+    "block": "Organic, including symptomatic, mental disorders",
+    "blockCode": "F00-F09",
+    "category": "Unspecified organic or symptomatic mental disorder",
+    "categoryCode": "F09",
+    "subcategory": "",
+    "inclusion": [
+        "disorders of psychological development",
+        "Psychosis: organic NOS",
+        "Psychosis: symptomatic NOS"
+    ],
+    "exclusion": [
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "psychosis NOS"
+    ],
+    "symptoms": [
+        "confusion",
+        "memory loss",
+        "personality change",
+        "disorientation",
+        "cognitive decline"
+    ]
+}

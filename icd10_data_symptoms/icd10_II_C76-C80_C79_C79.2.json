@@ -1,0 +1,21 @@
+{
+    "icd10code": "C79.2",
+    "type": "subcategory",
+    "title": "Secondary malignant neoplasm of skin",
+    "chapter": "Neoplasms",
+    "chapterCode": "II",
+    "block": "Malignant neoplasms of ill-defined, secondary and unspecified sites",
+    "blockCode": "C76-C80",
+    "category": "Secondary malignant neoplasm of other and unspecified sites",
+    "categoryCode": "C79",
+    "subcategory": "C79.2",
+    "inclusion": null,
+    "exclusion": null,
+    "symptoms": [
+        "abdominal pain",
+        "unintentional weight loss",
+        "loss of appetite",
+        "jaundice",
+        "nausea and vomiting"
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "icd10code": "B26.0",
+    "type": "subcategory",
+    "title": "Mumps orchitis",
+    "chapter": "Certain infectious and parasitic diseases",
+    "chapterCode": "I",
+    "block": "Other viral diseases",
+    "blockCode": "B25-B34",
+    "category": "Mumps",
+    "categoryCode": "B26",
+    "subcategory": "B26.0",
+    "inclusion": [
+        "diseases generally recognized as communicable or transmissible",
+        "parotitis: epidemic",
+        "parotitis: infectious"
+    ],
+    "exclusion": [
+        "carrier or suspected carrier of infectious disease",
+        "certain localized infections - see body system-related chapters",
+        "infectious and parasitic diseases complicating pregnancy, childbirth and the puerperium [except obstetrical tetanus]",
+        "infectious and parasitic diseases specific to the perinatal period [except tetanus neonatorum, whooping cough, congenital syphilis, perinatal gonococcal infection and perinatal human immunodeficiency virus [HIV] disease]",
+        "influenza and other acute respiratory infections"
+    ],
+    "symptoms": [
+        "swollen parotid glands",
+        "fever",
+        "headache",
+        "muscle aches",
+        "fatigue"
+    ]
+}

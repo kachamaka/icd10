@@ -1,0 +1,23 @@
+{
+  "type": "subcategory",
+  "chapterCode": "II",
+  "chapter": "Neoplasms",
+  "blockCode": "C43-C44",
+  "block": "Melanoma and other malignant neoplasms of skin",
+  "categoryCode": "C43",
+  "category": "Malignant melanoma of skin",
+  "subcategory": "C43.5",
+  "title": "Malignant neoplasm: Malignant melanoma of trunk",
+  "inclusion": [
+    "morphology codes M872-M879 with behaviour code /3",
+    "Anal: margin",
+    "Anal: skin",
+    "Perianal skin",
+    "Skin of breast"
+  ],
+  "exclusion": [
+    "malignant melanoma of skin of genital organs",
+    "anus NOS"
+  ],
+  "children": null
+}

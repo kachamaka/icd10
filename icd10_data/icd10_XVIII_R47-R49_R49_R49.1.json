@@ -1,0 +1,20 @@
+{
+  "type": "subcategory",
+  "chapterCode": "XVIII",
+  "chapter": "Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+  "blockCode": "R47-R49",
+  "block": "Symptoms and signs involving speech and voice",
+  "categoryCode": "R49",
+  "category": "Voice disturbances",
+  "subcategory": "R49.1",
+  "title": "Aphonia",
+  "inclusion": [
+    "Loss of voice"
+  ],
+  "exclusion": [
+    "abnormal findings on antenatal screening of mother",
+    "certain conditions originating in the perinatal period",
+    "psychogenic voice disturbance"
+  ],
+  "children": null
+}

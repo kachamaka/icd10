@@ -1,0 +1,31 @@
+{
+    "icd10code": "F06.0",
+    "type": "subcategory",
+    "title": "Organic hallucinosis",
+    "chapter": "Mental and behavioural disorders",
+    "chapterCode": "V",
+    "block": "Organic, including symptomatic, mental disorders",
+    "blockCode": "F00-F09",
+    "category": "Other mental disorders due to brain damage and dysfunction and to physical disease",
+    "categoryCode": "F06",
+    "subcategory": "F06.0",
+    "inclusion": [
+        "disorders of psychological development",
+        "Organic hallucinatory state (nonalcoholic)"
+    ],
+    "exclusion": [
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "associated with: delirium",
+        "associated with: dementia as classified in F00-F03",
+        "resulting from use of alcohol and other psychoactive substances",
+        "alcoholic hallucinosis",
+        "schizophrenia"
+    ],
+    "symptoms": [
+        "mood swings",
+        "irritability",
+        "anxiety",
+        "depression",
+        "emotional instability"
+    ]
+}

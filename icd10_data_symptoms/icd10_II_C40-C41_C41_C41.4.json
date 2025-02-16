@@ -1,0 +1,29 @@
+{
+    "icd10code": "C41.4",
+    "type": "subcategory",
+    "title": "Malignant neoplasm: Pelvic bones, sacrum and coccyx",
+    "chapter": "Neoplasms",
+    "chapterCode": "II",
+    "block": "Malignant neoplasms of bone and articular cartilage",
+    "blockCode": "C40-C41",
+    "category": "Malignant neoplasm of bone and articular cartilage of other and unspecified sites",
+    "categoryCode": "C41",
+    "subcategory": "C41.4",
+    "inclusion": null,
+    "exclusion": [
+        "bone marrow NOS",
+        "synovia",
+        "bones of limbs",
+        "cartilage of: ear",
+        "cartilage of: larynx",
+        "cartilage of: limbs",
+        "cartilage of: nose"
+    ],
+    "symptoms": [
+        "pain in affected limb",
+        "swelling",
+        "inability to use the limb",
+        "numbness or tingling",
+        "unexpected weight loss"
+    ]
+}

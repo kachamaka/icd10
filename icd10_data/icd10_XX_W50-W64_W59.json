@@ -1,0 +1,20 @@
+{
+  "type": "category",
+  "chapterCode": "XX",
+  "chapter": "External causes of morbidity and mortality",
+  "blockCode": "W50-W64",
+  "block": "Exposure to animate mechanical forces",
+  "categoryCode": "W59",
+  "category": "Bitten or crushed by other reptiles",
+  "subcategory": "",
+  "title": "Bitten or crushed by other reptiles",
+  "inclusion": [
+    "lizard",
+    "snake, nonvenomous"
+  ],
+  "exclusion": [
+    "bites, venomous",
+    "stings (venomous)"
+  ],
+  "children": null
+}

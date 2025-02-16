@@ -1,0 +1,33 @@
+{
+    "icd10code": "Q75.1",
+    "type": "subcategory",
+    "title": "Craniofacial dysostosis",
+    "chapter": "Congenital malformations, deformations and chromosomal abnormalities",
+    "chapterCode": "XVII",
+    "block": "Congenital malformations and deformations of the musculoskeletal system",
+    "blockCode": "Q65-Q79",
+    "category": "Other congenital malformations of skull and face bones",
+    "categoryCode": "Q75",
+    "subcategory": "Q75.1",
+    "inclusion": [
+        "Crouzon disease"
+    ],
+    "exclusion": [
+        "inborn errors of metabolism",
+        "congenital malformation of face NOS",
+        "congenital malformation syndromes classified to Q87.-",
+        "dentofacial anomalies [including malocclusion]",
+        "musculoskeletal deformities of head and face",
+        "skull defects associated with congenital anomalies of brain such as: anencephaly",
+        "skull defects associated with congenital anomalies of brain such as: encephalocele",
+        "skull defects associated with congenital anomalies of brain such as: hydrocephalus",
+        "skull defects associated with congenital anomalies of brain such as: microcephaly"
+    ],
+    "symptoms": [
+        "asymmetry of the skull",
+        "abnormal skull shape",
+        "facial asymmetry",
+        "premature sutural fusion",
+        "restricted cranial growth"
+    ]
+}

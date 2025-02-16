@@ -1,0 +1,28 @@
+{
+    "icd10code": "D11.7",
+    "type": "subcategory",
+    "title": "Benign neoplasm: Other major salivary glands",
+    "chapter": "Neoplasms",
+    "chapterCode": "II",
+    "block": "Benign neoplasms",
+    "blockCode": "D10-D36",
+    "category": "Benign neoplasm of major salivary glands",
+    "categoryCode": "D11",
+    "subcategory": "D11.7",
+    "inclusion": [
+        "morphology codes with behaviour code /0",
+        "Gland: sublingual",
+        "Gland: submandibular"
+    ],
+    "exclusion": [
+        "benign neoplasms of specified minor salivary glands which are classified according to their anatomical location",
+        "benign neoplasms of minor salivary glands NOS"
+    ],
+    "symptoms": [
+        "difficulty swallowing",
+        "sore throat",
+        "voice changes",
+        "feel of lump in throat",
+        "swollen lymph nodes"
+    ]
+}

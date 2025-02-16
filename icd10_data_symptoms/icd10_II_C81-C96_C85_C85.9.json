@@ -1,0 +1,27 @@
+{
+    "icd10code": "C85.9",
+    "type": "subcategory",
+    "title": "Non-Hodgkin lymphoma, unspecified",
+    "chapter": "Neoplasms",
+    "chapterCode": "II",
+    "block": "Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",
+    "blockCode": "C81-C96",
+    "category": "Other and unspecified types of non-Hodgkin lymphoma",
+    "categoryCode": "C85",
+    "subcategory": "C85.9",
+    "inclusion": [
+        "Lymphoma NOS",
+        "Malignant lymphoma NOS",
+        "Non-Hodgkin lymphoma NOS"
+    ],
+    "exclusion": [
+        "secondary and unspecified neoplasm of lymph nodes"
+    ],
+    "symptoms": [
+        "unexplained weight loss",
+        "fatigue",
+        "fevers or night sweats",
+        "persistent cough",
+        "painless swollen lymph nodes"
+    ]
+}

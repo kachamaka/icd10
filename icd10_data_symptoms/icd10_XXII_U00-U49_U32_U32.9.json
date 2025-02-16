@@ -1,0 +1,21 @@
+{
+    "icd10code": "U32.9",
+    "type": "subcategory",
+    "title": "Emergency use of U32.9",
+    "chapter": "Codes for special purposes",
+    "chapterCode": "XXII",
+    "block": "Provisional assignment of new diseases of uncertain etiology or emergency use",
+    "blockCode": "U00-U49",
+    "category": "Emergency use of U32",
+    "categoryCode": "U32",
+    "subcategory": "U32.9",
+    "inclusion": null,
+    "exclusion": null,
+    "symptoms": [
+        "fever",
+        "cough",
+        "shortness of breath",
+        "fatigue",
+        "muscle aches"
+    ]
+}

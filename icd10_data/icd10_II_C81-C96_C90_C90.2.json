@@ -1,0 +1,16 @@
+{
+  "type": "subcategory",
+  "chapterCode": "II",
+  "chapter": "Neoplasms",
+  "blockCode": "C81-C96",
+  "block": "Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",
+  "categoryCode": "C90",
+  "category": "Multiple myeloma and malignant plasma cell neoplasms",
+  "subcategory": "C90.2",
+  "title": "Extramedullary plasmacytoma",
+  "inclusion": null,
+  "exclusion": [
+    "secondary and unspecified neoplasm of lymph nodes"
+  ],
+  "children": null
+}

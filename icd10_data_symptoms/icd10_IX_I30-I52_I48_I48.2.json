@@ -1,0 +1,32 @@
+{
+    "icd10code": "I48.2",
+    "type": "subcategory",
+    "title": "Chronic atrial fibrillation",
+    "chapter": "Diseases of the circulatory system",
+    "chapterCode": "IX",
+    "block": "Other forms of heart disease",
+    "blockCode": "I30-I52",
+    "category": "Atrial fibrillation and flutter",
+    "categoryCode": "I48",
+    "subcategory": "I48.2",
+    "inclusion": null,
+    "exclusion": [
+        "certain conditions originating in the perinatal period",
+        "certain infectious and parasitic diseases",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "systemic connective tissue disorders",
+        "transient cerebral ischaemic attacks and related syndromes"
+    ],
+    "symptoms": [
+        "irregular heartbeat",
+        "shortness of breath",
+        "chest pain",
+        "lightheadedness",
+        "fainting or near fainting"
+    ]
+}

@@ -1,0 +1,19 @@
+{
+  "type": "subcategory",
+  "chapterCode": "II",
+  "chapter": "Neoplasms",
+  "blockCode": "C00-C14",
+  "block": "Malignant neoplasms of lip, oral cavity and pharynx",
+  "categoryCode": "C03",
+  "category": "Malignant neoplasm of gum",
+  "subcategory": "C03.1",
+  "title": "Malignant neoplasm: Lower gum",
+  "inclusion": [
+    "alveolar (ridge) mucosa",
+    "gingiva"
+  ],
+  "exclusion": [
+    "malignant odontogenic neoplasms"
+  ],
+  "children": null
+}

@@ -1,0 +1,32 @@
+{
+    "icd10code": "Q28.8",
+    "type": "subcategory",
+    "title": "Other specified congenital malformations of circulatory system",
+    "chapter": "Congenital malformations, deformations and chromosomal abnormalities",
+    "chapterCode": "XVII",
+    "block": "Congenital malformations of the circulatory system",
+    "blockCode": "Q20-Q28",
+    "category": "Other congenital malformations of circulatory system",
+    "categoryCode": "Q28",
+    "subcategory": "Q28.8",
+    "inclusion": [
+        "Congenital aneurysm, specified site NEC"
+    ],
+    "exclusion": [
+        "inborn errors of metabolism",
+        "congenital aneurysm: NOS",
+        "congenital aneurysm: coronary",
+        "congenital aneurysm: peripheral",
+        "congenital aneurysm: pulmonary",
+        "congenital aneurysm: retinal",
+        "ruptured: cerebral arteriovenous malformation",
+        "ruptured: malformation of precerebral vessels"
+    ],
+    "symptoms": [
+        "abnormal blood vessels",
+        "vascular dysplasia",
+        "arteriovenous malformations",
+        "hemangiomas",
+        "uneven blood flow"
+    ]
+}

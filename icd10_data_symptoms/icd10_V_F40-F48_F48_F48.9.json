@@ -1,0 +1,27 @@
+{
+    "icd10code": "F48.9",
+    "type": "subcategory",
+    "title": "Neurotic disorder, unspecified",
+    "chapter": "Mental and behavioural disorders",
+    "chapterCode": "V",
+    "block": "Neurotic, stress-related and somatoform disorders",
+    "blockCode": "F40-F48",
+    "category": "Other neurotic disorders",
+    "categoryCode": "F48",
+    "subcategory": "F48.9",
+    "inclusion": [
+        "disorders of psychological development",
+        "Neurosis NOS"
+    ],
+    "exclusion": [
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "when associated with conduct disorder in F91.-"
+    ],
+    "symptoms": [
+        "fatigue",
+        "anxiety",
+        "sleep disturbance",
+        "dizziness",
+        "irritability"
+    ]
+}

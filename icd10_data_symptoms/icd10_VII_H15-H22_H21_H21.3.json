@@ -1,0 +1,37 @@
+{
+    "icd10code": "H21.3",
+    "type": "subcategory",
+    "title": "Cyst of iris, ciliary body and anterior chamber",
+    "chapter": "Diseases of the eye and adnexa",
+    "chapterCode": "VII",
+    "block": "Disorders of sclera, cornea, iris and ciliary body",
+    "blockCode": "H15-H22",
+    "category": "Other disorders of iris and ciliary body",
+    "categoryCode": "H21",
+    "subcategory": "H21.3",
+    "inclusion": [
+        "Cyst of iris, ciliary body or anterior chamber: NOS",
+        "Cyst of iris, ciliary body or anterior chamber: exudative",
+        "Cyst of iris, ciliary body or anterior chamber: implantation",
+        "Cyst of iris, ciliary body or anterior chamber: parasitic"
+    ],
+    "exclusion": [
+        "certain conditions originating in the perinatal period",
+        "certain infectious and parasitic diseases",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "sympathetic uveitis",
+        "miotic pupillary cyst"
+    ],
+    "symptoms": [
+        "eye redness",
+        "pain",
+        "blurred vision",
+        "photophobia",
+        "tearing"
+    ]
+}

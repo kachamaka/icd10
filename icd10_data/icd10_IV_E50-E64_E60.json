@@ -1,0 +1,19 @@
+{
+  "type": "category",
+  "chapterCode": "IV",
+  "chapter": "Endocrine, nutritional and metabolic diseases",
+  "blockCode": "E50-E64",
+  "block": "Other nutritional deficiencies",
+  "categoryCode": "E60",
+  "category": "Dietary zinc deficiency",
+  "subcategory": "",
+  "title": "Dietary zinc deficiency",
+  "inclusion": null,
+  "exclusion": [
+    "complications of pregnancy, childbirth and the puerperium",
+    "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+    "transitory endocrine and metabolic disorders specific to fetus and newborn",
+    "diabetes mellitus (in): malnutrition-related"
+  ],
+  "children": null
+}

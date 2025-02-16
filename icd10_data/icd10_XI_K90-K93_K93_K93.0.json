@@ -1,0 +1,24 @@
+{
+  "type": "subcategory",
+  "chapterCode": "XI",
+  "chapter": "Diseases of the digestive system",
+  "blockCode": "K90-K93",
+  "block": "Other diseases of the digestive system",
+  "categoryCode": "K93",
+  "category": "Disorders of other digestive organs in diseases classified elsewhere",
+  "subcategory": "K93.0",
+  "title": "Tuberculous disorders of intestines, peritoneum and mesenteric glands",
+  "inclusion": null,
+  "exclusion": [
+    "certain conditions originating in the perinatal period",
+    "certain infectious and parasitic diseases",
+    "complications of pregnancy, childbirth and the puerperium",
+    "congenital malformations, deformations and chromosomal abnormalities",
+    "endocrine, nutritional and metabolic diseases",
+    "injury, poisoning and certain other consequences of external causes",
+    "neoplasms",
+    "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+    "tuberculous peritonitis"
+  ],
+  "children": null
+}

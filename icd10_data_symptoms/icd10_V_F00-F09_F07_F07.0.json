@@ -1,0 +1,36 @@
+{
+    "icd10code": "F07.0",
+    "type": "subcategory",
+    "title": "Organic personality disorder",
+    "chapter": "Mental and behavioural disorders",
+    "chapterCode": "V",
+    "block": "Organic, including symptomatic, mental disorders",
+    "blockCode": "F00-F09",
+    "category": "Personality and behavioural disorders due to brain disease, damage and dysfunction",
+    "categoryCode": "F07",
+    "subcategory": "F07.0",
+    "inclusion": [
+        "disorders of psychological development",
+        "Organic: pseudopsychopathic personality",
+        "Organic: pseudoretarded personality",
+        "Syndrome: frontal lobe",
+        "Syndrome: limbic epilepsy personality",
+        "Syndrome: lobotomy",
+        "Syndrome: postleucotomy"
+    ],
+    "exclusion": [
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "enduring personality change after: catastrophic experience",
+        "enduring personality change after: psychiatric illness",
+        "postconcussional syndrome",
+        "postencephalitic syndrome",
+        "specific personality disorder"
+    ],
+    "symptoms": [
+        "irritability",
+        "apathy",
+        "emotional instability",
+        "impaired impulse control",
+        "social withdrawal"
+    ]
+}

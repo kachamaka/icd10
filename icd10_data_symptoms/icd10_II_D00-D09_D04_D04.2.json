@@ -1,0 +1,29 @@
+{
+    "icd10code": "D04.2",
+    "type": "subcategory",
+    "title": "Carcinoma in situ: Skin of ear and external auricular canal",
+    "chapter": "Neoplasms",
+    "chapterCode": "II",
+    "block": "In situ neoplasms",
+    "blockCode": "D00-D09",
+    "category": "Carcinoma in situ of skin",
+    "categoryCode": "D04",
+    "subcategory": "D04.2",
+    "inclusion": [
+        "Bowen disease",
+        "erythroplasia",
+        "morphology codes with behaviour code /2",
+        "Queyrat erythroplasia"
+    ],
+    "exclusion": [
+        "erythroplasia of Queyrat (penis) NOS",
+        "melanoma in situ"
+    ],
+    "symptoms": [
+        "skin changes on ear",
+        "persistent ear pain",
+        "lump in ear area",
+        "abnormal ear discharge",
+        "persistent itchiness in ear"
+    ]
+}

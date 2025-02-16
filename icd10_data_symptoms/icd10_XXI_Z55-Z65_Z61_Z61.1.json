@@ -1,0 +1,23 @@
+{
+    "icd10code": "Z61.1",
+    "type": "subcategory",
+    "title": "Removal from home in childhood",
+    "chapter": "Factors influencing health status and contact with health services",
+    "chapterCode": "XXI",
+    "block": "Persons with potential health hazards related to socioeconomic and psychosocial circumstances",
+    "blockCode": "Z55-Z65",
+    "category": "Problems related to negative life events in childhood",
+    "categoryCode": "Z61",
+    "subcategory": "Z61.1",
+    "inclusion": null,
+    "exclusion": [
+        "maltreatment syndromes"
+    ],
+    "symptoms": [
+        "emotional distress",
+        "anxiety",
+        "guilt",
+        "sadness",
+        "mistrust"
+    ]
+}

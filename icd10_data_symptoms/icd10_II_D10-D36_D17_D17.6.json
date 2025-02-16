@@ -1,0 +1,24 @@
+{
+    "icd10code": "D17.6",
+    "type": "subcategory",
+    "title": "Benign lipomatous neoplasm of spermatic cord",
+    "chapter": "Neoplasms",
+    "chapterCode": "II",
+    "block": "Benign neoplasms",
+    "blockCode": "D10-D36",
+    "category": "Benign lipomatous neoplasm",
+    "categoryCode": "D17",
+    "subcategory": "D17.6",
+    "inclusion": [
+        "morphology codes with behaviour code /0",
+        "morphology codes M885-M888 with behaviour code /0"
+    ],
+    "exclusion": null,
+    "symptoms": [
+        "lump or mass in skin or subcutaneous tissue",
+        "skin discoloration",
+        "pain at the site",
+        "swelling",
+        "changes in skin texture"
+    ]
+}

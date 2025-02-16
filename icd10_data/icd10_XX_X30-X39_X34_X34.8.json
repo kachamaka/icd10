@@ -1,0 +1,14 @@
+{
+  "type": "subcategory",
+  "chapterCode": "XX",
+  "chapter": "External causes of morbidity and mortality",
+  "blockCode": "X30-X39",
+  "block": "Exposure to forces of nature",
+  "categoryCode": "X34",
+  "category": "Victim of earthquake",
+  "subcategory": "X34.8",
+  "title": "Victim of other specified effects of earthquake",
+  "inclusion": null,
+  "exclusion": null,
+  "children": null
+}

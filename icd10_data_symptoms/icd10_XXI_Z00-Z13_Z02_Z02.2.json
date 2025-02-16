@@ -1,0 +1,25 @@
+{
+    "icd10code": "Z02.2",
+    "type": "subcategory",
+    "title": "Examination for admission to residential institutions",
+    "chapter": "Factors influencing health status and contact with health services",
+    "chapterCode": "XXI",
+    "block": "Persons encountering health services for examination and investigation",
+    "blockCode": "Z00-Z13",
+    "category": "Examination and encounter for administrative purposes",
+    "categoryCode": "Z02",
+    "subcategory": "Z02.2",
+    "inclusion": null,
+    "exclusion": [
+        "examinations related to pregnancy and reproduction",
+        "examination for admission to prison",
+        "general health check-up of inhabitants of institutions"
+    ],
+    "symptoms": [
+        "physical fatigue",
+        "headaches",
+        "dizziness",
+        "blurred vision",
+        "loss of appetite"
+    ]
+}

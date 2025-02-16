@@ -1,0 +1,35 @@
+{
+    "icd10code": "T75.8",
+    "type": "subcategory",
+    "title": "Other specified effects of other external causes",
+    "chapter": "Injury, poisoning and certain other consequences of external causes",
+    "chapterCode": "XIX",
+    "block": "Other and unspecified effects of external causes",
+    "blockCode": "T66-T78",
+    "category": "Effects of other external causes",
+    "categoryCode": "T75",
+    "subcategory": "T75.8",
+    "inclusion": [
+        "Effects of: abnormal gravitation [G] forces",
+        "Effects of: weightlessness"
+    ],
+    "exclusion": [
+        "birth trauma",
+        "obstetric trauma",
+        "malunion of fracture",
+        "nonunion of fracture [pseudarthrosis]",
+        "pathological fracture",
+        "pathological fracture with osteoporosis",
+        "stress fracture",
+        "adverse effects NEC",
+        "burns (electric)",
+        "unspecified effects of external causes"
+    ],
+    "symptoms": [
+        "dizziness",
+        "fatigue",
+        "nausea",
+        "confusion",
+        "muscle cramps"
+    ]
+}

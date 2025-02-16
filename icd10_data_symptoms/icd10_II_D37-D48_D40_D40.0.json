@@ -1,0 +1,21 @@
+{
+    "icd10code": "D40.0",
+    "type": "subcategory",
+    "title": "Neoplasm of uncertain or unknown behaviour: Prostate",
+    "chapter": "Neoplasms",
+    "chapterCode": "II",
+    "block": "Neoplasms of uncertain or unknown behaviour",
+    "blockCode": "D37-D48",
+    "category": "Neoplasm of uncertain or unknown behaviour of male genital organs",
+    "categoryCode": "D40",
+    "subcategory": "D40.0",
+    "inclusion": null,
+    "exclusion": null,
+    "symptoms": [
+        "abnormal prostate-specific antigen levels",
+        "problems with urination",
+        "erectile dysfunction",
+        "discomfort in the pelvic area",
+        "blood in the semen"
+    ]
+}

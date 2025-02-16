@@ -1,0 +1,22 @@
+{
+  "type": "subcategory",
+  "chapterCode": "II",
+  "chapter": "Neoplasms",
+  "blockCode": "D00-D09",
+  "block": "In situ neoplasms",
+  "categoryCode": "D05",
+  "category": "Carcinoma in situ of breast",
+  "subcategory": "D05.1",
+  "title": "Intraductal carcinoma in situ",
+  "inclusion": [
+    "Bowen disease",
+    "erythroplasia",
+    "morphology codes with behaviour code /2",
+    "Queyrat erythroplasia"
+  ],
+  "exclusion": [
+    "carcinoma in situ of skin of breast",
+    "melanoma in situ of breast (skin)"
+  ],
+  "children": null
+}

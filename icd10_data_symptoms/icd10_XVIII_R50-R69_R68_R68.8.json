@@ -1,0 +1,24 @@
+{
+    "icd10code": "R68.8",
+    "type": "subcategory",
+    "title": "Other specified general symptoms and signs",
+    "chapter": "Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+    "chapterCode": "XVIII",
+    "block": "General symptoms and signs",
+    "blockCode": "R50-R69",
+    "category": "Other general symptoms and signs",
+    "categoryCode": "R68",
+    "subcategory": "R68.8",
+    "inclusion": null,
+    "exclusion": [
+        "abnormal findings on antenatal screening of mother",
+        "certain conditions originating in the perinatal period"
+    ],
+    "symptoms": [
+        "fatigue",
+        "dizziness",
+        "generalized pain",
+        "weakness",
+        "malaise"
+    ]
+}

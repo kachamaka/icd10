@@ -1,0 +1,48 @@
+{
+    "icd10code": "K72.1",
+    "type": "subcategory",
+    "title": "Chronic hepatic failure",
+    "chapter": "Diseases of the digestive system",
+    "chapterCode": "XI",
+    "block": "Diseases of liver",
+    "blockCode": "K70-K77",
+    "category": "Hepatic failure, not elsewhere classified",
+    "categoryCode": "K72",
+    "subcategory": "K72.1",
+    "inclusion": [
+        "hepatic: coma NOS",
+        "hepatic: encephalopathy NOS",
+        "hepatitis: fulminant NEC, with hepatic failure",
+        "hepatitis: malignant NEC, with hepatic failure",
+        "liver (cell) necrosis with hepatic failure",
+        "yellow liver atrophy or dystrophy"
+    ],
+    "exclusion": [
+        "certain conditions originating in the perinatal period",
+        "certain infectious and parasitic diseases",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "haemochromatosis",
+        "jaundice NOS",
+        "Reye syndrome",
+        "viral hepatitis",
+        "Wilson disease",
+        "alcoholic hepatic failure",
+        "hepatic failure complicating: abortion or ectopic or molar pregnancy",
+        "hepatic failure complicating: pregnancy, childbirth and the puerperium",
+        "icterus of fetus and newborn",
+        "viral hepatitis",
+        "with toxic liver disease"
+    ],
+    "symptoms": [
+        "jaundice",
+        "fatigue",
+        "abdominal pain",
+        "confusion",
+        "nausea"
+    ]
+}

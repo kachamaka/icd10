@@ -1,0 +1,27 @@
+{
+    "icd10code": "F01.1",
+    "type": "subcategory",
+    "title": "Multi-infarct dementia",
+    "chapter": "Mental and behavioural disorders",
+    "chapterCode": "V",
+    "block": "Organic, including symptomatic, mental disorders",
+    "blockCode": "F00-F09",
+    "category": "Vascular dementia",
+    "categoryCode": "F01",
+    "subcategory": "F01.1",
+    "inclusion": [
+        "disorders of psychological development",
+        "arteriosclerotic dementia",
+        "Predominantly cortical dementia"
+    ],
+    "exclusion": [
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified"
+    ],
+    "symptoms": [
+        "memory loss",
+        "confusion",
+        "language difficulties",
+        "disorientation",
+        "impaired judgment"
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "icd10code": "O66.0",
+    "type": "subcategory",
+    "title": "Obstructed labour due to shoulder dystocia",
+    "chapter": "Pregnancy, childbirth and the puerperium",
+    "chapterCode": "XV",
+    "block": "Complications of labour and delivery",
+    "blockCode": "O60-O75",
+    "category": "Other obstructed labour",
+    "categoryCode": "O66",
+    "subcategory": "O66.0",
+    "inclusion": [
+        "Impacted shoulders"
+    ],
+    "exclusion": [
+        "Certain diseases or injuries complicating pregnancy, childbirth and the puerperium classified elsewhere: external causes (for mortality)",
+        "Certain diseases or injuries complicating pregnancy, childbirth and the puerperium classified elsewhere: injury, poisoning and certain other consequences of external cause",
+        "Certain diseases or injuries complicating pregnancy, childbirth and the puerperium classified elsewhere: mental and behavioural disorders associated with the puerperium",
+        "Certain diseases or injuries complicating pregnancy, childbirth and the puerperium classified elsewhere: obstetrical tetanus",
+        "Certain diseases or injuries complicating pregnancy, childbirth and the puerperium classified elsewhere: postpartum necrosis of pituitary gland",
+        "Certain diseases or injuries complicating pregnancy, childbirth and the puerperium classified elsewhere: puerperal osteomalacia",
+        "supervision of: high-risk pregnancy",
+        "supervision of: normal pregnancy"
+    ],
+    "symptoms": [
+        "prolonged labor",
+        "fetal distress",
+        "ineffective uterine contractions",
+        "maternal exhaustion",
+        "cervical dilation arrest"
+    ]
+}

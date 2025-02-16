@@ -1,0 +1,24 @@
+{
+  "type": "subcategory",
+  "chapterCode": "XX",
+  "chapter": "External causes of morbidity and mortality",
+  "blockCode": "Y60-Y69",
+  "block": "Misadventures to patients during surgical and medical care",
+  "categoryCode": "Y61",
+  "category": "Foreign object accidentally left in body during surgical and medical care",
+  "subcategory": "Y61.2",
+  "title": "During kidney dialysis or other perfusion",
+  "inclusion": [
+    "complications of medical devices",
+    "correct drug properly administered in therapeutic or prophylactic dosage as the cause of any adverse effect",
+    "misadventures to patients during surgical and medical care",
+    "surgical and medical procedures as the cause of abnormal reaction of the patient, or of later complication, without mention of misadventure at the time of the procedure"
+  ],
+  "exclusion": [
+    "accidental overdose of drug or wrong drug given or taken in error",
+    "breakdown or malfunctioning of medical device (during procedure)(after implantation)(ongoing use)",
+    "medical devices associated with adverse incidents due to external causes classified elsewhere",
+    "surgical and medical procedures as the cause of abnormal reaction of the patient, without mention of misadventure at the time of the procedure"
+  ],
+  "children": null
+}

@@ -1,0 +1,25 @@
+{
+    "icd10code": "F60.6",
+    "type": "subcategory",
+    "title": "Anxious [avoidant] personality disorder",
+    "chapter": "Mental and behavioural disorders",
+    "chapterCode": "V",
+    "block": "Disorders of adult personality and behaviour",
+    "blockCode": "F60-F69",
+    "category": "Specific personality disorders",
+    "categoryCode": "F60",
+    "subcategory": "F60.6",
+    "inclusion": [
+        "disorders of psychological development"
+    ],
+    "exclusion": [
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified"
+    ],
+    "symptoms": [
+        "hypersensitivity to rejection",
+        "unstable self-image",
+        "chronic feelings of emptiness",
+        "impulsive behavior",
+        "intense fear of abandonment"
+    ]
+}

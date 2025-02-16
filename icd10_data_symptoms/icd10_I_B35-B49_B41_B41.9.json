@@ -1,0 +1,33 @@
+{
+    "icd10code": "B41.9",
+    "type": "subcategory",
+    "title": "Paracoccidioidomycosis, unspecified",
+    "chapter": "Certain infectious and parasitic diseases",
+    "chapterCode": "I",
+    "block": "Mycoses",
+    "blockCode": "B35-B49",
+    "category": "Paracoccidioidomycosis",
+    "categoryCode": "B41",
+    "subcategory": "B41.9",
+    "inclusion": [
+        "diseases generally recognized as communicable or transmissible",
+        "Brazilian blastomycosis",
+        "Lutz disease"
+    ],
+    "exclusion": [
+        "carrier or suspected carrier of infectious disease",
+        "certain localized infections - see body system-related chapters",
+        "infectious and parasitic diseases complicating pregnancy, childbirth and the puerperium [except obstetrical tetanus]",
+        "infectious and parasitic diseases specific to the perinatal period [except tetanus neonatorum, whooping cough, congenital syphilis, perinatal gonococcal infection and perinatal human immunodeficiency virus [HIV] disease]",
+        "influenza and other acute respiratory infections",
+        "haemorrhagic fever with renal manifestations",
+        "monkeypox"
+    ],
+    "symptoms": [
+        "cough",
+        "fever",
+        "chest pain",
+        "shortness of breath",
+        "fatigue"
+    ]
+}

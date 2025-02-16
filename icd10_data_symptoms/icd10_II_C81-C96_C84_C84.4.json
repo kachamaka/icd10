@@ -1,0 +1,26 @@
+{
+    "icd10code": "C84.4",
+    "type": "subcategory",
+    "title": "Peripheral T-cell lymphoma, not elsewhere classified",
+    "chapter": "Neoplasms",
+    "chapterCode": "II",
+    "block": "Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",
+    "blockCode": "C81-C96",
+    "category": "Mature T/NK-cell lymphomas",
+    "categoryCode": "C84",
+    "subcategory": "C84.4",
+    "inclusion": [
+        "Lennert’s lymphoma",
+        "Lymphoepithelioid lymphoma"
+    ],
+    "exclusion": [
+        "secondary and unspecified neoplasm of lymph nodes"
+    ],
+    "symptoms": [
+        "night sweats",
+        "unexplained weight loss",
+        "frequent fever",
+        "constant fatigue",
+        "enlarged lymph nodes"
+    ]
+}

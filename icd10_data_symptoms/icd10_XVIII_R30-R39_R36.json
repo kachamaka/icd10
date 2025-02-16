@@ -1,0 +1,27 @@
+{
+    "icd10code": "R36",
+    "type": "category",
+    "title": "Urethral discharge",
+    "chapter": "Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+    "chapterCode": "XVIII",
+    "block": "Symptoms and signs involving the urinary system",
+    "blockCode": "R30-R39",
+    "category": "Urethral discharge",
+    "categoryCode": "R36",
+    "subcategory": "",
+    "inclusion": [
+        "Penile discharge",
+        "Urethrorrhoea"
+    ],
+    "exclusion": [
+        "abnormal findings on antenatal screening of mother",
+        "certain conditions originating in the perinatal period"
+    ],
+    "symptoms": [
+        "weak urine stream",
+        "difficulty urinating",
+        "incomplete bladder emptying",
+        "urinary dribbling",
+        "urinary hesitancy"
+    ]
+}

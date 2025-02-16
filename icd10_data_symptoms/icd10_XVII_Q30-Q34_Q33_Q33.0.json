@@ -1,0 +1,28 @@
+{
+    "icd10code": "Q33.0",
+    "type": "subcategory",
+    "title": "Congenital cystic lung",
+    "chapter": "Congenital malformations, deformations and chromosomal abnormalities",
+    "chapterCode": "XVII",
+    "block": "Congenital malformations of the respiratory system",
+    "blockCode": "Q30-Q34",
+    "category": "Congenital malformations of lung",
+    "categoryCode": "Q33",
+    "subcategory": "Q33.0",
+    "inclusion": [
+        "Congenital: honeycomb lung",
+        "Congenital: lung disease: cystic",
+        "Congenital: lung disease: polycystic"
+    ],
+    "exclusion": [
+        "inborn errors of metabolism",
+        "cystic lung disease, acquired or unspecified"
+    ],
+    "symptoms": [
+        "shortness of breath",
+        "recurrent respiratory infections",
+        "chest pain",
+        "cyanosis",
+        "failure to thrive"
+    ]
+}

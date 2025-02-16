@@ -1,0 +1,24 @@
+{
+  "type": "category",
+  "chapterCode": "XIX",
+  "chapter": "Injury, poisoning and certain other consequences of external causes",
+  "blockCode": "T90-T98",
+  "block": "Sequelae of injuries, of poisoning and of other consequences of external causes",
+  "categoryCode": "T96",
+  "category": "Sequelae of poisoning by drugs, medicaments and biological substances",
+  "subcategory": "",
+  "title": "Sequelae of poisoning by drugs, medicaments and biological substances",
+  "inclusion": [
+    "Sequelae of poisoning classifiable to T36-T50"
+  ],
+  "exclusion": [
+    "birth trauma",
+    "obstetric trauma",
+    "malunion of fracture",
+    "nonunion of fracture [pseudarthrosis]",
+    "pathological fracture",
+    "pathological fracture with osteoporosis",
+    "stress fracture"
+  ],
+  "children": null
+}

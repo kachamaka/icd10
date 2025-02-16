@@ -1,0 +1,23 @@
+{
+    "icd10code": "C13.0",
+    "type": "subcategory",
+    "title": "Malignant neoplasm: Postcricoid region",
+    "chapter": "Neoplasms",
+    "chapterCode": "II",
+    "block": "Malignant neoplasms of lip, oral cavity and pharynx",
+    "blockCode": "C00-C14",
+    "category": "Malignant neoplasm of hypopharynx",
+    "categoryCode": "C13",
+    "subcategory": "C13.0",
+    "inclusion": null,
+    "exclusion": [
+        "piriform sinus"
+    ],
+    "symptoms": [
+        "difficulty swallowing",
+        "sore throat",
+        "weight loss",
+        "ear pain",
+        "voice changes"
+    ]
+}

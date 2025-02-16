@@ -1,0 +1,18 @@
+{
+  "type": "subcategory",
+  "chapterCode": "II",
+  "chapter": "Neoplasms",
+  "blockCode": "D37-D48",
+  "block": "Neoplasms of uncertain or unknown behaviour",
+  "categoryCode": "D43",
+  "category": "Neoplasm of uncertain or unknown behaviour of brain and central nervous system",
+  "subcategory": "D43.9",
+  "title": "Neoplasm of uncertain or unknown behaviour: Central nervous system, unspecified",
+  "inclusion": [
+    "Nervous system (central) NOS"
+  ],
+  "exclusion": [
+    "peripheral nerves and autonomic nervous system"
+  ],
+  "children": null
+}

@@ -1,0 +1,27 @@
+{
+  "type": "subcategory",
+  "chapterCode": "V",
+  "chapter": "Mental and behavioural disorders",
+  "blockCode": "F00-F09",
+  "block": "Organic, including symptomatic, mental disorders",
+  "categoryCode": "F06",
+  "category": "Other mental disorders due to brain damage and dysfunction and to physical disease",
+  "subcategory": "F06.2",
+  "title": "Organic delusional [schizophrenia-like] disorder",
+  "inclusion": [
+    "disorders of psychological development",
+    "Paranoid and paranoid-hallucinatory organic states",
+    "Schizophrenia-like psychosis in epilepsy"
+  ],
+  "exclusion": [
+    "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+    "associated with: delirium",
+    "associated with: dementia as classified in F00-F03",
+    "resulting from use of alcohol and other psychoactive substances",
+    "disorder: acute and transient psychotic",
+    "disorder: persistent delusional",
+    "disorder: psychotic drug-induced",
+    "schizophrenia"
+  ],
+  "children": null
+}

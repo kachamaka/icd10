@@ -1,0 +1,28 @@
+{
+    "icd10code": "R45.8",
+    "type": "subcategory",
+    "title": "Other symptoms and signs involving emotional state",
+    "chapter": "Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+    "chapterCode": "XVIII",
+    "block": "Symptoms and signs involving cognition, perception, emotional state and behaviour",
+    "blockCode": "R40-R46",
+    "category": "Symptoms and signs involving emotional state",
+    "categoryCode": "R45",
+    "subcategory": "R45.8",
+    "inclusion": [
+        "Suicidal ideation (tendencies)"
+    ],
+    "exclusion": [
+        "abnormal findings on antenatal screening of mother",
+        "certain conditions originating in the perinatal period",
+        "those constituting part of a pattern of mental disorder",
+        "signs and symptoms constituting part of a mental disorder"
+    ],
+    "symptoms": [
+        "mood swings",
+        "irritability",
+        "emotional instability",
+        "feelings of hopelessness",
+        "anxiety"
+    ]
+}

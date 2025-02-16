@@ -1,0 +1,24 @@
+{
+    "icd10code": "Q84.3",
+    "type": "subcategory",
+    "title": "Anonychia",
+    "chapter": "Congenital malformations, deformations and chromosomal abnormalities",
+    "chapterCode": "XVII",
+    "block": "Other congenital malformations",
+    "blockCode": "Q80-Q89",
+    "category": "Other congenital malformations of integument",
+    "categoryCode": "Q84",
+    "subcategory": "Q84.3",
+    "inclusion": null,
+    "exclusion": [
+        "inborn errors of metabolism",
+        "nail patella syndrome"
+    ],
+    "symptoms": [
+        "abnormal hair growth",
+        "sparse scalp hair",
+        "brittle hair",
+        "slow hair growth",
+        "patchy hair loss"
+    ]
+}

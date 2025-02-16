@@ -1,0 +1,21 @@
+{
+    "icd10code": "Z40.0",
+    "type": "subcategory",
+    "title": "Prophylactic surgery for risk-factors related to malignant neoplasms",
+    "chapter": "Factors influencing health status and contact with health services",
+    "chapterCode": "XXI",
+    "block": "Persons encountering health services for specific procedures and health care",
+    "blockCode": "Z40-Z54",
+    "category": "Prophylactic surgery",
+    "categoryCode": "Z40",
+    "subcategory": "Z40.0",
+    "inclusion": [
+        "Admission for prophylactic organ removal"
+    ],
+    "exclusion": [
+        "follow-up examination for medical surveillance after treatment"
+    ],
+    "symptoms": [
+        "asymptomatic"
+    ]
+}

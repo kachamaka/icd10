@@ -1,0 +1,53 @@
+{
+    "icd10code": "L25.3",
+    "type": "subcategory",
+    "title": "Unspecified contact dermatitis due to other chemical products",
+    "chapter": "Diseases of the skin and subcutaneous tissue",
+    "chapterCode": "XII",
+    "block": "Dermatitis and eczema",
+    "blockCode": "L20-L30",
+    "category": "Unspecified contact dermatitis",
+    "categoryCode": "L25",
+    "subcategory": "L25.3",
+    "inclusion": [
+        "unspecified contact eczema",
+        "Cement",
+        "Insecticide"
+    ],
+    "exclusion": [
+        "certain conditions originating in the perinatal period",
+        "certain infectious and parasitic diseases",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "lipomelanotic reticulosis",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "systemic connective tissue disorders",
+        "chronic (childhood) granulomatous disease",
+        "dermatitis: dry skin",
+        "dermatitis: factitial",
+        "dermatitis: gangrenosa",
+        "dermatitis: herpetiformis",
+        "dermatitis: perioral",
+        "dermatitis: stasis",
+        "radiation-related disorders of the skin and subcutaneous tissue",
+        "dermatitis: contact",
+        "dermatitis: dry skin",
+        "small plaque parapsoriasis",
+        "stasis dermatitis",
+        "drug: photoallergic response",
+        "drug: phototoxic response",
+        "urticaria",
+        "dermatitis (of): perioral",
+        "eczema of external ear"
+    ],
+    "symptoms": [
+        "itching",
+        "redness",
+        "swelling",
+        "blistering",
+        "rash"
+    ]
+}

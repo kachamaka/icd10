@@ -1,0 +1,14 @@
+{
+  "type": "subcategory",
+  "chapterCode": "II",
+  "chapter": "Neoplasms",
+  "blockCode": "D37-D48",
+  "block": "Neoplasms of uncertain or unknown behaviour",
+  "categoryCode": "D41",
+  "category": "Neoplasm of uncertain or unknown behaviour of urinary organs",
+  "subcategory": "D41.1",
+  "title": "Neoplasm of uncertain or unknown behaviour: Renal pelvis",
+  "inclusion": null,
+  "exclusion": null,
+  "children": null
+}

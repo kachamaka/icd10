@@ -1,0 +1,21 @@
+{
+  "type": "subcategory",
+  "chapterCode": "II",
+  "chapter": "Neoplasms",
+  "blockCode": "C30-C39",
+  "block": "Malignant neoplasms of respiratory and intrathoracic organs",
+  "categoryCode": "C38",
+  "category": "Malignant neoplasm of heart, mediastinum and pleura",
+  "subcategory": "C38.0",
+  "title": "Malignant neoplasm: Heart",
+  "inclusion": [
+    "middle ear",
+    "Pericardium"
+  ],
+  "exclusion": [
+    "mesothelioma",
+    "mesothelioma",
+    "great vessels"
+  ],
+  "children": null
+}

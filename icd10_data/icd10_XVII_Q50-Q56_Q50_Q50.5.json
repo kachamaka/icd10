@@ -1,0 +1,23 @@
+{
+  "type": "subcategory",
+  "chapterCode": "XVII",
+  "chapter": "Congenital malformations, deformations and chromosomal abnormalities",
+  "blockCode": "Q50-Q56",
+  "block": "Congenital malformations of genital organs",
+  "categoryCode": "Q50",
+  "category": "Congenital malformations of ovaries, fallopian tubes and broad ligaments",
+  "subcategory": "Q50.5",
+  "title": "Embryonic cyst of broad ligament",
+  "inclusion": [
+    "Cyst: epoophoron",
+    "Cyst: Gartner duct",
+    "Cyst: parovarian"
+  ],
+  "exclusion": [
+    "inborn errors of metabolism",
+    "androgen resistance syndrome",
+    "syndromes associated with anomalies in the number and form of chromosomes",
+    "testicular feminization syndrome"
+  ],
+  "children": null
+}

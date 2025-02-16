@@ -1,0 +1,20 @@
+{
+  "type": "subcategory",
+  "chapterCode": "XX",
+  "chapter": "External causes of morbidity and mortality",
+  "blockCode": "Y35-Y36",
+  "block": "Legal intervention and operations of war",
+  "categoryCode": "Y36",
+  "category": "Operations of war",
+  "subcategory": "Y36.1",
+  "title": "War operations involving destruction of aircraft",
+  "inclusion": [
+    "injuries to military personnel and civilians caused by war and civil insurrection",
+    "Aircraft: burned",
+    "Aircraft: exploded",
+    "Aircraft: shot down",
+    "Crushed by falling aircraft"
+  ],
+  "exclusion": null,
+  "children": null
+}

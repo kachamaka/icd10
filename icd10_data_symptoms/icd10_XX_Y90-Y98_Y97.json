@@ -1,0 +1,17 @@
+{
+    "icd10code": "Y97",
+    "type": "category",
+    "title": "Environmental-pollution-related condition",
+    "chapter": "External causes of morbidity and mortality",
+    "chapterCode": "XX",
+    "block": "Supplementary factors related to causes of morbidity and mortality classified elsewhere",
+    "blockCode": "Y90-Y98",
+    "category": "Environmental-pollution-related condition",
+    "categoryCode": "Y97",
+    "subcategory": "",
+    "inclusion": null,
+    "exclusion": null,
+    "symptoms": [
+        "asymptomatic"
+    ]
+}

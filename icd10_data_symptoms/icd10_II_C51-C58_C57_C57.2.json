@@ -1,0 +1,23 @@
+{
+    "icd10code": "C57.2",
+    "type": "subcategory",
+    "title": "Malignant neoplasm: Round ligament",
+    "chapter": "Neoplasms",
+    "chapterCode": "II",
+    "block": "Malignant neoplasms of female genital organs",
+    "blockCode": "C51-C58",
+    "category": "Malignant neoplasm of other and unspecified female genital organs",
+    "categoryCode": "C57",
+    "subcategory": "C57.2",
+    "inclusion": [
+        "skin of female genital organs"
+    ],
+    "exclusion": null,
+    "symptoms": [
+        "abdominal pain",
+        "unusual vaginal bleeding",
+        "painful intercourse",
+        "pelvic pain",
+        "vaginal mass"
+    ]
+}

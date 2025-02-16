@@ -1,0 +1,35 @@
+{
+    "icd10code": "O89.4",
+    "type": "subcategory",
+    "title": "Spinal and epidural anaesthesia-induced headache during the puerperium",
+    "chapter": "Pregnancy, childbirth and the puerperium",
+    "chapterCode": "XV",
+    "block": "Complications predominantly related to the puerperium",
+    "blockCode": "O85-O92",
+    "category": "Complications of anaesthesia during the puerperium",
+    "categoryCode": "O89",
+    "subcategory": "O89.4",
+    "inclusion": [
+        "maternal complications arising from the administration of a general or local anaesthetic, analgesic or other sedation during the puerperium"
+    ],
+    "exclusion": [
+        "Certain diseases or injuries complicating pregnancy, childbirth and the puerperium classified elsewhere: external causes (for mortality)",
+        "Certain diseases or injuries complicating pregnancy, childbirth and the puerperium classified elsewhere: injury, poisoning and certain other consequences of external cause",
+        "Certain diseases or injuries complicating pregnancy, childbirth and the puerperium classified elsewhere: mental and behavioural disorders associated with the puerperium",
+        "Certain diseases or injuries complicating pregnancy, childbirth and the puerperium classified elsewhere: obstetrical tetanus",
+        "Certain diseases or injuries complicating pregnancy, childbirth and the puerperium classified elsewhere: postpartum necrosis of pituitary gland",
+        "Certain diseases or injuries complicating pregnancy, childbirth and the puerperium classified elsewhere: puerperal osteomalacia",
+        "supervision of: high-risk pregnancy",
+        "supervision of: normal pregnancy",
+        "mental and behavioural disorders associated with the puerperium",
+        "obstetrical tetanus",
+        "puerperal osteomalacia"
+    ],
+    "symptoms": [
+        "shortness of breath",
+        "chest pain",
+        "dizziness",
+        "lightheadedness",
+        "rapid heart rate"
+    ]
+}

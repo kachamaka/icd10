@@ -1,0 +1,21 @@
+{
+    "icd10code": "U29.9",
+    "type": "subcategory",
+    "title": "Emergency use of U29.9",
+    "chapter": "Codes for special purposes",
+    "chapterCode": "XXII",
+    "block": "Provisional assignment of new diseases of uncertain etiology or emergency use",
+    "blockCode": "U00-U49",
+    "category": "Emergency use of U29",
+    "categoryCode": "U29",
+    "subcategory": "U29.9",
+    "inclusion": null,
+    "exclusion": null,
+    "symptoms": [
+        "fever",
+        "cough",
+        "shortness of breath",
+        "fatigue",
+        "muscle ache"
+    ]
+}

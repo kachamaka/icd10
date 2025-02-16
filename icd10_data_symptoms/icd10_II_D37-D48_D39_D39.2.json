@@ -1,0 +1,27 @@
+{
+    "icd10code": "D39.2",
+    "type": "subcategory",
+    "title": "Neoplasm of uncertain or unknown behaviour: Placenta",
+    "chapter": "Neoplasms",
+    "chapterCode": "II",
+    "block": "Neoplasms of uncertain or unknown behaviour",
+    "blockCode": "D37-D48",
+    "category": "Neoplasm of uncertain or unknown behaviour of female genital organs",
+    "categoryCode": "D39",
+    "subcategory": "D39.2",
+    "inclusion": [
+        "Chorioadenoma destruens",
+        "Hydatidiform mole: invasive",
+        "Hydatidiform mole: malignant"
+    ],
+    "exclusion": [
+        "hydatidiform mole NOS"
+    ],
+    "symptoms": [
+        "abdominal pain",
+        "vaginal bleeding",
+        "bloating",
+        "pelvic discomfort",
+        "frequent urination"
+    ]
+}

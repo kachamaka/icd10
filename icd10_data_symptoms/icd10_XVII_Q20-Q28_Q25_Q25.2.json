@@ -1,0 +1,23 @@
+{
+    "icd10code": "Q25.2",
+    "type": "subcategory",
+    "title": "Atresia of aorta",
+    "chapter": "Congenital malformations, deformations and chromosomal abnormalities",
+    "chapterCode": "XVII",
+    "block": "Congenital malformations of the circulatory system",
+    "blockCode": "Q20-Q28",
+    "category": "Congenital malformations of great arteries",
+    "categoryCode": "Q25",
+    "subcategory": "Q25.2",
+    "inclusion": null,
+    "exclusion": [
+        "inborn errors of metabolism"
+    ],
+    "symptoms": [
+        "heart murmur",
+        "cyanosis",
+        "fatigue",
+        "shortness of breath",
+        "poor growth in infants"
+    ]
+}

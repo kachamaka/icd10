@@ -1,0 +1,25 @@
+{
+    "icd10code": "C18.7",
+    "type": "subcategory",
+    "title": "Malignant neoplasm: Sigmoid colon",
+    "chapter": "Neoplasms",
+    "chapterCode": "II",
+    "block": "Malignant neoplasms of digestive organs",
+    "blockCode": "C15-C26",
+    "category": "Malignant neoplasm of colon",
+    "categoryCode": "C18",
+    "subcategory": "C18.7",
+    "inclusion": [
+        "Sigmoid (flexure)"
+    ],
+    "exclusion": [
+        "rectosigmoid junction"
+    ],
+    "symptoms": [
+        "abdominal pain",
+        "blood in stool",
+        "unexplained weight loss",
+        "change in bowel habits",
+        "fatigue"
+    ]
+}

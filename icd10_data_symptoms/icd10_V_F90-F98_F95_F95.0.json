@@ -1,0 +1,25 @@
+{
+    "icd10code": "F95.0",
+    "type": "subcategory",
+    "title": "Transient tic disorder",
+    "chapter": "Mental and behavioural disorders",
+    "chapterCode": "V",
+    "block": "Behavioural and emotional disorders with onset usually occurring in childhood and adolescence",
+    "blockCode": "F90-F98",
+    "category": "Tic disorders",
+    "categoryCode": "F95",
+    "subcategory": "F95.0",
+    "inclusion": [
+        "disorders of psychological development"
+    ],
+    "exclusion": [
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified"
+    ],
+    "symptoms": [
+        "motor tics",
+        "vocal tics",
+        "eye blinking",
+        "grimacing",
+        "throat clearing"
+    ]
+}

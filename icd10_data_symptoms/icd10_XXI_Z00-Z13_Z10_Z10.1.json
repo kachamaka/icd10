@@ -1,0 +1,21 @@
+{
+    "icd10code": "Z10.1",
+    "type": "subcategory",
+    "title": "Routine general health check-up of inhabitants of institutions",
+    "chapter": "Factors influencing health status and contact with health services",
+    "chapterCode": "XXI",
+    "block": "Persons encountering health services for examination and investigation",
+    "blockCode": "Z00-Z13",
+    "category": "Routine general health check-up of defined subpopulation",
+    "categoryCode": "Z10",
+    "subcategory": "Z10.1",
+    "inclusion": null,
+    "exclusion": [
+        "examinations related to pregnancy and reproduction",
+        "medical examination for administrative purposes",
+        "admission examination"
+    ],
+    "symptoms": [
+        "asymptomatic"
+    ]
+}

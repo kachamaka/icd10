@@ -1,0 +1,26 @@
+{
+    "icd10code": "X30",
+    "type": "category",
+    "title": "Exposure to excessive natural heat",
+    "chapter": "External causes of morbidity and mortality",
+    "chapterCode": "XX",
+    "block": "Exposure to forces of nature",
+    "blockCode": "X30-X39",
+    "category": "Exposure to excessive natural heat",
+    "categoryCode": "X30",
+    "subcategory": "",
+    "inclusion": [
+        "excessive heat as the cause of sunstroke",
+        "exposure to heat NOS"
+    ],
+    "exclusion": [
+        "excessive heat of man-made origin"
+    ],
+    "symptoms": [
+        "dehydration",
+        "fatigue",
+        "dizziness",
+        "nausea",
+        "rapid heartbeat"
+    ]
+}

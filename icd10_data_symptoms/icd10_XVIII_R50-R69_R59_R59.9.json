@@ -1,0 +1,30 @@
+{
+    "icd10code": "R59.9",
+    "type": "subcategory",
+    "title": "Enlarged lymph nodes, unspecified",
+    "chapter": "Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+    "chapterCode": "XVIII",
+    "block": "General symptoms and signs",
+    "blockCode": "R50-R69",
+    "category": "Enlarged lymph nodes",
+    "categoryCode": "R59",
+    "subcategory": "R59.9",
+    "inclusion": [
+        "swollen glands"
+    ],
+    "exclusion": [
+        "abnormal findings on antenatal screening of mother",
+        "certain conditions originating in the perinatal period",
+        "lymphadenitis: NOS",
+        "lymphadenitis: acute",
+        "lymphadenitis: chronic",
+        "lymphadenitis: mesenteric (acute)(chronic)"
+    ],
+    "symptoms": [
+        "swollen lymph nodes",
+        "tenderness in lymph nodes",
+        "fatigue",
+        "fever",
+        "night sweats"
+    ]
+}

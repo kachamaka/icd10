@@ -1,0 +1,22 @@
+{
+  "type": "subcategory",
+  "chapterCode": "II",
+  "chapter": "Neoplasms",
+  "blockCode": "D00-D09",
+  "block": "In situ neoplasms",
+  "categoryCode": "D04",
+  "category": "Carcinoma in situ of skin",
+  "subcategory": "D04.9",
+  "title": "Carcinoma in situ: Skin, unspecified",
+  "inclusion": [
+    "Bowen disease",
+    "erythroplasia",
+    "morphology codes with behaviour code /2",
+    "Queyrat erythroplasia"
+  ],
+  "exclusion": [
+    "erythroplasia of Queyrat (penis) NOS",
+    "melanoma in situ"
+  ],
+  "children": null
+}

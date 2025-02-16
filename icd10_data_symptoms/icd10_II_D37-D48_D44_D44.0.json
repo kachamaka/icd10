@@ -1,0 +1,26 @@
+{
+    "icd10code": "D44.0",
+    "type": "subcategory",
+    "title": "Neoplasm of uncertain or unknown behaviour: Thyroid gland",
+    "chapter": "Neoplasms",
+    "chapterCode": "II",
+    "block": "Neoplasms of uncertain or unknown behaviour",
+    "blockCode": "D37-D48",
+    "category": "Neoplasm of uncertain or unknown behaviour of endocrine glands",
+    "categoryCode": "D44",
+    "subcategory": "D44.0",
+    "inclusion": null,
+    "exclusion": [
+        "endocrine pancreas",
+        "ovary",
+        "testis",
+        "thymus"
+    ],
+    "symptoms": [
+        "neck lump or swelling",
+        "difficulty swallowing",
+        "voice changes",
+        "throat pain",
+        "persistent cough"
+    ]
+}

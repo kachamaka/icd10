@@ -1,0 +1,24 @@
+{
+    "icd10code": "C65",
+    "type": "category",
+    "title": "Malignant neoplasm of renal pelvis",
+    "chapter": "Neoplasms",
+    "chapterCode": "II",
+    "block": "Malignant neoplasms of urinary tract",
+    "blockCode": "C64-C68",
+    "category": "Malignant neoplasm of renal pelvis",
+    "categoryCode": "C65",
+    "subcategory": "",
+    "inclusion": [
+        "Pelviureteric junction",
+        "Renal calyces"
+    ],
+    "exclusion": null,
+    "symptoms": [
+        "hematuria",
+        "pain in the flank area",
+        "frequent urination",
+        "unexplained weight loss",
+        "persistent low back pain"
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "icd10code": "E16.8",
+    "type": "subcategory",
+    "title": "Other specified disorders of pancreatic internal secretion",
+    "chapter": "Endocrine, nutritional and metabolic diseases",
+    "chapterCode": "IV",
+    "block": "Other disorders of glucose regulation and pancreatic internal secretion",
+    "blockCode": "E15-E16",
+    "category": "Other disorders of pancreatic internal secretion",
+    "categoryCode": "E16",
+    "subcategory": "E16.8",
+    "inclusion": [
+        "Increased secretion from endocrine pancreas of: growth hormone-releasing hormone",
+        "Increased secretion from endocrine pancreas of: pancreatic polypeptide",
+        "Increased secretion from endocrine pancreas of: somatostatin",
+        "Increased secretion from endocrine pancreas of: vasoactive-intestinal polypeptide"
+    ],
+    "exclusion": [
+        "complications of pregnancy, childbirth and the puerperium",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "transitory endocrine and metabolic disorders specific to fetus and newborn"
+    ],
+    "symptoms": [
+        "excessive hunger",
+        "persistent fatigue",
+        "unexplained weight loss",
+        "frequent urination",
+        "blurry vision"
+    ]
+}

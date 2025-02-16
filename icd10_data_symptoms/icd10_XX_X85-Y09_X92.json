@@ -1,0 +1,27 @@
+{
+    "icd10code": "X92",
+    "type": "category",
+    "title": "Assault by drowning and submersion",
+    "chapter": "External causes of morbidity and mortality",
+    "chapterCode": "XX",
+    "block": "Assault",
+    "blockCode": "X85-Y09",
+    "category": "Assault by drowning and submersion",
+    "categoryCode": "X92",
+    "subcategory": "",
+    "inclusion": [
+        "homicide",
+        "injuries inflicted by another person with intent to injure or kill, by any means"
+    ],
+    "exclusion": [
+        "injuries due to: legal intervention",
+        "injuries due to: operations of war"
+    ],
+    "symptoms": [
+        "bruising",
+        "lacerations",
+        "swelling",
+        "pain",
+        "shock"
+    ]
+}

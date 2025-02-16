@@ -1,0 +1,51 @@
+{
+  "type": "modifiedcategory",
+  "chapterCode": "I",
+  "chapter": "Certain infectious and parasitic diseases",
+  "blockCode": "B15-B19",
+  "block": "Viral hepatitis",
+  "categoryCode": "B18",
+  "category": "Chronic viral hepatitis",
+  "subcategory": "B18.1",
+  "title": "Chronic viral hepatitis B without delta-agent : other and unspecified phase",
+  "inclusion": [
+    "diseases generally recognized as communicable or transmissible",
+    "Hepatitis B (viral) NOS"
+  ],
+  "exclusion": [
+    "carrier or suspected carrier of infectious disease",
+    "certain localized infections - see body system-related chapters",
+    "infectious and parasitic diseases complicating pregnancy, childbirth and the puerperium [except obstetrical tetanus]",
+    "infectious and parasitic diseases specific to the perinatal period [except tetanus neonatorum, whooping cough, congenital syphilis, perinatal gonococcal infection and perinatal human immunodeficiency virus [HIV] disease]",
+    "influenza and other acute respiratory infections",
+    "internal hirudiniasis",
+    "monkeypox",
+    "when mixed with Plasmodium: falciparum"
+  ],
+  "children": null
+}{
+  "type": "modifiedcategory",
+  "chapterCode": "I",
+  "chapter": "Certain infectious and parasitic diseases",
+  "blockCode": "B15-B19",
+  "block": "Viral hepatitis",
+  "categoryCode": "B18",
+  "category": "Chronic viral hepatitis",
+  "subcategory": "B18.1",
+  "title": "Chronic viral hepatitis B without delta-agent : immune-tolerant phase",
+  "inclusion": [
+    "diseases generally recognized as communicable or transmissible",
+    "Hepatitis B (viral) NOS"
+  ],
+  "exclusion": [
+    "carrier or suspected carrier of infectious disease",
+    "certain localized infections - see body system-related chapters",
+    "infectious and parasitic diseases complicating pregnancy, childbirth and the puerperium [except obstetrical tetanus]",
+    "infectious and parasitic diseases specific to the perinatal period [except tetanus neonatorum, whooping cough, congenital syphilis, perinatal gonococcal infection and perinatal human immunodeficiency virus [HIV] disease]",
+    "influenza and other acute respiratory infections",
+    "internal hirudiniasis",
+    "monkeypox",
+    "when mixed with Plasmodium: falciparum"
+  ],
+  "children": null
+}

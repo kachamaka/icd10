@@ -1,0 +1,25 @@
+{
+    "icd10code": "C13.9",
+    "type": "subcategory",
+    "title": "Malignant neoplasm: Hypopharynx, unspecified",
+    "chapter": "Neoplasms",
+    "chapterCode": "II",
+    "block": "Malignant neoplasms of lip, oral cavity and pharynx",
+    "blockCode": "C00-C14",
+    "category": "Malignant neoplasm of hypopharynx",
+    "categoryCode": "C13",
+    "subcategory": "C13.9",
+    "inclusion": [
+        "Hypopharyngeal wall NOS"
+    ],
+    "exclusion": [
+        "piriform sinus"
+    ],
+    "symptoms": [
+        "difficulty swallowing",
+        "hoarseness",
+        "unintended weight loss",
+        "persistent throat discomfort",
+        "coughing up blood"
+    ]
+}

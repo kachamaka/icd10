@@ -1,0 +1,25 @@
+{
+    "icd10code": "C43.8",
+    "type": "subcategory",
+    "title": "Malignant neoplasm: Overlapping malignant melanoma of skin",
+    "chapter": "Neoplasms",
+    "chapterCode": "II",
+    "block": "Melanoma and other malignant neoplasms of skin",
+    "blockCode": "C43-C44",
+    "category": "Malignant melanoma of skin",
+    "categoryCode": "C43",
+    "subcategory": "C43.8",
+    "inclusion": [
+        "morphology codes M872-M879 with behaviour code /3"
+    ],
+    "exclusion": [
+        "malignant melanoma of skin of genital organs"
+    ],
+    "symptoms": [
+        "irregular skin lesions",
+        "unusual skin pigmentation",
+        "rapid growth of a mole",
+        "itchiness or pain in a mole",
+        "breakdown of skin over a mole"
+    ]
+}

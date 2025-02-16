@@ -1,0 +1,31 @@
+{
+    "icd10code": "G36.1",
+    "type": "subcategory",
+    "title": "Acute and subacute haemorrhagic leukoencephalitis [Hurst]",
+    "chapter": "Diseases of the nervous system",
+    "chapterCode": "VI",
+    "block": "Demyelinating diseases of the central nervous system",
+    "blockCode": "G35-G37",
+    "category": "Other acute disseminated demyelination",
+    "categoryCode": "G36",
+    "subcategory": "G36.1",
+    "inclusion": null,
+    "exclusion": [
+        "certain conditions originating in the perinatal period",
+        "certain infectious and parasitic diseases",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "postinfectious encephalitis and encephalomyelitis NOS"
+    ],
+    "symptoms": [
+        "neurological symptoms like weakness",
+        "vision problems",
+        "ataxia",
+        "numbness",
+        "cognitive difficulties"
+    ]
+}

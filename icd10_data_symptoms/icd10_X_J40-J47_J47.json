@@ -1,0 +1,36 @@
+{
+    "icd10code": "J47",
+    "type": "category",
+    "title": "Bronchiectasis",
+    "chapter": "Diseases of the respiratory system",
+    "chapterCode": "X",
+    "block": "Chronic lower respiratory diseases",
+    "blockCode": "J40-J47",
+    "category": "Bronchiectasis",
+    "categoryCode": "J47",
+    "subcategory": "",
+    "inclusion": [
+        "Bronchiolectasis"
+    ],
+    "exclusion": [
+        "certain conditions originating in the perinatal period",
+        "certain infectious and parasitic diseases",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "cystic fibrosis",
+        "respiratory infection NOS",
+        "congenital bronchiectasis",
+        "tuberculous bronchiectasis (current disease)"
+    ],
+    "symptoms": [
+        "chronic cough",
+        "sputum production",
+        "wheezing",
+        "shortness of breath",
+        "recurrent respiratory infections"
+    ]
+}

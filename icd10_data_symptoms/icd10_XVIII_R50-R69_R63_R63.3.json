@@ -1,0 +1,31 @@
+{
+    "icd10code": "R63.3",
+    "type": "subcategory",
+    "title": "Feeding difficulties and mismanagement",
+    "chapter": "Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+    "chapterCode": "XVIII",
+    "block": "General symptoms and signs",
+    "blockCode": "R50-R69",
+    "category": "Symptoms and signs concerning food and fluid intake",
+    "categoryCode": "R63",
+    "subcategory": "R63.3",
+    "inclusion": [
+        "Feeding problem NOS"
+    ],
+    "exclusion": [
+        "abnormal findings on antenatal screening of mother",
+        "certain conditions originating in the perinatal period",
+        "bulimia NOS",
+        "eating disorders of nonorganic origin",
+        "malnutrition",
+        "feeding problems of newborn",
+        "infant feeding disorder of nonorganic origin"
+    ],
+    "symptoms": [
+        "decreased appetite",
+        "weight loss",
+        "fatigue",
+        "weakness",
+        "malnutrition"
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "icd10code": "Z95.4",
+    "type": "subcategory",
+    "title": "Presence of other heart-valve replacement",
+    "chapter": "Factors influencing health status and contact with health services",
+    "chapterCode": "XXI",
+    "block": "Persons with potential health hazards related to family and personal history and certain conditions influencing health status",
+    "blockCode": "Z80-Z99",
+    "category": "Presence of cardiac and vascular implants and grafts",
+    "categoryCode": "Z95",
+    "subcategory": "Z95.4",
+    "inclusion": null,
+    "exclusion": [
+        "follow-up examination",
+        "follow-up medical care and convalescence",
+        "when family or personal history is the reason for special screening or other examination or investigation",
+        "when the possibility that the fetus might be affected is the reason for observation or action during pregnancy",
+        "complications of cardiac and vascular devices, implants and grafts"
+    ],
+    "symptoms": [
+        "asymptomatic"
+    ]
+}

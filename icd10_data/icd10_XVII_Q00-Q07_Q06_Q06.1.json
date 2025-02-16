@@ -1,0 +1,20 @@
+{
+  "type": "subcategory",
+  "chapterCode": "XVII",
+  "chapter": "Congenital malformations, deformations and chromosomal abnormalities",
+  "blockCode": "Q00-Q07",
+  "block": "Congenital malformations of the nervous system",
+  "categoryCode": "Q06",
+  "category": "Other congenital malformations of spinal cord",
+  "subcategory": "Q06.1",
+  "title": "Hypoplasia and dysplasia of spinal cord",
+  "inclusion": [
+    "Atelomyelia",
+    "Myelatelia",
+    "Myelodysplasia of spinal cord"
+  ],
+  "exclusion": [
+    "inborn errors of metabolism"
+  ],
+  "children": null
+}

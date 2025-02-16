@@ -1,0 +1,29 @@
+{
+    "icd10code": "Q21.8",
+    "type": "subcategory",
+    "title": "Other congenital malformations of cardiac septa",
+    "chapter": "Congenital malformations, deformations and chromosomal abnormalities",
+    "chapterCode": "XVII",
+    "block": "Congenital malformations of the circulatory system",
+    "blockCode": "Q20-Q28",
+    "category": "Congenital malformations of cardiac septa",
+    "categoryCode": "Q21",
+    "subcategory": "Q21.8",
+    "inclusion": [
+        "Eisenmenger defect",
+        "Pentalogy of Fallot"
+    ],
+    "exclusion": [
+        "inborn errors of metabolism",
+        "acquired cardiac septal defect",
+        "Eisenmenger complex",
+        "Eisenmenger syndrome"
+    ],
+    "symptoms": [
+        "heart murmur",
+        "fatigue",
+        "shortness of breath",
+        "cyanosis",
+        "poor growth"
+    ]
+}

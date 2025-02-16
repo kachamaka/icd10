@@ -1,0 +1,23 @@
+{
+    "icd10code": "Y35.1",
+    "type": "subcategory",
+    "title": "Legal intervention involving explosives",
+    "chapter": "External causes of morbidity and mortality",
+    "chapterCode": "XX",
+    "block": "Legal intervention and operations of war",
+    "blockCode": "Y35-Y36",
+    "category": "Legal intervention",
+    "categoryCode": "Y35",
+    "subcategory": "Y35.1",
+    "inclusion": [
+        "injuries inflicted by the police or other law-enforcing agents, including military on duty, in the course of arresting or attempting to arrest lawbreakers, suppressing disturbances, maintaining order, and other legal action",
+        "Legal intervention with: dynamite",
+        "Legal intervention with: explosive shell",
+        "Legal intervention with: grenade",
+        "Legal intervention with: mortar bomb"
+    ],
+    "exclusion": null,
+    "symptoms": [
+        "asymptomatic"
+    ]
+}

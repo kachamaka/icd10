@@ -1,0 +1,27 @@
+{
+    "icd10code": "C84.9",
+    "type": "subcategory",
+    "title": "Mature T/NK-cell lymphoma, unspecified",
+    "chapter": "Neoplasms",
+    "chapterCode": "II",
+    "block": "Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",
+    "blockCode": "C81-C96",
+    "category": "Mature T/NK-cell lymphomas",
+    "categoryCode": "C84",
+    "subcategory": "C84.9",
+    "inclusion": [
+        "NK/T cell lymphoma NOS"
+    ],
+    "exclusion": [
+        "secondary and unspecified neoplasm of lymph nodes",
+        "mature T-cell lymphoma, not elsewhere classified"
+    ],
+    "symptoms": [
+        "unexplained weight loss",
+        "persistent fatigue",
+        "itchy skin",
+        "painless lumps in the neck",
+        "armpit or groin",
+        "night sweats"
+    ]
+}

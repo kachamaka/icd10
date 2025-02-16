@@ -1,0 +1,35 @@
+{
+    "icd10code": "H21.4",
+    "type": "subcategory",
+    "title": "Pupillary membranes",
+    "chapter": "Diseases of the eye and adnexa",
+    "chapterCode": "VII",
+    "block": "Disorders of sclera, cornea, iris and ciliary body",
+    "blockCode": "H15-H22",
+    "category": "Other disorders of iris and ciliary body",
+    "categoryCode": "H21",
+    "subcategory": "H21.4",
+    "inclusion": [
+        "Iris bombé",
+        "Pupillary: occlusion",
+        "Pupillary: seclusion"
+    ],
+    "exclusion": [
+        "certain conditions originating in the perinatal period",
+        "certain infectious and parasitic diseases",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "sympathetic uveitis"
+    ],
+    "symptoms": [
+        "redness of the eye",
+        "tearing",
+        "eye pain",
+        "sensitivity to light",
+        "blurred vision"
+    ]
+}

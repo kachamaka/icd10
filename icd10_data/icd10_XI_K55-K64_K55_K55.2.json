@@ -1,0 +1,26 @@
+{
+  "type": "subcategory",
+  "chapterCode": "XI",
+  "chapter": "Diseases of the digestive system",
+  "blockCode": "K55-K64",
+  "block": "Other diseases of intestines",
+  "categoryCode": "K55",
+  "category": "Vascular disorders of intestine",
+  "subcategory": "K55.2",
+  "title": "Angiodysplasia of colon",
+  "inclusion": [
+    "Angiodysplasia of intestine NOS"
+  ],
+  "exclusion": [
+    "certain conditions originating in the perinatal period",
+    "certain infectious and parasitic diseases",
+    "complications of pregnancy, childbirth and the puerperium",
+    "congenital malformations, deformations and chromosomal abnormalities",
+    "endocrine, nutritional and metabolic diseases",
+    "injury, poisoning and certain other consequences of external causes",
+    "neoplasms",
+    "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+    "necrotizing enterocolitis of fetus or newborn"
+  ],
+  "children": null
+}

@@ -1,0 +1,38 @@
+{
+    "icd10code": "J99.1",
+    "type": "subcategory",
+    "title": "Respiratory disorders in other diffuse connective tissue disorders",
+    "chapter": "Diseases of the respiratory system",
+    "chapterCode": "X",
+    "block": "Other diseases of the respiratory system",
+    "blockCode": "J95-J99",
+    "category": "Respiratory disorders in diseases classified elsewhere",
+    "categoryCode": "J99",
+    "subcategory": "J99.1",
+    "inclusion": [
+        "Respiratory disorders in: dermatomyositis",
+        "Respiratory disorders in: granulomatosis with polyangiitis",
+        "Respiratory disorders in: polymyositis",
+        "Respiratory disorders in: sicca syndrome [Sjögren]",
+        "Respiratory disorders in: systemic: lupus erythematosus",
+        "Respiratory disorders in: systemic: sclerosis",
+        "Respiratory disorders in: Wegener granulomatosis"
+    ],
+    "exclusion": [
+        "certain conditions originating in the perinatal period",
+        "certain infectious and parasitic diseases",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified"
+    ],
+    "symptoms": [
+        "chronic cough",
+        "shortness of breath",
+        "chest pain",
+        "wheezing",
+        "fatigue"
+    ]
+}

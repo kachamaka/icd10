@@ -1,0 +1,36 @@
+{
+  "type": "subcategory",
+  "chapterCode": "XIX",
+  "chapter": "Injury, poisoning and certain other consequences of external causes",
+  "blockCode": "T08-T14",
+  "block": "Injuries to unspecified part of trunk, limb or body region",
+  "categoryCode": "T14",
+  "category": "Injury of unspecified body region",
+  "subcategory": "T14.5",
+  "title": "Injury of blood vessel(s) of unspecified body region",
+  "inclusion": [
+    "Avulsion of blood vessel(s) NOS",
+    "Cut of blood vessel(s) NOS",
+    "Injury of blood vessel(s) NOS",
+    "Laceration of blood vessel(s) NOS",
+    "Traumatic: aneurysm or fistula (arteriovenous) of blood vessel(s) NOS",
+    "Traumatic: arterial haematoma of blood vessel(s) NOS",
+    "Traumatic: rupture of blood vessel(s) NOS"
+  ],
+  "exclusion": [
+    "birth trauma",
+    "obstetric trauma",
+    "malunion of fracture",
+    "nonunion of fracture [pseudarthrosis]",
+    "pathological fracture",
+    "pathological fracture with osteoporosis",
+    "stress fracture",
+    "burns and corrosions",
+    "frostbite",
+    "injuries involving multiple body regions",
+    "insect bite or sting, venomous",
+    "injuries involving multiple body regions",
+    "multiple superficial injuries NOS"
+  ],
+  "children": null
+}

@@ -1,0 +1,23 @@
+{
+    "icd10code": "C80.0",
+    "type": "subcategory",
+    "title": "Malignant neoplasm, primary site unknown, so stated",
+    "chapter": "Neoplasms",
+    "chapterCode": "II",
+    "block": "Malignant neoplasms of ill-defined, secondary and unspecified sites",
+    "blockCode": "C76-C80",
+    "category": "Malignant neoplasm, without specification of site",
+    "categoryCode": "C80",
+    "subcategory": "C80.0",
+    "inclusion": [
+        "Primary site unknown"
+    ],
+    "exclusion": null,
+    "symptoms": [
+        "unexplained weight loss",
+        "fatigue",
+        "pain or discomfort",
+        "loss of appetite",
+        "unexplained night sweats"
+    ]
+}

@@ -1,0 +1,27 @@
+{
+  "type": "subcategory",
+  "chapterCode": "X",
+  "chapter": "Diseases of the respiratory system",
+  "blockCode": "J90-J94",
+  "block": "Other diseases of pleura",
+  "categoryCode": "J93",
+  "category": "Pneumothorax",
+  "subcategory": "J93.1",
+  "title": "Other spontaneous pneumothorax",
+  "inclusion": null,
+  "exclusion": [
+    "certain conditions originating in the perinatal period",
+    "certain infectious and parasitic diseases",
+    "complications of pregnancy, childbirth and the puerperium",
+    "congenital malformations, deformations and chromosomal abnormalities",
+    "endocrine, nutritional and metabolic diseases",
+    "injury, poisoning and certain other consequences of external causes",
+    "neoplasms",
+    "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+    "pneumothorax: congenital or perinatal",
+    "pneumothorax: traumatic",
+    "pneumothorax: tuberculous (current disease)",
+    "pyopneumothorax"
+  ],
+  "children": null
+}

@@ -1,0 +1,32 @@
+{
+    "icd10code": "H80.1",
+    "type": "subcategory",
+    "title": "Otosclerosis involving oval window, obliterative",
+    "chapter": "Diseases of the ear and mastoid process",
+    "chapterCode": "VIII",
+    "block": "Diseases of inner ear",
+    "blockCode": "H80-H83",
+    "category": "Otosclerosis",
+    "categoryCode": "H80",
+    "subcategory": "H80.1",
+    "inclusion": [
+        "otospongiosis"
+    ],
+    "exclusion": [
+        "certain conditions originating in the perinatal period",
+        "certain infectious and parasitic diseases",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified"
+    ],
+    "symptoms": [
+        "hearing loss",
+        "ear pain",
+        "tinnitus",
+        "ear fullness",
+        "occasional dizziness"
+    ]
+}

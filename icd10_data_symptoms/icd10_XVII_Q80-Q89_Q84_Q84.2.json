@@ -1,0 +1,27 @@
+{
+    "icd10code": "Q84.2",
+    "type": "subcategory",
+    "title": "Other congenital malformations of hair",
+    "chapter": "Congenital malformations, deformations and chromosomal abnormalities",
+    "chapterCode": "XVII",
+    "block": "Other congenital malformations",
+    "blockCode": "Q80-Q89",
+    "category": "Other congenital malformations of integument",
+    "categoryCode": "Q84",
+    "subcategory": "Q84.2",
+    "inclusion": [
+        "Congenital: hypertrichosis",
+        "Congenital: malformation of hair NOS",
+        "Persistent lanugo"
+    ],
+    "exclusion": [
+        "inborn errors of metabolism"
+    ],
+    "symptoms": [
+        "abnormal hair growth",
+        "brittle hair",
+        "sparse hair",
+        "excessive hair shedding",
+        "hair shaft abnormalities"
+    ]
+}

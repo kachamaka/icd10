@@ -1,0 +1,34 @@
+{
+    "icd10code": "R62.8",
+    "type": "subcategory",
+    "title": "Other lack of expected normal physiological development",
+    "chapter": "Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+    "chapterCode": "XVIII",
+    "block": "General symptoms and signs",
+    "blockCode": "R50-R69",
+    "category": "Lack of expected normal physiological development",
+    "categoryCode": "R62",
+    "subcategory": "R62.8",
+    "inclusion": [
+        "Failure to: gain weight",
+        "Failure to: thrive (in child) NOS",
+        "Infantilism NOS",
+        "Lack of growth",
+        "Physical retardation"
+    ],
+    "exclusion": [
+        "abnormal findings on antenatal screening of mother",
+        "certain conditions originating in the perinatal period",
+        "delayed puberty",
+        "failure to thrive in adult",
+        "HIV disease resulting in failure to thrive",
+        "physical retardation due to malnutrition"
+    ],
+    "symptoms": [
+        "delayed milestones",
+        "slow growth",
+        "developmental delays",
+        "motor skill difficulties",
+        "speech and language delays"
+    ]
+}

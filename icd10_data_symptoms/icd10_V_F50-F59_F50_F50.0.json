@@ -1,0 +1,31 @@
+{
+    "icd10code": "F50.0",
+    "type": "subcategory",
+    "title": "Anorexia nervosa",
+    "chapter": "Mental and behavioural disorders",
+    "chapterCode": "V",
+    "block": "Behavioural syndromes associated with physiological disturbances and physical factors",
+    "blockCode": "F50-F59",
+    "category": "Eating disorders",
+    "categoryCode": "F50",
+    "subcategory": "F50.0",
+    "inclusion": [
+        "disorders of psychological development"
+    ],
+    "exclusion": [
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "anorexia NOS",
+        "feeding: difficulties and mismanagement",
+        "feeding: disorder of infancy or childhood",
+        "polyphagia",
+        "loss of appetite",
+        "loss of appetite psychogenic"
+    ],
+    "symptoms": [
+        "intense fear of weight gain",
+        "distorted body image",
+        "refusal to maintain minimal weight",
+        "amenorrhea",
+        "excessive dieting"
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "icd10code": "Z03.2",
+    "type": "subcategory",
+    "title": "Observation for suspected mental and behavioural disorders",
+    "chapter": "Factors influencing health status and contact with health services",
+    "chapterCode": "XXI",
+    "block": "Persons encountering health services for examination and investigation",
+    "blockCode": "Z00-Z13",
+    "category": "Medical observation and evaluation for suspected diseases and conditions, ruled out",
+    "categoryCode": "Z03",
+    "subcategory": "Z03.2",
+    "inclusion": [
+        "persons who present some symptoms or evidence of an abnormal condition which requires study, but who, after examination and observation, show no need for further treatment or medical care",
+        "Observation for: dissocial behaviour without manifest psychiatric disorder",
+        "Observation for: fire-setting without manifest psychiatric disorder",
+        "Observation for: gang activity without manifest psychiatric disorder",
+        "Observation for: shop lifting without manifest psychiatric disorder"
+    ],
+    "exclusion": [
+        "examinations related to pregnancy and reproduction",
+        "person with feared complaint in whom no diagnosis is made"
+    ],
+    "symptoms": [
+        "fever",
+        "fatigue",
+        "cough",
+        "shortness of breath",
+        "headache"
+    ]
+}

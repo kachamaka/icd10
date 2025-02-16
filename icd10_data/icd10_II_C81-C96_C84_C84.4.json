@@ -1,0 +1,19 @@
+{
+  "type": "subcategory",
+  "chapterCode": "II",
+  "chapter": "Neoplasms",
+  "blockCode": "C81-C96",
+  "block": "Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",
+  "categoryCode": "C84",
+  "category": "Mature T/NK-cell lymphomas",
+  "subcategory": "C84.4",
+  "title": "Peripheral T-cell lymphoma, not elsewhere classified",
+  "inclusion": [
+    "Lennert’s lymphoma",
+    "Lymphoepithelioid lymphoma"
+  ],
+  "exclusion": [
+    "secondary and unspecified neoplasm of lymph nodes"
+  ],
+  "children": null
+}

@@ -1,0 +1,23 @@
+{
+    "icd10code": "C12",
+    "type": "category",
+    "title": "Malignant neoplasm of piriform sinus",
+    "chapter": "Neoplasms",
+    "chapterCode": "II",
+    "block": "Malignant neoplasms of lip, oral cavity and pharynx",
+    "blockCode": "C00-C14",
+    "category": "Malignant neoplasm of piriform sinus",
+    "categoryCode": "C12",
+    "subcategory": "",
+    "inclusion": [
+        "Piriform fossa"
+    ],
+    "exclusion": null,
+    "symptoms": [
+        "abdominal pain",
+        "indigestion or heartburn",
+        "weight loss",
+        "loss of appetite",
+        "vomiting blood or coffee-ground-like material"
+    ]
+}

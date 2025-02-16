@@ -1,0 +1,21 @@
+{
+    "icd10code": "C25.9",
+    "type": "subcategory",
+    "title": "Malignant neoplasm: Pancreas, unspecified",
+    "chapter": "Neoplasms",
+    "chapterCode": "II",
+    "block": "Malignant neoplasms of digestive organs",
+    "blockCode": "C15-C26",
+    "category": "Malignant neoplasm of pancreas",
+    "categoryCode": "C25",
+    "subcategory": "C25.9",
+    "inclusion": null,
+    "exclusion": null,
+    "symptoms": [
+        "abdominal pain",
+        "unexpected weight loss",
+        "nausea",
+        "vomiting",
+        "loss of appetite"
+    ]
+}

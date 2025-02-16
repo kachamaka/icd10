@@ -1,0 +1,18 @@
+{
+  "type": "subcategory",
+  "chapterCode": "II",
+  "chapter": "Neoplasms",
+  "blockCode": "D10-D36",
+  "block": "Benign neoplasms",
+  "categoryCode": "D28",
+  "category": "Benign neoplasm of other and unspecified female genital organs",
+  "subcategory": "D28.9",
+  "title": "Benign neoplasm: Female genital organ, unspecified",
+  "inclusion": [
+    "morphology codes with behaviour code /0",
+    "adenomatous polyp",
+    "skin of female genital organs"
+  ],
+  "exclusion": null,
+  "children": null
+}

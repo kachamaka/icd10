@@ -1,0 +1,28 @@
+{
+  "type": "category",
+  "chapterCode": "XII",
+  "chapter": "Diseases of the skin and subcutaneous tissue",
+  "blockCode": "L80-L99",
+  "block": "Other disorders of the skin and subcutaneous tissue",
+  "categoryCode": "L86",
+  "category": "Keratoderma in diseases classified elsewhere",
+  "subcategory": "",
+  "title": "Keratoderma in diseases classified elsewhere",
+  "inclusion": [
+    "Follicular keratosis due to a vitamin A deficiency",
+    "Xeroderma due to a vitamin A deficiency"
+  ],
+  "exclusion": [
+    "certain conditions originating in the perinatal period",
+    "certain infectious and parasitic diseases",
+    "complications of pregnancy, childbirth and the puerperium",
+    "congenital malformations, deformations and chromosomal abnormalities",
+    "endocrine, nutritional and metabolic diseases",
+    "injury, poisoning and certain other consequences of external causes",
+    "lipomelanotic reticulosis",
+    "neoplasms",
+    "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+    "systemic connective tissue disorders"
+  ],
+  "children": null
+}

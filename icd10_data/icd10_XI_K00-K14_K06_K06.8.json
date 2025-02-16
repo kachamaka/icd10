@@ -1,0 +1,33 @@
+{
+  "type": "subcategory",
+  "chapterCode": "XI",
+  "chapter": "Diseases of the digestive system",
+  "blockCode": "K00-K14",
+  "block": "Diseases of oral cavity, salivary glands and jaws",
+  "categoryCode": "K06",
+  "category": "Other disorders of gingiva and edentulous alveolar ridge",
+  "subcategory": "K06.8",
+  "title": "Other specified disorders of gingiva and edentulous alveolar ridge",
+  "inclusion": [
+    "Fibrous epulis",
+    "Flabby ridge",
+    "Giant cell epulis",
+    "Peripheral giant cell granuloma",
+    "Pyogenic granuloma of gingiva"
+  ],
+  "exclusion": [
+    "certain conditions originating in the perinatal period",
+    "certain infectious and parasitic diseases",
+    "complications of pregnancy, childbirth and the puerperium",
+    "congenital malformations, deformations and chromosomal abnormalities",
+    "endocrine, nutritional and metabolic diseases",
+    "injury, poisoning and certain other consequences of external causes",
+    "neoplasms",
+    "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+    "atrophy of edentulous alveolar ridge",
+    "gingivitis: NOS",
+    "gingivitis: acute",
+    "gingivitis: chronic"
+  ],
+  "children": null
+}

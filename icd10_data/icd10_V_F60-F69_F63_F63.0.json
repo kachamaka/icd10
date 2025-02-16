@@ -1,0 +1,24 @@
+{
+  "type": "subcategory",
+  "chapterCode": "V",
+  "chapter": "Mental and behavioural disorders",
+  "blockCode": "F60-F69",
+  "block": "Disorders of adult personality and behaviour",
+  "categoryCode": "F63",
+  "category": "Habit and impulse disorders",
+  "subcategory": "F63.0",
+  "title": "Pathological gambling",
+  "inclusion": [
+    "disorders of psychological development",
+    "Compulsive gambling"
+  ],
+  "exclusion": [
+    "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+    "habitual excessive use of alcohol or psychoactive substances",
+    "impulse and habit disorders involving sexual behaviour",
+    "excessive gambling by manic patients",
+    "gambling and betting NOS",
+    "gambling in dissocial personality disorder"
+  ],
+  "children": null
+}

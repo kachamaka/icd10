@@ -1,0 +1,21 @@
+{
+    "icd10code": "U83.7",
+    "type": "subcategory",
+    "title": "Resistance to multiple antibiotics",
+    "chapter": "Codes for special purposes",
+    "chapterCode": "XXII",
+    "block": "Resistance to antimicrobial and antineoplastic drugs",
+    "blockCode": "U82-U85",
+    "category": "Resistance to other antibiotics",
+    "categoryCode": "U83",
+    "subcategory": "U83.7",
+    "inclusion": null,
+    "exclusion": null,
+    "symptoms": [
+        "fever",
+        "cough",
+        "shortness of breath",
+        "fatigue",
+        "muscle pain"
+    ]
+}

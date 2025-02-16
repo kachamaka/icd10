@@ -1,0 +1,19 @@
+{
+  "type": "category",
+  "chapterCode": "XVIII",
+  "chapter": "Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+  "blockCode": "R30-R39",
+  "block": "Symptoms and signs involving the urinary system",
+  "categoryCode": "R34",
+  "category": "Anuria and oliguria",
+  "subcategory": "",
+  "title": "Anuria and oliguria",
+  "inclusion": null,
+  "exclusion": [
+    "abnormal findings on antenatal screening of mother",
+    "certain conditions originating in the perinatal period",
+    "that complicating: abortion or ectopic or molar pregnancy",
+    "that complicating: pregnancy, childbirth and the puerperium"
+  ],
+  "children": null
+}

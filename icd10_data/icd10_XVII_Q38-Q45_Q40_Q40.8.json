@@ -1,0 +1,16 @@
+{
+  "type": "subcategory",
+  "chapterCode": "XVII",
+  "chapter": "Congenital malformations, deformations and chromosomal abnormalities",
+  "blockCode": "Q38-Q45",
+  "block": "Other congenital malformations of the digestive system",
+  "categoryCode": "Q40",
+  "category": "Other congenital malformations of upper alimentary tract",
+  "subcategory": "Q40.8",
+  "title": "Other specified congenital malformations of upper alimentary tract",
+  "inclusion": null,
+  "exclusion": [
+    "inborn errors of metabolism"
+  ],
+  "children": null
+}

@@ -1,0 +1,18 @@
+{
+  "type": "subcategory",
+  "chapterCode": "XVII",
+  "chapter": "Congenital malformations, deformations and chromosomal abnormalities",
+  "blockCode": "Q20-Q28",
+  "block": "Congenital malformations of the circulatory system",
+  "categoryCode": "Q26",
+  "category": "Congenital malformations of great veins",
+  "subcategory": "Q26.0",
+  "title": "Congenital stenosis of vena cava",
+  "inclusion": [
+    "Congenital stenosis of vena cava (inferior)(superior)"
+  ],
+  "exclusion": [
+    "inborn errors of metabolism"
+  ],
+  "children": null
+}

@@ -1,0 +1,30 @@
+{
+    "icd10code": "A36.2",
+    "type": "subcategory",
+    "title": "Laryngeal diphtheria",
+    "chapter": "Certain infectious and parasitic diseases",
+    "chapterCode": "I",
+    "block": "Other bacterial diseases",
+    "blockCode": "A30-A49",
+    "category": "Diphtheria",
+    "categoryCode": "A36",
+    "subcategory": "A36.2",
+    "inclusion": [
+        "diseases generally recognized as communicable or transmissible",
+        "Diphtheritic laryngotracheitis"
+    ],
+    "exclusion": [
+        "carrier or suspected carrier of infectious disease",
+        "certain localized infections - see body system-related chapters",
+        "infectious and parasitic diseases complicating pregnancy, childbirth and the puerperium [except obstetrical tetanus]",
+        "infectious and parasitic diseases specific to the perinatal period [except tetanus neonatorum, whooping cough, congenital syphilis, perinatal gonococcal infection and perinatal human immunodeficiency virus [HIV] disease]",
+        "influenza and other acute respiratory infections"
+    ],
+    "symptoms": [
+        "fever",
+        "sore throat",
+        "difficulty swallowing",
+        "swollen neck glands",
+        "malaise"
+    ]
+}

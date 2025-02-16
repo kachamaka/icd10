@@ -1,0 +1,27 @@
+{
+  "type": "subcategory",
+  "chapterCode": "X",
+  "chapter": "Diseases of the respiratory system",
+  "blockCode": "J20-J22",
+  "block": "Other acute lower respiratory infections",
+  "categoryCode": "J21",
+  "category": "Acute bronchiolitis",
+  "subcategory": "J21.1",
+  "title": "Acute bronchiolitis due to human metapneumovirus",
+  "inclusion": [
+    "with bronchospasm"
+  ],
+  "exclusion": [
+    "certain conditions originating in the perinatal period",
+    "certain infectious and parasitic diseases",
+    "complications of pregnancy, childbirth and the puerperium",
+    "congenital malformations, deformations and chromosomal abnormalities",
+    "endocrine, nutritional and metabolic diseases",
+    "injury, poisoning and certain other consequences of external causes",
+    "neoplasms",
+    "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+    "chronic obstructive pulmonary disease with acute: exacerbation NOS",
+    "chronic obstructive pulmonary disease with acute: lower respiratory infection"
+  ],
+  "children": null
+}

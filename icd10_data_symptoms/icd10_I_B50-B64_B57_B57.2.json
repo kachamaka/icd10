@@ -1,0 +1,38 @@
+{
+    "icd10code": "B57.2",
+    "type": "subcategory",
+    "title": "Chagas disease (chronic) with heart involvement",
+    "chapter": "Certain infectious and parasitic diseases",
+    "chapterCode": "I",
+    "block": "Protozoal diseases",
+    "blockCode": "B50-B64",
+    "category": "Chagas disease",
+    "categoryCode": "B57",
+    "subcategory": "B57.2",
+    "inclusion": [
+        "diseases generally recognized as communicable or transmissible",
+        "American trypanosomiasis",
+        "infection due to Trypanosoma cruzi",
+        "American trypanosomiasis NOS",
+        "Chagas disease (chronic) (with): NOS",
+        "Chagas disease (chronic) (with): cardiovascular involvement NEC",
+        "Chagas disease (chronic) (with): myocarditis",
+        "Trypanosomiasis NOS, in places where Chagas disease is prevalent"
+    ],
+    "exclusion": [
+        "carrier or suspected carrier of infectious disease",
+        "certain localized infections - see body system-related chapters",
+        "infectious and parasitic diseases complicating pregnancy, childbirth and the puerperium [except obstetrical tetanus]",
+        "infectious and parasitic diseases specific to the perinatal period [except tetanus neonatorum, whooping cough, congenital syphilis, perinatal gonococcal infection and perinatal human immunodeficiency virus [HIV] disease]",
+        "influenza and other acute respiratory infections",
+        "larval diphyllobothriasis",
+        "monkeypox"
+    ],
+    "symptoms": [
+        "fever",
+        "fatigue",
+        "muscle pain",
+        "swelling at infection site",
+        "rash"
+    ]
+}

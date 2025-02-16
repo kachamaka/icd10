@@ -1,0 +1,22 @@
+{
+    "icd10code": "W28",
+    "type": "category",
+    "title": "Contact with powered lawnmower",
+    "chapter": "External causes of morbidity and mortality",
+    "chapterCode": "XX",
+    "block": "Exposure to inanimate mechanical forces",
+    "blockCode": "W20-W49",
+    "category": "Contact with powered lawnmower",
+    "categoryCode": "W28",
+    "subcategory": "",
+    "inclusion": null,
+    "exclusion": [
+        "assault",
+        "contact or collision with animals or persons",
+        "intentional self-harm",
+        "exposure to electric current"
+    ],
+    "symptoms": [
+        "asymptomatic"
+    ]
+}

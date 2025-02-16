@@ -1,0 +1,24 @@
+{
+    "icd10code": "C64",
+    "type": "category",
+    "title": "Malignant neoplasm of kidney, except renal pelvis",
+    "chapter": "Neoplasms",
+    "chapterCode": "II",
+    "block": "Malignant neoplasms of urinary tract",
+    "blockCode": "C64-C68",
+    "category": "Malignant neoplasm of kidney, except renal pelvis",
+    "categoryCode": "C64",
+    "subcategory": "",
+    "inclusion": null,
+    "exclusion": [
+        "renal: calyces",
+        "renal: pelvis"
+    ],
+    "symptoms": [
+        "blood in urine",
+        "lower back pain",
+        "abdominal mass",
+        "unexplained weight loss",
+        "fatigue"
+    ]
+}

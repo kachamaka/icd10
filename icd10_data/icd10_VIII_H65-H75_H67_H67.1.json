@@ -1,0 +1,28 @@
+{
+  "type": "subcategory",
+  "chapterCode": "VIII",
+  "chapter": "Diseases of the ear and mastoid process",
+  "blockCode": "H65-H75",
+  "block": "Diseases of middle ear and mastoid",
+  "categoryCode": "H67",
+  "category": "Otitis media in diseases classified elsewhere",
+  "subcategory": "H67.1",
+  "title": "Otitis media in viral diseases classified elsewhere",
+  "inclusion": [
+    "Otitis media in: influenza: seasonal virus identified",
+    "Otitis media in: influenza: virus not identified",
+    "Otitis media in: influenza: zoonotic or pandemic influenza virus identified",
+    "Otitis media in: measles"
+  ],
+  "exclusion": [
+    "certain conditions originating in the perinatal period",
+    "certain infectious and parasitic diseases",
+    "complications of pregnancy, childbirth and the puerperium",
+    "congenital malformations, deformations and chromosomal abnormalities",
+    "endocrine, nutritional and metabolic diseases",
+    "injury, poisoning and certain other consequences of external causes",
+    "neoplasms",
+    "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified"
+  ],
+  "children": null
+}

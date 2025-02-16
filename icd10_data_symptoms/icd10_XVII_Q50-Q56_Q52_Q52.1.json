@@ -1,0 +1,29 @@
+{
+    "icd10code": "Q52.1",
+    "type": "subcategory",
+    "title": "Doubling of vagina",
+    "chapter": "Congenital malformations, deformations and chromosomal abnormalities",
+    "chapterCode": "XVII",
+    "block": "Congenital malformations of genital organs",
+    "blockCode": "Q50-Q56",
+    "category": "Other congenital malformations of female genitalia",
+    "categoryCode": "Q52",
+    "subcategory": "Q52.1",
+    "inclusion": [
+        "Septate vagina"
+    ],
+    "exclusion": [
+        "inborn errors of metabolism",
+        "androgen resistance syndrome",
+        "syndromes associated with anomalies in the number and form of chromosomes",
+        "testicular feminization syndrome",
+        "doubling of vagina with doubling of uterus and cervix"
+    ],
+    "symptoms": [
+        "absent vaginal opening",
+        "primary amenorrhea",
+        "pelvic pain",
+        "urinary tract abnormalities",
+        "infertility"
+    ]
+}

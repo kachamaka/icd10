@@ -1,0 +1,24 @@
+{
+    "icd10code": "R39.0",
+    "type": "subcategory",
+    "title": "Extravasation of urine",
+    "chapter": "Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+    "chapterCode": "XVIII",
+    "block": "Symptoms and signs involving the urinary system",
+    "blockCode": "R30-R39",
+    "category": "Other symptoms and signs involving the urinary system",
+    "categoryCode": "R39",
+    "subcategory": "R39.0",
+    "inclusion": null,
+    "exclusion": [
+        "abnormal findings on antenatal screening of mother",
+        "certain conditions originating in the perinatal period"
+    ],
+    "symptoms": [
+        "urinary frequency",
+        "urgency",
+        "nocturia",
+        "dysuria",
+        "incomplete bladder emptying"
+    ]
+}

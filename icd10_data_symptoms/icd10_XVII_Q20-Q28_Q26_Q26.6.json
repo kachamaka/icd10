@@ -1,0 +1,23 @@
+{
+    "icd10code": "Q26.6",
+    "type": "subcategory",
+    "title": "Portal vein-hepatic artery fistula",
+    "chapter": "Congenital malformations, deformations and chromosomal abnormalities",
+    "chapterCode": "XVII",
+    "block": "Congenital malformations of the circulatory system",
+    "blockCode": "Q20-Q28",
+    "category": "Congenital malformations of great veins",
+    "categoryCode": "Q26",
+    "subcategory": "Q26.6",
+    "inclusion": null,
+    "exclusion": [
+        "inborn errors of metabolism"
+    ],
+    "symptoms": [
+        "abnormal venous circulation",
+        "venous engorgement",
+        "cyanosis",
+        "chronic swelling",
+        "lower extremity pain"
+    ]
+}

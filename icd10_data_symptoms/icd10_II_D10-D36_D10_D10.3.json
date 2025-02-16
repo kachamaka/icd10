@@ -1,0 +1,28 @@
+{
+    "icd10code": "D10.3",
+    "type": "subcategory",
+    "title": "Benign neoplasm: Other and unspecified parts of mouth",
+    "chapter": "Neoplasms",
+    "chapterCode": "II",
+    "block": "Benign neoplasms",
+    "blockCode": "D10-D36",
+    "category": "Benign neoplasm of mouth and pharynx",
+    "categoryCode": "D10",
+    "subcategory": "D10.3",
+    "inclusion": [
+        "morphology codes with behaviour code /0",
+        "Minor salivary gland NOS"
+    ],
+    "exclusion": [
+        "benign odontogenic neoplasms",
+        "mucosa of lip",
+        "nasopharyngeal surface of soft palate"
+    ],
+    "symptoms": [
+        "difficulty swallowing",
+        "persistent sore throat",
+        "hoarseness",
+        "ear pain",
+        "noticeable lump in the throat"
+    ]
+}

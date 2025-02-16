@@ -1,0 +1,30 @@
+{
+    "icd10code": "Z00.0",
+    "type": "subcategory",
+    "title": "General medical examination",
+    "chapter": "Factors influencing health status and contact with health services",
+    "chapterCode": "XXI",
+    "block": "Persons encountering health services for examination and investigation",
+    "blockCode": "Z00-Z13",
+    "category": "General examination and investigation of persons without complaint and reported diagnosis",
+    "categoryCode": "Z00",
+    "subcategory": "Z00.0",
+    "inclusion": [
+        "Health check-up NOS",
+        "Periodic examination (annual)(physical)"
+    ],
+    "exclusion": [
+        "examinations related to pregnancy and reproduction",
+        "examination for administrative purposes",
+        "special screening examinations",
+        "general health check-up of: defined subpopulations",
+        "general health check-up of: infant or child"
+    ],
+    "symptoms": [
+        "general fatigue",
+        "weight changes",
+        "skin changes",
+        "appetite changes",
+        "mild anemia"
+    ]
+}

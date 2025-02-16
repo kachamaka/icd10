@@ -1,0 +1,19 @@
+{
+  "type": "subcategory",
+  "chapterCode": "XVII",
+  "chapter": "Congenital malformations, deformations and chromosomal abnormalities",
+  "blockCode": "Q65-Q79",
+  "block": "Congenital malformations and deformations of the musculoskeletal system",
+  "categoryCode": "Q77",
+  "category": "Osteochondrodysplasia with defects of growth of tubular bones and spine",
+  "subcategory": "Q77.6",
+  "title": "Chondroectodermal dysplasia",
+  "inclusion": [
+    "Ellis-van Creveld syndrome"
+  ],
+  "exclusion": [
+    "inborn errors of metabolism",
+    "mucopolysaccharidosis"
+  ],
+  "children": null
+}

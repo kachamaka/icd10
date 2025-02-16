@@ -1,0 +1,26 @@
+{
+    "icd10code": "Z86.1",
+    "type": "subcategory",
+    "title": "Personal history of infectious and parasitic diseases",
+    "chapter": "Factors influencing health status and contact with health services",
+    "chapterCode": "XXI",
+    "block": "Persons with potential health hazards related to family and personal history and certain conditions influencing health status",
+    "blockCode": "Z80-Z99",
+    "category": "Personal history of certain other diseases",
+    "categoryCode": "Z86",
+    "subcategory": "Z86.1",
+    "inclusion": [
+        "Conditions classifiable to A00-B89, B99"
+    ],
+    "exclusion": [
+        "follow-up examination",
+        "follow-up medical care and convalescence",
+        "when family or personal history is the reason for special screening or other examination or investigation",
+        "when the possibility that the fetus might be affected is the reason for observation or action during pregnancy",
+        "follow-up medical care and convalescence",
+        "sequelae of infectious and parasitic diseases"
+    ],
+    "symptoms": [
+        "asymptomatic"
+    ]
+}

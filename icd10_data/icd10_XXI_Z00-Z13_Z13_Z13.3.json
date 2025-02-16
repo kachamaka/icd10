@@ -1,0 +1,20 @@
+{
+  "type": "subcategory",
+  "chapterCode": "XXI",
+  "chapter": "Factors influencing health status and contact with health services",
+  "blockCode": "Z00-Z13",
+  "block": "Persons encountering health services for examination and investigation",
+  "categoryCode": "Z13",
+  "category": "Special screening examination for other diseases and disorders",
+  "subcategory": "Z13.3",
+  "title": "Special screening examination for mental and behavioural disorders",
+  "inclusion": [
+    "Alcoholism",
+    "Depression",
+    "Mental retardation"
+  ],
+  "exclusion": [
+    "examinations related to pregnancy and reproduction"
+  ],
+  "children": null
+}

@@ -1,0 +1,27 @@
+{
+    "icd10code": "C08.8",
+    "type": "subcategory",
+    "title": "Malignant neoplasm: Overlapping lesion of major salivary glands",
+    "chapter": "Neoplasms",
+    "chapterCode": "II",
+    "block": "Malignant neoplasms of lip, oral cavity and pharynx",
+    "blockCode": "C00-C14",
+    "category": "Malignant neoplasm of other and unspecified major salivary glands",
+    "categoryCode": "C08",
+    "subcategory": "C08.8",
+    "inclusion": [
+        "Malignant neoplasm of major salivary glands whose point of origin cannot be classified to any one of the categories C07-C08.1"
+    ],
+    "exclusion": [
+        "malignant neoplasms of specified minor salivary glands which are classified according to their anatomical location",
+        "malignant neoplasms of minor salivary glands NOS",
+        "parotid gland"
+    ],
+    "symptoms": [
+        "persistent mouth sore",
+        "mouth and ear pain",
+        "difficulty swallowing",
+        "loose teeth",
+        "consistent bad breath"
+    ]
+}

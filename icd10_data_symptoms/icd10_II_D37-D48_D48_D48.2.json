@@ -1,0 +1,24 @@
+{
+    "icd10code": "D48.2",
+    "type": "subcategory",
+    "title": "Neoplasm of uncertain or unknown behaviour: Peripheral nerves and autonomic nervous system",
+    "chapter": "Neoplasms",
+    "chapterCode": "II",
+    "block": "Neoplasms of uncertain or unknown behaviour",
+    "blockCode": "D37-D48",
+    "category": "Neoplasm of uncertain or unknown behaviour of other and unspecified sites",
+    "categoryCode": "D48",
+    "subcategory": "D48.2",
+    "inclusion": null,
+    "exclusion": [
+        "neurofibromatosis (nonmalignant)",
+        "peripheral nerves of orbit"
+    ],
+    "symptoms": [
+        "abdominal pain",
+        "rectal bleeding",
+        "change in bowel habits",
+        "unexplained weight loss",
+        "persistent abdominal discomfort"
+    ]
+}

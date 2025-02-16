@@ -1,0 +1,26 @@
+{
+    "icd10code": "F80.8",
+    "type": "subcategory",
+    "title": "Other developmental disorders of speech and language",
+    "chapter": "Mental and behavioural disorders",
+    "chapterCode": "V",
+    "block": "Disorders of psychological development",
+    "blockCode": "F80-F89",
+    "category": "Specific developmental disorders of speech and language",
+    "categoryCode": "F80",
+    "subcategory": "F80.8",
+    "inclusion": [
+        "disorders of psychological development",
+        "Lisping"
+    ],
+    "exclusion": [
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified"
+    ],
+    "symptoms": [
+        "delayed speech development",
+        "difficulty understanding language",
+        "problems articulating words",
+        "struggles with forming sentences",
+        "limited vocabulary"
+    ]
+}

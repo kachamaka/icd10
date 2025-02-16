@@ -1,0 +1,24 @@
+{
+    "icd10code": "W25",
+    "type": "category",
+    "title": "Contact with sharp glass",
+    "chapter": "External causes of morbidity and mortality",
+    "chapterCode": "XX",
+    "block": "Exposure to inanimate mechanical forces",
+    "blockCode": "W20-W49",
+    "category": "Contact with sharp glass",
+    "categoryCode": "W25",
+    "subcategory": "",
+    "inclusion": null,
+    "exclusion": [
+        "assault",
+        "contact or collision with animals or persons",
+        "intentional self-harm",
+        "fall involving glass",
+        "flying glass due to explosion or firearm discharge",
+        "glass embedded in skin"
+    ],
+    "symptoms": [
+        "asymptomatic"
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "icd10code": "D14.4",
+    "type": "subcategory",
+    "title": "Benign neoplasm: Respiratory system, unspecified",
+    "chapter": "Neoplasms",
+    "chapterCode": "II",
+    "block": "Benign neoplasms",
+    "blockCode": "D10-D36",
+    "category": "Benign neoplasm of middle ear and respiratory system",
+    "categoryCode": "D14",
+    "subcategory": "D14.4",
+    "inclusion": [
+        "morphology codes with behaviour code /0"
+    ],
+    "exclusion": null,
+    "symptoms": [
+        "hoarseness",
+        "persistent sore throat",
+        "difficulty swallowing",
+        "coughing up blood",
+        "swelling or lump in the neck"
+    ]
+}

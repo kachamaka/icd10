@@ -1,0 +1,37 @@
+{
+    "icd10code": "H65.3",
+    "type": "subcategory",
+    "title": "Chronic mucoid otitis media",
+    "chapter": "Diseases of the ear and mastoid process",
+    "chapterCode": "VIII",
+    "block": "Diseases of middle ear and mastoid",
+    "blockCode": "H65-H75",
+    "category": "Nonsuppurative otitis media",
+    "categoryCode": "H65",
+    "subcategory": "H65.3",
+    "inclusion": [
+        "with myringitis",
+        "Glue ear",
+        "Otitis media, chronic: mucinous",
+        "Otitis media, chronic: secretory",
+        "Otitis media, chronic: transudative"
+    ],
+    "exclusion": [
+        "certain conditions originating in the perinatal period",
+        "certain infectious and parasitic diseases",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "adhesive middle ear disease"
+    ],
+    "symptoms": [
+        "ear pain",
+        "hearing loss",
+        "ear fullness",
+        "fever",
+        "irritability"
+    ]
+}

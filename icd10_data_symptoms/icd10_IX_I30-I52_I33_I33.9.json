@@ -1,0 +1,38 @@
+{
+    "icd10code": "I33.9",
+    "type": "subcategory",
+    "title": "Acute endocarditis, unspecified",
+    "chapter": "Diseases of the circulatory system",
+    "chapterCode": "IX",
+    "block": "Other forms of heart disease",
+    "blockCode": "I30-I52",
+    "category": "Acute and subacute endocarditis",
+    "categoryCode": "I33",
+    "subcategory": "I33.9",
+    "inclusion": [
+        "Endocarditis acute or subacute",
+        "Myoendocarditis acute or subacute",
+        "Periendocarditis acute or subacute"
+    ],
+    "exclusion": [
+        "certain conditions originating in the perinatal period",
+        "certain infectious and parasitic diseases",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "systemic connective tissue disorders",
+        "transient cerebral ischaemic attacks and related syndromes",
+        "rheumatoid carditis",
+        "when not specified as rheumatic"
+    ],
+    "symptoms": [
+        "chest pain",
+        "palpitations",
+        "shortness of breath",
+        "fatigue",
+        "fever"
+    ]
+}

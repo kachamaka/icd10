@@ -1,0 +1,25 @@
+{
+    "icd10code": "Q95.3",
+    "type": "subcategory",
+    "title": "Balanced sex/autosomal rearrangement in abnormal individual",
+    "chapter": "Congenital malformations, deformations and chromosomal abnormalities",
+    "chapterCode": "XVII",
+    "block": "Chromosomal abnormalities, not elsewhere classified",
+    "blockCode": "Q90-Q99",
+    "category": "Balanced rearrangements and structural markers, not elsewhere classified",
+    "categoryCode": "Q95",
+    "subcategory": "Q95.3",
+    "inclusion": [
+        "Robertsonian and balanced reciprocal translocations and insertions"
+    ],
+    "exclusion": [
+        "inborn errors of metabolism"
+    ],
+    "symptoms": [
+        "chromosomal imbalance signs",
+        "developmental delay",
+        "intellectual disability",
+        "congenital abnormalities",
+        "growth retardation"
+    ]
+}

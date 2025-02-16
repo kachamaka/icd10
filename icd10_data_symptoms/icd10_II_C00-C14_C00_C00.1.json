@@ -1,0 +1,26 @@
+{
+    "icd10code": "C00.1",
+    "type": "subcategory",
+    "title": "Malignant neoplasm: External lower lip",
+    "chapter": "Neoplasms",
+    "chapterCode": "II",
+    "block": "Malignant neoplasms of lip, oral cavity and pharynx",
+    "blockCode": "C00-C14",
+    "category": "Malignant neoplasm of lip",
+    "categoryCode": "C00",
+    "subcategory": "C00.1",
+    "inclusion": [
+        "Lower lip: NOS",
+        "Lower lip: lipstick area",
+        "Lower lip: vermilion border"
+    ],
+    "exclusion": [
+        "skin of lip"
+    ],
+    "symptoms": [
+        "swelling or lump in mouth or on the lip",
+        "persistent mouth sores or ulcers",
+        "mouth or lip pain",
+        "unexplained bleeding in the mouth"
+    ]
+}

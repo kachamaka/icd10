@@ -1,0 +1,23 @@
+{
+    "icd10code": "D12.7",
+    "type": "subcategory",
+    "title": "Benign neoplasm: Rectosigmoid junction",
+    "chapter": "Neoplasms",
+    "chapterCode": "II",
+    "block": "Benign neoplasms",
+    "blockCode": "D10-D36",
+    "category": "Benign neoplasm of colon, rectum, anus and anal canal",
+    "categoryCode": "D12",
+    "subcategory": "D12.7",
+    "inclusion": [
+        "morphology codes with behaviour code /0"
+    ],
+    "exclusion": null,
+    "symptoms": [
+        "rectal bleeding",
+        "change in bowel habits",
+        "abdominal pain",
+        "unexplained weight loss",
+        "anemia"
+    ]
+}

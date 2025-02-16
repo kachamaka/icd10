@@ -1,0 +1,31 @@
+{
+    "icd10code": "T90.2",
+    "type": "subcategory",
+    "title": "Sequelae of fracture of skull and facial bones",
+    "chapter": "Injury, poisoning and certain other consequences of external causes",
+    "chapterCode": "XIX",
+    "block": "Sequelae of injuries, of poisoning and of other consequences of external causes",
+    "blockCode": "T90-T98",
+    "category": "Sequelae of injuries of head",
+    "categoryCode": "T90",
+    "subcategory": "T90.2",
+    "inclusion": [
+        "Sequelae of injury classifiable to S02.-"
+    ],
+    "exclusion": [
+        "birth trauma",
+        "obstetric trauma",
+        "malunion of fracture",
+        "nonunion of fracture [pseudarthrosis]",
+        "pathological fracture",
+        "pathological fracture with osteoporosis",
+        "stress fracture"
+    ],
+    "symptoms": [
+        "headache",
+        "dizziness",
+        "memory problems",
+        "fatigue",
+        "difficulty concentrating"
+    ]
+}

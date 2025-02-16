@@ -1,0 +1,32 @@
+{
+    "icd10code": "F12",
+    "type": "modifiedcategory",
+    "title": "Mental and behavioural disorders due to use of cannabinoids : acute intoxication",
+    "chapter": "Mental and behavioural disorders",
+    "chapterCode": "V",
+    "block": "Mental and behavioural disorders due to psychoactive substance use",
+    "blockCode": "F10-F19",
+    "category": "Mental and behavioural disorders due to use of cannabinoids",
+    "categoryCode": "F12",
+    "subcategory": "",
+    "inclusion": [
+        "disorders of psychological development",
+        "Acute drunkenness (in alcoholism)",
+        "\"Bad trips\" (drugs)",
+        "Drunkenness NOS",
+        "Pathological intoxication",
+        "Trance and possession disorders in psychoactive substance intoxication"
+    ],
+    "exclusion": [
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "abuse of non-dependence-producing substances",
+        "intoxication meaning poisoning"
+    ],
+    "symptoms": [
+        "impaired judgment",
+        "anxiety",
+        "memory loss",
+        "confusion",
+        "motivational issues"
+    ]
+}

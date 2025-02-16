@@ -1,0 +1,28 @@
+{
+    "icd10code": "R47.1",
+    "type": "subcategory",
+    "title": "Dysarthria and anarthria",
+    "chapter": "Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+    "chapterCode": "XVIII",
+    "block": "Symptoms and signs involving speech and voice",
+    "blockCode": "R47-R49",
+    "category": "Speech disturbances, not elsewhere classified",
+    "categoryCode": "R47",
+    "subcategory": "R47.1",
+    "inclusion": null,
+    "exclusion": [
+        "abnormal findings on antenatal screening of mother",
+        "certain conditions originating in the perinatal period",
+        "autism",
+        "cluttering",
+        "specific developmental disorders of speech and language",
+        "stuttering [stammering]"
+    ],
+    "symptoms": [
+        "speech slurring",
+        "slowed speech",
+        "unclear articulation",
+        "difficulty speaking",
+        "impaired speech coordination"
+    ]
+}

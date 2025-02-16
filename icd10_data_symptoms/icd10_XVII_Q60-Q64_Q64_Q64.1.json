@@ -1,0 +1,26 @@
+{
+    "icd10code": "Q64.1",
+    "type": "subcategory",
+    "title": "Exstrophy of urinary bladder",
+    "chapter": "Congenital malformations, deformations and chromosomal abnormalities",
+    "chapterCode": "XVII",
+    "block": "Congenital malformations of the urinary system",
+    "blockCode": "Q60-Q64",
+    "category": "Other congenital malformations of urinary system",
+    "categoryCode": "Q64",
+    "subcategory": "Q64.1",
+    "inclusion": [
+        "Ectopia vesicae",
+        "Extroversion of bladder"
+    ],
+    "exclusion": [
+        "inborn errors of metabolism"
+    ],
+    "symptoms": [
+        "urinary dribbling",
+        "recurrent urinary tract infections",
+        "difficulty urinating",
+        "lower abdominal pain",
+        "incomplete bladder emptying"
+    ]
+}

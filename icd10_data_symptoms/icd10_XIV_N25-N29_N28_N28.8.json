@@ -1,0 +1,44 @@
+{
+    "icd10code": "N28.8",
+    "type": "subcategory",
+    "title": "Other specified disorders of kidney and ureter",
+    "chapter": "Diseases of the genitourinary system",
+    "chapterCode": "XIV",
+    "block": "Other disorders of kidney and ureter",
+    "blockCode": "N25-N29",
+    "category": "Other disorders of kidney and ureter, not elsewhere classified",
+    "categoryCode": "N28",
+    "subcategory": "N28.8",
+    "inclusion": [
+        "Hypertrophy of kidney",
+        "Megaloureter",
+        "Nephroptosis",
+        "Pyelitis cystica",
+        "Pyeloureteritis cystica",
+        "Ureteritis cystica",
+        "Ureterocele"
+    ],
+    "exclusion": [
+        "certain conditions originating in the perinatal period",
+        "certain infectious and parasitic diseases",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "with urolithiasis",
+        "hydroureter",
+        "renal disease: acute NOS",
+        "renal disease: chronic NOS",
+        "ureteric kinking and stricture: with hydronephrosis",
+        "ureteric kinking and stricture: without hydronephrosis"
+    ],
+    "symptoms": [
+        "flank pain",
+        "hematuria",
+        "urinary frequency",
+        "dysuria",
+        "abdominal discomfort"
+    ]
+}

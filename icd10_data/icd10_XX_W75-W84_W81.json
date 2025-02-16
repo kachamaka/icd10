@@ -1,0 +1,19 @@
+{
+  "type": "category",
+  "chapterCode": "XX",
+  "chapter": "External causes of morbidity and mortality",
+  "blockCode": "W75-W84",
+  "block": "Other accidental threats to breathing",
+  "categoryCode": "W81",
+  "category": "Confined to or trapped in a low-oxygen environment",
+  "subcategory": "",
+  "title": "Confined to or trapped in a low-oxygen environment",
+  "inclusion": [
+    "accidentally shut in refrigerator or other airtight space",
+    "diving with insufficient air supply"
+  ],
+  "exclusion": [
+    "suffocation by plastic bag"
+  ],
+  "children": null
+}

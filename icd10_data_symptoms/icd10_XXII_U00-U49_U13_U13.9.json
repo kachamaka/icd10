@@ -1,0 +1,21 @@
+{
+    "icd10code": "U13.9",
+    "type": "subcategory",
+    "title": "Emergency use of U13.9",
+    "chapter": "Codes for special purposes",
+    "chapterCode": "XXII",
+    "block": "Provisional assignment of new diseases of uncertain etiology or emergency use",
+    "blockCode": "U00-U49",
+    "category": "Emergency use of U13",
+    "categoryCode": "U13",
+    "subcategory": "U13.9",
+    "inclusion": null,
+    "exclusion": null,
+    "symptoms": [
+        "fatigue",
+        "shortness of breath",
+        "persistent cough",
+        "muscle aches",
+        "dizziness"
+    ]
+}

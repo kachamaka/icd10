@@ -1,0 +1,36 @@
+{
+    "icd10code": "P50.2",
+    "type": "subcategory",
+    "title": "Fetal blood loss from placenta",
+    "chapter": "Certain conditions originating in the perinatal period",
+    "chapterCode": "XVI",
+    "block": "Haemorrhagic and haematological disorders of fetus and newborn",
+    "blockCode": "P50-P61",
+    "category": "Fetal blood loss",
+    "categoryCode": "P50",
+    "subcategory": "P50.2",
+    "inclusion": [
+        "conditions that have their origin in the perinatal period even though death or morbidity occurs later"
+    ],
+    "exclusion": [
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "tetanus neonatorum",
+        "whooping cough",
+        "congenital stenosis and stricture of bile ducts",
+        "Crigler-Najjar syndrome",
+        "Dubin-Johnson syndrome",
+        "Gilbert syndrome",
+        "hereditary haemolytic anaemias",
+        "due to inborn errors of metabolism"
+    ],
+    "symptoms": [
+        "pallor",
+        "tachycardia",
+        "jaundice",
+        "fatigue",
+        "shortness of breath"
+    ]
+}

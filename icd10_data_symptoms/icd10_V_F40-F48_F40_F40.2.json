@@ -1,0 +1,32 @@
+{
+    "icd10code": "F40.2",
+    "type": "subcategory",
+    "title": "Specific (isolated) phobias",
+    "chapter": "Mental and behavioural disorders",
+    "chapterCode": "V",
+    "block": "Neurotic, stress-related and somatoform disorders",
+    "blockCode": "F40-F48",
+    "category": "Phobic anxiety disorders",
+    "categoryCode": "F40",
+    "subcategory": "F40.2",
+    "inclusion": [
+        "disorders of psychological development",
+        "Acrophobia",
+        "Animal phobias",
+        "Claustrophobia",
+        "Simple phobia"
+    ],
+    "exclusion": [
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "when associated with conduct disorder in F91.-",
+        "dysmorphophobia (nondelusional)",
+        "nosophobia"
+    ],
+    "symptoms": [
+        "excessive worry",
+        "muscle tension",
+        "restlessness",
+        "fatigue",
+        "difficulty concentrating"
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "icd10code": "Q20.0",
+    "type": "subcategory",
+    "title": "Common arterial trunk",
+    "chapter": "Congenital malformations, deformations and chromosomal abnormalities",
+    "chapterCode": "XVII",
+    "block": "Congenital malformations of the circulatory system",
+    "blockCode": "Q20-Q28",
+    "category": "Congenital malformations of cardiac chambers and connections",
+    "categoryCode": "Q20",
+    "subcategory": "Q20.0",
+    "inclusion": [
+        "Persistent truncus arteriosus"
+    ],
+    "exclusion": [
+        "inborn errors of metabolism",
+        "dextrocardia with situs inversus",
+        "mirror-image atrial arrangement with situs inversus"
+    ],
+    "symptoms": [
+        "cyanosis",
+        "difficulty breathing",
+        "fatigue",
+        "heart murmurs",
+        "poor weight gain"
+    ]
+}

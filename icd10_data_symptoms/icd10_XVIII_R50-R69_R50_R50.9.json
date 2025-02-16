@@ -1,0 +1,31 @@
+{
+    "icd10code": "R50.9",
+    "type": "subcategory",
+    "title": "Fever, unspecified",
+    "chapter": "Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+    "chapterCode": "XVIII",
+    "block": "General symptoms and signs",
+    "blockCode": "R50-R69",
+    "category": "Fever of other and unknown origin",
+    "categoryCode": "R50",
+    "subcategory": "R50.9",
+    "inclusion": [
+        "Hyperpyrexia NOS",
+        "Pyrexia NOS"
+    ],
+    "exclusion": [
+        "abnormal findings on antenatal screening of mother",
+        "certain conditions originating in the perinatal period",
+        "fever of unknown origin (during)(in): labour",
+        "fever of unknown origin (during)(in): newborn",
+        "puerperal pyrexia NOS",
+        "malignant hyperthermia due to anaesthesia"
+    ],
+    "symptoms": [
+        "fever",
+        "chills",
+        "sweating",
+        "fatigue",
+        "headache"
+    ]
+}

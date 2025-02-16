@@ -1,0 +1,31 @@
+{
+    "icd10code": "J33.9",
+    "type": "subcategory",
+    "title": "Nasal polyp, unspecified",
+    "chapter": "Diseases of the respiratory system",
+    "chapterCode": "X",
+    "block": "Other diseases of upper respiratory tract",
+    "blockCode": "J30-J39",
+    "category": "Nasal polyp",
+    "categoryCode": "J33",
+    "subcategory": "J33.9",
+    "inclusion": null,
+    "exclusion": [
+        "certain conditions originating in the perinatal period",
+        "certain infectious and parasitic diseases",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "adenomatous polyps"
+    ],
+    "symptoms": [
+        "nasal congestion",
+        "facial pressure",
+        "nasal obstruction",
+        "headache",
+        "postnasal drip"
+    ]
+}

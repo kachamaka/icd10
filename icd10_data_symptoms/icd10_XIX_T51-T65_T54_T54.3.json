@@ -1,0 +1,35 @@
+{
+    "icd10code": "T54.3",
+    "type": "subcategory",
+    "title": "Toxic effect: Corrosive alkalis and alkali-like substances",
+    "chapter": "Injury, poisoning and certain other consequences of external causes",
+    "chapterCode": "XIX",
+    "block": "Toxic effects of substances chiefly nonmedicinal as to source",
+    "blockCode": "T51-T65",
+    "category": "Toxic effect of corrosive substances",
+    "categoryCode": "T54",
+    "subcategory": "T54.3",
+    "inclusion": [
+        "Potassium hydroxide",
+        "Sodium hydroxide"
+    ],
+    "exclusion": [
+        "birth trauma",
+        "obstetric trauma",
+        "malunion of fracture",
+        "nonunion of fracture [pseudarthrosis]",
+        "pathological fracture",
+        "pathological fracture with osteoporosis",
+        "stress fracture",
+        "corrosions",
+        "localized toxic effects classified elsewhere",
+        "respiratory conditions due to external agents"
+    ],
+    "symptoms": [
+        "abdominal pain",
+        "nausea",
+        "vomiting",
+        "dizziness",
+        "difficulty breathing"
+    ]
+}

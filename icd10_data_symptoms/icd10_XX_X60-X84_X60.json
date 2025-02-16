@@ -1,0 +1,28 @@
+{
+    "icd10code": "X60",
+    "type": "category",
+    "title": "Intentional self-poisoning by and exposure to nonopioid analgesics, antipyretics and antirheumatics",
+    "chapter": "External causes of morbidity and mortality",
+    "chapterCode": "XX",
+    "block": "Intentional self-harm",
+    "blockCode": "X60-X84",
+    "category": "Intentional self-poisoning by and exposure to nonopioid analgesics, antipyretics and antirheumatics",
+    "categoryCode": "X60",
+    "subcategory": "",
+    "inclusion": [
+        "purposely self-inflicted poisoning or injury",
+        "suicide (attempted)",
+        "4-aminophenol derivatives",
+        "nonsteroidal anti-inflammatory drugs [NSAID]",
+        "pyrazolone derivatives",
+        "salicylates"
+    ],
+    "exclusion": null,
+    "symptoms": [
+        "nausea",
+        "vomiting",
+        "confusion",
+        "dizziness",
+        "abdominal pain"
+    ]
+}

@@ -1,0 +1,47 @@
+{
+    "icd10code": "L95.0",
+    "type": "subcategory",
+    "title": "Livedoid vasculitis",
+    "chapter": "Diseases of the skin and subcutaneous tissue",
+    "chapterCode": "XII",
+    "block": "Other disorders of the skin and subcutaneous tissue",
+    "blockCode": "L80-L99",
+    "category": "Vasculitis limited to skin, not elsewhere classified",
+    "categoryCode": "L95",
+    "subcategory": "L95.0",
+    "inclusion": [
+        "Atrophie blanche (en plaque)"
+    ],
+    "exclusion": [
+        "certain conditions originating in the perinatal period",
+        "certain infectious and parasitic diseases",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "lipomelanotic reticulosis",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "systemic connective tissue disorders",
+        "angioma serpiginosum",
+        "granulomatosis with polyangiitis",
+        "Henoch(-Schönlein) purpura",
+        "hypersensitivity angiitis",
+        "panniculitis (of): NOS",
+        "panniculitis (of): lupus",
+        "panniculitis (of): neck and back",
+        "panniculitis (of): relapsing [Weber-Christian]",
+        "polyarteritis nodosa",
+        "rheumatoid vasculitis",
+        "serum sickness",
+        "urticaria",
+        "Wegener granulomatosis"
+    ],
+    "symptoms": [
+        "purple spots on skin",
+        "ulcerations",
+        "pain",
+        "redness",
+        "warmth"
+    ]
+}

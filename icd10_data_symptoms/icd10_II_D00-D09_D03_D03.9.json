@@ -1,0 +1,27 @@
+{
+    "icd10code": "D03.9",
+    "type": "subcategory",
+    "title": "Melanoma in situ, unspecified",
+    "chapter": "Neoplasms",
+    "chapterCode": "II",
+    "block": "In situ neoplasms",
+    "blockCode": "D00-D09",
+    "category": "Melanoma in situ",
+    "categoryCode": "D03",
+    "subcategory": "D03.9",
+    "inclusion": [
+        "Bowen disease",
+        "erythroplasia",
+        "morphology codes with behaviour code /2",
+        "Queyrat erythroplasia",
+        "morphology codes M872-M879 with behaviour code /2"
+    ],
+    "exclusion": null,
+    "symptoms": [
+        "unexplained weight loss",
+        "persistent fatigue",
+        "fever or night sweats",
+        "loss of appetite",
+        "unexplained pain or ache"
+    ]
+}

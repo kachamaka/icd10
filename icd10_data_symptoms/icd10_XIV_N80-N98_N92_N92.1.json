@@ -1,0 +1,36 @@
+{
+    "icd10code": "N92.1",
+    "type": "subcategory",
+    "title": "Excessive and frequent menstruation with irregular cycle",
+    "chapter": "Diseases of the genitourinary system",
+    "chapterCode": "XIV",
+    "block": "Noninflammatory disorders of female genital tract",
+    "blockCode": "N80-N98",
+    "category": "Excessive, frequent and irregular menstruation",
+    "categoryCode": "N92",
+    "subcategory": "N92.1",
+    "inclusion": [
+        "Irregular intermenstrual bleeding",
+        "Irregular, shortened intervals between menstrual bleeding",
+        "Menometrorrhagia",
+        "Metrorrhagia"
+    ],
+    "exclusion": [
+        "certain conditions originating in the perinatal period",
+        "certain infectious and parasitic diseases",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "postmenopausal bleeding"
+    ],
+    "symptoms": [
+        "prolonged menstrual bleeding",
+        "heavy menstrual flow",
+        "irregular periods",
+        "spotting between periods",
+        "fatigue from blood loss"
+    ]
+}

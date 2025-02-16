@@ -1,0 +1,27 @@
+{
+    "icd10code": "F93.2",
+    "type": "subcategory",
+    "title": "Social anxiety disorder of childhood",
+    "chapter": "Mental and behavioural disorders",
+    "chapterCode": "V",
+    "block": "Behavioural and emotional disorders with onset usually occurring in childhood and adolescence",
+    "blockCode": "F90-F98",
+    "category": "Emotional disorders with onset specific to childhood",
+    "categoryCode": "F93",
+    "subcategory": "F93.2",
+    "inclusion": [
+        "disorders of psychological development",
+        "Avoidant disorder of childhood or adolescence"
+    ],
+    "exclusion": [
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "when associated with conduct disorder"
+    ],
+    "symptoms": [
+        "separation anxiety",
+        "excessive distress",
+        "worry about harm",
+        "reluctance to be alone",
+        "nightmares about separation"
+    ]
+}

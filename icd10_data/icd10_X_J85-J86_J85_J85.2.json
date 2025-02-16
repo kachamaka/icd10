@@ -1,0 +1,25 @@
+{
+  "type": "subcategory",
+  "chapterCode": "X",
+  "chapter": "Diseases of the respiratory system",
+  "blockCode": "J85-J86",
+  "block": "Suppurative and necrotic conditions of lower respiratory tract",
+  "categoryCode": "J85",
+  "category": "Abscess of lung and mediastinum",
+  "subcategory": "J85.2",
+  "title": "Abscess of lung without pneumonia",
+  "inclusion": [
+    "Abscess of lung NOS"
+  ],
+  "exclusion": [
+    "certain conditions originating in the perinatal period",
+    "certain infectious and parasitic diseases",
+    "complications of pregnancy, childbirth and the puerperium",
+    "congenital malformations, deformations and chromosomal abnormalities",
+    "endocrine, nutritional and metabolic diseases",
+    "injury, poisoning and certain other consequences of external causes",
+    "neoplasms",
+    "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified"
+  ],
+  "children": null
+}

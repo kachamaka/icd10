@@ -1,0 +1,28 @@
+{
+    "icd10code": "Z47.0",
+    "type": "subcategory",
+    "title": "Follow-up care involving removal of fracture plate and other internal fixation device",
+    "chapter": "Factors influencing health status and contact with health services",
+    "chapterCode": "XXI",
+    "block": "Persons encountering health services for specific procedures and health care",
+    "blockCode": "Z40-Z54",
+    "category": "Other orthopaedic follow-up care",
+    "categoryCode": "Z47",
+    "subcategory": "Z47.0",
+    "inclusion": [
+        "Removal of: pins",
+        "Removal of: plates",
+        "Removal of: rods",
+        "Removal of: screws"
+    ],
+    "exclusion": [
+        "follow-up examination for medical surveillance after treatment",
+        "care involving rehabilitation procedures",
+        "complication of internal orthopaedic devices, implants and grafts",
+        "follow-up examination after treatment of fracture",
+        "removal of external fixation device"
+    ],
+    "symptoms": [
+        "asymptomatic"
+    ]
+}

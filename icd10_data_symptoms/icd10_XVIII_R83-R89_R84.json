@@ -1,0 +1,35 @@
+{
+    "icd10code": "R84",
+    "type": "modifiedcategory",
+    "title": "Abnormal findings in specimens from respiratory organs and thorax : abnormal level of enzymes",
+    "chapter": "Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+    "chapterCode": "XVIII",
+    "block": "Abnormal findings on examination of other body fluids, substances and tissues, without diagnosis",
+    "blockCode": "R83-R89",
+    "category": "Abnormal findings in specimens from respiratory organs and thorax",
+    "categoryCode": "R84",
+    "subcategory": "",
+    "inclusion": [
+        "Abnormal findings in: bronchial washings",
+        "Abnormal findings in: nasal secretions",
+        "Abnormal findings in: pleural fluid",
+        "Abnormal findings in: sputum",
+        "Abnormal findings in: throat scrapings"
+    ],
+    "exclusion": [
+        "abnormal findings on antenatal screening of mother",
+        "certain conditions originating in the perinatal period",
+        "abnormal findings on: antenatal screening of mother",
+        "abnormal findings on: examination of: blood, without diagnosis",
+        "abnormal findings on: examination of: urine, without diagnosis",
+        "diagnostic abnormal findings classified elsewhere - see Alphabetical Index",
+        "carcinoma in situ"
+    ],
+    "symptoms": [
+        "abnormal sputum color",
+        "blood in sputum",
+        "foul-smelling sputum",
+        "thick mucus in sputum",
+        "presence of unexpected cells in sputum"
+    ]
+}

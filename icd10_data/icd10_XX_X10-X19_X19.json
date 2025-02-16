@@ -1,0 +1,18 @@
+{
+  "type": "category",
+  "chapterCode": "XX",
+  "chapter": "External causes of morbidity and mortality",
+  "blockCode": "X10-X19",
+  "block": "Contact with heat and hot substances",
+  "categoryCode": "X19",
+  "category": "Contact with other and unspecified heat and hot substances",
+  "subcategory": "",
+  "title": "Contact with other and unspecified heat and hot substances",
+  "inclusion": null,
+  "exclusion": [
+    "exposure to: excessive natural heat",
+    "exposure to: fire and flames",
+    "objects that are not normally hot, e.g., an object made hot by a house fire"
+  ],
+  "children": null
+}

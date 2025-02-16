@@ -1,0 +1,20 @@
+{
+  "type": "subcategory",
+  "chapterCode": "II",
+  "chapter": "Neoplasms",
+  "blockCode": "C00-C14",
+  "block": "Malignant neoplasms of lip, oral cavity and pharynx",
+  "categoryCode": "C00",
+  "category": "Malignant neoplasm of lip",
+  "subcategory": "C00.0",
+  "title": "Malignant neoplasm: External upper lip",
+  "inclusion": [
+    "Upper lip: NOS",
+    "Upper lip: lipstick area",
+    "Upper lip: vermilion border"
+  ],
+  "exclusion": [
+    "skin of lip"
+  ],
+  "children": null
+}

@@ -1,0 +1,23 @@
+{
+    "icd10code": "C20",
+    "type": "category",
+    "title": "Malignant neoplasm of rectum",
+    "chapter": "Neoplasms",
+    "chapterCode": "II",
+    "block": "Malignant neoplasms of digestive organs",
+    "blockCode": "C15-C26",
+    "category": "Malignant neoplasm of rectum",
+    "categoryCode": "C20",
+    "subcategory": "",
+    "inclusion": [
+        "Rectal ampulla"
+    ],
+    "exclusion": null,
+    "symptoms": [
+        "rectal bleeding",
+        "change in bowel habits",
+        "persistent abdominal discomfort",
+        "feeling of not emptying the bowel completely",
+        "weakness or fatigue"
+    ]
+}

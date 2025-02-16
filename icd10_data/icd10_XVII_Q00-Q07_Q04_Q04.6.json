@@ -1,0 +1,22 @@
+{
+  "type": "subcategory",
+  "chapterCode": "XVII",
+  "chapter": "Congenital malformations, deformations and chromosomal abnormalities",
+  "blockCode": "Q00-Q07",
+  "block": "Congenital malformations of the nervous system",
+  "categoryCode": "Q04",
+  "category": "Other congenital malformations of brain",
+  "subcategory": "Q04.6",
+  "title": "Congenital cerebral cysts",
+  "inclusion": [
+    "Porencephaly",
+    "Schizencephaly"
+  ],
+  "exclusion": [
+    "inborn errors of metabolism",
+    "cyclopia",
+    "macrocephaly",
+    "acquired porencephalic cyst"
+  ],
+  "children": null
+}

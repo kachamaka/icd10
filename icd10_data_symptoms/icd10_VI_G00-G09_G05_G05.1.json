@@ -1,0 +1,44 @@
+{
+    "icd10code": "G05.1",
+    "type": "subcategory",
+    "title": "Encephalitis, myelitis and encephalomyelitis in viral diseases classified elsewhere",
+    "chapter": "Diseases of the nervous system",
+    "chapterCode": "VI",
+    "block": "Inflammatory diseases of the central nervous system",
+    "blockCode": "G00-G09",
+    "category": "Encephalitis, myelitis and encephalomyelitis in diseases classified elsewhere",
+    "categoryCode": "G05",
+    "subcategory": "G05.1",
+    "inclusion": [
+        "meningoencephalitis and meningomyelitis in diseases classified elsewhere",
+        "Encephalitis, myelitis or encephalomyelitis (in): adenoviral",
+        "Encephalitis, myelitis or encephalomyelitis (in): cytomegaloviral",
+        "Encephalitis, myelitis or encephalomyelitis (in): enteroviral",
+        "Encephalitis, myelitis or encephalomyelitis (in): herpesviral [herpes simplex]",
+        "Encephalitis, myelitis or encephalomyelitis (in): influenza: seasonal virus identified",
+        "Encephalitis, myelitis or encephalomyelitis (in): influenza: virus not identified",
+        "Encephalitis, myelitis or encephalomyelitis (in): influenza: zoonotic or pandemic influenza virus identified",
+        "Encephalitis, myelitis or encephalomyelitis (in): measles",
+        "Encephalitis, myelitis or encephalomyelitis (in): mumps",
+        "Encephalitis, myelitis or encephalomyelitis (in): postchickenpox",
+        "Encephalitis, myelitis or encephalomyelitis (in): rubella",
+        "Encephalitis, myelitis or encephalomyelitis (in): zoster"
+    ],
+    "exclusion": [
+        "certain conditions originating in the perinatal period",
+        "certain infectious and parasitic diseases",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified"
+    ],
+    "symptoms": [
+        "headache",
+        "fever",
+        "stiff neck",
+        "confusion",
+        "sensitivity to light"
+    ]
+}

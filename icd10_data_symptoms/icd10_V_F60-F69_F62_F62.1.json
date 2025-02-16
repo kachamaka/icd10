@@ -1,0 +1,26 @@
+{
+    "icd10code": "F62.1",
+    "type": "subcategory",
+    "title": "Enduring personality change after psychiatric illness",
+    "chapter": "Mental and behavioural disorders",
+    "chapterCode": "V",
+    "block": "Disorders of adult personality and behaviour",
+    "blockCode": "F60-F69",
+    "category": "Enduring personality changes, not attributable to brain damage and disease",
+    "categoryCode": "F62",
+    "subcategory": "F62.1",
+    "inclusion": [
+        "disorders of psychological development"
+    ],
+    "exclusion": [
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "personality and behavioural disorder due to brain disease, damage and dysfunction"
+    ],
+    "symptoms": [
+        "difficulty regulating emotions",
+        "unstable relationships",
+        "intense fear of abandonment",
+        "impulsivity",
+        "identity disturbance"
+    ]
+}

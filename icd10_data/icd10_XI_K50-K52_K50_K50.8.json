@@ -1,0 +1,30 @@
+{
+  "type": "subcategory",
+  "chapterCode": "XI",
+  "chapter": "Diseases of the digestive system",
+  "blockCode": "K50-K52",
+  "block": "Noninfective enteritis and colitis",
+  "categoryCode": "K50",
+  "category": "Crohn disease [regional enteritis]",
+  "subcategory": "K50.8",
+  "title": "Other Crohn disease",
+  "inclusion": [
+    "noninfective inflammatory bowel disease",
+    "granulomatous enteritis",
+    "Crohn disease of both small and large intestine"
+  ],
+  "exclusion": [
+    "certain conditions originating in the perinatal period",
+    "certain infectious and parasitic diseases",
+    "complications of pregnancy, childbirth and the puerperium",
+    "congenital malformations, deformations and chromosomal abnormalities",
+    "endocrine, nutritional and metabolic diseases",
+    "injury, poisoning and certain other consequences of external causes",
+    "neoplasms",
+    "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+    "irritable bowel syndrome",
+    "megacolon",
+    "ulcerative colitis"
+  ],
+  "children": null
+}

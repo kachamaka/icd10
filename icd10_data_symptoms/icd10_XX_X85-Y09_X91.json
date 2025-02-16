@@ -1,0 +1,27 @@
+{
+    "icd10code": "X91",
+    "type": "category",
+    "title": "Assault by hanging, strangulation and suffocation",
+    "chapter": "External causes of morbidity and mortality",
+    "chapterCode": "XX",
+    "block": "Assault",
+    "blockCode": "X85-Y09",
+    "category": "Assault by hanging, strangulation and suffocation",
+    "categoryCode": "X91",
+    "subcategory": "",
+    "inclusion": [
+        "homicide",
+        "injuries inflicted by another person with intent to injure or kill, by any means"
+    ],
+    "exclusion": [
+        "injuries due to: legal intervention",
+        "injuries due to: operations of war"
+    ],
+    "symptoms": [
+        "physical injuries",
+        "bruising",
+        "lacerations",
+        "swelling",
+        "pain"
+    ]
+}

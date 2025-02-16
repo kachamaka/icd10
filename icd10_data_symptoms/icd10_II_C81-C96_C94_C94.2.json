@@ -1,0 +1,28 @@
+{
+    "icd10code": "C94.2",
+    "type": "subcategory",
+    "title": "Acute megakaryoblastic leukaemia",
+    "chapter": "Neoplasms",
+    "chapterCode": "II",
+    "block": "Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",
+    "blockCode": "C81-C96",
+    "category": "Other leukaemias of specified cell type",
+    "categoryCode": "C94",
+    "subcategory": "C94.2",
+    "inclusion": [
+        "Acute myeloid leukaemia, M7",
+        "Acute megakaryocytic leukaemia"
+    ],
+    "exclusion": [
+        "secondary and unspecified neoplasm of lymph nodes",
+        "leukaemic reticuloendotheliosis",
+        "plasma cell leukaemia"
+    ],
+    "symptoms": [
+        "fatigue",
+        "shortness of breath",
+        "pallor",
+        "easy bruising",
+        "frequent infections"
+    ]
+}

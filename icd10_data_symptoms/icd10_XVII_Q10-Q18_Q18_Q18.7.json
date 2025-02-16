@@ -1,0 +1,37 @@
+{
+    "icd10code": "Q18.7",
+    "type": "subcategory",
+    "title": "Microcheilia",
+    "chapter": "Congenital malformations, deformations and chromosomal abnormalities",
+    "chapterCode": "XVII",
+    "block": "Congenital malformations of eye, ear, face and neck",
+    "blockCode": "Q10-Q18",
+    "category": "Other congenital malformations of face and neck",
+    "categoryCode": "Q18",
+    "subcategory": "Q18.7",
+    "inclusion": null,
+    "exclusion": [
+        "inborn errors of metabolism",
+        "cleft lip and cleft palate",
+        "congenital malformation of: cervical spine",
+        "congenital malformation of: larynx",
+        "congenital malformation of: lip NEC",
+        "congenital malformation of: nose",
+        "congenital malformation of: parathyroid gland",
+        "congenital malformation of: thyroid gland",
+        "cleft lip and cleft palate",
+        "conditions classified to Q67.0-Q67.4",
+        "congenital malformations of skull and face bones",
+        "cyclopia",
+        "dentofacial anomalies [including malocclusion]",
+        "malformation syndromes affecting facial appearance",
+        "persistent thyroglossal duct"
+    ],
+    "symptoms": [
+        "facial asymmetry",
+        "malformed ear",
+        "absent ear canal",
+        "hearing loss",
+        "underdeveloped mandible"
+    ]
+}

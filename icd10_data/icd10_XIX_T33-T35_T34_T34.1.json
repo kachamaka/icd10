@@ -1,0 +1,24 @@
+{
+  "type": "subcategory",
+  "chapterCode": "XIX",
+  "chapter": "Injury, poisoning and certain other consequences of external causes",
+  "blockCode": "T33-T35",
+  "block": "Frostbite",
+  "categoryCode": "T34",
+  "category": "Frostbite with tissue necrosis",
+  "subcategory": "T34.1",
+  "title": "Frostbite with tissue necrosis of neck",
+  "inclusion": null,
+  "exclusion": [
+    "birth trauma",
+    "obstetric trauma",
+    "malunion of fracture",
+    "nonunion of fracture [pseudarthrosis]",
+    "pathological fracture",
+    "pathological fracture with osteoporosis",
+    "stress fracture",
+    "adverse effects of drugs and medicaments",
+    "frostbite with tissue necrosis involving multiple body regions"
+  ],
+  "children": null
+}

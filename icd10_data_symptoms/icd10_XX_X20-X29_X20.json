@@ -1,0 +1,38 @@
+{
+    "icd10code": "X20",
+    "type": "category",
+    "title": "Contact with venomous snakes and lizards",
+    "chapter": "External causes of morbidity and mortality",
+    "chapterCode": "XX",
+    "block": "Contact with venomous animals and plants",
+    "blockCode": "X20-X29",
+    "category": "Contact with venomous snakes and lizards",
+    "categoryCode": "X20",
+    "subcategory": "",
+    "inclusion": [
+        "chemical released by: animal",
+        "chemical released by: insect",
+        "release of venom through fangs, hairs, spines, tentacles and other venom apparatus",
+        "venomous bites and stings",
+        "cobra",
+        "fer de lance",
+        "Gila monster",
+        "krait",
+        "rattlesnake",
+        "sea snake",
+        "snake (venomous)",
+        "viper"
+    ],
+    "exclusion": [
+        "ingestion of poisonous animals or plants",
+        "lizard (nonvenomous)",
+        "snake, nonvenomous"
+    ],
+    "symptoms": [
+        "pain at bite site",
+        "swelling",
+        "redness",
+        "itching",
+        "nausea"
+    ]
+}

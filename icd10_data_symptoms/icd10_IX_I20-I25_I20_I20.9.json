@@ -1,0 +1,38 @@
+{
+    "icd10code": "I20.9",
+    "type": "subcategory",
+    "title": "Angina pectoris, unspecified",
+    "chapter": "Diseases of the circulatory system",
+    "chapterCode": "IX",
+    "block": "Ischaemic heart diseases",
+    "blockCode": "I20-I25",
+    "category": "Angina pectoris",
+    "categoryCode": "I20",
+    "subcategory": "I20.9",
+    "inclusion": [
+        "with mention of hypertension",
+        "Angina: NOS",
+        "Angina: cardiac",
+        "Anginal syndrome",
+        "Ischaemic chest pain"
+    ],
+    "exclusion": [
+        "certain conditions originating in the perinatal period",
+        "certain infectious and parasitic diseases",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "systemic connective tissue disorders",
+        "transient cerebral ischaemic attacks and related syndromes"
+    ],
+    "symptoms": [
+        "chest pain",
+        "discomfort or pressure in the chest",
+        "pain radiating to arms/jaw/back",
+        "shortness of breath",
+        "feeling of impending doom"
+    ]
+}

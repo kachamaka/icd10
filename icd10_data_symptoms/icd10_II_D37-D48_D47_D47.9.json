@@ -1,0 +1,23 @@
+{
+    "icd10code": "D47.9",
+    "type": "subcategory",
+    "title": "Neoplasm of uncertain or unknown behaviour of lymphoid, haematopoietic and related tissue, unspecified",
+    "chapter": "Neoplasms",
+    "chapterCode": "II",
+    "block": "Neoplasms of uncertain or unknown behaviour",
+    "blockCode": "D37-D48",
+    "category": "Other neoplasms of uncertain or unknown behaviour of lymphoid, haematopoietic and related tissue",
+    "categoryCode": "D47",
+    "subcategory": "D47.9",
+    "inclusion": [
+        "Lymphoproliferative disease NOS"
+    ],
+    "exclusion": null,
+    "symptoms": [
+        "fatigue",
+        "unexpected weight loss",
+        "weakness",
+        "discomfort in bones",
+        "night sweats"
+    ]
+}

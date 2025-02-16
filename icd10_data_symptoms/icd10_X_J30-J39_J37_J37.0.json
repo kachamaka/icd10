@@ -1,0 +1,37 @@
+{
+    "icd10code": "J37.0",
+    "type": "subcategory",
+    "title": "Chronic laryngitis",
+    "chapter": "Diseases of the respiratory system",
+    "chapterCode": "X",
+    "block": "Other diseases of upper respiratory tract",
+    "blockCode": "J30-J39",
+    "category": "Chronic laryngitis and laryngotracheitis",
+    "categoryCode": "J37",
+    "subcategory": "J37.0",
+    "inclusion": [
+        "Laryngitis: catarrhal",
+        "Laryngitis: hypertrophic",
+        "Laryngitis: sicca"
+    ],
+    "exclusion": [
+        "certain conditions originating in the perinatal period",
+        "certain infectious and parasitic diseases",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "laryngitis: NOS",
+        "laryngitis: acute",
+        "laryngitis: obstructive (acute)"
+    ],
+    "symptoms": [
+        "chronic cough",
+        "hoarseness",
+        "throat clearing",
+        "sore throat",
+        "voice fatigue"
+    ]
+}

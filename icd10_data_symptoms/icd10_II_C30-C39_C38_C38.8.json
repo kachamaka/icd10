@@ -1,0 +1,26 @@
+{
+    "icd10code": "C38.8",
+    "type": "subcategory",
+    "title": "Malignant neoplasm: Overlapping lesion of heart, mediastinum and pleura",
+    "chapter": "Neoplasms",
+    "chapterCode": "II",
+    "block": "Malignant neoplasms of respiratory and intrathoracic organs",
+    "blockCode": "C30-C39",
+    "category": "Malignant neoplasm of heart, mediastinum and pleura",
+    "categoryCode": "C38",
+    "subcategory": "C38.8",
+    "inclusion": [
+        "middle ear"
+    ],
+    "exclusion": [
+        "mesothelioma",
+        "mesothelioma"
+    ],
+    "symptoms": [
+        "chest pain",
+        "difficulty breathing",
+        "persistent cough",
+        "blood in sputum",
+        "hoarseness"
+    ]
+}

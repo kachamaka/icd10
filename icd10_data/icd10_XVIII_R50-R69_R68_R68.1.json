@@ -1,0 +1,22 @@
+{
+  "type": "subcategory",
+  "chapterCode": "XVIII",
+  "chapter": "Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+  "blockCode": "R50-R69",
+  "block": "General symptoms and signs",
+  "categoryCode": "R68",
+  "category": "Other general symptoms and signs",
+  "subcategory": "R68.1",
+  "title": "Nonspecific symptoms peculiar to infancy",
+  "inclusion": [
+    "Excessive crying of infant",
+    "Irritable infant"
+  ],
+  "exclusion": [
+    "abnormal findings on antenatal screening of mother",
+    "certain conditions originating in the perinatal period",
+    "neonatal cerebral irritability",
+    "teething syndrome"
+  ],
+  "children": null
+}

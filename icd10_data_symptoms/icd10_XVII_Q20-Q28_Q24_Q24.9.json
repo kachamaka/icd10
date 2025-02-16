@@ -1,0 +1,27 @@
+{
+    "icd10code": "Q24.9",
+    "type": "subcategory",
+    "title": "Congenital malformation of heart, unspecified",
+    "chapter": "Congenital malformations, deformations and chromosomal abnormalities",
+    "chapterCode": "XVII",
+    "block": "Congenital malformations of the circulatory system",
+    "blockCode": "Q20-Q28",
+    "category": "Other congenital malformations of heart",
+    "categoryCode": "Q24",
+    "subcategory": "Q24.9",
+    "inclusion": [
+        "Congenital: anomaly NOS of heart",
+        "Congenital: disease NOS of heart"
+    ],
+    "exclusion": [
+        "inborn errors of metabolism",
+        "endocardial fibroelastosis"
+    ],
+    "symptoms": [
+        "congenital heart defect",
+        "cyanosis",
+        "shortness of breath",
+        "poor feeding",
+        "failure to thrive,"
+    ]
+}

@@ -1,0 +1,19 @@
+{
+  "type": "subcategory",
+  "chapterCode": "XXI",
+  "chapter": "Factors influencing health status and contact with health services",
+  "blockCode": "Z80-Z99",
+  "block": "Persons with potential health hazards related to family and personal history and certain conditions influencing health status",
+  "categoryCode": "Z88",
+  "category": "Personal history of allergy to drugs, medicaments and biological substances",
+  "subcategory": "Z88.9",
+  "title": "Personal history of allergy to unspecified drugs, medicaments and biological substances",
+  "inclusion": null,
+  "exclusion": [
+    "follow-up examination",
+    "follow-up medical care and convalescence",
+    "when family or personal history is the reason for special screening or other examination or investigation",
+    "when the possibility that the fetus might be affected is the reason for observation or action during pregnancy"
+  ],
+  "children": null
+}

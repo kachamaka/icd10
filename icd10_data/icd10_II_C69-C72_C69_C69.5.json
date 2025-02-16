@@ -1,0 +1,21 @@
+{
+  "type": "subcategory",
+  "chapterCode": "II",
+  "chapter": "Neoplasms",
+  "blockCode": "C69-C72",
+  "block": "Malignant neoplasms of eye, brain and other parts of central nervous system",
+  "categoryCode": "C69",
+  "category": "Malignant neoplasm of eye and adnexa",
+  "subcategory": "C69.5",
+  "title": "Malignant neoplasm: Lacrimal gland and duct",
+  "inclusion": [
+    "Lacrimal sac",
+    "Nasolacrimal duct"
+  ],
+  "exclusion": [
+    "connective tissue of eyelid",
+    "eyelid (skin)",
+    "optic nerve"
+  ],
+  "children": null
+}

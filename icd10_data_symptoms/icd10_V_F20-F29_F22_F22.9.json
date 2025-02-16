@@ -1,0 +1,25 @@
+{
+    "icd10code": "F22.9",
+    "type": "subcategory",
+    "title": "Persistent delusional disorder, unspecified",
+    "chapter": "Mental and behavioural disorders",
+    "chapterCode": "V",
+    "block": "Schizophrenia, schizotypal and delusional disorders",
+    "blockCode": "F20-F29",
+    "category": "Persistent delusional disorders",
+    "categoryCode": "F22",
+    "subcategory": "F22.9",
+    "inclusion": [
+        "disorders of psychological development"
+    ],
+    "exclusion": [
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified"
+    ],
+    "symptoms": [
+        "delusions",
+        "anxiety",
+        "paranoia",
+        "hallucinations",
+        "cognitive disturbances"
+    ]
+}

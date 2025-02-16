@@ -1,0 +1,23 @@
+{
+  "type": "subcategory",
+  "chapterCode": "IV",
+  "chapter": "Endocrine, nutritional and metabolic diseases",
+  "blockCode": "E50-E64",
+  "block": "Other nutritional deficiencies",
+  "categoryCode": "E53",
+  "category": "Deficiency of other B group vitamins",
+  "subcategory": "E53.0",
+  "title": "Riboflavin deficiency",
+  "inclusion": [
+    "Ariboflavinosis"
+  ],
+  "exclusion": [
+    "complications of pregnancy, childbirth and the puerperium",
+    "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+    "transitory endocrine and metabolic disorders specific to fetus and newborn",
+    "diabetes mellitus (in): malnutrition-related",
+    "sequelae of vitamin B deficiency",
+    "vitamin B 12 deficiency anaemia"
+  ],
+  "children": null
+}

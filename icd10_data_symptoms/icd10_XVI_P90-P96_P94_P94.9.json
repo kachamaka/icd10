@@ -1,0 +1,30 @@
+{
+    "icd10code": "P94.9",
+    "type": "subcategory",
+    "title": "Disorder of muscle tone of newborn, unspecified",
+    "chapter": "Certain conditions originating in the perinatal period",
+    "chapterCode": "XVI",
+    "block": "Other disorders originating in the perinatal period",
+    "blockCode": "P90-P96",
+    "category": "Disorders of muscle tone of newborn",
+    "categoryCode": "P94",
+    "subcategory": "P94.9",
+    "inclusion": [
+        "conditions that have their origin in the perinatal period even though death or morbidity occurs later"
+    ],
+    "exclusion": [
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "tetanus neonatorum",
+        "whooping cough"
+    ],
+    "symptoms": [
+        "hypotonia",
+        "muscle stiffness",
+        "lack of coordination",
+        "delayed motor skills",
+        "poor reflexes"
+    ]
+}

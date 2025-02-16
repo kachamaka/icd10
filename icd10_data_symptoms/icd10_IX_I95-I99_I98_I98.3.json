@@ -1,0 +1,36 @@
+{
+    "icd10code": "I98.3",
+    "type": "subcategory",
+    "title": "Oesophageal varices with bleeding in diseases classified elsewhere",
+    "chapter": "Diseases of the circulatory system",
+    "chapterCode": "IX",
+    "block": "Other and unspecified disorders of the circulatory system",
+    "blockCode": "I95-I99",
+    "category": "Other disorders of circulatory system in diseases classified elsewhere",
+    "categoryCode": "I98",
+    "subcategory": "I98.3",
+    "inclusion": [
+        "Oesophageal varices with bleeding in: liver disorders",
+        "Oesophageal varices with bleeding in: schistosomiasis"
+    ],
+    "exclusion": [
+        "certain conditions originating in the perinatal period",
+        "certain infectious and parasitic diseases",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "systemic connective tissue disorders",
+        "transient cerebral ischaemic attacks and related syndromes",
+        "pulmonary"
+    ],
+    "symptoms": [
+        "shortness of breath",
+        "fatigue",
+        "leg swelling",
+        "rapid or irregular heartbeat",
+        "decreased physical performance"
+    ]
+}

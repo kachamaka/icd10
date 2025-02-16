@@ -1,0 +1,52 @@
+{
+    "icd10code": "S03.4",
+    "type": "subcategory",
+    "title": "Sprain and strain of jaw",
+    "chapter": "Injury, poisoning and certain other consequences of external causes",
+    "chapterCode": "XIX",
+    "block": "Injuries to the head",
+    "blockCode": "S00-S09",
+    "category": "Dislocation, sprain and strain of joints and ligaments of head",
+    "categoryCode": "S03",
+    "subcategory": "S03.4",
+    "inclusion": [
+        "injuries of: ear",
+        "injuries of: eye",
+        "injuries of: face [any part]",
+        "injuries of: gum",
+        "injuries of: jaw",
+        "injuries of: temporomandibular joint area",
+        "injuries of: oral cavity",
+        "injuries of: palate",
+        "injuries of: periocular area",
+        "injuries of: scalp",
+        "injuries of: tongue",
+        "injuries of: tooth",
+        "Temporomandibular (joint)(ligament)"
+    ],
+    "exclusion": [
+        "birth trauma",
+        "obstetric trauma",
+        "malunion of fracture",
+        "nonunion of fracture [pseudarthrosis]",
+        "pathological fracture",
+        "pathological fracture with osteoporosis",
+        "stress fracture",
+        "burns and corrosions",
+        "effects of foreign body: in: ear",
+        "effects of foreign body: in: larynx",
+        "effects of foreign body: in: mouth",
+        "effects of foreign body: in: nose",
+        "effects of foreign body: in: pharynx",
+        "effects of foreign body: on external eye",
+        "frostbite",
+        "insect bite or sting, venomous"
+    ],
+    "symptoms": [
+        "pain",
+        "swelling",
+        "limited range of motion",
+        "tenderness",
+        "headache"
+    ]
+}

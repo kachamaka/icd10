@@ -1,0 +1,17 @@
+{
+    "icd10code": "Y24",
+    "type": "category",
+    "title": "Other and unspecified firearm discharge, undetermined intent",
+    "chapter": "External causes of morbidity and mortality",
+    "chapterCode": "XX",
+    "block": "Event of undetermined intent",
+    "blockCode": "Y10-Y34",
+    "category": "Other and unspecified firearm discharge, undetermined intent",
+    "categoryCode": "Y24",
+    "subcategory": "",
+    "inclusion": null,
+    "exclusion": null,
+    "symptoms": [
+        "asymptomatic"
+    ]
+}

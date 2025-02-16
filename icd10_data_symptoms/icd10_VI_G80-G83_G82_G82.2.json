@@ -1,0 +1,34 @@
+{
+    "icd10code": "G82.2",
+    "type": "subcategory",
+    "title": "Paraplegia, unspecified",
+    "chapter": "Diseases of the nervous system",
+    "chapterCode": "VI",
+    "block": "Cerebral palsy and other paralytic syndromes",
+    "blockCode": "G80-G83",
+    "category": "Paraplegia and tetraplegia",
+    "categoryCode": "G82",
+    "subcategory": "G82.2",
+    "inclusion": [
+        "Paralysis of both lower limbs NOS",
+        "Paraplegia (lower) NOS"
+    ],
+    "exclusion": [
+        "certain conditions originating in the perinatal period",
+        "certain infectious and parasitic diseases",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "congenital cerebral palsy"
+    ],
+    "symptoms": [
+        "impaired motor function",
+        "loss of sensation",
+        "spasticity",
+        "muscle weakness",
+        "bladder dysfunction"
+    ]
+}

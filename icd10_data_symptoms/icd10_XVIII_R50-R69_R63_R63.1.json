@@ -1,0 +1,29 @@
+{
+    "icd10code": "R63.1",
+    "type": "subcategory",
+    "title": "Polydipsia",
+    "chapter": "Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+    "chapterCode": "XVIII",
+    "block": "General symptoms and signs",
+    "blockCode": "R50-R69",
+    "category": "Symptoms and signs concerning food and fluid intake",
+    "categoryCode": "R63",
+    "subcategory": "R63.1",
+    "inclusion": [
+        "Excessive thirst"
+    ],
+    "exclusion": [
+        "abnormal findings on antenatal screening of mother",
+        "certain conditions originating in the perinatal period",
+        "bulimia NOS",
+        "eating disorders of nonorganic origin",
+        "malnutrition"
+    ],
+    "symptoms": [
+        "loss of appetite",
+        "decreased food intake",
+        "unintentional weight loss",
+        "aversion to eating",
+        "difficulty swallowing"
+    ]
+}

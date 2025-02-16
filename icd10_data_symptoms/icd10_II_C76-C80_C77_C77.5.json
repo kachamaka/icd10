@@ -1,0 +1,23 @@
+{
+    "icd10code": "C77.5",
+    "type": "subcategory",
+    "title": "Secondary and unspecified malignant neoplasm: Intrapelvic lymph nodes",
+    "chapter": "Neoplasms",
+    "chapterCode": "II",
+    "block": "Malignant neoplasms of ill-defined, secondary and unspecified sites",
+    "blockCode": "C76-C80",
+    "category": "Secondary and unspecified malignant neoplasm of lymph nodes",
+    "categoryCode": "C77",
+    "subcategory": "C77.5",
+    "inclusion": null,
+    "exclusion": [
+        "malignant neoplasm of lymph nodes, specified as primary"
+    ],
+    "symptoms": [
+        "swelling in the pelvic region",
+        "pain in pelvic area",
+        "unexplained weight loss",
+        "persistent fatigue",
+        "change in bowel habits"
+    ]
+}

@@ -1,0 +1,14 @@
+{
+  "type": "category",
+  "chapterCode": "XX",
+  "chapter": "External causes of morbidity and mortality",
+  "blockCode": "X58-X59",
+  "block": "Accidental exposure to other and unspecified factors",
+  "categoryCode": "X58",
+  "category": "Exposure to other specified factors",
+  "subcategory": "",
+  "title": "Exposure to other specified factors",
+  "inclusion": null,
+  "exclusion": null,
+  "children": null
+}

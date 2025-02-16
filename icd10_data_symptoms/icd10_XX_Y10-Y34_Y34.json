@@ -1,0 +1,17 @@
+{
+    "icd10code": "Y34",
+    "type": "category",
+    "title": "Unspecified event, undetermined intent",
+    "chapter": "External causes of morbidity and mortality",
+    "chapterCode": "XX",
+    "block": "Event of undetermined intent",
+    "blockCode": "Y10-Y34",
+    "category": "Unspecified event, undetermined intent",
+    "categoryCode": "Y34",
+    "subcategory": "",
+    "inclusion": null,
+    "exclusion": null,
+    "symptoms": [
+        "asymptomatic"
+    ]
+}

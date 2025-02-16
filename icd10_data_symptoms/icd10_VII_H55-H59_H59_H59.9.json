@@ -1,0 +1,33 @@
+{
+    "icd10code": "H59.9",
+    "type": "subcategory",
+    "title": "Postprocedural disorder of eye and adnexa, unspecified",
+    "chapter": "Diseases of the eye and adnexa",
+    "chapterCode": "VII",
+    "block": "Other disorders of eye and adnexa",
+    "blockCode": "H55-H59",
+    "category": "Postprocedural disorders of eye and adnexa, not elsewhere classified",
+    "categoryCode": "H59",
+    "subcategory": "H59.9",
+    "inclusion": null,
+    "exclusion": [
+        "certain conditions originating in the perinatal period",
+        "certain infectious and parasitic diseases",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "mechanical complication of: intraocular lens",
+        "mechanical complication of: other ocular prosthetic devices, implants and grafts",
+        "pseudophakia"
+    ],
+    "symptoms": [
+        "blurred vision",
+        "eye pain",
+        "vision loss",
+        "sensitivity to light",
+        "visual disturbances"
+    ]
+}

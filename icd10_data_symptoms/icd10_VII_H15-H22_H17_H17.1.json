@@ -1,0 +1,30 @@
+{
+    "icd10code": "H17.1",
+    "type": "subcategory",
+    "title": "Other central corneal opacity",
+    "chapter": "Diseases of the eye and adnexa",
+    "chapterCode": "VII",
+    "block": "Disorders of sclera, cornea, iris and ciliary body",
+    "blockCode": "H15-H22",
+    "category": "Corneal scars and opacities",
+    "categoryCode": "H17",
+    "subcategory": "H17.1",
+    "inclusion": null,
+    "exclusion": [
+        "certain conditions originating in the perinatal period",
+        "certain infectious and parasitic diseases",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified"
+    ],
+    "symptoms": [
+        "vision blurring",
+        "eye redness",
+        "sensitivity to light",
+        "eye pain",
+        "watery eyes"
+    ]
+}

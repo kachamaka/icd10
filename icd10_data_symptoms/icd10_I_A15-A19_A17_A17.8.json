@@ -1,0 +1,43 @@
+{
+    "icd10code": "A17.8",
+    "type": "subcategory",
+    "title": "Other tuberculosis of nervous system",
+    "chapter": "Certain infectious and parasitic diseases",
+    "chapterCode": "I",
+    "block": "Tuberculosis",
+    "blockCode": "A15-A19",
+    "category": "Tuberculosis of nervous system",
+    "categoryCode": "A17",
+    "subcategory": "A17.8",
+    "inclusion": [
+        "diseases generally recognized as communicable or transmissible",
+        "infections due to Mycobacterium tuberculosis and Mycobacterium bovis",
+        "Tuberculoma of brain",
+        "Tuberculoma of spinal cord",
+        "Tuberculosis of brain",
+        "Tuberculosis of spinal cord",
+        "Tuberculous: abscess of brain",
+        "Tuberculous: meningoencephalitis",
+        "Tuberculous: myelitis",
+        "Tuberculous: polyneuropathy"
+    ],
+    "exclusion": [
+        "carrier or suspected carrier of infectious disease",
+        "certain localized infections - see body system-related chapters",
+        "infectious and parasitic diseases complicating pregnancy, childbirth and the puerperium [except obstetrical tetanus]",
+        "infectious and parasitic diseases specific to the perinatal period [except tetanus neonatorum, whooping cough, congenital syphilis, perinatal gonococcal infection and perinatal human immunodeficiency virus [HIV] disease]",
+        "influenza and other acute respiratory infections",
+        "congenital tuberculosis",
+        "human immunodeficieny [HIV] disease resulting in tuberculosis",
+        "pneumoconiosis associated with tuberculosis",
+        "sequelae of tuberculosis",
+        "silicotuberculosis"
+    ],
+    "symptoms": [
+        "headache",
+        "nausea",
+        "seizures",
+        "cognitive impairment",
+        "behavioral changes"
+    ]
+}

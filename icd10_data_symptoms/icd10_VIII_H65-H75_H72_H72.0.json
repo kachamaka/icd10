@@ -1,0 +1,34 @@
+{
+    "icd10code": "H72.0",
+    "type": "subcategory",
+    "title": "Central perforation of tympanic membrane",
+    "chapter": "Diseases of the ear and mastoid process",
+    "chapterCode": "VIII",
+    "block": "Diseases of middle ear and mastoid",
+    "blockCode": "H65-H75",
+    "category": "Perforation of tympanic membrane",
+    "categoryCode": "H72",
+    "subcategory": "H72.0",
+    "inclusion": [
+        "perforation of ear drum: persistent post-traumatic",
+        "perforation of ear drum: postinflammatory"
+    ],
+    "exclusion": [
+        "certain conditions originating in the perinatal period",
+        "certain infectious and parasitic diseases",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "traumatic rupture of ear drum"
+    ],
+    "symptoms": [
+        "ear pain",
+        "hearing loss",
+        "ear discharge",
+        "itching in the ear",
+        "feeling of fullness in the ear"
+    ]
+}

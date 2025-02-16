@@ -1,0 +1,25 @@
+{
+    "icd10code": "Q43.7",
+    "type": "subcategory",
+    "title": "Persistent cloaca",
+    "chapter": "Congenital malformations, deformations and chromosomal abnormalities",
+    "chapterCode": "XVII",
+    "block": "Other congenital malformations of the digestive system",
+    "blockCode": "Q38-Q45",
+    "category": "Other congenital malformations of intestine",
+    "categoryCode": "Q43",
+    "subcategory": "Q43.7",
+    "inclusion": [
+        "Cloaca NOS"
+    ],
+    "exclusion": [
+        "inborn errors of metabolism"
+    ],
+    "symptoms": [
+        "abdominal pain",
+        "vomiting",
+        "diarrhea",
+        "malabsorption",
+        "weight loss"
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "icd10code": "T70.0",
+    "type": "subcategory",
+    "title": "Otitic barotrauma",
+    "chapter": "Injury, poisoning and certain other consequences of external causes",
+    "chapterCode": "XIX",
+    "block": "Other and unspecified effects of external causes",
+    "blockCode": "T66-T78",
+    "category": "Effects of air pressure and water pressure",
+    "categoryCode": "T70",
+    "subcategory": "T70.0",
+    "inclusion": [
+        "Aero-otitis media",
+        "Effects of change in ambient atmospheric pressure or water pressure on ears"
+    ],
+    "exclusion": [
+        "birth trauma",
+        "obstetric trauma",
+        "malunion of fracture",
+        "nonunion of fracture [pseudarthrosis]",
+        "pathological fracture",
+        "pathological fracture with osteoporosis",
+        "stress fracture"
+    ],
+    "symptoms": [
+        "headache",
+        "dizziness",
+        "nausea",
+        "fatigue",
+        "confusion"
+    ]
+}

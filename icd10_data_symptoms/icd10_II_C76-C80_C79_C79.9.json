@@ -1,0 +1,29 @@
+{
+    "icd10code": "C79.9",
+    "type": "subcategory",
+    "title": "Secondary malignant neoplasm, unspecified site",
+    "chapter": "Neoplasms",
+    "chapterCode": "II",
+    "block": "Malignant neoplasms of ill-defined, secondary and unspecified sites",
+    "blockCode": "C76-C80",
+    "category": "Secondary malignant neoplasm of other and unspecified sites",
+    "categoryCode": "C79",
+    "subcategory": "C79.9",
+    "inclusion": [
+        "Carcinomatosis (secondary)",
+        "Disseminated (secondary): cancer NOS",
+        "Disseminated (secondary): malignancy NOS",
+        "Generalized (secondary): cancer NOS",
+        "Generalized (secondary): malignancy NOS",
+        "Multiple secondary cancer NOS",
+        "Sarcomatosis (secondary) NOS"
+    ],
+    "exclusion": null,
+    "symptoms": [
+        "unexplained weight loss",
+        "constant fatigue",
+        "night sweats",
+        "pain in the affected area",
+        "cough or shortness of breath"
+    ]
+}

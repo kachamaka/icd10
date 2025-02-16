@@ -1,0 +1,35 @@
+{
+    "icd10code": "T68",
+    "type": "category",
+    "title": "Hypothermia",
+    "chapter": "Injury, poisoning and certain other consequences of external causes",
+    "chapterCode": "XIX",
+    "block": "Other and unspecified effects of external causes",
+    "blockCode": "T66-T78",
+    "category": "Hypothermia",
+    "categoryCode": "T68",
+    "subcategory": "",
+    "inclusion": [
+        "Accidental hypothermia"
+    ],
+    "exclusion": [
+        "birth trauma",
+        "obstetric trauma",
+        "malunion of fracture",
+        "nonunion of fracture [pseudarthrosis]",
+        "pathological fracture",
+        "pathological fracture with osteoporosis",
+        "stress fracture",
+        "frostbite",
+        "hypothermia (of): following anaesthesia",
+        "hypothermia (of): newborn",
+        "hypothermia (of): not associated with low environmental temperature"
+    ],
+    "symptoms": [
+        "shivering",
+        "confusion",
+        "fatigue",
+        "weak pulse",
+        "pale or cold skin"
+    ]
+}

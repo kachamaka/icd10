@@ -1,0 +1,23 @@
+{
+    "icd10code": "D39.7",
+    "type": "subcategory",
+    "title": "Neoplasm of uncertain or unknown behaviour: Other female genital organs",
+    "chapter": "Neoplasms",
+    "chapterCode": "II",
+    "block": "Neoplasms of uncertain or unknown behaviour",
+    "blockCode": "D37-D48",
+    "category": "Neoplasm of uncertain or unknown behaviour of female genital organs",
+    "categoryCode": "D39",
+    "subcategory": "D39.7",
+    "inclusion": [
+        "Skin of female genital organs"
+    ],
+    "exclusion": null,
+    "symptoms": [
+        "unusual vaginal bleeding",
+        "pelvic pain",
+        "bulky uterus",
+        "unexplained weight loss",
+        "frequent urination"
+    ]
+}

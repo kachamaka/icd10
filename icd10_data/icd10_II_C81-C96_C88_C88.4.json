@@ -1,0 +1,19 @@
+{
+  "type": "subcategory",
+  "chapterCode": "II",
+  "chapter": "Neoplasms",
+  "blockCode": "C81-C96",
+  "block": "Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",
+  "categoryCode": "C88",
+  "category": "Malignant immunoproliferative diseases",
+  "subcategory": "C88.4",
+  "title": "Extranodal marginal zone B-cell lymphoma of mucosa-associated lymphoid tissue [MALT-lyphoma]",
+  "inclusion": [
+    "Lymphoma of skin-associated lymphoid tissue (SALT-lymphoma)",
+    "Lymphoma of bronchial-associated lymphoid tissue (BALT-lymphoma)"
+  ],
+  "exclusion": [
+    "secondary and unspecified neoplasm of lymph nodes"
+  ],
+  "children": null
+}

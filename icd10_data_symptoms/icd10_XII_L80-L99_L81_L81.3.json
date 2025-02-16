@@ -1,0 +1,35 @@
+{
+    "icd10code": "L81.3",
+    "type": "subcategory",
+    "title": "Café au lait spots",
+    "chapter": "Diseases of the skin and subcutaneous tissue",
+    "chapterCode": "XII",
+    "block": "Other disorders of the skin and subcutaneous tissue",
+    "blockCode": "L80-L99",
+    "category": "Other disorders of pigmentation",
+    "categoryCode": "L81",
+    "subcategory": "L81.3",
+    "inclusion": null,
+    "exclusion": [
+        "certain conditions originating in the perinatal period",
+        "certain infectious and parasitic diseases",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "lipomelanotic reticulosis",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "systemic connective tissue disorders",
+        "decubitus [pressure] ulcer and pressure area",
+        "gangrene",
+        "skin infections"
+    ],
+    "symptoms": [
+        "hyperpigmented skin",
+        "dark patches",
+        "sun-exposed areas affected",
+        "irregular borders",
+        "cosmetic concerns"
+    ]
+}

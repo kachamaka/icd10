@@ -1,0 +1,26 @@
+{
+    "icd10code": "D17.7",
+    "type": "subcategory",
+    "title": "Benign lipomatous neoplasm of other sites",
+    "chapter": "Neoplasms",
+    "chapterCode": "II",
+    "block": "Benign neoplasms",
+    "blockCode": "D10-D36",
+    "category": "Benign lipomatous neoplasm",
+    "categoryCode": "D17",
+    "subcategory": "D17.7",
+    "inclusion": [
+        "morphology codes with behaviour code /0",
+        "morphology codes M885-M888 with behaviour code /0",
+        "Peritoneum",
+        "Retroperitoneum"
+    ],
+    "exclusion": null,
+    "symptoms": [
+        "lump or swelling in the skin",
+        "skin changes such as discoloration or dimpling",
+        "pain or tenderness",
+        "unexplained weight loss",
+        "fatigue"
+    ]
+}

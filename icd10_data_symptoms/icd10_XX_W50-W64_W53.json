@@ -1,0 +1,20 @@
+{
+    "icd10code": "W53",
+    "type": "category",
+    "title": "Bitten by rat",
+    "chapter": "External causes of morbidity and mortality",
+    "chapterCode": "XX",
+    "block": "Exposure to animate mechanical forces",
+    "blockCode": "W50-W64",
+    "category": "Bitten by rat",
+    "categoryCode": "W53",
+    "subcategory": "",
+    "inclusion": null,
+    "exclusion": [
+        "bites, venomous",
+        "stings (venomous)"
+    ],
+    "symptoms": [
+        "asymptomatic"
+    ]
+}

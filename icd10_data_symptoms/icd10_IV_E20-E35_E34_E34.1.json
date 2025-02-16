@@ -1,0 +1,28 @@
+{
+    "icd10code": "E34.1",
+    "type": "subcategory",
+    "title": "Other hypersecretion of intestinal hormones",
+    "chapter": "Endocrine, nutritional and metabolic diseases",
+    "chapterCode": "IV",
+    "block": "Disorders of other endocrine glands",
+    "blockCode": "E20-E35",
+    "category": "Other endocrine disorders",
+    "categoryCode": "E34",
+    "subcategory": "E34.1",
+    "inclusion": null,
+    "exclusion": [
+        "complications of pregnancy, childbirth and the puerperium",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "transitory endocrine and metabolic disorders specific to fetus and newborn",
+        "galactorrhoea",
+        "gynaecomastia",
+        "Albright(-McCune)(-Sternberg) syndrome"
+    ],
+    "symptoms": [
+        "enlarged thyroid gland",
+        "difficulty swallowing",
+        "rapid heartbeat",
+        "excessive sweating",
+        "unexplained weight loss"
+    ]
+}

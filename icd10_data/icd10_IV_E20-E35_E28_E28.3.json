@@ -1,0 +1,29 @@
+{
+  "type": "subcategory",
+  "chapterCode": "IV",
+  "chapter": "Endocrine, nutritional and metabolic diseases",
+  "blockCode": "E20-E35",
+  "block": "Disorders of other endocrine glands",
+  "categoryCode": "E28",
+  "category": "Ovarian dysfunction",
+  "subcategory": "E28.3",
+  "title": "Primary ovarian failure",
+  "inclusion": [
+    "Decreased estrogen",
+    "Premature menopause NOS",
+    "Resistant ovary syndrome"
+  ],
+  "exclusion": [
+    "complications of pregnancy, childbirth and the puerperium",
+    "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+    "transitory endocrine and metabolic disorders specific to fetus and newborn",
+    "galactorrhoea",
+    "gynaecomastia",
+    "adrenoleukodystrophy [Addison-Schilder]",
+    "Waterhouse-Friderichsen syndrome",
+    "menopausal and female climacteric states",
+    "pure gonadal dysgenesis",
+    "Turner syndrome"
+  ],
+  "children": null
+}

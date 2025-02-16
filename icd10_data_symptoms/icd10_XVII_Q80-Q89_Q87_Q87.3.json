@@ -1,0 +1,27 @@
+{
+    "icd10code": "Q87.3",
+    "type": "subcategory",
+    "title": "Congenital malformation syndromes involving early overgrowth",
+    "chapter": "Congenital malformations, deformations and chromosomal abnormalities",
+    "chapterCode": "XVII",
+    "block": "Other congenital malformations",
+    "blockCode": "Q80-Q89",
+    "category": "Other specified congenital malformation syndromes affecting multiple systems",
+    "categoryCode": "Q87",
+    "subcategory": "Q87.3",
+    "inclusion": [
+        "Syndrome: Beckwith-Wiedemann",
+        "Syndrome: Sotos",
+        "Syndrome: Weaver"
+    ],
+    "exclusion": [
+        "inborn errors of metabolism"
+    ],
+    "symptoms": [
+        "abnormal facial features",
+        "intellectual disability",
+        "growth deficiency",
+        "skeletal abnormalities",
+        "congenital heart defects"
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "icd10code": "T53.3",
+    "type": "subcategory",
+    "title": "Toxic effect: Tetrachloroethylene",
+    "chapter": "Injury, poisoning and certain other consequences of external causes",
+    "chapterCode": "XIX",
+    "block": "Toxic effects of substances chiefly nonmedicinal as to source",
+    "blockCode": "T51-T65",
+    "category": "Toxic effect of halogen derivatives of aliphatic and aromatic hydrocarbons",
+    "categoryCode": "T53",
+    "subcategory": "T53.3",
+    "inclusion": [
+        "Perchloroethylene",
+        "Tetrachloroethene"
+    ],
+    "exclusion": [
+        "birth trauma",
+        "obstetric trauma",
+        "malunion of fracture",
+        "nonunion of fracture [pseudarthrosis]",
+        "pathological fracture",
+        "pathological fracture with osteoporosis",
+        "stress fracture",
+        "corrosions",
+        "localized toxic effects classified elsewhere",
+        "respiratory conditions due to external agents"
+    ],
+    "symptoms": [
+        "headache",
+        "dizziness",
+        "nausea",
+        "confusion",
+        "difficulty breathing"
+    ]
+}

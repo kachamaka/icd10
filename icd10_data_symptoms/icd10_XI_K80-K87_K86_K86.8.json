@@ -1,0 +1,42 @@
+{
+    "icd10code": "K86.8",
+    "type": "subcategory",
+    "title": "Other specified diseases of pancreas",
+    "chapter": "Diseases of the digestive system",
+    "chapterCode": "XI",
+    "block": "Disorders of gallbladder, biliary tract and pancreas",
+    "blockCode": "K80-K87",
+    "category": "Other diseases of pancreas",
+    "categoryCode": "K86",
+    "subcategory": "K86.8",
+    "inclusion": [
+        "Atrophy of pancreas",
+        "Calculus of pancreas",
+        "Cirrhosis of pancreas",
+        "Fibrosis of pancreas",
+        "Pancreatic: infantilism",
+        "Pancreatic: necrosis: NOS",
+        "Pancreatic: necrosis: aseptic",
+        "Pancreatic: necrosis: fat"
+    ],
+    "exclusion": [
+        "certain conditions originating in the perinatal period",
+        "certain infectious and parasitic diseases",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "fibrocystic disease of pancreas",
+        "islet cell tumour (of pancreas)",
+        "pancreatic steatorrhoea"
+    ],
+    "symptoms": [
+        "abdominal pain",
+        "nausea",
+        "vomiting",
+        "weight loss",
+        "digestive issues"
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "icd10code": "Q64.5",
+    "type": "subcategory",
+    "title": "Congenital absence of bladder and urethra",
+    "chapter": "Congenital malformations, deformations and chromosomal abnormalities",
+    "chapterCode": "XVII",
+    "block": "Congenital malformations of the urinary system",
+    "blockCode": "Q60-Q64",
+    "category": "Other congenital malformations of urinary system",
+    "categoryCode": "Q64",
+    "subcategory": "Q64.5",
+    "inclusion": null,
+    "exclusion": [
+        "inborn errors of metabolism"
+    ],
+    "symptoms": [
+        "urinary incontinence",
+        "recurrent urinary tract infections",
+        "difficulty urinating",
+        "malformed urethral opening",
+        "urine leakage"
+    ]
+}

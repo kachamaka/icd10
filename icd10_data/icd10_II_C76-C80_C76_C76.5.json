@@ -1,0 +1,19 @@
+{
+  "type": "subcategory",
+  "chapterCode": "II",
+  "chapter": "Neoplasms",
+  "blockCode": "C76-C80",
+  "block": "Malignant neoplasms of ill-defined, secondary and unspecified sites",
+  "categoryCode": "C76",
+  "category": "Malignant neoplasm of other and ill-defined sites",
+  "subcategory": "C76.5",
+  "title": "Malignant neoplasm of other and ill-defined sites: Lower limb",
+  "inclusion": null,
+  "exclusion": [
+    "malignant neoplasm of: genitourinary tract NOS: female",
+    "malignant neoplasm of: genitourinary tract NOS: male",
+    "malignant neoplasm of: lymphoid, haematopoietic and related tissue",
+    "malignant neoplasm of: unspecified site"
+  ],
+  "children": null
+}

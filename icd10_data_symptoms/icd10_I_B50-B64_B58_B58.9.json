@@ -1,0 +1,33 @@
+{
+    "icd10code": "B58.9",
+    "type": "subcategory",
+    "title": "Toxoplasmosis, unspecified",
+    "chapter": "Certain infectious and parasitic diseases",
+    "chapterCode": "I",
+    "block": "Protozoal diseases",
+    "blockCode": "B50-B64",
+    "category": "Toxoplasmosis",
+    "categoryCode": "B58",
+    "subcategory": "B58.9",
+    "inclusion": [
+        "diseases generally recognized as communicable or transmissible",
+        "infection due to Toxoplasma gondii"
+    ],
+    "exclusion": [
+        "carrier or suspected carrier of infectious disease",
+        "certain localized infections - see body system-related chapters",
+        "infectious and parasitic diseases complicating pregnancy, childbirth and the puerperium [except obstetrical tetanus]",
+        "infectious and parasitic diseases specific to the perinatal period [except tetanus neonatorum, whooping cough, congenital syphilis, perinatal gonococcal infection and perinatal human immunodeficiency virus [HIV] disease]",
+        "influenza and other acute respiratory infections",
+        "larval diphyllobothriasis",
+        "monkeypox",
+        "when mixed with Plasmodium: falciparum"
+    ],
+    "symptoms": [
+        "fever",
+        "fatigue",
+        "muscle pain",
+        "headache",
+        "swollen lymph nodes"
+    ]
+}

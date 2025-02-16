@@ -1,0 +1,32 @@
+{
+    "icd10code": "K07.4",
+    "type": "subcategory",
+    "title": "Malocclusion, unspecified",
+    "chapter": "Diseases of the digestive system",
+    "chapterCode": "XI",
+    "block": "Diseases of oral cavity, salivary glands and jaws",
+    "blockCode": "K00-K14",
+    "category": "Dentofacial anomalies [including malocclusion]",
+    "categoryCode": "K07",
+    "subcategory": "K07.4",
+    "inclusion": null,
+    "exclusion": [
+        "certain conditions originating in the perinatal period",
+        "certain infectious and parasitic diseases",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "hemifacial atrophy or hypertrophy",
+        "unilateral condylar hyperplasia or hypoplasia"
+    ],
+    "symptoms": [
+        "jaw pain",
+        "facial asymmetry",
+        "difficulty chewing",
+        "jaw stiffness",
+        "clicking or popping sounds in the jaw"
+    ]
+}

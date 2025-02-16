@@ -1,0 +1,23 @@
+{
+  "type": "category",
+  "chapterCode": "XX",
+  "chapter": "External causes of morbidity and mortality",
+  "blockCode": "W20-W49",
+  "block": "Exposure to inanimate mechanical forces",
+  "categoryCode": "W33",
+  "category": "Rifle, shotgun and larger firearm discharge",
+  "subcategory": "",
+  "title": "Rifle, shotgun and larger firearm discharge",
+  "inclusion": [
+    "army rifle",
+    "hunting rifle",
+    "machine gun"
+  ],
+  "exclusion": [
+    "assault",
+    "contact or collision with animals or persons",
+    "intentional self-harm",
+    "airgun"
+  ],
+  "children": null
+}

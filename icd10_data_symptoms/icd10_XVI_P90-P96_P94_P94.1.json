@@ -1,0 +1,30 @@
+{
+    "icd10code": "P94.1",
+    "type": "subcategory",
+    "title": "Congenital hypertonia",
+    "chapter": "Certain conditions originating in the perinatal period",
+    "chapterCode": "XVI",
+    "block": "Other disorders originating in the perinatal period",
+    "blockCode": "P90-P96",
+    "category": "Disorders of muscle tone of newborn",
+    "categoryCode": "P94",
+    "subcategory": "P94.1",
+    "inclusion": [
+        "conditions that have their origin in the perinatal period even though death or morbidity occurs later"
+    ],
+    "exclusion": [
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "tetanus neonatorum",
+        "whooping cough"
+    ],
+    "symptoms": [
+        "hypotonia",
+        "poor muscle tone",
+        "delayed motor milestones",
+        "weak cry",
+        "feeding difficulties"
+    ]
+}

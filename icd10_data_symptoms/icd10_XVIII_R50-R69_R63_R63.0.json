@@ -1,0 +1,31 @@
+{
+    "icd10code": "R63.0",
+    "type": "subcategory",
+    "title": "Anorexia",
+    "chapter": "Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+    "chapterCode": "XVIII",
+    "block": "General symptoms and signs",
+    "blockCode": "R50-R69",
+    "category": "Symptoms and signs concerning food and fluid intake",
+    "categoryCode": "R63",
+    "subcategory": "R63.0",
+    "inclusion": [
+        "Loss of appetite"
+    ],
+    "exclusion": [
+        "abnormal findings on antenatal screening of mother",
+        "certain conditions originating in the perinatal period",
+        "bulimia NOS",
+        "eating disorders of nonorganic origin",
+        "malnutrition",
+        "anorexia nervosa",
+        "loss of appetite of nonorganic origin"
+    ],
+    "symptoms": [
+        "loss of appetite",
+        "lack of interest in food",
+        "unintentional weight loss",
+        "early satiety",
+        "general fatigue"
+    ]
+}

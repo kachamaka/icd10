@@ -1,0 +1,35 @@
+{
+    "icd10code": "J61",
+    "type": "category",
+    "title": "Pneumoconiosis due to asbestos and other mineral fibres",
+    "chapter": "Diseases of the respiratory system",
+    "chapterCode": "X",
+    "block": "Lung diseases due to external agents",
+    "blockCode": "J60-J70",
+    "category": "Pneumoconiosis due to asbestos and other mineral fibres",
+    "categoryCode": "J61",
+    "subcategory": "",
+    "inclusion": [
+        "Asbestosis"
+    ],
+    "exclusion": [
+        "certain conditions originating in the perinatal period",
+        "certain infectious and parasitic diseases",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "asthma classified to J45.-",
+        "pleural plaque with asbestosis",
+        "with tuberculosis in A15-A16"
+    ],
+    "symptoms": [
+        "chronic cough",
+        "shortness of breath",
+        "fatigue",
+        "chest pain",
+        "fever"
+    ]
+}

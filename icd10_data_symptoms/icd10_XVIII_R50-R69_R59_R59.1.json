@@ -1,0 +1,32 @@
+{
+    "icd10code": "R59.1",
+    "type": "subcategory",
+    "title": "Generalized enlarged lymph nodes",
+    "chapter": "Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+    "chapterCode": "XVIII",
+    "block": "General symptoms and signs",
+    "blockCode": "R50-R69",
+    "category": "Enlarged lymph nodes",
+    "categoryCode": "R59",
+    "subcategory": "R59.1",
+    "inclusion": [
+        "swollen glands",
+        "Lymphadenopathy NOS"
+    ],
+    "exclusion": [
+        "abnormal findings on antenatal screening of mother",
+        "certain conditions originating in the perinatal period",
+        "lymphadenitis: NOS",
+        "lymphadenitis: acute",
+        "lymphadenitis: chronic",
+        "lymphadenitis: mesenteric (acute)(chronic)",
+        "HIV disease resulting in (persistent) generalized lymphadenopathy"
+    ],
+    "symptoms": [
+        "swollen lymph nodes",
+        "painless lumps",
+        "fatigue",
+        "fever",
+        "night sweats"
+    ]
+}

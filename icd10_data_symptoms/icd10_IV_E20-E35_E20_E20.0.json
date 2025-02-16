@@ -1,0 +1,31 @@
+{
+    "icd10code": "E20.0",
+    "type": "subcategory",
+    "title": "Idiopathic hypoparathyroidism",
+    "chapter": "Endocrine, nutritional and metabolic diseases",
+    "chapterCode": "IV",
+    "block": "Disorders of other endocrine glands",
+    "blockCode": "E20-E35",
+    "category": "Hypoparathyroidism",
+    "categoryCode": "E20",
+    "subcategory": "E20.0",
+    "inclusion": null,
+    "exclusion": [
+        "complications of pregnancy, childbirth and the puerperium",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "transitory endocrine and metabolic disorders specific to fetus and newborn",
+        "galactorrhoea",
+        "gynaecomastia",
+        "Di George syndrome",
+        "postprocedural hypoparathyroidism",
+        "tetany NOS",
+        "transitory neonatal hypoparathyroidism"
+    ],
+    "symptoms": [
+        "delayed growth",
+        "delayed puberty",
+        "fatigue",
+        "dry skin",
+        "increased sensitivity to cold"
+    ]
+}

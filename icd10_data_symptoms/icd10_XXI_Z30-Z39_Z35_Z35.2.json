@@ -1,0 +1,21 @@
+{
+    "icd10code": "Z35.2",
+    "type": "subcategory",
+    "title": "Supervision of pregnancy with other poor reproductive or obstetric history",
+    "chapter": "Factors influencing health status and contact with health services",
+    "chapterCode": "XXI",
+    "block": "Persons encountering health services in circumstances related to reproduction",
+    "blockCode": "Z30-Z39",
+    "category": "Supervision of high-risk pregnancy",
+    "categoryCode": "Z35",
+    "subcategory": "Z35.2",
+    "inclusion": [
+        "Supervision of pregnancy with history of: conditions classifiable to O10-O92",
+        "Supervision of pregnancy with history of: neonatal death",
+        "Supervision of pregnancy with history of: stillbirth"
+    ],
+    "exclusion": null,
+    "symptoms": [
+        "asymptomatic"
+    ]
+}

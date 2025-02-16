@@ -1,0 +1,23 @@
+{
+  "type": "category",
+  "chapterCode": "VI",
+  "chapter": "Diseases of the nervous system",
+  "blockCode": "G20-G26",
+  "block": "Extrapyramidal and movement disorders",
+  "categoryCode": "G26",
+  "category": "Extrapyramidal and movement disorders in diseases classified elsewhere",
+  "subcategory": "",
+  "title": "Extrapyramidal and movement disorders in diseases classified elsewhere",
+  "inclusion": null,
+  "exclusion": [
+    "certain conditions originating in the perinatal period",
+    "certain infectious and parasitic diseases",
+    "complications of pregnancy, childbirth and the puerperium",
+    "congenital malformations, deformations and chromosomal abnormalities",
+    "endocrine, nutritional and metabolic diseases",
+    "injury, poisoning and certain other consequences of external causes",
+    "neoplasms",
+    "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified"
+  ],
+  "children": null
+}

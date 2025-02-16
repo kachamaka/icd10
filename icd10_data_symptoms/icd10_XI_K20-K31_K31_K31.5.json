@@ -1,0 +1,40 @@
+{
+    "icd10code": "K31.5",
+    "type": "subcategory",
+    "title": "Obstruction of duodenum",
+    "chapter": "Diseases of the digestive system",
+    "chapterCode": "XI",
+    "block": "Diseases of oesophagus, stomach and duodenum",
+    "blockCode": "K20-K31",
+    "category": "Other diseases of stomach and duodenum",
+    "categoryCode": "K31",
+    "subcategory": "K31.5",
+    "inclusion": [
+        "functional disorders of stomach",
+        "Constriction of duodenum",
+        "Stenosis of duodenum",
+        "Stricture of duodenum",
+        "Duodenal ileus (chronic)"
+    ],
+    "exclusion": [
+        "certain conditions originating in the perinatal period",
+        "certain infectious and parasitic diseases",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "hiatus hernia",
+        "primary ulcer of small intestine",
+        "Barrett ulcer",
+        "congenital stenosis of duodenum"
+    ],
+    "symptoms": [
+        "abdominal pain",
+        "nausea",
+        "vomiting",
+        "bloating",
+        "difficulty swallowing"
+    ]
+}

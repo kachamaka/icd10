@@ -1,0 +1,27 @@
+{
+    "icd10code": "F23.9",
+    "type": "subcategory",
+    "title": "Acute and transient psychotic disorder, unspecified",
+    "chapter": "Mental and behavioural disorders",
+    "chapterCode": "V",
+    "block": "Schizophrenia, schizotypal and delusional disorders",
+    "blockCode": "F20-F29",
+    "category": "Acute and transient psychotic disorders",
+    "categoryCode": "F23",
+    "subcategory": "F23.9",
+    "inclusion": [
+        "disorders of psychological development",
+        "Brief reactive psychosis NOS",
+        "Reactive psychosis"
+    ],
+    "exclusion": [
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified"
+    ],
+    "symptoms": [
+        "confusion",
+        "delusions",
+        "hallucinations",
+        "disorganized speech",
+        "lack of awareness of reality"
+    ]
+}

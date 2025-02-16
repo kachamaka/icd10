@@ -1,0 +1,17 @@
+{
+    "icd10code": "W76",
+    "type": "category",
+    "title": "Other accidental hanging and strangulation",
+    "chapter": "External causes of morbidity and mortality",
+    "chapterCode": "XX",
+    "block": "Other accidental threats to breathing",
+    "blockCode": "W75-W84",
+    "category": "Other accidental hanging and strangulation",
+    "categoryCode": "W76",
+    "subcategory": "",
+    "inclusion": null,
+    "exclusion": null,
+    "symptoms": [
+        "asymptomatic"
+    ]
+}

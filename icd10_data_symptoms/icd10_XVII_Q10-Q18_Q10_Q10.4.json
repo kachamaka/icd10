@@ -1,0 +1,34 @@
+{
+    "icd10code": "Q10.4",
+    "type": "subcategory",
+    "title": "Absence and agenesis of lacrimal apparatus",
+    "chapter": "Congenital malformations, deformations and chromosomal abnormalities",
+    "chapterCode": "XVII",
+    "block": "Congenital malformations of eye, ear, face and neck",
+    "blockCode": "Q10-Q18",
+    "category": "Congenital malformations of eyelid, lacrimal apparatus and orbit",
+    "categoryCode": "Q10",
+    "subcategory": "Q10.4",
+    "inclusion": [
+        "Absence of punctum lacrimale"
+    ],
+    "exclusion": [
+        "inborn errors of metabolism",
+        "cleft lip and cleft palate",
+        "congenital malformation of: cervical spine",
+        "congenital malformation of: larynx",
+        "congenital malformation of: lip NEC",
+        "congenital malformation of: nose",
+        "congenital malformation of: parathyroid gland",
+        "congenital malformation of: thyroid gland",
+        "cryptophthalmos: NOS",
+        "cryptophthalmos: syndrome"
+    ],
+    "symptoms": [
+        "ptosis",
+        "drooping upper eyelid",
+        "impaired vision",
+        "asymmetry of eyelids",
+        "difficulty fully opening eyes"
+    ]
+}

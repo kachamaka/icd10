@@ -1,0 +1,21 @@
+{
+    "icd10code": "Z45.2",
+    "type": "subcategory",
+    "title": "Adjustment and management of vascular access device",
+    "chapter": "Factors influencing health status and contact with health services",
+    "chapterCode": "XXI",
+    "block": "Persons encountering health services for specific procedures and health care",
+    "blockCode": "Z40-Z54",
+    "category": "Adjustment and management of implanted device",
+    "categoryCode": "Z45",
+    "subcategory": "Z45.2",
+    "inclusion": null,
+    "exclusion": [
+        "follow-up examination for medical surveillance after treatment",
+        "malfunction or other complications of device - see Alphabetical Index",
+        "presence of prosthetic and other devices"
+    ],
+    "symptoms": [
+        "asymptomatic"
+    ]
+}

@@ -1,0 +1,28 @@
+{
+  "type": "subcategory",
+  "chapterCode": "XVIII",
+  "chapter": "Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+  "blockCode": "R90-R94",
+  "block": "Abnormal findings on diagnostic imaging and in function studies, without diagnosis",
+  "categoryCode": "R90",
+  "category": "Abnormal findings on diagnostic imaging of central nervous system",
+  "subcategory": "R90.8",
+  "title": "Other abnormal findings on diagnostic imaging of central nervous system",
+  "inclusion": [
+    "nonspecific abnormal findings on diagnostic imaging by: computerized axial tomography [CAT scan]",
+    "nonspecific abnormal findings on diagnostic imaging by: magnetic resonance imaging [MRI][NMR]",
+    "nonspecific abnormal findings on diagnostic imaging by: positron emission tomography [PET scan]",
+    "nonspecific abnormal findings on diagnostic imaging by: thermography",
+    "nonspecific abnormal findings on diagnostic imaging by: ultrasound [echogram]",
+    "nonspecific abnormal findings on diagnostic imaging by: X-ray examination",
+    "Abnormal echoencephalogram",
+    "White matter disease NOS"
+  ],
+  "exclusion": [
+    "abnormal findings on antenatal screening of mother",
+    "certain conditions originating in the perinatal period",
+    "abnormal findings on antenatal screening of mother",
+    "diagnostic abnormal findings classified elsewhere - see Alphabetical Index"
+  ],
+  "children": null
+}

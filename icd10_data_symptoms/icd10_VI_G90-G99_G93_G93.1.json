@@ -1,0 +1,34 @@
+{
+    "icd10code": "G93.1",
+    "type": "subcategory",
+    "title": "Anoxic brain damage, not elsewhere classified",
+    "chapter": "Diseases of the nervous system",
+    "chapterCode": "VI",
+    "block": "Other disorders of the nervous system",
+    "blockCode": "G90-G99",
+    "category": "Other disorders of brain",
+    "categoryCode": "G93",
+    "subcategory": "G93.1",
+    "inclusion": null,
+    "exclusion": [
+        "certain conditions originating in the perinatal period",
+        "certain infectious and parasitic diseases",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "complicating: abortion or ectopic or molar pregnancy",
+        "complicating: pregnancy, labour or delivery",
+        "complicating: surgical and medical care",
+        "neonatal anoxia"
+    ],
+    "symptoms": [
+        "headache",
+        "nausea",
+        "vomiting",
+        "dizziness",
+        "sensitivity to light"
+    ]
+}

@@ -1,0 +1,28 @@
+{
+  "type": "subcategory",
+  "chapterCode": "XIV",
+  "chapter": "Diseases of the genitourinary system",
+  "blockCode": "N70-N77",
+  "block": "Inflammatory diseases of female pelvic organs",
+  "categoryCode": "N77",
+  "category": "Vulvovaginal ulceration and inflammation in diseases classified elsewhere",
+  "subcategory": "N77.0",
+  "title": "Ulceration of vulva in infectious and parasitic diseases classified elsewhere",
+  "inclusion": [
+    "Ulceration of vulva in: herpesviral [herpes simplex] infection",
+    "Ulceration of vulva in: tuberculosis"
+  ],
+  "exclusion": [
+    "certain conditions originating in the perinatal period",
+    "certain infectious and parasitic diseases",
+    "complications of pregnancy, childbirth and the puerperium",
+    "congenital malformations, deformations and chromosomal abnormalities",
+    "endocrine, nutritional and metabolic diseases",
+    "injury, poisoning and certain other consequences of external causes",
+    "neoplasms",
+    "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+    "those complicating: abortion or ectopic or molar pregnancy",
+    "those complicating: pregnancy, childbirth and the puerperium"
+  ],
+  "children": null
+}

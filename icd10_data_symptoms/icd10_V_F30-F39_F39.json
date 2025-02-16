@@ -1,0 +1,26 @@
+{
+    "icd10code": "F39",
+    "type": "category",
+    "title": "Unspecified mood [affective] disorder",
+    "chapter": "Mental and behavioural disorders",
+    "chapterCode": "V",
+    "block": "Mood [affective] disorders",
+    "blockCode": "F30-F39",
+    "category": "Unspecified mood [affective] disorder",
+    "categoryCode": "F39",
+    "subcategory": "",
+    "inclusion": [
+        "disorders of psychological development",
+        "Affective psychosis NOS"
+    ],
+    "exclusion": [
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified"
+    ],
+    "symptoms": [
+        "mood swings",
+        "depression",
+        "anxiety",
+        "irritability",
+        "confusion"
+    ]
+}

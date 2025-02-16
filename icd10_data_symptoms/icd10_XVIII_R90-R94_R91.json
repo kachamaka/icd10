@@ -1,0 +1,35 @@
+{
+    "icd10code": "R91",
+    "type": "category",
+    "title": "Abnormal findings on diagnostic imaging of lung",
+    "chapter": "Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+    "chapterCode": "XVIII",
+    "block": "Abnormal findings on diagnostic imaging and in function studies, without diagnosis",
+    "blockCode": "R90-R94",
+    "category": "Abnormal findings on diagnostic imaging of lung",
+    "categoryCode": "R91",
+    "subcategory": "",
+    "inclusion": [
+        "nonspecific abnormal findings on diagnostic imaging by: computerized axial tomography [CAT scan]",
+        "nonspecific abnormal findings on diagnostic imaging by: magnetic resonance imaging [MRI][NMR]",
+        "nonspecific abnormal findings on diagnostic imaging by: positron emission tomography [PET scan]",
+        "nonspecific abnormal findings on diagnostic imaging by: thermography",
+        "nonspecific abnormal findings on diagnostic imaging by: ultrasound [echogram]",
+        "nonspecific abnormal findings on diagnostic imaging by: X-ray examination",
+        "Coin lesion NOS",
+        "Lung mass NOS"
+    ],
+    "exclusion": [
+        "abnormal findings on antenatal screening of mother",
+        "certain conditions originating in the perinatal period",
+        "abnormal findings on antenatal screening of mother",
+        "diagnostic abnormal findings classified elsewhere - see Alphabetical Index"
+    ],
+    "symptoms": [
+        "abnormal chest x-ray",
+        "lung nodule",
+        "pulmonary opacity",
+        "suspicious lung mass",
+        "irregular lung findings"
+    ]
+}

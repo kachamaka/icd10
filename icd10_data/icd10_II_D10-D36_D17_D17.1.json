@@ -1,0 +1,17 @@
+{
+  "type": "subcategory",
+  "chapterCode": "II",
+  "chapter": "Neoplasms",
+  "blockCode": "D10-D36",
+  "block": "Benign neoplasms",
+  "categoryCode": "D17",
+  "category": "Benign lipomatous neoplasm",
+  "subcategory": "D17.1",
+  "title": "Benign lipomatous neoplasm of skin and subcutaneous tissue of trunk",
+  "inclusion": [
+    "morphology codes with behaviour code /0",
+    "morphology codes M885-M888 with behaviour code /0"
+  ],
+  "exclusion": null,
+  "children": null
+}

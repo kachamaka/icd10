@@ -1,0 +1,19 @@
+{
+  "type": "subcategory",
+  "chapterCode": "II",
+  "chapter": "Neoplasms",
+  "blockCode": "C81-C96",
+  "block": "Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",
+  "categoryCode": "C84",
+  "category": "Mature T/NK-cell lymphomas",
+  "subcategory": "C84.9",
+  "title": "Mature T/NK-cell lymphoma, unspecified",
+  "inclusion": [
+    "NK/T cell lymphoma NOS"
+  ],
+  "exclusion": [
+    "secondary and unspecified neoplasm of lymph nodes",
+    "mature T-cell lymphoma, not elsewhere classified"
+  ],
+  "children": null
+}

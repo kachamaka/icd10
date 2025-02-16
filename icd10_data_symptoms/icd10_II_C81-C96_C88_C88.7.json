@@ -1,0 +1,23 @@
+{
+    "icd10code": "C88.7",
+    "type": "subcategory",
+    "title": "Other malignant immunoproliferative diseases",
+    "chapter": "Neoplasms",
+    "chapterCode": "II",
+    "block": "Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",
+    "blockCode": "C81-C96",
+    "category": "Malignant immunoproliferative diseases",
+    "categoryCode": "C88",
+    "subcategory": "C88.7",
+    "inclusion": null,
+    "exclusion": [
+        "secondary and unspecified neoplasm of lymph nodes"
+    ],
+    "symptoms": [
+        "enlarged lymph nodes",
+        "unexplained weight loss",
+        "night sweats",
+        "fatigue",
+        "unexplained fever"
+    ]
+}

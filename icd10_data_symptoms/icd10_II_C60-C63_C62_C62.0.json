@@ -1,0 +1,25 @@
+{
+    "icd10code": "C62.0",
+    "type": "subcategory",
+    "title": "Malignant neoplasm: Undescended testis",
+    "chapter": "Neoplasms",
+    "chapterCode": "II",
+    "block": "Malignant neoplasms of male genital organs",
+    "blockCode": "C60-C63",
+    "category": "Malignant neoplasm of testis",
+    "categoryCode": "C62",
+    "subcategory": "C62.0",
+    "inclusion": [
+        "skin of male genital organs",
+        "Ectopic testis [site of neoplasm]",
+        "Retained testis [site of neoplasm]"
+    ],
+    "exclusion": null,
+    "symptoms": [
+        "pain in the testicle",
+        "lower abdominal or groin pain",
+        "testicular swelling",
+        "palpable mass in the testicle",
+        "testicular discomfort"
+    ]
+}

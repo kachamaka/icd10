@@ -1,0 +1,42 @@
+{
+    "icd10code": "G71.2",
+    "type": "subcategory",
+    "title": "Congenital myopathies",
+    "chapter": "Diseases of the nervous system",
+    "chapterCode": "VI",
+    "block": "Diseases of myoneural junction and muscle",
+    "blockCode": "G70-G73",
+    "category": "Primary disorders of muscles",
+    "categoryCode": "G71",
+    "subcategory": "G71.2",
+    "inclusion": [
+        "Congenital muscular dystrophy: NOS",
+        "Congenital muscular dystrophy: with specific morphological abnormalities of the muscle fibre",
+        "Disease: central core",
+        "Disease: minicore",
+        "Disease: multicore",
+        "Fibre-type disproportion",
+        "Myopathy: myotubular (centronuclear)",
+        "Myopathy: nemaline"
+    ],
+    "exclusion": [
+        "certain conditions originating in the perinatal period",
+        "certain infectious and parasitic diseases",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "arthrogryposis multiplex congenita",
+        "metabolic disorders",
+        "myositis"
+    ],
+    "symptoms": [
+        "muscle weakness",
+        "muscle cramping",
+        "myalgias",
+        "exercise intolerance",
+        "myoglobinuria"
+    ]
+}

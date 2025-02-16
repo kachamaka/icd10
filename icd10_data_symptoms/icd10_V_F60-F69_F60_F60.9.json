@@ -1,0 +1,27 @@
+{
+    "icd10code": "F60.9",
+    "type": "subcategory",
+    "title": "Personality disorder, unspecified",
+    "chapter": "Mental and behavioural disorders",
+    "chapterCode": "V",
+    "block": "Disorders of adult personality and behaviour",
+    "blockCode": "F60-F69",
+    "category": "Specific personality disorders",
+    "categoryCode": "F60",
+    "subcategory": "F60.9",
+    "inclusion": [
+        "disorders of psychological development",
+        "Character neurosis NOS",
+        "Pathological personality NOS"
+    ],
+    "exclusion": [
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified"
+    ],
+    "symptoms": [
+        "emotional instability",
+        "impulsivity",
+        "unstable relationships",
+        "self-image disturbances",
+        "difficulty managing emotions"
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "icd10code": "F53.1",
+    "type": "subcategory",
+    "title": "Severe mental and behavioural disorders associated with the puerperium, not elsewhere classified",
+    "chapter": "Mental and behavioural disorders",
+    "chapterCode": "V",
+    "block": "Behavioural syndromes associated with physiological disturbances and physical factors",
+    "blockCode": "F50-F59",
+    "category": "Mental and behavioural disorders associated with the puerperium, not elsewhere classified",
+    "categoryCode": "F53",
+    "subcategory": "F53.1",
+    "inclusion": [
+        "disorders of psychological development",
+        "Puerperal psychosis NOS"
+    ],
+    "exclusion": [
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified"
+    ],
+    "symptoms": [
+        "fatigue",
+        "mood swings",
+        "irritability",
+        "sleep disturbances",
+        "appetite changes"
+    ]
+}

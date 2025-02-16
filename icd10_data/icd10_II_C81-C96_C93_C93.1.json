@@ -1,0 +1,22 @@
+{
+  "type": "subcategory",
+  "chapterCode": "II",
+  "chapter": "Neoplasms",
+  "blockCode": "C81-C96",
+  "block": "Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",
+  "categoryCode": "C93",
+  "category": "Monocytic leukaemia",
+  "subcategory": "C93.1",
+  "title": "Chronic myelomonocytic leukaemia",
+  "inclusion": [
+    "monocytoid leukaemia",
+    "Chronic monocytic leukaemia",
+    "CMML-1",
+    "CMML-2",
+    "CMML with eosinophilia"
+  ],
+  "exclusion": [
+    "secondary and unspecified neoplasm of lymph nodes"
+  ],
+  "children": null
+}

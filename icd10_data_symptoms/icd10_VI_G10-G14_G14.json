@@ -1,0 +1,33 @@
+{
+    "icd10code": "G14",
+    "type": "category",
+    "title": "Postpolio syndrome",
+    "chapter": "Diseases of the nervous system",
+    "chapterCode": "VI",
+    "block": "Systemic atrophies primarily affecting the central nervous system",
+    "blockCode": "G10-G14",
+    "category": "Postpolio syndrome",
+    "categoryCode": "G14",
+    "subcategory": "",
+    "inclusion": [
+        "Postpolio myelitic syndrome"
+    ],
+    "exclusion": [
+        "certain conditions originating in the perinatal period",
+        "certain infectious and parasitic diseases",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "sequelae of poliomyelitis"
+    ],
+    "symptoms": [
+        "muscle weakness",
+        "difficulty swallowing",
+        "breathing problems",
+        "spasticity",
+        "loss of coordination"
+    ]
+}

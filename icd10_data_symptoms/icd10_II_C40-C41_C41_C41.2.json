@@ -1,0 +1,30 @@
+{
+    "icd10code": "C41.2",
+    "type": "subcategory",
+    "title": "Malignant neoplasm: Vertebral column",
+    "chapter": "Neoplasms",
+    "chapterCode": "II",
+    "block": "Malignant neoplasms of bone and articular cartilage",
+    "blockCode": "C40-C41",
+    "category": "Malignant neoplasm of bone and articular cartilage of other and unspecified sites",
+    "categoryCode": "C41",
+    "subcategory": "C41.2",
+    "inclusion": null,
+    "exclusion": [
+        "bone marrow NOS",
+        "synovia",
+        "bones of limbs",
+        "cartilage of: ear",
+        "cartilage of: larynx",
+        "cartilage of: limbs",
+        "cartilage of: nose",
+        "sacrum and coccyx"
+    ],
+    "symptoms": [
+        "painful swelling in the affected bone",
+        "pathologic fractures",
+        "bone tenderness",
+        "limitation in motion",
+        "unexplained weight loss"
+    ]
+}

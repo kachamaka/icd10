@@ -1,0 +1,30 @@
+{
+    "icd10code": "B86",
+    "type": "category",
+    "title": "Scabies",
+    "chapter": "Certain infectious and parasitic diseases",
+    "chapterCode": "I",
+    "block": "Pediculosis, acariasis and other infestations",
+    "blockCode": "B85-B89",
+    "category": "Scabies",
+    "categoryCode": "B86",
+    "subcategory": "",
+    "inclusion": [
+        "diseases generally recognized as communicable or transmissible",
+        "Sarcoptic itch"
+    ],
+    "exclusion": [
+        "carrier or suspected carrier of infectious disease",
+        "certain localized infections - see body system-related chapters",
+        "infectious and parasitic diseases complicating pregnancy, childbirth and the puerperium [except obstetrical tetanus]",
+        "infectious and parasitic diseases specific to the perinatal period [except tetanus neonatorum, whooping cough, congenital syphilis, perinatal gonococcal infection and perinatal human immunodeficiency virus [HIV] disease]",
+        "influenza and other acute respiratory infections"
+    ],
+    "symptoms": [
+        "itching",
+        "rash",
+        "small red bumps",
+        "burrows in skin",
+        "thick crusts on skin"
+    ]
+}

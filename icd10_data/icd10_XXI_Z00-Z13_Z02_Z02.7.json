@@ -1,0 +1,22 @@
+{
+  "type": "subcategory",
+  "chapterCode": "XXI",
+  "chapter": "Factors influencing health status and contact with health services",
+  "blockCode": "Z00-Z13",
+  "block": "Persons encountering health services for examination and investigation",
+  "categoryCode": "Z02",
+  "category": "Examination and encounter for administrative purposes",
+  "subcategory": "Z02.7",
+  "title": "Issue of medical certificate",
+  "inclusion": [
+    "Issue of medical certificate of: cause of death",
+    "Issue of medical certificate of: fitness",
+    "Issue of medical certificate of: incapacity",
+    "Issue of medical certificate of: invalidity"
+  ],
+  "exclusion": [
+    "examinations related to pregnancy and reproduction",
+    "encounter for general medical examination"
+  ],
+  "children": null
+}

@@ -1,0 +1,32 @@
+{
+    "icd10code": "K58.3",
+    "type": "subcategory",
+    "title": "Irritable bowel syndrome with mixed bowel habits [IBS-M]",
+    "chapter": "Diseases of the digestive system",
+    "chapterCode": "XI",
+    "block": "Other diseases of intestines",
+    "blockCode": "K55-K64",
+    "category": "Irritable bowel syndrome",
+    "categoryCode": "K58",
+    "subcategory": "K58.3",
+    "inclusion": [
+        "irritable colon"
+    ],
+    "exclusion": [
+        "certain conditions originating in the perinatal period",
+        "certain infectious and parasitic diseases",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified"
+    ],
+    "symptoms": [
+        "abdominal pain",
+        "bloating",
+        "diarrhea",
+        "urgency to defecate",
+        "cramping"
+    ]
+}

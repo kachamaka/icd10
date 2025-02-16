@@ -1,0 +1,23 @@
+{
+    "icd10code": "C16.6",
+    "type": "subcategory",
+    "title": "Malignant neoplasm: Greater curvature of stomach, unspecified",
+    "chapter": "Neoplasms",
+    "chapterCode": "II",
+    "block": "Malignant neoplasms of digestive organs",
+    "blockCode": "C15-C26",
+    "category": "Malignant neoplasm of stomach",
+    "categoryCode": "C16",
+    "subcategory": "C16.6",
+    "inclusion": [
+        "Greater curvature of stomach, not classifiable to C16.0-C16.4"
+    ],
+    "exclusion": null,
+    "symptoms": [
+        "abdominal pain",
+        "unexplained weight loss",
+        "difficulty swallowing",
+        "stomach bloating",
+        "vomiting blood"
+    ]
+}

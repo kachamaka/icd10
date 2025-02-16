@@ -1,0 +1,25 @@
+{
+  "type": "subcategory",
+  "chapterCode": "XX",
+  "chapter": "External causes of morbidity and mortality",
+  "blockCode": "Y35-Y36",
+  "block": "Legal intervention and operations of war",
+  "categoryCode": "Y36",
+  "category": "Operations of war",
+  "subcategory": "Y36.4",
+  "title": "War operations involving firearm discharge and other forms of conventional warfare",
+  "inclusion": [
+    "injuries to military personnel and civilians caused by war and civil insurrection",
+    "Battle wounds",
+    "Bayonet injury",
+    "Bullet: carbine",
+    "Bullet: machine gun",
+    "Bullet: pistol",
+    "Bullet: rifle",
+    "Bullet: rubber (rifle)",
+    "Drowned in war operations NOS",
+    "Pellets (shotgun)"
+  ],
+  "exclusion": null,
+  "children": null
+}

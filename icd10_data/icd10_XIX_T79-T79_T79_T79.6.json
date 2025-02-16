@@ -1,0 +1,30 @@
+{
+  "type": "subcategory",
+  "chapterCode": "XIX",
+  "chapter": "Injury, poisoning and certain other consequences of external causes",
+  "blockCode": "T79-T79",
+  "block": "Certain early complications of trauma",
+  "categoryCode": "T79",
+  "category": "Certain early complications of trauma, not elsewhere classified",
+  "subcategory": "T79.6",
+  "title": "Traumatic ischaemia of muscle",
+  "inclusion": [
+    "Compartment syndrome",
+    "Volkmann ischaemic contracture"
+  ],
+  "exclusion": [
+    "birth trauma",
+    "obstetric trauma",
+    "malunion of fracture",
+    "nonunion of fracture [pseudarthrosis]",
+    "pathological fracture",
+    "pathological fracture with osteoporosis",
+    "stress fracture",
+    "complications of surgical and medical care NEC",
+    "respiratory distress: syndrome of adult",
+    "respiratory distress: in newborn",
+    "when occurring during or following medical procedures",
+    "anterior tibial syndrome"
+  ],
+  "children": null
+}

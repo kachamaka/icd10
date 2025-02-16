@@ -1,0 +1,26 @@
+{
+  "type": "subcategory",
+  "chapterCode": "IV",
+  "chapter": "Endocrine, nutritional and metabolic diseases",
+  "blockCode": "E70-E90",
+  "block": "Metabolic disorders",
+  "categoryCode": "E84",
+  "category": "Cystic fibrosis",
+  "subcategory": "E84.0",
+  "title": "Cystic fibrosis with pulmonary manifestations",
+  "inclusion": [
+    "mucoviscidosis"
+  ],
+  "exclusion": [
+    "complications of pregnancy, childbirth and the puerperium",
+    "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+    "transitory endocrine and metabolic disorders specific to fetus and newborn",
+    "androgen resistance syndrome",
+    "congenital adrenal hyperplasia",
+    "Ehlers-Danlos syndrome",
+    "haemolytic anaemias due to enzyme disorders",
+    "Marfan syndrome",
+    "5-alpha-reductase deficiency"
+  ],
+  "children": null
+}

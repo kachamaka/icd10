@@ -1,0 +1,29 @@
+{
+    "icd10code": "E50.7",
+    "type": "subcategory",
+    "title": "Other ocular manifestations of vitamin A deficiency",
+    "chapter": "Endocrine, nutritional and metabolic diseases",
+    "chapterCode": "IV",
+    "block": "Other nutritional deficiencies",
+    "blockCode": "E50-E64",
+    "category": "Vitamin A deficiency",
+    "categoryCode": "E50",
+    "subcategory": "E50.7",
+    "inclusion": [
+        "Xerophthalmia NOS"
+    ],
+    "exclusion": [
+        "complications of pregnancy, childbirth and the puerperium",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "transitory endocrine and metabolic disorders specific to fetus and newborn",
+        "diabetes mellitus (in): malnutrition-related",
+        "sequelae of vitamin A deficiency"
+    ],
+    "symptoms": [
+        "blurred vision",
+        "muscle weakness",
+        "difficulty in walking",
+        "abnormal heart rhythms",
+        "fatigue"
+    ]
+}

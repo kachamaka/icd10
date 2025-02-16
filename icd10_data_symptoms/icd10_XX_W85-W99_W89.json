@@ -1,0 +1,27 @@
+{
+    "icd10code": "W89",
+    "type": "category",
+    "title": "Exposure to man-made visible and ultraviolet light",
+    "chapter": "External causes of morbidity and mortality",
+    "chapterCode": "XX",
+    "block": "Exposure to electric current, radiation and extreme ambient air temperature and pressure",
+    "blockCode": "W85-W99",
+    "category": "Exposure to man-made visible and ultraviolet light",
+    "categoryCode": "W89",
+    "subcategory": "",
+    "inclusion": [
+        "welding light (arc)"
+    ],
+    "exclusion": [
+        "abnormal reaction to a complication of treatment, without mention of misadventure",
+        "misadventure to patient in surgical and medical procedures",
+        "exposure to: natural: cold",
+        "exposure to: natural: heat",
+        "exposure to: radiation NOS",
+        "exposure to: sunlight",
+        "victim of lightning"
+    ],
+    "symptoms": [
+        "asymptomatic"
+    ]
+}

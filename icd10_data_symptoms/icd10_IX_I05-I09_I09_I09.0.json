@@ -1,0 +1,33 @@
+{
+    "icd10code": "I09.0",
+    "type": "subcategory",
+    "title": "Rheumatic myocarditis",
+    "chapter": "Diseases of the circulatory system",
+    "chapterCode": "IX",
+    "block": "Chronic rheumatic heart diseases",
+    "blockCode": "I05-I09",
+    "category": "Other rheumatic heart diseases",
+    "categoryCode": "I09",
+    "subcategory": "I09.0",
+    "inclusion": null,
+    "exclusion": [
+        "certain conditions originating in the perinatal period",
+        "certain infectious and parasitic diseases",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "systemic connective tissue disorders",
+        "transient cerebral ischaemic attacks and related syndromes",
+        "myocarditis not specified as rheumatic"
+    ],
+    "symptoms": [
+        "chest pain",
+        "shortness of breath",
+        "fatigue",
+        "rapid or irregular heartbeats",
+        "fluid retention/swelling in legs"
+    ]
+}

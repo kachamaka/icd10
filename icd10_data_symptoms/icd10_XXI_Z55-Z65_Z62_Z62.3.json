@@ -1,0 +1,19 @@
+{
+    "icd10code": "Z62.3",
+    "type": "subcategory",
+    "title": "Hostility towards and scapegoating of child",
+    "chapter": "Factors influencing health status and contact with health services",
+    "chapterCode": "XXI",
+    "block": "Persons with potential health hazards related to socioeconomic and psychosocial circumstances",
+    "blockCode": "Z55-Z65",
+    "category": "Other problems related to upbringing",
+    "categoryCode": "Z62",
+    "subcategory": "Z62.3",
+    "inclusion": null,
+    "exclusion": [
+        "maltreatment syndromes"
+    ],
+    "symptoms": [
+        "asymptomatic"
+    ]
+}

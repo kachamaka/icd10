@@ -1,0 +1,19 @@
+{
+  "type": "subcategory",
+  "chapterCode": "XX",
+  "chapter": "External causes of morbidity and mortality",
+  "blockCode": "Y35-Y36",
+  "block": "Legal intervention and operations of war",
+  "categoryCode": "Y35",
+  "category": "Legal intervention",
+  "subcategory": "Y35.4",
+  "title": "Legal intervention involving sharp objects",
+  "inclusion": [
+    "injuries inflicted by the police or other law-enforcing agents, including military on duty, in the course of arresting or attempting to arrest lawbreakers, suppressing disturbances, maintaining order, and other legal action",
+    "Cut during legal intervention",
+    "Injured by bayonet during legal intervention",
+    "Stabbed during legal intervention"
+  ],
+  "exclusion": null,
+  "children": null
+}

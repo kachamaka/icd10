@@ -1,0 +1,27 @@
+{
+    "icd10code": "D29.7",
+    "type": "subcategory",
+    "title": "Benign neoplasm: Other male genital organs",
+    "chapter": "Neoplasms",
+    "chapterCode": "II",
+    "block": "Benign neoplasms",
+    "blockCode": "D10-D36",
+    "category": "Benign neoplasm of male genital organs",
+    "categoryCode": "D29",
+    "subcategory": "D29.7",
+    "inclusion": [
+        "morphology codes with behaviour code /0",
+        "skin of male genital organs",
+        "Seminal vesicle",
+        "Spermatic cord",
+        "Tunica vaginalis"
+    ],
+    "exclusion": null,
+    "symptoms": [
+        "abnormal bladder habits",
+        "blood in urine",
+        "frequent urination",
+        "lower abdominal pain",
+        "urinary incontinence"
+    ]
+}

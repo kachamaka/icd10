@@ -1,0 +1,17 @@
+{
+    "icd10code": "Y32",
+    "type": "category",
+    "title": "Crashing of motor vehicle, undetermined intent",
+    "chapter": "External causes of morbidity and mortality",
+    "chapterCode": "XX",
+    "block": "Event of undetermined intent",
+    "blockCode": "Y10-Y34",
+    "category": "Crashing of motor vehicle, undetermined intent",
+    "categoryCode": "Y32",
+    "subcategory": "",
+    "inclusion": null,
+    "exclusion": null,
+    "symptoms": [
+        "asymptomatic"
+    ]
+}

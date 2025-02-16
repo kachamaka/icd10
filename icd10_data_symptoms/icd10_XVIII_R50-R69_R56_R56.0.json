@@ -1,0 +1,27 @@
+{
+    "icd10code": "R56.0",
+    "type": "subcategory",
+    "title": "Febrile convulsions",
+    "chapter": "Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+    "chapterCode": "XVIII",
+    "block": "General symptoms and signs",
+    "blockCode": "R50-R69",
+    "category": "Convulsions, not elsewhere classified",
+    "categoryCode": "R56",
+    "subcategory": "R56.0",
+    "inclusion": null,
+    "exclusion": [
+        "abnormal findings on antenatal screening of mother",
+        "certain conditions originating in the perinatal period",
+        "convulsions and seizures (in): dissociative",
+        "convulsions and seizures (in): epilepsy",
+        "convulsions and seizures (in): newborn"
+    ],
+    "symptoms": [
+        "seizures",
+        "abnormal body movements",
+        "loss of consciousness",
+        "muscle rigidity",
+        "confusion"
+    ]
+}

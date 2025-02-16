@@ -1,0 +1,35 @@
+{
+    "icd10code": "J30.3",
+    "type": "subcategory",
+    "title": "Other allergic rhinitis",
+    "chapter": "Diseases of the respiratory system",
+    "chapterCode": "X",
+    "block": "Other diseases of upper respiratory tract",
+    "blockCode": "J30-J39",
+    "category": "Vasomotor and allergic rhinitis",
+    "categoryCode": "J30",
+    "subcategory": "J30.3",
+    "inclusion": [
+        "spasmodic rhinorrhoea",
+        "Perennial allergic rhinitis"
+    ],
+    "exclusion": [
+        "certain conditions originating in the perinatal period",
+        "certain infectious and parasitic diseases",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "allergic rhinitis with asthma",
+        "rhinitis NOS"
+    ],
+    "symptoms": [
+        "sneezing",
+        "nasal congestion",
+        "runny nose",
+        "itchy eyes",
+        "postnasal drip"
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "icd10code": "D44.9",
+    "type": "subcategory",
+    "title": "Neoplasm of uncertain or unknown behaviour: Endocrine gland, unspecified",
+    "chapter": "Neoplasms",
+    "chapterCode": "II",
+    "block": "Neoplasms of uncertain or unknown behaviour",
+    "blockCode": "D37-D48",
+    "category": "Neoplasm of uncertain or unknown behaviour of endocrine glands",
+    "categoryCode": "D44",
+    "subcategory": "D44.9",
+    "inclusion": null,
+    "exclusion": [
+        "endocrine pancreas",
+        "ovary",
+        "testis",
+        "thymus"
+    ],
+    "symptoms": [
+        "unexplained weight loss",
+        "fatigue",
+        "persistent pain or discomfort",
+        "changes in bowel or bladder habits",
+        "unusual bleeding or discharge"
+    ]
+}

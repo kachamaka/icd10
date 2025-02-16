@@ -1,0 +1,23 @@
+{
+    "icd10code": "Q06.0",
+    "type": "subcategory",
+    "title": "Amyelia",
+    "chapter": "Congenital malformations, deformations and chromosomal abnormalities",
+    "chapterCode": "XVII",
+    "block": "Congenital malformations of the nervous system",
+    "blockCode": "Q00-Q07",
+    "category": "Other congenital malformations of spinal cord",
+    "categoryCode": "Q06",
+    "subcategory": "Q06.0",
+    "inclusion": null,
+    "exclusion": [
+        "inborn errors of metabolism"
+    ],
+    "symptoms": [
+        "incomplete or absent brain tissue",
+        "abnormal head shape",
+        "hydrocephalus",
+        "intellectual disability",
+        "motor function impairments"
+    ]
+}

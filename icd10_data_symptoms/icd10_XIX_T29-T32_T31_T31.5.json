@@ -1,0 +1,43 @@
+{
+    "icd10code": "T31.5",
+    "type": "subcategory",
+    "title": "Burns involving 50-59% of body surface",
+    "chapter": "Injury, poisoning and certain other consequences of external causes",
+    "chapterCode": "XIX",
+    "block": "Burns and corrosions of multiple and unspecified body regions",
+    "blockCode": "T29-T32",
+    "category": "Burns classified according to extent of body surface involved",
+    "categoryCode": "T31",
+    "subcategory": "T31.5",
+    "inclusion": [
+        "burns (thermal) from: electrical heating appliances",
+        "burns (thermal) from: electricity",
+        "burns (thermal) from: flame",
+        "burns (thermal) from: friction",
+        "burns (thermal) from: hot air and hot gases",
+        "burns (thermal) from: hot objects",
+        "burns (thermal) from: lightning",
+        "burns (thermal) from: radiation",
+        "chemical burns [corrosions] (external)(internal)",
+        "scalds"
+    ],
+    "exclusion": [
+        "birth trauma",
+        "obstetric trauma",
+        "malunion of fracture",
+        "nonunion of fracture [pseudarthrosis]",
+        "pathological fracture",
+        "pathological fracture with osteoporosis",
+        "stress fracture",
+        "erythema [dermatitis] ab igne",
+        "radiation-related disorders of the skin and subcutaneous tissue",
+        "sunburn"
+    ],
+    "symptoms": [
+        "severe burns on 50-59% of body",
+        "pain",
+        "redness",
+        "swelling",
+        "blistering"
+    ]
+}

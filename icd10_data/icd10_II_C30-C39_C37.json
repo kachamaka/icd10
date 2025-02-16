@@ -1,0 +1,18 @@
+{
+  "type": "category",
+  "chapterCode": "II",
+  "chapter": "Neoplasms",
+  "blockCode": "C30-C39",
+  "block": "Malignant neoplasms of respiratory and intrathoracic organs",
+  "categoryCode": "C37",
+  "category": "Malignant neoplasm of thymus",
+  "subcategory": "",
+  "title": "Malignant neoplasm of thymus",
+  "inclusion": [
+    "middle ear"
+  ],
+  "exclusion": [
+    "mesothelioma"
+  ],
+  "children": null
+}

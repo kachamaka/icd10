@@ -1,0 +1,36 @@
+{
+  "type": "subcategory",
+  "chapterCode": "XIX",
+  "chapter": "Injury, poisoning and certain other consequences of external causes",
+  "blockCode": "T08-T14",
+  "block": "Injuries to unspecified part of trunk, limb or body region",
+  "categoryCode": "T14",
+  "category": "Injury of unspecified body region",
+  "subcategory": "T14.6",
+  "title": "Injury of muscles and tendons of unspecified body region",
+  "inclusion": [
+    "Avulsion of muscle(s) NOS and tendon(s) NOS",
+    "Cut of muscle(s) NOS and tendon(s) NOS",
+    "Injury of muscle(s) NOS and tendon(s) NOS",
+    "Laceration of muscle(s) NOS and tendon(s) NOS",
+    "Sprain of muscle(s) NOS and tendon(s) NOS",
+    "Strain of muscle(s) NOS and tendon(s) NOS",
+    "Traumatic rupture of muscle(s) NOS and tendon(s) NOS"
+  ],
+  "exclusion": [
+    "birth trauma",
+    "obstetric trauma",
+    "malunion of fracture",
+    "nonunion of fracture [pseudarthrosis]",
+    "pathological fracture",
+    "pathological fracture with osteoporosis",
+    "stress fracture",
+    "burns and corrosions",
+    "frostbite",
+    "injuries involving multiple body regions",
+    "insect bite or sting, venomous",
+    "injuries involving multiple body regions",
+    "multiple injuries of tendons and muscles NOS"
+  ],
+  "children": null
+}

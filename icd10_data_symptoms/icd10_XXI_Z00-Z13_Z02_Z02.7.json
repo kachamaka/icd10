@@ -1,0 +1,25 @@
+{
+    "icd10code": "Z02.7",
+    "type": "subcategory",
+    "title": "Issue of medical certificate",
+    "chapter": "Factors influencing health status and contact with health services",
+    "chapterCode": "XXI",
+    "block": "Persons encountering health services for examination and investigation",
+    "blockCode": "Z00-Z13",
+    "category": "Examination and encounter for administrative purposes",
+    "categoryCode": "Z02",
+    "subcategory": "Z02.7",
+    "inclusion": [
+        "Issue of medical certificate of: cause of death",
+        "Issue of medical certificate of: fitness",
+        "Issue of medical certificate of: incapacity",
+        "Issue of medical certificate of: invalidity"
+    ],
+    "exclusion": [
+        "examinations related to pregnancy and reproduction",
+        "encounter for general medical examination"
+    ],
+    "symptoms": [
+        "asymptomatic"
+    ]
+}

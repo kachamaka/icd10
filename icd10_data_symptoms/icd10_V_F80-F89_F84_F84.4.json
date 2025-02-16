@@ -1,0 +1,25 @@
+{
+    "icd10code": "F84.4",
+    "type": "subcategory",
+    "title": "Overactive disorder associated with mental retardation and stereotyped movements",
+    "chapter": "Mental and behavioural disorders",
+    "chapterCode": "V",
+    "block": "Disorders of psychological development",
+    "blockCode": "F80-F89",
+    "category": "Pervasive developmental disorders",
+    "categoryCode": "F84",
+    "subcategory": "F84.4",
+    "inclusion": [
+        "disorders of psychological development"
+    ],
+    "exclusion": [
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified"
+    ],
+    "symptoms": [
+        "language delay",
+        "communication difficulties",
+        "social interaction challenges",
+        "repetitive behaviors",
+        "restricted interests"
+    ]
+}

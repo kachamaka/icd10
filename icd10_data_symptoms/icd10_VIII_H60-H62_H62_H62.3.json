@@ -1,0 +1,30 @@
+{
+    "icd10code": "H62.3",
+    "type": "subcategory",
+    "title": "Otitis externa in other infectious and parasitic diseases classified elsewhere",
+    "chapter": "Diseases of the ear and mastoid process",
+    "chapterCode": "VIII",
+    "block": "Diseases of external ear",
+    "blockCode": "H60-H62",
+    "category": "Disorders of external ear in diseases classified elsewhere",
+    "categoryCode": "H62",
+    "subcategory": "H62.3",
+    "inclusion": null,
+    "exclusion": [
+        "certain conditions originating in the perinatal period",
+        "certain infectious and parasitic diseases",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified"
+    ],
+    "symptoms": [
+        "ear pain",
+        "itching in the ear",
+        "redness",
+        "ear discharge",
+        "swelling"
+    ]
+}

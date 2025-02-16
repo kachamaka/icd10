@@ -1,0 +1,45 @@
+{
+    "icd10code": "K76.0",
+    "type": "subcategory",
+    "title": "Fatty (change of) liver, not elsewhere classified",
+    "chapter": "Diseases of the digestive system",
+    "chapterCode": "XI",
+    "block": "Diseases of liver",
+    "blockCode": "K70-K77",
+    "category": "Other diseases of liver",
+    "categoryCode": "K76",
+    "subcategory": "K76.0",
+    "inclusion": [
+        "Nonalcoholic fatty liver disease [NAFLD]"
+    ],
+    "exclusion": [
+        "certain conditions originating in the perinatal period",
+        "certain infectious and parasitic diseases",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "haemochromatosis",
+        "jaundice NOS",
+        "Reye syndrome",
+        "viral hepatitis",
+        "Wilson disease",
+        "alcoholic liver disease",
+        "amyloid degeneration of liver",
+        "cystic disease of liver (congenital)",
+        "hepatic vein thrombosis",
+        "hepatomegaly NOS",
+        "portal vein thrombosis",
+        "toxic liver disease",
+        "nonalcoholic steatohepatitis"
+    ],
+    "symptoms": [
+        "fatigue",
+        "jaundice",
+        "abdominal pain",
+        "nausea",
+        "enlarged liver"
+    ]
+}

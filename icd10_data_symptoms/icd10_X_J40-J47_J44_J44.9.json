@@ -1,0 +1,51 @@
+{
+    "icd10code": "J44.9",
+    "type": "subcategory",
+    "title": "Chronic obstructive pulmonary disease, unspecified",
+    "chapter": "Diseases of the respiratory system",
+    "chapterCode": "X",
+    "block": "Chronic lower respiratory diseases",
+    "blockCode": "J40-J47",
+    "category": "Other chronic obstructive pulmonary disease",
+    "categoryCode": "J44",
+    "subcategory": "J44.9",
+    "inclusion": [
+        "chronic: bronchitis: asthmatic (obstructive)",
+        "chronic: bronchitis: emphysematous",
+        "chronic: bronchitis: with: airways obstruction",
+        "chronic: bronchitis: with: emphysema",
+        "chronic: obstructive: asthma",
+        "chronic: obstructive: bronchitis",
+        "chronic: obstructive: tracheobronchitis",
+        "Chronic obstructive: airway disease NOS",
+        "Chronic obstructive: lung disease NOS"
+    ],
+    "exclusion": [
+        "certain conditions originating in the perinatal period",
+        "certain infectious and parasitic diseases",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "cystic fibrosis",
+        "respiratory infection NOS",
+        "asthma",
+        "asthmatic bronchitis NOS",
+        "bronchiectasis",
+        "chronic: bronchitis: NOS",
+        "chronic: bronchitis: simple and mucopurulent",
+        "chronic: tracheitis",
+        "chronic: tracheobronchitis",
+        "emphysema",
+        "lung diseases due to external agents"
+    ],
+    "symptoms": [
+        "shortness of breath",
+        "chronic cough",
+        "wheezing",
+        "fatigue",
+        "chest tightness"
+    ]
+}

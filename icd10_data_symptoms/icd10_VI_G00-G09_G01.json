@@ -1,0 +1,44 @@
+{
+    "icd10code": "G01",
+    "type": "category",
+    "title": "Meningitis in bacterial diseases classified elsewhere",
+    "chapter": "Diseases of the nervous system",
+    "chapterCode": "VI",
+    "block": "Inflammatory diseases of the central nervous system",
+    "blockCode": "G00-G09",
+    "category": "Meningitis in bacterial diseases classified elsewhere",
+    "categoryCode": "G01",
+    "subcategory": "",
+    "inclusion": [
+        "Meningitis (in): anthrax",
+        "Meningitis (in): gonococcal",
+        "Meningitis (in): leptospirosis",
+        "Meningitis (in): listerial",
+        "Meningitis (in): Lyme disease",
+        "Meningitis (in): meningococcal",
+        "Meningitis (in): neurosyphilis",
+        "Meningitis (in): salmonella infection",
+        "Meningitis (in): syphilis: congenital",
+        "Meningitis (in): syphilis: secondary",
+        "Meningitis (in): tuberculous",
+        "Meningitis (in): typhoid fever"
+    ],
+    "exclusion": [
+        "certain conditions originating in the perinatal period",
+        "certain infectious and parasitic diseases",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "meningoencephalitis and meningomyelitis in bacterial diseases classified elsewhere"
+    ],
+    "symptoms": [
+        "headache",
+        "fever",
+        "neck stiffness",
+        "altered mental status",
+        "nausea"
+    ]
+}

@@ -1,0 +1,36 @@
+{
+    "icd10code": "N90.2",
+    "type": "subcategory",
+    "title": "Severe vulvar dysplasia, not elsewhere classified",
+    "chapter": "Diseases of the genitourinary system",
+    "chapterCode": "XIV",
+    "block": "Noninflammatory disorders of female genital tract",
+    "blockCode": "N80-N98",
+    "category": "Other noninflammatory disorders of vulva and perineum",
+    "categoryCode": "N90",
+    "subcategory": "N90.2",
+    "inclusion": [
+        "Severe vulvar dysplasia NOS"
+    ],
+    "exclusion": [
+        "certain conditions originating in the perinatal period",
+        "certain infectious and parasitic diseases",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "carcinoma in situ of vulva",
+        "current obstetric trauma",
+        "inflammation of vulva",
+        "vulvar intraepithelial neoplasia grade III, [VIN] with or without mention of severe dysplasia"
+    ],
+    "symptoms": [
+        "abnormal bleeding",
+        "pelvic pain",
+        "vaginal discharge",
+        "itching",
+        "frequent urination"
+    ]
+}

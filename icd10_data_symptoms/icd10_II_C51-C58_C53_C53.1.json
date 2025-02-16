@@ -1,0 +1,23 @@
+{
+    "icd10code": "C53.1",
+    "type": "subcategory",
+    "title": "Malignant neoplasm: Exocervix",
+    "chapter": "Neoplasms",
+    "chapterCode": "II",
+    "block": "Malignant neoplasms of female genital organs",
+    "blockCode": "C51-C58",
+    "category": "Malignant neoplasm of cervix uteri",
+    "categoryCode": "C53",
+    "subcategory": "C53.1",
+    "inclusion": [
+        "skin of female genital organs"
+    ],
+    "exclusion": null,
+    "symptoms": [
+        "abnormal vaginal bleeding",
+        "pelvic pain or discomfort",
+        "unusual vaginal discharge",
+        "painful urination",
+        "pain during intercourse"
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "icd10code": "X02",
+    "type": "category",
+    "title": "Exposure to controlled fire in building or structure",
+    "chapter": "External causes of morbidity and mortality",
+    "chapterCode": "XX",
+    "block": "Exposure to smoke, fire and flames",
+    "blockCode": "X00-X09",
+    "category": "Exposure to controlled fire in building or structure",
+    "categoryCode": "X02",
+    "subcategory": "",
+    "inclusion": [
+        "fire caused by lightning",
+        "fire in: fireplace",
+        "fire in: stove"
+    ],
+    "exclusion": [
+        "arson",
+        "secondary fire resulting from explosion",
+        "transport accidents"
+    ],
+    "symptoms": [
+        "asymptomatic"
+    ]
+}

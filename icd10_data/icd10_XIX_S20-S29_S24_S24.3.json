@@ -1,0 +1,41 @@
+{
+  "type": "subcategory",
+  "chapterCode": "XIX",
+  "chapter": "Injury, poisoning and certain other consequences of external causes",
+  "blockCode": "S20-S29",
+  "block": "Injuries to the thorax",
+  "categoryCode": "S24",
+  "category": "Injury of nerves and spinal cord at thorax level",
+  "subcategory": "S24.3",
+  "title": "Injury of peripheral nerves of thorax",
+  "inclusion": [
+    "injuries of: breast",
+    "injuries of: chest (wall)",
+    "injuries of: interscapular area"
+  ],
+  "exclusion": [
+    "birth trauma",
+    "obstetric trauma",
+    "malunion of fracture",
+    "nonunion of fracture [pseudarthrosis]",
+    "pathological fracture",
+    "pathological fracture with osteoporosis",
+    "stress fracture",
+    "burns and corrosions",
+    "effects of foreign body in: bronchus",
+    "effects of foreign body in: lung",
+    "effects of foreign body in: oesophagus",
+    "effects of foreign body in: trachea",
+    "fracture of spine NOS",
+    "frostbite",
+    "injuries of: axilla",
+    "injuries of: clavicle",
+    "injuries of: scapular region",
+    "injuries of: shoulder",
+    "injuries of: spinal cord NOS",
+    "injuries of: trunk NOS",
+    "insect bite or sting, venomous",
+    "injury of: cervical oesophagus"
+  ],
+  "children": null
+}

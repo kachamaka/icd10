@@ -1,0 +1,18 @@
+{
+  "type": "subcategory",
+  "chapterCode": "XVII",
+  "chapter": "Congenital malformations, deformations and chromosomal abnormalities",
+  "blockCode": "Q90-Q99",
+  "block": "Chromosomal abnormalities, not elsewhere classified",
+  "categoryCode": "Q99",
+  "category": "Other chromosome abnormalities, not elsewhere classified",
+  "subcategory": "Q99.0",
+  "title": "Chimera 46,XX/46,XY",
+  "inclusion": [
+    "Chimera 46,XX/46,XY true hermaphrodite"
+  ],
+  "exclusion": [
+    "inborn errors of metabolism"
+  ],
+  "children": null
+}

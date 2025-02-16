@@ -1,0 +1,18 @@
+{
+  "type": "subcategory",
+  "chapterCode": "XVIII",
+  "chapter": "Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+  "blockCode": "R40-R46",
+  "block": "Symptoms and signs involving cognition, perception, emotional state and behaviour",
+  "categoryCode": "R46",
+  "category": "Symptoms and signs involving appearance and behaviour",
+  "subcategory": "R46.1",
+  "title": "Bizarre personal appearance",
+  "inclusion": null,
+  "exclusion": [
+    "abnormal findings on antenatal screening of mother",
+    "certain conditions originating in the perinatal period",
+    "those constituting part of a pattern of mental disorder"
+  ],
+  "children": null
+}

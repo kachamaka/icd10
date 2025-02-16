@@ -1,0 +1,35 @@
+{
+    "icd10code": "X64",
+    "type": "category",
+    "title": "Intentional self-poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",
+    "chapter": "External causes of morbidity and mortality",
+    "chapterCode": "XX",
+    "block": "Intentional self-harm",
+    "blockCode": "X60-X84",
+    "category": "Intentional self-poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",
+    "categoryCode": "X64",
+    "subcategory": "",
+    "inclusion": [
+        "purposely self-inflicted poisoning or injury",
+        "suicide (attempted)",
+        "agents primarily acting on smooth and skeletal muscles and the respiratory system",
+        "anaesthetics (general)(local)",
+        "drugs affecting the: cardiovascular system",
+        "drugs affecting the: gastrointestinal system",
+        "hormones and synthetic substitutes",
+        "systemic and haematological agents",
+        "systemic antibiotics and other anti-infectives",
+        "therapeutic gases",
+        "topical preparations",
+        "vaccines",
+        "water-balance agents and drugs affecting mineral and uric acid metabolism"
+    ],
+    "exclusion": null,
+    "symptoms": [
+        "nausea",
+        "vomiting",
+        "abdominal pain",
+        "dizziness",
+        "confusion"
+    ]
+}

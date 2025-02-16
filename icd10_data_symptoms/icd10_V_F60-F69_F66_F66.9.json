@@ -1,0 +1,25 @@
+{
+    "icd10code": "F66.9",
+    "type": "subcategory",
+    "title": "Psychosexual development disorder, unspecified",
+    "chapter": "Mental and behavioural disorders",
+    "chapterCode": "V",
+    "block": "Disorders of adult personality and behaviour",
+    "blockCode": "F60-F69",
+    "category": "Psychological and behavioural disorders associated with sexual development and orientation",
+    "categoryCode": "F66",
+    "subcategory": "F66.9",
+    "inclusion": [
+        "disorders of psychological development"
+    ],
+    "exclusion": [
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified"
+    ],
+    "symptoms": [
+        "confusion about sexual orientation",
+        "anxiety",
+        "depression",
+        "social withdrawal",
+        "identity issues"
+    ]
+}

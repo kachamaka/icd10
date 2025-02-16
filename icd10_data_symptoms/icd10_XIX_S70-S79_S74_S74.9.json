@@ -1,0 +1,34 @@
+{
+    "icd10code": "S74.9",
+    "type": "subcategory",
+    "title": "Injury of unspecified nerve at hip and thigh level",
+    "chapter": "Injury, poisoning and certain other consequences of external causes",
+    "chapterCode": "XIX",
+    "block": "Injuries to the hip and thigh",
+    "blockCode": "S70-S79",
+    "category": "Injury of nerves at hip and thigh level",
+    "categoryCode": "S74",
+    "subcategory": "S74.9",
+    "inclusion": null,
+    "exclusion": [
+        "birth trauma",
+        "obstetric trauma",
+        "malunion of fracture",
+        "nonunion of fracture [pseudarthrosis]",
+        "pathological fracture",
+        "pathological fracture with osteoporosis",
+        "stress fracture",
+        "bilateral involvement of hip and thigh",
+        "burns and corrosions",
+        "frostbite",
+        "injuries of leg, level unspecified",
+        "insect bite or sting, venomous"
+    ],
+    "symptoms": [
+        "numbness",
+        "tingling",
+        "weakness",
+        "loss of sensation",
+        "decreased reflexes"
+    ]
+}

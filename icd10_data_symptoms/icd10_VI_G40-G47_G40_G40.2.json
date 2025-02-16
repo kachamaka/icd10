@@ -1,0 +1,37 @@
+{
+    "icd10code": "G40.2",
+    "type": "subcategory",
+    "title": "Localization-related (focal)(partial) symptomatic epilepsy and epileptic syndromes with complex partial seizures",
+    "chapter": "Diseases of the nervous system",
+    "chapterCode": "VI",
+    "block": "Episodic and paroxysmal disorders",
+    "blockCode": "G40-G47",
+    "category": "Epilepsy",
+    "categoryCode": "G40",
+    "subcategory": "G40.2",
+    "inclusion": [
+        "Attacks with alteration of consciousness, often with automatisms",
+        "Complex partial seizures developing into secondarily generalized seizures"
+    ],
+    "exclusion": [
+        "certain conditions originating in the perinatal period",
+        "certain infectious and parasitic diseases",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "Landau-Kleffner syndrome",
+        "seizure (convulsive) NOS",
+        "status epilepticus",
+        "Todd paralysis"
+    ],
+    "symptoms": [
+        "seizures",
+        "confusion",
+        "muscle weakness",
+        "impaired consciousness",
+        "mood changes"
+    ]
+}

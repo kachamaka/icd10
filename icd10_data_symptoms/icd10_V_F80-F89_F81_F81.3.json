@@ -1,0 +1,28 @@
+{
+    "icd10code": "F81.3",
+    "type": "subcategory",
+    "title": "Mixed disorder of scholastic skills",
+    "chapter": "Mental and behavioural disorders",
+    "chapterCode": "V",
+    "block": "Disorders of psychological development",
+    "blockCode": "F80-F89",
+    "category": "Specific developmental disorders of scholastic skills",
+    "categoryCode": "F81",
+    "subcategory": "F81.3",
+    "inclusion": [
+        "disorders of psychological development"
+    ],
+    "exclusion": [
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "specific: disorder of arithmetical skills",
+        "specific: reading disorder",
+        "specific: spelling disorder"
+    ],
+    "symptoms": [
+        "difficulty with handwriting",
+        "impaired motor skills",
+        "clumsiness",
+        "trouble with drawing or cutting",
+        "challenges with spatial orientation"
+    ]
+}

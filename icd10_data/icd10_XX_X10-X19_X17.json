@@ -1,0 +1,19 @@
+{
+  "type": "category",
+  "chapterCode": "XX",
+  "chapter": "External causes of morbidity and mortality",
+  "blockCode": "X10-X19",
+  "block": "Contact with heat and hot substances",
+  "categoryCode": "X17",
+  "category": "Contact with hot engines, machinery and tools",
+  "subcategory": "",
+  "title": "Contact with hot engines, machinery and tools",
+  "inclusion": null,
+  "exclusion": [
+    "exposure to: excessive natural heat",
+    "exposure to: fire and flames",
+    "hot heating appliances, radiators and pipes",
+    "hot household appliances"
+  ],
+  "children": null
+}

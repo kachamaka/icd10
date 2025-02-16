@@ -1,0 +1,39 @@
+{
+    "icd10code": "L93.2",
+    "type": "subcategory",
+    "title": "Other local lupus erythematosus",
+    "chapter": "Diseases of the skin and subcutaneous tissue",
+    "chapterCode": "XII",
+    "block": "Other disorders of the skin and subcutaneous tissue",
+    "blockCode": "L80-L99",
+    "category": "Lupus erythematosus",
+    "categoryCode": "L93",
+    "subcategory": "L93.2",
+    "inclusion": [
+        "Lupus: erythematosus profundus",
+        "Lupus: panniculitis"
+    ],
+    "exclusion": [
+        "certain conditions originating in the perinatal period",
+        "certain infectious and parasitic diseases",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "lipomelanotic reticulosis",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "systemic connective tissue disorders",
+        "acne keloid",
+        "that associated with diabetes mellitus",
+        "skin infections",
+        "keratosis follicularis (congenital) [Darier-White]"
+    ],
+    "symptoms": [
+        "butterfly-shaped rash",
+        "fatigue",
+        "joint pain",
+        "hair loss",
+        "photosensitivity"
+    ]
+}

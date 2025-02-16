@@ -1,0 +1,23 @@
+{
+    "icd10code": "Z35.1",
+    "type": "subcategory",
+    "title": "Supervision of pregnancy with history of abortive outcome",
+    "chapter": "Factors influencing health status and contact with health services",
+    "chapterCode": "XXI",
+    "block": "Persons encountering health services in circumstances related to reproduction",
+    "blockCode": "Z30-Z39",
+    "category": "Supervision of high-risk pregnancy",
+    "categoryCode": "Z35",
+    "subcategory": "Z35.1",
+    "inclusion": [
+        "Supervision of pregnancy with history of: hydatidiform mole",
+        "Supervision of pregnancy with history of: vesicular mole"
+    ],
+    "exclusion": [
+        "habitual aborter: care during pregnancy",
+        "habitual aborter: without current pregnancy"
+    ],
+    "symptoms": [
+        "asymptomatic"
+    ]
+}

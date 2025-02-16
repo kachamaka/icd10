@@ -1,0 +1,18 @@
+{
+  "type": "category",
+  "chapterCode": "XX",
+  "chapter": "External causes of morbidity and mortality",
+  "blockCode": "W50-W64",
+  "block": "Exposure to animate mechanical forces",
+  "categoryCode": "W51",
+  "category": "Striking against or bumped into by another person",
+  "subcategory": "",
+  "title": "Striking against or bumped into by another person",
+  "inclusion": null,
+  "exclusion": [
+    "bites, venomous",
+    "stings (venomous)",
+    "fall due to collision of pedestrian (conveyance) with another pedestrian (conveyance)"
+  ],
+  "children": null
+}

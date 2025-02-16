@@ -1,0 +1,25 @@
+{
+    "icd10code": "Q34.8",
+    "type": "subcategory",
+    "title": "Other specified congenital malformations of respiratory system",
+    "chapter": "Congenital malformations, deformations and chromosomal abnormalities",
+    "chapterCode": "XVII",
+    "block": "Congenital malformations of the respiratory system",
+    "blockCode": "Q30-Q34",
+    "category": "Other congenital malformations of respiratory system",
+    "categoryCode": "Q34",
+    "subcategory": "Q34.8",
+    "inclusion": [
+        "Atresia of nasopharynx"
+    ],
+    "exclusion": [
+        "inborn errors of metabolism"
+    ],
+    "symptoms": [
+        "congenital breathing difficulties",
+        "cyanosis",
+        "recurrent respiratory infections",
+        "abnormal lung development",
+        "chest wall deformities"
+    ]
+}

@@ -1,0 +1,28 @@
+{
+  "type": "category",
+  "chapterCode": "IX",
+  "chapter": "Diseases of the circulatory system",
+  "blockCode": "I80-I89",
+  "block": "Diseases of veins, lymphatic vessels and lymph nodes, not elsewhere classified",
+  "categoryCode": "I81",
+  "category": "Portal vein thrombosis",
+  "subcategory": "",
+  "title": "Portal vein thrombosis",
+  "inclusion": [
+    "Portal (vein) obstruction"
+  ],
+  "exclusion": [
+    "certain conditions originating in the perinatal period",
+    "certain infectious and parasitic diseases",
+    "complications of pregnancy, childbirth and the puerperium",
+    "congenital malformations, deformations and chromosomal abnormalities",
+    "endocrine, nutritional and metabolic diseases",
+    "injury, poisoning and certain other consequences of external causes",
+    "neoplasms",
+    "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+    "systemic connective tissue disorders",
+    "transient cerebral ischaemic attacks and related syndromes",
+    "phlebitis of portal vein"
+  ],
+  "children": null
+}

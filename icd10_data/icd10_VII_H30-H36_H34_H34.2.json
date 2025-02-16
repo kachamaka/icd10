@@ -1,0 +1,29 @@
+{
+  "type": "subcategory",
+  "chapterCode": "VII",
+  "chapter": "Diseases of the eye and adnexa",
+  "blockCode": "H30-H36",
+  "block": "Disorders of choroid and retina",
+  "categoryCode": "H34",
+  "category": "Retinal vascular occlusions",
+  "subcategory": "H34.2",
+  "title": "Other retinal artery occlusions",
+  "inclusion": [
+    "Hollenhorst plaque",
+    "Retinal: artery occlusion: branch",
+    "Retinal: artery occlusion: partial",
+    "Retinal: microembolism"
+  ],
+  "exclusion": [
+    "certain conditions originating in the perinatal period",
+    "certain infectious and parasitic diseases",
+    "complications of pregnancy, childbirth and the puerperium",
+    "congenital malformations, deformations and chromosomal abnormalities",
+    "endocrine, nutritional and metabolic diseases",
+    "injury, poisoning and certain other consequences of external causes",
+    "neoplasms",
+    "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+    "amaurosis fugax"
+  ],
+  "children": null
+}

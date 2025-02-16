@@ -1,0 +1,23 @@
+{
+    "icd10code": "Q72.2",
+    "type": "subcategory",
+    "title": "Congenital absence of both lower leg and foot",
+    "chapter": "Congenital malformations, deformations and chromosomal abnormalities",
+    "chapterCode": "XVII",
+    "block": "Congenital malformations and deformations of the musculoskeletal system",
+    "blockCode": "Q65-Q79",
+    "category": "Reduction defects of lower limb",
+    "categoryCode": "Q72",
+    "subcategory": "Q72.2",
+    "inclusion": null,
+    "exclusion": [
+        "inborn errors of metabolism"
+    ],
+    "symptoms": [
+        "partial absence of lower limb",
+        "underdeveloped limb",
+        "reduced limb movement",
+        "limb length discrepancy",
+        "deformities of foot or toes"
+    ]
+}

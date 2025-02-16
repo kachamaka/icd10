@@ -1,0 +1,23 @@
+{
+  "type": "subcategory",
+  "chapterCode": "II",
+  "chapter": "Neoplasms",
+  "blockCode": "D00-D09",
+  "block": "In situ neoplasms",
+  "categoryCode": "D06",
+  "category": "Carcinoma in situ of cervix uteri",
+  "subcategory": "D06.1",
+  "title": "Carcinoma in situ: Exocervix",
+  "inclusion": [
+    "Bowen disease",
+    "erythroplasia",
+    "morphology codes with behaviour code /2",
+    "Queyrat erythroplasia",
+    "cervical intraepithelial neoplasia [CIN], grade III, with or without mention of severe dysplasia"
+  ],
+  "exclusion": [
+    "melanoma in situ of cervix",
+    "severe dysplasia of cervix NOS"
+  ],
+  "children": null
+}

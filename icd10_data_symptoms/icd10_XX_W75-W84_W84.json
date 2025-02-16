@@ -1,0 +1,20 @@
+{
+    "icd10code": "W84",
+    "type": "category",
+    "title": "Unspecified threat to breathing",
+    "chapter": "External causes of morbidity and mortality",
+    "chapterCode": "XX",
+    "block": "Other accidental threats to breathing",
+    "blockCode": "W75-W84",
+    "category": "Unspecified threat to breathing",
+    "categoryCode": "W84",
+    "subcategory": "",
+    "inclusion": [
+        "asphyxiation NOS",
+        "suffocation NOS"
+    ],
+    "exclusion": null,
+    "symptoms": [
+        "asymptomatic"
+    ]
+}

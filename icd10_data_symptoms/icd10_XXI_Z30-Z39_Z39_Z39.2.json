@@ -1,0 +1,17 @@
+{
+    "icd10code": "Z39.2",
+    "type": "subcategory",
+    "title": "Routine postpartum follow-up",
+    "chapter": "Factors influencing health status and contact with health services",
+    "chapterCode": "XXI",
+    "block": "Persons encountering health services in circumstances related to reproduction",
+    "blockCode": "Z30-Z39",
+    "category": "Postpartum care and examination",
+    "categoryCode": "Z39",
+    "subcategory": "Z39.2",
+    "inclusion": null,
+    "exclusion": null,
+    "symptoms": [
+        "asymptomatic"
+    ]
+}

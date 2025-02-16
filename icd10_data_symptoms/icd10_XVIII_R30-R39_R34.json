@@ -1,0 +1,26 @@
+{
+    "icd10code": "R34",
+    "type": "category",
+    "title": "Anuria and oliguria",
+    "chapter": "Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+    "chapterCode": "XVIII",
+    "block": "Symptoms and signs involving the urinary system",
+    "blockCode": "R30-R39",
+    "category": "Anuria and oliguria",
+    "categoryCode": "R34",
+    "subcategory": "",
+    "inclusion": null,
+    "exclusion": [
+        "abnormal findings on antenatal screening of mother",
+        "certain conditions originating in the perinatal period",
+        "that complicating: abortion or ectopic or molar pregnancy",
+        "that complicating: pregnancy, childbirth and the puerperium"
+    ],
+    "symptoms": [
+        "inability to urinate",
+        "reduced urine flow",
+        "painful urination",
+        "abdominal discomfort",
+        "urgency without output"
+    ]
+}

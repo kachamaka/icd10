@@ -1,0 +1,23 @@
+{
+    "icd10code": "D38.3",
+    "type": "subcategory",
+    "title": "Neoplasm of uncertain or unknown behaviour: Mediastinum",
+    "chapter": "Neoplasms",
+    "chapterCode": "II",
+    "block": "Neoplasms of uncertain or unknown behaviour",
+    "blockCode": "D37-D48",
+    "category": "Neoplasm of uncertain or unknown behaviour of middle ear and respiratory and intrathoracic organs",
+    "categoryCode": "D38",
+    "subcategory": "D38.3",
+    "inclusion": null,
+    "exclusion": [
+        "heart"
+    ],
+    "symptoms": [
+        "difficulty swallowing",
+        "persistent cough",
+        "hoarseness or change in voice",
+        "sore throat",
+        "persistent earache"
+    ]
+}

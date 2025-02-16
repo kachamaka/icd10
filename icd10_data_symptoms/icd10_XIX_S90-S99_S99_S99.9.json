@@ -1,0 +1,35 @@
+{
+    "icd10code": "S99.9",
+    "type": "subcategory",
+    "title": "Unspecified injury of ankle and foot",
+    "chapter": "Injury, poisoning and certain other consequences of external causes",
+    "chapterCode": "XIX",
+    "block": "Injuries to the ankle and foot",
+    "blockCode": "S90-S99",
+    "category": "Other and unspecified injuries of ankle and foot",
+    "categoryCode": "S99",
+    "subcategory": "S99.9",
+    "inclusion": null,
+    "exclusion": [
+        "birth trauma",
+        "obstetric trauma",
+        "malunion of fracture",
+        "nonunion of fracture [pseudarthrosis]",
+        "pathological fracture",
+        "pathological fracture with osteoporosis",
+        "stress fracture",
+        "bilateral involvement of ankle and foot",
+        "burns and corrosions",
+        "fracture of ankle and malleolus",
+        "frostbite",
+        "injuries of leg, level unspecified",
+        "insect bite or sting, venomous"
+    ],
+    "symptoms": [
+        "pain",
+        "swelling",
+        "bruising",
+        "difficulty bearing weight",
+        "restricted movement"
+    ]
+}

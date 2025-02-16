@@ -1,0 +1,24 @@
+{
+    "icd10code": "Q97.3",
+    "type": "subcategory",
+    "title": "Female with 46,XY karyotype",
+    "chapter": "Congenital malformations, deformations and chromosomal abnormalities",
+    "chapterCode": "XVII",
+    "block": "Chromosomal abnormalities, not elsewhere classified",
+    "blockCode": "Q90-Q99",
+    "category": "Other sex chromosome abnormalities, female phenotype, not elsewhere classified",
+    "categoryCode": "Q97",
+    "subcategory": "Q97.3",
+    "inclusion": null,
+    "exclusion": [
+        "inborn errors of metabolism",
+        "Turner syndrome"
+    ],
+    "symptoms": [
+        "short stature",
+        "developmental delay",
+        "intellectual disability",
+        "infertility",
+        "distinct facial features"
+    ]
+}

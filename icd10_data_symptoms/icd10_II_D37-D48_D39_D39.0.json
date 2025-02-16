@@ -1,0 +1,21 @@
+{
+    "icd10code": "D39.0",
+    "type": "subcategory",
+    "title": "Neoplasm of uncertain or unknown behaviour: Uterus",
+    "chapter": "Neoplasms",
+    "chapterCode": "II",
+    "block": "Neoplasms of uncertain or unknown behaviour",
+    "blockCode": "D37-D48",
+    "category": "Neoplasm of uncertain or unknown behaviour of female genital organs",
+    "categoryCode": "D39",
+    "subcategory": "D39.0",
+    "inclusion": null,
+    "exclusion": null,
+    "symptoms": [
+        "abnormal uterine bleeding",
+        "pelvic pain or pressure",
+        "enlarged uterus",
+        "irregular menstrual periods",
+        "pain during intercourse"
+    ]
+}

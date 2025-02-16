@@ -1,0 +1,18 @@
+{
+  "type": "subcategory",
+  "chapterCode": "XXI",
+  "chapter": "Factors influencing health status and contact with health services",
+  "blockCode": "Z40-Z54",
+  "block": "Persons encountering health services for specific procedures and health care",
+  "categoryCode": "Z54",
+  "category": "Convalescence",
+  "subcategory": "Z54.7",
+  "title": "Convalescence following combined treatment",
+  "inclusion": [
+    "Convalescence following any combination of treatments classified to Z54.0-Z54.4"
+  ],
+  "exclusion": [
+    "follow-up examination for medical surveillance after treatment"
+  ],
+  "children": null
+}

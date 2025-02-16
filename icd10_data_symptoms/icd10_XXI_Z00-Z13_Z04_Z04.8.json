@@ -1,0 +1,26 @@
+{
+    "icd10code": "Z04.8",
+    "type": "subcategory",
+    "title": "Examination and observation for other specified reasons",
+    "chapter": "Factors influencing health status and contact with health services",
+    "chapterCode": "XXI",
+    "block": "Persons encountering health services for examination and investigation",
+    "blockCode": "Z00-Z13",
+    "category": "Examination and observation for other reasons",
+    "categoryCode": "Z04",
+    "subcategory": "Z04.8",
+    "inclusion": [
+        "examination for medicolegal reasons",
+        "Request for expert evidence"
+    ],
+    "exclusion": [
+        "examinations related to pregnancy and reproduction"
+    ],
+    "symptoms": [
+        "nausea",
+        "dizziness",
+        "headache",
+        "fatigue",
+        "abdominal pain"
+    ]
+}

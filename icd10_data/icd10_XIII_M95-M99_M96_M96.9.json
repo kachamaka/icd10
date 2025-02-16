@@ -1,0 +1,28 @@
+{
+  "type": "subcategory",
+  "chapterCode": "XIII",
+  "chapter": "Diseases of the musculoskeletal system and connective tissue",
+  "blockCode": "M95-M99",
+  "block": "Other disorders of the musculoskeletal system and connective tissue",
+  "categoryCode": "M96",
+  "category": "Postprocedural musculoskeletal disorders, not elsewhere classified",
+  "subcategory": "M96.9",
+  "title": "Postprocedural musculoskeletal disorder, unspecified",
+  "inclusion": null,
+  "exclusion": [
+    "certain conditions originating in the perinatal period",
+    "certain disorders of the temporomandibular joint",
+    "certain infectious and parasitic diseases",
+    "compartment syndrome",
+    "complications of pregnancy, childbirth and the puerperium",
+    "congenital malformations, deformations and chromosomal abnormalities",
+    "endocrine, nutritional and metabolic diseases",
+    "injury, poisoning and certain other consequences of external causes",
+    "neoplasms",
+    "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+    "soft tissue pain, psychogenic",
+    "bursitis: due to use, overuse and pressure",
+    "osteophyte"
+  ],
+  "children": null
+}

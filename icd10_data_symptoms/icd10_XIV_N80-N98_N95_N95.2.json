@@ -1,0 +1,38 @@
+{
+    "icd10code": "N95.2",
+    "type": "subcategory",
+    "title": "Postmenopausal atrophic vaginitis",
+    "chapter": "Diseases of the genitourinary system",
+    "chapterCode": "XIV",
+    "block": "Noninflammatory disorders of female genital tract",
+    "blockCode": "N80-N98",
+    "category": "Menopausal and other perimenopausal disorders",
+    "categoryCode": "N95",
+    "subcategory": "N95.2",
+    "inclusion": [
+        "Senile (atrophic) vaginitis"
+    ],
+    "exclusion": [
+        "certain conditions originating in the perinatal period",
+        "certain infectious and parasitic diseases",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "excessive bleeding in the premenopausal period",
+        "postmenopausal: osteoporosis",
+        "postmenopausal: osteoporosis with pathological fracture",
+        "postmenopausal: urethritis",
+        "premature menopause NOS",
+        "that associated with artificial menopause"
+    ],
+    "symptoms": [
+        "hot flashes",
+        "night sweats",
+        "mood swings",
+        "vaginal dryness",
+        "sleep disturbances"
+    ]
+}

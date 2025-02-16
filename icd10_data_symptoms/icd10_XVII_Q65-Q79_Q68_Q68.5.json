@@ -1,0 +1,24 @@
+{
+    "icd10code": "Q68.5",
+    "type": "subcategory",
+    "title": "Congenital bowing of long bones of leg, unspecified",
+    "chapter": "Congenital malformations, deformations and chromosomal abnormalities",
+    "chapterCode": "XVII",
+    "block": "Congenital malformations and deformations of the musculoskeletal system",
+    "blockCode": "Q65-Q79",
+    "category": "Other congenital musculoskeletal deformities",
+    "categoryCode": "Q68",
+    "subcategory": "Q68.5",
+    "inclusion": null,
+    "exclusion": [
+        "inborn errors of metabolism",
+        "reduction defects of limb(s)"
+    ],
+    "symptoms": [
+        "abnormal limb position",
+        "restrictive movement",
+        "joint deformity",
+        "limb underdevelopment",
+        "abnormal joint function"
+    ]
+}

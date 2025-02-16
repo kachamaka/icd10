@@ -1,0 +1,42 @@
+{
+    "icd10code": "N31.2",
+    "type": "subcategory",
+    "title": "Flaccid neuropathic bladder, not elsewhere classified",
+    "chapter": "Diseases of the genitourinary system",
+    "chapterCode": "XIV",
+    "block": "Other diseases of urinary system",
+    "blockCode": "N30-N39",
+    "category": "Neuromuscular dysfunction of bladder, not elsewhere classified",
+    "categoryCode": "N31",
+    "subcategory": "N31.2",
+    "inclusion": [
+        "Neuropathic bladder: atonic (motor)(sensory)",
+        "Neuropathic bladder: autonomous",
+        "Neuropathic bladder: nonreflex"
+    ],
+    "exclusion": [
+        "certain conditions originating in the perinatal period",
+        "certain infectious and parasitic diseases",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "urinary infection (complicating): abortion or ectopic or molar pregnancy",
+        "urinary infection (complicating): pregnancy, childbirth and the puerperium",
+        "urinary infection (complicating): with urolithiasis",
+        "haematuria: NOS",
+        "irradiation cystitis",
+        "trigonitis",
+        "calculus in diverticulum of bladder",
+        "urinary incontinence: specified"
+    ],
+    "symptoms": [
+        "urinary retention",
+        "urinary incontinence",
+        "frequent urination",
+        "bladder dysfunction",
+        "difficulty starting urination"
+    ]
+}

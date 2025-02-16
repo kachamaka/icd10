@@ -1,0 +1,38 @@
+{
+    "icd10code": "S91.1",
+    "type": "subcategory",
+    "title": "Open wound of toe(s) without damage to nail",
+    "chapter": "Injury, poisoning and certain other consequences of external causes",
+    "chapterCode": "XIX",
+    "block": "Injuries to the ankle and foot",
+    "blockCode": "S90-S99",
+    "category": "Open wound of ankle and foot",
+    "categoryCode": "S91",
+    "subcategory": "S91.1",
+    "inclusion": [
+        "Open wound of toe(s) NOS"
+    ],
+    "exclusion": [
+        "birth trauma",
+        "obstetric trauma",
+        "malunion of fracture",
+        "nonunion of fracture [pseudarthrosis]",
+        "pathological fracture",
+        "pathological fracture with osteoporosis",
+        "stress fracture",
+        "bilateral involvement of ankle and foot",
+        "burns and corrosions",
+        "fracture of ankle and malleolus",
+        "frostbite",
+        "injuries of leg, level unspecified",
+        "insect bite or sting, venomous",
+        "injury of Achilles tendon"
+    ],
+    "symptoms": [
+        "pain",
+        "swelling",
+        "bleeding",
+        "tenderness",
+        "redness"
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "icd10code": "G30.1",
+    "type": "subcategory",
+    "title": "Alzheimer disease with late onset",
+    "chapter": "Diseases of the nervous system",
+    "chapterCode": "VI",
+    "block": "Other degenerative diseases of the nervous system",
+    "blockCode": "G30-G32",
+    "category": "Alzheimer disease",
+    "categoryCode": "G30",
+    "subcategory": "G30.1",
+    "inclusion": [
+        "senile and presenile forms"
+    ],
+    "exclusion": [
+        "certain conditions originating in the perinatal period",
+        "certain infectious and parasitic diseases",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "senile: degeneration of brain NEC",
+        "senile: dementia NOS",
+        "senility NOS"
+    ],
+    "symptoms": [
+        "memory loss",
+        "confusion",
+        "difficulty in communication",
+        "mood changes",
+        "impaired reasoning"
+    ]
+}

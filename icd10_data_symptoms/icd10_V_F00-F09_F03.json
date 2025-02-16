@@ -1,0 +1,32 @@
+{
+    "icd10code": "F03",
+    "type": "category",
+    "title": "Unspecified dementia",
+    "chapter": "Mental and behavioural disorders",
+    "chapterCode": "V",
+    "block": "Organic, including symptomatic, mental disorders",
+    "blockCode": "F00-F09",
+    "category": "Unspecified dementia",
+    "categoryCode": "F03",
+    "subcategory": "",
+    "inclusion": [
+        "disorders of psychological development",
+        "Presenile: dementia NOS",
+        "Presenile: psychosis NOS",
+        "Primary degenerative dementia NOS",
+        "Senile: dementia: NOS",
+        "Senile: dementia: depressed or paranoid type",
+        "Senile: psychosis NOS"
+    ],
+    "exclusion": [
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "senility NOS"
+    ],
+    "symptoms": [
+        "memory loss",
+        "confusion",
+        "difficulty with communication",
+        "impaired reasoning",
+        "personality changes"
+    ]
+}

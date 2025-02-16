@@ -1,0 +1,23 @@
+{
+    "icd10code": "C85.1",
+    "type": "subcategory",
+    "title": "B-cell lymphoma, unspecified",
+    "chapter": "Neoplasms",
+    "chapterCode": "II",
+    "block": "Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",
+    "blockCode": "C81-C96",
+    "category": "Other and unspecified types of non-Hodgkin lymphoma",
+    "categoryCode": "C85",
+    "subcategory": "C85.1",
+    "inclusion": null,
+    "exclusion": [
+        "secondary and unspecified neoplasm of lymph nodes"
+    ],
+    "symptoms": [
+        "unexplained weight loss",
+        "persistent fever",
+        "night sweats",
+        "feeling of fullness below ribs",
+        "swollen lymph nodes in neck or armpits"
+    ]
+}

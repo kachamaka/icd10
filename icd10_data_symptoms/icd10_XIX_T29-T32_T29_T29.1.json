@@ -1,0 +1,44 @@
+{
+    "icd10code": "T29.1",
+    "type": "subcategory",
+    "title": "Burns of multiple regions, no more than first-degree burns mentioned",
+    "chapter": "Injury, poisoning and certain other consequences of external causes",
+    "chapterCode": "XIX",
+    "block": "Burns and corrosions of multiple and unspecified body regions",
+    "blockCode": "T29-T32",
+    "category": "Burns and corrosions of multiple body regions",
+    "categoryCode": "T29",
+    "subcategory": "T29.1",
+    "inclusion": [
+        "burns (thermal) from: electrical heating appliances",
+        "burns (thermal) from: electricity",
+        "burns (thermal) from: flame",
+        "burns (thermal) from: friction",
+        "burns (thermal) from: hot air and hot gases",
+        "burns (thermal) from: hot objects",
+        "burns (thermal) from: lightning",
+        "burns (thermal) from: radiation",
+        "chemical burns [corrosions] (external)(internal)",
+        "scalds",
+        "Thoracic cavity"
+    ],
+    "exclusion": [
+        "birth trauma",
+        "obstetric trauma",
+        "malunion of fracture",
+        "nonunion of fracture [pseudarthrosis]",
+        "pathological fracture",
+        "pathological fracture with osteoporosis",
+        "stress fracture",
+        "erythema [dermatitis] ab igne",
+        "radiation-related disorders of the skin and subcutaneous tissue",
+        "sunburn"
+    ],
+    "symptoms": [
+        "burns",
+        "redness",
+        "blisters",
+        "pain",
+        "swelling"
+    ]
+}

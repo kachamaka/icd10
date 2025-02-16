@@ -1,0 +1,14 @@
+{
+  "type": "subcategory",
+  "chapterCode": "XXII",
+  "chapter": "Codes for special purposes",
+  "blockCode": "U82-U85",
+  "block": "Resistance to antimicrobial and antineoplastic drugs",
+  "categoryCode": "U83",
+  "category": "Resistance to other antibiotics",
+  "subcategory": "U83.8",
+  "title": "Resistance to other single specified antibiotic",
+  "inclusion": null,
+  "exclusion": null,
+  "children": null
+}

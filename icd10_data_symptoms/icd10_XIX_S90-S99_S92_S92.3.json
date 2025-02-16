@@ -1,0 +1,37 @@
+{
+    "icd10code": "S92.3",
+    "type": "subcategory",
+    "title": "Fracture of metatarsal bone",
+    "chapter": "Injury, poisoning and certain other consequences of external causes",
+    "chapterCode": "XIX",
+    "block": "Injuries to the ankle and foot",
+    "blockCode": "S90-S99",
+    "category": "Fracture of foot, except ankle",
+    "categoryCode": "S92",
+    "subcategory": "S92.3",
+    "inclusion": null,
+    "exclusion": [
+        "birth trauma",
+        "obstetric trauma",
+        "malunion of fracture",
+        "nonunion of fracture [pseudarthrosis]",
+        "pathological fracture",
+        "pathological fracture with osteoporosis",
+        "stress fracture",
+        "bilateral involvement of ankle and foot",
+        "burns and corrosions",
+        "fracture of ankle and malleolus",
+        "frostbite",
+        "injuries of leg, level unspecified",
+        "insect bite or sting, venomous",
+        "injury of Achilles tendon",
+        "malleolus"
+    ],
+    "symptoms": [
+        "pain in foot",
+        "swelling",
+        "bruising",
+        "difficulty walking",
+        "tenderness in foot"
+    ]
+}

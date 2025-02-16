@@ -1,0 +1,36 @@
+{
+    "icd10code": "I05.0",
+    "type": "subcategory",
+    "title": "Mitral stenosis",
+    "chapter": "Diseases of the circulatory system",
+    "chapterCode": "IX",
+    "block": "Chronic rheumatic heart diseases",
+    "blockCode": "I05-I09",
+    "category": "Rheumatic mitral valve diseases",
+    "categoryCode": "I05",
+    "subcategory": "I05.0",
+    "inclusion": [
+        "conditions classifiable to and , whether specified as rheumatic or not",
+        "Mitral (valve) obstruction (rheumatic)"
+    ],
+    "exclusion": [
+        "certain conditions originating in the perinatal period",
+        "certain infectious and parasitic diseases",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "systemic connective tissue disorders",
+        "transient cerebral ischaemic attacks and related syndromes",
+        "postoperative shock"
+    ],
+    "symptoms": [
+        "shortness of breath",
+        "chest pain",
+        "fatigue",
+        "irregular heartbeat",
+        "chronic cough"
+    ]
+}

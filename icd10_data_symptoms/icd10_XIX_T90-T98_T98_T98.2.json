@@ -1,0 +1,31 @@
+{
+    "icd10code": "T98.2",
+    "type": "subcategory",
+    "title": "Sequelae of certain early complications of trauma",
+    "chapter": "Injury, poisoning and certain other consequences of external causes",
+    "chapterCode": "XIX",
+    "block": "Sequelae of injuries, of poisoning and of other consequences of external causes",
+    "blockCode": "T90-T98",
+    "category": "Sequelae of other and unspecified effects of external causes",
+    "categoryCode": "T98",
+    "subcategory": "T98.2",
+    "inclusion": [
+        "Sequelae of complications classifiable to T79.-"
+    ],
+    "exclusion": [
+        "birth trauma",
+        "obstetric trauma",
+        "malunion of fracture",
+        "nonunion of fracture [pseudarthrosis]",
+        "pathological fracture",
+        "pathological fracture with osteoporosis",
+        "stress fracture"
+    ],
+    "symptoms": [
+        "scarring",
+        "pain at old injury site",
+        "skin discoloration",
+        "limited mobility",
+        "tissue thickening"
+    ]
+}

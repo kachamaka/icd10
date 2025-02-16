@@ -1,0 +1,36 @@
+{
+    "icd10code": "K64.1",
+    "type": "subcategory",
+    "title": "Second degree haemorrhoids",
+    "chapter": "Diseases of the digestive system",
+    "chapterCode": "XI",
+    "block": "Other diseases of intestines",
+    "blockCode": "K55-K64",
+    "category": "Haemorrhoids and perianal venous thrombosis",
+    "categoryCode": "K64",
+    "subcategory": "K64.1",
+    "inclusion": [
+        "piles",
+        "Grade/stage II haemorrhoids",
+        "Haemorrhoids (bleeding) that prolapse with straining, but retract spontaneously"
+    ],
+    "exclusion": [
+        "certain conditions originating in the perinatal period",
+        "certain infectious and parasitic diseases",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "complicating: childbirth and the puerperium",
+        "complicating: pregnancy"
+    ],
+    "symptoms": [
+        "painless rectal bleeding",
+        "itching around the anus",
+        "swelling near the anus",
+        "discomfort during bowel movements",
+        "moist tissue protrusion"
+    ]
+}

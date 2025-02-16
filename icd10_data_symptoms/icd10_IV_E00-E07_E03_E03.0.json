@@ -1,0 +1,31 @@
+{
+    "icd10code": "E03.0",
+    "type": "subcategory",
+    "title": "Congenital hypothyroidism with diffuse goitre",
+    "chapter": "Endocrine, nutritional and metabolic diseases",
+    "chapterCode": "IV",
+    "block": "Disorders of thyroid gland",
+    "blockCode": "E00-E07",
+    "category": "Other hypothyroidism",
+    "categoryCode": "E03",
+    "subcategory": "E03.0",
+    "inclusion": [
+        "Goitre (nontoxic) congenital: NOS",
+        "Goitre (nontoxic) congenital: parenchymatous"
+    ],
+    "exclusion": [
+        "complications of pregnancy, childbirth and the puerperium",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "transitory endocrine and metabolic disorders specific to fetus and newborn",
+        "iodine-deficiency-related hypothyroidism",
+        "postprocedural hypothyroidism",
+        "transitory congenital goitre with normal function"
+    ],
+    "symptoms": [
+        "fatigue",
+        "cold sensitivity",
+        "constipation",
+        "dry skin",
+        "unexplained weight gain"
+    ]
+}

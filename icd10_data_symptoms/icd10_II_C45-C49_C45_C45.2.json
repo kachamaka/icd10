@@ -1,0 +1,25 @@
+{
+    "icd10code": "C45.2",
+    "type": "subcategory",
+    "title": "Mesothelioma of pericardium",
+    "chapter": "Neoplasms",
+    "chapterCode": "II",
+    "block": "Malignant neoplasms of mesothelial and soft tissue",
+    "blockCode": "C45-C49",
+    "category": "Mesothelioma",
+    "categoryCode": "C45",
+    "subcategory": "C45.2",
+    "inclusion": [
+        "morphology code M905 with behaviour code /3"
+    ],
+    "exclusion": [
+        "other malignant neoplasms of pericardium"
+    ],
+    "symptoms": [
+        "shortness of breath",
+        "persistent cough",
+        "chest pain",
+        "weight loss",
+        "fatigue"
+    ]
+}

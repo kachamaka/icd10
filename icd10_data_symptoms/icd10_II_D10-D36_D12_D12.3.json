@@ -1,0 +1,25 @@
+{
+    "icd10code": "D12.3",
+    "type": "subcategory",
+    "title": "Benign neoplasm: Transverse colon",
+    "chapter": "Neoplasms",
+    "chapterCode": "II",
+    "block": "Benign neoplasms",
+    "blockCode": "D10-D36",
+    "category": "Benign neoplasm of colon, rectum, anus and anal canal",
+    "categoryCode": "D12",
+    "subcategory": "D12.3",
+    "inclusion": [
+        "morphology codes with behaviour code /0",
+        "Hepatic flexure",
+        "Splenic flexure"
+    ],
+    "exclusion": null,
+    "symptoms": [
+        "rectal bleeding",
+        "chronic constipation",
+        "persistent diarrhea",
+        "change in bowel habits",
+        "abdominal pain"
+    ]
+}

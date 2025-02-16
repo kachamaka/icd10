@@ -1,0 +1,38 @@
+{
+    "icd10code": "N26",
+    "type": "category",
+    "title": "Unspecified contracted kidney",
+    "chapter": "Diseases of the genitourinary system",
+    "chapterCode": "XIV",
+    "block": "Other disorders of kidney and ureter",
+    "blockCode": "N25-N29",
+    "category": "Unspecified contracted kidney",
+    "categoryCode": "N26",
+    "subcategory": "",
+    "inclusion": [
+        "Atrophy of kidney (terminal)",
+        "Renal sclerosis NOS"
+    ],
+    "exclusion": [
+        "certain conditions originating in the perinatal period",
+        "certain infectious and parasitic diseases",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "with urolithiasis",
+        "contracted kidney due to hypertension",
+        "diffuse sclerosing glomerulonephritis",
+        "hypertensive nephrosclerosis (arteriolar)(arteriosclerotic)",
+        "small kidney of unknown cause"
+    ],
+    "symptoms": [
+        "kidney pain",
+        "high blood pressure",
+        "swelling in the legs",
+        "fatigue",
+        "frequent urination"
+    ]
+}

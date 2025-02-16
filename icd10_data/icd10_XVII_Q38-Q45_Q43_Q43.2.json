@@ -1,0 +1,18 @@
+{
+  "type": "subcategory",
+  "chapterCode": "XVII",
+  "chapter": "Congenital malformations, deformations and chromosomal abnormalities",
+  "blockCode": "Q38-Q45",
+  "block": "Other congenital malformations of the digestive system",
+  "categoryCode": "Q43",
+  "category": "Other congenital malformations of intestine",
+  "subcategory": "Q43.2",
+  "title": "Other congenital functional disorders of colon",
+  "inclusion": [
+    "Congenital dilatation of colon"
+  ],
+  "exclusion": [
+    "inborn errors of metabolism"
+  ],
+  "children": null
+}

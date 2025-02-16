@@ -1,0 +1,21 @@
+{
+    "icd10code": "D37.4",
+    "type": "subcategory",
+    "title": "Neoplasm of uncertain or unknown behaviour: Colon",
+    "chapter": "Neoplasms",
+    "chapterCode": "II",
+    "block": "Neoplasms of uncertain or unknown behaviour",
+    "blockCode": "D37-D48",
+    "category": "Neoplasm of uncertain or unknown behaviour of oral cavity and digestive organs",
+    "categoryCode": "D37",
+    "subcategory": "D37.4",
+    "inclusion": null,
+    "exclusion": null,
+    "symptoms": [
+        "difficulty swallowing",
+        "sore throat",
+        "voice changes",
+        "unexplained weight loss",
+        "persistent cough or hoarseness"
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "icd10code": "Q68.3",
+    "type": "subcategory",
+    "title": "Congenital bowing of femur",
+    "chapter": "Congenital malformations, deformations and chromosomal abnormalities",
+    "chapterCode": "XVII",
+    "block": "Congenital malformations and deformations of the musculoskeletal system",
+    "blockCode": "Q65-Q79",
+    "category": "Other congenital musculoskeletal deformities",
+    "categoryCode": "Q68",
+    "subcategory": "Q68.3",
+    "inclusion": null,
+    "exclusion": [
+        "inborn errors of metabolism",
+        "reduction defects of limb(s)",
+        "anteversion of femur (neck)"
+    ],
+    "symptoms": [
+        "congenital limb shortening",
+        "joint deformities",
+        "restricted limb movement",
+        "asymmetrical limb length",
+        "abnormal gait"
+    ]
+}

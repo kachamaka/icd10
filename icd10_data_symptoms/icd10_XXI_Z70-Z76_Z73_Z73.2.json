@@ -1,0 +1,19 @@
+{
+    "icd10code": "Z73.2",
+    "type": "subcategory",
+    "title": "Lack of relaxation and leisure",
+    "chapter": "Factors influencing health status and contact with health services",
+    "chapterCode": "XXI",
+    "block": "Persons encountering health services in other circumstances",
+    "blockCode": "Z70-Z76",
+    "category": "Problems related to life-management difficulty",
+    "categoryCode": "Z73",
+    "subcategory": "Z73.2",
+    "inclusion": null,
+    "exclusion": [
+        "problems related to socioeconomic and psychosocial circumstances"
+    ],
+    "symptoms": [
+        "asymptomatic"
+    ]
+}

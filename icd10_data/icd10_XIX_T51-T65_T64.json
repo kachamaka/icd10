@@ -1,0 +1,25 @@
+{
+  "type": "category",
+  "chapterCode": "XIX",
+  "chapter": "Injury, poisoning and certain other consequences of external causes",
+  "blockCode": "T51-T65",
+  "block": "Toxic effects of substances chiefly nonmedicinal as to source",
+  "categoryCode": "T64",
+  "category": "Toxic effect of aflatoxin and other mycotoxin food contaminants",
+  "subcategory": "",
+  "title": "Toxic effect of aflatoxin and other mycotoxin food contaminants",
+  "inclusion": null,
+  "exclusion": [
+    "birth trauma",
+    "obstetric trauma",
+    "malunion of fracture",
+    "nonunion of fracture [pseudarthrosis]",
+    "pathological fracture",
+    "pathological fracture with osteoporosis",
+    "stress fracture",
+    "corrosions",
+    "localized toxic effects classified elsewhere",
+    "respiratory conditions due to external agents"
+  ],
+  "children": null
+}

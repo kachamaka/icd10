@@ -1,0 +1,24 @@
+{
+  "type": "subcategory",
+  "chapterCode": "XX",
+  "chapter": "External causes of morbidity and mortality",
+  "blockCode": "X85-Y09",
+  "block": "Assault",
+  "categoryCode": "X88",
+  "category": "Assault by gases and vapours",
+  "subcategory": "X88.0",
+  "title": "Assault by carbon monoxide from combustion engine exhaust",
+  "inclusion": [
+    "homicide",
+    "injuries inflicted by another person with intent to injure or kill, by any means",
+    "Exhaust (gas) from: any type of combustion engine",
+    "Exhaust (gas) from: gas engine",
+    "Exhaust (gas) from: motor pump",
+    "Exhaust (gas) from: motor vehicle, not in transit"
+  ],
+  "exclusion": [
+    "injuries due to: legal intervention",
+    "injuries due to: operations of war"
+  ],
+  "children": null
+}

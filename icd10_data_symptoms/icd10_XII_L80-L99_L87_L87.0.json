@@ -1,0 +1,35 @@
+{
+    "icd10code": "L87.0",
+    "type": "subcategory",
+    "title": "Keratosis follicularis et parafollicularis in cutem penetrans [Kyrle]",
+    "chapter": "Diseases of the skin and subcutaneous tissue",
+    "chapterCode": "XII",
+    "block": "Other disorders of the skin and subcutaneous tissue",
+    "blockCode": "L80-L99",
+    "category": "Transepidermal elimination disorders",
+    "categoryCode": "L87",
+    "subcategory": "L87.0",
+    "inclusion": [
+        "Hyperkeratosis follicularis penetrans"
+    ],
+    "exclusion": [
+        "certain conditions originating in the perinatal period",
+        "certain infectious and parasitic diseases",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "lipomelanotic reticulosis",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "systemic connective tissue disorders",
+        "decubitus [pressure] ulcer and pressure area"
+    ],
+    "symptoms": [
+        "blisters",
+        "skin lesions",
+        "itching",
+        "skin redness",
+        "pain"
+    ]
+}

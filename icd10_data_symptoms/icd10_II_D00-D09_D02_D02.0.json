@@ -1,0 +1,33 @@
+{
+    "icd10code": "D02.0",
+    "type": "subcategory",
+    "title": "Carcinoma in situ: Larynx",
+    "chapter": "Neoplasms",
+    "chapterCode": "II",
+    "block": "In situ neoplasms",
+    "blockCode": "D00-D09",
+    "category": "Carcinoma in situ of middle ear and respiratory system",
+    "categoryCode": "D02",
+    "subcategory": "D02.0",
+    "inclusion": [
+        "Bowen disease",
+        "erythroplasia",
+        "morphology codes with behaviour code /2",
+        "Queyrat erythroplasia",
+        "Aryepiglottic fold, laryngeal aspect",
+        "Epiglottis (suprahyoid portion)"
+    ],
+    "exclusion": [
+        "melanoma in situ",
+        "aryepiglottic fold: NOS",
+        "aryepiglottic fold: hypopharyngeal aspect",
+        "aryepiglottic fold: marginal zone"
+    ],
+    "symptoms": [
+        "cough",
+        "hoarseness",
+        "difficulty swallowing",
+        "unexplained weight loss",
+        "persistent lump in the neck"
+    ]
+}

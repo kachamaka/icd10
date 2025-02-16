@@ -1,0 +1,27 @@
+{
+    "icd10code": "C32.0",
+    "type": "subcategory",
+    "title": "Malignant neoplasm: Glottis",
+    "chapter": "Neoplasms",
+    "chapterCode": "II",
+    "block": "Malignant neoplasms of respiratory and intrathoracic organs",
+    "blockCode": "C30-C39",
+    "category": "Malignant neoplasm of larynx",
+    "categoryCode": "C32",
+    "subcategory": "C32.0",
+    "inclusion": [
+        "middle ear",
+        "Intrinsic larynx",
+        "Vocal cord (true) NOS"
+    ],
+    "exclusion": [
+        "mesothelioma"
+    ],
+    "symptoms": [
+        "persistent cough",
+        "blood in sputum",
+        "hoarseness",
+        "unexplained weight loss",
+        "fatigue"
+    ]
+}

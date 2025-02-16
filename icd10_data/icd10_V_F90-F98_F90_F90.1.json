@@ -1,0 +1,23 @@
+{
+  "type": "subcategory",
+  "chapterCode": "V",
+  "chapter": "Mental and behavioural disorders",
+  "blockCode": "F90-F98",
+  "block": "Behavioural and emotional disorders with onset usually occurring in childhood and adolescence",
+  "categoryCode": "F90",
+  "category": "Hyperkinetic disorders",
+  "subcategory": "F90.1",
+  "title": "Hyperkinetic conduct disorder",
+  "inclusion": [
+    "disorders of psychological development",
+    "Hyperkinetic disorder associated with conduct disorder"
+  ],
+  "exclusion": [
+    "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+    "anxiety disorders",
+    "mood [affective] disorders",
+    "pervasive developmental disorders",
+    "schizophrenia"
+  ],
+  "children": null
+}

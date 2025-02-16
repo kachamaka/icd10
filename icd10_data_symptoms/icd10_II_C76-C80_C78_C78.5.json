@@ -1,0 +1,21 @@
+{
+    "icd10code": "C78.5",
+    "type": "subcategory",
+    "title": "Secondary malignant neoplasm of large intestine and rectum",
+    "chapter": "Neoplasms",
+    "chapterCode": "II",
+    "block": "Malignant neoplasms of ill-defined, secondary and unspecified sites",
+    "blockCode": "C76-C80",
+    "category": "Secondary malignant neoplasm of respiratory and digestive organs",
+    "categoryCode": "C78",
+    "subcategory": "C78.5",
+    "inclusion": null,
+    "exclusion": null,
+    "symptoms": [
+        "abdominal pain",
+        "unexplained weight loss",
+        "loss of appetite",
+        "jaundish",
+        "upper digestive tract discomfort"
+    ]
+}

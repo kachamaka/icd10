@@ -1,0 +1,26 @@
+{
+  "type": "subcategory",
+  "chapterCode": "XIX",
+  "chapter": "Injury, poisoning and certain other consequences of external causes",
+  "blockCode": "T66-T78",
+  "block": "Other and unspecified effects of external causes",
+  "categoryCode": "T78",
+  "category": "Adverse effects, not elsewhere classified",
+  "subcategory": "T78.1",
+  "title": "Other adverse food reactions, not elsewhere classified",
+  "inclusion": null,
+  "exclusion": [
+    "birth trauma",
+    "obstetric trauma",
+    "malunion of fracture",
+    "nonunion of fracture [pseudarthrosis]",
+    "pathological fracture",
+    "pathological fracture with osteoporosis",
+    "stress fracture",
+    "polycythaemia due to high altitude",
+    "bacterial foodborne intoxications",
+    "dermatitis due to food",
+    "dermatitis due to food in contact with the skin"
+  ],
+  "children": null
+}

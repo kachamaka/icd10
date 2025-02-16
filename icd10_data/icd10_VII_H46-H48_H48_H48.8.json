@@ -1,0 +1,23 @@
+{
+  "type": "subcategory",
+  "chapterCode": "VII",
+  "chapter": "Diseases of the eye and adnexa",
+  "blockCode": "H46-H48",
+  "block": "Disorders of optic nerve and visual pathways",
+  "categoryCode": "H48",
+  "category": "Disorders of optic [2nd] nerve and visual pathways in diseases classified elsewhere",
+  "subcategory": "H48.8",
+  "title": "Other disorders of optic nerve and visual pathways in diseases classified elsewhere",
+  "inclusion": null,
+  "exclusion": [
+    "certain conditions originating in the perinatal period",
+    "certain infectious and parasitic diseases",
+    "complications of pregnancy, childbirth and the puerperium",
+    "congenital malformations, deformations and chromosomal abnormalities",
+    "endocrine, nutritional and metabolic diseases",
+    "injury, poisoning and certain other consequences of external causes",
+    "neoplasms",
+    "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified"
+  ],
+  "children": null
+}

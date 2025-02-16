@@ -1,0 +1,18 @@
+{
+  "type": "subcategory",
+  "chapterCode": "XVII",
+  "chapter": "Congenital malformations, deformations and chromosomal abnormalities",
+  "blockCode": "Q38-Q45",
+  "block": "Other congenital malformations of the digestive system",
+  "categoryCode": "Q45",
+  "category": "Other congenital malformations of digestive system",
+  "subcategory": "Q45.2",
+  "title": "Congenital pancreatic cyst",
+  "inclusion": null,
+  "exclusion": [
+    "inborn errors of metabolism",
+    "congenital: diaphragmatic hernia",
+    "congenital: hiatus hernia"
+  ],
+  "children": null
+}

@@ -1,0 +1,20 @@
+{
+    "icd10code": "Z72.3",
+    "type": "subcategory",
+    "title": "Lack of physical exercise",
+    "chapter": "Factors influencing health status and contact with health services",
+    "chapterCode": "XXI",
+    "block": "Persons encountering health services in other circumstances",
+    "blockCode": "Z70-Z76",
+    "category": "Problems related to lifestyle",
+    "categoryCode": "Z72",
+    "subcategory": "Z72.3",
+    "inclusion": null,
+    "exclusion": [
+        "problems related to: life-management difficulty",
+        "problems related to: socioeconomic and psychosocial circumstances"
+    ],
+    "symptoms": [
+        "asymptomatic"
+    ]
+}

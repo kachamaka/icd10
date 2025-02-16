@@ -1,0 +1,14 @@
+{
+  "type": "category",
+  "chapterCode": "II",
+  "chapter": "Neoplasms",
+  "blockCode": "C00-C14",
+  "block": "Malignant neoplasms of lip, oral cavity and pharynx",
+  "categoryCode": "C07",
+  "category": "Malignant neoplasm of parotid gland",
+  "subcategory": "",
+  "title": "Malignant neoplasm of parotid gland",
+  "inclusion": null,
+  "exclusion": null,
+  "children": null
+}

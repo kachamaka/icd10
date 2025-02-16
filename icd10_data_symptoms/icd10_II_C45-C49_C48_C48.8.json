@@ -1,0 +1,24 @@
+{
+    "icd10code": "C48.8",
+    "type": "subcategory",
+    "title": "Malignant neoplasm: Overlapping lesion of retroperitoneum and peritoneum",
+    "chapter": "Neoplasms",
+    "chapterCode": "II",
+    "block": "Malignant neoplasms of mesothelial and soft tissue",
+    "blockCode": "C45-C49",
+    "category": "Malignant neoplasm of retroperitoneum and peritoneum",
+    "categoryCode": "C48",
+    "subcategory": "C48.8",
+    "inclusion": null,
+    "exclusion": [
+        "Kaposi sarcoma",
+        "mesothelioma"
+    ],
+    "symptoms": [
+        "abdominal pain",
+        "unexplained weight loss",
+        "nausea or vomiting",
+        "unexplained fatigue",
+        "palpable mass in abdom"
+    ]
+}

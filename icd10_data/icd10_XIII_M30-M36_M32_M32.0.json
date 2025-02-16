@@ -1,0 +1,33 @@
+{
+  "type": "subcategory",
+  "chapterCode": "XIII",
+  "chapter": "Diseases of the musculoskeletal system and connective tissue",
+  "blockCode": "M30-M36",
+  "block": "Systemic connective tissue disorders",
+  "categoryCode": "M32",
+  "category": "Systemic lupus erythematosus",
+  "subcategory": "M32.0",
+  "title": "Drug-induced systemic lupus erythematosus",
+  "inclusion": [
+    "autoimmune disease: NOS",
+    "autoimmune disease: systemic",
+    "collagen (vascular) disease: NOS",
+    "collagen (vascular) disease: systemic"
+  ],
+  "exclusion": [
+    "certain conditions originating in the perinatal period",
+    "certain disorders of the temporomandibular joint",
+    "certain infectious and parasitic diseases",
+    "compartment syndrome",
+    "complications of pregnancy, childbirth and the puerperium",
+    "congenital malformations, deformations and chromosomal abnormalities",
+    "endocrine, nutritional and metabolic diseases",
+    "injury, poisoning and certain other consequences of external causes",
+    "neoplasms",
+    "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+    "arthropathy in: haematological disorders",
+    "arthrosis of spine",
+    "hallux rigidus"
+  ],
+  "children": null
+}

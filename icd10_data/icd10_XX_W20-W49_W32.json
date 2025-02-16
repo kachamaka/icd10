@@ -1,0 +1,23 @@
+{
+  "type": "category",
+  "chapterCode": "XX",
+  "chapter": "External causes of morbidity and mortality",
+  "blockCode": "W20-W49",
+  "block": "Exposure to inanimate mechanical forces",
+  "categoryCode": "W32",
+  "category": "Handgun discharge",
+  "subcategory": "",
+  "title": "Handgun discharge",
+  "inclusion": [
+    "gun for single hand use",
+    "pistol",
+    "revolver"
+  ],
+  "exclusion": [
+    "assault",
+    "contact or collision with animals or persons",
+    "intentional self-harm",
+    "contact with machinery in transport under own power or being towed by a vehicle"
+  ],
+  "children": null
+}

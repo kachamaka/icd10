@@ -1,0 +1,27 @@
+{
+    "icd10code": "X95",
+    "type": "category",
+    "title": "Assault by other and unspecified firearm discharge",
+    "chapter": "External causes of morbidity and mortality",
+    "chapterCode": "XX",
+    "block": "Assault",
+    "blockCode": "X85-Y09",
+    "category": "Assault by other and unspecified firearm discharge",
+    "categoryCode": "X95",
+    "subcategory": "",
+    "inclusion": [
+        "homicide",
+        "injuries inflicted by another person with intent to injure or kill, by any means"
+    ],
+    "exclusion": [
+        "injuries due to: legal intervention",
+        "injuries due to: operations of war"
+    ],
+    "symptoms": [
+        "pain",
+        "swelling",
+        "bleeding",
+        "difficulty breathing",
+        "asymptomatic"
+    ]
+}

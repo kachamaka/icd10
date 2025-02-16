@@ -1,0 +1,18 @@
+{
+  "type": "category",
+  "chapterCode": "IV",
+  "chapter": "Endocrine, nutritional and metabolic diseases",
+  "blockCode": "E65-E68",
+  "block": "Obesity and other hyperalimentation",
+  "categoryCode": "E68",
+  "category": "Sequelae of hyperalimentation",
+  "subcategory": "",
+  "title": "Sequelae of hyperalimentation",
+  "inclusion": null,
+  "exclusion": [
+    "complications of pregnancy, childbirth and the puerperium",
+    "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+    "transitory endocrine and metabolic disorders specific to fetus and newborn"
+  ],
+  "children": null
+}

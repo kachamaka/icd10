@@ -1,0 +1,21 @@
+{
+  "type": "subcategory",
+  "chapterCode": "XVII",
+  "chapter": "Congenital malformations, deformations and chromosomal abnormalities",
+  "blockCode": "Q20-Q28",
+  "block": "Congenital malformations of the circulatory system",
+  "categoryCode": "Q21",
+  "category": "Congenital malformations of cardiac septa",
+  "subcategory": "Q21.2",
+  "title": "Atrioventricular septal defect",
+  "inclusion": [
+    "Common atrioventricular canal",
+    "Endocardial cushion defect",
+    "Ostium primum atrial septal defect (type I)"
+  ],
+  "exclusion": [
+    "inborn errors of metabolism",
+    "acquired cardiac septal defect"
+  ],
+  "children": null
+}

@@ -1,0 +1,21 @@
+{
+    "icd10code": "U08.9",
+    "type": "subcategory",
+    "title": "Personal history of COVID-19, unspecified",
+    "chapter": "Codes for special purposes",
+    "chapterCode": "XXII",
+    "block": "Provisional assignment of new diseases of uncertain etiology or emergency use",
+    "blockCode": "U00-U49",
+    "category": "Personal history of COVID-19",
+    "categoryCode": "U08",
+    "subcategory": "U08.9",
+    "inclusion": null,
+    "exclusion": null,
+    "symptoms": [
+        "fatigue",
+        "shortness of breath",
+        "chest pain",
+        "joint pain",
+        "brain fog"
+    ]
+}

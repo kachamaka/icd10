@@ -1,0 +1,17 @@
+{
+    "icd10code": "Y25",
+    "type": "category",
+    "title": "Contact with explosive material, undetermined intent",
+    "chapter": "External causes of morbidity and mortality",
+    "chapterCode": "XX",
+    "block": "Event of undetermined intent",
+    "blockCode": "Y10-Y34",
+    "category": "Contact with explosive material, undetermined intent",
+    "categoryCode": "Y25",
+    "subcategory": "",
+    "inclusion": null,
+    "exclusion": null,
+    "symptoms": [
+        "asymptomatic"
+    ]
+}

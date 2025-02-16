@@ -1,0 +1,27 @@
+{
+    "icd10code": "Q45.0",
+    "type": "subcategory",
+    "title": "Agenesis, aplasia and hypoplasia of pancreas",
+    "chapter": "Congenital malformations, deformations and chromosomal abnormalities",
+    "chapterCode": "XVII",
+    "block": "Other congenital malformations of the digestive system",
+    "blockCode": "Q38-Q45",
+    "category": "Other congenital malformations of digestive system",
+    "categoryCode": "Q45",
+    "subcategory": "Q45.0",
+    "inclusion": [
+        "Congenital absence of pancreas"
+    ],
+    "exclusion": [
+        "inborn errors of metabolism",
+        "congenital: diaphragmatic hernia",
+        "congenital: hiatus hernia"
+    ],
+    "symptoms": [
+        "abdominal pain",
+        "jaundice",
+        "failure to thrive",
+        "vomiting",
+        "gastrointestinal bleeding"
+    ]
+}

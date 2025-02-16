@@ -1,0 +1,46 @@
+{
+    "icd10code": "S35.9",
+    "type": "subcategory",
+    "title": "Injury of unspecified blood vessel at abdomen, lower back and pelvis level",
+    "chapter": "Injury, poisoning and certain other consequences of external causes",
+    "chapterCode": "XIX",
+    "block": "Injuries to the abdomen, lower back, lumbar spine and pelvis",
+    "blockCode": "S30-S39",
+    "category": "Injury of blood vessels at abdomen, lower back and pelvis level",
+    "categoryCode": "S35",
+    "subcategory": "S35.9",
+    "inclusion": [
+        "abdominal wall",
+        "anus",
+        "buttock",
+        "external genitalia",
+        "flank",
+        "groin"
+    ],
+    "exclusion": [
+        "birth trauma",
+        "obstetric trauma",
+        "malunion of fracture",
+        "nonunion of fracture [pseudarthrosis]",
+        "pathological fracture",
+        "pathological fracture with osteoporosis",
+        "stress fracture",
+        "burns and corrosions",
+        "effects of foreign body in: anus and rectum",
+        "effects of foreign body in: genitourinary tract",
+        "effects of foreign body in: stomach, small intestine and colon",
+        "fracture of spine NOS",
+        "frostbite",
+        "injuries of: back NOS",
+        "injuries of: spinal cord NOS",
+        "injuries of: trunk NOS",
+        "insect bite or sting, venomous"
+    ],
+    "symptoms": [
+        "abdominal pain",
+        "bleeding",
+        "swelling",
+        "bruising",
+        "tenderness"
+    ]
+}

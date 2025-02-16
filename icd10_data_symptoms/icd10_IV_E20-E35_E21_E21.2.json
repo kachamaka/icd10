@@ -1,0 +1,32 @@
+{
+    "icd10code": "E21.2",
+    "type": "subcategory",
+    "title": "Other hyperparathyroidism",
+    "chapter": "Endocrine, nutritional and metabolic diseases",
+    "chapterCode": "IV",
+    "block": "Disorders of other endocrine glands",
+    "blockCode": "E20-E35",
+    "category": "Hyperparathyroidism and other disorders of parathyroid gland",
+    "categoryCode": "E21",
+    "subcategory": "E21.2",
+    "inclusion": [
+        "Tertiary hyperparathryoidism"
+    ],
+    "exclusion": [
+        "complications of pregnancy, childbirth and the puerperium",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "transitory endocrine and metabolic disorders specific to fetus and newborn",
+        "galactorrhoea",
+        "gynaecomastia",
+        "aplasia or hypoplasia with immunodeficiency",
+        "myasthenia gravis",
+        "familial hypocalciuric hypercalcaemia"
+    ],
+    "symptoms": [
+        "increased calcium levels in blood",
+        "frequent urination",
+        "kidney stones",
+        "fatigue",
+        "nausea \u0026 loss of appetite"
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "icd10code": "C25.1",
+    "type": "subcategory",
+    "title": "Malignant neoplasm: Body of pancreas",
+    "chapter": "Neoplasms",
+    "chapterCode": "II",
+    "block": "Malignant neoplasms of digestive organs",
+    "blockCode": "C15-C26",
+    "category": "Malignant neoplasm of pancreas",
+    "categoryCode": "C25",
+    "subcategory": "C25.1",
+    "inclusion": null,
+    "exclusion": null,
+    "symptoms": [
+        "jaundice",
+        "weight loss",
+        "loss of appetite",
+        "upper abdominal pain",
+        "nausea and vomiting"
+    ]
+}

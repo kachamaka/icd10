@@ -1,0 +1,32 @@
+{
+  "type": "subcategory",
+  "chapterCode": "XIII",
+  "chapter": "Diseases of the musculoskeletal system and connective tissue",
+  "blockCode": "M40-M43",
+  "block": "Deforming dorsopathies",
+  "categoryCode": "M41",
+  "category": "Scoliosis",
+  "subcategory": "M41.5",
+  "title": "Other secondary scoliosis",
+  "inclusion": [
+    "kyphoscoliosis"
+  ],
+  "exclusion": [
+    "certain conditions originating in the perinatal period",
+    "certain disorders of the temporomandibular joint",
+    "certain infectious and parasitic diseases",
+    "compartment syndrome",
+    "complications of pregnancy, childbirth and the puerperium",
+    "congenital malformations, deformations and chromosomal abnormalities",
+    "endocrine, nutritional and metabolic diseases",
+    "injury, poisoning and certain other consequences of external causes",
+    "neoplasms",
+    "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+    "collapsed vertebra in osteoporosis",
+    "neuropathic spondylopathy in tabes dorsalis",
+    "adult-onset Still disease",
+    "post-traumatic arthrosis (of): NOS",
+    "clubbing of fingers"
+  ],
+  "children": null
+}

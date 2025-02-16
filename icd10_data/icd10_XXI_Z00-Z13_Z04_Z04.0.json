@@ -1,0 +1,20 @@
+{
+  "type": "subcategory",
+  "chapterCode": "XXI",
+  "chapter": "Factors influencing health status and contact with health services",
+  "blockCode": "Z00-Z13",
+  "block": "Persons encountering health services for examination and investigation",
+  "categoryCode": "Z04",
+  "category": "Examination and observation for other reasons",
+  "subcategory": "Z04.0",
+  "title": "Blood-alcohol and blood-drug test",
+  "inclusion": [
+    "examination for medicolegal reasons"
+  ],
+  "exclusion": [
+    "examinations related to pregnancy and reproduction",
+    "presence of: alcohol in blood",
+    "presence of: drugs in blood"
+  ],
+  "children": null
+}

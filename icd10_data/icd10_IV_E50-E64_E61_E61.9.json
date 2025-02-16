@@ -1,0 +1,22 @@
+{
+  "type": "subcategory",
+  "chapterCode": "IV",
+  "chapter": "Endocrine, nutritional and metabolic diseases",
+  "blockCode": "E50-E64",
+  "block": "Other nutritional deficiencies",
+  "categoryCode": "E61",
+  "category": "Deficiency of other nutrient elements",
+  "subcategory": "E61.9",
+  "title": "Deficiency of nutrient element, unspecified",
+  "inclusion": null,
+  "exclusion": [
+    "complications of pregnancy, childbirth and the puerperium",
+    "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+    "transitory endocrine and metabolic disorders specific to fetus and newborn",
+    "diabetes mellitus (in): malnutrition-related",
+    "disorders of mineral metabolism",
+    "iodine-deficiency-related thyroid disorders",
+    "sequelae of malnutrition and other nutritional deficiencies"
+  ],
+  "children": null
+}

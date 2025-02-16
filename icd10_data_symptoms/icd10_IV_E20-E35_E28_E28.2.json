@@ -1,0 +1,32 @@
+{
+    "icd10code": "E28.2",
+    "type": "subcategory",
+    "title": "Polycystic ovarian syndrome",
+    "chapter": "Endocrine, nutritional and metabolic diseases",
+    "chapterCode": "IV",
+    "block": "Disorders of other endocrine glands",
+    "blockCode": "E20-E35",
+    "category": "Ovarian dysfunction",
+    "categoryCode": "E28",
+    "subcategory": "E28.2",
+    "inclusion": [
+        "Sclerocystic ovary syndrome",
+        "Stein-Leventhal syndrome"
+    ],
+    "exclusion": [
+        "complications of pregnancy, childbirth and the puerperium",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "transitory endocrine and metabolic disorders specific to fetus and newborn",
+        "galactorrhoea",
+        "gynaecomastia",
+        "adrenoleukodystrophy [Addison-Schilder]",
+        "Waterhouse-Friderichsen syndrome"
+    ],
+    "symptoms": [
+        "irregular menstruation",
+        "excessive hair growth",
+        "acne",
+        "obesity",
+        "infertility"
+    ]
+}

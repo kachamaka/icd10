@@ -1,0 +1,23 @@
+{
+    "icd10code": "C24.1",
+    "type": "subcategory",
+    "title": "Malignant neoplasm: Ampulla of Vater",
+    "chapter": "Neoplasms",
+    "chapterCode": "II",
+    "block": "Malignant neoplasms of digestive organs",
+    "blockCode": "C15-C26",
+    "category": "Malignant neoplasm of other and unspecified parts of biliary tract",
+    "categoryCode": "C24",
+    "subcategory": "C24.1",
+    "inclusion": null,
+    "exclusion": [
+        "intrahepatic bile duct"
+    ],
+    "symptoms": [
+        "abdominal pain",
+        "jaundice",
+        "weight loss",
+        "loss of appetite",
+        "dark urine"
+    ]
+}

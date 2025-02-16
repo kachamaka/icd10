@@ -1,0 +1,23 @@
+{
+  "type": "subcategory",
+  "chapterCode": "XVIII",
+  "chapter": "Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+  "blockCode": "R50-R69",
+  "block": "General symptoms and signs",
+  "categoryCode": "R56",
+  "category": "Convulsions, not elsewhere classified",
+  "subcategory": "R56.8",
+  "title": "Other and unspecified convulsions",
+  "inclusion": [
+    "Fit NOS",
+    "Seizure (convulsive) NOS"
+  ],
+  "exclusion": [
+    "abnormal findings on antenatal screening of mother",
+    "certain conditions originating in the perinatal period",
+    "convulsions and seizures (in): dissociative",
+    "convulsions and seizures (in): epilepsy",
+    "convulsions and seizures (in): newborn"
+  ],
+  "children": null
+}

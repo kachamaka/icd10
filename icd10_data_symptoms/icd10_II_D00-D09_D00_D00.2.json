@@ -1,0 +1,28 @@
+{
+    "icd10code": "D00.2",
+    "type": "subcategory",
+    "title": "Carcinoma in situ: Stomach",
+    "chapter": "Neoplasms",
+    "chapterCode": "II",
+    "block": "In situ neoplasms",
+    "blockCode": "D00-D09",
+    "category": "Carcinoma in situ of oral cavity, oesophagus and stomach",
+    "categoryCode": "D00",
+    "subcategory": "D00.2",
+    "inclusion": [
+        "Bowen disease",
+        "erythroplasia",
+        "morphology codes with behaviour code /2",
+        "Queyrat erythroplasia"
+    ],
+    "exclusion": [
+        "melanoma in situ"
+    ],
+    "symptoms": [
+        "tooth pain",
+        "bleeding from the mouth",
+        "difficulty chewing or swallowing",
+        "swollen lymph nodes",
+        "unexplained weight loss"
+    ]
+}

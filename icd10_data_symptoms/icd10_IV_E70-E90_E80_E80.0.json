@@ -1,0 +1,35 @@
+{
+    "icd10code": "E80.0",
+    "type": "subcategory",
+    "title": "Hereditary erythropoietic porphyria",
+    "chapter": "Endocrine, nutritional and metabolic diseases",
+    "chapterCode": "IV",
+    "block": "Metabolic disorders",
+    "blockCode": "E70-E90",
+    "category": "Disorders of porphyrin and bilirubin metabolism",
+    "categoryCode": "E80",
+    "subcategory": "E80.0",
+    "inclusion": [
+        "defects of catalase and peroxidase",
+        "Congenital erythropoietic porphyria",
+        "Erythropoietic protoporphyria"
+    ],
+    "exclusion": [
+        "complications of pregnancy, childbirth and the puerperium",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "transitory endocrine and metabolic disorders specific to fetus and newborn",
+        "androgen resistance syndrome",
+        "congenital adrenal hyperplasia",
+        "Ehlers-Danlos syndrome",
+        "haemolytic anaemias due to enzyme disorders",
+        "Marfan syndrome",
+        "5-alpha-reductase deficiency"
+    ],
+    "symptoms": [
+        "jaundice",
+        "dark urine",
+        "pale stools",
+        "abdominal pain",
+        "yellowing of the skin and eyes"
+    ]
+}

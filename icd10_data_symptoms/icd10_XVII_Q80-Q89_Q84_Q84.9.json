@@ -1,0 +1,26 @@
+{
+    "icd10code": "Q84.9",
+    "type": "subcategory",
+    "title": "Congenital malformation of integument, unspecified",
+    "chapter": "Congenital malformations, deformations and chromosomal abnormalities",
+    "chapterCode": "XVII",
+    "block": "Other congenital malformations",
+    "blockCode": "Q80-Q89",
+    "category": "Other congenital malformations of integument",
+    "categoryCode": "Q84",
+    "subcategory": "Q84.9",
+    "inclusion": [
+        "Congenital: anomaly NOS of integument NOS",
+        "Congenital: deformity NOS of integument NOS"
+    ],
+    "exclusion": [
+        "inborn errors of metabolism"
+    ],
+    "symptoms": [
+        "abnormal skin texture",
+        "hair loss",
+        "nail deformities",
+        "unusual pigmentation",
+        "delayed wound healing"
+    ]
+}

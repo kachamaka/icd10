@@ -1,0 +1,23 @@
+{
+    "icd10code": "W49",
+    "type": "category",
+    "title": "Exposure to other and unspecified inanimate mechanical forces",
+    "chapter": "External causes of morbidity and mortality",
+    "chapterCode": "XX",
+    "block": "Exposure to inanimate mechanical forces",
+    "blockCode": "W20-W49",
+    "category": "Exposure to other and unspecified inanimate mechanical forces",
+    "categoryCode": "W49",
+    "subcategory": "",
+    "inclusion": [
+        "abnormal gravitational [G] forces"
+    ],
+    "exclusion": [
+        "assault",
+        "contact or collision with animals or persons",
+        "intentional self-harm"
+    ],
+    "symptoms": [
+        "asymptomatic"
+    ]
+}

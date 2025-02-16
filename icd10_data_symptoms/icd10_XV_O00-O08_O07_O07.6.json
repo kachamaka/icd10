@@ -1,0 +1,35 @@
+{
+    "icd10code": "O07.6",
+    "type": "subcategory",
+    "title": "Other and unspecified failed attempted abortion, complicated by delayed or excessive haemorrhage",
+    "chapter": "Pregnancy, childbirth and the puerperium",
+    "chapterCode": "XV",
+    "block": "Pregnancy with abortive outcome",
+    "blockCode": "O00-O08",
+    "category": "Failed attempted abortion",
+    "categoryCode": "O07",
+    "subcategory": "O07.6",
+    "inclusion": [
+        "failure of attempted induction of abortion",
+        "With conditions in O08.1"
+    ],
+    "exclusion": [
+        "Certain diseases or injuries complicating pregnancy, childbirth and the puerperium classified elsewhere: external causes (for mortality)",
+        "Certain diseases or injuries complicating pregnancy, childbirth and the puerperium classified elsewhere: injury, poisoning and certain other consequences of external cause",
+        "Certain diseases or injuries complicating pregnancy, childbirth and the puerperium classified elsewhere: mental and behavioural disorders associated with the puerperium",
+        "Certain diseases or injuries complicating pregnancy, childbirth and the puerperium classified elsewhere: obstetrical tetanus",
+        "Certain diseases or injuries complicating pregnancy, childbirth and the puerperium classified elsewhere: postpartum necrosis of pituitary gland",
+        "Certain diseases or injuries complicating pregnancy, childbirth and the puerperium classified elsewhere: puerperal osteomalacia",
+        "supervision of: high-risk pregnancy",
+        "supervision of: normal pregnancy",
+        "continuing pregnancy in multiple gestation after abortion of one fetus or more",
+        "delivery of viable fetus in abdominal pregnancy"
+    ],
+    "symptoms": [
+        "abdominal pain",
+        "vaginal bleeding",
+        "fever",
+        "pelvic tenderness",
+        "fainting"
+    ]
+}

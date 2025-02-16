@@ -1,0 +1,24 @@
+{
+    "icd10code": "C71.6",
+    "type": "subcategory",
+    "title": "Malignant neoplasm: Cerebellum",
+    "chapter": "Neoplasms",
+    "chapterCode": "II",
+    "block": "Malignant neoplasms of eye, brain and other parts of central nervous system",
+    "blockCode": "C69-C72",
+    "category": "Malignant neoplasm of brain",
+    "categoryCode": "C71",
+    "subcategory": "C71.6",
+    "inclusion": null,
+    "exclusion": [
+        "cranial nerves",
+        "retrobulbar tissue"
+    ],
+    "symptoms": [
+        "headache",
+        "loss of balance or coordination",
+        "memory loss",
+        "changes in personality or behavior",
+        "difficulty speaking or swallowing"
+    ]
+}

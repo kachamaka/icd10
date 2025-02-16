@@ -1,0 +1,25 @@
+{
+  "type": "subcategory",
+  "chapterCode": "VIII",
+  "chapter": "Diseases of the ear and mastoid process",
+  "blockCode": "H65-H75",
+  "block": "Diseases of middle ear and mastoid",
+  "categoryCode": "H66",
+  "category": "Suppurative and unspecified otitis media",
+  "subcategory": "H66.0",
+  "title": "Acute suppurative otitis media",
+  "inclusion": [
+    "with myringitis"
+  ],
+  "exclusion": [
+    "certain conditions originating in the perinatal period",
+    "certain infectious and parasitic diseases",
+    "complications of pregnancy, childbirth and the puerperium",
+    "congenital malformations, deformations and chromosomal abnormalities",
+    "endocrine, nutritional and metabolic diseases",
+    "injury, poisoning and certain other consequences of external causes",
+    "neoplasms",
+    "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified"
+  ],
+  "children": null
+}

@@ -1,0 +1,30 @@
+{
+    "icd10code": "P14.1",
+    "type": "subcategory",
+    "title": "Klumpke paralysis due to birth injury",
+    "chapter": "Certain conditions originating in the perinatal period",
+    "chapterCode": "XVI",
+    "block": "Birth trauma",
+    "blockCode": "P10-P15",
+    "category": "Birth injury to peripheral nervous system",
+    "categoryCode": "P14",
+    "subcategory": "P14.1",
+    "inclusion": [
+        "conditions that have their origin in the perinatal period even though death or morbidity occurs later"
+    ],
+    "exclusion": [
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "tetanus neonatorum",
+        "whooping cough"
+    ],
+    "symptoms": [
+        "decreased arm movement",
+        "absent moro reflex on affected side",
+        "swelling in affected area",
+        "weak grip strength",
+        "asymmetric arm reflexes"
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "icd10code": "Q84.8",
+    "type": "subcategory",
+    "title": "Other specified congenital malformations of integument",
+    "chapter": "Congenital malformations, deformations and chromosomal abnormalities",
+    "chapterCode": "XVII",
+    "block": "Other congenital malformations",
+    "blockCode": "Q80-Q89",
+    "category": "Other congenital malformations of integument",
+    "categoryCode": "Q84",
+    "subcategory": "Q84.8",
+    "inclusion": [
+        "Aplasia cutis congenita"
+    ],
+    "exclusion": [
+        "inborn errors of metabolism"
+    ],
+    "symptoms": [
+        "abnormal hair growth",
+        "brittle nails",
+        "skin pigmentation anomalies",
+        "unusual skin texture",
+        "scalp abnormalities"
+    ]
+}

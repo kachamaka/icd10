@@ -1,0 +1,22 @@
+{
+  "type": "subcategory",
+  "chapterCode": "II",
+  "chapter": "Neoplasms",
+  "blockCode": "D37-D48",
+  "block": "Neoplasms of uncertain or unknown behaviour",
+  "categoryCode": "D48",
+  "category": "Neoplasm of uncertain or unknown behaviour of other and unspecified sites",
+  "subcategory": "D48.7",
+  "title": "Neoplasm of uncertain or unknown behaviour: Other specified sites",
+  "inclusion": [
+    "Eye",
+    "Heart",
+    "Peripheral nerves of orbit"
+  ],
+  "exclusion": [
+    "neurofibromatosis (nonmalignant)",
+    "connective tissue",
+    "skin of eyelid"
+  ],
+  "children": null
+}

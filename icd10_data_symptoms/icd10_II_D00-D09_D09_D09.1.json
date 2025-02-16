@@ -1,0 +1,28 @@
+{
+    "icd10code": "D09.1",
+    "type": "subcategory",
+    "title": "Carcinoma in situ: Other and unspecified urinary organs",
+    "chapter": "Neoplasms",
+    "chapterCode": "II",
+    "block": "In situ neoplasms",
+    "blockCode": "D00-D09",
+    "category": "Carcinoma in situ of other and unspecified sites",
+    "categoryCode": "D09",
+    "subcategory": "D09.1",
+    "inclusion": [
+        "Bowen disease",
+        "erythroplasia",
+        "morphology codes with behaviour code /2",
+        "Queyrat erythroplasia"
+    ],
+    "exclusion": [
+        "melanoma in situ"
+    ],
+    "symptoms": [
+        "abnormal vaginal bleeding",
+        "pelvic pain",
+        "abnormal pap smear results",
+        "discomfort during sexual intercourse",
+        "postmenopausal bleeding"
+    ]
+}

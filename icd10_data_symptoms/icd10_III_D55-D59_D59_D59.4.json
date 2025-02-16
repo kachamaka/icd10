@@ -1,0 +1,35 @@
+{
+    "icd10code": "D59.4",
+    "type": "subcategory",
+    "title": "Other nonautoimmune haemolytic anaemias",
+    "chapter": "Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism",
+    "chapterCode": "III",
+    "block": "Haemolytic anaemias",
+    "blockCode": "D55-D59",
+    "category": "Acquired haemolytic anaemia",
+    "categoryCode": "D59",
+    "subcategory": "D59.4",
+    "inclusion": [
+        "Haemolytic anaemia: mechanical",
+        "Haemolytic anaemia: microangiopathic",
+        "Haemolytic anaemia: toxic"
+    ],
+    "exclusion": [
+        "autoimmune disease (systemic) NOS",
+        "certain conditions originating in the perinatal period",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "human immunodeficiency virus [HIV] disease",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified"
+    ],
+    "symptoms": [
+        "fatigue",
+        "shortness of breath",
+        "pale skin",
+        "rapid or irregular heart rate",
+        "yellowing of skin and eyes"
+    ]
+}

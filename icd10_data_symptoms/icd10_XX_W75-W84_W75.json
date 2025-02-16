@@ -1,0 +1,21 @@
+{
+    "icd10code": "W75",
+    "type": "category",
+    "title": "Accidental suffocation and strangulation in bed",
+    "chapter": "External causes of morbidity and mortality",
+    "chapterCode": "XX",
+    "block": "Other accidental threats to breathing",
+    "blockCode": "W75-W84",
+    "category": "Accidental suffocation and strangulation in bed",
+    "categoryCode": "W75",
+    "subcategory": "",
+    "inclusion": [
+        "suffocation and strangulation due to: bed linen",
+        "suffocation and strangulation due to: mother's body",
+        "suffocation and strangulation due to: pillow"
+    ],
+    "exclusion": null,
+    "symptoms": [
+        "asymptomatic"
+    ]
+}

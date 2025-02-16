@@ -1,0 +1,40 @@
+{
+    "icd10code": "K45.8",
+    "type": "subcategory",
+    "title": "Other specified abdominal hernia without obstruction or gangrene",
+    "chapter": "Diseases of the digestive system",
+    "chapterCode": "XI",
+    "block": "Hernia",
+    "blockCode": "K40-K46",
+    "category": "Other abdominal hernia",
+    "categoryCode": "K45",
+    "subcategory": "K45.8",
+    "inclusion": [
+        "hernia: acquired",
+        "hernia: congenital [except diaphragmatic or hiatus]",
+        "hernia: recurrent",
+        "hernia: abdominal, specified site NEC",
+        "hernia: lumbar",
+        "hernia: obturator",
+        "hernia: pudendal",
+        "hernia: retroperitoneal",
+        "hernia: sciatic"
+    ],
+    "exclusion": [
+        "certain conditions originating in the perinatal period",
+        "certain infectious and parasitic diseases",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified"
+    ],
+    "symptoms": [
+        "abdominal pain",
+        "nausea",
+        "vomiting",
+        "bloating",
+        "constipation"
+    ]
+}

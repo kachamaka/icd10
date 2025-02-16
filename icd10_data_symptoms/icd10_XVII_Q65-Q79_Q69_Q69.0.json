@@ -1,0 +1,23 @@
+{
+    "icd10code": "Q69.0",
+    "type": "subcategory",
+    "title": "Accessory finger(s)",
+    "chapter": "Congenital malformations, deformations and chromosomal abnormalities",
+    "chapterCode": "XVII",
+    "block": "Congenital malformations and deformations of the musculoskeletal system",
+    "blockCode": "Q65-Q79",
+    "category": "Polydactyly",
+    "categoryCode": "Q69",
+    "subcategory": "Q69.0",
+    "inclusion": null,
+    "exclusion": [
+        "inborn errors of metabolism"
+    ],
+    "symptoms": [
+        "absence of one or more fingers",
+        "underdeveloped digits",
+        "finger malformation",
+        "impaired hand function",
+        "skeletal abnormalities"
+    ]
+}

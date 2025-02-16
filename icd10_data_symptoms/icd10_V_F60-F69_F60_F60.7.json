@@ -1,0 +1,29 @@
+{
+    "icd10code": "F60.7",
+    "type": "subcategory",
+    "title": "Dependent personality disorder",
+    "chapter": "Mental and behavioural disorders",
+    "chapterCode": "V",
+    "block": "Disorders of adult personality and behaviour",
+    "blockCode": "F60-F69",
+    "category": "Specific personality disorders",
+    "categoryCode": "F60",
+    "subcategory": "F60.7",
+    "inclusion": [
+        "disorders of psychological development",
+        "Personality (disorder): asthenic",
+        "Personality (disorder): inadequate",
+        "Personality (disorder): passive",
+        "Personality (disorder): self-defeating"
+    ],
+    "exclusion": [
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified"
+    ],
+    "symptoms": [
+        "unstable relationships",
+        "impulsivity",
+        "intense anger",
+        "identity disturbance",
+        "emotional instability"
+    ]
+}

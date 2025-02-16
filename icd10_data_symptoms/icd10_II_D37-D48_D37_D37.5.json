@@ -1,0 +1,23 @@
+{
+    "icd10code": "D37.5",
+    "type": "subcategory",
+    "title": "Neoplasm of uncertain or unknown behaviour: Rectum",
+    "chapter": "Neoplasms",
+    "chapterCode": "II",
+    "block": "Neoplasms of uncertain or unknown behaviour",
+    "blockCode": "D37-D48",
+    "category": "Neoplasm of uncertain or unknown behaviour of oral cavity and digestive organs",
+    "categoryCode": "D37",
+    "subcategory": "D37.5",
+    "inclusion": [
+        "Rectosigmoid junction"
+    ],
+    "exclusion": null,
+    "symptoms": [
+        "unexplained weight loss",
+        "persistent cough",
+        "difficulty breathing",
+        "recurring chest infections",
+        "coughing up blood"
+    ]
+}

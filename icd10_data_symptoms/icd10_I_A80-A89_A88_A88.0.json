@@ -1,0 +1,33 @@
+{
+    "icd10code": "A88.0",
+    "type": "subcategory",
+    "title": "Enteroviral exanthematous fever [Boston exanthem]",
+    "chapter": "Certain infectious and parasitic diseases",
+    "chapterCode": "I",
+    "block": "Viral infections of the central nervous system",
+    "blockCode": "A80-A89",
+    "category": "Other viral infections of central nervous system, not elsewhere classified",
+    "categoryCode": "A88",
+    "subcategory": "A88.0",
+    "inclusion": [
+        "diseases generally recognized as communicable or transmissible"
+    ],
+    "exclusion": [
+        "carrier or suspected carrier of infectious disease",
+        "certain localized infections - see body system-related chapters",
+        "infectious and parasitic diseases complicating pregnancy, childbirth and the puerperium [except obstetrical tetanus]",
+        "infectious and parasitic diseases specific to the perinatal period [except tetanus neonatorum, whooping cough, congenital syphilis, perinatal gonococcal infection and perinatal human immunodeficiency virus [HIV] disease]",
+        "influenza and other acute respiratory infections",
+        "rickettsiosis due to Neorickettsia sennetsu [Ehrlichia sennetsu]",
+        "neonatal chlamydial: conjunctivitis",
+        "viral: encephalitis NOS",
+        "viral: meningitis NOS"
+    ],
+    "symptoms": [
+        "fever",
+        "headache",
+        "stiff neck",
+        "photophobia",
+        "and skin rash"
+    ]
+}

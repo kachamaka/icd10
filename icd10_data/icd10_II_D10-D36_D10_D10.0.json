@@ -1,0 +1,19 @@
+{
+  "type": "subcategory",
+  "chapterCode": "II",
+  "chapter": "Neoplasms",
+  "blockCode": "D10-D36",
+  "block": "Benign neoplasms",
+  "categoryCode": "D10",
+  "category": "Benign neoplasm of mouth and pharynx",
+  "subcategory": "D10.0",
+  "title": "Benign neoplasm: Lip",
+  "inclusion": [
+    "morphology codes with behaviour code /0",
+    "Lip (frenulum)(inner aspect)(mucosa)(vermilion border)"
+  ],
+  "exclusion": [
+    "skin of lip"
+  ],
+  "children": null
+}

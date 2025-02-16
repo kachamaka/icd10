@@ -1,0 +1,32 @@
+{
+    "icd10code": "I78.9",
+    "type": "subcategory",
+    "title": "Disease of capillaries, unspecified",
+    "chapter": "Diseases of the circulatory system",
+    "chapterCode": "IX",
+    "block": "Diseases of arteries, arterioles and capillaries",
+    "blockCode": "I70-I79",
+    "category": "Diseases of capillaries",
+    "categoryCode": "I78",
+    "subcategory": "I78.9",
+    "inclusion": null,
+    "exclusion": [
+        "certain conditions originating in the perinatal period",
+        "certain infectious and parasitic diseases",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "systemic connective tissue disorders",
+        "transient cerebral ischaemic attacks and related syndromes"
+    ],
+    "symptoms": [
+        "unexplained pain or tenderness",
+        "presence of palpable lumps",
+        "skin discoloration",
+        "skin warmness",
+        "persistent itching"
+    ]
+}

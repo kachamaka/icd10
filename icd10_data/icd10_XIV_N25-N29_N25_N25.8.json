@@ -1,0 +1,29 @@
+{
+  "type": "subcategory",
+  "chapterCode": "XIV",
+  "chapter": "Diseases of the genitourinary system",
+  "blockCode": "N25-N29",
+  "block": "Other disorders of kidney and ureter",
+  "categoryCode": "N25",
+  "category": "Disorders resulting from impaired renal tubular function",
+  "subcategory": "N25.8",
+  "title": "Other disorders resulting from impaired renal tubular function",
+  "inclusion": [
+    "Lightwood-Albright syndrome",
+    "Renal tubular acidosis NOS",
+    "Secondary hyperparathyroidism of renal origin"
+  ],
+  "exclusion": [
+    "certain conditions originating in the perinatal period",
+    "certain infectious and parasitic diseases",
+    "complications of pregnancy, childbirth and the puerperium",
+    "congenital malformations, deformations and chromosomal abnormalities",
+    "endocrine, nutritional and metabolic diseases",
+    "injury, poisoning and certain other consequences of external causes",
+    "neoplasms",
+    "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+    "with urolithiasis",
+    "hydroureter"
+  ],
+  "children": null
+}

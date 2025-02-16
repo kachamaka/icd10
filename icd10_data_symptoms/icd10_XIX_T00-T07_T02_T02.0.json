@@ -1,0 +1,39 @@
+{
+    "icd10code": "T02.0",
+    "type": "subcategory",
+    "title": "Fractures involving head with neck",
+    "chapter": "Injury, poisoning and certain other consequences of external causes",
+    "chapterCode": "XIX",
+    "block": "Injuries involving multiple body regions",
+    "blockCode": "T00-T07",
+    "category": "Fractures involving multiple body regions",
+    "categoryCode": "T02",
+    "subcategory": "T02.0",
+    "inclusion": [
+        "bilateral involvement of limbs of the same body region",
+        "Injuries by type involving two or more body regions classifiable within S00-S99",
+        "Fractures of sites classifiable to S02.- and S12.-"
+    ],
+    "exclusion": [
+        "birth trauma",
+        "obstetric trauma",
+        "malunion of fracture",
+        "nonunion of fracture [pseudarthrosis]",
+        "pathological fracture",
+        "pathological fracture with osteoporosis",
+        "stress fracture",
+        "burns and corrosions",
+        "frostbite",
+        "insect bite or sting, venomous",
+        "multiple injuries involving only one body region - see S-section",
+        "sunburn",
+        "with involvement of other body region(s)"
+    ],
+    "symptoms": [
+        "fracture pain",
+        "swelling",
+        "bruising",
+        "limited mobility",
+        "deformity"
+    ]
+}

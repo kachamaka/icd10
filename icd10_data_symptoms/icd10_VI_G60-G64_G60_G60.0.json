@@ -1,0 +1,41 @@
+{
+    "icd10code": "G60.0",
+    "type": "subcategory",
+    "title": "Hereditary motor and sensory neuropathy",
+    "chapter": "Diseases of the nervous system",
+    "chapterCode": "VI",
+    "block": "Polyneuropathies and other disorders of the peripheral nervous system",
+    "blockCode": "G60-G64",
+    "category": "Hereditary and idiopathic neuropathy",
+    "categoryCode": "G60",
+    "subcategory": "G60.0",
+    "inclusion": [
+        "Disease: Charcot-Marie-Tooth",
+        "Disease: Déjerine-Sottas",
+        "Hereditary motor and sensory neuropathy, types I-IV",
+        "Hypertrophic neuropathy of infancy",
+        "Peroneal muscular atrophy (axonal type)(hypertrophic type)",
+        "Roussy-Lévy syndrome"
+    ],
+    "exclusion": [
+        "certain conditions originating in the perinatal period",
+        "certain infectious and parasitic diseases",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "neuralgia NOS",
+        "neuritis NOS",
+        "peripheral neuritis in pregnancy",
+        "radiculitis NOS"
+    ],
+    "symptoms": [
+        "numbness",
+        "tingling",
+        "muscle weakness",
+        "loss of reflexes",
+        "progressive muscle atrophy"
+    ]
+}

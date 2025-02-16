@@ -1,0 +1,28 @@
+{
+    "icd10code": "Z89.2",
+    "type": "subcategory",
+    "title": "Acquired absence of upper limb above wrist",
+    "chapter": "Factors influencing health status and contact with health services",
+    "chapterCode": "XXI",
+    "block": "Persons with potential health hazards related to family and personal history and certain conditions influencing health status",
+    "blockCode": "Z80-Z99",
+    "category": "Acquired absence of limb",
+    "categoryCode": "Z89",
+    "subcategory": "Z89.2",
+    "inclusion": [
+        "loss of limb: postoperative",
+        "loss of limb: post-traumatic",
+        "Arm NOS"
+    ],
+    "exclusion": [
+        "follow-up examination",
+        "follow-up medical care and convalescence",
+        "when family or personal history is the reason for special screening or other examination or investigation",
+        "when the possibility that the fetus might be affected is the reason for observation or action during pregnancy",
+        "acquired deformities of limbs",
+        "congenital absence of limbs"
+    ],
+    "symptoms": [
+        "asymptomatic"
+    ]
+}

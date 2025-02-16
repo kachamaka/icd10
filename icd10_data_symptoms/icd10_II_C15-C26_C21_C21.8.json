@@ -1,0 +1,25 @@
+{
+    "icd10code": "C21.8",
+    "type": "subcategory",
+    "title": "Malignant neoplasm: Overlapping lesion of rectum, anus and anal canal",
+    "chapter": "Neoplasms",
+    "chapterCode": "II",
+    "block": "Malignant neoplasms of digestive organs",
+    "blockCode": "C15-C26",
+    "category": "Malignant neoplasm of anus and anal canal",
+    "categoryCode": "C21",
+    "subcategory": "C21.8",
+    "inclusion": [
+        "Anorectal junction",
+        "Anorectum",
+        "Malignant neoplasm of rectum, anus and anal canal whose point of origin cannot be classified to any one of the categories C20-C21.2"
+    ],
+    "exclusion": null,
+    "symptoms": [
+        "rectal bleeding",
+        "changes in bowel habits",
+        "persistent abdominal discomfort",
+        "weakness or fatigue",
+        "unexplained weight loss"
+    ]
+}

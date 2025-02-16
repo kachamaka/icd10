@@ -1,0 +1,32 @@
+{
+    "icd10code": "F48.0",
+    "type": "subcategory",
+    "title": "Neurasthenia",
+    "chapter": "Mental and behavioural disorders",
+    "chapterCode": "V",
+    "block": "Neurotic, stress-related and somatoform disorders",
+    "blockCode": "F40-F48",
+    "category": "Other neurotic disorders",
+    "categoryCode": "F48",
+    "subcategory": "F48.0",
+    "inclusion": [
+        "disorders of psychological development",
+        "Fatigue syndrome"
+    ],
+    "exclusion": [
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "when associated with conduct disorder in F91.-",
+        "asthenia NOS",
+        "burn-out",
+        "malaise and fatigue",
+        "postviral fatigue syndrome",
+        "psychasthenia"
+    ],
+    "symptoms": [
+        "fatigue",
+        "irritability",
+        "anxiety",
+        "sleep disturbances",
+        "concentration difficulties"
+    ]
+}

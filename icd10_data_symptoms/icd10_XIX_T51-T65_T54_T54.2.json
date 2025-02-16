@@ -1,0 +1,35 @@
+{
+    "icd10code": "T54.2",
+    "type": "subcategory",
+    "title": "Toxic effect: Corrosive acids and acid-like substances",
+    "chapter": "Injury, poisoning and certain other consequences of external causes",
+    "chapterCode": "XIX",
+    "block": "Toxic effects of substances chiefly nonmedicinal as to source",
+    "blockCode": "T51-T65",
+    "category": "Toxic effect of corrosive substances",
+    "categoryCode": "T54",
+    "subcategory": "T54.2",
+    "inclusion": [
+        "Acid: hydrochloric",
+        "Acid: sulfuric"
+    ],
+    "exclusion": [
+        "birth trauma",
+        "obstetric trauma",
+        "malunion of fracture",
+        "nonunion of fracture [pseudarthrosis]",
+        "pathological fracture",
+        "pathological fracture with osteoporosis",
+        "stress fracture",
+        "corrosions",
+        "localized toxic effects classified elsewhere",
+        "respiratory conditions due to external agents"
+    ],
+    "symptoms": [
+        "nausea",
+        "abdominal pain",
+        "vomiting",
+        "diarrhea",
+        "dizziness"
+    ]
+}

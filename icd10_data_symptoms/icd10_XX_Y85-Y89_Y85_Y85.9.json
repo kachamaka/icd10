@@ -1,0 +1,17 @@
+{
+    "icd10code": "Y85.9",
+    "type": "subcategory",
+    "title": "Sequelae of other and unspecified transport accidents",
+    "chapter": "External causes of morbidity and mortality",
+    "chapterCode": "XX",
+    "block": "Sequelae of external causes of morbidity and mortality",
+    "blockCode": "Y85-Y89",
+    "category": "Sequelae of transport accidents",
+    "categoryCode": "Y85",
+    "subcategory": "Y85.9",
+    "inclusion": null,
+    "exclusion": null,
+    "symptoms": [
+        "asymptomatic"
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "icd10code": "A30.8",
+    "type": "subcategory",
+    "title": "Other forms of leprosy",
+    "chapter": "Certain infectious and parasitic diseases",
+    "chapterCode": "I",
+    "block": "Other bacterial diseases",
+    "blockCode": "A30-A49",
+    "category": "Leprosy [Hansen disease]",
+    "categoryCode": "A30",
+    "subcategory": "A30.8",
+    "inclusion": [
+        "diseases generally recognized as communicable or transmissible",
+        "infection due to Mycobacterium leprae"
+    ],
+    "exclusion": [
+        "carrier or suspected carrier of infectious disease",
+        "certain localized infections - see body system-related chapters",
+        "infectious and parasitic diseases complicating pregnancy, childbirth and the puerperium [except obstetrical tetanus]",
+        "infectious and parasitic diseases specific to the perinatal period [except tetanus neonatorum, whooping cough, congenital syphilis, perinatal gonococcal infection and perinatal human immunodeficiency virus [HIV] disease]",
+        "influenza and other acute respiratory infections",
+        "enteritis due to Yersinia enterocolitica"
+    ],
+    "symptoms": [
+        "hypopigmented skin patches",
+        "loss of sensation in affected areas",
+        "muscle weakness",
+        "thickened nerves",
+        "skin nodules"
+    ]
+}

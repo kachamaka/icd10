@@ -1,0 +1,28 @@
+{
+  "type": "subcategory",
+  "chapterCode": "VII",
+  "chapter": "Diseases of the eye and adnexa",
+  "blockCode": "H30-H36",
+  "block": "Disorders of choroid and retina",
+  "categoryCode": "H31",
+  "category": "Other disorders of choroid",
+  "subcategory": "H31.2",
+  "title": "Hereditary choroidal dystrophy",
+  "inclusion": [
+    "Choroideremia",
+    "Dystrophy, choroidal (central areolar)(generalized)(peripapillary)",
+    "Gyrate atrophy, choroid"
+  ],
+  "exclusion": [
+    "certain conditions originating in the perinatal period",
+    "certain infectious and parasitic diseases",
+    "complications of pregnancy, childbirth and the puerperium",
+    "congenital malformations, deformations and chromosomal abnormalities",
+    "endocrine, nutritional and metabolic diseases",
+    "injury, poisoning and certain other consequences of external causes",
+    "neoplasms",
+    "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+    "ornithinaemia"
+  ],
+  "children": null
+}

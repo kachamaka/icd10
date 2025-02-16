@@ -1,0 +1,31 @@
+{
+    "icd10code": "B66.0",
+    "type": "subcategory",
+    "title": "Opisthorchiasis",
+    "chapter": "Certain infectious and parasitic diseases",
+    "chapterCode": "I",
+    "block": "Helminthiases",
+    "blockCode": "B65-B83",
+    "category": "Other fluke infections",
+    "categoryCode": "B66",
+    "subcategory": "B66.0",
+    "inclusion": [
+        "diseases generally recognized as communicable or transmissible",
+        "Infection due to: cat liver fluke",
+        "Infection due to: Opisthorchis (felineus)(viverrini)"
+    ],
+    "exclusion": [
+        "carrier or suspected carrier of infectious disease",
+        "certain localized infections - see body system-related chapters",
+        "infectious and parasitic diseases complicating pregnancy, childbirth and the puerperium [except obstetrical tetanus]",
+        "infectious and parasitic diseases specific to the perinatal period [except tetanus neonatorum, whooping cough, congenital syphilis, perinatal gonococcal infection and perinatal human immunodeficiency virus [HIV] disease]",
+        "influenza and other acute respiratory infections"
+    ],
+    "symptoms": [
+        "fever",
+        "chills",
+        "abdominal pain",
+        "nausea",
+        "diarrhea"
+    ]
+}

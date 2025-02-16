@@ -1,0 +1,30 @@
+{
+  "type": "subcategory",
+  "chapterCode": "I",
+  "chapter": "Certain infectious and parasitic diseases",
+  "blockCode": "A50-A64",
+  "block": "Infections with a predominantly sexual mode of transmission",
+  "categoryCode": "A54",
+  "category": "Gonococcal infection",
+  "subcategory": "A54.4",
+  "title": "Gonococcal infection of musculoskeletal system",
+  "inclusion": [
+    "diseases generally recognized as communicable or transmissible",
+    "Gonococcal: arthritis",
+    "Gonococcal: bursitis",
+    "Gonococcal: osteomyelitis",
+    "Gonococcal: synovitis",
+    "Gonococcal: tenosynovitis"
+  ],
+  "exclusion": [
+    "carrier or suspected carrier of infectious disease",
+    "certain localized infections - see body system-related chapters",
+    "infectious and parasitic diseases complicating pregnancy, childbirth and the puerperium [except obstetrical tetanus]",
+    "infectious and parasitic diseases specific to the perinatal period [except tetanus neonatorum, whooping cough, congenital syphilis, perinatal gonococcal infection and perinatal human immunodeficiency virus [HIV] disease]",
+    "influenza and other acute respiratory infections",
+    "erythrasma",
+    "endotoxic shock NOS",
+    "sepsis NOS"
+  ],
+  "children": null
+}

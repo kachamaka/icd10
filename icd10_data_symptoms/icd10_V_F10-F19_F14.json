@@ -1,0 +1,27 @@
+{
+    "icd10code": "F14",
+    "type": "modifiedcategory",
+    "title": "Mental and behavioural disorders due to use of cocaine : harmful use",
+    "chapter": "Mental and behavioural disorders",
+    "chapterCode": "V",
+    "block": "Mental and behavioural disorders due to psychoactive substance use",
+    "blockCode": "F10-F19",
+    "category": "Mental and behavioural disorders due to use of cocaine",
+    "categoryCode": "F14",
+    "subcategory": "",
+    "inclusion": [
+        "disorders of psychological development",
+        "Psychoactive substance abuse"
+    ],
+    "exclusion": [
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "abuse of non-dependence-producing substances"
+    ],
+    "symptoms": [
+        "agitation",
+        "increased heart rate",
+        "paranoia",
+        "anxiety",
+        "confusion"
+    ]
+}

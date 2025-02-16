@@ -1,0 +1,36 @@
+{
+    "icd10code": "I98.0",
+    "type": "subcategory",
+    "title": "Cardiovascular syphilis",
+    "chapter": "Diseases of the circulatory system",
+    "chapterCode": "IX",
+    "block": "Other and unspecified disorders of the circulatory system",
+    "blockCode": "I95-I99",
+    "category": "Other disorders of circulatory system in diseases classified elsewhere",
+    "categoryCode": "I98",
+    "subcategory": "I98.0",
+    "inclusion": [
+        "Cardiovascular syphilis: NOS",
+        "Cardiovascular syphilis: congenital, late"
+    ],
+    "exclusion": [
+        "certain conditions originating in the perinatal period",
+        "certain infectious and parasitic diseases",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "systemic connective tissue disorders",
+        "transient cerebral ischaemic attacks and related syndromes",
+        "pulmonary"
+    ],
+    "symptoms": [
+        "shortness of breath",
+        "severe headaches",
+        "confusion",
+        "swelling in legs",
+        "chest pain"
+    ]
+}

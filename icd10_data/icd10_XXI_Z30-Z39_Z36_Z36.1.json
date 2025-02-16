@@ -1,0 +1,17 @@
+{
+  "type": "subcategory",
+  "chapterCode": "XXI",
+  "chapter": "Factors influencing health status and contact with health services",
+  "blockCode": "Z30-Z39",
+  "block": "Persons encountering health services in circumstances related to reproduction",
+  "categoryCode": "Z36",
+  "category": "Antenatal screening",
+  "subcategory": "Z36.1",
+  "title": "Antenatal screening for raised alphafetoprotein level",
+  "inclusion": null,
+  "exclusion": [
+    "abnormal findings on antenatal screening of mother",
+    "routine prenatal care"
+  ],
+  "children": null
+}

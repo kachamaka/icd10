@@ -1,0 +1,25 @@
+{
+  "type": "subcategory",
+  "chapterCode": "II",
+  "chapter": "Neoplasms",
+  "blockCode": "C30-C39",
+  "block": "Malignant neoplasms of respiratory and intrathoracic organs",
+  "categoryCode": "C30",
+  "category": "Malignant neoplasm of nasal cavity and middle ear",
+  "subcategory": "C30.1",
+  "title": "Malignant neoplasm: Middle ear",
+  "inclusion": [
+    "middle ear",
+    "Eustachian tube",
+    "Inner ear",
+    "Mastoid air cells"
+  ],
+  "exclusion": [
+    "mesothelioma",
+    "auricular canal (external)",
+    "bone of ear (meatus)",
+    "cartilage of ear",
+    "skin of (external) ear"
+  ],
+  "children": null
+}

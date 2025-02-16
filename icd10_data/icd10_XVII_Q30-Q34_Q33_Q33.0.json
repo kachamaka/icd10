@@ -1,0 +1,21 @@
+{
+  "type": "subcategory",
+  "chapterCode": "XVII",
+  "chapter": "Congenital malformations, deformations and chromosomal abnormalities",
+  "blockCode": "Q30-Q34",
+  "block": "Congenital malformations of the respiratory system",
+  "categoryCode": "Q33",
+  "category": "Congenital malformations of lung",
+  "subcategory": "Q33.0",
+  "title": "Congenital cystic lung",
+  "inclusion": [
+    "Congenital: honeycomb lung",
+    "Congenital: lung disease: cystic",
+    "Congenital: lung disease: polycystic"
+  ],
+  "exclusion": [
+    "inborn errors of metabolism",
+    "cystic lung disease, acquired or unspecified"
+  ],
+  "children": null
+}

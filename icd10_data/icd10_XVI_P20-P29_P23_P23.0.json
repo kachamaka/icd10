@@ -1,0 +1,26 @@
+{
+  "type": "subcategory",
+  "chapterCode": "XVI",
+  "chapter": "Certain conditions originating in the perinatal period",
+  "blockCode": "P20-P29",
+  "block": "Respiratory and cardiovascular disorders specific to the perinatal period",
+  "categoryCode": "P23",
+  "category": "Congenital pneumonia",
+  "subcategory": "P23.0",
+  "title": "Congenital pneumonia due to viral agent",
+  "inclusion": [
+    "conditions that have their origin in the perinatal period even though death or morbidity occurs later",
+    "infective pneumonia acquired in utero or during birth"
+  ],
+  "exclusion": [
+    "congenital malformations, deformations and chromosomal abnormalities",
+    "endocrine, nutritional and metabolic diseases",
+    "injury, poisoning and certain other consequences of external causes",
+    "neoplasms",
+    "tetanus neonatorum",
+    "whooping cough",
+    "single umbilical artery",
+    "congenital rubella pneumonitis"
+  ],
+  "children": null
+}

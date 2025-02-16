@@ -1,0 +1,24 @@
+{
+  "type": "subcategory",
+  "chapterCode": "XIX",
+  "chapter": "Injury, poisoning and certain other consequences of external causes",
+  "blockCode": "T90-T98",
+  "block": "Sequelae of injuries, of poisoning and of other consequences of external causes",
+  "categoryCode": "T91",
+  "category": "Sequelae of injuries of neck and trunk",
+  "subcategory": "T91.5",
+  "title": "Sequelae of injury of intra-abdominal and pelvic organs",
+  "inclusion": [
+    "Sequelae of injury classifiable to S36-S37"
+  ],
+  "exclusion": [
+    "birth trauma",
+    "obstetric trauma",
+    "malunion of fracture",
+    "nonunion of fracture [pseudarthrosis]",
+    "pathological fracture",
+    "pathological fracture with osteoporosis",
+    "stress fracture"
+  ],
+  "children": null
+}

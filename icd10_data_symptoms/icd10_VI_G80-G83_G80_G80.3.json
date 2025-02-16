@@ -1,0 +1,34 @@
+{
+    "icd10code": "G80.3",
+    "type": "subcategory",
+    "title": "Dyskinetic cerebral palsy",
+    "chapter": "Diseases of the nervous system",
+    "chapterCode": "VI",
+    "block": "Cerebral palsy and other paralytic syndromes",
+    "blockCode": "G80-G83",
+    "category": "Cerebral palsy",
+    "categoryCode": "G80",
+    "subcategory": "G80.3",
+    "inclusion": [
+        "Athetoid cerebral palsy",
+        "Dystonic cerebral palsy"
+    ],
+    "exclusion": [
+        "certain conditions originating in the perinatal period",
+        "certain infectious and parasitic diseases",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "hereditary spastic paraplegia"
+    ],
+    "symptoms": [
+        "muscle stiffness",
+        "poor coordination",
+        "exaggerated reflexes",
+        "difficulty walking",
+        "involuntary movements"
+    ]
+}

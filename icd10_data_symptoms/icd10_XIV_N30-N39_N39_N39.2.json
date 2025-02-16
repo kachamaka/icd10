@@ -1,0 +1,38 @@
+{
+    "icd10code": "N39.2",
+    "type": "subcategory",
+    "title": "Orthostatic proteinuria, unspecified",
+    "chapter": "Diseases of the genitourinary system",
+    "chapterCode": "XIV",
+    "block": "Other diseases of urinary system",
+    "blockCode": "N30-N39",
+    "category": "Other disorders of urinary system",
+    "categoryCode": "N39",
+    "subcategory": "N39.2",
+    "inclusion": null,
+    "exclusion": [
+        "certain conditions originating in the perinatal period",
+        "certain infectious and parasitic diseases",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "urinary infection (complicating): abortion or ectopic or molar pregnancy",
+        "urinary infection (complicating): pregnancy, childbirth and the puerperium",
+        "urinary infection (complicating): with urolithiasis",
+        "urethrocele: congenital",
+        "urethrocele: female",
+        "trigonitis",
+        "urethral caruncle",
+        "with specified morphological lesion"
+    ],
+    "symptoms": [
+        "frequent urination",
+        "burning sensation",
+        "pelvic pain",
+        "cloudy urine",
+        "strong-smelling urine"
+    ]
+}

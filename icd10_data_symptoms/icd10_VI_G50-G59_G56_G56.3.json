@@ -1,0 +1,36 @@
+{
+    "icd10code": "G56.3",
+    "type": "subcategory",
+    "title": "Lesion of radial nerve",
+    "chapter": "Diseases of the nervous system",
+    "chapterCode": "VI",
+    "block": "Nerve, nerve root and plexus disorders",
+    "blockCode": "G50-G59",
+    "category": "Mononeuropathies of upper limb",
+    "categoryCode": "G56",
+    "subcategory": "G56.3",
+    "inclusion": null,
+    "exclusion": [
+        "certain conditions originating in the perinatal period",
+        "certain infectious and parasitic diseases",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "current traumatic nerve, nerve root and plexus disorders - see nerve injury by body region",
+        "neuralgia NOS",
+        "neuritis NOS",
+        "peripheral neuritis in pregnancy",
+        "radiculitis NOS",
+        "postherpetic geniculate ganglionitis"
+    ],
+    "symptoms": [
+        "numbness",
+        "tingling",
+        "burning sensation",
+        "weakness in fingers",
+        "sharp wrist pain"
+    ]
+}

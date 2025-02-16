@@ -1,0 +1,20 @@
+{
+  "type": "category",
+  "chapterCode": "XVIII",
+  "chapter": "Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+  "blockCode": "R30-R39",
+  "block": "Symptoms and signs involving the urinary system",
+  "categoryCode": "R36",
+  "category": "Urethral discharge",
+  "subcategory": "",
+  "title": "Urethral discharge",
+  "inclusion": [
+    "Penile discharge",
+    "Urethrorrhoea"
+  ],
+  "exclusion": [
+    "abnormal findings on antenatal screening of mother",
+    "certain conditions originating in the perinatal period"
+  ],
+  "children": null
+}

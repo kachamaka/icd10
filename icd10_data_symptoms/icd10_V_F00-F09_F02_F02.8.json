@@ -1,0 +1,40 @@
+{
+    "icd10code": "F02.8",
+    "type": "subcategory",
+    "title": "Dementia in other specified diseases classified elsewhere",
+    "chapter": "Mental and behavioural disorders",
+    "chapterCode": "V",
+    "block": "Organic, including symptomatic, mental disorders",
+    "blockCode": "F00-F09",
+    "category": "Dementia in other diseases classified elsewhere",
+    "categoryCode": "F02",
+    "subcategory": "F02.8",
+    "inclusion": [
+        "disorders of psychological development",
+        "Dementia (in): cerebral lipidosis",
+        "Dementia (in): epilepsy",
+        "Dementia (in): hepatolenticular degeneration",
+        "Dementia (in): hypercalcaemia",
+        "Dementia (in): hypothyroidism, acquired",
+        "Dementia (in): intoxications",
+        "Dementia (in): Lewy body (ies) (disease)",
+        "Dementia (in): multiple sclerosis",
+        "Dementia (in): neurosyphilis",
+        "Dementia (in): niacin deficiency [pellagra]",
+        "Dementia (in): polyarteritis nodosa",
+        "Dementia (in): systemic lupus erythematosus",
+        "Dementia (in): trypanosomiasis",
+        "Dementia (in): uraemia",
+        "Dementia (in): vitamin B 12 deficiency"
+    ],
+    "exclusion": [
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified"
+    ],
+    "symptoms": [
+        "memory loss",
+        "confusion",
+        "difficulty with language",
+        "changes in mood",
+        "impaired judgment"
+    ]
+}

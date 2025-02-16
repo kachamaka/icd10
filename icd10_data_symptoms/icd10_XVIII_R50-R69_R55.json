@@ -1,0 +1,40 @@
+{
+    "icd10code": "R55",
+    "type": "category",
+    "title": "Syncope and collapse",
+    "chapter": "Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+    "chapterCode": "XVIII",
+    "block": "General symptoms and signs",
+    "blockCode": "R50-R69",
+    "category": "Syncope and collapse",
+    "categoryCode": "R55",
+    "subcategory": "",
+    "inclusion": [
+        "Blackout",
+        "Fainting"
+    ],
+    "exclusion": [
+        "abnormal findings on antenatal screening of mother",
+        "certain conditions originating in the perinatal period",
+        "neurocirculatory asthenia",
+        "orthostatic hypotension",
+        "neurogenic orthostatic hypotension",
+        "shock: NOS",
+        "shock: cardiogenic",
+        "shock: complicating or following: abortion or ectopic or molar pregnancy",
+        "shock: complicating or following: labour and delivery",
+        "shock: postoperative",
+        "Stokes-Adams attack",
+        "syncope: carotid sinus",
+        "syncope: heat",
+        "syncope: psychogenic",
+        "unconsciousness NOS"
+    ],
+    "symptoms": [
+        "fainting",
+        "lightheadedness",
+        "dizziness",
+        "temporary loss of consciousness",
+        "feeling weak"
+    ]
+}

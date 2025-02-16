@@ -1,0 +1,23 @@
+{
+    "icd10code": "Z13.7",
+    "type": "subcategory",
+    "title": "Special screening examination for congenital malformations, deformations and chromosomal abnormalities",
+    "chapter": "Factors influencing health status and contact with health services",
+    "chapterCode": "XXI",
+    "block": "Persons encountering health services for examination and investigation",
+    "blockCode": "Z00-Z13",
+    "category": "Special screening examination for other diseases and disorders",
+    "categoryCode": "Z13",
+    "subcategory": "Z13.7",
+    "inclusion": null,
+    "exclusion": [
+        "examinations related to pregnancy and reproduction"
+    ],
+    "symptoms": [
+        "developmental delays",
+        "speech difficulties",
+        "motor skill issues",
+        "learning disabilities",
+        "behavioral problems"
+    ]
+}

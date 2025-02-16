@@ -1,0 +1,34 @@
+{
+    "icd10code": "H19.0",
+    "type": "subcategory",
+    "title": "Scleritis and episcleritis in diseases classified elsewhere",
+    "chapter": "Diseases of the eye and adnexa",
+    "chapterCode": "VII",
+    "block": "Disorders of sclera, cornea, iris and ciliary body",
+    "blockCode": "H15-H22",
+    "category": "Disorders of sclera and cornea in diseases classified elsewhere",
+    "categoryCode": "H19",
+    "subcategory": "H19.0",
+    "inclusion": [
+        "Syphilitic episcleritis",
+        "Tuberculous episcleritis",
+        "Zoster scleritis"
+    ],
+    "exclusion": [
+        "certain conditions originating in the perinatal period",
+        "certain infectious and parasitic diseases",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified"
+    ],
+    "symptoms": [
+        "eye redness",
+        "pain",
+        "blurry vision",
+        "eye discharge",
+        "sensitivity to light"
+    ]
+}

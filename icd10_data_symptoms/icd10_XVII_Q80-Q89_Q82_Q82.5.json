@@ -1,0 +1,43 @@
+{
+    "icd10code": "Q82.5",
+    "type": "subcategory",
+    "title": "Congenital non-neoplastic naevus",
+    "chapter": "Congenital malformations, deformations and chromosomal abnormalities",
+    "chapterCode": "XVII",
+    "block": "Other congenital malformations",
+    "blockCode": "Q80-Q89",
+    "category": "Other congenital malformations of skin",
+    "categoryCode": "Q82",
+    "subcategory": "Q82.5",
+    "inclusion": [
+        "Birthmark NOS",
+        "Naevus: flammeus",
+        "Naevus: portwine",
+        "Naevus: sanguineous",
+        "Naevus: strawberry",
+        "Naevus: vascular NOS",
+        "Naevus: verrucous"
+    ],
+    "exclusion": [
+        "inborn errors of metabolism",
+        "acrodermatitis enteropathica",
+        "congenital erythropoietic porphyria",
+        "pilonidal cyst or sinus",
+        "Sturge-Weber(-Dimitri) syndrome",
+        "café au lait spots",
+        "lentigo",
+        "naevus: NOS",
+        "naevus: araneus",
+        "naevus: melanocytic",
+        "naevus: pigmented",
+        "naevus: spider",
+        "naevus: stellar"
+    ],
+    "symptoms": [
+        "fragile skin",
+        "recurrent blisters",
+        "skin erosions",
+        "nail dystrophy",
+        "mucosal lesions"
+    ]
+}

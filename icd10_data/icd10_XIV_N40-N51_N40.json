@@ -1,0 +1,30 @@
+{
+  "type": "category",
+  "chapterCode": "XIV",
+  "chapter": "Diseases of the genitourinary system",
+  "blockCode": "N40-N51",
+  "block": "Diseases of male genital organs",
+  "categoryCode": "N40",
+  "category": "Hyperplasia of prostate",
+  "subcategory": "",
+  "title": "Hyperplasia of prostate",
+  "inclusion": [
+    "Adenofibromatous hypertrophy of prostate",
+    "Enlargement (benign) of prostate",
+    "Hypertrophy (benign) of prostate",
+    "Median bar (prostate)",
+    "Prostatic obstruction NOS"
+  ],
+  "exclusion": [
+    "certain conditions originating in the perinatal period",
+    "certain infectious and parasitic diseases",
+    "complications of pregnancy, childbirth and the puerperium",
+    "congenital malformations, deformations and chromosomal abnormalities",
+    "endocrine, nutritional and metabolic diseases",
+    "injury, poisoning and certain other consequences of external causes",
+    "neoplasms",
+    "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+    "benign neoplasms of prostate"
+  ],
+  "children": null
+}

@@ -1,0 +1,37 @@
+{
+    "icd10code": "K80.5",
+    "type": "subcategory",
+    "title": "Calculus of bile duct without cholangitis or cholecystitis",
+    "chapter": "Diseases of the digestive system",
+    "chapterCode": "XI",
+    "block": "Disorders of gallbladder, biliary tract and pancreas",
+    "blockCode": "K80-K87",
+    "category": "Cholelithiasis",
+    "categoryCode": "K80",
+    "subcategory": "K80.5",
+    "inclusion": [
+        "Choledocholithiasis unspecified or without cholangitis or cholecystitis",
+        "Gallstone (impacted) of: bile duct NOS unspecified or without cholangitis or cholecystitis",
+        "Gallstone (impacted) of: common duct unspecified or without cholangitis or cholecystitis",
+        "Gallstone (impacted) of: hepatic duct unspecified or without cholangitis or cholecystitis",
+        "Hepatic: cholelithiasis unspecified or without cholangitis or cholecystitis",
+        "Hepatic: colic (recurrent) unspecified or without cholangitis or cholecystitis"
+    ],
+    "exclusion": [
+        "certain conditions originating in the perinatal period",
+        "certain infectious and parasitic diseases",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified"
+    ],
+    "symptoms": [
+        "right upper quadrant pain",
+        "nausea",
+        "vomiting",
+        "fever",
+        "jaundice"
+    ]
+}

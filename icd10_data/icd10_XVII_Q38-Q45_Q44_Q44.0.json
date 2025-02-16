@@ -1,0 +1,18 @@
+{
+  "type": "subcategory",
+  "chapterCode": "XVII",
+  "chapter": "Congenital malformations, deformations and chromosomal abnormalities",
+  "blockCode": "Q38-Q45",
+  "block": "Other congenital malformations of the digestive system",
+  "categoryCode": "Q44",
+  "category": "Congenital malformations of gallbladder, bile ducts and liver",
+  "subcategory": "Q44.0",
+  "title": "Agenesis, aplasia and hypoplasia of gallbladder",
+  "inclusion": [
+    "Congenital absence of gallbladder"
+  ],
+  "exclusion": [
+    "inborn errors of metabolism"
+  ],
+  "children": null
+}

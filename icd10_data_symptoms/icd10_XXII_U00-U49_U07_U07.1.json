@@ -1,0 +1,27 @@
+{
+    "icd10code": "U07.1",
+    "type": "subcategory",
+    "title": "COVID-19, virus identified",
+    "chapter": "Codes for special purposes",
+    "chapterCode": "XXII",
+    "block": "Provisional assignment of new diseases of uncertain etiology or emergency use",
+    "blockCode": "U00-U49",
+    "category": "Emergency use of U07",
+    "categoryCode": "U07",
+    "subcategory": "U07.1",
+    "inclusion": [
+        "COVID-19 NOS"
+    ],
+    "exclusion": [
+        "Coronavirus infection, unspecified site",
+        "Coronavirus as the cause of diseases classified to other chapters",
+        "Severe acute respiratory syndrome [SARS], unspecified"
+    ],
+    "symptoms": [
+        "fever",
+        "cough",
+        "shortness of breath",
+        "fatigue",
+        "loss of taste or smell"
+    ]
+}

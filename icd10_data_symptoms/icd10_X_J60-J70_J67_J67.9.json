@@ -1,0 +1,36 @@
+{
+    "icd10code": "J67.9",
+    "type": "subcategory",
+    "title": "Hypersensitivity pneumonitis due to unspecified organic dust",
+    "chapter": "Diseases of the respiratory system",
+    "chapterCode": "X",
+    "block": "Lung diseases due to external agents",
+    "blockCode": "J60-J70",
+    "category": "Hypersensitivity pneumonitis due to organic dust",
+    "categoryCode": "J67",
+    "subcategory": "J67.9",
+    "inclusion": [
+        "allergic alveolitis and pneumonitis due to inhaled organic dust and particles of fungal, actinomycetic or other origin",
+        "Allergic alveolitis (extrinsic) NOS",
+        "Hypersensitivity pneumonitis NOS"
+    ],
+    "exclusion": [
+        "certain conditions originating in the perinatal period",
+        "certain infectious and parasitic diseases",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "asthma classified to J45.-",
+        "neonatal aspiration syndromes"
+    ],
+    "symptoms": [
+        "cough",
+        "shortness of breath",
+        "wheezing",
+        "chest tightness",
+        "fatigue"
+    ]
+}

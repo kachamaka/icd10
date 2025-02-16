@@ -1,0 +1,24 @@
+{
+    "icd10code": "C40.8",
+    "type": "subcategory",
+    "title": "Malignant neoplasm: Overlapping lesion of bone and articular cartilage of limbs",
+    "chapter": "Neoplasms",
+    "chapterCode": "II",
+    "block": "Malignant neoplasms of bone and articular cartilage",
+    "blockCode": "C40-C41",
+    "category": "Malignant neoplasm of bone and articular cartilage of limbs",
+    "categoryCode": "C40",
+    "subcategory": "C40.8",
+    "inclusion": null,
+    "exclusion": [
+        "bone marrow NOS",
+        "synovia"
+    ],
+    "symptoms": [
+        "pain in the affected area",
+        "swelling",
+        "redness or warmth",
+        "restricted range of motion",
+        "unexplained weight loss"
+    ]
+}

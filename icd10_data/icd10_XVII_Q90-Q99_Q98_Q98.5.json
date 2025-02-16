@@ -1,0 +1,16 @@
+{
+  "type": "subcategory",
+  "chapterCode": "XVII",
+  "chapter": "Congenital malformations, deformations and chromosomal abnormalities",
+  "blockCode": "Q90-Q99",
+  "block": "Chromosomal abnormalities, not elsewhere classified",
+  "categoryCode": "Q98",
+  "category": "Other sex chromosome abnormalities, male phenotype, not elsewhere classified",
+  "subcategory": "Q98.5",
+  "title": "Karyotype 47,XYY",
+  "inclusion": null,
+  "exclusion": [
+    "inborn errors of metabolism"
+  ],
+  "children": null
+}

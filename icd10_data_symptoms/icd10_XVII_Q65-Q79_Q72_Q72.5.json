@@ -1,0 +1,23 @@
+{
+    "icd10code": "Q72.5",
+    "type": "subcategory",
+    "title": "Longitudinal reduction defect of tibia",
+    "chapter": "Congenital malformations, deformations and chromosomal abnormalities",
+    "chapterCode": "XVII",
+    "block": "Congenital malformations and deformations of the musculoskeletal system",
+    "blockCode": "Q65-Q79",
+    "category": "Reduction defects of lower limb",
+    "categoryCode": "Q72",
+    "subcategory": "Q72.5",
+    "inclusion": null,
+    "exclusion": [
+        "inborn errors of metabolism"
+    ],
+    "symptoms": [
+        "partial absence of foot",
+        "missing metatarsal bones",
+        "absent phalanges",
+        "underdeveloped toes",
+        "limb length discrepancy"
+    ]
+}

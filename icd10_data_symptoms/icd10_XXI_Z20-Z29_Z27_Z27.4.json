@@ -1,0 +1,19 @@
+{
+    "icd10code": "Z27.4",
+    "type": "subcategory",
+    "title": "Need for immunization against measles-mumps-rubella [MMR]",
+    "chapter": "Factors influencing health status and contact with health services",
+    "chapterCode": "XXI",
+    "block": "Persons with potential health hazards related to communicable diseases",
+    "blockCode": "Z20-Z29",
+    "category": "Need for immunization against combinations of infectious diseases",
+    "categoryCode": "Z27",
+    "subcategory": "Z27.4",
+    "inclusion": null,
+    "exclusion": [
+        "immunization not carried out"
+    ],
+    "symptoms": [
+        "asymptomatic"
+    ]
+}

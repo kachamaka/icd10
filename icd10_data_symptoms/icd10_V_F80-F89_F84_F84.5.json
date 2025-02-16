@@ -1,0 +1,27 @@
+{
+    "icd10code": "F84.5",
+    "type": "subcategory",
+    "title": "Asperger syndrome",
+    "chapter": "Mental and behavioural disorders",
+    "chapterCode": "V",
+    "block": "Disorders of psychological development",
+    "blockCode": "F80-F89",
+    "category": "Pervasive developmental disorders",
+    "categoryCode": "F84",
+    "subcategory": "F84.5",
+    "inclusion": [
+        "disorders of psychological development",
+        "Autistic psychopathy",
+        "Schizoid disorder of childhood"
+    ],
+    "exclusion": [
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified"
+    ],
+    "symptoms": [
+        "difficulty with social interactions",
+        "repetitive behaviors",
+        "limited interests",
+        "communication challenges",
+        "resistance to change"
+    ]
+}

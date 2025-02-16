@@ -1,0 +1,41 @@
+{
+    "icd10code": "K13.2",
+    "type": "subcategory",
+    "title": "Leukoplakia and other disturbances of oral epithelium, including tongue",
+    "chapter": "Diseases of the digestive system",
+    "chapterCode": "XI",
+    "block": "Diseases of oral cavity, salivary glands and jaws",
+    "blockCode": "K00-K14",
+    "category": "Other diseases of lip and oral mucosa",
+    "categoryCode": "K13",
+    "subcategory": "K13.2",
+    "inclusion": [
+        "epithelial disturbances of tongue",
+        "Erythroplakia of oral epithelium, including tongue",
+        "Leukoedema of oral epithelium, including tongue",
+        "Leukokeratosis nicotina palati",
+        "Smoker palate"
+    ],
+    "exclusion": [
+        "certain conditions originating in the perinatal period",
+        "certain infectious and parasitic diseases",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "certain disorders of gingiva and edentulous alveolar ridge",
+        "cysts of oral region",
+        "diseases of tongue",
+        "stomatitis and related lesions",
+        "hairy leukoplakia"
+    ],
+    "symptoms": [
+        "white patches in mouth",
+        "oral mucosa sores",
+        "red or inflamed areas",
+        "thickened oral lesions",
+        "discomfort while eating or drinking"
+    ]
+}

@@ -1,0 +1,24 @@
+{
+  "type": "subcategory",
+  "chapterCode": "IV",
+  "chapter": "Endocrine, nutritional and metabolic diseases",
+  "blockCode": "E00-E07",
+  "block": "Disorders of thyroid gland",
+  "categoryCode": "E06",
+  "category": "Thyroiditis",
+  "subcategory": "E06.5",
+  "title": "Other chronic thyroiditis",
+  "inclusion": [
+    "Thyroiditis: chronic: NOS",
+    "Thyroiditis: chronic: fibrous",
+    "Thyroiditis: ligneous",
+    "Thyroiditis: Riedel"
+  ],
+  "exclusion": [
+    "complications of pregnancy, childbirth and the puerperium",
+    "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+    "transitory endocrine and metabolic disorders specific to fetus and newborn",
+    "adiposogenital dystrophy"
+  ],
+  "children": null
+}

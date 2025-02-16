@@ -1,0 +1,25 @@
+{
+  "type": "subcategory",
+  "chapterCode": "XVII",
+  "chapter": "Congenital malformations, deformations and chromosomal abnormalities",
+  "blockCode": "Q80-Q89",
+  "block": "Other congenital malformations",
+  "categoryCode": "Q89",
+  "category": "Other congenital malformations, not elsewhere classified",
+  "subcategory": "Q89.3",
+  "title": "Situs inversus",
+  "inclusion": [
+    "Dextrocardia with situs inversus",
+    "Mirror-image atrial arrangement with situs inversus",
+    "Situs inversus or transversus: abdominalis",
+    "Situs inversus or transversus: thoracis",
+    "Transposition of viscera: abdominal",
+    "Transposition of viscera: thoracic"
+  ],
+  "exclusion": [
+    "inborn errors of metabolism",
+    "dextrocardia NOS",
+    "laevocardia"
+  ],
+  "children": null
+}

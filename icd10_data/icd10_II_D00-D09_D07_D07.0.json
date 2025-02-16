@@ -1,0 +1,21 @@
+{
+  "type": "subcategory",
+  "chapterCode": "II",
+  "chapter": "Neoplasms",
+  "blockCode": "D00-D09",
+  "block": "In situ neoplasms",
+  "categoryCode": "D07",
+  "category": "Carcinoma in situ of other and unspecified genital organs",
+  "subcategory": "D07.0",
+  "title": "Carcinoma in situ: Endometrium",
+  "inclusion": [
+    "Bowen disease",
+    "erythroplasia",
+    "morphology codes with behaviour code /2",
+    "Queyrat erythroplasia"
+  ],
+  "exclusion": [
+    "melanoma in situ"
+  ],
+  "children": null
+}

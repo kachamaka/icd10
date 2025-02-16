@@ -1,0 +1,32 @@
+{
+    "icd10code": "E21.0",
+    "type": "subcategory",
+    "title": "Primary hyperparathyroidism",
+    "chapter": "Endocrine, nutritional and metabolic diseases",
+    "chapterCode": "IV",
+    "block": "Disorders of other endocrine glands",
+    "blockCode": "E20-E35",
+    "category": "Hyperparathyroidism and other disorders of parathyroid gland",
+    "categoryCode": "E21",
+    "subcategory": "E21.0",
+    "inclusion": [
+        "Hyperplasia of parathyroid",
+        "Osteitis fibrosa cystica generalisata [von Recklinghausen disease of bone]"
+    ],
+    "exclusion": [
+        "complications of pregnancy, childbirth and the puerperium",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "transitory endocrine and metabolic disorders specific to fetus and newborn",
+        "galactorrhoea",
+        "gynaecomastia",
+        "aplasia or hypoplasia with immunodeficiency",
+        "myasthenia gravis"
+    ],
+    "symptoms": [
+        "fatigue",
+        "muscle weakness",
+        "depression",
+        "abdominal pain",
+        "irregular heartbeats"
+    ]
+}

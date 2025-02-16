@@ -1,0 +1,30 @@
+{
+    "icd10code": "E50.8",
+    "type": "subcategory",
+    "title": "Other manifestations of vitamin A deficiency",
+    "chapter": "Endocrine, nutritional and metabolic diseases",
+    "chapterCode": "IV",
+    "block": "Other nutritional deficiencies",
+    "blockCode": "E50-E64",
+    "category": "Vitamin A deficiency",
+    "categoryCode": "E50",
+    "subcategory": "E50.8",
+    "inclusion": [
+        "Follicular keratosis due to vitamin A deficiency",
+        "Xeroderma due to vitamin A deficiency"
+    ],
+    "exclusion": [
+        "complications of pregnancy, childbirth and the puerperium",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "transitory endocrine and metabolic disorders specific to fetus and newborn",
+        "diabetes mellitus (in): malnutrition-related",
+        "sequelae of vitamin A deficiency"
+    ],
+    "symptoms": [
+        "difficulty seeing at night",
+        "dry and itchy eyes",
+        "dry skin",
+        "delayed growth and development",
+        "frequent infections"
+    ]
+}

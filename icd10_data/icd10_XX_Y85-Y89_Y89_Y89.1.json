@@ -1,0 +1,14 @@
+{
+  "type": "subcategory",
+  "chapterCode": "XX",
+  "chapter": "External causes of morbidity and mortality",
+  "blockCode": "Y85-Y89",
+  "block": "Sequelae of external causes of morbidity and mortality",
+  "categoryCode": "Y89",
+  "category": "Sequelae of other external causes",
+  "subcategory": "Y89.1",
+  "title": "Sequelae of war operations",
+  "inclusion": null,
+  "exclusion": null,
+  "children": null
+}

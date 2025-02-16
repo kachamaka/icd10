@@ -1,0 +1,33 @@
+{
+    "icd10code": "P08.0",
+    "type": "subcategory",
+    "title": "Exceptionally large baby",
+    "chapter": "Certain conditions originating in the perinatal period",
+    "chapterCode": "XVI",
+    "block": "Disorders related to length of gestation and fetal growth",
+    "blockCode": "P05-P08",
+    "category": "Disorders related to long gestation and high birth weight",
+    "categoryCode": "P08",
+    "subcategory": "P08.0",
+    "inclusion": [
+        "conditions that have their origin in the perinatal period even though death or morbidity occurs later",
+        "the listed conditions, without further specification, as causes of mortality, morbidity or additional care, in fetus or newborn"
+    ],
+    "exclusion": [
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "tetanus neonatorum",
+        "whooping cough",
+        "syndrome of: infant of diabetic mother",
+        "syndrome of: infant of mother with gestational diabetes"
+    ],
+    "symptoms": [
+        "respiratory distress",
+        "low birth weight",
+        "feeding difficulties",
+        "hypothermia",
+        "jaundice"
+    ]
+}

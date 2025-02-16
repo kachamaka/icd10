@@ -1,0 +1,33 @@
+{
+    "icd10code": "B24",
+    "type": "category",
+    "title": "Unspecified human immunodeficiency virus [HIV] disease",
+    "chapter": "Certain infectious and parasitic diseases",
+    "chapterCode": "I",
+    "block": "Human immunodeficiency virus [HIV] disease",
+    "blockCode": "B20-B24",
+    "category": "Unspecified human immunodeficiency virus [HIV] disease",
+    "categoryCode": "B24",
+    "subcategory": "",
+    "inclusion": [
+        "diseases generally recognized as communicable or transmissible",
+        "Acquired immunodeficiency syndrome [AIDS] NOS",
+        "AIDS-related complex [ARC] NOS"
+    ],
+    "exclusion": [
+        "carrier or suspected carrier of infectious disease",
+        "certain localized infections - see body system-related chapters",
+        "infectious and parasitic diseases complicating pregnancy, childbirth and the puerperium [except obstetrical tetanus]",
+        "infectious and parasitic diseases specific to the perinatal period [except tetanus neonatorum, whooping cough, congenital syphilis, perinatal gonococcal infection and perinatal human immunodeficiency virus [HIV] disease]",
+        "influenza and other acute respiratory infections",
+        "vesicular stomatitis virus disease",
+        "papilloma of: bladder"
+    ],
+    "symptoms": [
+        "fever",
+        "weight loss",
+        "fatigue",
+        "lymphadenopathy",
+        "opportunistic infections"
+    ]
+}

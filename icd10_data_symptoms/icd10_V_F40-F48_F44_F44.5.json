@@ -1,0 +1,31 @@
+{
+    "icd10code": "F44.5",
+    "type": "subcategory",
+    "title": "Dissociative convulsions",
+    "chapter": "Mental and behavioural disorders",
+    "chapterCode": "V",
+    "block": "Neurotic, stress-related and somatoform disorders",
+    "blockCode": "F40-F48",
+    "category": "Dissociative [conversion] disorders",
+    "categoryCode": "F44",
+    "subcategory": "F44.5",
+    "inclusion": [
+        "disorders of psychological development",
+        "conversion: hysteria",
+        "conversion: reaction",
+        "hysteria",
+        "hysterical psychosis"
+    ],
+    "exclusion": [
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "when associated with conduct disorder in F91.-",
+        "malingering [conscious simulation]"
+    ],
+    "symptoms": [
+        "memory loss",
+        "confusion",
+        "disorientation",
+        "impaired recall",
+        "gaps in personal history"
+    ]
+}

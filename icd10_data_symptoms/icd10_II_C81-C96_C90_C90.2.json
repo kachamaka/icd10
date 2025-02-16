@@ -1,0 +1,23 @@
+{
+    "icd10code": "C90.2",
+    "type": "subcategory",
+    "title": "Extramedullary plasmacytoma",
+    "chapter": "Neoplasms",
+    "chapterCode": "II",
+    "block": "Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",
+    "blockCode": "C81-C96",
+    "category": "Multiple myeloma and malignant plasma cell neoplasms",
+    "categoryCode": "C90",
+    "subcategory": "C90.2",
+    "inclusion": null,
+    "exclusion": [
+        "secondary and unspecified neoplasm of lymph nodes"
+    ],
+    "symptoms": [
+        "bone pain",
+        "fatigue",
+        "weight loss",
+        "frequent infections",
+        "high levels of calcium in the blood"
+    ]
+}

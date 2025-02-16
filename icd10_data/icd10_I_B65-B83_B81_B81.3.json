@@ -1,0 +1,26 @@
+{
+  "type": "subcategory",
+  "chapterCode": "I",
+  "chapter": "Certain infectious and parasitic diseases",
+  "blockCode": "B65-B83",
+  "block": "Helminthiases",
+  "categoryCode": "B81",
+  "category": "Other intestinal helminthiases, not elsewhere classified",
+  "subcategory": "B81.3",
+  "title": "Intestinal angiostrongyliasis",
+  "inclusion": [
+    "diseases generally recognized as communicable or transmissible",
+    "Angiostrongyliasis due to: Angiostrongylus costaricensis",
+    "Angiostrongyliasis due to: Parastrongylus costaricensis"
+  ],
+  "exclusion": [
+    "carrier or suspected carrier of infectious disease",
+    "certain localized infections - see body system-related chapters",
+    "infectious and parasitic diseases complicating pregnancy, childbirth and the puerperium [except obstetrical tetanus]",
+    "infectious and parasitic diseases specific to the perinatal period [except tetanus neonatorum, whooping cough, congenital syphilis, perinatal gonococcal infection and perinatal human immunodeficiency virus [HIV] disease]",
+    "influenza and other acute respiratory infections",
+    "larval diphyllobothriasis",
+    "monkeypox"
+  ],
+  "children": null
+}

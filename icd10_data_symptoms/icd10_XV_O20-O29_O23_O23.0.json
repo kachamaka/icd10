@@ -1,0 +1,37 @@
+{
+    "icd10code": "O23.0",
+    "type": "subcategory",
+    "title": "Infections of kidney in pregnancy",
+    "chapter": "Pregnancy, childbirth and the puerperium",
+    "chapterCode": "XV",
+    "block": "Other maternal disorders predominantly related to pregnancy",
+    "blockCode": "O20-O29",
+    "category": "Infections of genitourinary tract in pregnancy",
+    "categoryCode": "O23",
+    "subcategory": "O23.0",
+    "inclusion": null,
+    "exclusion": [
+        "Certain diseases or injuries complicating pregnancy, childbirth and the puerperium classified elsewhere: external causes (for mortality)",
+        "Certain diseases or injuries complicating pregnancy, childbirth and the puerperium classified elsewhere: injury, poisoning and certain other consequences of external cause",
+        "Certain diseases or injuries complicating pregnancy, childbirth and the puerperium classified elsewhere: mental and behavioural disorders associated with the puerperium",
+        "Certain diseases or injuries complicating pregnancy, childbirth and the puerperium classified elsewhere: obstetrical tetanus",
+        "Certain diseases or injuries complicating pregnancy, childbirth and the puerperium classified elsewhere: postpartum necrosis of pituitary gland",
+        "Certain diseases or injuries complicating pregnancy, childbirth and the puerperium classified elsewhere: puerperal osteomalacia",
+        "supervision of: high-risk pregnancy",
+        "supervision of: normal pregnancy",
+        "maternal: care related to the fetus and amniotic cavity and possible delivery problems",
+        "maternal: diseases classifiable elsewhere but complicating pregnancy, labour and delivery, and the puerperium",
+        "complications of anaesthesia during: abortion or ectopic or molar pregnancy",
+        "complications of anaesthesia during: labour and delivery",
+        "complications of anaesthesia during: puerperium",
+        "tuberculosis of genitourinary system",
+        "venereal disease NOS"
+    ],
+    "symptoms": [
+        "fever",
+        "pelvic pain",
+        "foul-smelling discharge",
+        "dysuria",
+        "lower abdominal discomfort"
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "icd10code": "F63.8",
+    "type": "subcategory",
+    "title": "Other habit and impulse disorders",
+    "chapter": "Mental and behavioural disorders",
+    "chapterCode": "V",
+    "block": "Disorders of adult personality and behaviour",
+    "blockCode": "F60-F69",
+    "category": "Habit and impulse disorders",
+    "categoryCode": "F63",
+    "subcategory": "F63.8",
+    "inclusion": [
+        "disorders of psychological development",
+        "Intermittent explosive disorder"
+    ],
+    "exclusion": [
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "habitual excessive use of alcohol or psychoactive substances",
+        "impulse and habit disorders involving sexual behaviour"
+    ],
+    "symptoms": [
+        "urges to perform repetitive actions",
+        "inability to resist impulses",
+        "feeling of tension before the act",
+        "pleasure or relief after the act",
+        "distress or impairment in"
+    ]
+}

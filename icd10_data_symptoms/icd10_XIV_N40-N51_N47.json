@@ -1,0 +1,33 @@
+{
+    "icd10code": "N47",
+    "type": "category",
+    "title": "Redundant prepuce, phimosis and paraphimosis",
+    "chapter": "Diseases of the genitourinary system",
+    "chapterCode": "XIV",
+    "block": "Diseases of male genital organs",
+    "blockCode": "N40-N51",
+    "category": "Redundant prepuce, phimosis and paraphimosis",
+    "categoryCode": "N47",
+    "subcategory": "",
+    "inclusion": [
+        "Adherent prepuce",
+        "Tight foreskin"
+    ],
+    "exclusion": [
+        "certain conditions originating in the perinatal period",
+        "certain infectious and parasitic diseases",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified"
+    ],
+    "symptoms": [
+        "painful urination",
+        "redness of the foreskin",
+        "swelling",
+        "difficulty retracting foreskin",
+        "itching sensation"
+    ]
+}

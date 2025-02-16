@@ -1,0 +1,25 @@
+{
+    "icd10code": "R45.6",
+    "type": "subcategory",
+    "title": "Physical violence",
+    "chapter": "Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+    "chapterCode": "XVIII",
+    "block": "Symptoms and signs involving cognition, perception, emotional state and behaviour",
+    "blockCode": "R40-R46",
+    "category": "Symptoms and signs involving emotional state",
+    "categoryCode": "R45",
+    "subcategory": "R45.6",
+    "inclusion": null,
+    "exclusion": [
+        "abnormal findings on antenatal screening of mother",
+        "certain conditions originating in the perinatal period",
+        "those constituting part of a pattern of mental disorder"
+    ],
+    "symptoms": [
+        "anxiety",
+        "restlessness",
+        "nervousness",
+        "tension",
+        "excessive worry"
+    ]
+}

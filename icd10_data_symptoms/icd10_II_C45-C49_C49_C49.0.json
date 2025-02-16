@@ -1,0 +1,45 @@
+{
+    "icd10code": "C49.0",
+    "type": "subcategory",
+    "title": "Malignant neoplasm: Connective and soft tissue of head, face and neck",
+    "chapter": "Neoplasms",
+    "chapterCode": "II",
+    "block": "Malignant neoplasms of mesothelial and soft tissue",
+    "blockCode": "C45-C49",
+    "category": "Malignant neoplasm of other connective and soft tissue",
+    "categoryCode": "C49",
+    "subcategory": "C49.0",
+    "inclusion": [
+        "blood vessel",
+        "bursa",
+        "cartilage",
+        "fascia",
+        "fat",
+        "ligament, except uterine",
+        "lymphatic vessel",
+        "muscle",
+        "synovia",
+        "tendon (sheath)",
+        "Connective tissue of: ear",
+        "Connective tissue of: eyelid"
+    ],
+    "exclusion": [
+        "cartilage (of): articular",
+        "cartilage (of): larynx",
+        "cartilage (of): nose",
+        "connective tissue of breast",
+        "Kaposi sarcoma",
+        "mesothelioma",
+        "peripheral nerves and autonomic nervous system",
+        "peritoneum",
+        "retroperitoneum",
+        "connective tissue of orbit"
+    ],
+    "symptoms": [
+        "lump or swelling in the arm",
+        "pain in the affected area",
+        "restricted movement of the arm",
+        "skin changes like redness or ulcers",
+        "un"
+    ]
+}

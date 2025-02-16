@@ -1,0 +1,31 @@
+{
+  "type": "modifiedcategory",
+  "chapterCode": "IV",
+  "chapter": "Endocrine, nutritional and metabolic diseases",
+  "blockCode": "E10-E14",
+  "block": "Diabetes mellitus",
+  "categoryCode": "E14",
+  "category": "Unspecified diabetes mellitus",
+  "subcategory": "",
+  "title": "Unspecified diabetes mellitus with ketoacidosis",
+  "inclusion": [
+    "diabetes NOS",
+    "Diabetic: acidosis without mention of coma",
+    "Diabetic: ketoacidosis without mention of coma"
+  ],
+  "exclusion": [
+    "complications of pregnancy, childbirth and the puerperium",
+    "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+    "transitory endocrine and metabolic disorders specific to fetus and newborn",
+    "diabetes mellitus (in): malnutrition-related",
+    "diabetes mellitus (in): neonatal",
+    "diabetes mellitus (in): pregnancy, childbirth and the puerperium",
+    "diabetes mellitus (in): Type 1",
+    "diabetes mellitus (in): Type 2",
+    "glycosuria: NOS",
+    "glycosuria: renal",
+    "impaired glucose tolerance",
+    "postsurgical hypoinsulinaemia"
+  ],
+  "children": null
+}

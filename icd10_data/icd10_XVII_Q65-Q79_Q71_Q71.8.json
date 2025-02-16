@@ -1,0 +1,18 @@
+{
+  "type": "subcategory",
+  "chapterCode": "XVII",
+  "chapter": "Congenital malformations, deformations and chromosomal abnormalities",
+  "blockCode": "Q65-Q79",
+  "block": "Congenital malformations and deformations of the musculoskeletal system",
+  "categoryCode": "Q71",
+  "category": "Reduction defects of upper limb",
+  "subcategory": "Q71.8",
+  "title": "Other reduction defects of upper limb(s)",
+  "inclusion": [
+    "Congenital shortening of upper limb(s)"
+  ],
+  "exclusion": [
+    "inborn errors of metabolism"
+  ],
+  "children": null
+}

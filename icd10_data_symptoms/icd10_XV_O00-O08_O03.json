@@ -1,0 +1,34 @@
+{
+    "icd10code": "O03",
+    "type": "modifiedcategory",
+    "title": "Spontaneous abortion : incomplete, complicated by delayed or excessive haemorrhage",
+    "chapter": "Pregnancy, childbirth and the puerperium",
+    "chapterCode": "XV",
+    "block": "Pregnancy with abortive outcome",
+    "blockCode": "O00-O08",
+    "category": "Spontaneous abortion",
+    "categoryCode": "O03",
+    "subcategory": "",
+    "inclusion": [
+        "miscarriage",
+        "With conditions in O08.1"
+    ],
+    "exclusion": [
+        "Certain diseases or injuries complicating pregnancy, childbirth and the puerperium classified elsewhere: external causes (for mortality)",
+        "Certain diseases or injuries complicating pregnancy, childbirth and the puerperium classified elsewhere: injury, poisoning and certain other consequences of external cause",
+        "Certain diseases or injuries complicating pregnancy, childbirth and the puerperium classified elsewhere: mental and behavioural disorders associated with the puerperium",
+        "Certain diseases or injuries complicating pregnancy, childbirth and the puerperium classified elsewhere: obstetrical tetanus",
+        "Certain diseases or injuries complicating pregnancy, childbirth and the puerperium classified elsewhere: postpartum necrosis of pituitary gland",
+        "Certain diseases or injuries complicating pregnancy, childbirth and the puerperium classified elsewhere: puerperal osteomalacia",
+        "supervision of: high-risk pregnancy",
+        "supervision of: normal pregnancy",
+        "continuing pregnancy in multiple gestation after abortion of one fetus or more"
+    ],
+    "symptoms": [
+        "vaginal bleeding",
+        "abdominal pain",
+        "cramping",
+        "passage of tissue",
+        "back pain"
+    ]
+}

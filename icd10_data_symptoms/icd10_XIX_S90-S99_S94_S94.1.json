@@ -1,0 +1,35 @@
+{
+    "icd10code": "S94.1",
+    "type": "subcategory",
+    "title": "Injury of medial plantar nerve",
+    "chapter": "Injury, poisoning and certain other consequences of external causes",
+    "chapterCode": "XIX",
+    "block": "Injuries to the ankle and foot",
+    "blockCode": "S90-S99",
+    "category": "Injury of nerves at ankle and foot level",
+    "categoryCode": "S94",
+    "subcategory": "S94.1",
+    "inclusion": null,
+    "exclusion": [
+        "birth trauma",
+        "obstetric trauma",
+        "malunion of fracture",
+        "nonunion of fracture [pseudarthrosis]",
+        "pathological fracture",
+        "pathological fracture with osteoporosis",
+        "stress fracture",
+        "bilateral involvement of ankle and foot",
+        "burns and corrosions",
+        "fracture of ankle and malleolus",
+        "frostbite",
+        "injuries of leg, level unspecified",
+        "insect bite or sting, venomous"
+    ],
+    "symptoms": [
+        "pain",
+        "numbness",
+        "tingling",
+        "weakness",
+        "sensory loss"
+    ]
+}

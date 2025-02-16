@@ -1,0 +1,25 @@
+{
+    "icd10code": "C43.4",
+    "type": "subcategory",
+    "title": "Malignant neoplasm: Malignant melanoma of scalp and neck",
+    "chapter": "Neoplasms",
+    "chapterCode": "II",
+    "block": "Melanoma and other malignant neoplasms of skin",
+    "blockCode": "C43-C44",
+    "category": "Malignant melanoma of skin",
+    "categoryCode": "C43",
+    "subcategory": "C43.4",
+    "inclusion": [
+        "morphology codes M872-M879 with behaviour code /3"
+    ],
+    "exclusion": [
+        "malignant melanoma of skin of genital organs"
+    ],
+    "symptoms": [
+        "change in skin color",
+        "growth of a new pigmented lesion",
+        "itching or pain in a mole",
+        "bleeding or oozing from a lesion",
+        "changes"
+    ]
+}

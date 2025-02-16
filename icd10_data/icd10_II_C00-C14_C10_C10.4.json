@@ -1,0 +1,18 @@
+{
+  "type": "subcategory",
+  "chapterCode": "II",
+  "chapter": "Neoplasms",
+  "blockCode": "C00-C14",
+  "block": "Malignant neoplasms of lip, oral cavity and pharynx",
+  "categoryCode": "C10",
+  "category": "Malignant neoplasm of oropharynx",
+  "subcategory": "C10.4",
+  "title": "Malignant neoplasm: Branchial cleft",
+  "inclusion": [
+    "Branchial cyst [site of neoplasm]"
+  ],
+  "exclusion": [
+    "tonsil"
+  ],
+  "children": null
+}

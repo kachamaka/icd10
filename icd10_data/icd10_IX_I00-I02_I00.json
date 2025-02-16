@@ -1,0 +1,27 @@
+{
+  "type": "category",
+  "chapterCode": "IX",
+  "chapter": "Diseases of the circulatory system",
+  "blockCode": "I00-I02",
+  "block": "Acute rheumatic fever",
+  "categoryCode": "I00",
+  "category": "Rheumatic fever without mention of heart involvement",
+  "subcategory": "",
+  "title": "Rheumatic fever without mention of heart involvement",
+  "inclusion": [
+    "Arthritis, rheumatic, acute or subacute"
+  ],
+  "exclusion": [
+    "certain conditions originating in the perinatal period",
+    "certain infectious and parasitic diseases",
+    "complications of pregnancy, childbirth and the puerperium",
+    "congenital malformations, deformations and chromosomal abnormalities",
+    "endocrine, nutritional and metabolic diseases",
+    "injury, poisoning and certain other consequences of external causes",
+    "neoplasms",
+    "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+    "systemic connective tissue disorders",
+    "transient cerebral ischaemic attacks and related syndromes"
+  ],
+  "children": null
+}

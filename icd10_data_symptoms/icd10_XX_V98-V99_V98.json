@@ -1,0 +1,33 @@
+{
+    "icd10code": "V98",
+    "type": "category",
+    "title": "Other specified transport accidents",
+    "chapter": "External causes of morbidity and mortality",
+    "chapterCode": "XX",
+    "block": "Other and unspecified transport accidents",
+    "blockCode": "V98-V99",
+    "category": "Other specified transport accidents",
+    "categoryCode": "V98",
+    "subcategory": "",
+    "inclusion": [
+        "accident to, on or involving: cable-car, not on rails",
+        "accident to, on or involving: ice-yacht",
+        "accident to, on or involving: land-yacht",
+        "accident to, on or involving: ski chair-lift",
+        "accident to, on or involving: ski-lift with gondola",
+        "caught or dragged by cable-car, not on rails",
+        "fall or jump from cable-car, not on rails",
+        "object thrown from or in cable-car, not on rails"
+    ],
+    "exclusion": [
+        "accidents to persons engaged in the maintenance or repair of transport equipment or vehicle (not in motion) unless injured by another vehicle in motion",
+        "accidents involving vehicles, but unrelated to the hazards associated with the means of transportation, e.g., injuries received in a fight on board ship; transport vehicle involved in a cataclysm; finger crushed when shutting car door",
+        "assault by crashing of motor vehicle",
+        "event of undetermined intent",
+        "intentional self-harm",
+        "collision involving: pedal cyclist"
+    ],
+    "symptoms": [
+        "asymptomatic"
+    ]
+}

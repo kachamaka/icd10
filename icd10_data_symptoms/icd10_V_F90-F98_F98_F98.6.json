@@ -1,0 +1,32 @@
+{
+    "icd10code": "F98.6",
+    "type": "subcategory",
+    "title": "Cluttering",
+    "chapter": "Mental and behavioural disorders",
+    "chapterCode": "V",
+    "block": "Behavioural and emotional disorders with onset usually occurring in childhood and adolescence",
+    "blockCode": "F90-F98",
+    "category": "Other behavioural and emotional disorders with onset usually occurring in childhood and adolescence",
+    "categoryCode": "F98",
+    "subcategory": "F98.6",
+    "inclusion": [
+        "disorders of psychological development"
+    ],
+    "exclusion": [
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "breath-holding spells",
+        "gender identity disorder of childhood",
+        "Kleine-Levin syndrome",
+        "obsessive-compulsive disorder",
+        "sleep disorders due to emotional causes",
+        "stuttering",
+        "tic disorders"
+    ],
+    "symptoms": [
+        "bedwetting",
+        "nighttime urination",
+        "involuntary urination",
+        "sleep disturbances",
+        "emotional stress"
+    ]
+}

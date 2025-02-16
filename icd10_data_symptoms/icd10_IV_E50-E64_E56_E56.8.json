@@ -1,0 +1,27 @@
+{
+    "icd10code": "E56.8",
+    "type": "subcategory",
+    "title": "Deficiency of other vitamins",
+    "chapter": "Endocrine, nutritional and metabolic diseases",
+    "chapterCode": "IV",
+    "block": "Other nutritional deficiencies",
+    "blockCode": "E50-E64",
+    "category": "Other vitamin deficiencies",
+    "categoryCode": "E56",
+    "subcategory": "E56.8",
+    "inclusion": null,
+    "exclusion": [
+        "complications of pregnancy, childbirth and the puerperium",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "transitory endocrine and metabolic disorders specific to fetus and newborn",
+        "diabetes mellitus (in): malnutrition-related",
+        "sequelae of other vitamin deficiencies"
+    ],
+    "symptoms": [
+        "hair loss",
+        "easy bruising",
+        "poor wound healing",
+        "chronic diarrhea",
+        "dermatitis"
+    ]
+}

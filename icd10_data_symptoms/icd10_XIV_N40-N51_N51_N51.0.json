@@ -1,0 +1,34 @@
+{
+    "icd10code": "N51.0",
+    "type": "subcategory",
+    "title": "Disorders of prostate in diseases classified elsewhere",
+    "chapter": "Diseases of the genitourinary system",
+    "chapterCode": "XIV",
+    "block": "Diseases of male genital organs",
+    "blockCode": "N40-N51",
+    "category": "Disorders of male genital organs in diseases classified elsewhere",
+    "categoryCode": "N51",
+    "subcategory": "N51.0",
+    "inclusion": [
+        "Prostatitis: gonococcal",
+        "Prostatitis: trichomonal",
+        "Prostatitis: tuberculous"
+    ],
+    "exclusion": [
+        "certain conditions originating in the perinatal period",
+        "certain infectious and parasitic diseases",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified"
+    ],
+    "symptoms": [
+        "pelvic pain",
+        "urinary discomfort",
+        "fever",
+        "painful ejaculation",
+        "scrotal swelling"
+    ]
+}

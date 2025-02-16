@@ -1,0 +1,26 @@
+{
+    "icd10code": "R00.8",
+    "type": "subcategory",
+    "title": "Other and unspecified abnormalities of heart beat",
+    "chapter": "Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+    "chapterCode": "XVIII",
+    "block": "Symptoms and signs involving the circulatory and respiratory systems",
+    "blockCode": "R00-R09",
+    "category": "Abnormalities of heart beat",
+    "categoryCode": "R00",
+    "subcategory": "R00.8",
+    "inclusion": null,
+    "exclusion": [
+        "abnormal findings on antenatal screening of mother",
+        "certain conditions originating in the perinatal period",
+        "abnormalities originating in the perinatal period",
+        "specified arrhythmias"
+    ],
+    "symptoms": [
+        "palpitations",
+        "irregular heartbeat",
+        "heart fluttering",
+        "abnormal heart sounds",
+        "skipped beats"
+    ]
+}

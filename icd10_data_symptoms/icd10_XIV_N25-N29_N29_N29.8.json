@@ -1,0 +1,33 @@
+{
+    "icd10code": "N29.8",
+    "type": "subcategory",
+    "title": "Other disorders of kidney and ureter in other diseases classified elsewhere",
+    "chapter": "Diseases of the genitourinary system",
+    "chapterCode": "XIV",
+    "block": "Other disorders of kidney and ureter",
+    "blockCode": "N25-N29",
+    "category": "Other disorders of kidney and ureter in diseases classified elsewhere",
+    "categoryCode": "N29",
+    "subcategory": "N29.8",
+    "inclusion": [
+        "Cystine storage disease"
+    ],
+    "exclusion": [
+        "certain conditions originating in the perinatal period",
+        "certain infectious and parasitic diseases",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "with urolithiasis"
+    ],
+    "symptoms": [
+        "flank pain",
+        "hematuria",
+        "fever",
+        "dysuria",
+        "urinary frequency"
+    ]
+}

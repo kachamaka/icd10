@@ -1,0 +1,33 @@
+{
+    "icd10code": "Q28.1",
+    "type": "subcategory",
+    "title": "Other malformations of precerebral vessels",
+    "chapter": "Congenital malformations, deformations and chromosomal abnormalities",
+    "chapterCode": "XVII",
+    "block": "Congenital malformations of the circulatory system",
+    "blockCode": "Q20-Q28",
+    "category": "Other congenital malformations of circulatory system",
+    "categoryCode": "Q28",
+    "subcategory": "Q28.1",
+    "inclusion": [
+        "Congenital: malformation of precerebral vessels NOS",
+        "Congenital: precerebral aneurysm (nonruptured)"
+    ],
+    "exclusion": [
+        "inborn errors of metabolism",
+        "congenital aneurysm: NOS",
+        "congenital aneurysm: coronary",
+        "congenital aneurysm: peripheral",
+        "congenital aneurysm: pulmonary",
+        "congenital aneurysm: retinal",
+        "ruptured: cerebral arteriovenous malformation",
+        "ruptured: malformation of precerebral vessels"
+    ],
+    "symptoms": [
+        "abnormal blood vessel structure",
+        "headaches",
+        "seizures",
+        "developmental delays",
+        "heart murmur"
+    ]
+}

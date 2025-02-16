@@ -1,0 +1,27 @@
+{
+    "icd10code": "C83.7",
+    "type": "subcategory",
+    "title": "Burkitt lymphoma",
+    "chapter": "Neoplasms",
+    "chapterCode": "II",
+    "block": "Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",
+    "blockCode": "C81-C96",
+    "category": "Non-follicular lymphoma",
+    "categoryCode": "C83",
+    "subcategory": "C83.7",
+    "inclusion": [
+        "Atypical Burkitt lymphoma",
+        "“Burkitt-like” lymphoma"
+    ],
+    "exclusion": [
+        "secondary and unspecified neoplasm of lymph nodes",
+        "mature B-cell leukaemia Burkitt-type"
+    ],
+    "symptoms": [
+        "unexplained weight loss",
+        "persistent fatigue",
+        "enlarged lymph nodes",
+        "severe night sweats",
+        "frequent fever"
+    ]
+}

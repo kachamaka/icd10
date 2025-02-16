@@ -1,0 +1,30 @@
+{
+    "icd10code": "Q25.7",
+    "type": "subcategory",
+    "title": "Other congenital malformations of pulmonary artery",
+    "chapter": "Congenital malformations, deformations and chromosomal abnormalities",
+    "chapterCode": "XVII",
+    "block": "Congenital malformations of the circulatory system",
+    "blockCode": "Q20-Q28",
+    "category": "Congenital malformations of great arteries",
+    "categoryCode": "Q25",
+    "subcategory": "Q25.7",
+    "inclusion": [
+        "Aberrant pulmonary artery",
+        "Agenesis of pulmonary artery",
+        "Aneurysm, congenital of pulmonary artery",
+        "Anomaly of pulmonary artery",
+        "Hypoplasia of pulmonary artery",
+        "Pulmonary arteriovenous aneurysm"
+    ],
+    "exclusion": [
+        "inborn errors of metabolism"
+    ],
+    "symptoms": [
+        "heart murmur",
+        "cyanosis",
+        "fatigue",
+        "shortness of breath",
+        "poor growth"
+    ]
+}

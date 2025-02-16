@@ -1,0 +1,34 @@
+{
+    "icd10code": "N60.3",
+    "type": "subcategory",
+    "title": "Fibrosclerosis of breast",
+    "chapter": "Diseases of the genitourinary system",
+    "chapterCode": "XIV",
+    "block": "Disorders of breast",
+    "blockCode": "N60-N64",
+    "category": "Benign mammary dysplasia",
+    "categoryCode": "N60",
+    "subcategory": "N60.3",
+    "inclusion": [
+        "fibrocystic mastopathy",
+        "Cystic mastopathy with epithelial proliferation"
+    ],
+    "exclusion": [
+        "certain conditions originating in the perinatal period",
+        "certain infectious and parasitic diseases",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "disorders of breast associated with childbirth"
+    ],
+    "symptoms": [
+        "breast pain",
+        "breast lumps",
+        "tenderness",
+        "thickening of tissue",
+        "discomfort or heaviness"
+    ]
+}

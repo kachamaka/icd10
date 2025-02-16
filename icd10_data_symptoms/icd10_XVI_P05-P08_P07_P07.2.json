@@ -1,0 +1,32 @@
+{
+    "icd10code": "P07.2",
+    "type": "subcategory",
+    "title": "Extreme immaturity",
+    "chapter": "Certain conditions originating in the perinatal period",
+    "chapterCode": "XVI",
+    "block": "Disorders related to length of gestation and fetal growth",
+    "blockCode": "P05-P08",
+    "category": "Disorders related to short gestation and low birth weight, not elsewhere classified",
+    "categoryCode": "P07",
+    "subcategory": "P07.2",
+    "inclusion": [
+        "conditions that have their origin in the perinatal period even though death or morbidity occurs later",
+        "the listed conditions, without further specification, as the cause of mortality, morbidity or additional care, in newborn"
+    ],
+    "exclusion": [
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "tetanus neonatorum",
+        "whooping cough",
+        "jaundice due to drugs or toxins transmitted from mother or given to newborn"
+    ],
+    "symptoms": [
+        "low birth weight",
+        "small size for gestational age",
+        "difficulty feeding",
+        "underdeveloped organs",
+        "poor temperature regulation"
+    ]
+}

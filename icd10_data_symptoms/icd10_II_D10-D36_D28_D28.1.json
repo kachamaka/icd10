@@ -1,0 +1,25 @@
+{
+    "icd10code": "D28.1",
+    "type": "subcategory",
+    "title": "Benign neoplasm: Vagina",
+    "chapter": "Neoplasms",
+    "chapterCode": "II",
+    "block": "Benign neoplasms",
+    "blockCode": "D10-D36",
+    "category": "Benign neoplasm of other and unspecified female genital organs",
+    "categoryCode": "D28",
+    "subcategory": "D28.1",
+    "inclusion": [
+        "morphology codes with behaviour code /0",
+        "adenomatous polyp",
+        "skin of female genital organs"
+    ],
+    "exclusion": null,
+    "symptoms": [
+        "abnormal uterine bleeding",
+        "pain during intercourse",
+        "pelvic pain",
+        "menorrhagia",
+        "dysmenorrhea"
+    ]
+}

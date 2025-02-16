@@ -1,0 +1,26 @@
+{
+    "icd10code": "V79.8",
+    "type": "subcategory",
+    "title": "Bus occupant [any] injured in other specified transport accidents",
+    "chapter": "External causes of morbidity and mortality",
+    "chapterCode": "XX",
+    "block": "Bus occupant injured in transport accident",
+    "blockCode": "V70-V79",
+    "category": "Bus occupant injured in other and unspecified transport accidents",
+    "categoryCode": "V79",
+    "subcategory": "V79.8",
+    "inclusion": [
+        "Trapped by door or other part of bus"
+    ],
+    "exclusion": [
+        "accidents to persons engaged in the maintenance or repair of transport equipment or vehicle (not in motion) unless injured by another vehicle in motion",
+        "accidents involving vehicles, but unrelated to the hazards associated with the means of transportation, e.g., injuries received in a fight on board ship; transport vehicle involved in a cataclysm; finger crushed when shutting car door",
+        "assault by crashing of motor vehicle",
+        "event of undetermined intent",
+        "intentional self-harm",
+        "collision involving: pedal cyclist"
+    ],
+    "symptoms": [
+        "asymptomatic"
+    ]
+}

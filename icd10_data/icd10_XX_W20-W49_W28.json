@@ -1,0 +1,19 @@
+{
+  "type": "category",
+  "chapterCode": "XX",
+  "chapter": "External causes of morbidity and mortality",
+  "blockCode": "W20-W49",
+  "block": "Exposure to inanimate mechanical forces",
+  "categoryCode": "W28",
+  "category": "Contact with powered lawnmower",
+  "subcategory": "",
+  "title": "Contact with powered lawnmower",
+  "inclusion": null,
+  "exclusion": [
+    "assault",
+    "contact or collision with animals or persons",
+    "intentional self-harm",
+    "exposure to electric current"
+  ],
+  "children": null
+}

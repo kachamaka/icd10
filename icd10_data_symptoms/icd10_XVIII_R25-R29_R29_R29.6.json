@@ -1,0 +1,32 @@
+{
+    "icd10code": "R29.6",
+    "type": "subcategory",
+    "title": "Tendency to fall, not elsewhere classified",
+    "chapter": "Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+    "chapterCode": "XVIII",
+    "block": "Symptoms and signs involving the nervous and musculoskeletal systems",
+    "blockCode": "R25-R29",
+    "category": "Other symptoms and signs involving the nervous and musculoskeletal systems",
+    "categoryCode": "R29",
+    "subcategory": "R29.6",
+    "inclusion": [
+        "Tendency to fall because of old age or other unclear health problems"
+    ],
+    "exclusion": [
+        "abnormal findings on antenatal screening of mother",
+        "certain conditions originating in the perinatal period",
+        "accidents",
+        "difficulty in walking",
+        "dizziness and giddiness",
+        "falls causing injury",
+        "falls due to diseases classified elsewhere",
+        "syncope and collapse"
+    ],
+    "symptoms": [
+        "loss of muscle coordination",
+        "difficulty walking",
+        "unsteady movements",
+        "impaired hand-eye coordination",
+        "clumsiness"
+    ]
+}

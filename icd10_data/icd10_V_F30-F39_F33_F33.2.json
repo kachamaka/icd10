@@ -1,0 +1,27 @@
+{
+  "type": "subcategory",
+  "chapterCode": "V",
+  "chapter": "Mental and behavioural disorders",
+  "blockCode": "F30-F39",
+  "block": "Mood [affective] disorders",
+  "categoryCode": "F33",
+  "category": "Recurrent depressive disorder",
+  "subcategory": "F33.2",
+  "title": "Recurrent depressive disorder, current episode severe without psychotic symptoms",
+  "inclusion": [
+    "disorders of psychological development",
+    "recurrent episodes of: depressive reaction",
+    "recurrent episodes of: psychogenic depression",
+    "recurrent episodes of: reactive depression",
+    "seasonal depressive disorder",
+    "Endogenous depression without psychotic symptoms",
+    "Major depression, recurrent without psychotic symptoms",
+    "Manic-depressive psychosis, depressed type without psychotic symptoms",
+    "Vital depression, recurrent without psychotic symptoms"
+  ],
+  "exclusion": [
+    "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+    "recurrent brief depressive episodes"
+  ],
+  "children": null
+}

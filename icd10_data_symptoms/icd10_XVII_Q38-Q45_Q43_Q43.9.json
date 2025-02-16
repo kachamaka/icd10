@@ -1,0 +1,23 @@
+{
+    "icd10code": "Q43.9",
+    "type": "subcategory",
+    "title": "Congenital malformation of intestine, unspecified",
+    "chapter": "Congenital malformations, deformations and chromosomal abnormalities",
+    "chapterCode": "XVII",
+    "block": "Other congenital malformations of the digestive system",
+    "blockCode": "Q38-Q45",
+    "category": "Other congenital malformations of intestine",
+    "categoryCode": "Q43",
+    "subcategory": "Q43.9",
+    "inclusion": null,
+    "exclusion": [
+        "inborn errors of metabolism"
+    ],
+    "symptoms": [
+        "digestive issues",
+        "abdominal pain",
+        "nausea",
+        "bloating",
+        "intestinal obstruction"
+    ]
+}

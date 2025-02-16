@@ -1,0 +1,36 @@
+{
+    "icd10code": "T13.2",
+    "type": "subcategory",
+    "title": "Dislocation, sprain and strain of unspecified joint and ligament of lower limb, level unspecified",
+    "chapter": "Injury, poisoning and certain other consequences of external causes",
+    "chapterCode": "XIX",
+    "block": "Injuries to unspecified part of trunk, limb or body region",
+    "blockCode": "T08-T14",
+    "category": "Other injuries of lower limb, level unspecified",
+    "categoryCode": "T13",
+    "subcategory": "T13.2",
+    "inclusion": null,
+    "exclusion": [
+        "birth trauma",
+        "obstetric trauma",
+        "malunion of fracture",
+        "nonunion of fracture [pseudarthrosis]",
+        "pathological fracture",
+        "pathological fracture with osteoporosis",
+        "stress fracture",
+        "burns and corrosions",
+        "frostbite",
+        "injuries involving multiple body regions",
+        "insect bite or sting, venomous",
+        "injuries involving multiple body regions",
+        "fracture of lower limb, level unspecified",
+        "injuries involving multiple body regions"
+    ],
+    "symptoms": [
+        "pain",
+        "swelling",
+        "bruising",
+        "limited mobility",
+        "numbness"
+    ]
+}

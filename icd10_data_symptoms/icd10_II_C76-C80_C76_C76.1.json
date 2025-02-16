@@ -1,0 +1,30 @@
+{
+    "icd10code": "C76.1",
+    "type": "subcategory",
+    "title": "Malignant neoplasm of other and ill-defined sites: Thorax",
+    "chapter": "Neoplasms",
+    "chapterCode": "II",
+    "block": "Malignant neoplasms of ill-defined, secondary and unspecified sites",
+    "blockCode": "C76-C80",
+    "category": "Malignant neoplasm of other and ill-defined sites",
+    "categoryCode": "C76",
+    "subcategory": "C76.1",
+    "inclusion": [
+        "Axilla NOS",
+        "Intrathoracic NOS",
+        "Thoracic NOS"
+    ],
+    "exclusion": [
+        "malignant neoplasm of: genitourinary tract NOS: female",
+        "malignant neoplasm of: genitourinary tract NOS: male",
+        "malignant neoplasm of: lymphoid, haematopoietic and related tissue",
+        "malignant neoplasm of: unspecified site"
+    ],
+    "symptoms": [
+        "unexplained weight loss",
+        "persistent pain or discomfort",
+        "swelling or lumps",
+        "fatigue",
+        "loss of appetite"
+    ]
+}

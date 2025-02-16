@@ -1,0 +1,34 @@
+{
+    "icd10code": "N99.3",
+    "type": "subcategory",
+    "title": "Prolapse of vaginal vault after hysterectomy",
+    "chapter": "Diseases of the genitourinary system",
+    "chapterCode": "XIV",
+    "block": "Other disorders of the genitourinary system",
+    "blockCode": "N99-N99",
+    "category": "Postprocedural disorders of genitourinary system, not elsewhere classified",
+    "categoryCode": "N99",
+    "subcategory": "N99.3",
+    "inclusion": null,
+    "exclusion": [
+        "certain conditions originating in the perinatal period",
+        "certain infectious and parasitic diseases",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "irradiation cystitis",
+        "postoophorectomy osteoporosis",
+        "postoophorectomy osteoporosis with pathological fracture",
+        "states associated with artificial menopause"
+    ],
+    "symptoms": [
+        "bladder dysfunction",
+        "urinary retention",
+        "frequent urination",
+        "urinary incontinence",
+        "difficulty urinating"
+    ]
+}

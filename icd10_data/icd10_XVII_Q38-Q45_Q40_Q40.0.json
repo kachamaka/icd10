@@ -1,0 +1,22 @@
+{
+  "type": "subcategory",
+  "chapterCode": "XVII",
+  "chapter": "Congenital malformations, deformations and chromosomal abnormalities",
+  "blockCode": "Q38-Q45",
+  "block": "Other congenital malformations of the digestive system",
+  "categoryCode": "Q40",
+  "category": "Other congenital malformations of upper alimentary tract",
+  "subcategory": "Q40.0",
+  "title": "Congenital hypertrophic pyloric stenosis",
+  "inclusion": [
+    "Congenital or infantile: constriction of pylorus",
+    "Congenital or infantile: hypertrophy of pylorus",
+    "Congenital or infantile: spasm of pylorus",
+    "Congenital or infantile: stenosis of pylorus",
+    "Congenital or infantile: stricture of pylorus"
+  ],
+  "exclusion": [
+    "inborn errors of metabolism"
+  ],
+  "children": null
+}

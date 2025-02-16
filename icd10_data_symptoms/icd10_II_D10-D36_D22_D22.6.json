@@ -1,0 +1,28 @@
+{
+    "icd10code": "D22.6",
+    "type": "subcategory",
+    "title": "Melanocytic naevi of upper limb, including shoulder",
+    "chapter": "Neoplasms",
+    "chapterCode": "II",
+    "block": "Benign neoplasms",
+    "blockCode": "D10-D36",
+    "category": "Melanocytic naevi",
+    "categoryCode": "D22",
+    "subcategory": "D22.6",
+    "inclusion": [
+        "morphology codes with behaviour code /0",
+        "morphology codes M872-M879 with behaviour code /0",
+        "naevus: NOS",
+        "naevus: blue",
+        "naevus: hairy",
+        "naevus: pigmented"
+    ],
+    "exclusion": null,
+    "symptoms": [
+        "changes in skin color",
+        "irregular border on skin spot",
+        "rapid growth of a skin spot",
+        "skin itchiness",
+        "bleeding or oozing from a skin"
+    ]
+}

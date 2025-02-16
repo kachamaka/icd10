@@ -1,0 +1,27 @@
+{
+    "icd10code": "R29.2",
+    "type": "subcategory",
+    "title": "Abnormal reflex",
+    "chapter": "Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+    "chapterCode": "XVIII",
+    "block": "Symptoms and signs involving the nervous and musculoskeletal systems",
+    "blockCode": "R25-R29",
+    "category": "Other symptoms and signs involving the nervous and musculoskeletal systems",
+    "categoryCode": "R29",
+    "subcategory": "R29.2",
+    "inclusion": null,
+    "exclusion": [
+        "abnormal findings on antenatal screening of mother",
+        "certain conditions originating in the perinatal period",
+        "abnormal pupillary reflex",
+        "hyperactive gag reflex",
+        "vasovagal reaction or syncope"
+    ],
+    "symptoms": [
+        "unsteadiness",
+        "impaired coordination",
+        "difficulty walking",
+        "loss of balance",
+        "frequent falls"
+    ]
+}

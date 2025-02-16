@@ -1,0 +1,31 @@
+{
+    "icd10code": "K01.0",
+    "type": "subcategory",
+    "title": "Embedded teeth",
+    "chapter": "Diseases of the digestive system",
+    "chapterCode": "XI",
+    "block": "Diseases of oral cavity, salivary glands and jaws",
+    "blockCode": "K00-K14",
+    "category": "Embedded and impacted teeth",
+    "categoryCode": "K01",
+    "subcategory": "K01.0",
+    "inclusion": null,
+    "exclusion": [
+        "certain conditions originating in the perinatal period",
+        "certain infectious and parasitic diseases",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "embedded and impacted teeth with abnormal position of such teeth or adjacent teeth"
+    ],
+    "symptoms": [
+        "impacted tooth",
+        "pain in affected area",
+        "swelling around the tooth",
+        "difficulty chewing",
+        "gum redness"
+    ]
+}

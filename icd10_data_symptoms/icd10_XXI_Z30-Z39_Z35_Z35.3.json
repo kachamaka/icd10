@@ -1,0 +1,20 @@
+{
+    "icd10code": "Z35.3",
+    "type": "subcategory",
+    "title": "Supervision of pregnancy with history of insufficient antenatal care",
+    "chapter": "Factors influencing health status and contact with health services",
+    "chapterCode": "XXI",
+    "block": "Persons encountering health services in circumstances related to reproduction",
+    "blockCode": "Z30-Z39",
+    "category": "Supervision of high-risk pregnancy",
+    "categoryCode": "Z35",
+    "subcategory": "Z35.3",
+    "inclusion": [
+        "Pregnancy: concealed",
+        "Pregnancy: hidden"
+    ],
+    "exclusion": null,
+    "symptoms": [
+        "asymptomatic"
+    ]
+}

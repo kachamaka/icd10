@@ -1,0 +1,21 @@
+{
+    "icd10code": "C78.1",
+    "type": "subcategory",
+    "title": "Secondary malignant neoplasm of mediastinum",
+    "chapter": "Neoplasms",
+    "chapterCode": "II",
+    "block": "Malignant neoplasms of ill-defined, secondary and unspecified sites",
+    "blockCode": "C76-C80",
+    "category": "Secondary malignant neoplasm of respiratory and digestive organs",
+    "categoryCode": "C78",
+    "subcategory": "C78.1",
+    "inclusion": null,
+    "exclusion": null,
+    "symptoms": [
+        "chronic cough",
+        "shortness of breath",
+        "chest pain",
+        "weight loss",
+        "blood in sputum"
+    ]
+}

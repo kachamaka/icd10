@@ -1,0 +1,26 @@
+{
+    "icd10code": "Q71.4",
+    "type": "subcategory",
+    "title": "Longitudinal reduction defect of radius",
+    "chapter": "Congenital malformations, deformations and chromosomal abnormalities",
+    "chapterCode": "XVII",
+    "block": "Congenital malformations and deformations of the musculoskeletal system",
+    "blockCode": "Q65-Q79",
+    "category": "Reduction defects of upper limb",
+    "categoryCode": "Q71",
+    "subcategory": "Q71.4",
+    "inclusion": [
+        "Clubhand (congenital)",
+        "Radial clubhand"
+    ],
+    "exclusion": [
+        "inborn errors of metabolism"
+    ],
+    "symptoms": [
+        "underdeveloped forearm",
+        "reduced hand function",
+        "shortened bones",
+        "absent fingers",
+        "limb asymmetry"
+    ]
+}

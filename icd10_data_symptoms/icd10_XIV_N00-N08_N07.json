@@ -1,0 +1,39 @@
+{
+    "icd10code": "N07",
+    "type": "modifiedcategory",
+    "title": "Hereditary nephropathy, not elsewhere classified : focal and segmental glomerular lesions",
+    "chapter": "Diseases of the genitourinary system",
+    "chapterCode": "XIV",
+    "block": "Glomerular diseases",
+    "blockCode": "N00-N08",
+    "category": "Hereditary nephropathy, not elsewhere classified",
+    "categoryCode": "N07",
+    "subcategory": "",
+    "inclusion": [
+        "Focal and segmental: hyalinosis",
+        "Focal and segmental: sclerosis",
+        "Focal glomerulonephritis"
+    ],
+    "exclusion": [
+        "certain conditions originating in the perinatal period",
+        "certain infectious and parasitic diseases",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "hypertensive renal disease",
+        "renal tubulo-interstitial disorders in diseases classified elsewhere",
+        "hereditary amyloid nephropathy",
+        "nail patella syndrome",
+        "non-neuropathic heredofamilial amyloidosis"
+    ],
+    "symptoms": [
+        "hematuria",
+        "proteinuria",
+        "hypertension",
+        "edema",
+        "reduced kidney function"
+    ]
+}

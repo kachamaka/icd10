@@ -1,0 +1,21 @@
+{
+  "type": "category",
+  "chapterCode": "XX",
+  "chapter": "External causes of morbidity and mortality",
+  "blockCode": "X20-X29",
+  "block": "Contact with venomous animals and plants",
+  "categoryCode": "X24",
+  "category": "Contact with centipedes and venomous millipedes (tropical)",
+  "subcategory": "",
+  "title": "Contact with centipedes and venomous millipedes (tropical)",
+  "inclusion": [
+    "chemical released by: animal",
+    "chemical released by: insect",
+    "release of venom through fangs, hairs, spines, tentacles and other venom apparatus",
+    "venomous bites and stings"
+  ],
+  "exclusion": [
+    "ingestion of poisonous animals or plants"
+  ],
+  "children": null
+}

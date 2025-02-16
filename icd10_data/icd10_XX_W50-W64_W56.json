@@ -1,0 +1,19 @@
+{
+  "type": "category",
+  "chapterCode": "XX",
+  "chapter": "External causes of morbidity and mortality",
+  "blockCode": "W50-W64",
+  "block": "Exposure to animate mechanical forces",
+  "categoryCode": "W56",
+  "category": "Contact with marine animal",
+  "subcategory": "",
+  "title": "Contact with marine animal",
+  "inclusion": [
+    "Bitten or struck by marine animal"
+  ],
+  "exclusion": [
+    "bites, venomous",
+    "stings (venomous)"
+  ],
+  "children": null
+}

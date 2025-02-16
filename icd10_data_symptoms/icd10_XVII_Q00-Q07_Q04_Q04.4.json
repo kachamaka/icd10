@@ -1,0 +1,25 @@
+{
+    "icd10code": "Q04.4",
+    "type": "subcategory",
+    "title": "Septo-optic dysplasia",
+    "chapter": "Congenital malformations, deformations and chromosomal abnormalities",
+    "chapterCode": "XVII",
+    "block": "Congenital malformations of the nervous system",
+    "blockCode": "Q00-Q07",
+    "category": "Other congenital malformations of brain",
+    "categoryCode": "Q04",
+    "subcategory": "Q04.4",
+    "inclusion": null,
+    "exclusion": [
+        "inborn errors of metabolism",
+        "cyclopia",
+        "macrocephaly"
+    ],
+    "symptoms": [
+        "developmental delay",
+        "motor skill deficits",
+        "intellectual disability",
+        "seizures",
+        "poor coordination"
+    ]
+}

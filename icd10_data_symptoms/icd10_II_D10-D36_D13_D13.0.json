@@ -1,0 +1,23 @@
+{
+    "icd10code": "D13.0",
+    "type": "subcategory",
+    "title": "Benign neoplasm: Oesophagus",
+    "chapter": "Neoplasms",
+    "chapterCode": "II",
+    "block": "Benign neoplasms",
+    "blockCode": "D10-D36",
+    "category": "Benign neoplasm of other and ill-defined parts of digestive system",
+    "categoryCode": "D13",
+    "subcategory": "D13.0",
+    "inclusion": [
+        "morphology codes with behaviour code /0"
+    ],
+    "exclusion": null,
+    "symptoms": [
+        "abdominal pain",
+        "loss of appetite",
+        "bloody stool",
+        "unexplained weight loss",
+        "changes in bowel habits"
+    ]
+}

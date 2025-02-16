@@ -1,0 +1,17 @@
+{
+    "icd10code": "Y21",
+    "type": "category",
+    "title": "Drowning and submersion, undetermined intent",
+    "chapter": "External causes of morbidity and mortality",
+    "chapterCode": "XX",
+    "block": "Event of undetermined intent",
+    "blockCode": "Y10-Y34",
+    "category": "Drowning and submersion, undetermined intent",
+    "categoryCode": "Y21",
+    "subcategory": "",
+    "inclusion": null,
+    "exclusion": null,
+    "symptoms": [
+        "asymptomatic"
+    ]
+}

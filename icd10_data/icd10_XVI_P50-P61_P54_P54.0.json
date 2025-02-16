@@ -1,0 +1,31 @@
+{
+  "type": "subcategory",
+  "chapterCode": "XVI",
+  "chapter": "Certain conditions originating in the perinatal period",
+  "blockCode": "P50-P61",
+  "block": "Haemorrhagic and haematological disorders of fetus and newborn",
+  "categoryCode": "P54",
+  "category": "Other neonatal haemorrhages",
+  "subcategory": "P54.0",
+  "title": "Neonatal haematemesis",
+  "inclusion": [
+    "conditions that have their origin in the perinatal period even though death or morbidity occurs later"
+  ],
+  "exclusion": [
+    "congenital malformations, deformations and chromosomal abnormalities",
+    "endocrine, nutritional and metabolic diseases",
+    "injury, poisoning and certain other consequences of external causes",
+    "neoplasms",
+    "tetanus neonatorum",
+    "whooping cough",
+    "congenital stenosis and stricture of bile ducts",
+    "Crigler-Najjar syndrome",
+    "Dubin-Johnson syndrome",
+    "Gilbert syndrome",
+    "hereditary haemolytic anaemias",
+    "due to inborn errors of metabolism",
+    "kernicterus",
+    "that due to swallowed maternal blood"
+  ],
+  "children": null
+}

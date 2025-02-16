@@ -1,0 +1,34 @@
+{
+    "icd10code": "Q38.3",
+    "type": "subcategory",
+    "title": "Other congenital malformations of tongue",
+    "chapter": "Congenital malformations, deformations and chromosomal abnormalities",
+    "chapterCode": "XVII",
+    "block": "Other congenital malformations of the digestive system",
+    "blockCode": "Q38-Q45",
+    "category": "Other congenital malformations of tongue, mouth and pharynx",
+    "categoryCode": "Q38",
+    "subcategory": "Q38.3",
+    "inclusion": [
+        "Aglossia",
+        "Bifid tongue",
+        "Congenital: adhesion of tongue",
+        "Congenital: fissure of tongue",
+        "Congenital: malformation NOS of tongue",
+        "Hypoglossia",
+        "Hypoplasia of tongue",
+        "Microglossia"
+    ],
+    "exclusion": [
+        "inborn errors of metabolism",
+        "macrostomia",
+        "microstomia"
+    ],
+    "symptoms": [
+        "speech difficulties",
+        "feeding challenges",
+        "pain during movement",
+        "impaired tongue mobility",
+        "difficulties with oral hygiene"
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "icd10code": "Q83.3",
+    "type": "subcategory",
+    "title": "Accessory nipple",
+    "chapter": "Congenital malformations, deformations and chromosomal abnormalities",
+    "chapterCode": "XVII",
+    "block": "Other congenital malformations",
+    "blockCode": "Q80-Q89",
+    "category": "Congenital malformations of breast",
+    "categoryCode": "Q83",
+    "subcategory": "Q83.3",
+    "inclusion": [
+        "Supernumerary nipple"
+    ],
+    "exclusion": [
+        "inborn errors of metabolism",
+        "absence of pectoral muscle"
+    ],
+    "symptoms": [
+        "accessory nipple",
+        "breast tissue asymmetry",
+        "extra breast tissue",
+        "tenderness in accessory tissue",
+        "milk secretion from accessory nipple"
+    ]
+}

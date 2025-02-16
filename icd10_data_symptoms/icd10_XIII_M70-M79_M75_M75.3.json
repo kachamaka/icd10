@@ -1,0 +1,35 @@
+{
+    "icd10code": "M75.3",
+    "type": "subcategory",
+    "title": "Calcific tendinitis of shoulder",
+    "chapter": "Diseases of the musculoskeletal system and connective tissue",
+    "chapterCode": "XIII",
+    "block": "Other soft tissue disorders",
+    "blockCode": "M70-M79",
+    "category": "Shoulder lesions",
+    "categoryCode": "M75",
+    "subcategory": "M75.3",
+    "inclusion": [
+        "Calcified bursa of shoulder"
+    ],
+    "exclusion": [
+        "certain conditions originating in the perinatal period",
+        "certain disorders of the temporomandibular joint",
+        "certain infectious and parasitic diseases",
+        "compartment syndrome",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "stress fracture of vertebra"
+    ],
+    "symptoms": [
+        "shoulder pain",
+        "stiffness",
+        "limited range of motion",
+        "difficulty sleeping on the affected side",
+        "arm weakness"
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "icd10code": "T34.1",
+    "type": "subcategory",
+    "title": "Frostbite with tissue necrosis of neck",
+    "chapter": "Injury, poisoning and certain other consequences of external causes",
+    "chapterCode": "XIX",
+    "block": "Frostbite",
+    "blockCode": "T33-T35",
+    "category": "Frostbite with tissue necrosis",
+    "categoryCode": "T34",
+    "subcategory": "T34.1",
+    "inclusion": null,
+    "exclusion": [
+        "birth trauma",
+        "obstetric trauma",
+        "malunion of fracture",
+        "nonunion of fracture [pseudarthrosis]",
+        "pathological fracture",
+        "pathological fracture with osteoporosis",
+        "stress fracture",
+        "adverse effects of drugs and medicaments",
+        "frostbite with tissue necrosis involving multiple body regions"
+    ],
+    "symptoms": [
+        "blisters",
+        "numbness",
+        "skin discoloration",
+        "pain",
+        "tissue damage"
+    ]
+}

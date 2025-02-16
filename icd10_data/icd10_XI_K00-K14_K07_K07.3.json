@@ -1,0 +1,34 @@
+{
+  "type": "subcategory",
+  "chapterCode": "XI",
+  "chapter": "Diseases of the digestive system",
+  "blockCode": "K00-K14",
+  "block": "Diseases of oral cavity, salivary glands and jaws",
+  "categoryCode": "K07",
+  "category": "Dentofacial anomalies [including malocclusion]",
+  "subcategory": "K07.3",
+  "title": "Anomalies of tooth position",
+  "inclusion": [
+    "Crowding of tooth or teeth",
+    "Diastema of tooth or teeth",
+    "Displacement of tooth or teeth",
+    "Rotation of tooth or teeth",
+    "Spacing, abnormal of tooth or teeth",
+    "Transposition of tooth or teeth",
+    "Impacted or embedded teeth with abnormal position of such teeth or adjacent teeth"
+  ],
+  "exclusion": [
+    "certain conditions originating in the perinatal period",
+    "certain infectious and parasitic diseases",
+    "complications of pregnancy, childbirth and the puerperium",
+    "congenital malformations, deformations and chromosomal abnormalities",
+    "endocrine, nutritional and metabolic diseases",
+    "injury, poisoning and certain other consequences of external causes",
+    "neoplasms",
+    "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+    "hemifacial atrophy or hypertrophy",
+    "unilateral condylar hyperplasia or hypoplasia",
+    "embedded and impacted teeth without abnormal position"
+  ],
+  "children": null
+}

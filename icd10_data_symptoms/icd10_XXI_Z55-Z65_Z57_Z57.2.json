@@ -1,0 +1,17 @@
+{
+    "icd10code": "Z57.2",
+    "type": "subcategory",
+    "title": "Occupational exposure to dust",
+    "chapter": "Factors influencing health status and contact with health services",
+    "chapterCode": "XXI",
+    "block": "Persons with potential health hazards related to socioeconomic and psychosocial circumstances",
+    "blockCode": "Z55-Z65",
+    "category": "Occupational exposure to risk-factors",
+    "categoryCode": "Z57",
+    "subcategory": "Z57.2",
+    "inclusion": null,
+    "exclusion": null,
+    "symptoms": [
+        "asymptomatic"
+    ]
+}

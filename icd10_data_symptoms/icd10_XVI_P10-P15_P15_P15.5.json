@@ -1,0 +1,30 @@
+{
+    "icd10code": "P15.5",
+    "type": "subcategory",
+    "title": "Birth injury to external genitalia",
+    "chapter": "Certain conditions originating in the perinatal period",
+    "chapterCode": "XVI",
+    "block": "Birth trauma",
+    "blockCode": "P10-P15",
+    "category": "Other birth injuries",
+    "categoryCode": "P15",
+    "subcategory": "P15.5",
+    "inclusion": [
+        "conditions that have their origin in the perinatal period even though death or morbidity occurs later"
+    ],
+    "exclusion": [
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "tetanus neonatorum",
+        "whooping cough"
+    ],
+    "symptoms": [
+        "brachial plexus injury",
+        "weakness in the arm",
+        "limited shoulder movement",
+        "partial arm paralysis",
+        "decreased sensation in the arm"
+    ]
+}

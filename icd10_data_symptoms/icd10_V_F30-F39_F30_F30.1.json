@@ -1,0 +1,26 @@
+{
+    "icd10code": "F30.1",
+    "type": "subcategory",
+    "title": "Mania without psychotic symptoms",
+    "chapter": "Mental and behavioural disorders",
+    "chapterCode": "V",
+    "block": "Mood [affective] disorders",
+    "blockCode": "F30-F39",
+    "category": "Manic episode",
+    "categoryCode": "F30",
+    "subcategory": "F30.1",
+    "inclusion": [
+        "disorders of psychological development",
+        "bipolar disorder, single manic episode"
+    ],
+    "exclusion": [
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified"
+    ],
+    "symptoms": [
+        "elevated mood",
+        "increased energy",
+        "reduced need for sleep",
+        "grandiosity",
+        "rapid speech"
+    ]
+}

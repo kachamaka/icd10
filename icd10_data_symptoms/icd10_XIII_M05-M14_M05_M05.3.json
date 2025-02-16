@@ -1,0 +1,43 @@
+{
+    "icd10code": "M05.3",
+    "type": "subcategory",
+    "title": "Rheumatoid arthritis with involvement of other organs and systems",
+    "chapter": "Diseases of the musculoskeletal system and connective tissue",
+    "chapterCode": "XIII",
+    "block": "Inflammatory polyarthropathies",
+    "blockCode": "M05-M14",
+    "category": "Seropositive rheumatoid arthritis",
+    "categoryCode": "M05",
+    "subcategory": "M05.3",
+    "inclusion": [
+        "Disorders affecting predominantly peripheral (limb) joints",
+        "Rheumatoid: carditis",
+        "Rheumatoid: endocarditis",
+        "Rheumatoid: myocarditis",
+        "Rheumatoid: myopathy",
+        "Rheumatoid: pericarditis",
+        "Rheumatoid: polyneuropathy"
+    ],
+    "exclusion": [
+        "certain conditions originating in the perinatal period",
+        "certain disorders of the temporomandibular joint",
+        "certain infectious and parasitic diseases",
+        "compartment syndrome",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "soft tissue pain, psychogenic",
+        "bursitis: due to use, overuse and pressure",
+        "adult-onset Still disease"
+    ],
+    "symptoms": [
+        "joint pain",
+        "swelling",
+        "fatigue",
+        "morning stiffness",
+        "muscle weakness"
+    ]
+}

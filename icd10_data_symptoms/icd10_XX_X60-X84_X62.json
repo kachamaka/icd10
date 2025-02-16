@@ -1,0 +1,33 @@
+{
+    "icd10code": "X62",
+    "type": "category",
+    "title": "Intentional self-poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",
+    "chapter": "External causes of morbidity and mortality",
+    "chapterCode": "XX",
+    "block": "Intentional self-harm",
+    "blockCode": "X60-X84",
+    "category": "Intentional self-poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",
+    "categoryCode": "X62",
+    "subcategory": "",
+    "inclusion": [
+        "purposely self-inflicted poisoning or injury",
+        "suicide (attempted)",
+        "cannabis (derivatives)",
+        "cocaine",
+        "codeine",
+        "heroin",
+        "lysergide [LSD]",
+        "mescaline",
+        "methadone",
+        "morphine",
+        "opium (alkaloids)"
+    ],
+    "exclusion": null,
+    "symptoms": [
+        "nausea",
+        "vomiting",
+        "dizziness",
+        "confusion",
+        "altered consciousness"
+    ]
+}

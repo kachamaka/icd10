@@ -1,0 +1,39 @@
+{
+  "type": "subcategory",
+  "chapterCode": "XIX",
+  "chapter": "Injury, poisoning and certain other consequences of external causes",
+  "blockCode": "S30-S39",
+  "block": "Injuries to the abdomen, lower back, lumbar spine and pelvis",
+  "categoryCode": "S36",
+  "category": "Injury of intra-abdominal organs",
+  "subcategory": "S36.6",
+  "title": "Injury of rectum",
+  "inclusion": [
+    "abdominal wall",
+    "anus",
+    "buttock",
+    "external genitalia",
+    "flank",
+    "groin"
+  ],
+  "exclusion": [
+    "birth trauma",
+    "obstetric trauma",
+    "malunion of fracture",
+    "nonunion of fracture [pseudarthrosis]",
+    "pathological fracture",
+    "pathological fracture with osteoporosis",
+    "stress fracture",
+    "burns and corrosions",
+    "effects of foreign body in: anus and rectum",
+    "effects of foreign body in: genitourinary tract",
+    "effects of foreign body in: stomach, small intestine and colon",
+    "fracture of spine NOS",
+    "frostbite",
+    "injuries of: back NOS",
+    "injuries of: spinal cord NOS",
+    "injuries of: trunk NOS",
+    "insect bite or sting, venomous"
+  ],
+  "children": null
+}

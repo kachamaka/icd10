@@ -1,0 +1,24 @@
+{
+    "icd10code": "C19",
+    "type": "category",
+    "title": "Malignant neoplasm of rectosigmoid junction",
+    "chapter": "Neoplasms",
+    "chapterCode": "II",
+    "block": "Malignant neoplasms of digestive organs",
+    "blockCode": "C15-C26",
+    "category": "Malignant neoplasm of rectosigmoid junction",
+    "categoryCode": "C19",
+    "subcategory": "",
+    "inclusion": [
+        "Colon with rectum",
+        "Rectosigmoid (colon)"
+    ],
+    "exclusion": null,
+    "symptoms": [
+        "rectal bleeding",
+        "change in bowel habits",
+        "abdominal pain",
+        "unexplained weight loss",
+        "fatigue"
+    ]
+}

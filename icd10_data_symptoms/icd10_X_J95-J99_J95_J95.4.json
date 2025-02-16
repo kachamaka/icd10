@@ -1,0 +1,33 @@
+{
+    "icd10code": "J95.4",
+    "type": "subcategory",
+    "title": "Mendelson syndrome",
+    "chapter": "Diseases of the respiratory system",
+    "chapterCode": "X",
+    "block": "Other diseases of the respiratory system",
+    "blockCode": "J95-J99",
+    "category": "Postprocedural respiratory disorders, not elsewhere classified",
+    "categoryCode": "J95",
+    "subcategory": "J95.4",
+    "inclusion": [
+        "Chemical pneumonitis due to aspiration during anaesthesia"
+    ],
+    "exclusion": [
+        "certain conditions originating in the perinatal period",
+        "certain infectious and parasitic diseases",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "emphysema (subcutaneous) resulting from a procedure",
+        "pulmonary manifestations due to radiation",
+        "complicating: labour and delivery",
+        "complicating: pregnancy",
+        "complicating: puerperium"
+    ],
+    "symptoms": [
+        "asymptomatic"
+    ]
+}

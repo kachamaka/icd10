@@ -1,0 +1,34 @@
+{
+  "type": "category",
+  "chapterCode": "III",
+  "chapter": "Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism",
+  "blockCode": "D65-D69",
+  "block": "Coagulation defects, purpura and other haemorrhagic conditions",
+  "categoryCode": "D65",
+  "category": "Disseminated intravascular coagulation [defibrination syndrome]",
+  "subcategory": "",
+  "title": "Disseminated intravascular coagulation [defibrination syndrome]",
+  "inclusion": [
+    "Afibrinogenaemia, acquired",
+    "Consumption coagulopathy",
+    "Diffuse or disseminated intravascular coagulation [DIC]",
+    "Fibrinolytic haemorrhage, acquired",
+    "Purpura: fibrinolytic",
+    "Purpura: fulminans"
+  ],
+  "exclusion": [
+    "autoimmune disease (systemic) NOS",
+    "certain conditions originating in the perinatal period",
+    "complications of pregnancy, childbirth and the puerperium",
+    "congenital malformations, deformations and chromosomal abnormalities",
+    "endocrine, nutritional and metabolic diseases",
+    "human immunodeficiency virus [HIV] disease",
+    "injury, poisoning and certain other consequences of external causes",
+    "neoplasms",
+    "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+    "that (complicating): abortion or ectopic or molar pregnancy",
+    "that (complicating): in newborn",
+    "that (complicating): pregnancy, childbirth and the puerperium , , ,"
+  ],
+  "children": null
+}

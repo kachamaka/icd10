@@ -1,0 +1,25 @@
+{
+    "icd10code": "Y17.0",
+    "type": "subcategory",
+    "title": "Poisoning by and exposure to carbon monoxide from combustion engine exhaust, undetermined intent",
+    "chapter": "External causes of morbidity and mortality",
+    "chapterCode": "XX",
+    "block": "Event of undetermined intent",
+    "blockCode": "Y10-Y34",
+    "category": "Poisoning by and exposure to carbon monoxide and other gases and vapours, undetermined intent",
+    "categoryCode": "Y17",
+    "subcategory": "Y17.0",
+    "inclusion": [
+        "Exhaust (gas) from: any type of combustion engine",
+        "Exhaust (gas) from: gas engine",
+        "Exhaust (gas) from: motor pump",
+        "Exhaust (gas) from: motor vehicle, not in transit"
+    ],
+    "exclusion": [
+        "carbon monoxide from smoke, fire and flames, undetermined intent",
+        "metal fumes and vapours"
+    ],
+    "symptoms": [
+        "asymptomatic"
+    ]
+}

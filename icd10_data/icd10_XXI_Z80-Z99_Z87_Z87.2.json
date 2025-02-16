@@ -1,0 +1,22 @@
+{
+  "type": "subcategory",
+  "chapterCode": "XXI",
+  "chapter": "Factors influencing health status and contact with health services",
+  "blockCode": "Z80-Z99",
+  "block": "Persons with potential health hazards related to family and personal history and certain conditions influencing health status",
+  "categoryCode": "Z87",
+  "category": "Personal history of other diseases and conditions",
+  "subcategory": "Z87.2",
+  "title": "Personal history of diseases of the skin and subcutaneous tissue",
+  "inclusion": [
+    "Conditions classifiable to L00-L99"
+  ],
+  "exclusion": [
+    "follow-up examination",
+    "follow-up medical care and convalescence",
+    "when family or personal history is the reason for special screening or other examination or investigation",
+    "when the possibility that the fetus might be affected is the reason for observation or action during pregnancy",
+    "follow-up medical care and convalescence"
+  ],
+  "children": null
+}

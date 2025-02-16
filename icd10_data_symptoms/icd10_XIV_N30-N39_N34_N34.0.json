@@ -1,0 +1,42 @@
+{
+    "icd10code": "N34.0",
+    "type": "subcategory",
+    "title": "Urethral abscess",
+    "chapter": "Diseases of the genitourinary system",
+    "chapterCode": "XIV",
+    "block": "Other diseases of urinary system",
+    "blockCode": "N30-N39",
+    "category": "Urethritis and urethral syndrome",
+    "categoryCode": "N34",
+    "subcategory": "N34.0",
+    "inclusion": [
+        "Abscess (of): Cowper gland",
+        "Abscess (of): Littré gland",
+        "Abscess (of): periurethral",
+        "Abscess (of): urethral (gland)"
+    ],
+    "exclusion": [
+        "certain conditions originating in the perinatal period",
+        "certain infectious and parasitic diseases",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "urinary infection (complicating): abortion or ectopic or molar pregnancy",
+        "urinary infection (complicating): pregnancy, childbirth and the puerperium",
+        "urinary infection (complicating): with urolithiasis",
+        "haematuria: NOS",
+        "irradiation cystitis",
+        "trigonitis",
+        "urethral caruncle"
+    ],
+    "symptoms": [
+        "dysuria",
+        "urinary frequency",
+        "urgency",
+        "suprapubic pain",
+        "hematuria"
+    ]
+}

@@ -1,0 +1,33 @@
+{
+    "icd10code": "F20.2",
+    "type": "subcategory",
+    "title": "Catatonic schizophrenia",
+    "chapter": "Mental and behavioural disorders",
+    "chapterCode": "V",
+    "block": "Schizophrenia, schizotypal and delusional disorders",
+    "blockCode": "F20-F29",
+    "category": "Schizophrenia",
+    "categoryCode": "F20",
+    "subcategory": "F20.2",
+    "inclusion": [
+        "disorders of psychological development",
+        "Catatonic stupor",
+        "Schizophrenic: catalepsy",
+        "Schizophrenic: catatonia",
+        "Schizophrenic: flexibilitas cerea"
+    ],
+    "exclusion": [
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "schizophrenia: acute (undifferentiated)",
+        "schizophrenia: cyclic",
+        "schizophrenic reaction",
+        "schizotypal disorder"
+    ],
+    "symptoms": [
+        "negative symptoms",
+        "social withdrawal",
+        "lack of motivation",
+        "blunted affect",
+        "speech poverty"
+    ]
+}

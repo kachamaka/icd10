@@ -1,0 +1,45 @@
+{
+    "icd10code": "T30.6",
+    "type": "subcategory",
+    "title": "Corrosion of second degree, body region unspecified",
+    "chapter": "Injury, poisoning and certain other consequences of external causes",
+    "chapterCode": "XIX",
+    "block": "Burns and corrosions of multiple and unspecified body regions",
+    "blockCode": "T29-T32",
+    "category": "Burn and corrosion, body region unspecified",
+    "categoryCode": "T30",
+    "subcategory": "T30.6",
+    "inclusion": [
+        "burns (thermal) from: electrical heating appliances",
+        "burns (thermal) from: electricity",
+        "burns (thermal) from: flame",
+        "burns (thermal) from: friction",
+        "burns (thermal) from: hot air and hot gases",
+        "burns (thermal) from: hot objects",
+        "burns (thermal) from: lightning",
+        "burns (thermal) from: radiation",
+        "chemical burns [corrosions] (external)(internal)",
+        "scalds",
+        "Second-degree corrosion NOS"
+    ],
+    "exclusion": [
+        "birth trauma",
+        "obstetric trauma",
+        "malunion of fracture",
+        "nonunion of fracture [pseudarthrosis]",
+        "pathological fracture",
+        "pathological fracture with osteoporosis",
+        "stress fracture",
+        "erythema [dermatitis] ab igne",
+        "radiation-related disorders of the skin and subcutaneous tissue",
+        "sunburn",
+        "blast injury syndrome"
+    ],
+    "symptoms": [
+        "burning pain",
+        "redness",
+        "swelling",
+        "blistering",
+        "peeling skin"
+    ]
+}

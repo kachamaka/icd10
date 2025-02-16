@@ -1,0 +1,17 @@
+{
+  "type": "category",
+  "chapterCode": "II",
+  "chapter": "Neoplasms",
+  "blockCode": "C15-C26",
+  "block": "Malignant neoplasms of digestive organs",
+  "categoryCode": "C19",
+  "category": "Malignant neoplasm of rectosigmoid junction",
+  "subcategory": "",
+  "title": "Malignant neoplasm of rectosigmoid junction",
+  "inclusion": [
+    "Colon with rectum",
+    "Rectosigmoid (colon)"
+  ],
+  "exclusion": null,
+  "children": null
+}

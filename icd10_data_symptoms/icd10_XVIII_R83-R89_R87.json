@@ -1,0 +1,36 @@
+{
+    "icd10code": "R87",
+    "type": "modifiedcategory",
+    "title": "Abnormal findings in specimens from female genital organs : abnormal level of enzymes",
+    "chapter": "Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+    "chapterCode": "XVIII",
+    "block": "Abnormal findings on examination of other body fluids, substances and tissues, without diagnosis",
+    "blockCode": "R83-R89",
+    "category": "Abnormal findings in specimens from female genital organs",
+    "categoryCode": "R87",
+    "subcategory": "",
+    "inclusion": [
+        "Abnormal findings in secretions and smears from: cervix uteri",
+        "Abnormal findings in secretions and smears from: vagina",
+        "Abnormal findings in secretions and smears from: vulva"
+    ],
+    "exclusion": [
+        "abnormal findings on antenatal screening of mother",
+        "certain conditions originating in the perinatal period",
+        "abnormal findings on: antenatal screening of mother",
+        "abnormal findings on: examination of: blood, without diagnosis",
+        "abnormal findings on: examination of: urine, without diagnosis",
+        "diagnostic abnormal findings classified elsewhere - see Alphabetical Index",
+        "carcinoma in situ",
+        "dysplasia of: cervix uteri",
+        "dysplasia of: vagina",
+        "dysplasia of: vulva"
+    ],
+    "symptoms": [
+        "abnormal cervical smear",
+        "cervical dysplasia",
+        "hpv infection",
+        "atypical squamous cells",
+        "inflammation of cervix"
+    ]
+}

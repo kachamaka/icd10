@@ -1,0 +1,30 @@
+{
+    "icd10code": "O65.3",
+    "type": "subcategory",
+    "title": "Obstructed labour due to pelvic outlet and mid-cavity contraction",
+    "chapter": "Pregnancy, childbirth and the puerperium",
+    "chapterCode": "XV",
+    "block": "Complications of labour and delivery",
+    "blockCode": "O60-O75",
+    "category": "Obstructed labour due to maternal pelvic abnormality",
+    "categoryCode": "O65",
+    "subcategory": "O65.3",
+    "inclusion": null,
+    "exclusion": [
+        "Certain diseases or injuries complicating pregnancy, childbirth and the puerperium classified elsewhere: external causes (for mortality)",
+        "Certain diseases or injuries complicating pregnancy, childbirth and the puerperium classified elsewhere: injury, poisoning and certain other consequences of external cause",
+        "Certain diseases or injuries complicating pregnancy, childbirth and the puerperium classified elsewhere: mental and behavioural disorders associated with the puerperium",
+        "Certain diseases or injuries complicating pregnancy, childbirth and the puerperium classified elsewhere: obstetrical tetanus",
+        "Certain diseases or injuries complicating pregnancy, childbirth and the puerperium classified elsewhere: postpartum necrosis of pituitary gland",
+        "Certain diseases or injuries complicating pregnancy, childbirth and the puerperium classified elsewhere: puerperal osteomalacia",
+        "supervision of: high-risk pregnancy",
+        "supervision of: normal pregnancy"
+    ],
+    "symptoms": [
+        "prolonged labor",
+        "failure to progress",
+        "uterine inertia",
+        "abnormal contractions",
+        "maternal exhaustion"
+    ]
+}

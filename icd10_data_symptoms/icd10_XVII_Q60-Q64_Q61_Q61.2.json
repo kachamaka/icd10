@@ -1,0 +1,27 @@
+{
+    "icd10code": "Q61.2",
+    "type": "subcategory",
+    "title": "Polycystic kidney, autosomal dominant",
+    "chapter": "Congenital malformations, deformations and chromosomal abnormalities",
+    "chapterCode": "XVII",
+    "block": "Congenital malformations of the urinary system",
+    "blockCode": "Q60-Q64",
+    "category": "Cystic kidney disease",
+    "categoryCode": "Q61",
+    "subcategory": "Q61.2",
+    "inclusion": [
+        "Polycystic kidney, adult type"
+    ],
+    "exclusion": [
+        "inborn errors of metabolism",
+        "cyst of kidney (acquired)",
+        "Potter syndrome"
+    ],
+    "symptoms": [
+        "kidney cysts",
+        "flank pain",
+        "hematuria",
+        "hypertension",
+        "urinary tract infections"
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "icd10code": "Z01.6",
+    "type": "subcategory",
+    "title": "Radiological examination, not elsewhere classified",
+    "chapter": "Factors influencing health status and contact with health services",
+    "chapterCode": "XXI",
+    "block": "Persons encountering health services for examination and investigation",
+    "blockCode": "Z00-Z13",
+    "category": "Other special examinations and investigations of persons without complaint or reported diagnosis",
+    "categoryCode": "Z01",
+    "subcategory": "Z01.6",
+    "inclusion": [
+        "routine examination of specific system",
+        "Routine: chest X-ray",
+        "Routine: mammogram"
+    ],
+    "exclusion": [
+        "examinations related to pregnancy and reproduction",
+        "examination for: administrative purposes",
+        "examination for: suspected conditions, ruled out",
+        "special screening examinations"
+    ],
+    "symptoms": [
+        "vision changes",
+        "eye discomfort",
+        "blurry vision",
+        "redness in eyes",
+        "dry eyes"
+    ]
+}

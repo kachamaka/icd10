@@ -1,0 +1,22 @@
+{
+  "type": "subcategory",
+  "chapterCode": "V",
+  "chapter": "Mental and behavioural disorders",
+  "blockCode": "F30-F39",
+  "block": "Mood [affective] disorders",
+  "categoryCode": "F30",
+  "category": "Manic episode",
+  "subcategory": "F30.2",
+  "title": "Mania with psychotic symptoms",
+  "inclusion": [
+    "disorders of psychological development",
+    "bipolar disorder, single manic episode",
+    "Mania with: mood-congruent psychotic symptoms",
+    "Mania with: mood-incongruent psychotic symptoms",
+    "Manic stupor"
+  ],
+  "exclusion": [
+    "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified"
+  ],
+  "children": null
+}

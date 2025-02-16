@@ -1,0 +1,34 @@
+{
+    "icd10code": "G36.0",
+    "type": "subcategory",
+    "title": "Neuromyelitis optica [Devic]",
+    "chapter": "Diseases of the nervous system",
+    "chapterCode": "VI",
+    "block": "Demyelinating diseases of the central nervous system",
+    "blockCode": "G35-G37",
+    "category": "Other acute disseminated demyelination",
+    "categoryCode": "G36",
+    "subcategory": "G36.0",
+    "inclusion": [
+        "Demyelination in optic neuritis"
+    ],
+    "exclusion": [
+        "certain conditions originating in the perinatal period",
+        "certain infectious and parasitic diseases",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "postinfectious encephalitis and encephalomyelitis NOS",
+        "optic neuritis NOS"
+    ],
+    "symptoms": [
+        "vision changes",
+        "muscle weakness",
+        "numbness",
+        "balance problems",
+        "and fatigue"
+    ]
+}

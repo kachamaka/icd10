@@ -1,0 +1,41 @@
+{
+    "icd10code": "O08.0",
+    "type": "subcategory",
+    "title": "Genital tract and pelvic infection following abortion and ectopic and molar pregnancy",
+    "chapter": "Pregnancy, childbirth and the puerperium",
+    "chapterCode": "XV",
+    "block": "Pregnancy with abortive outcome",
+    "blockCode": "O00-O08",
+    "category": "Complications following abortion and ectopic and molar pregnancy",
+    "categoryCode": "O08",
+    "subcategory": "O08.0",
+    "inclusion": [
+        "Endometritis following conditions classifiable to O00-O07",
+        "Oophoritis following conditions classifiable to O00-O07",
+        "Parametritis following conditions classifiable to O00-O07",
+        "Pelvic peritonitis following conditions classifiable to O00-O07",
+        "Salpingitis following conditions classifiable to O00-O07",
+        "Salpingo-oophoritis following conditions classifiable to O00-O07",
+        "Sepsis following conditions classifiable to O00-O07"
+    ],
+    "exclusion": [
+        "Certain diseases or injuries complicating pregnancy, childbirth and the puerperium classified elsewhere: external causes (for mortality)",
+        "Certain diseases or injuries complicating pregnancy, childbirth and the puerperium classified elsewhere: injury, poisoning and certain other consequences of external cause",
+        "Certain diseases or injuries complicating pregnancy, childbirth and the puerperium classified elsewhere: mental and behavioural disorders associated with the puerperium",
+        "Certain diseases or injuries complicating pregnancy, childbirth and the puerperium classified elsewhere: obstetrical tetanus",
+        "Certain diseases or injuries complicating pregnancy, childbirth and the puerperium classified elsewhere: postpartum necrosis of pituitary gland",
+        "Certain diseases or injuries complicating pregnancy, childbirth and the puerperium classified elsewhere: puerperal osteomalacia",
+        "supervision of: high-risk pregnancy",
+        "supervision of: normal pregnancy",
+        "continuing pregnancy in multiple gestation after abortion of one fetus or more",
+        "septic or septicopyaemic embolism",
+        "urinary tract infection"
+    ],
+    "symptoms": [
+        "fever",
+        "abdominal pain",
+        "heavy bleeding",
+        "pelvic inflammation",
+        "fatigue"
+    ]
+}

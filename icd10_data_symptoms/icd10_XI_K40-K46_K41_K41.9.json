@@ -1,0 +1,35 @@
+{
+    "icd10code": "K41.9",
+    "type": "subcategory",
+    "title": "Unilateral or unspecified femoral hernia, without obstruction or gangrene",
+    "chapter": "Diseases of the digestive system",
+    "chapterCode": "XI",
+    "block": "Hernia",
+    "blockCode": "K40-K46",
+    "category": "Femoral hernia",
+    "categoryCode": "K41",
+    "subcategory": "K41.9",
+    "inclusion": [
+        "hernia: acquired",
+        "hernia: congenital [except diaphragmatic or hiatus]",
+        "hernia: recurrent",
+        "Femoral hernia (unilateral) NOS"
+    ],
+    "exclusion": [
+        "certain conditions originating in the perinatal period",
+        "certain infectious and parasitic diseases",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified"
+    ],
+    "symptoms": [
+        "groin pain",
+        "bulge in the groin region",
+        "abdominal discomfort",
+        "nausea",
+        "vomiting"
+    ]
+}

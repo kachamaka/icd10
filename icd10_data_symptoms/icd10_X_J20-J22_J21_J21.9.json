@@ -1,0 +1,35 @@
+{
+    "icd10code": "J21.9",
+    "type": "subcategory",
+    "title": "Acute bronchiolitis, unspecified",
+    "chapter": "Diseases of the respiratory system",
+    "chapterCode": "X",
+    "block": "Other acute lower respiratory infections",
+    "blockCode": "J20-J22",
+    "category": "Acute bronchiolitis",
+    "categoryCode": "J21",
+    "subcategory": "J21.9",
+    "inclusion": [
+        "with bronchospasm",
+        "Bronchiolitis (acute)"
+    ],
+    "exclusion": [
+        "certain conditions originating in the perinatal period",
+        "certain infectious and parasitic diseases",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "chronic obstructive pulmonary disease with acute: exacerbation NOS",
+        "chronic obstructive pulmonary disease with acute: lower respiratory infection"
+    ],
+    "symptoms": [
+        "cough",
+        "wheezing",
+        "shortness of breath",
+        "fever",
+        "nasal congestion"
+    ]
+}

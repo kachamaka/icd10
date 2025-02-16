@@ -1,0 +1,26 @@
+{
+  "type": "subcategory",
+  "chapterCode": "IV",
+  "chapter": "Endocrine, nutritional and metabolic diseases",
+  "blockCode": "E20-E35",
+  "block": "Disorders of other endocrine glands",
+  "categoryCode": "E29",
+  "category": "Testicular dysfunction",
+  "subcategory": "E29.8",
+  "title": "Other testicular dysfunction",
+  "inclusion": null,
+  "exclusion": [
+    "complications of pregnancy, childbirth and the puerperium",
+    "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+    "transitory endocrine and metabolic disorders specific to fetus and newborn",
+    "galactorrhoea",
+    "gynaecomastia",
+    "androgen resistance syndrome",
+    "azoospermia or oligospermia NOS",
+    "isolated gonadotropin deficiency",
+    "Klinefelter syndrome",
+    "postprocedural testicular hypofunction",
+    "testicular feminization (syndrome)"
+  ],
+  "children": null
+}

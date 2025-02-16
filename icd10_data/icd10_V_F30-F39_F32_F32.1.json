@@ -1,0 +1,24 @@
+{
+  "type": "subcategory",
+  "chapterCode": "V",
+  "chapter": "Mental and behavioural disorders",
+  "blockCode": "F30-F39",
+  "block": "Mood [affective] disorders",
+  "categoryCode": "F32",
+  "category": "Depressive episode",
+  "subcategory": "F32.1",
+  "title": "Moderate depressive episode",
+  "inclusion": [
+    "disorders of psychological development",
+    "single episodes of: depressive reaction",
+    "single episodes of: psychogenic depression",
+    "single episodes of: reactive depression"
+  ],
+  "exclusion": [
+    "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+    "adjustment disorder",
+    "recurrent depressive disorder",
+    "when associated with conduct disorders in F91.-"
+  ],
+  "children": null
+}

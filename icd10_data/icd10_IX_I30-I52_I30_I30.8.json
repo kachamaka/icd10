@@ -1,0 +1,28 @@
+{
+  "type": "subcategory",
+  "chapterCode": "IX",
+  "chapter": "Diseases of the circulatory system",
+  "blockCode": "I30-I52",
+  "block": "Other forms of heart disease",
+  "categoryCode": "I30",
+  "category": "Acute pericarditis",
+  "subcategory": "I30.8",
+  "title": "Other forms of acute pericarditis",
+  "inclusion": [
+    "acute pericardial effusion"
+  ],
+  "exclusion": [
+    "certain conditions originating in the perinatal period",
+    "certain infectious and parasitic diseases",
+    "complications of pregnancy, childbirth and the puerperium",
+    "congenital malformations, deformations and chromosomal abnormalities",
+    "endocrine, nutritional and metabolic diseases",
+    "injury, poisoning and certain other consequences of external causes",
+    "neoplasms",
+    "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+    "systemic connective tissue disorders",
+    "transient cerebral ischaemic attacks and related syndromes",
+    "rheumatoid carditis"
+  ],
+  "children": null
+}

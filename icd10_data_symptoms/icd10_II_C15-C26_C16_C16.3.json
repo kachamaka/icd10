@@ -1,0 +1,23 @@
+{
+    "icd10code": "C16.3",
+    "type": "subcategory",
+    "title": "Malignant neoplasm: Pyloric antrum",
+    "chapter": "Neoplasms",
+    "chapterCode": "II",
+    "block": "Malignant neoplasms of digestive organs",
+    "blockCode": "C15-C26",
+    "category": "Malignant neoplasm of stomach",
+    "categoryCode": "C16",
+    "subcategory": "C16.3",
+    "inclusion": [
+        "Gastric antrum"
+    ],
+    "exclusion": null,
+    "symptoms": [
+        "abdominal pain",
+        "loss of appetite",
+        "heartburn",
+        "nausea and vomiting",
+        "weight loss"
+    ]
+}

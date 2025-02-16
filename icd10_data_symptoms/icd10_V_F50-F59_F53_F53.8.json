@@ -1,0 +1,25 @@
+{
+    "icd10code": "F53.8",
+    "type": "subcategory",
+    "title": "Other mental and behavioural disorders associated with the puerperium, not elsewhere classified",
+    "chapter": "Mental and behavioural disorders",
+    "chapterCode": "V",
+    "block": "Behavioural syndromes associated with physiological disturbances and physical factors",
+    "blockCode": "F50-F59",
+    "category": "Mental and behavioural disorders associated with the puerperium, not elsewhere classified",
+    "categoryCode": "F53",
+    "subcategory": "F53.8",
+    "inclusion": [
+        "disorders of psychological development"
+    ],
+    "exclusion": [
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified"
+    ],
+    "symptoms": [
+        "mood swings",
+        "anxiety",
+        "irritability",
+        "fatigue",
+        "sleep disturbances"
+    ]
+}

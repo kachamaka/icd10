@@ -1,0 +1,23 @@
+{
+  "type": "category",
+  "chapterCode": "XX",
+  "chapter": "External causes of morbidity and mortality",
+  "blockCode": "X85-Y09",
+  "block": "Assault",
+  "categoryCode": "X97",
+  "category": "Assault by smoke, fire and flames",
+  "subcategory": "",
+  "title": "Assault by smoke, fire and flames",
+  "inclusion": [
+    "homicide",
+    "injuries inflicted by another person with intent to injure or kill, by any means",
+    "arson",
+    "cigarettes",
+    "incendiary device"
+  ],
+  "exclusion": [
+    "injuries due to: legal intervention",
+    "injuries due to: operations of war"
+  ],
+  "children": null
+}

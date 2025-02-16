@@ -1,0 +1,23 @@
+{
+  "type": "subcategory",
+  "chapterCode": "XVI",
+  "chapter": "Certain conditions originating in the perinatal period",
+  "blockCode": "P10-P15",
+  "block": "Birth trauma",
+  "categoryCode": "P15",
+  "category": "Other birth injuries",
+  "subcategory": "P15.5",
+  "title": "Birth injury to external genitalia",
+  "inclusion": [
+    "conditions that have their origin in the perinatal period even though death or morbidity occurs later"
+  ],
+  "exclusion": [
+    "congenital malformations, deformations and chromosomal abnormalities",
+    "endocrine, nutritional and metabolic diseases",
+    "injury, poisoning and certain other consequences of external causes",
+    "neoplasms",
+    "tetanus neonatorum",
+    "whooping cough"
+  ],
+  "children": null
+}

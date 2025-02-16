@@ -1,0 +1,24 @@
+{
+    "icd10code": "C54.0",
+    "type": "subcategory",
+    "title": "Malignant neoplasm: Isthmus uteri",
+    "chapter": "Neoplasms",
+    "chapterCode": "II",
+    "block": "Malignant neoplasms of female genital organs",
+    "blockCode": "C51-C58",
+    "category": "Malignant neoplasm of corpus uteri",
+    "categoryCode": "C54",
+    "subcategory": "C54.0",
+    "inclusion": [
+        "skin of female genital organs",
+        "Lower uterine segment"
+    ],
+    "exclusion": null,
+    "symptoms": [
+        "abdominal pain",
+        "unusual vaginal bleeding",
+        "pelvic discomfort",
+        "increased abdominal girth",
+        "persistent indigestion or nausea"
+    ]
+}

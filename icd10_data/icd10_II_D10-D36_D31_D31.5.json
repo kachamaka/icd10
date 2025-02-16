@@ -1,0 +1,22 @@
+{
+  "type": "subcategory",
+  "chapterCode": "II",
+  "chapter": "Neoplasms",
+  "blockCode": "D10-D36",
+  "block": "Benign neoplasms",
+  "categoryCode": "D31",
+  "category": "Benign neoplasm of eye and adnexa",
+  "subcategory": "D31.5",
+  "title": "Benign neoplasm: Lacrimal gland and duct",
+  "inclusion": [
+    "morphology codes with behaviour code /0",
+    "Lacrimal sac",
+    "Nasolacrimal duct"
+  ],
+  "exclusion": [
+    "connective tissue of eyelid",
+    "optic nerve",
+    "skin of eyelid"
+  ],
+  "children": null
+}

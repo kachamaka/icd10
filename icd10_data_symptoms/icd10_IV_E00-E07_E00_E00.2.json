@@ -1,0 +1,29 @@
+{
+    "icd10code": "E00.2",
+    "type": "subcategory",
+    "title": "Congenital iodine-deficiency syndrome, mixed type",
+    "chapter": "Endocrine, nutritional and metabolic diseases",
+    "chapterCode": "IV",
+    "block": "Disorders of thyroid gland",
+    "blockCode": "E00-E07",
+    "category": "Congenital iodine-deficiency syndrome",
+    "categoryCode": "E00",
+    "subcategory": "E00.2",
+    "inclusion": [
+        "endemic conditions associated with environmental iodine deficiency either directly or as a consequence of maternal iodine deficiency. Some of the conditions have no current hypothyroidism but are the consequence of inadequate thyroid hormone secretion in the developing fetus. Environmental goitrogens may be associated.",
+        "Endemic cretinism, mixed type"
+    ],
+    "exclusion": [
+        "complications of pregnancy, childbirth and the puerperium",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "transitory endocrine and metabolic disorders specific to fetus and newborn",
+        "adiposogenital dystrophy"
+    ],
+    "symptoms": [
+        "stunted growth",
+        "delayed sexual development",
+        "coarse facial features",
+        "enlarged tongue",
+        "poor motor skills"
+    ]
+}

@@ -1,0 +1,36 @@
+{
+    "icd10code": "N10",
+    "type": "category",
+    "title": "Acute tubulo-interstitial nephritis",
+    "chapter": "Diseases of the genitourinary system",
+    "chapterCode": "XIV",
+    "block": "Renal tubulo-interstitial diseases",
+    "blockCode": "N10-N16",
+    "category": "Acute tubulo-interstitial nephritis",
+    "categoryCode": "N10",
+    "subcategory": "",
+    "inclusion": [
+        "pyelonephritis",
+        "Acute: infectious interstitial nephritis",
+        "Acute: pyelitis",
+        "Acute: pyelonephritis"
+    ],
+    "exclusion": [
+        "certain conditions originating in the perinatal period",
+        "certain infectious and parasitic diseases",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "pyeloureteritis cystica"
+    ],
+    "symptoms": [
+        "fever",
+        "flank pain",
+        "dysuria",
+        "urinary frequency",
+        "nausea"
+    ]
+}

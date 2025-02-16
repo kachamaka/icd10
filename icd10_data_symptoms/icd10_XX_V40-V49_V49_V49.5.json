@@ -1,0 +1,25 @@
+{
+    "icd10code": "V49.5",
+    "type": "subcategory",
+    "title": "Passenger injured in collision with other and unspecified motor vehicles in traffic accident",
+    "chapter": "External causes of morbidity and mortality",
+    "chapterCode": "XX",
+    "block": "Car occupant injured in transport accident",
+    "blockCode": "V40-V49",
+    "category": "Car occupant injured in other and unspecified transport accidents",
+    "categoryCode": "V49",
+    "subcategory": "V49.5",
+    "inclusion": [
+        "minibus"
+    ],
+    "exclusion": [
+        "accidents to persons engaged in the maintenance or repair of transport equipment or vehicle (not in motion) unless injured by another vehicle in motion",
+        "accidents involving vehicles, but unrelated to the hazards associated with the means of transportation, e.g., injuries received in a fight on board ship; transport vehicle involved in a cataclysm; finger crushed when shutting car door",
+        "assault by crashing of motor vehicle",
+        "event of undetermined intent",
+        "intentional self-harm"
+    ],
+    "symptoms": [
+        "asymptomatic"
+    ]
+}

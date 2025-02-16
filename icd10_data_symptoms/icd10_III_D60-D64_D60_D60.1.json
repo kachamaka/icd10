@@ -1,0 +1,33 @@
+{
+    "icd10code": "D60.1",
+    "type": "subcategory",
+    "title": "Transient acquired pure red cell aplasia",
+    "chapter": "Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism",
+    "chapterCode": "III",
+    "block": "Aplastic and other anaemias",
+    "blockCode": "D60-D64",
+    "category": "Acquired pure red cell aplasia [erythroblastopenia]",
+    "categoryCode": "D60",
+    "subcategory": "D60.1",
+    "inclusion": [
+        "red cell aplasia (acquired)(adult)(with thymoma)"
+    ],
+    "exclusion": [
+        "autoimmune disease (systemic) NOS",
+        "certain conditions originating in the perinatal period",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "human immunodeficiency virus [HIV] disease",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified"
+    ],
+    "symptoms": [
+        "fatigue",
+        "pale skin",
+        "shortness of breath",
+        "dizziness",
+        "cold hands or feet"
+    ]
+}

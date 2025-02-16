@@ -1,0 +1,37 @@
+{
+    "icd10code": "L91.0",
+    "type": "subcategory",
+    "title": "Hypertrophic scar",
+    "chapter": "Diseases of the skin and subcutaneous tissue",
+    "chapterCode": "XII",
+    "block": "Other disorders of the skin and subcutaneous tissue",
+    "blockCode": "L80-L99",
+    "category": "Hypertrophic disorders of skin",
+    "categoryCode": "L91",
+    "subcategory": "L91.0",
+    "inclusion": [
+        "Keloid scar",
+        "Keloid"
+    ],
+    "exclusion": [
+        "certain conditions originating in the perinatal period",
+        "certain infectious and parasitic diseases",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "lipomelanotic reticulosis",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "systemic connective tissue disorders",
+        "acne keloid",
+        "scar NOS"
+    ],
+    "symptoms": [
+        "pruritus",
+        "skin nodules",
+        "hyperpigmentation",
+        "thickened skin",
+        "papules"
+    ]
+}

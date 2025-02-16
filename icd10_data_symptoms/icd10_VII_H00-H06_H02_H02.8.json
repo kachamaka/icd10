@@ -1,0 +1,34 @@
+{
+    "icd10code": "H02.8",
+    "type": "subcategory",
+    "title": "Other specified disorders of eyelid",
+    "chapter": "Diseases of the eye and adnexa",
+    "chapterCode": "VII",
+    "block": "Disorders of eyelid, lacrimal system and orbit",
+    "blockCode": "H00-H06",
+    "category": "Other disorders of eyelid",
+    "categoryCode": "H02",
+    "subcategory": "H02.8",
+    "inclusion": [
+        "Hypertrichosis of eyelid",
+        "Retained foreign body in eyelid"
+    ],
+    "exclusion": [
+        "certain conditions originating in the perinatal period",
+        "certain infectious and parasitic diseases",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "congenital malformations of eyelid"
+    ],
+    "symptoms": [
+        "swelling",
+        "eyelid discomfort",
+        "redness",
+        "itching",
+        "eyelid lumps"
+    ]
+}

@@ -1,0 +1,20 @@
+{
+  "type": "subcategory",
+  "chapterCode": "II",
+  "chapter": "Neoplasms",
+  "blockCode": "D37-D48",
+  "block": "Neoplasms of uncertain or unknown behaviour",
+  "categoryCode": "D39",
+  "category": "Neoplasm of uncertain or unknown behaviour of female genital organs",
+  "subcategory": "D39.2",
+  "title": "Neoplasm of uncertain or unknown behaviour: Placenta",
+  "inclusion": [
+    "Chorioadenoma destruens",
+    "Hydatidiform mole: invasive",
+    "Hydatidiform mole: malignant"
+  ],
+  "exclusion": [
+    "hydatidiform mole NOS"
+  ],
+  "children": null
+}

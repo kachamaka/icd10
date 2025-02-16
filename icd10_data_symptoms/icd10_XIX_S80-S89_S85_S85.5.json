@@ -1,0 +1,38 @@
+{
+    "icd10code": "S85.5",
+    "type": "subcategory",
+    "title": "Injury of popliteal vein",
+    "chapter": "Injury, poisoning and certain other consequences of external causes",
+    "chapterCode": "XIX",
+    "block": "Injuries to the knee and lower leg",
+    "blockCode": "S80-S89",
+    "category": "Injury of blood vessels at lower leg level",
+    "categoryCode": "S85",
+    "subcategory": "S85.5",
+    "inclusion": [
+        "fracture of ankle and malleolus"
+    ],
+    "exclusion": [
+        "birth trauma",
+        "obstetric trauma",
+        "malunion of fracture",
+        "nonunion of fracture [pseudarthrosis]",
+        "pathological fracture",
+        "pathological fracture with osteoporosis",
+        "stress fracture",
+        "bilateral involvement of knee and lower leg",
+        "burns and corrosions",
+        "frostbite",
+        "injuries of: ankle and foot, except fracture of ankle and malleolus",
+        "injuries of: leg, level unspecified",
+        "insect bite or sting, venomous",
+        "injury of: muscle and tendon at or below ankle"
+    ],
+    "symptoms": [
+        "pain in the lower leg",
+        "swelling",
+        "bruising",
+        "numbness",
+        "difficulty walking"
+    ]
+}

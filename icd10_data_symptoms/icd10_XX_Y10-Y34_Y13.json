@@ -1,0 +1,22 @@
+{
+    "icd10code": "Y13",
+    "type": "category",
+    "title": "Poisoning by and exposure to other drugs acting on the autonomic nervous system, undetermined intent",
+    "chapter": "External causes of morbidity and mortality",
+    "chapterCode": "XX",
+    "block": "Event of undetermined intent",
+    "blockCode": "Y10-Y34",
+    "category": "Poisoning by and exposure to other drugs acting on the autonomic nervous system, undetermined intent",
+    "categoryCode": "Y13",
+    "subcategory": "",
+    "inclusion": [
+        "parasympatholytics [anticholinergics and antimuscarinics] and spasmolytics",
+        "parasympathomimetics [cholinergics]",
+        "sympatholytics [antiadrenergics]",
+        "sympathomimetics [adrenergics]"
+    ],
+    "exclusion": null,
+    "symptoms": [
+        "asymptomatic"
+    ]
+}

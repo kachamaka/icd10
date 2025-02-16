@@ -1,0 +1,36 @@
+{
+    "icd10code": "H03.0",
+    "type": "subcategory",
+    "title": "Parasitic infestation of eyelid in diseases classified elsewhere",
+    "chapter": "Diseases of the eye and adnexa",
+    "chapterCode": "VII",
+    "block": "Disorders of eyelid, lacrimal system and orbit",
+    "blockCode": "H00-H06",
+    "category": "Disorders of eyelid in diseases classified elsewhere",
+    "categoryCode": "H03",
+    "subcategory": "H03.0",
+    "inclusion": [
+        "Dermatitis of eyelid due to Demodex species",
+        "Parasitic infestation of eyelid in: leishmaniasis",
+        "Parasitic infestation of eyelid in: loiasis",
+        "Parasitic infestation of eyelid in: onchocerciasis",
+        "Parasitic infestation of eyelid in: phthiriasis"
+    ],
+    "exclusion": [
+        "certain conditions originating in the perinatal period",
+        "certain infectious and parasitic diseases",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified"
+    ],
+    "symptoms": [
+        "swelling",
+        "redness",
+        "itching",
+        "pain",
+        "discharge"
+    ]
+}

@@ -1,0 +1,22 @@
+{
+  "type": "subcategory",
+  "chapterCode": "II",
+  "chapter": "Neoplasms",
+  "blockCode": "D37-D48",
+  "block": "Neoplasms of uncertain or unknown behaviour",
+  "categoryCode": "D38",
+  "category": "Neoplasm of uncertain or unknown behaviour of middle ear and respiratory and intrathoracic organs",
+  "subcategory": "D38.0",
+  "title": "Neoplasm of uncertain or unknown behaviour: Larynx",
+  "inclusion": [
+    "Aryepiglottic fold, laryngeal aspect",
+    "Epiglottis (suprahyoid portion)"
+  ],
+  "exclusion": [
+    "heart",
+    "aryepiglottic fold: NOS",
+    "aryepiglottic fold: hypopharyngeal aspect",
+    "aryepiglottic fold: marginal zone"
+  ],
+  "children": null
+}

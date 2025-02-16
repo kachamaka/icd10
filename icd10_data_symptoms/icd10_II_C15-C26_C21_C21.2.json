@@ -1,0 +1,21 @@
+{
+    "icd10code": "C21.2",
+    "type": "subcategory",
+    "title": "Malignant neoplasm: Cloacogenic zone",
+    "chapter": "Neoplasms",
+    "chapterCode": "II",
+    "block": "Malignant neoplasms of digestive organs",
+    "blockCode": "C15-C26",
+    "category": "Malignant neoplasm of anus and anal canal",
+    "categoryCode": "C21",
+    "subcategory": "C21.2",
+    "inclusion": null,
+    "exclusion": null,
+    "symptoms": [
+        "rectal bleeding",
+        "change in bowel habits",
+        "persistent abdominal discomfort",
+        "weakness or fatigue",
+        "unexplained weight loss"
+    ]
+}

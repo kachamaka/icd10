@@ -1,0 +1,31 @@
+{
+  "type": "subcategory",
+  "chapterCode": "VII",
+  "chapter": "Diseases of the eye and adnexa",
+  "blockCode": "H15-H22",
+  "block": "Disorders of sclera, cornea, iris and ciliary body",
+  "categoryCode": "H21",
+  "category": "Other disorders of iris and ciliary body",
+  "subcategory": "H21.2",
+  "title": "Degeneration of iris and ciliary body",
+  "inclusion": [
+    "Degeneration of: iris (pigmentary)",
+    "Degeneration of: pupillary margin",
+    "Iridoschisis",
+    "Iris atrophy (essential)(progressive)",
+    "Miotic pupillary cyst",
+    "Translucency of iris"
+  ],
+  "exclusion": [
+    "certain conditions originating in the perinatal period",
+    "certain infectious and parasitic diseases",
+    "complications of pregnancy, childbirth and the puerperium",
+    "congenital malformations, deformations and chromosomal abnormalities",
+    "endocrine, nutritional and metabolic diseases",
+    "injury, poisoning and certain other consequences of external causes",
+    "neoplasms",
+    "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+    "sympathetic uveitis"
+  ],
+  "children": null
+}

@@ -1,0 +1,26 @@
+{
+    "icd10code": "D44.6",
+    "type": "subcategory",
+    "title": "Neoplasm of uncertain or unknown behaviour: Carotid body",
+    "chapter": "Neoplasms",
+    "chapterCode": "II",
+    "block": "Neoplasms of uncertain or unknown behaviour",
+    "blockCode": "D37-D48",
+    "category": "Neoplasm of uncertain or unknown behaviour of endocrine glands",
+    "categoryCode": "D44",
+    "subcategory": "D44.6",
+    "inclusion": null,
+    "exclusion": [
+        "endocrine pancreas",
+        "ovary",
+        "testis",
+        "thymus"
+    ],
+    "symptoms": [
+        "thyroid enlargement or nodules",
+        "difficulty swallowing",
+        "change in voice",
+        "difficulty breathing",
+        "neck swelling"
+    ]
+}

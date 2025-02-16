@@ -1,0 +1,25 @@
+{
+    "icd10code": "D13.7",
+    "type": "subcategory",
+    "title": "Benign neoplasm: Endocrine pancreas",
+    "chapter": "Neoplasms",
+    "chapterCode": "II",
+    "block": "Benign neoplasms",
+    "blockCode": "D10-D36",
+    "category": "Benign neoplasm of other and ill-defined parts of digestive system",
+    "categoryCode": "D13",
+    "subcategory": "D13.7",
+    "inclusion": [
+        "morphology codes with behaviour code /0",
+        "Islet cell tumour",
+        "Islets of Langerhans"
+    ],
+    "exclusion": null,
+    "symptoms": [
+        "abdominal pain",
+        "nausea and vomiting",
+        "weight loss",
+        "loss of appetite",
+        "blood in stool"
+    ]
+}

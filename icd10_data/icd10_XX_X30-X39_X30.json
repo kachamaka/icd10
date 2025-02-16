@@ -1,0 +1,19 @@
+{
+  "type": "category",
+  "chapterCode": "XX",
+  "chapter": "External causes of morbidity and mortality",
+  "blockCode": "X30-X39",
+  "block": "Exposure to forces of nature",
+  "categoryCode": "X30",
+  "category": "Exposure to excessive natural heat",
+  "subcategory": "",
+  "title": "Exposure to excessive natural heat",
+  "inclusion": [
+    "excessive heat as the cause of sunstroke",
+    "exposure to heat NOS"
+  ],
+  "exclusion": [
+    "excessive heat of man-made origin"
+  ],
+  "children": null
+}

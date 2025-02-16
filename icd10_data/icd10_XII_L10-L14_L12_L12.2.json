@@ -1,0 +1,32 @@
+{
+  "type": "subcategory",
+  "chapterCode": "XII",
+  "chapter": "Diseases of the skin and subcutaneous tissue",
+  "blockCode": "L10-L14",
+  "block": "Bullous disorders",
+  "categoryCode": "L12",
+  "category": "Pemphigoid",
+  "subcategory": "L12.2",
+  "title": "Chronic bullous disease of childhood",
+  "inclusion": [
+    "Juvenile dermatitis herpetiformis"
+  ],
+  "exclusion": [
+    "certain conditions originating in the perinatal period",
+    "certain infectious and parasitic diseases",
+    "complications of pregnancy, childbirth and the puerperium",
+    "congenital malformations, deformations and chromosomal abnormalities",
+    "endocrine, nutritional and metabolic diseases",
+    "injury, poisoning and certain other consequences of external causes",
+    "lipomelanotic reticulosis",
+    "neoplasms",
+    "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+    "systemic connective tissue disorders",
+    "decubitus [pressure] ulcer and pressure area",
+    "gangrene",
+    "skin infections",
+    "specific infections classified to A00-B99",
+    "varicose ulcer"
+  ],
+  "children": null
+}

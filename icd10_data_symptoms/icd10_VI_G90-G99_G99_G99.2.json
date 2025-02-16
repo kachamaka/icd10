@@ -1,0 +1,35 @@
+{
+    "icd10code": "G99.2",
+    "type": "subcategory",
+    "title": "Myelopathy in diseases classified elsewhere",
+    "chapter": "Diseases of the nervous system",
+    "chapterCode": "VI",
+    "block": "Other disorders of the nervous system",
+    "blockCode": "G90-G99",
+    "category": "Other disorders of nervous system in diseases classified elsewhere",
+    "categoryCode": "G99",
+    "subcategory": "G99.2",
+    "inclusion": [
+        "Anterior spinal and vertebral artery compression syndromes",
+        "Myelopathy in: intervertebral disc disorders",
+        "Myelopathy in: neoplastic disease",
+        "Myelopathy in: spondylosis"
+    ],
+    "exclusion": [
+        "certain conditions originating in the perinatal period",
+        "certain infectious and parasitic diseases",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified"
+    ],
+    "symptoms": [
+        "numbness",
+        "tingling",
+        "muscle weakness",
+        "pain",
+        "autonomic dysfunction"
+    ]
+}

@@ -1,0 +1,33 @@
+{
+    "icd10code": "T79.8",
+    "type": "subcategory",
+    "title": "Other early complications of trauma",
+    "chapter": "Injury, poisoning and certain other consequences of external causes",
+    "chapterCode": "XIX",
+    "block": "Certain early complications of trauma",
+    "blockCode": "T79-T79",
+    "category": "Certain early complications of trauma, not elsewhere classified",
+    "categoryCode": "T79",
+    "subcategory": "T79.8",
+    "inclusion": null,
+    "exclusion": [
+        "birth trauma",
+        "obstetric trauma",
+        "malunion of fracture",
+        "nonunion of fracture [pseudarthrosis]",
+        "pathological fracture",
+        "pathological fracture with osteoporosis",
+        "stress fracture",
+        "complications of surgical and medical care NEC",
+        "respiratory distress: syndrome of adult",
+        "respiratory distress: in newborn",
+        "when occurring during or following medical procedures"
+    ],
+    "symptoms": [
+        "delayed wound healing",
+        "swelling",
+        "pain",
+        "redness",
+        "infection"
+    ]
+}

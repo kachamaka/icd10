@@ -1,0 +1,30 @@
+{
+    "icd10code": "B71.8",
+    "type": "subcategory",
+    "title": "Other specified cestode infections",
+    "chapter": "Certain infectious and parasitic diseases",
+    "chapterCode": "I",
+    "block": "Helminthiases",
+    "blockCode": "B65-B83",
+    "category": "Other cestode infections",
+    "categoryCode": "B71",
+    "subcategory": "B71.8",
+    "inclusion": [
+        "diseases generally recognized as communicable or transmissible",
+        "Coenurosis"
+    ],
+    "exclusion": [
+        "carrier or suspected carrier of infectious disease",
+        "certain localized infections - see body system-related chapters",
+        "infectious and parasitic diseases complicating pregnancy, childbirth and the puerperium [except obstetrical tetanus]",
+        "infectious and parasitic diseases specific to the perinatal period [except tetanus neonatorum, whooping cough, congenital syphilis, perinatal gonococcal infection and perinatal human immunodeficiency virus [HIV] disease]",
+        "influenza and other acute respiratory infections"
+    ],
+    "symptoms": [
+        "itching",
+        "abdominal pain",
+        "diarrhea",
+        "vomiting",
+        "fatigue"
+    ]
+}

@@ -1,0 +1,40 @@
+{
+  "type": "subcategory",
+  "chapterCode": "XIX",
+  "chapter": "Injury, poisoning and certain other consequences of external causes",
+  "blockCode": "S20-S29",
+  "block": "Injuries to the thorax",
+  "categoryCode": "S20",
+  "category": "Superficial injury of thorax",
+  "subcategory": "S20.7",
+  "title": "Multiple superficial injuries of thorax",
+  "inclusion": [
+    "injuries of: breast",
+    "injuries of: chest (wall)",
+    "injuries of: interscapular area"
+  ],
+  "exclusion": [
+    "birth trauma",
+    "obstetric trauma",
+    "malunion of fracture",
+    "nonunion of fracture [pseudarthrosis]",
+    "pathological fracture",
+    "pathological fracture with osteoporosis",
+    "stress fracture",
+    "burns and corrosions",
+    "effects of foreign body in: bronchus",
+    "effects of foreign body in: lung",
+    "effects of foreign body in: oesophagus",
+    "effects of foreign body in: trachea",
+    "fracture of spine NOS",
+    "frostbite",
+    "injuries of: axilla",
+    "injuries of: clavicle",
+    "injuries of: scapular region",
+    "injuries of: shoulder",
+    "injuries of: spinal cord NOS",
+    "injuries of: trunk NOS",
+    "insect bite or sting, venomous"
+  ],
+  "children": null
+}

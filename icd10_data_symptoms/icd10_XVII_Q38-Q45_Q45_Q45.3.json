@@ -1,0 +1,31 @@
+{
+    "icd10code": "Q45.3",
+    "type": "subcategory",
+    "title": "Other congenital malformations of pancreas and pancreatic duct",
+    "chapter": "Congenital malformations, deformations and chromosomal abnormalities",
+    "chapterCode": "XVII",
+    "block": "Other congenital malformations of the digestive system",
+    "blockCode": "Q38-Q45",
+    "category": "Other congenital malformations of digestive system",
+    "categoryCode": "Q45",
+    "subcategory": "Q45.3",
+    "inclusion": [
+        "Accessory pancreas",
+        "Congenital malformation of pancreas or pancreatic duct NOS"
+    ],
+    "exclusion": [
+        "inborn errors of metabolism",
+        "congenital: diaphragmatic hernia",
+        "congenital: hiatus hernia",
+        "diabetes mellitus: congenital",
+        "diabetes mellitus: neonatal",
+        "fibrocystic disease of pancreas"
+    ],
+    "symptoms": [
+        "abdominal pain",
+        "jaundice",
+        "bile duct obstruction",
+        "cholangitis",
+        "nausea"
+    ]
+}

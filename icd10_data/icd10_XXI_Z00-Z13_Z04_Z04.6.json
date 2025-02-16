@@ -1,0 +1,18 @@
+{
+  "type": "subcategory",
+  "chapterCode": "XXI",
+  "chapter": "Factors influencing health status and contact with health services",
+  "blockCode": "Z00-Z13",
+  "block": "Persons encountering health services for examination and investigation",
+  "categoryCode": "Z04",
+  "category": "Examination and observation for other reasons",
+  "subcategory": "Z04.6",
+  "title": "General psychiatric examination, requested by authority",
+  "inclusion": [
+    "examination for medicolegal reasons"
+  ],
+  "exclusion": [
+    "examinations related to pregnancy and reproduction"
+  ],
+  "children": null
+}

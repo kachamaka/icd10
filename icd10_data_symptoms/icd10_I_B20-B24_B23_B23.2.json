@@ -1,0 +1,31 @@
+{
+    "icd10code": "B23.2",
+    "type": "subcategory",
+    "title": "HIV disease resulting in haematological and immunological abnormalities, not elsewhere classified",
+    "chapter": "Certain infectious and parasitic diseases",
+    "chapterCode": "I",
+    "block": "Human immunodeficiency virus [HIV] disease",
+    "blockCode": "B20-B24",
+    "category": "Human immunodeficiency virus [HIV] disease resulting in other conditions",
+    "categoryCode": "B23",
+    "subcategory": "B23.2",
+    "inclusion": [
+        "diseases generally recognized as communicable or transmissible"
+    ],
+    "exclusion": [
+        "carrier or suspected carrier of infectious disease",
+        "certain localized infections - see body system-related chapters",
+        "infectious and parasitic diseases complicating pregnancy, childbirth and the puerperium [except obstetrical tetanus]",
+        "infectious and parasitic diseases specific to the perinatal period [except tetanus neonatorum, whooping cough, congenital syphilis, perinatal gonococcal infection and perinatal human immunodeficiency virus [HIV] disease]",
+        "influenza and other acute respiratory infections",
+        "erythrasma",
+        "monkeypox"
+    ],
+    "symptoms": [
+        "fever",
+        "weight loss",
+        "fatigue",
+        "lymphadenopathy",
+        "pneumonia"
+    ]
+}

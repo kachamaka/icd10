@@ -1,0 +1,18 @@
+{
+  "type": "subcategory",
+  "chapterCode": "II",
+  "chapter": "Neoplasms",
+  "blockCode": "D10-D36",
+  "block": "Benign neoplasms",
+  "categoryCode": "D15",
+  "category": "Benign neoplasm of other and unspecified intrathoracic organs",
+  "subcategory": "D15.9",
+  "title": "Benign neoplasm: Intrathoracic organ, unspecified",
+  "inclusion": [
+    "morphology codes with behaviour code /0"
+  ],
+  "exclusion": [
+    "mesothelial tissue"
+  ],
+  "children": null
+}

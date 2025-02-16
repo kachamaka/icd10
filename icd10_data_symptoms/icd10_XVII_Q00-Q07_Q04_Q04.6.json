@@ -1,0 +1,29 @@
+{
+    "icd10code": "Q04.6",
+    "type": "subcategory",
+    "title": "Congenital cerebral cysts",
+    "chapter": "Congenital malformations, deformations and chromosomal abnormalities",
+    "chapterCode": "XVII",
+    "block": "Congenital malformations of the nervous system",
+    "blockCode": "Q00-Q07",
+    "category": "Other congenital malformations of brain",
+    "categoryCode": "Q04",
+    "subcategory": "Q04.6",
+    "inclusion": [
+        "Porencephaly",
+        "Schizencephaly"
+    ],
+    "exclusion": [
+        "inborn errors of metabolism",
+        "cyclopia",
+        "macrocephaly",
+        "acquired porencephalic cyst"
+    ],
+    "symptoms": [
+        "delayed development",
+        "muscular hypotonia",
+        "intellectual disability",
+        "seizures",
+        "difficulty with coordination"
+    ]
+}

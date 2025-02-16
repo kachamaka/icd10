@@ -1,0 +1,39 @@
+{
+    "icd10code": "H35.3",
+    "type": "subcategory",
+    "title": "Degeneration of macula and posterior pole",
+    "chapter": "Diseases of the eye and adnexa",
+    "chapterCode": "VII",
+    "block": "Disorders of choroid and retina",
+    "blockCode": "H30-H36",
+    "category": "Other retinal disorders",
+    "categoryCode": "H35",
+    "subcategory": "H35.3",
+    "inclusion": [
+        "Angioid streaks of macula",
+        "Cyst of macula",
+        "Drusen (degenerative) of macula",
+        "Hole of macula",
+        "Puckering of macula",
+        "Kuhnt-Junius degeneration",
+        "Senile macular degeneration (atrophic)(exudative)",
+        "Toxic maculopathy"
+    ],
+    "exclusion": [
+        "certain conditions originating in the perinatal period",
+        "certain infectious and parasitic diseases",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified"
+    ],
+    "symptoms": [
+        "blurred vision",
+        "difficulty with night vision",
+        "sensitivity to glare",
+        "reduced color vision",
+        "visual field loss"
+    ]
+}

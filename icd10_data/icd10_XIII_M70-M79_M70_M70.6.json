@@ -1,0 +1,32 @@
+{
+  "type": "subcategory",
+  "chapterCode": "XIII",
+  "chapter": "Diseases of the musculoskeletal system and connective tissue",
+  "blockCode": "M70-M79",
+  "block": "Other soft tissue disorders",
+  "categoryCode": "M70",
+  "category": "Soft tissue disorders related to use, overuse and pressure",
+  "subcategory": "M70.6",
+  "title": "Trochanteric bursitis",
+  "inclusion": [
+    "soft tissue disorders of occupational origin",
+    "Trochanteric tendinitis"
+  ],
+  "exclusion": [
+    "certain conditions originating in the perinatal period",
+    "certain disorders of the temporomandibular joint",
+    "certain infectious and parasitic diseases",
+    "compartment syndrome",
+    "complications of pregnancy, childbirth and the puerperium",
+    "congenital malformations, deformations and chromosomal abnormalities",
+    "endocrine, nutritional and metabolic diseases",
+    "injury, poisoning and certain other consequences of external causes",
+    "neoplasms",
+    "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+    "stress fracture of vertebra",
+    "fasciitis: diffuse (eosinophilic)",
+    "fasciitis: necrotizing",
+    "fasciitis: nodular"
+  ],
+  "children": null
+}

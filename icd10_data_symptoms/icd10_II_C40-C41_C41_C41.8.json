@@ -1,0 +1,31 @@
+{
+    "icd10code": "C41.8",
+    "type": "subcategory",
+    "title": "Malignant neoplasm: Overlapping lesion of bone and articular cartilage",
+    "chapter": "Neoplasms",
+    "chapterCode": "II",
+    "block": "Malignant neoplasms of bone and articular cartilage",
+    "blockCode": "C40-C41",
+    "category": "Malignant neoplasm of bone and articular cartilage of other and unspecified sites",
+    "categoryCode": "C41",
+    "subcategory": "C41.8",
+    "inclusion": [
+        "Malignant neoplasm of bone and articular cartilage whose point of origin cannot be classified to any one of the categories C40-C41.4"
+    ],
+    "exclusion": [
+        "bone marrow NOS",
+        "synovia",
+        "bones of limbs",
+        "cartilage of: ear",
+        "cartilage of: larynx",
+        "cartilage of: limbs",
+        "cartilage of: nose"
+    ],
+    "symptoms": [
+        "bone pain",
+        "unexplained fractures",
+        "swelling",
+        "limited range of motion",
+        "abnormality in bone shape"
+    ]
+}

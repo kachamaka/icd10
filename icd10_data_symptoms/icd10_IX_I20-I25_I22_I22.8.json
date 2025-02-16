@@ -1,0 +1,47 @@
+{
+    "icd10code": "I22.8",
+    "type": "subcategory",
+    "title": "Subsequent myocardial infarction of other sites",
+    "chapter": "Diseases of the circulatory system",
+    "chapterCode": "IX",
+    "block": "Ischaemic heart diseases",
+    "blockCode": "I20-I25",
+    "category": "Subsequent myocardial infarction",
+    "categoryCode": "I22",
+    "subcategory": "I22.8",
+    "inclusion": [
+        "with mention of hypertension",
+        "myocardial infarction: extension",
+        "myocardial infarction: recurrent",
+        "myocardial infarction: reinfarction",
+        "Subsequent myocardial infarction (acute)(of): apical-lateral",
+        "Subsequent myocardial infarction (acute)(of): basal-lateral",
+        "Subsequent myocardial infarction (acute)(of): high lateral",
+        "Subsequent myocardial infarction (acute)(of): lateral (wall) NOS",
+        "Subsequent myocardial infarction (acute)(of): posterior (true)",
+        "Subsequent myocardial infarction (acute)(of): posterobasal",
+        "Subsequent myocardial infarction (acute)(of): posterolateral",
+        "Subsequent myocardial infarction (acute)(of): posteroseptal",
+        "Subsequent myocardial infarction (acute)(of): septal NOS"
+    ],
+    "exclusion": [
+        "certain conditions originating in the perinatal period",
+        "certain infectious and parasitic diseases",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "systemic connective tissue disorders",
+        "transient cerebral ischaemic attacks and related syndromes",
+        "Eisenmenger defect"
+    ],
+    "symptoms": [
+        "chest pain",
+        "shortness of breath",
+        "fatigue",
+        "rapid or irregular heartbeat",
+        "excessive sweating"
+    ]
+}

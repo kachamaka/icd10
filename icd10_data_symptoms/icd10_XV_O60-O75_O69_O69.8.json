@@ -1,0 +1,32 @@
+{
+    "icd10code": "O69.8",
+    "type": "subcategory",
+    "title": "Labour and delivery complicated by other cord complications",
+    "chapter": "Pregnancy, childbirth and the puerperium",
+    "chapterCode": "XV",
+    "block": "Complications of labour and delivery",
+    "blockCode": "O60-O75",
+    "category": "Labour and delivery complicated by umbilical cord complications",
+    "categoryCode": "O69",
+    "subcategory": "O69.8",
+    "inclusion": [
+        "Cord around neck without compression"
+    ],
+    "exclusion": [
+        "Certain diseases or injuries complicating pregnancy, childbirth and the puerperium classified elsewhere: external causes (for mortality)",
+        "Certain diseases or injuries complicating pregnancy, childbirth and the puerperium classified elsewhere: injury, poisoning and certain other consequences of external cause",
+        "Certain diseases or injuries complicating pregnancy, childbirth and the puerperium classified elsewhere: mental and behavioural disorders associated with the puerperium",
+        "Certain diseases or injuries complicating pregnancy, childbirth and the puerperium classified elsewhere: obstetrical tetanus",
+        "Certain diseases or injuries complicating pregnancy, childbirth and the puerperium classified elsewhere: postpartum necrosis of pituitary gland",
+        "Certain diseases or injuries complicating pregnancy, childbirth and the puerperium classified elsewhere: puerperal osteomalacia",
+        "supervision of: high-risk pregnancy",
+        "supervision of: normal pregnancy"
+    ],
+    "symptoms": [
+        "abnormal fetal heart rate",
+        "umbilical cord compression",
+        "decreased fetal movement",
+        "variable decelerations",
+        "intrauterine distress"
+    ]
+}

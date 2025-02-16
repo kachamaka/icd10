@@ -1,0 +1,24 @@
+{
+  "type": "subcategory",
+  "chapterCode": "XVIII",
+  "chapter": "Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+  "blockCode": "R50-R69",
+  "block": "General symptoms and signs",
+  "categoryCode": "R50",
+  "category": "Fever of other and unknown origin",
+  "subcategory": "R50.8",
+  "title": "Other specified fever",
+  "inclusion": [
+    "Fever with chills",
+    "Fever with rigors",
+    "Persistent fever"
+  ],
+  "exclusion": [
+    "abnormal findings on antenatal screening of mother",
+    "certain conditions originating in the perinatal period",
+    "fever of unknown origin (during)(in): labour",
+    "fever of unknown origin (during)(in): newborn",
+    "puerperal pyrexia NOS"
+  ],
+  "children": null
+}

@@ -1,0 +1,33 @@
+{
+    "icd10code": "Q16.4",
+    "type": "subcategory",
+    "title": "Other congenital malformations of middle ear",
+    "chapter": "Congenital malformations, deformations and chromosomal abnormalities",
+    "chapterCode": "XVII",
+    "block": "Congenital malformations of eye, ear, face and neck",
+    "blockCode": "Q10-Q18",
+    "category": "Congenital malformations of ear causing impairment of hearing",
+    "categoryCode": "Q16",
+    "subcategory": "Q16.4",
+    "inclusion": [
+        "Congenital malformation of middle ear NOS"
+    ],
+    "exclusion": [
+        "inborn errors of metabolism",
+        "cleft lip and cleft palate",
+        "congenital malformation of: cervical spine",
+        "congenital malformation of: larynx",
+        "congenital malformation of: lip NEC",
+        "congenital malformation of: nose",
+        "congenital malformation of: parathyroid gland",
+        "congenital malformation of: thyroid gland",
+        "congenital deafness"
+    ],
+    "symptoms": [
+        "sensorineural hearing loss",
+        "delayed speech development",
+        "difficulty localizing sounds",
+        "problems understanding speech in noisy environments",
+        "balance issues"
+    ]
+}

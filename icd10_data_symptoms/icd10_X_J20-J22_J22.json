@@ -1,0 +1,36 @@
+{
+    "icd10code": "J22",
+    "type": "category",
+    "title": "Unspecified acute lower respiratory infection",
+    "chapter": "Diseases of the respiratory system",
+    "chapterCode": "X",
+    "block": "Other acute lower respiratory infections",
+    "blockCode": "J20-J22",
+    "category": "Unspecified acute lower respiratory infection",
+    "categoryCode": "J22",
+    "subcategory": "",
+    "inclusion": [
+        "Acute (lower) respiratory (tract) infection NOS"
+    ],
+    "exclusion": [
+        "certain conditions originating in the perinatal period",
+        "certain infectious and parasitic diseases",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "chronic obstructive pulmonary disease with acute: exacerbation NOS",
+        "chronic obstructive pulmonary disease with acute: lower respiratory infection",
+        "respiratory infection NOS",
+        "upper respiratory infection (acute)"
+    ],
+    "symptoms": [
+        "cough",
+        "fever",
+        "shortness of breath",
+        "fatigue",
+        "wheezing"
+    ]
+}

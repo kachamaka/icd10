@@ -1,0 +1,17 @@
+{
+  "type": "subcategory",
+  "chapterCode": "II",
+  "chapter": "Neoplasms",
+  "blockCode": "C15-C26",
+  "block": "Malignant neoplasms of digestive organs",
+  "categoryCode": "C22",
+  "category": "Malignant neoplasm of liver and intrahepatic bile ducts",
+  "subcategory": "C22.7",
+  "title": "Malignant neoplasm: Other specified carcinomas of liver",
+  "inclusion": null,
+  "exclusion": [
+    "biliary tract NOS",
+    "secondary malignant neoplasm of liver"
+  ],
+  "children": null
+}

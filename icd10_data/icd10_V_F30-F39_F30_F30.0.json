@@ -1,0 +1,19 @@
+{
+  "type": "subcategory",
+  "chapterCode": "V",
+  "chapter": "Mental and behavioural disorders",
+  "blockCode": "F30-F39",
+  "block": "Mood [affective] disorders",
+  "categoryCode": "F30",
+  "category": "Manic episode",
+  "subcategory": "F30.0",
+  "title": "Hypomania",
+  "inclusion": [
+    "disorders of psychological development",
+    "bipolar disorder, single manic episode"
+  ],
+  "exclusion": [
+    "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified"
+  ],
+  "children": null
+}

@@ -1,0 +1,17 @@
+{
+    "icd10code": "Z57.8",
+    "type": "subcategory",
+    "title": "Occupational exposure to other risk-factors",
+    "chapter": "Factors influencing health status and contact with health services",
+    "chapterCode": "XXI",
+    "block": "Persons with potential health hazards related to socioeconomic and psychosocial circumstances",
+    "blockCode": "Z55-Z65",
+    "category": "Occupational exposure to risk-factors",
+    "categoryCode": "Z57",
+    "subcategory": "Z57.8",
+    "inclusion": null,
+    "exclusion": null,
+    "symptoms": [
+        "asymptomatic"
+    ]
+}

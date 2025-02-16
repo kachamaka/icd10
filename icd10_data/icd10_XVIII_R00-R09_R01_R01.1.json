@@ -1,0 +1,21 @@
+{
+  "type": "subcategory",
+  "chapterCode": "XVIII",
+  "chapter": "Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+  "blockCode": "R00-R09",
+  "block": "Symptoms and signs involving the circulatory and respiratory systems",
+  "categoryCode": "R01",
+  "category": "Cardiac murmurs and other cardiac sounds",
+  "subcategory": "R01.1",
+  "title": "Cardiac murmur, unspecified",
+  "inclusion": [
+    "Cardiac bruit NOS",
+    "Systolic murmur NOS"
+  ],
+  "exclusion": [
+    "abnormal findings on antenatal screening of mother",
+    "certain conditions originating in the perinatal period",
+    "those originating in the perinatal period"
+  ],
+  "children": null
+}

@@ -1,0 +1,25 @@
+{
+    "icd10code": "C08.1",
+    "type": "subcategory",
+    "title": "Malignant neoplasm: Sublingual gland",
+    "chapter": "Neoplasms",
+    "chapterCode": "II",
+    "block": "Malignant neoplasms of lip, oral cavity and pharynx",
+    "blockCode": "C00-C14",
+    "category": "Malignant neoplasm of other and unspecified major salivary glands",
+    "categoryCode": "C08",
+    "subcategory": "C08.1",
+    "inclusion": null,
+    "exclusion": [
+        "malignant neoplasms of specified minor salivary glands which are classified according to their anatomical location",
+        "malignant neoplasms of minor salivary glands NOS",
+        "parotid gland"
+    ],
+    "symptoms": [
+        "pain in the jaw",
+        "mouth ulcers",
+        "difficulty swallowing",
+        "swollen lymph nodes",
+        "unusual bleeding or numbness in the mouth"
+    ]
+}

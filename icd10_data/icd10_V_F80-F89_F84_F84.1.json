@@ -1,0 +1,20 @@
+{
+  "type": "subcategory",
+  "chapterCode": "V",
+  "chapter": "Mental and behavioural disorders",
+  "blockCode": "F80-F89",
+  "block": "Disorders of psychological development",
+  "categoryCode": "F84",
+  "category": "Pervasive developmental disorders",
+  "subcategory": "F84.1",
+  "title": "Atypical autism",
+  "inclusion": [
+    "disorders of psychological development",
+    "Atypical childhood psychosis",
+    "Mental retardation with autistic features"
+  ],
+  "exclusion": [
+    "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified"
+  ],
+  "children": null
+}

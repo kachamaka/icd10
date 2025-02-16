@@ -1,0 +1,19 @@
+{
+  "type": "subcategory",
+  "chapterCode": "V",
+  "chapter": "Mental and behavioural disorders",
+  "blockCode": "F80-F89",
+  "block": "Disorders of psychological development",
+  "categoryCode": "F80",
+  "category": "Specific developmental disorders of speech and language",
+  "subcategory": "F80.9",
+  "title": "Developmental disorder of speech and language, unspecified",
+  "inclusion": [
+    "disorders of psychological development",
+    "Language disorder NOS"
+  ],
+  "exclusion": [
+    "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified"
+  ],
+  "children": null
+}

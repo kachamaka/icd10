@@ -1,0 +1,35 @@
+{
+    "icd10code": "E87.3",
+    "type": "subcategory",
+    "title": "Alkalosis",
+    "chapter": "Endocrine, nutritional and metabolic diseases",
+    "chapterCode": "IV",
+    "block": "Metabolic disorders",
+    "blockCode": "E70-E90",
+    "category": "Other disorders of fluid, electrolyte and acid-base balance",
+    "categoryCode": "E87",
+    "subcategory": "E87.3",
+    "inclusion": [
+        "Alkalosis: NOS",
+        "Alkalosis: metabolic",
+        "Alkalosis: respiratory"
+    ],
+    "exclusion": [
+        "complications of pregnancy, childbirth and the puerperium",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "transitory endocrine and metabolic disorders specific to fetus and newborn",
+        "androgen resistance syndrome",
+        "congenital adrenal hyperplasia",
+        "Ehlers-Danlos syndrome",
+        "haemolytic anaemias due to enzyme disorders",
+        "Marfan syndrome",
+        "5-alpha-reductase deficiency"
+    ],
+    "symptoms": [
+        "abdominal bloating",
+        "excessive thirst and urination",
+        "fatigue",
+        "dry mouth",
+        "confusion"
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "icd10code": "N00",
+    "type": "modifiedcategory",
+    "title": "Acute nephritic syndrome : minor glomerular abnormality",
+    "chapter": "Diseases of the genitourinary system",
+    "chapterCode": "XIV",
+    "block": "Glomerular diseases",
+    "blockCode": "N00-N08",
+    "category": "Acute nephritic syndrome",
+    "categoryCode": "N00",
+    "subcategory": "",
+    "inclusion": [
+        "acute: glomerular disease",
+        "acute: glomerulonephritis",
+        "acute: nephritis",
+        "acute: renal disease NOS",
+        "Minimal change lesion"
+    ],
+    "exclusion": [
+        "certain conditions originating in the perinatal period",
+        "certain infectious and parasitic diseases",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "hypertensive renal disease",
+        "renal tubulo-interstitial disorders in diseases classified elsewhere",
+        "hereditary amyloid nephropathy"
+    ],
+    "symptoms": [
+        "hematuria",
+        "edema",
+        "hypertension",
+        "fatigue",
+        "proteinuria"
+    ]
+}

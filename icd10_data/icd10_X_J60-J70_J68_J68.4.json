@@ -1,0 +1,28 @@
+{
+  "type": "subcategory",
+  "chapterCode": "X",
+  "chapter": "Diseases of the respiratory system",
+  "blockCode": "J60-J70",
+  "block": "Lung diseases due to external agents",
+  "categoryCode": "J68",
+  "category": "Respiratory conditions due to inhalation of chemicals, gases, fumes and vapours",
+  "subcategory": "J68.4",
+  "title": "Chronic respiratory conditions due to chemicals, gases, fumes and vapours",
+  "inclusion": [
+    "Emphysema (diffuse)(chronic) due to inhalation of chemicals, gases, fumes and vapours",
+    "Obliterative bronchiolitis (chronic)(subacute) due to inhalation of chemicals, gases, fumes and vapours",
+    "Pulmonary fibrosis (chronic) due to inhalation of chemicals, gases, fumes and vapours"
+  ],
+  "exclusion": [
+    "certain conditions originating in the perinatal period",
+    "certain infectious and parasitic diseases",
+    "complications of pregnancy, childbirth and the puerperium",
+    "congenital malformations, deformations and chromosomal abnormalities",
+    "endocrine, nutritional and metabolic diseases",
+    "injury, poisoning and certain other consequences of external causes",
+    "neoplasms",
+    "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+    "asthma classified to J45.-"
+  ],
+  "children": null
+}

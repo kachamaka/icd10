@@ -1,0 +1,34 @@
+{
+    "icd10code": "G24.9",
+    "type": "subcategory",
+    "title": "Dystonia, unspecified",
+    "chapter": "Diseases of the nervous system",
+    "chapterCode": "VI",
+    "block": "Extrapyramidal and movement disorders",
+    "blockCode": "G20-G26",
+    "category": "Dystonia",
+    "categoryCode": "G24",
+    "subcategory": "G24.9",
+    "inclusion": [
+        "dyskinesia",
+        "Dyskinesia NOS"
+    ],
+    "exclusion": [
+        "certain conditions originating in the perinatal period",
+        "certain infectious and parasitic diseases",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "athetoid cerebral palsy"
+    ],
+    "symptoms": [
+        "muscle contractions",
+        "involuntary movements",
+        "postural deviations",
+        "tremors",
+        "muscle weakness"
+    ]
+}

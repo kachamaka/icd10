@@ -1,0 +1,20 @@
+{
+    "icd10code": "Z58.6",
+    "type": "subcategory",
+    "title": "Inadequate drinking-water supply",
+    "chapter": "Factors influencing health status and contact with health services",
+    "chapterCode": "XXI",
+    "block": "Persons with potential health hazards related to socioeconomic and psychosocial circumstances",
+    "blockCode": "Z55-Z65",
+    "category": "Problems related to physical environment",
+    "categoryCode": "Z58",
+    "subcategory": "Z58.6",
+    "inclusion": null,
+    "exclusion": [
+        "occupational exposure",
+        "effects of thirst"
+    ],
+    "symptoms": [
+        "asymptomatic"
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "icd10code": "C16.5",
+    "type": "subcategory",
+    "title": "Malignant neoplasm: Lesser curvature of stomach, unspecified",
+    "chapter": "Neoplasms",
+    "chapterCode": "II",
+    "block": "Malignant neoplasms of digestive organs",
+    "blockCode": "C15-C26",
+    "category": "Malignant neoplasm of stomach",
+    "categoryCode": "C16",
+    "subcategory": "C16.5",
+    "inclusion": [
+        "Lesser curvature of stomach, not classifiable to C16.1-C16.4"
+    ],
+    "exclusion": null,
+    "symptoms": [
+        "abdominal pain",
+        "loss of appetite",
+        "weight loss",
+        "nausea",
+        "vomiting"
+    ]
+}

@@ -1,0 +1,22 @@
+{
+  "type": "subcategory",
+  "chapterCode": "II",
+  "chapter": "Neoplasms",
+  "blockCode": "D00-D09",
+  "block": "In situ neoplasms",
+  "categoryCode": "D09",
+  "category": "Carcinoma in situ of other and unspecified sites",
+  "subcategory": "D09.2",
+  "title": "Carcinoma in situ: Eye",
+  "inclusion": [
+    "Bowen disease",
+    "erythroplasia",
+    "morphology codes with behaviour code /2",
+    "Queyrat erythroplasia"
+  ],
+  "exclusion": [
+    "melanoma in situ",
+    "skin of eyelid"
+  ],
+  "children": null
+}

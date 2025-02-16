@@ -1,0 +1,36 @@
+{
+    "icd10code": "P58.4",
+    "type": "subcategory",
+    "title": "Neonatal jaundice due to drugs or toxins transmitted from mother or given to newborn",
+    "chapter": "Certain conditions originating in the perinatal period",
+    "chapterCode": "XVI",
+    "block": "Haemorrhagic and haematological disorders of fetus and newborn",
+    "blockCode": "P50-P61",
+    "category": "Neonatal jaundice due to other excessive haemolysis",
+    "categoryCode": "P58",
+    "subcategory": "P58.4",
+    "inclusion": [
+        "conditions that have their origin in the perinatal period even though death or morbidity occurs later"
+    ],
+    "exclusion": [
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "tetanus neonatorum",
+        "whooping cough",
+        "congenital stenosis and stricture of bile ducts",
+        "Crigler-Najjar syndrome",
+        "Dubin-Johnson syndrome",
+        "Gilbert syndrome",
+        "hereditary haemolytic anaemias",
+        "Crigler-Najjar syndrome"
+    ],
+    "symptoms": [
+        "jaundice",
+        "yellowing of skin",
+        "yellowing of eyes",
+        "dark urine",
+        "pale stools"
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "icd10code": "K40.3",
+    "type": "subcategory",
+    "title": "Unilateral or unspecified inguinal hernia, with obstruction, without gangrene",
+    "chapter": "Diseases of the digestive system",
+    "chapterCode": "XI",
+    "block": "Hernia",
+    "blockCode": "K40-K46",
+    "category": "Inguinal hernia",
+    "categoryCode": "K40",
+    "subcategory": "K40.3",
+    "inclusion": [
+        "hernia: acquired",
+        "hernia: congenital [except diaphragmatic or hiatus]",
+        "hernia: recurrent",
+        "bubonocele",
+        "inguinal hernia: NOS",
+        "inguinal hernia: direct",
+        "inguinal hernia: double",
+        "inguinal hernia: indirect",
+        "inguinal hernia: oblique",
+        "scrotal hernia",
+        "Inguinal hernia (unilateral): causing obstruction without gangrene",
+        "Inguinal hernia (unilateral): incarcerated without gangrene",
+        "Inguinal hernia (unilateral): irreducible without gangrene",
+        "Inguinal hernia (unilateral): strangulated without gangrene"
+    ],
+    "exclusion": [
+        "certain conditions originating in the perinatal period",
+        "certain infectious and parasitic diseases",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified"
+    ],
+    "symptoms": [
+        "groin pain",
+        "swelling in the groin",
+        "bulge in the abdominal area",
+        "discomfort during lifting",
+        "nausea or vomiting"
+    ]
+}

@@ -1,0 +1,17 @@
+{
+  "type": "category",
+  "chapterCode": "II",
+  "chapter": "Neoplasms",
+  "blockCode": "C64-C68",
+  "block": "Malignant neoplasms of urinary tract",
+  "categoryCode": "C65",
+  "category": "Malignant neoplasm of renal pelvis",
+  "subcategory": "",
+  "title": "Malignant neoplasm of renal pelvis",
+  "inclusion": [
+    "Pelviureteric junction",
+    "Renal calyces"
+  ],
+  "exclusion": null,
+  "children": null
+}

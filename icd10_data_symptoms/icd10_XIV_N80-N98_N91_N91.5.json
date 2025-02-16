@@ -1,0 +1,33 @@
+{
+    "icd10code": "N91.5",
+    "type": "subcategory",
+    "title": "Oligomenorrhoea, unspecified",
+    "chapter": "Diseases of the genitourinary system",
+    "chapterCode": "XIV",
+    "block": "Noninflammatory disorders of female genital tract",
+    "blockCode": "N80-N98",
+    "category": "Absent, scanty and rare menstruation",
+    "categoryCode": "N91",
+    "subcategory": "N91.5",
+    "inclusion": [
+        "Hypomenorrhoea NOS"
+    ],
+    "exclusion": [
+        "certain conditions originating in the perinatal period",
+        "certain infectious and parasitic diseases",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "ovarian dysfunction"
+    ],
+    "symptoms": [
+        "absence of menstruation",
+        "infrequent periods",
+        "unpredictable cycle",
+        "irregular flow",
+        "prolonged cycles"
+    ]
+}

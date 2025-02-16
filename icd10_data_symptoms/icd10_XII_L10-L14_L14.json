@@ -1,0 +1,35 @@
+{
+    "icd10code": "L14",
+    "type": "category",
+    "title": "Bullous disorders in diseases classified elsewhere",
+    "chapter": "Diseases of the skin and subcutaneous tissue",
+    "chapterCode": "XII",
+    "block": "Bullous disorders",
+    "blockCode": "L10-L14",
+    "category": "Bullous disorders in diseases classified elsewhere",
+    "categoryCode": "L14",
+    "subcategory": "",
+    "inclusion": null,
+    "exclusion": [
+        "certain conditions originating in the perinatal period",
+        "certain infectious and parasitic diseases",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "lipomelanotic reticulosis",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "systemic connective tissue disorders",
+        "congenital malformations of integument",
+        "rosacea",
+        "local infections of skin classified in Chapter I, such as: erysipelas"
+    ],
+    "symptoms": [
+        "redness",
+        "swelling",
+        "pain",
+        "blisters",
+        "itching"
+    ]
+}

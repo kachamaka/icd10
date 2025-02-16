@@ -1,0 +1,23 @@
+{
+    "icd10code": "C78.6",
+    "type": "subcategory",
+    "title": "Secondary malignant neoplasm of retroperitoneum and peritoneum",
+    "chapter": "Neoplasms",
+    "chapterCode": "II",
+    "block": "Malignant neoplasms of ill-defined, secondary and unspecified sites",
+    "blockCode": "C76-C80",
+    "category": "Secondary malignant neoplasm of respiratory and digestive organs",
+    "categoryCode": "C78",
+    "subcategory": "C78.6",
+    "inclusion": [
+        "Malignant ascites NOS"
+    ],
+    "exclusion": null,
+    "symptoms": [
+        "abdominal pain",
+        "unexplained weight loss",
+        "loss of appetite",
+        "jaundice",
+        "nausea and vomiting"
+    ]
+}

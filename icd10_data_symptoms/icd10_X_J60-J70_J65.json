@@ -1,0 +1,33 @@
+{
+    "icd10code": "J65",
+    "type": "category",
+    "title": "Pneumoconiosis associated with tuberculosis",
+    "chapter": "Diseases of the respiratory system",
+    "chapterCode": "X",
+    "block": "Lung diseases due to external agents",
+    "blockCode": "J60-J70",
+    "category": "Pneumoconiosis associated with tuberculosis",
+    "categoryCode": "J65",
+    "subcategory": "",
+    "inclusion": [
+        "Any condition in J60-J64 with tuberculosis, any type in A15-A16"
+    ],
+    "exclusion": [
+        "certain conditions originating in the perinatal period",
+        "certain infectious and parasitic diseases",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "asthma classified to J45.-"
+    ],
+    "symptoms": [
+        "cough",
+        "shortness of breath",
+        "chest pain",
+        "wheezing",
+        "fatigue"
+    ]
+}

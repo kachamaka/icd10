@@ -1,0 +1,36 @@
+{
+    "icd10code": "H34.8",
+    "type": "subcategory",
+    "title": "Other retinal vascular occlusions",
+    "chapter": "Diseases of the eye and adnexa",
+    "chapterCode": "VII",
+    "block": "Disorders of choroid and retina",
+    "blockCode": "H30-H36",
+    "category": "Retinal vascular occlusions",
+    "categoryCode": "H34",
+    "subcategory": "H34.8",
+    "inclusion": [
+        "Retinal vein occlusion: central",
+        "Retinal vein occlusion: incipient",
+        "Retinal vein occlusion: partial",
+        "Retinal vein occlusion: tributary"
+    ],
+    "exclusion": [
+        "certain conditions originating in the perinatal period",
+        "certain infectious and parasitic diseases",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "amaurosis fugax"
+    ],
+    "symptoms": [
+        "sudden vision loss",
+        "floaters",
+        "flashes of light",
+        "blurred vision",
+        "and loss of peripheral vision"
+    ]
+}

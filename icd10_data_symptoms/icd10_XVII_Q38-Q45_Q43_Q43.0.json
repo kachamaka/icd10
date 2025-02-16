@@ -1,0 +1,26 @@
+{
+    "icd10code": "Q43.0",
+    "type": "subcategory",
+    "title": "Meckel diverticulum",
+    "chapter": "Congenital malformations, deformations and chromosomal abnormalities",
+    "chapterCode": "XVII",
+    "block": "Other congenital malformations of the digestive system",
+    "blockCode": "Q38-Q45",
+    "category": "Other congenital malformations of intestine",
+    "categoryCode": "Q43",
+    "subcategory": "Q43.0",
+    "inclusion": [
+        "Persistent: omphalomesenteric duct",
+        "Persistent: vitelline duct"
+    ],
+    "exclusion": [
+        "inborn errors of metabolism"
+    ],
+    "symptoms": [
+        "abdominal pain",
+        "vomiting",
+        "diarrhea",
+        "weight loss",
+        "malabsorption"
+    ]
+}

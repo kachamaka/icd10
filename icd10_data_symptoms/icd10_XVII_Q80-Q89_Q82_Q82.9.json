@@ -1,0 +1,27 @@
+{
+    "icd10code": "Q82.9",
+    "type": "subcategory",
+    "title": "Congenital malformation of skin, unspecified",
+    "chapter": "Congenital malformations, deformations and chromosomal abnormalities",
+    "chapterCode": "XVII",
+    "block": "Other congenital malformations",
+    "blockCode": "Q80-Q89",
+    "category": "Other congenital malformations of skin",
+    "categoryCode": "Q82",
+    "subcategory": "Q82.9",
+    "inclusion": null,
+    "exclusion": [
+        "inborn errors of metabolism",
+        "acrodermatitis enteropathica",
+        "congenital erythropoietic porphyria",
+        "pilonidal cyst or sinus",
+        "Sturge-Weber(-Dimitri) syndrome"
+    ],
+    "symptoms": [
+        "abnormal skin texture",
+        "unusual pigmentation",
+        "skin fragility",
+        "recurrent skin infections",
+        "dermal scarring"
+    ]
+}

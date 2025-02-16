@@ -1,0 +1,23 @@
+{
+    "icd10code": "C11.0",
+    "type": "subcategory",
+    "title": "Malignant neoplasm: Superior wall of nasopharynx",
+    "chapter": "Neoplasms",
+    "chapterCode": "II",
+    "block": "Malignant neoplasms of lip, oral cavity and pharynx",
+    "blockCode": "C00-C14",
+    "category": "Malignant neoplasm of nasopharynx",
+    "categoryCode": "C11",
+    "subcategory": "C11.0",
+    "inclusion": [
+        "Roof of nasopharynx"
+    ],
+    "exclusion": null,
+    "symptoms": [
+        "nasal obstruction",
+        "difficulty breathing",
+        "nosebleeds",
+        "nasal discharge",
+        "loss of smell"
+    ]
+}

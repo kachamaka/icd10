@@ -1,0 +1,27 @@
+{
+    "icd10code": "F25.0",
+    "type": "subcategory",
+    "title": "Schizoaffective disorder, manic type",
+    "chapter": "Mental and behavioural disorders",
+    "chapterCode": "V",
+    "block": "Schizophrenia, schizotypal and delusional disorders",
+    "blockCode": "F20-F29",
+    "category": "Schizoaffective disorders",
+    "categoryCode": "F25",
+    "subcategory": "F25.0",
+    "inclusion": [
+        "disorders of psychological development",
+        "Schizoaffective psychosis, manic type",
+        "Schizophreniform psychosis, manic type"
+    ],
+    "exclusion": [
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified"
+    ],
+    "symptoms": [
+        "hallucinations",
+        "delusions",
+        "disorganized thinking",
+        "mood disturbances",
+        "impaired social functioning"
+    ]
+}

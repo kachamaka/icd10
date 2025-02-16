@@ -1,0 +1,24 @@
+{
+    "icd10code": "D36.7",
+    "type": "subcategory",
+    "title": "Benign neoplasm: Other specified sites",
+    "chapter": "Neoplasms",
+    "chapterCode": "II",
+    "block": "Benign neoplasms",
+    "blockCode": "D10-D36",
+    "category": "Benign neoplasm of other and unspecified sites",
+    "categoryCode": "D36",
+    "subcategory": "D36.7",
+    "inclusion": [
+        "morphology codes with behaviour code /0",
+        "Nose NOS"
+    ],
+    "exclusion": null,
+    "symptoms": [
+        "abnormal imaging findings",
+        "unexplained weight loss",
+        "discomfort or pain in neoplasm area",
+        "noticeable lump or swelling",
+        "fatigue"
+    ]
+}

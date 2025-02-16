@@ -1,0 +1,35 @@
+{
+    "icd10code": "N16.4",
+    "type": "subcategory",
+    "title": "Renal tubulo-interstitial disorders in systemic connective tissue disorders",
+    "chapter": "Diseases of the genitourinary system",
+    "chapterCode": "XIV",
+    "block": "Renal tubulo-interstitial diseases",
+    "blockCode": "N10-N16",
+    "category": "Renal tubulo-interstitial disorders in diseases classified elsewhere",
+    "categoryCode": "N16",
+    "subcategory": "N16.4",
+    "inclusion": [
+        "pyelonephritis",
+        "Renal tubulo-interstitial disorders in: sicca syndrome [Sjögren]",
+        "Renal tubulo-interstitial disorders in: systemic lupus erythematosus"
+    ],
+    "exclusion": [
+        "certain conditions originating in the perinatal period",
+        "certain infectious and parasitic diseases",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "pyeloureteritis cystica"
+    ],
+    "symptoms": [
+        "flank pain",
+        "fever",
+        "urinary frequency",
+        "hematuria",
+        "dysuria"
+    ]
+}

@@ -1,0 +1,29 @@
+{
+  "type": "subcategory",
+  "chapterCode": "V",
+  "chapter": "Mental and behavioural disorders",
+  "blockCode": "F80-F89",
+  "block": "Disorders of psychological development",
+  "categoryCode": "F80",
+  "category": "Specific developmental disorders of speech and language",
+  "subcategory": "F80.2",
+  "title": "Receptive language disorder",
+  "inclusion": [
+    "disorders of psychological development",
+    "Congenital auditory imperception",
+    "Developmental: dysphasia or aphasia, receptive type",
+    "Developmental: Wernicke aphasia",
+    "Word deafness"
+  ],
+  "exclusion": [
+    "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+    "acquired aphasia with epilepsy [Landau-Kleffner]",
+    "autism",
+    "dysphasia and aphasia: NOS",
+    "dysphasia and aphasia: developmental, expressive type",
+    "elective mutism",
+    "language delay due to deafness",
+    "mental retardation"
+  ],
+  "children": null
+}

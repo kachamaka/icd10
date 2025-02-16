@@ -1,0 +1,37 @@
+{
+    "icd10code": "H19.2",
+    "type": "subcategory",
+    "title": "Keratitis and keratoconjunctivitis in other infectious and parasitic diseases classified elsewhere",
+    "chapter": "Diseases of the eye and adnexa",
+    "chapterCode": "VII",
+    "block": "Disorders of sclera, cornea, iris and ciliary body",
+    "blockCode": "H15-H22",
+    "category": "Disorders of sclera and cornea in diseases classified elsewhere",
+    "categoryCode": "H19",
+    "subcategory": "H19.2",
+    "inclusion": [
+        "Epidemic keratoconjunctivitis",
+        "Keratitis and keratoconjunctivitis (interstitial) in: acanthamoebiasis",
+        "Keratitis and keratoconjunctivitis (interstitial) in: measles",
+        "Keratitis and keratoconjunctivitis (interstitial) in: syphilis",
+        "Keratitis and keratoconjunctivitis (interstitial) in: tuberculosis",
+        "Keratitis and keratoconjunctivitis (interstitial) in: zoster"
+    ],
+    "exclusion": [
+        "certain conditions originating in the perinatal period",
+        "certain infectious and parasitic diseases",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified"
+    ],
+    "symptoms": [
+        "eye redness",
+        "pain",
+        "blurred vision",
+        "sensitivity to light",
+        "tearing"
+    ]
+}

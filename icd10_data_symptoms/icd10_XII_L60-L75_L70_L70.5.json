@@ -1,0 +1,36 @@
+{
+    "icd10code": "L70.5",
+    "type": "subcategory",
+    "title": "Acné excoriée",
+    "chapter": "Diseases of the skin and subcutaneous tissue",
+    "chapterCode": "XII",
+    "block": "Disorders of skin appendages",
+    "blockCode": "L60-L75",
+    "category": "Acne",
+    "categoryCode": "L70",
+    "subcategory": "L70.5",
+    "inclusion": [
+        "Acné excoriée des jeunes filles"
+    ],
+    "exclusion": [
+        "certain conditions originating in the perinatal period",
+        "certain infectious and parasitic diseases",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "lipomelanotic reticulosis",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "systemic connective tissue disorders",
+        "decubitus [pressure] ulcer and pressure area",
+        "gangrene"
+    ],
+    "symptoms": [
+        "papules",
+        "pustules",
+        "nodules",
+        "inflammation",
+        "scarring"
+    ]
+}

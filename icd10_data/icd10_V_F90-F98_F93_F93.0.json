@@ -1,0 +1,23 @@
+{
+  "type": "subcategory",
+  "chapterCode": "V",
+  "chapter": "Mental and behavioural disorders",
+  "blockCode": "F90-F98",
+  "block": "Behavioural and emotional disorders with onset usually occurring in childhood and adolescence",
+  "categoryCode": "F93",
+  "category": "Emotional disorders with onset specific to childhood",
+  "subcategory": "F93.0",
+  "title": "Separation anxiety disorder of childhood",
+  "inclusion": [
+    "disorders of psychological development"
+  ],
+  "exclusion": [
+    "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+    "when associated with conduct disorder",
+    "mood [affective] disorders",
+    "neurotic disorders",
+    "phobic anxiety disorder of childhood",
+    "social anxiety disorder of childhood"
+  ],
+  "children": null
+}

@@ -1,0 +1,35 @@
+{
+    "icd10code": "R09.8",
+    "type": "subcategory",
+    "title": "Other specified symptoms and signs involving the circulatory and respiratory systems",
+    "chapter": "Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+    "chapterCode": "XVIII",
+    "block": "Symptoms and signs involving the circulatory and respiratory systems",
+    "blockCode": "R00-R09",
+    "category": "Other symptoms and signs involving the circulatory and respiratory systems",
+    "categoryCode": "R09",
+    "subcategory": "R09.8",
+    "inclusion": [
+        "Bruit (arterial)",
+        "Chest: abnormal percussion",
+        "Chest: friction sounds",
+        "Chest: tympany",
+        "Rales",
+        "Weak pulse"
+    ],
+    "exclusion": [
+        "abnormal findings on antenatal screening of mother",
+        "certain conditions originating in the perinatal period",
+        "respiratory: distress (syndrome)(of): adult",
+        "respiratory: distress (syndrome)(of): newborn",
+        "respiratory: failure",
+        "respiratory: failure newborn"
+    ],
+    "symptoms": [
+        "chest tightness",
+        "wheezing",
+        "nasal flaring",
+        "shortness of breath",
+        "abnormal respiratory sounds"
+    ]
+}

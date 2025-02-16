@@ -1,0 +1,27 @@
+{
+    "icd10code": "Q86.1",
+    "type": "subcategory",
+    "title": "Fetal hydantoin syndrome",
+    "chapter": "Congenital malformations, deformations and chromosomal abnormalities",
+    "chapterCode": "XVII",
+    "block": "Other congenital malformations",
+    "blockCode": "Q80-Q89",
+    "category": "Congenital malformation syndromes due to known exogenous causes, not elsewhere classified",
+    "categoryCode": "Q86",
+    "subcategory": "Q86.1",
+    "inclusion": [
+        "Meadow syndrome"
+    ],
+    "exclusion": [
+        "inborn errors of metabolism",
+        "iodine-deficiency-related hypothyroidism",
+        "nonteratogenic effects of substances transmitted via placenta or breast milk"
+    ],
+    "symptoms": [
+        "facial abnormalities",
+        "limb malformations",
+        "growth retardation",
+        "intellectual disability",
+        "vision impairments"
+    ]
+}

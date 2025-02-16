@@ -1,0 +1,17 @@
+{
+  "type": "subcategory",
+  "chapterCode": "XVII",
+  "chapter": "Congenital malformations, deformations and chromosomal abnormalities",
+  "blockCode": "Q90-Q99",
+  "block": "Chromosomal abnormalities, not elsewhere classified",
+  "categoryCode": "Q96",
+  "category": "Turner syndrome",
+  "subcategory": "Q96.4",
+  "title": "Mosaicism, 45,X/other cell line(s) with abnormal sex chromosome",
+  "inclusion": null,
+  "exclusion": [
+    "inborn errors of metabolism",
+    "Noonan syndrome"
+  ],
+  "children": null
+}

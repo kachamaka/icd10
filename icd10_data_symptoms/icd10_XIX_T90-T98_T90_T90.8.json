@@ -1,0 +1,31 @@
+{
+    "icd10code": "T90.8",
+    "type": "subcategory",
+    "title": "Sequelae of other specified injuries of head",
+    "chapter": "Injury, poisoning and certain other consequences of external causes",
+    "chapterCode": "XIX",
+    "block": "Sequelae of injuries, of poisoning and of other consequences of external causes",
+    "blockCode": "T90-T98",
+    "category": "Sequelae of injuries of head",
+    "categoryCode": "T90",
+    "subcategory": "T90.8",
+    "inclusion": [
+        "Sequelae of injury classifiable to S03.-, S07-S08 and S09.0-S09.8"
+    ],
+    "exclusion": [
+        "birth trauma",
+        "obstetric trauma",
+        "malunion of fracture",
+        "nonunion of fracture [pseudarthrosis]",
+        "pathological fracture",
+        "pathological fracture with osteoporosis",
+        "stress fracture"
+    ],
+    "symptoms": [
+        "headache",
+        "dizziness",
+        "memory problems",
+        "emotional instability",
+        "sleep disturbances"
+    ]
+}

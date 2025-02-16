@@ -1,0 +1,28 @@
+{
+    "icd10code": "C96.6",
+    "type": "subcategory",
+    "title": "Unifocal Langerhans-cell histiocytosis",
+    "chapter": "Neoplasms",
+    "chapterCode": "II",
+    "block": "Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",
+    "blockCode": "C81-C96",
+    "category": "Other and unspecified malignant neoplasms of lymphoid, haematopoietic and related tissue",
+    "categoryCode": "C96",
+    "subcategory": "C96.6",
+    "inclusion": [
+        "Eosinophilic granuloma",
+        "Histiocytosis X, unifocal",
+        "Histiocytosis X NOS",
+        "Langerhans-cell histiocytosis NOS"
+    ],
+    "exclusion": [
+        "secondary and unspecified neoplasm of lymph nodes"
+    ],
+    "symptoms": [
+        "fever",
+        "night sweats",
+        "weight loss",
+        "enlarged lymph nodes",
+        "low blood cell counts"
+    ]
+}

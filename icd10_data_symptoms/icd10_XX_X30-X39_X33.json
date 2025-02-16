@@ -1,0 +1,24 @@
+{
+    "icd10code": "X33",
+    "type": "category",
+    "title": "Victim of lightning",
+    "chapter": "External causes of morbidity and mortality",
+    "chapterCode": "XX",
+    "block": "Exposure to forces of nature",
+    "blockCode": "X30-X39",
+    "category": "Victim of lightning",
+    "categoryCode": "X33",
+    "subcategory": "",
+    "inclusion": null,
+    "exclusion": [
+        "fire caused by lightning",
+        "injury from fall of tree or other object caused by lightning"
+    ],
+    "symptoms": [
+        "burns",
+        "dehydration",
+        "heat exhaustion",
+        "heat stroke",
+        "respiratory distress"
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "icd10code": "T58",
+    "type": "category",
+    "title": "Toxic effect of carbon monoxide",
+    "chapter": "Injury, poisoning and certain other consequences of external causes",
+    "chapterCode": "XIX",
+    "block": "Toxic effects of substances chiefly nonmedicinal as to source",
+    "blockCode": "T51-T65",
+    "category": "Toxic effect of carbon monoxide",
+    "categoryCode": "T58",
+    "subcategory": "",
+    "inclusion": [
+        "From all sources"
+    ],
+    "exclusion": [
+        "birth trauma",
+        "obstetric trauma",
+        "malunion of fracture",
+        "nonunion of fracture [pseudarthrosis]",
+        "pathological fracture",
+        "pathological fracture with osteoporosis",
+        "stress fracture",
+        "corrosions",
+        "localized toxic effects classified elsewhere",
+        "respiratory conditions due to external agents"
+    ],
+    "symptoms": [
+        "headache",
+        "dizziness",
+        "nausea",
+        "shortness of breath",
+        "confusion"
+    ]
+}

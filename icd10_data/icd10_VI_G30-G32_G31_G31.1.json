@@ -1,0 +1,26 @@
+{
+  "type": "subcategory",
+  "chapterCode": "VI",
+  "chapter": "Diseases of the nervous system",
+  "blockCode": "G30-G32",
+  "block": "Other degenerative diseases of the nervous system",
+  "categoryCode": "G31",
+  "category": "Other degenerative diseases of nervous system, not elsewhere classified",
+  "subcategory": "G31.1",
+  "title": "Senile degeneration of brain, not elsewhere classified",
+  "inclusion": null,
+  "exclusion": [
+    "certain conditions originating in the perinatal period",
+    "certain infectious and parasitic diseases",
+    "complications of pregnancy, childbirth and the puerperium",
+    "congenital malformations, deformations and chromosomal abnormalities",
+    "endocrine, nutritional and metabolic diseases",
+    "injury, poisoning and certain other consequences of external causes",
+    "neoplasms",
+    "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+    "Reye syndrome",
+    "Alzheimer disease",
+    "senility NOS"
+  ],
+  "children": null
+}

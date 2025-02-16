@@ -1,0 +1,23 @@
+{
+    "icd10code": "C46.3",
+    "type": "subcategory",
+    "title": "Kaposi sarcoma of lymph nodes",
+    "chapter": "Neoplasms",
+    "chapterCode": "II",
+    "block": "Malignant neoplasms of mesothelial and soft tissue",
+    "blockCode": "C45-C49",
+    "category": "Kaposi sarcoma",
+    "categoryCode": "C46",
+    "subcategory": "C46.3",
+    "inclusion": [
+        "morphology code M9140 with behaviour code /3"
+    ],
+    "exclusion": null,
+    "symptoms": [
+        "shortness of breath",
+        "persistent cough",
+        "chest pain",
+        "difficulty swallowing",
+        "unexplained weight loss"
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "icd10code": "X59.0",
+    "type": "subcategory",
+    "title": "Exposure to unspecified factor causing fracture",
+    "chapter": "External causes of morbidity and mortality",
+    "chapterCode": "XX",
+    "block": "Accidental exposure to other and unspecified factors",
+    "blockCode": "X58-X59",
+    "category": "Exposure to unspecified factor",
+    "categoryCode": "X59",
+    "subcategory": "X59.0",
+    "inclusion": null,
+    "exclusion": null,
+    "symptoms": [
+        "asymptomatic"
+    ]
+}

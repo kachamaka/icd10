@@ -1,0 +1,21 @@
+{
+    "icd10code": "C67.2",
+    "type": "subcategory",
+    "title": "Malignant neoplasm: Lateral wall of bladder",
+    "chapter": "Neoplasms",
+    "chapterCode": "II",
+    "block": "Malignant neoplasms of urinary tract",
+    "blockCode": "C64-C68",
+    "category": "Malignant neoplasm of bladder",
+    "categoryCode": "C67",
+    "subcategory": "C67.2",
+    "inclusion": null,
+    "exclusion": null,
+    "symptoms": [
+        "hematuria",
+        "frequent urination",
+        "painful urination",
+        "pelvic pain",
+        "unintentional weight loss"
+    ]
+}

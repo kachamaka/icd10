@@ -1,0 +1,34 @@
+{
+    "icd10code": "Q76.4",
+    "type": "subcategory",
+    "title": "Other congenital malformations of spine, not associated with scoliosis",
+    "chapter": "Congenital malformations, deformations and chromosomal abnormalities",
+    "chapterCode": "XVII",
+    "block": "Congenital malformations and deformations of the musculoskeletal system",
+    "blockCode": "Q65-Q79",
+    "category": "Congenital malformations of spine and bony thorax",
+    "categoryCode": "Q76",
+    "subcategory": "Q76.4",
+    "inclusion": [
+        "Congenital: absence of vertebra unspecified or not associated with scoliosis",
+        "Congenital: fusion of spine unspecified or not associated with scoliosis",
+        "Congenital: kyphosis unspecified or not associated with scoliosis",
+        "Congenital: lordosis unspecified or not associated with scoliosis",
+        "Congenital: malformation of lumbosacral (joint) (region) unspecified or not associated with scoliosis",
+        "Hemivertebra unspecified or not associated with scoliosis",
+        "Malformation of spine unspecified or not associated with scoliosis",
+        "Platyspondylisis unspecified or not associated with scoliosis",
+        "Supernumerary vertebra unspecified or not associated with scoliosis"
+    ],
+    "exclusion": [
+        "inborn errors of metabolism",
+        "congenital musculoskeletal deformities of spine and chest"
+    ],
+    "symptoms": [
+        "short neck",
+        "limited neck movement",
+        "low hairline",
+        "scoliosis",
+        "fused cervical vertebrae"
+    ]
+}

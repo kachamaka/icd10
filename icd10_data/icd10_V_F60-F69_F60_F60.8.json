@@ -1,0 +1,24 @@
+{
+  "type": "subcategory",
+  "chapterCode": "V",
+  "chapter": "Mental and behavioural disorders",
+  "blockCode": "F60-F69",
+  "block": "Disorders of adult personality and behaviour",
+  "categoryCode": "F60",
+  "category": "Specific personality disorders",
+  "subcategory": "F60.8",
+  "title": "Other specific personality disorders",
+  "inclusion": [
+    "disorders of psychological development",
+    "Personality (disorder): eccentric",
+    "Personality (disorder): \"haltlose\" type",
+    "Personality (disorder): immature",
+    "Personality (disorder): narcissistic",
+    "Personality (disorder): passive-aggressive",
+    "Personality (disorder): psychoneurotic"
+  ],
+  "exclusion": [
+    "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified"
+  ],
+  "children": null
+}

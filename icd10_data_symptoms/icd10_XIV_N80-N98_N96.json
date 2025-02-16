@@ -1,0 +1,35 @@
+{
+    "icd10code": "N96",
+    "type": "category",
+    "title": "Habitual aborter",
+    "chapter": "Diseases of the genitourinary system",
+    "chapterCode": "XIV",
+    "block": "Noninflammatory disorders of female genital tract",
+    "blockCode": "N80-N98",
+    "category": "Habitual aborter",
+    "categoryCode": "N96",
+    "subcategory": "",
+    "inclusion": [
+        "Investigation or care in a nonpregnant woman",
+        "Relative infertility"
+    ],
+    "exclusion": [
+        "certain conditions originating in the perinatal period",
+        "certain infectious and parasitic diseases",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "currently pregnant",
+        "with current abortion"
+    ],
+    "symptoms": [
+        "recurrent miscarriage",
+        "vaginal bleeding",
+        "pelvic pain",
+        "emotional distress",
+        "hormonal imbalance"
+    ]
+}

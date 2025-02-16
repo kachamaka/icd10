@@ -1,0 +1,33 @@
+{
+    "icd10code": "G24.2",
+    "type": "subcategory",
+    "title": "Idiopathic nonfamilial dystonia",
+    "chapter": "Diseases of the nervous system",
+    "chapterCode": "VI",
+    "block": "Extrapyramidal and movement disorders",
+    "blockCode": "G20-G26",
+    "category": "Dystonia",
+    "categoryCode": "G24",
+    "subcategory": "G24.2",
+    "inclusion": [
+        "dyskinesia"
+    ],
+    "exclusion": [
+        "certain conditions originating in the perinatal period",
+        "certain infectious and parasitic diseases",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "athetoid cerebral palsy"
+    ],
+    "symptoms": [
+        "muscle cramps",
+        "eye twitching",
+        "facial spasms",
+        "muscle stiffness",
+        "involuntary movements"
+    ]
+}

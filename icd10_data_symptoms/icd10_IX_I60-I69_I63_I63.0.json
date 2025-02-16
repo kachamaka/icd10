@@ -1,0 +1,40 @@
+{
+    "icd10code": "I63.0",
+    "type": "subcategory",
+    "title": "Cerebral infarction due to thrombosis of precerebral arteries",
+    "chapter": "Diseases of the circulatory system",
+    "chapterCode": "IX",
+    "block": "Cerebrovascular diseases",
+    "blockCode": "I60-I69",
+    "category": "Cerebral infarction",
+    "categoryCode": "I63",
+    "subcategory": "I63.0",
+    "inclusion": [
+        "with mention of hypertension (conditions in I10 and I15.-)",
+        "occlusion and stenosis of cerebral and precerebral arteries (including truncus brachiocephalicus), resulting in cerebral infarction"
+    ],
+    "exclusion": [
+        "certain conditions originating in the perinatal period",
+        "certain infectious and parasitic diseases",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "systemic connective tissue disorders",
+        "transient cerebral ischaemic attacks and related syndromes",
+        "pulmonary",
+        "naevus: blue",
+        "complicating: childbirth and the puerperium",
+        "complicating: pregnancy"
+    ],
+    "symptoms": [
+        "sudden severe headache",
+        "difficulty speaking or understanding speech",
+        "paralysis or numbness in the face",
+        "arms",
+        "or legs",
+        "problems with balance or coordination,"
+    ]
+}

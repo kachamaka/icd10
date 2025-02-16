@@ -1,0 +1,21 @@
+{
+    "icd10code": "U43.9",
+    "type": "subcategory",
+    "title": "Emergency use of U43.9",
+    "chapter": "Codes for special purposes",
+    "chapterCode": "XXII",
+    "block": "Provisional assignment of new diseases of uncertain etiology or emergency use",
+    "blockCode": "U00-U49",
+    "category": "Emergency use of U43",
+    "categoryCode": "U43",
+    "subcategory": "U43.9",
+    "inclusion": null,
+    "exclusion": null,
+    "symptoms": [
+        "skin irritation",
+        "redness",
+        "blistering",
+        "discoloration",
+        "pain"
+    ]
+}

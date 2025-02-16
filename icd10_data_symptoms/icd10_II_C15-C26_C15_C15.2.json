@@ -1,0 +1,21 @@
+{
+    "icd10code": "C15.2",
+    "type": "subcategory",
+    "title": "Malignant neoplasm: Abdominal part of oesophagus",
+    "chapter": "Neoplasms",
+    "chapterCode": "II",
+    "block": "Malignant neoplasms of digestive organs",
+    "blockCode": "C15-C26",
+    "category": "Malignant neoplasm of oesophagus",
+    "categoryCode": "C15",
+    "subcategory": "C15.2",
+    "inclusion": null,
+    "exclusion": null,
+    "symptoms": [
+        "difficulty swallowing",
+        "chest pain",
+        "weight loss",
+        "fatigue",
+        "persistent cough"
+    ]
+}

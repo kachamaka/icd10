@@ -1,0 +1,32 @@
+{
+  "type": "subcategory",
+  "chapterCode": "IX",
+  "chapter": "Diseases of the circulatory system",
+  "blockCode": "I80-I89",
+  "block": "Diseases of veins, lymphatic vessels and lymph nodes, not elsewhere classified",
+  "categoryCode": "I89",
+  "category": "Other noninfective disorders of lymphatic vessels and lymph nodes",
+  "subcategory": "I89.0",
+  "title": "Lymphoedema, not elsewhere classified",
+  "inclusion": [
+    "Lymphangiectasis"
+  ],
+  "exclusion": [
+    "certain conditions originating in the perinatal period",
+    "certain infectious and parasitic diseases",
+    "complications of pregnancy, childbirth and the puerperium",
+    "congenital malformations, deformations and chromosomal abnormalities",
+    "endocrine, nutritional and metabolic diseases",
+    "injury, poisoning and certain other consequences of external causes",
+    "neoplasms",
+    "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+    "systemic connective tissue disorders",
+    "transient cerebral ischaemic attacks and related syndromes",
+    "pulmonary",
+    "naevus: blue",
+    "complicating: childbirth and the puerperium",
+    "complicating: pregnancy",
+    "naevus: melanocytic"
+  ],
+  "children": null
+}

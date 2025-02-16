@@ -1,0 +1,21 @@
+{
+  "type": "subcategory",
+  "chapterCode": "II",
+  "chapter": "Neoplasms",
+  "blockCode": "D10-D36",
+  "block": "Benign neoplasms",
+  "categoryCode": "D11",
+  "category": "Benign neoplasm of major salivary glands",
+  "subcategory": "D11.7",
+  "title": "Benign neoplasm: Other major salivary glands",
+  "inclusion": [
+    "morphology codes with behaviour code /0",
+    "Gland: sublingual",
+    "Gland: submandibular"
+  ],
+  "exclusion": [
+    "benign neoplasms of specified minor salivary glands which are classified according to their anatomical location",
+    "benign neoplasms of minor salivary glands NOS"
+  ],
+  "children": null
+}

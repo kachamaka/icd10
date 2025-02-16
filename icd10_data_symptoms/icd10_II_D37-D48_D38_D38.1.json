@@ -1,0 +1,23 @@
+{
+    "icd10code": "D38.1",
+    "type": "subcategory",
+    "title": "Neoplasm of uncertain or unknown behaviour: Trachea, bronchus and lung",
+    "chapter": "Neoplasms",
+    "chapterCode": "II",
+    "block": "Neoplasms of uncertain or unknown behaviour",
+    "blockCode": "D37-D48",
+    "category": "Neoplasm of uncertain or unknown behaviour of middle ear and respiratory and intrathoracic organs",
+    "categoryCode": "D38",
+    "subcategory": "D38.1",
+    "inclusion": null,
+    "exclusion": [
+        "heart"
+    ],
+    "symptoms": [
+        "difficulty swallowing",
+        "change in voice",
+        "persistent cough",
+        "throat pain",
+        "neck lumps"
+    ]
+}

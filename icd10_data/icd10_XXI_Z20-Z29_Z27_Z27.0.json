@@ -1,0 +1,16 @@
+{
+  "type": "subcategory",
+  "chapterCode": "XXI",
+  "chapter": "Factors influencing health status and contact with health services",
+  "blockCode": "Z20-Z29",
+  "block": "Persons with potential health hazards related to communicable diseases",
+  "categoryCode": "Z27",
+  "category": "Need for immunization against combinations of infectious diseases",
+  "subcategory": "Z27.0",
+  "title": "Need for immunization against cholera with typhoid-paratyphoid [cholera + TAB]",
+  "inclusion": null,
+  "exclusion": [
+    "immunization not carried out"
+  ],
+  "children": null
+}

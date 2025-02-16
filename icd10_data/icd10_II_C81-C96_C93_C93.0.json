@@ -1,0 +1,21 @@
+{
+  "type": "subcategory",
+  "chapterCode": "II",
+  "chapter": "Neoplasms",
+  "blockCode": "C81-C96",
+  "block": "Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",
+  "categoryCode": "C93",
+  "category": "Monocytic leukaemia",
+  "subcategory": "C93.0",
+  "title": "Acute monoblastic/monocytic leukaemia",
+  "inclusion": [
+    "monocytoid leukaemia",
+    "AML M5a",
+    "AML M5b",
+    "AML M5"
+  ],
+  "exclusion": [
+    "secondary and unspecified neoplasm of lymph nodes"
+  ],
+  "children": null
+}

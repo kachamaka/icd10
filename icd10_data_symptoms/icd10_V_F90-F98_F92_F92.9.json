@@ -1,0 +1,25 @@
+{
+    "icd10code": "F92.9",
+    "type": "subcategory",
+    "title": "Mixed disorder of conduct and emotions, unspecified",
+    "chapter": "Mental and behavioural disorders",
+    "chapterCode": "V",
+    "block": "Behavioural and emotional disorders with onset usually occurring in childhood and adolescence",
+    "blockCode": "F90-F98",
+    "category": "Mixed disorders of conduct and emotions",
+    "categoryCode": "F92",
+    "subcategory": "F92.9",
+    "inclusion": [
+        "disorders of psychological development"
+    ],
+    "exclusion": [
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified"
+    ],
+    "symptoms": [
+        "mood swings",
+        "impulsivity",
+        "attention difficulties",
+        "behavioral issues",
+        "emotional dysregulation"
+    ]
+}

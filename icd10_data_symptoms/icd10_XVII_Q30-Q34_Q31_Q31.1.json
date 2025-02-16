@@ -1,0 +1,24 @@
+{
+    "icd10code": "Q31.1",
+    "type": "subcategory",
+    "title": "Congenital subglottic stenosis",
+    "chapter": "Congenital malformations, deformations and chromosomal abnormalities",
+    "chapterCode": "XVII",
+    "block": "Congenital malformations of the respiratory system",
+    "blockCode": "Q30-Q34",
+    "category": "Congenital malformations of larynx",
+    "categoryCode": "Q31",
+    "subcategory": "Q31.1",
+    "inclusion": null,
+    "exclusion": [
+        "inborn errors of metabolism",
+        "congenital (laryngeal) stridor NOS"
+    ],
+    "symptoms": [
+        "hoarseness",
+        "difficulty breathing",
+        "noisy breathing",
+        "swallowing difficulties",
+        "vocal fatigue"
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "icd10code": "D12.2",
+    "type": "subcategory",
+    "title": "Benign neoplasm: Ascending colon",
+    "chapter": "Neoplasms",
+    "chapterCode": "II",
+    "block": "Benign neoplasms",
+    "blockCode": "D10-D36",
+    "category": "Benign neoplasm of colon, rectum, anus and anal canal",
+    "categoryCode": "D12",
+    "subcategory": "D12.2",
+    "inclusion": [
+        "morphology codes with behaviour code /0"
+    ],
+    "exclusion": null,
+    "symptoms": [
+        "rectal bleeding",
+        "changes in bowel habits",
+        "abdominal pain",
+        "anemia",
+        "feeling of rectal fullness"
+    ]
+}

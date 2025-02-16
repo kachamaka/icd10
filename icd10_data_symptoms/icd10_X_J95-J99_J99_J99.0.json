@@ -1,0 +1,30 @@
+{
+    "icd10code": "J99.0",
+    "type": "subcategory",
+    "title": "Rheumatoid lung disease",
+    "chapter": "Diseases of the respiratory system",
+    "chapterCode": "X",
+    "block": "Other diseases of the respiratory system",
+    "blockCode": "J95-J99",
+    "category": "Respiratory disorders in diseases classified elsewhere",
+    "categoryCode": "J99",
+    "subcategory": "J99.0",
+    "inclusion": null,
+    "exclusion": [
+        "certain conditions originating in the perinatal period",
+        "certain infectious and parasitic diseases",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified"
+    ],
+    "symptoms": [
+        "cough",
+        "shortness of breath",
+        "wheezing",
+        "chest pain",
+        "fatigue"
+    ]
+}

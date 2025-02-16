@@ -1,0 +1,23 @@
+{
+    "icd10code": "Q64.8",
+    "type": "subcategory",
+    "title": "Other specified congenital malformations of urinary system",
+    "chapter": "Congenital malformations, deformations and chromosomal abnormalities",
+    "chapterCode": "XVII",
+    "block": "Congenital malformations of the urinary system",
+    "blockCode": "Q60-Q64",
+    "category": "Other congenital malformations of urinary system",
+    "categoryCode": "Q64",
+    "subcategory": "Q64.8",
+    "inclusion": null,
+    "exclusion": [
+        "inborn errors of metabolism"
+    ],
+    "symptoms": [
+        "abnormal urine flow",
+        "recurrent urinary tract infections",
+        "urinary retention",
+        "difficulty urinating",
+        "abnormal genital development"
+    ]
+}

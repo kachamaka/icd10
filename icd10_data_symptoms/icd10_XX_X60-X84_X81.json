@@ -1,0 +1,20 @@
+{
+    "icd10code": "X81",
+    "type": "category",
+    "title": "Intentional self-harm by jumping or lying before moving object",
+    "chapter": "External causes of morbidity and mortality",
+    "chapterCode": "XX",
+    "block": "Intentional self-harm",
+    "blockCode": "X60-X84",
+    "category": "Intentional self-harm by jumping or lying before moving object",
+    "categoryCode": "X81",
+    "subcategory": "",
+    "inclusion": [
+        "purposely self-inflicted poisoning or injury",
+        "suicide (attempted)"
+    ],
+    "exclusion": null,
+    "symptoms": [
+        "asymptomatic"
+    ]
+}

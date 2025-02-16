@@ -1,0 +1,27 @@
+{
+    "icd10code": "R00.3",
+    "type": "subcategory",
+    "title": "Pulseless electrical activity, not elsewhere classified",
+    "chapter": "Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+    "chapterCode": "XVIII",
+    "block": "Symptoms and signs involving the circulatory and respiratory systems",
+    "blockCode": "R00-R09",
+    "category": "Abnormalities of heart beat",
+    "categoryCode": "R00",
+    "subcategory": "R00.3",
+    "inclusion": null,
+    "exclusion": [
+        "abnormal findings on antenatal screening of mother",
+        "certain conditions originating in the perinatal period",
+        "abnormalities originating in the perinatal period",
+        "specified arrhythmias",
+        "cardiac arrest"
+    ],
+    "symptoms": [
+        "palpitations",
+        "rapid heartbeat",
+        "irregular heartbeat",
+        "chest discomfort",
+        "shortness of breath"
+    ]
+}

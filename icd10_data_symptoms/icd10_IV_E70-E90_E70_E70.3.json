@@ -1,0 +1,37 @@
+{
+    "icd10code": "E70.3",
+    "type": "subcategory",
+    "title": "Albinism",
+    "chapter": "Endocrine, nutritional and metabolic diseases",
+    "chapterCode": "IV",
+    "block": "Metabolic disorders",
+    "blockCode": "E70-E90",
+    "category": "Disorders of aromatic amino-acid metabolism",
+    "categoryCode": "E70",
+    "subcategory": "E70.3",
+    "inclusion": [
+        "Albinism: ocular",
+        "Albinism: oculocutaneous",
+        "Syndrome: Chediak(-Steinbrinck)-Higashi",
+        "Syndrome: Cross",
+        "Syndrome: Hermansky-Pudlak"
+    ],
+    "exclusion": [
+        "complications of pregnancy, childbirth and the puerperium",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "transitory endocrine and metabolic disorders specific to fetus and newborn",
+        "androgen resistance syndrome",
+        "congenital adrenal hyperplasia",
+        "Ehlers-Danlos syndrome",
+        "haemolytic anaemias due to enzyme disorders",
+        "Marfan syndrome",
+        "5-alpha-reductase deficiency"
+    ],
+    "symptoms": [
+        "poor muscle tone",
+        "developmental delay",
+        "seizures",
+        "intellectual disability",
+        "excessive sleepiness"
+    ]
+}

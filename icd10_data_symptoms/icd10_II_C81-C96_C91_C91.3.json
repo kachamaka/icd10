@@ -1,0 +1,23 @@
+{
+    "icd10code": "C91.3",
+    "type": "subcategory",
+    "title": "Prolymphocytic leukaemia of B-cell type",
+    "chapter": "Neoplasms",
+    "chapterCode": "II",
+    "block": "Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",
+    "blockCode": "C81-C96",
+    "category": "Lymphoid leukaemia",
+    "categoryCode": "C91",
+    "subcategory": "C91.3",
+    "inclusion": null,
+    "exclusion": [
+        "secondary and unspecified neoplasm of lymph nodes"
+    ],
+    "symptoms": [
+        "unexplained weight loss",
+        "night sweats",
+        "fever",
+        "enlarged lymph nodes",
+        "frequent infections"
+    ]
+}

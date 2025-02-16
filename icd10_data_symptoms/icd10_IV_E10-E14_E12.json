@@ -1,0 +1,38 @@
+{
+    "icd10code": "E12",
+    "type": "modifiedcategory",
+    "title": "Malnutrition-related diabetes mellitus with coma",
+    "chapter": "Endocrine, nutritional and metabolic diseases",
+    "chapterCode": "IV",
+    "block": "Diabetes mellitus",
+    "blockCode": "E10-E14",
+    "category": "Malnutrition-related diabetes mellitus",
+    "categoryCode": "E12",
+    "subcategory": "",
+    "inclusion": [
+        "malnutrition-related diabetes mellitus: type 1",
+        "malnutrition-related diabetes mellitus: type 2",
+        "Diabetic: coma with or without ketoacidosis",
+        "Diabetic: hyperosmolar coma",
+        "Diabetic: hypoglycaemic coma",
+        "Hyperglycaemic coma NOS"
+    ],
+    "exclusion": [
+        "complications of pregnancy, childbirth and the puerperium",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "transitory endocrine and metabolic disorders specific to fetus and newborn",
+        "diabetes mellitus in pregnancy, childbirth and the puerperium",
+        "glycosuria: NOS",
+        "glycosuria: renal",
+        "impaired glucose tolerance",
+        "neonatal diabetes mellitus",
+        "postsurgical hypoinsulinaemia"
+    ],
+    "symptoms": [
+        "increased thirst and urination",
+        "sudden weight loss",
+        "fatigue",
+        "blurred vision",
+        "slow-healing sores or frequent infections"
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "icd10code": "Q51.2",
+    "type": "subcategory",
+    "title": "Other doubling of uterus",
+    "chapter": "Congenital malformations, deformations and chromosomal abnormalities",
+    "chapterCode": "XVII",
+    "block": "Congenital malformations of genital organs",
+    "blockCode": "Q50-Q56",
+    "category": "Congenital malformations of uterus and cervix",
+    "categoryCode": "Q51",
+    "subcategory": "Q51.2",
+    "inclusion": [
+        "Doubling of uterus NOS"
+    ],
+    "exclusion": [
+        "inborn errors of metabolism",
+        "androgen resistance syndrome",
+        "syndromes associated with anomalies in the number and form of chromosomes",
+        "testicular feminization syndrome"
+    ],
+    "symptoms": [
+        "abnormal uterine structure",
+        "recurrent miscarriages",
+        "infertility",
+        "menstrual irregularities",
+        "pelvic pain"
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "icd10code": "R35",
+    "type": "category",
+    "title": "Polyuria",
+    "chapter": "Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+    "chapterCode": "XVIII",
+    "block": "Symptoms and signs involving the urinary system",
+    "blockCode": "R30-R39",
+    "category": "Polyuria",
+    "categoryCode": "R35",
+    "subcategory": "",
+    "inclusion": [
+        "Frequency of micturition",
+        "Nocturia"
+    ],
+    "exclusion": [
+        "abnormal findings on antenatal screening of mother",
+        "certain conditions originating in the perinatal period",
+        "psychogenic polyuria"
+    ],
+    "symptoms": [
+        "frequent urination",
+        "urgency to urinate",
+        "small urine output",
+        "nocturia",
+        "inability to fully empty bladder"
+    ]
+}

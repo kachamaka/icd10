@@ -1,0 +1,32 @@
+{
+    "icd10code": "I45.0",
+    "type": "subcategory",
+    "title": "Right fascicular block",
+    "chapter": "Diseases of the circulatory system",
+    "chapterCode": "IX",
+    "block": "Other forms of heart disease",
+    "blockCode": "I30-I52",
+    "category": "Other conduction disorders",
+    "categoryCode": "I45",
+    "subcategory": "I45.0",
+    "inclusion": null,
+    "exclusion": [
+        "certain conditions originating in the perinatal period",
+        "certain infectious and parasitic diseases",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "systemic connective tissue disorders",
+        "transient cerebral ischaemic attacks and related syndromes"
+    ],
+    "symptoms": [
+        "irregular heartbeat",
+        "shortness of breath",
+        "dizziness",
+        "fainting",
+        "chest discomfort"
+    ]
+}

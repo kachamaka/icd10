@@ -1,0 +1,25 @@
+{
+    "icd10code": "D28.9",
+    "type": "subcategory",
+    "title": "Benign neoplasm: Female genital organ, unspecified",
+    "chapter": "Neoplasms",
+    "chapterCode": "II",
+    "block": "Benign neoplasms",
+    "blockCode": "D10-D36",
+    "category": "Benign neoplasm of other and unspecified female genital organs",
+    "categoryCode": "D28",
+    "subcategory": "D28.9",
+    "inclusion": [
+        "morphology codes with behaviour code /0",
+        "adenomatous polyp",
+        "skin of female genital organs"
+    ],
+    "exclusion": null,
+    "symptoms": [
+        "abnormal vaginal bleeding",
+        "pelvic pain",
+        "increased menstrual cramping",
+        "lower back pain",
+        "enlarged uterus"
+    ]
+}

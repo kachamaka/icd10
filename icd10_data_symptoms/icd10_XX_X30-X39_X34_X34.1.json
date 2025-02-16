@@ -1,0 +1,17 @@
+{
+    "icd10code": "X34.1",
+    "type": "subcategory",
+    "title": "Victim of tsunami",
+    "chapter": "External causes of morbidity and mortality",
+    "chapterCode": "XX",
+    "block": "Exposure to forces of nature",
+    "blockCode": "X30-X39",
+    "category": "Victim of earthquake",
+    "categoryCode": "X34",
+    "subcategory": "X34.1",
+    "inclusion": null,
+    "exclusion": null,
+    "symptoms": [
+        "asymptomatic"
+    ]
+}

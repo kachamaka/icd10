@@ -1,0 +1,29 @@
+{
+    "icd10code": "R63.5",
+    "type": "subcategory",
+    "title": "Abnormal weight gain",
+    "chapter": "Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+    "chapterCode": "XVIII",
+    "block": "General symptoms and signs",
+    "blockCode": "R50-R69",
+    "category": "Symptoms and signs concerning food and fluid intake",
+    "categoryCode": "R63",
+    "subcategory": "R63.5",
+    "inclusion": null,
+    "exclusion": [
+        "abnormal findings on antenatal screening of mother",
+        "certain conditions originating in the perinatal period",
+        "bulimia NOS",
+        "eating disorders of nonorganic origin",
+        "malnutrition",
+        "excessive weight gain in pregnancy",
+        "obesity"
+    ],
+    "symptoms": [
+        "weight loss",
+        "fatigue",
+        "decreased appetite",
+        "muscle weakness",
+        "malnutrition"
+    ]
+}

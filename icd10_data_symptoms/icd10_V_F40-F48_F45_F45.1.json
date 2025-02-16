@@ -1,0 +1,38 @@
+{
+    "icd10code": "F45.1",
+    "type": "subcategory",
+    "title": "Undifferentiated somatoform disorder",
+    "chapter": "Mental and behavioural disorders",
+    "chapterCode": "V",
+    "block": "Neurotic, stress-related and somatoform disorders",
+    "blockCode": "F40-F48",
+    "category": "Somatoform disorders",
+    "categoryCode": "F45",
+    "subcategory": "F45.1",
+    "inclusion": [
+        "disorders of psychological development",
+        "Undifferentiated psychosomatic disorder"
+    ],
+    "exclusion": [
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "when associated with conduct disorder in F91.-",
+        "dissociative disorders",
+        "hair-plucking",
+        "lalling",
+        "lisping",
+        "nail-biting",
+        "psychological or behavioural factors associated with disorders or diseases classified elsewhere",
+        "sexual dysfunction, not caused by organic disorder or disease",
+        "thumb-sucking",
+        "tic disorders (in childhood and adolescence)",
+        "Tourette syndrome",
+        "trichotillomania"
+    ],
+    "symptoms": [
+        "excessive worry",
+        "focus on symptoms",
+        "frequent doctor visits",
+        "anxiety",
+        "distress over health"
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "icd10code": "Q55.9",
+    "type": "subcategory",
+    "title": "Congenital malformation of male genital organ, unspecified",
+    "chapter": "Congenital malformations, deformations and chromosomal abnormalities",
+    "chapterCode": "XVII",
+    "block": "Congenital malformations of genital organs",
+    "blockCode": "Q50-Q56",
+    "category": "Other congenital malformations of male genital organs",
+    "categoryCode": "Q55",
+    "subcategory": "Q55.9",
+    "inclusion": [
+        "Congenital: anomaly NOS of male genital organ",
+        "Congenital: deformity NOS of male genital organ"
+    ],
+    "exclusion": [
+        "inborn errors of metabolism",
+        "androgen resistance syndrome",
+        "syndromes associated with anomalies in the number and form of chromosomes",
+        "testicular feminization syndrome",
+        "congenital hydrocele",
+        "hypospadias"
+    ],
+    "symptoms": [
+        "undescended testicle",
+        "absent testicle",
+        "malformed testicle",
+        "testicular pain",
+        "infertility"
+    ]
+}

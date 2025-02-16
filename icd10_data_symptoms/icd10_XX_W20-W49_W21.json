@@ -1,0 +1,28 @@
+{
+    "icd10code": "W21",
+    "type": "category",
+    "title": "Striking against or struck by sports equipment",
+    "chapter": "External causes of morbidity and mortality",
+    "chapterCode": "XX",
+    "block": "Exposure to inanimate mechanical forces",
+    "blockCode": "W20-W49",
+    "category": "Striking against or struck by sports equipment",
+    "categoryCode": "W21",
+    "subcategory": "",
+    "inclusion": [
+        "struck by: hit or thrown ball",
+        "struck by: hockey stick or puck"
+    ],
+    "exclusion": [
+        "assault",
+        "contact or collision with animals or persons",
+        "intentional self-harm"
+    ],
+    "symptoms": [
+        "pain",
+        "bruising",
+        "swelling",
+        "redness",
+        "tenderness"
+    ]
+}

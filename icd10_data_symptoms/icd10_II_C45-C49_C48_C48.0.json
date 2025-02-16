@@ -1,0 +1,24 @@
+{
+    "icd10code": "C48.0",
+    "type": "subcategory",
+    "title": "Malignant neoplasm: Retroperitoneum",
+    "chapter": "Neoplasms",
+    "chapterCode": "II",
+    "block": "Malignant neoplasms of mesothelial and soft tissue",
+    "blockCode": "C45-C49",
+    "category": "Malignant neoplasm of retroperitoneum and peritoneum",
+    "categoryCode": "C48",
+    "subcategory": "C48.0",
+    "inclusion": null,
+    "exclusion": [
+        "Kaposi sarcoma",
+        "mesothelioma"
+    ],
+    "symptoms": [
+        "abdominal pain",
+        "loss of appetite",
+        "bloating",
+        "weight loss",
+        "jaundice"
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "icd10code": "R25.8",
+    "type": "subcategory",
+    "title": "Other and unspecified abnormal involuntary movements",
+    "chapter": "Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+    "chapterCode": "XVIII",
+    "block": "Symptoms and signs involving the nervous and musculoskeletal systems",
+    "blockCode": "R25-R29",
+    "category": "Abnormal involuntary movements",
+    "categoryCode": "R25",
+    "subcategory": "R25.8",
+    "inclusion": null,
+    "exclusion": [
+        "abnormal findings on antenatal screening of mother",
+        "certain conditions originating in the perinatal period",
+        "specific movement disorders",
+        "stereotyped movement disorders",
+        "tic disorders"
+    ],
+    "symptoms": [
+        "involuntary movements",
+        "twitching",
+        "spasms",
+        "tremors",
+        "abnormal limb jerking"
+    ]
+}

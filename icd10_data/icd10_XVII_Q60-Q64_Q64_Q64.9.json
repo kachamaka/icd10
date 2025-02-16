@@ -1,0 +1,19 @@
+{
+  "type": "subcategory",
+  "chapterCode": "XVII",
+  "chapter": "Congenital malformations, deformations and chromosomal abnormalities",
+  "blockCode": "Q60-Q64",
+  "block": "Congenital malformations of the urinary system",
+  "categoryCode": "Q64",
+  "category": "Other congenital malformations of urinary system",
+  "subcategory": "Q64.9",
+  "title": "Congenital malformation of urinary system, unspecified",
+  "inclusion": [
+    "Congenital: anomaly NOS of urinary system",
+    "Congenital: deformity NOS of urinary system"
+  ],
+  "exclusion": [
+    "inborn errors of metabolism"
+  ],
+  "children": null
+}

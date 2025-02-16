@@ -1,0 +1,32 @@
+{
+  "type": "category",
+  "chapterCode": "XIX",
+  "chapter": "Injury, poisoning and certain other consequences of external causes",
+  "blockCode": "T66-T78",
+  "block": "Other and unspecified effects of external causes",
+  "categoryCode": "T71",
+  "category": "Asphyxiation",
+  "subcategory": "",
+  "title": "Asphyxiation",
+  "inclusion": [
+    "Suffocation (by strangulation)",
+    "Systemic oxygen deficiency due to: low oxygen content in ambient air",
+    "Systemic oxygen deficiency due to: mechanical threat to breathing"
+  ],
+  "exclusion": [
+    "birth trauma",
+    "obstetric trauma",
+    "malunion of fracture",
+    "nonunion of fracture [pseudarthrosis]",
+    "pathological fracture",
+    "pathological fracture with osteoporosis",
+    "stress fracture",
+    "anoxia due to high altitude",
+    "asphyxia from: carbon monoxide",
+    "asphyxia from: inhalation of food or foreign body",
+    "asphyxia from: other gases, fumes and vapours",
+    "respiratory distress: syndrome in adult",
+    "respiratory distress: in newborn"
+  ],
+  "children": null
+}

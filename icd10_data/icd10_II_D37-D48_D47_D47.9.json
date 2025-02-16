@@ -1,0 +1,16 @@
+{
+  "type": "subcategory",
+  "chapterCode": "II",
+  "chapter": "Neoplasms",
+  "blockCode": "D37-D48",
+  "block": "Neoplasms of uncertain or unknown behaviour",
+  "categoryCode": "D47",
+  "category": "Other neoplasms of uncertain or unknown behaviour of lymphoid, haematopoietic and related tissue",
+  "subcategory": "D47.9",
+  "title": "Neoplasm of uncertain or unknown behaviour of lymphoid, haematopoietic and related tissue, unspecified",
+  "inclusion": [
+    "Lymphoproliferative disease NOS"
+  ],
+  "exclusion": null,
+  "children": null
+}

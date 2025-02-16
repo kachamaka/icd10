@@ -1,0 +1,25 @@
+{
+    "icd10code": "U11.9",
+    "type": "subcategory",
+    "title": "Need for immunization against COVID-19, unspecified",
+    "chapter": "Codes for special purposes",
+    "chapterCode": "XXII",
+    "block": "Provisional assignment of new diseases of uncertain etiology or emergency use",
+    "blockCode": "U00-U49",
+    "category": "Need for immunization against COVID-19",
+    "categoryCode": "U11",
+    "subcategory": "U11.9",
+    "inclusion": [
+        "Prophylactic COVID-19 vaccination"
+    ],
+    "exclusion": [
+        "immunization not carried out"
+    ],
+    "symptoms": [
+        "fatigue",
+        "fever",
+        "cough",
+        "headache",
+        "shortness of breath"
+    ]
+}

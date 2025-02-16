@@ -1,0 +1,24 @@
+{
+  "type": "subcategory",
+  "chapterCode": "V",
+  "chapter": "Mental and behavioural disorders",
+  "blockCode": "F00-F09",
+  "block": "Organic, including symptomatic, mental disorders",
+  "categoryCode": "F05",
+  "category": "Delirium, not induced by alcohol and other psychoactive substances",
+  "subcategory": "F05.9",
+  "title": "Delirium, unspecified",
+  "inclusion": [
+    "disorders of psychological development",
+    "acute or subacute: brain syndrome",
+    "acute or subacute: confusional state (nonalcoholic)",
+    "acute or subacute: infective psychosis",
+    "acute or subacute: organic reaction",
+    "acute or subacute: psycho-organic syndrome"
+  ],
+  "exclusion": [
+    "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+    "delirium tremens, alcohol-induced or unspecified"
+  ],
+  "children": null
+}

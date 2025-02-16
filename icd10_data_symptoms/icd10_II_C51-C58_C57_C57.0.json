@@ -1,0 +1,25 @@
+{
+    "icd10code": "C57.0",
+    "type": "subcategory",
+    "title": "Malignant neoplasm: Fallopian tube",
+    "chapter": "Neoplasms",
+    "chapterCode": "II",
+    "block": "Malignant neoplasms of female genital organs",
+    "blockCode": "C51-C58",
+    "category": "Malignant neoplasm of other and unspecified female genital organs",
+    "categoryCode": "C57",
+    "subcategory": "C57.0",
+    "inclusion": [
+        "skin of female genital organs",
+        "Oviduct",
+        "Uterine tube"
+    ],
+    "exclusion": null,
+    "symptoms": [
+        "abdominal pain",
+        "abnormal vaginal bleeding",
+        "a palpable abdominal or pelvic mass",
+        "unexplained weight loss",
+        "frequent urination"
+    ]
+}

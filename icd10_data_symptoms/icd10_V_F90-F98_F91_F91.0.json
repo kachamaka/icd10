@@ -1,0 +1,30 @@
+{
+    "icd10code": "F91.0",
+    "type": "subcategory",
+    "title": "Conduct disorder confined to the family context",
+    "chapter": "Mental and behavioural disorders",
+    "chapterCode": "V",
+    "block": "Behavioural and emotional disorders with onset usually occurring in childhood and adolescence",
+    "blockCode": "F90-F98",
+    "category": "Conduct disorders",
+    "categoryCode": "F91",
+    "subcategory": "F91.0",
+    "inclusion": [
+        "disorders of psychological development"
+    ],
+    "exclusion": [
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "mood [affective]",
+        "pervasive developmental disorders",
+        "schizophrenia",
+        "when associated with: emotional disorders",
+        "when associated with: hyperkinetic disorders"
+    ],
+    "symptoms": [
+        "aggressiveness",
+        "defiance",
+        "rule-breaking",
+        "temper outbursts",
+        "irritability"
+    ]
+}

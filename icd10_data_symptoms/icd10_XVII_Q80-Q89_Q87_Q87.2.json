@@ -1,0 +1,31 @@
+{
+    "icd10code": "Q87.2",
+    "type": "subcategory",
+    "title": "Congenital malformation syndromes predominantly involving limbs",
+    "chapter": "Congenital malformations, deformations and chromosomal abnormalities",
+    "chapterCode": "XVII",
+    "block": "Other congenital malformations",
+    "blockCode": "Q80-Q89",
+    "category": "Other specified congenital malformation syndromes affecting multiple systems",
+    "categoryCode": "Q87",
+    "subcategory": "Q87.2",
+    "inclusion": [
+        "Syndrome: Holt-Oram",
+        "Syndrome: Klippel-Trénaunay-Weber",
+        "Syndrome: nail patella",
+        "Syndrome: Rubinstein-Taybi",
+        "Syndrome: sirenomelia",
+        "Syndrome: thrombocytopenia with absent radius [TAR]",
+        "Syndrome: VATER"
+    ],
+    "exclusion": [
+        "inborn errors of metabolism"
+    ],
+    "symptoms": [
+        "short stature",
+        "developmental delay",
+        "intellectual disability",
+        "facial dysmorphism",
+        "skeletal abnormalities"
+    ]
+}

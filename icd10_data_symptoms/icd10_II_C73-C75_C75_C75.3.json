@@ -1,0 +1,28 @@
+{
+    "icd10code": "C75.3",
+    "type": "subcategory",
+    "title": "Malignant neoplasm: Pineal gland",
+    "chapter": "Neoplasms",
+    "chapterCode": "II",
+    "block": "Malignant neoplasms of thyroid and other endocrine glands",
+    "blockCode": "C73-C75",
+    "category": "Malignant neoplasm of other endocrine glands and related structures",
+    "categoryCode": "C75",
+    "subcategory": "C75.3",
+    "inclusion": null,
+    "exclusion": [
+        "adrenal gland",
+        "endocrine pancreas",
+        "ovary",
+        "testis",
+        "thymus",
+        "thyroid gland"
+    ],
+    "symptoms": [
+        "headache",
+        "visual disturbances",
+        "abnormal milk production",
+        "menstrual changes",
+        "weight gain"
+    ]
+}

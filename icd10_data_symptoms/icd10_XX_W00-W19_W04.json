@@ -1,0 +1,29 @@
+{
+    "icd10code": "W04",
+    "type": "category",
+    "title": "Fall while being carried or supported by other persons",
+    "chapter": "External causes of morbidity and mortality",
+    "chapterCode": "XX",
+    "block": "Falls",
+    "blockCode": "W00-W19",
+    "category": "Fall while being carried or supported by other persons",
+    "categoryCode": "W04",
+    "subcategory": "",
+    "inclusion": [
+        "accidentally dropped while being carried"
+    ],
+    "exclusion": [
+        "assault",
+        "fall (in)(from): animal",
+        "fall (in)(from): burning building",
+        "fall (in)(from): into fire",
+        "fall (in)(from): into water (with drowning or submersion)",
+        "fall (in)(from): machinery (in operation)",
+        "fall (in)(from): repeated falls not resulting from accident",
+        "fall (in)(from): transport vehicle",
+        "intentional self-harm"
+    ],
+    "symptoms": [
+        "asymptomatic"
+    ]
+}

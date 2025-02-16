@@ -1,0 +1,17 @@
+{
+  "type": "subcategory",
+  "chapterCode": "II",
+  "chapter": "Neoplasms",
+  "blockCode": "D10-D36",
+  "block": "Benign neoplasms",
+  "categoryCode": "D30",
+  "category": "Benign neoplasm of urinary organs",
+  "subcategory": "D30.9",
+  "title": "Benign neoplasm: Urinary organ, unspecified",
+  "inclusion": [
+    "morphology codes with behaviour code /0",
+    "Urinary system NOS"
+  ],
+  "exclusion": null,
+  "children": null
+}

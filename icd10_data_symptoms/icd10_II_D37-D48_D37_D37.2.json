@@ -1,0 +1,21 @@
+{
+    "icd10code": "D37.2",
+    "type": "subcategory",
+    "title": "Neoplasm of uncertain or unknown behaviour: Small intestine",
+    "chapter": "Neoplasms",
+    "chapterCode": "II",
+    "block": "Neoplasms of uncertain or unknown behaviour",
+    "blockCode": "D37-D48",
+    "category": "Neoplasm of uncertain or unknown behaviour of oral cavity and digestive organs",
+    "categoryCode": "D37",
+    "subcategory": "D37.2",
+    "inclusion": null,
+    "exclusion": null,
+    "symptoms": [
+        "abdominal pain",
+        "difficulty swallowing",
+        "unintentional weight loss",
+        "persistent indigestion",
+        "vomiting with or without blood"
+    ]
+}

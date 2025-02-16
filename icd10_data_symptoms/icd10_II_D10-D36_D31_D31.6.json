@@ -1,0 +1,33 @@
+{
+    "icd10code": "D31.6",
+    "type": "subcategory",
+    "title": "Benign neoplasm: Orbit, unspecified",
+    "chapter": "Neoplasms",
+    "chapterCode": "II",
+    "block": "Benign neoplasms",
+    "blockCode": "D10-D36",
+    "category": "Benign neoplasm of eye and adnexa",
+    "categoryCode": "D31",
+    "subcategory": "D31.6",
+    "inclusion": [
+        "morphology codes with behaviour code /0",
+        "Connective tissue of orbit",
+        "Extraocular muscle",
+        "Peripheral nerves of orbit",
+        "Retrobulbar tissue",
+        "Retro-ocular tissue"
+    ],
+    "exclusion": [
+        "connective tissue of eyelid",
+        "optic nerve",
+        "skin of eyelid",
+        "orbital bone"
+    ],
+    "symptoms": [
+        "decreased vision",
+        "eye redness",
+        "eye pain",
+        "floaters in vision",
+        "bulging eyes"
+    ]
+}

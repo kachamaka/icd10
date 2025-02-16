@@ -1,0 +1,28 @@
+{
+    "icd10code": "C26.1",
+    "type": "subcategory",
+    "title": "Malignant neoplasm: Spleen",
+    "chapter": "Neoplasms",
+    "chapterCode": "II",
+    "block": "Malignant neoplasms of digestive organs",
+    "blockCode": "C15-C26",
+    "category": "Malignant neoplasm of other and ill-defined digestive organs",
+    "categoryCode": "C26",
+    "subcategory": "C26.1",
+    "inclusion": null,
+    "exclusion": [
+        "peritoneum and retroperitoneum",
+        "follicular lymphoma",
+        "Hodgkin lymphoma",
+        "mature T/NK-cell lymphomas",
+        "non-follicular lymphoma",
+        "non-Hodgkin lymphoma, other and unspecified types"
+    ],
+    "symptoms": [
+        "abdominal pain",
+        "unintentional weight loss",
+        "fatigue",
+        "jaundice",
+        "loss of appetite"
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "icd10code": "P08.2",
+    "type": "subcategory",
+    "title": "Post-term infant, not heavy for gestational age",
+    "chapter": "Certain conditions originating in the perinatal period",
+    "chapterCode": "XVI",
+    "block": "Disorders related to length of gestation and fetal growth",
+    "blockCode": "P05-P08",
+    "category": "Disorders related to long gestation and high birth weight",
+    "categoryCode": "P08",
+    "subcategory": "P08.2",
+    "inclusion": [
+        "conditions that have their origin in the perinatal period even though death or morbidity occurs later",
+        "the listed conditions, without further specification, as causes of mortality, morbidity or additional care, in fetus or newborn",
+        "Postmaturity NOS"
+    ],
+    "exclusion": [
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "tetanus neonatorum",
+        "whooping cough"
+    ],
+    "symptoms": [
+        "large-for-gestational-age newborn",
+        "excessive birth weight",
+        "hypoglycemia",
+        "birth injuries",
+        "difficulty regulating temperature"
+    ]
+}

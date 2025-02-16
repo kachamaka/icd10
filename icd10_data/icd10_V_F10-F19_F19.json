@@ -1,0 +1,21 @@
+{
+  "type": "modifiedcategory",
+  "chapterCode": "V",
+  "chapter": "Mental and behavioural disorders",
+  "blockCode": "F10-F19",
+  "block": "Mental and behavioural disorders due to psychoactive substance use",
+  "categoryCode": "F19",
+  "category": "Mental and behavioural disorders due to multiple drug use and use of other psychoactive substances",
+  "subcategory": "",
+  "title": "Mental and behavioural disorders due to multiple drug use and use of other psychoactive substances : harmful use",
+  "inclusion": [
+    "disorders of psychological development",
+    "misuse of drugs NOS",
+    "Psychoactive substance abuse"
+  ],
+  "exclusion": [
+    "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+    "abuse of non-dependence-producing substances"
+  ],
+  "children": null
+}

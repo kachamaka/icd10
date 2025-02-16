@@ -1,0 +1,33 @@
+{
+    "icd10code": "H65.2",
+    "type": "subcategory",
+    "title": "Chronic serous otitis media",
+    "chapter": "Diseases of the ear and mastoid process",
+    "chapterCode": "VIII",
+    "block": "Diseases of middle ear and mastoid",
+    "blockCode": "H65-H75",
+    "category": "Nonsuppurative otitis media",
+    "categoryCode": "H65",
+    "subcategory": "H65.2",
+    "inclusion": [
+        "with myringitis",
+        "Chronic tubotympanal catarrh"
+    ],
+    "exclusion": [
+        "certain conditions originating in the perinatal period",
+        "certain infectious and parasitic diseases",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified"
+    ],
+    "symptoms": [
+        "ear pain",
+        "hearing loss",
+        "ear fullness",
+        "fluid discharge",
+        "irritability"
+    ]
+}

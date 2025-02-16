@@ -1,0 +1,25 @@
+{
+  "type": "subcategory",
+  "chapterCode": "XIX",
+  "chapter": "Injury, poisoning and certain other consequences of external causes",
+  "blockCode": "T66-T78",
+  "block": "Other and unspecified effects of external causes",
+  "categoryCode": "T73",
+  "category": "Effects of other deprivation",
+  "subcategory": "T73.0",
+  "title": "Effects of hunger",
+  "inclusion": [
+    "Deprivation of food",
+    "Starvation"
+  ],
+  "exclusion": [
+    "birth trauma",
+    "obstetric trauma",
+    "malunion of fracture",
+    "nonunion of fracture [pseudarthrosis]",
+    "pathological fracture",
+    "pathological fracture with osteoporosis",
+    "stress fracture"
+  ],
+  "children": null
+}

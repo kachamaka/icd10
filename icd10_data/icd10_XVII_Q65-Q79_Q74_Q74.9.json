@@ -1,0 +1,21 @@
+{
+  "type": "subcategory",
+  "chapterCode": "XVII",
+  "chapter": "Congenital malformations, deformations and chromosomal abnormalities",
+  "blockCode": "Q65-Q79",
+  "block": "Congenital malformations and deformations of the musculoskeletal system",
+  "categoryCode": "Q74",
+  "category": "Other congenital malformations of limb(s)",
+  "subcategory": "Q74.9",
+  "title": "Unspecified congenital malformation of limb(s)",
+  "inclusion": [
+    "Congenital anomaly of limb(s) NOS"
+  ],
+  "exclusion": [
+    "inborn errors of metabolism",
+    "polydactyly",
+    "reduction defect of limb",
+    "syndactyly"
+  ],
+  "children": null
+}

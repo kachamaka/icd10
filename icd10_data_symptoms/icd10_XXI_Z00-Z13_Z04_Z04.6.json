@@ -1,0 +1,25 @@
+{
+    "icd10code": "Z04.6",
+    "type": "subcategory",
+    "title": "General psychiatric examination, requested by authority",
+    "chapter": "Factors influencing health status and contact with health services",
+    "chapterCode": "XXI",
+    "block": "Persons encountering health services for examination and investigation",
+    "blockCode": "Z00-Z13",
+    "category": "Examination and observation for other reasons",
+    "categoryCode": "Z04",
+    "subcategory": "Z04.6",
+    "inclusion": [
+        "examination for medicolegal reasons"
+    ],
+    "exclusion": [
+        "examinations related to pregnancy and reproduction"
+    ],
+    "symptoms": [
+        "anxiety",
+        "confusion",
+        "fear",
+        "headache",
+        "nausea"
+    ]
+}

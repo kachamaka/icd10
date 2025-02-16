@@ -1,0 +1,17 @@
+{
+    "icd10code": "Y89.0",
+    "type": "subcategory",
+    "title": "Sequelae of legal intervention",
+    "chapter": "External causes of morbidity and mortality",
+    "chapterCode": "XX",
+    "block": "Sequelae of external causes of morbidity and mortality",
+    "blockCode": "Y85-Y89",
+    "category": "Sequelae of other external causes",
+    "categoryCode": "Y89",
+    "subcategory": "Y89.0",
+    "inclusion": null,
+    "exclusion": null,
+    "symptoms": [
+        "asymptomatic"
+    ]
+}

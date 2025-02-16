@@ -1,0 +1,25 @@
+{
+    "icd10code": "R31",
+    "type": "category",
+    "title": "Unspecified haematuria",
+    "chapter": "Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+    "chapterCode": "XVIII",
+    "block": "Symptoms and signs involving the urinary system",
+    "blockCode": "R30-R39",
+    "category": "Unspecified haematuria",
+    "categoryCode": "R31",
+    "subcategory": "",
+    "inclusion": null,
+    "exclusion": [
+        "abnormal findings on antenatal screening of mother",
+        "certain conditions originating in the perinatal period",
+        "recurrent or persistent haematuria"
+    ],
+    "symptoms": [
+        "blood in urine",
+        "pink or red discoloration",
+        "cloudy urine",
+        "pain during urination",
+        "frequent urination"
+    ]
+}

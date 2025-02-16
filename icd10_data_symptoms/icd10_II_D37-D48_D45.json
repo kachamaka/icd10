@@ -1,0 +1,21 @@
+{
+    "icd10code": "D45",
+    "type": "category",
+    "title": "Polycythaemia vera",
+    "chapter": "Neoplasms",
+    "chapterCode": "II",
+    "block": "Neoplasms of uncertain or unknown behaviour",
+    "blockCode": "D37-D48",
+    "category": "Polycythaemia vera",
+    "categoryCode": "D45",
+    "subcategory": "",
+    "inclusion": null,
+    "exclusion": null,
+    "symptoms": [
+        "fatigue",
+        "unexplained weight loss",
+        "excessive sweating at night",
+        "fever",
+        "feeling of fullness below the ribs"
+    ]
+}

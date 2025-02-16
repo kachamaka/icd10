@@ -1,0 +1,28 @@
+{
+  "type": "category",
+  "chapterCode": "XIX",
+  "chapter": "Injury, poisoning and certain other consequences of external causes",
+  "blockCode": "T66-T78",
+  "block": "Other and unspecified effects of external causes",
+  "categoryCode": "T68",
+  "category": "Hypothermia",
+  "subcategory": "",
+  "title": "Hypothermia",
+  "inclusion": [
+    "Accidental hypothermia"
+  ],
+  "exclusion": [
+    "birth trauma",
+    "obstetric trauma",
+    "malunion of fracture",
+    "nonunion of fracture [pseudarthrosis]",
+    "pathological fracture",
+    "pathological fracture with osteoporosis",
+    "stress fracture",
+    "frostbite",
+    "hypothermia (of): following anaesthesia",
+    "hypothermia (of): newborn",
+    "hypothermia (of): not associated with low environmental temperature"
+  ],
+  "children": null
+}

@@ -1,0 +1,24 @@
+{
+    "icd10code": "Z58.7",
+    "type": "subcategory",
+    "title": "Exposure to tobacco smoke",
+    "chapter": "Factors influencing health status and contact with health services",
+    "chapterCode": "XXI",
+    "block": "Persons with potential health hazards related to socioeconomic and psychosocial circumstances",
+    "blockCode": "Z55-Z65",
+    "category": "Problems related to physical environment",
+    "categoryCode": "Z58",
+    "subcategory": "Z58.7",
+    "inclusion": [
+        "Passive smoking"
+    ],
+    "exclusion": [
+        "occupational exposure",
+        "mental and behavioural disorders due to the use of tobacco",
+        "personal history of psychoactive substance abuse",
+        "tobacco use"
+    ],
+    "symptoms": [
+        "asymptomatic"
+    ]
+}

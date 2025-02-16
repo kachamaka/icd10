@@ -1,0 +1,31 @@
+{
+    "icd10code": "D48.5",
+    "type": "subcategory",
+    "title": "Neoplasm of uncertain or unknown behaviour: Skin",
+    "chapter": "Neoplasms",
+    "chapterCode": "II",
+    "block": "Neoplasms of uncertain or unknown behaviour",
+    "blockCode": "D37-D48",
+    "category": "Neoplasm of uncertain or unknown behaviour of other and unspecified sites",
+    "categoryCode": "D48",
+    "subcategory": "D48.5",
+    "inclusion": [
+        "Anal: margin",
+        "Anal: skin",
+        "Perianal skin",
+        "Skin of breast"
+    ],
+    "exclusion": [
+        "neurofibromatosis (nonmalignant)",
+        "anus NOS",
+        "skin of genital organs",
+        "vermilion border of lip"
+    ],
+    "symptoms": [
+        "abdominal pain",
+        "abnormal body temperature",
+        "fatigue",
+        "unintended weight loss",
+        "persistent nausea"
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "icd10code": "G23.3",
+    "type": "subcategory",
+    "title": "Multiple system atrophy, cerebellar type [MSA-C]",
+    "chapter": "Diseases of the nervous system",
+    "chapterCode": "VI",
+    "block": "Extrapyramidal and movement disorders",
+    "blockCode": "G20-G26",
+    "category": "Other degenerative diseases of basal ganglia",
+    "categoryCode": "G23",
+    "subcategory": "G23.3",
+    "inclusion": null,
+    "exclusion": [
+        "certain conditions originating in the perinatal period",
+        "certain infectious and parasitic diseases",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified"
+    ],
+    "symptoms": [
+        "muscle stiffness",
+        "tremors",
+        "slow movements",
+        "balance issues",
+        "impaired coordination"
+    ]
+}

@@ -1,0 +1,25 @@
+{
+  "type": "subcategory",
+  "chapterCode": "V",
+  "chapter": "Mental and behavioural disorders",
+  "blockCode": "F20-F29",
+  "block": "Schizophrenia, schizotypal and delusional disorders",
+  "categoryCode": "F20",
+  "category": "Schizophrenia",
+  "subcategory": "F20.0",
+  "title": "Paranoid schizophrenia",
+  "inclusion": [
+    "disorders of psychological development",
+    "Paraphrenic schizophrenia"
+  ],
+  "exclusion": [
+    "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+    "schizophrenia: acute (undifferentiated)",
+    "schizophrenia: cyclic",
+    "schizophrenic reaction",
+    "schizotypal disorder",
+    "involutional paranoid state",
+    "paranoia"
+  ],
+  "children": null
+}

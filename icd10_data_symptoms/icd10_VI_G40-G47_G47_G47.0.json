@@ -1,0 +1,34 @@
+{
+    "icd10code": "G47.0",
+    "type": "subcategory",
+    "title": "Disorders of initiating and maintaining sleep [insomnias]",
+    "chapter": "Diseases of the nervous system",
+    "chapterCode": "VI",
+    "block": "Episodic and paroxysmal disorders",
+    "blockCode": "G40-G47",
+    "category": "Sleep disorders",
+    "categoryCode": "G47",
+    "subcategory": "G47.0",
+    "inclusion": null,
+    "exclusion": [
+        "certain conditions originating in the perinatal period",
+        "certain infectious and parasitic diseases",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "nightmares",
+        "nonorganic sleep disorders",
+        "sleep terrors",
+        "sleepwalking"
+    ],
+    "symptoms": [
+        "difficulty falling asleep",
+        "frequent awakenings",
+        "non-restorative sleep",
+        "daytime fatigue",
+        "irritability"
+    ]
+}

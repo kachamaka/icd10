@@ -1,0 +1,43 @@
+{
+    "icd10code": "I38",
+    "type": "category",
+    "title": "Endocarditis, valve unspecified",
+    "chapter": "Diseases of the circulatory system",
+    "chapterCode": "IX",
+    "block": "Other forms of heart disease",
+    "blockCode": "I30-I52",
+    "category": "Endocarditis, valve unspecified",
+    "categoryCode": "I38",
+    "subcategory": "",
+    "inclusion": [
+        "Endocarditis (chronic) NOS",
+        "Valvular: incompetence of unspecified valve NOS or of specified cause, except rheumatic or congenital",
+        "Valvular: insufficiency of unspecified valve NOS or of specified cause, except rheumatic or congenital",
+        "Valvular: regurgitation of unspecified valve NOS or of specified cause, except rheumatic or congenital",
+        "Valvular: stenosis of unspecified valve NOS or of specified cause, except rheumatic or congenital",
+        "Valvulitis (chronic) of unspecified valve NOS or of specified cause, except rheumatic or congenital"
+    ],
+    "exclusion": [
+        "certain conditions originating in the perinatal period",
+        "certain infectious and parasitic diseases",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "systemic connective tissue disorders",
+        "transient cerebral ischaemic attacks and related syndromes",
+        "congenital insufficiency of cardiac valve NOS",
+        "congenital stenosis of cardiac valve NOS",
+        "endocardial fibroelastosis",
+        "when specified as rheumatic"
+    ],
+    "symptoms": [
+        "chest discomfort",
+        "shortness of breath",
+        "heart palpitations",
+        "unexplained fatigue",
+        "fainting or near fainting"
+    ]
+}

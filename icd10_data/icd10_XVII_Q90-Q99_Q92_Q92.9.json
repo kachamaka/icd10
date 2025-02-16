@@ -1,0 +1,19 @@
+{
+  "type": "subcategory",
+  "chapterCode": "XVII",
+  "chapter": "Congenital malformations, deformations and chromosomal abnormalities",
+  "blockCode": "Q90-Q99",
+  "block": "Chromosomal abnormalities, not elsewhere classified",
+  "categoryCode": "Q92",
+  "category": "Other trisomies and partial trisomies of the autosomes, not elsewhere classified",
+  "subcategory": "Q92.9",
+  "title": "Trisomy and partial trisomy of autosomes, unspecified",
+  "inclusion": [
+    "unbalanced translocations and insertions"
+  ],
+  "exclusion": [
+    "inborn errors of metabolism",
+    "trisomies of chromosomes 13, 18, 21"
+  ],
+  "children": null
+}

@@ -1,0 +1,26 @@
+{
+    "icd10code": "Y18",
+    "type": "category",
+    "title": "Poisoning by and exposure to pesticides, undetermined intent",
+    "chapter": "External causes of morbidity and mortality",
+    "chapterCode": "XX",
+    "block": "Event of undetermined intent",
+    "blockCode": "Y10-Y34",
+    "category": "Poisoning by and exposure to pesticides, undetermined intent",
+    "categoryCode": "Y18",
+    "subcategory": "",
+    "inclusion": [
+        "fumigants",
+        "fungicides",
+        "herbicides",
+        "insecticides",
+        "rodenticides",
+        "wood preservatives"
+    ],
+    "exclusion": [
+        "plant foods and fertilizers"
+    ],
+    "symptoms": [
+        "asymptomatic"
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "icd10code": "N88.1",
+    "type": "subcategory",
+    "title": "Old laceration of cervix uteri",
+    "chapter": "Diseases of the genitourinary system",
+    "chapterCode": "XIV",
+    "block": "Noninflammatory disorders of female genital tract",
+    "blockCode": "N80-N98",
+    "category": "Other noninflammatory disorders of cervix uteri",
+    "categoryCode": "N88",
+    "subcategory": "N88.1",
+    "inclusion": [
+        "Adhesions of cervix"
+    ],
+    "exclusion": [
+        "certain conditions originating in the perinatal period",
+        "certain infectious and parasitic diseases",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "inflammatory disease of cervix",
+        "polyp of cervix",
+        "current obstetric trauma"
+    ],
+    "symptoms": [
+        "abnormal pap smear",
+        "pelvic pain",
+        "vaginal discharge",
+        "irregular menstrual bleeding",
+        "postcoital bleeding"
+    ]
+}

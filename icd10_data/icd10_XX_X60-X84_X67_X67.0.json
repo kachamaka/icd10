@@ -1,0 +1,24 @@
+{
+  "type": "subcategory",
+  "chapterCode": "XX",
+  "chapter": "External causes of morbidity and mortality",
+  "blockCode": "X60-X84",
+  "block": "Intentional self-harm",
+  "categoryCode": "X67",
+  "category": "Intentional self-poisoning by and exposure to carbon monoxide and other gases and vapours",
+  "subcategory": "X67.0",
+  "title": "Intentional self-poisoning by and exposure to carbon monoxide from combustion engine exhaust",
+  "inclusion": [
+    "purposely self-inflicted poisoning or injury",
+    "suicide (attempted)",
+    "Exhaust (gas) from: any type of combustion engine",
+    "Exhaust (gas) from: gas engine",
+    "Exhaust (gas) from: motor pump",
+    "Exhaust (gas) from: motor vehicle, not in transit"
+  ],
+  "exclusion": [
+    "carbon monoxide from smoke, fire and flames",
+    "metal fumes and vapours"
+  ],
+  "children": null
+}

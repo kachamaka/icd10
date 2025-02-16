@@ -1,0 +1,26 @@
+{
+    "icd10code": "Q76.1",
+    "type": "subcategory",
+    "title": "Klippel-Feil syndrome",
+    "chapter": "Congenital malformations, deformations and chromosomal abnormalities",
+    "chapterCode": "XVII",
+    "block": "Congenital malformations and deformations of the musculoskeletal system",
+    "blockCode": "Q65-Q79",
+    "category": "Congenital malformations of spine and bony thorax",
+    "categoryCode": "Q76",
+    "subcategory": "Q76.1",
+    "inclusion": [
+        "Cervical fusion syndrome"
+    ],
+    "exclusion": [
+        "inborn errors of metabolism",
+        "congenital musculoskeletal deformities of spine and chest"
+    ],
+    "symptoms": [
+        "abnormal vertebral alignment",
+        "short stature",
+        "scoliosis",
+        "thoracic deformities",
+        "limited neck mobility"
+    ]
+}

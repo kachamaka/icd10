@@ -1,0 +1,23 @@
+{
+    "icd10code": "Q98.4",
+    "type": "subcategory",
+    "title": "Klinefelter syndrome, unspecified",
+    "chapter": "Congenital malformations, deformations and chromosomal abnormalities",
+    "chapterCode": "XVII",
+    "block": "Chromosomal abnormalities, not elsewhere classified",
+    "blockCode": "Q90-Q99",
+    "category": "Other sex chromosome abnormalities, male phenotype, not elsewhere classified",
+    "categoryCode": "Q98",
+    "subcategory": "Q98.4",
+    "inclusion": null,
+    "exclusion": [
+        "inborn errors of metabolism"
+    ],
+    "symptoms": [
+        "infertility",
+        "small testes",
+        "gynecomastia",
+        "reduced facial hair",
+        "tall stature"
+    ]
+}

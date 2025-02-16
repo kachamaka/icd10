@@ -1,0 +1,35 @@
+{
+    "icd10code": "Q74.0",
+    "type": "subcategory",
+    "title": "Other congenital malformations of upper limb(s), including shoulder girdle",
+    "chapter": "Congenital malformations, deformations and chromosomal abnormalities",
+    "chapterCode": "XVII",
+    "block": "Congenital malformations and deformations of the musculoskeletal system",
+    "blockCode": "Q65-Q79",
+    "category": "Other congenital malformations of limb(s)",
+    "categoryCode": "Q74",
+    "subcategory": "Q74.0",
+    "inclusion": [
+        "Accessory carpal bones",
+        "Cleidocranial dysostosis",
+        "Congenital pseudarthrosis of clavicle",
+        "Macrodactylia (fingers)",
+        "Madelung deformity",
+        "Radioulnar synostosis",
+        "Sprengel deformity",
+        "Triphalangeal thumb"
+    ],
+    "exclusion": [
+        "inborn errors of metabolism",
+        "polydactyly",
+        "reduction defect of limb",
+        "syndactyly"
+    ],
+    "symptoms": [
+        "joint contractures",
+        "limb stiffness",
+        "restricted movement",
+        "muscle weakness",
+        "skeletal deformities"
+    ]
+}

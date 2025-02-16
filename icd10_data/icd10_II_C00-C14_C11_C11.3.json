@@ -1,0 +1,19 @@
+{
+  "type": "subcategory",
+  "chapterCode": "II",
+  "chapter": "Neoplasms",
+  "blockCode": "C00-C14",
+  "block": "Malignant neoplasms of lip, oral cavity and pharynx",
+  "categoryCode": "C11",
+  "category": "Malignant neoplasm of nasopharynx",
+  "subcategory": "C11.3",
+  "title": "Malignant neoplasm: Anterior wall of nasopharynx",
+  "inclusion": [
+    "Floor of nasopharynx",
+    "Nasopharyngeal (anterior)(posterior) surface of soft palate",
+    "Posterior margin of nasal: choana",
+    "Posterior margin of nasal: septum"
+  ],
+  "exclusion": null,
+  "children": null
+}

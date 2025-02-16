@@ -1,0 +1,23 @@
+{
+    "icd10code": "D10.7",
+    "type": "subcategory",
+    "title": "Benign neoplasm: Hypopharynx",
+    "chapter": "Neoplasms",
+    "chapterCode": "II",
+    "block": "Benign neoplasms",
+    "blockCode": "D10-D36",
+    "category": "Benign neoplasm of mouth and pharynx",
+    "categoryCode": "D10",
+    "subcategory": "D10.7",
+    "inclusion": [
+        "morphology codes with behaviour code /0"
+    ],
+    "exclusion": null,
+    "symptoms": [
+        "swelling at the site",
+        "formation of lumps or mass",
+        "throat soreness",
+        "difficulty swallowing",
+        "voice changes"
+    ]
+}

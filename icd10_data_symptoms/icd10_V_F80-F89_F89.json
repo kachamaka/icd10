@@ -1,0 +1,25 @@
+{
+    "icd10code": "F89",
+    "type": "category",
+    "title": "Unspecified disorder of psychological development",
+    "chapter": "Mental and behavioural disorders",
+    "chapterCode": "V",
+    "block": "Disorders of psychological development",
+    "blockCode": "F80-F89",
+    "category": "Unspecified disorder of psychological development",
+    "categoryCode": "F89",
+    "subcategory": "",
+    "inclusion": [
+        "disorders of psychological development",
+        "Developmental disorder NOS"
+    ],
+    "exclusion": [
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified"
+    ],
+    "symptoms": [
+        "developmental delays",
+        "communication difficulties",
+        "social interaction issues",
+        "cognitive impairments"
+    ]
+}

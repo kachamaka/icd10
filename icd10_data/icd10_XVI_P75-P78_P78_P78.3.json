@@ -1,0 +1,26 @@
+{
+  "type": "subcategory",
+  "chapterCode": "XVI",
+  "chapter": "Certain conditions originating in the perinatal period",
+  "blockCode": "P75-P78",
+  "block": "Digestive system disorders of fetus and newborn",
+  "categoryCode": "P78",
+  "category": "Other perinatal digestive system disorders",
+  "subcategory": "P78.3",
+  "title": "Noninfective neonatal diarrhoea",
+  "inclusion": [
+    "conditions that have their origin in the perinatal period even though death or morbidity occurs later"
+  ],
+  "exclusion": [
+    "congenital malformations, deformations and chromosomal abnormalities",
+    "endocrine, nutritional and metabolic diseases",
+    "injury, poisoning and certain other consequences of external causes",
+    "neoplasms",
+    "tetanus neonatorum",
+    "whooping cough",
+    "neonatal hypoparathyroidism",
+    "neonatal diarrhoea: NOS",
+    "neonatal diarrhoea: infectious"
+  ],
+  "children": null
+}

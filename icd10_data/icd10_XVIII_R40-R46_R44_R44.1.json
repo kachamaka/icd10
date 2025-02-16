@@ -1,0 +1,19 @@
+{
+  "type": "subcategory",
+  "chapterCode": "XVIII",
+  "chapter": "Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+  "blockCode": "R40-R46",
+  "block": "Symptoms and signs involving cognition, perception, emotional state and behaviour",
+  "categoryCode": "R44",
+  "category": "Other symptoms and signs involving general sensations and perceptions",
+  "subcategory": "R44.1",
+  "title": "Visual hallucinations",
+  "inclusion": null,
+  "exclusion": [
+    "abnormal findings on antenatal screening of mother",
+    "certain conditions originating in the perinatal period",
+    "those constituting part of a pattern of mental disorder",
+    "signs and symptoms constituting part of a mental disorder"
+  ],
+  "children": null
+}

@@ -1,0 +1,30 @@
+{
+    "icd10code": "C80.9",
+    "type": "subcategory",
+    "title": "Malignant neoplasm, primary site unspecified",
+    "chapter": "Neoplasms",
+    "chapterCode": "II",
+    "block": "Malignant neoplasms of ill-defined, secondary and unspecified sites",
+    "blockCode": "C76-C80",
+    "category": "Malignant neoplasm, without specification of site",
+    "categoryCode": "C80",
+    "subcategory": "C80.9",
+    "inclusion": [
+        "Cancer NOS",
+        "Carcinoma NOS",
+        "Malignancy NOS",
+        "Malignant cachexia NOS",
+        "Multiple cancer NOS"
+    ],
+    "exclusion": [
+        "multiple secondary cancer NOS",
+        "secondary malignant neoplasm, unspecified site"
+    ],
+    "symptoms": [
+        "unexplained weight loss",
+        "fatigue",
+        "pain or discomfort",
+        "changes in skin",
+        "persistent cough"
+    ]
+}

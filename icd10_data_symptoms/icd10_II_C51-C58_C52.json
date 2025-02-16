@@ -1,0 +1,23 @@
+{
+    "icd10code": "C52",
+    "type": "category",
+    "title": "Malignant neoplasm of vagina",
+    "chapter": "Neoplasms",
+    "chapterCode": "II",
+    "block": "Malignant neoplasms of female genital organs",
+    "blockCode": "C51-C58",
+    "category": "Malignant neoplasm of vagina",
+    "categoryCode": "C52",
+    "subcategory": "",
+    "inclusion": [
+        "skin of female genital organs"
+    ],
+    "exclusion": null,
+    "symptoms": [
+        "abnormal vaginal bleeding",
+        "pelvic pain",
+        "vaginal discharge",
+        "pain during sexual intercourse",
+        "postmenopausal bleeding"
+    ]
+}

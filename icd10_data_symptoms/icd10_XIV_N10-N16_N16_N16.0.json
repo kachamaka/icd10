@@ -1,0 +1,39 @@
+{
+    "icd10code": "N16.0",
+    "type": "subcategory",
+    "title": "Renal tubulo-interstitial disorders in infectious and parasitic diseases classified elsewhere",
+    "chapter": "Diseases of the genitourinary system",
+    "chapterCode": "XIV",
+    "block": "Renal tubulo-interstitial diseases",
+    "blockCode": "N10-N16",
+    "category": "Renal tubulo-interstitial disorders in diseases classified elsewhere",
+    "categoryCode": "N16",
+    "subcategory": "N16.0",
+    "inclusion": [
+        "pyelonephritis",
+        "Renal tubulo-interstitial disorders (due to)(in): brucellosis",
+        "Renal tubulo-interstitial disorders (due to)(in): diphtheria",
+        "Renal tubulo-interstitial disorders (due to)(in): salmonella infection",
+        "Renal tubulo-interstitial disorders (due to)(in): sepsis",
+        "Renal tubulo-interstitial disorders (due to)(in): toxoplasmosis"
+    ],
+    "exclusion": [
+        "certain conditions originating in the perinatal period",
+        "certain infectious and parasitic diseases",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "pyeloureteritis cystica"
+    ],
+    "symptoms": [
+        "hematuria",
+        "hypertension",
+        "proteinuria",
+        "edema",
+        "fatigue",
+        "decreased kidney function"
+    ]
+}

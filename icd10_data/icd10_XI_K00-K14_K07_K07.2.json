@@ -1,0 +1,36 @@
+{
+  "type": "subcategory",
+  "chapterCode": "XI",
+  "chapter": "Diseases of the digestive system",
+  "blockCode": "K00-K14",
+  "block": "Diseases of oral cavity, salivary glands and jaws",
+  "categoryCode": "K07",
+  "category": "Dentofacial anomalies [including malocclusion]",
+  "subcategory": "K07.2",
+  "title": "Anomalies of dental arch relationship",
+  "inclusion": [
+    "Crossbite (anterior)(posterior)",
+    "Disto-occlusion",
+    "Mesio-occlusion",
+    "Midline deviation of dental arch",
+    "Openbite (anterior)(posterior)",
+    "Overbite (excessive): deep",
+    "Overbite (excessive): horizontal",
+    "Overbite (excessive): vertical",
+    "Overjet",
+    "Posterior lingual occlusion of mandibular teeth"
+  ],
+  "exclusion": [
+    "certain conditions originating in the perinatal period",
+    "certain infectious and parasitic diseases",
+    "complications of pregnancy, childbirth and the puerperium",
+    "congenital malformations, deformations and chromosomal abnormalities",
+    "endocrine, nutritional and metabolic diseases",
+    "injury, poisoning and certain other consequences of external causes",
+    "neoplasms",
+    "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+    "hemifacial atrophy or hypertrophy",
+    "unilateral condylar hyperplasia or hypoplasia"
+  ],
+  "children": null
+}

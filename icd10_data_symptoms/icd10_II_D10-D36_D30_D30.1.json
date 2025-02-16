@@ -1,0 +1,23 @@
+{
+    "icd10code": "D30.1",
+    "type": "subcategory",
+    "title": "Benign neoplasm: Renal pelvis",
+    "chapter": "Neoplasms",
+    "chapterCode": "II",
+    "block": "Benign neoplasms",
+    "blockCode": "D10-D36",
+    "category": "Benign neoplasm of urinary organs",
+    "categoryCode": "D30",
+    "subcategory": "D30.1",
+    "inclusion": [
+        "morphology codes with behaviour code /0"
+    ],
+    "exclusion": null,
+    "symptoms": [
+        "hematuria",
+        "pain during urination",
+        "frequent urination",
+        "lower abdominal pain",
+        "presence of blood in the urine"
+    ]
+}

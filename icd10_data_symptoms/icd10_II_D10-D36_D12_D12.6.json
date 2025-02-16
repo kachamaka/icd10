@@ -1,0 +1,26 @@
+{
+    "icd10code": "D12.6",
+    "type": "subcategory",
+    "title": "Benign neoplasm: Colon, unspecified",
+    "chapter": "Neoplasms",
+    "chapterCode": "II",
+    "block": "Benign neoplasms",
+    "blockCode": "D10-D36",
+    "category": "Benign neoplasm of colon, rectum, anus and anal canal",
+    "categoryCode": "D12",
+    "subcategory": "D12.6",
+    "inclusion": [
+        "morphology codes with behaviour code /0",
+        "Adenomatosis of colon",
+        "Large intestine NOS",
+        "Polyposis (hereditary) of colon"
+    ],
+    "exclusion": null,
+    "symptoms": [
+        "rectal bleeding",
+        "change in bowel movements",
+        "anemia",
+        "abdominal pain",
+        "rectal pain"
+    ]
+}

@@ -1,0 +1,18 @@
+{
+  "type": "subcategory",
+  "chapterCode": "XXI",
+  "chapter": "Factors influencing health status and contact with health services",
+  "blockCode": "Z00-Z13",
+  "block": "Persons encountering health services for examination and investigation",
+  "categoryCode": "Z00",
+  "category": "General examination and investigation of persons without complaint and reported diagnosis",
+  "subcategory": "Z00.6",
+  "title": "Examination for normal comparison and control in clinical research programme",
+  "inclusion": null,
+  "exclusion": [
+    "examinations related to pregnancy and reproduction",
+    "examination for administrative purposes",
+    "special screening examinations"
+  ],
+  "children": null
+}

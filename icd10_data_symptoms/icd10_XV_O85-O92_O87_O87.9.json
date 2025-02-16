@@ -1,0 +1,40 @@
+{
+    "icd10code": "O87.9",
+    "type": "subcategory",
+    "title": "Venous complication in the puerperium, unspecified",
+    "chapter": "Pregnancy, childbirth and the puerperium",
+    "chapterCode": "XV",
+    "block": "Complications predominantly related to the puerperium",
+    "blockCode": "O85-O92",
+    "category": "Venous complications and haemorrhoids in the puerperium",
+    "categoryCode": "O87",
+    "subcategory": "O87.9",
+    "inclusion": [
+        "in labour, delivery and the puerperium",
+        "Puerperal: phlebitis NOS",
+        "Puerperal: phlebopathy NOS",
+        "Puerperal: thrombosis NOS"
+    ],
+    "exclusion": [
+        "Certain diseases or injuries complicating pregnancy, childbirth and the puerperium classified elsewhere: external causes (for mortality)",
+        "Certain diseases or injuries complicating pregnancy, childbirth and the puerperium classified elsewhere: injury, poisoning and certain other consequences of external cause",
+        "Certain diseases or injuries complicating pregnancy, childbirth and the puerperium classified elsewhere: mental and behavioural disorders associated with the puerperium",
+        "Certain diseases or injuries complicating pregnancy, childbirth and the puerperium classified elsewhere: obstetrical tetanus",
+        "Certain diseases or injuries complicating pregnancy, childbirth and the puerperium classified elsewhere: postpartum necrosis of pituitary gland",
+        "Certain diseases or injuries complicating pregnancy, childbirth and the puerperium classified elsewhere: puerperal osteomalacia",
+        "supervision of: high-risk pregnancy",
+        "supervision of: normal pregnancy",
+        "mental and behavioural disorders associated with the puerperium",
+        "obstetrical tetanus",
+        "puerperal osteomalacia",
+        "embolism complicating abortion or ectopic or molar pregnancy",
+        "puerperal fever"
+    ],
+    "symptoms": [
+        "leg pain",
+        "swelling",
+        "tenderness",
+        "warmth",
+        "redness"
+    ]
+}

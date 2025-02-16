@@ -1,0 +1,39 @@
+{
+    "icd10code": "K63.3",
+    "type": "subcategory",
+    "title": "Ulcer of intestine",
+    "chapter": "Diseases of the digestive system",
+    "chapterCode": "XI",
+    "block": "Other diseases of intestines",
+    "blockCode": "K55-K64",
+    "category": "Other diseases of intestine",
+    "categoryCode": "K63",
+    "subcategory": "K63.3",
+    "inclusion": [
+        "Primary ulcer of small intestine"
+    ],
+    "exclusion": [
+        "certain conditions originating in the perinatal period",
+        "certain infectious and parasitic diseases",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "ulcer (of): anus or rectum",
+        "ulcer (of): duodenal",
+        "ulcer (of): gastrointestinal",
+        "ulcer (of): gastrojejunal",
+        "ulcer (of): jejunal",
+        "ulcer (of): peptic, site unspecified",
+        "ulcerative colitis"
+    ],
+    "symptoms": [
+        "abdominal pain",
+        "rectal bleeding",
+        "diarrhea",
+        "fatigue",
+        "weight loss"
+    ]
+}

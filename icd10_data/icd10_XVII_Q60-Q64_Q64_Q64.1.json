@@ -1,0 +1,19 @@
+{
+  "type": "subcategory",
+  "chapterCode": "XVII",
+  "chapter": "Congenital malformations, deformations and chromosomal abnormalities",
+  "blockCode": "Q60-Q64",
+  "block": "Congenital malformations of the urinary system",
+  "categoryCode": "Q64",
+  "category": "Other congenital malformations of urinary system",
+  "subcategory": "Q64.1",
+  "title": "Exstrophy of urinary bladder",
+  "inclusion": [
+    "Ectopia vesicae",
+    "Extroversion of bladder"
+  ],
+  "exclusion": [
+    "inborn errors of metabolism"
+  ],
+  "children": null
+}

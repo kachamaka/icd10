@@ -1,0 +1,19 @@
+{
+    "icd10code": "Z64.2",
+    "type": "subcategory",
+    "title": "Seeking and accepting physical, nutritional and chemical interventions known to be hazardous and harmful",
+    "chapter": "Factors influencing health status and contact with health services",
+    "chapterCode": "XXI",
+    "block": "Persons with potential health hazards related to socioeconomic and psychosocial circumstances",
+    "blockCode": "Z55-Z65",
+    "category": "Problems related to certain psychosocial circumstances",
+    "categoryCode": "Z64",
+    "subcategory": "Z64.2",
+    "inclusion": null,
+    "exclusion": [
+        "substance dependence - see Alphabetical Index"
+    ],
+    "symptoms": [
+        "asymptomatic"
+    ]
+}

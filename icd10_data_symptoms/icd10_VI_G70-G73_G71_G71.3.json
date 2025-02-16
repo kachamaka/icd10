@@ -1,0 +1,33 @@
+{
+    "icd10code": "G71.3",
+    "type": "subcategory",
+    "title": "Mitochondrial myopathy, not elsewhere classified",
+    "chapter": "Diseases of the nervous system",
+    "chapterCode": "VI",
+    "block": "Diseases of myoneural junction and muscle",
+    "blockCode": "G70-G73",
+    "category": "Primary disorders of muscles",
+    "categoryCode": "G71",
+    "subcategory": "G71.3",
+    "inclusion": null,
+    "exclusion": [
+        "certain conditions originating in the perinatal period",
+        "certain infectious and parasitic diseases",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "arthrogryposis multiplex congenita",
+        "metabolic disorders",
+        "myositis"
+    ],
+    "symptoms": [
+        "muscle weakness",
+        "fatigue",
+        "difficulty swallowing",
+        "difficulty breathing",
+        "muscle pain"
+    ]
+}

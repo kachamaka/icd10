@@ -1,0 +1,39 @@
+{
+    "icd10code": "D69.8",
+    "type": "subcategory",
+    "title": "Other specified haemorrhagic conditions",
+    "chapter": "Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism",
+    "chapterCode": "III",
+    "block": "Coagulation defects, purpura and other haemorrhagic conditions",
+    "blockCode": "D65-D69",
+    "category": "Purpura and other haemorrhagic conditions",
+    "categoryCode": "D69",
+    "subcategory": "D69.8",
+    "inclusion": [
+        "Capillary fragility (hereditary)",
+        "Vascular pseudohaemophilia"
+    ],
+    "exclusion": [
+        "autoimmune disease (systemic) NOS",
+        "certain conditions originating in the perinatal period",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "human immunodeficiency virus [HIV] disease",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "traumatic rupture of spleen",
+        "splenomegaly: congenital",
+        "disseminated intravascular coagulation",
+        "hyperhomocysteinemia",
+        "factor VIII deficiency: with functional defect"
+    ],
+    "symptoms": [
+        "bleeding gums",
+        "frequent nosebleeds",
+        "excessive bruising",
+        "prolonged bleeding from cuts",
+        "unexplained red or purple spots on skin"
+    ]
+}

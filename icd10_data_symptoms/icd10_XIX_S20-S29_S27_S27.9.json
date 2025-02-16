@@ -1,0 +1,49 @@
+{
+    "icd10code": "S27.9",
+    "type": "subcategory",
+    "title": "Injury of unspecified intrathoracic organ",
+    "chapter": "Injury, poisoning and certain other consequences of external causes",
+    "chapterCode": "XIX",
+    "block": "Injuries to the thorax",
+    "blockCode": "S20-S29",
+    "category": "Injury of other and unspecified intrathoracic organs",
+    "categoryCode": "S27",
+    "subcategory": "S27.9",
+    "inclusion": [
+        "injuries of: breast",
+        "injuries of: chest (wall)",
+        "injuries of: interscapular area"
+    ],
+    "exclusion": [
+        "birth trauma",
+        "obstetric trauma",
+        "malunion of fracture",
+        "nonunion of fracture [pseudarthrosis]",
+        "pathological fracture",
+        "pathological fracture with osteoporosis",
+        "stress fracture",
+        "burns and corrosions",
+        "effects of foreign body in: bronchus",
+        "effects of foreign body in: lung",
+        "effects of foreign body in: oesophagus",
+        "effects of foreign body in: trachea",
+        "fracture of spine NOS",
+        "frostbite",
+        "injuries of: axilla",
+        "injuries of: clavicle",
+        "injuries of: scapular region",
+        "injuries of: shoulder",
+        "injuries of: spinal cord NOS",
+        "injuries of: trunk NOS",
+        "insect bite or sting, venomous",
+        "injury of: cervical oesophagus",
+        "injury of: trachea (cervical)"
+    ],
+    "symptoms": [
+        "chest pain",
+        "difficulty breathing",
+        "bruising",
+        "swelling",
+        "tenderness"
+    ]
+}

@@ -1,0 +1,21 @@
+{
+  "type": "subcategory",
+  "chapterCode": "XXI",
+  "chapter": "Factors influencing health status and contact with health services",
+  "blockCode": "Z00-Z13",
+  "block": "Persons encountering health services for examination and investigation",
+  "categoryCode": "Z00",
+  "category": "General examination and investigation of persons without complaint and reported diagnosis",
+  "subcategory": "Z00.1",
+  "title": "Routine child health examination",
+  "inclusion": [
+    "Development testing of infant or child"
+  ],
+  "exclusion": [
+    "examinations related to pregnancy and reproduction",
+    "examination for administrative purposes",
+    "special screening examinations",
+    "health supervision of foundling or other healthy infant or child"
+  ],
+  "children": null
+}

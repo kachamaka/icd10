@@ -1,0 +1,20 @@
+{
+    "icd10code": "W54",
+    "type": "category",
+    "title": "Bitten or struck by dog",
+    "chapter": "External causes of morbidity and mortality",
+    "chapterCode": "XX",
+    "block": "Exposure to animate mechanical forces",
+    "blockCode": "W50-W64",
+    "category": "Bitten or struck by dog",
+    "categoryCode": "W54",
+    "subcategory": "",
+    "inclusion": null,
+    "exclusion": [
+        "bites, venomous",
+        "stings (venomous)"
+    ],
+    "symptoms": [
+        "asymptomatic"
+    ]
+}

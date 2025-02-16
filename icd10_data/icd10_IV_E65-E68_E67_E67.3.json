@@ -1,0 +1,20 @@
+{
+  "type": "subcategory",
+  "chapterCode": "IV",
+  "chapter": "Endocrine, nutritional and metabolic diseases",
+  "blockCode": "E65-E68",
+  "block": "Obesity and other hyperalimentation",
+  "categoryCode": "E67",
+  "category": "Other hyperalimentation",
+  "subcategory": "E67.3",
+  "title": "Hypervitaminosis D",
+  "inclusion": null,
+  "exclusion": [
+    "complications of pregnancy, childbirth and the puerperium",
+    "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+    "transitory endocrine and metabolic disorders specific to fetus and newborn",
+    "hyperalimentation NOS",
+    "sequelae of hyperalimentation"
+  ],
+  "children": null
+}

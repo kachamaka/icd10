@@ -1,0 +1,23 @@
+{
+  "type": "subcategory",
+  "chapterCode": "XVI",
+  "chapter": "Certain conditions originating in the perinatal period",
+  "blockCode": "P90-P96",
+  "block": "Other disorders originating in the perinatal period",
+  "categoryCode": "P92",
+  "category": "Feeding problems of newborn",
+  "subcategory": "P92.4",
+  "title": "Overfeeding of newborn",
+  "inclusion": [
+    "conditions that have their origin in the perinatal period even though death or morbidity occurs later"
+  ],
+  "exclusion": [
+    "congenital malformations, deformations and chromosomal abnormalities",
+    "endocrine, nutritional and metabolic diseases",
+    "injury, poisoning and certain other consequences of external causes",
+    "neoplasms",
+    "tetanus neonatorum",
+    "whooping cough"
+  ],
+  "children": null
+}

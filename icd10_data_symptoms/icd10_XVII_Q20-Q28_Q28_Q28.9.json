@@ -1,0 +1,30 @@
+{
+    "icd10code": "Q28.9",
+    "type": "subcategory",
+    "title": "Congenital malformation of circulatory system, unspecified",
+    "chapter": "Congenital malformations, deformations and chromosomal abnormalities",
+    "chapterCode": "XVII",
+    "block": "Congenital malformations of the circulatory system",
+    "blockCode": "Q20-Q28",
+    "category": "Other congenital malformations of circulatory system",
+    "categoryCode": "Q28",
+    "subcategory": "Q28.9",
+    "inclusion": null,
+    "exclusion": [
+        "inborn errors of metabolism",
+        "congenital aneurysm: NOS",
+        "congenital aneurysm: coronary",
+        "congenital aneurysm: peripheral",
+        "congenital aneurysm: pulmonary",
+        "congenital aneurysm: retinal",
+        "ruptured: cerebral arteriovenous malformation",
+        "ruptured: malformation of precerebral vessels"
+    ],
+    "symptoms": [
+        "difficulty breathing",
+        "bluish skin",
+        "heart murmur",
+        "fatigue",
+        "poor growth"
+    ]
+}

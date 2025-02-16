@@ -1,0 +1,23 @@
+{
+    "icd10code": "C17.2",
+    "type": "subcategory",
+    "title": "Malignant neoplasm: Ileum",
+    "chapter": "Neoplasms",
+    "chapterCode": "II",
+    "block": "Malignant neoplasms of digestive organs",
+    "blockCode": "C15-C26",
+    "category": "Malignant neoplasm of small intestine",
+    "categoryCode": "C17",
+    "subcategory": "C17.2",
+    "inclusion": null,
+    "exclusion": [
+        "ileocaecal valve"
+    ],
+    "symptoms": [
+        "abdominal pain",
+        "blood in stool",
+        "unexplained weight loss",
+        "fatigue",
+        "change in bowel habits"
+    ]
+}

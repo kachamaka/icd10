@@ -1,0 +1,33 @@
+{
+    "icd10code": "T78.1",
+    "type": "subcategory",
+    "title": "Other adverse food reactions, not elsewhere classified",
+    "chapter": "Injury, poisoning and certain other consequences of external causes",
+    "chapterCode": "XIX",
+    "block": "Other and unspecified effects of external causes",
+    "blockCode": "T66-T78",
+    "category": "Adverse effects, not elsewhere classified",
+    "categoryCode": "T78",
+    "subcategory": "T78.1",
+    "inclusion": null,
+    "exclusion": [
+        "birth trauma",
+        "obstetric trauma",
+        "malunion of fracture",
+        "nonunion of fracture [pseudarthrosis]",
+        "pathological fracture",
+        "pathological fracture with osteoporosis",
+        "stress fracture",
+        "polycythaemia due to high altitude",
+        "bacterial foodborne intoxications",
+        "dermatitis due to food",
+        "dermatitis due to food in contact with the skin"
+    ],
+    "symptoms": [
+        "hives",
+        "swelling",
+        "itching",
+        "difficulty breathing",
+        "anaphylaxis"
+    ]
+}

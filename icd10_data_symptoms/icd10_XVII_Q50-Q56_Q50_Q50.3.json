@@ -1,0 +1,30 @@
+{
+    "icd10code": "Q50.3",
+    "type": "subcategory",
+    "title": "Other congenital malformations of ovary",
+    "chapter": "Congenital malformations, deformations and chromosomal abnormalities",
+    "chapterCode": "XVII",
+    "block": "Congenital malformations of genital organs",
+    "blockCode": "Q50-Q56",
+    "category": "Congenital malformations of ovaries, fallopian tubes and broad ligaments",
+    "categoryCode": "Q50",
+    "subcategory": "Q50.3",
+    "inclusion": [
+        "Accessory ovary",
+        "Congenital malformation of ovary NOS",
+        "Ovarian streak"
+    ],
+    "exclusion": [
+        "inborn errors of metabolism",
+        "androgen resistance syndrome",
+        "syndromes associated with anomalies in the number and form of chromosomes",
+        "testicular feminization syndrome"
+    ],
+    "symptoms": [
+        "abdominal pain",
+        "irregular menstruation",
+        "infertility",
+        "pelvic mass",
+        "ovarian torsion"
+    ]
+}

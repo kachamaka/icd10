@@ -1,0 +1,27 @@
+{
+    "icd10code": "R50.2",
+    "type": "subcategory",
+    "title": "Drug-induced fever",
+    "chapter": "Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+    "chapterCode": "XVIII",
+    "block": "General symptoms and signs",
+    "blockCode": "R50-R69",
+    "category": "Fever of other and unknown origin",
+    "categoryCode": "R50",
+    "subcategory": "R50.2",
+    "inclusion": null,
+    "exclusion": [
+        "abnormal findings on antenatal screening of mother",
+        "certain conditions originating in the perinatal period",
+        "fever of unknown origin (during)(in): labour",
+        "fever of unknown origin (during)(in): newborn",
+        "puerperal pyrexia NOS"
+    ],
+    "symptoms": [
+        "fever",
+        "chills",
+        "fatigue",
+        "headache",
+        "general malaise"
+    ]
+}

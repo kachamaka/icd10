@@ -1,0 +1,51 @@
+{
+    "icd10code": "S26.8",
+    "type": "subcategory",
+    "title": "Other injuries of heart",
+    "chapter": "Injury, poisoning and certain other consequences of external causes",
+    "chapterCode": "XIX",
+    "block": "Injuries to the thorax",
+    "blockCode": "S20-S29",
+    "category": "Injury of heart",
+    "categoryCode": "S26",
+    "subcategory": "S26.8",
+    "inclusion": [
+        "injuries of: breast",
+        "injuries of: chest (wall)",
+        "injuries of: interscapular area",
+        "contusion of heart",
+        "laceration of heart",
+        "puncture of heart",
+        "traumatic rupture of heart"
+    ],
+    "exclusion": [
+        "birth trauma",
+        "obstetric trauma",
+        "malunion of fracture",
+        "nonunion of fracture [pseudarthrosis]",
+        "pathological fracture",
+        "pathological fracture with osteoporosis",
+        "stress fracture",
+        "burns and corrosions",
+        "effects of foreign body in: bronchus",
+        "effects of foreign body in: lung",
+        "effects of foreign body in: oesophagus",
+        "effects of foreign body in: trachea",
+        "fracture of spine NOS",
+        "frostbite",
+        "injuries of: axilla",
+        "injuries of: clavicle",
+        "injuries of: scapular region",
+        "injuries of: shoulder",
+        "injuries of: spinal cord NOS",
+        "injuries of: trunk NOS",
+        "insect bite or sting, venomous"
+    ],
+    "symptoms": [
+        "localized chest pain",
+        "difficulty breathing",
+        "bruising",
+        "rapid heart rate",
+        "chest tenderness"
+    ]
+}

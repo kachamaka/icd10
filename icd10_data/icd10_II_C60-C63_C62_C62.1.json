@@ -1,0 +1,17 @@
+{
+  "type": "subcategory",
+  "chapterCode": "II",
+  "chapter": "Neoplasms",
+  "blockCode": "C60-C63",
+  "block": "Malignant neoplasms of male genital organs",
+  "categoryCode": "C62",
+  "category": "Malignant neoplasm of testis",
+  "subcategory": "C62.1",
+  "title": "Malignant neoplasm: Descended testis",
+  "inclusion": [
+    "skin of male genital organs",
+    "Scrotal testis"
+  ],
+  "exclusion": null,
+  "children": null
+}

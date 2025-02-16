@@ -1,0 +1,22 @@
+{
+  "type": "subcategory",
+  "chapterCode": "XVII",
+  "chapter": "Congenital malformations, deformations and chromosomal abnormalities",
+  "blockCode": "Q00-Q07",
+  "block": "Congenital malformations of the nervous system",
+  "categoryCode": "Q00",
+  "category": "Anencephaly and similar malformations",
+  "subcategory": "Q00.0",
+  "title": "Anencephaly",
+  "inclusion": [
+    "Acephaly",
+    "Acrania",
+    "Amyelencephaly",
+    "Hemianencephaly",
+    "Hemicephaly"
+  ],
+  "exclusion": [
+    "inborn errors of metabolism"
+  ],
+  "children": null
+}

@@ -1,0 +1,20 @@
+{
+  "type": "subcategory",
+  "chapterCode": "V",
+  "chapter": "Mental and behavioural disorders",
+  "blockCode": "F60-F69",
+  "block": "Disorders of adult personality and behaviour",
+  "categoryCode": "F65",
+  "category": "Disorders of sexual preference",
+  "subcategory": "F65.1",
+  "title": "Fetishistic transvestism",
+  "inclusion": [
+    "disorders of psychological development",
+    "paraphilias",
+    "Transvestic fetishism"
+  ],
+  "exclusion": [
+    "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified"
+  ],
+  "children": null
+}

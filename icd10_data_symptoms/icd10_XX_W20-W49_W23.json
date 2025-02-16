@@ -1,0 +1,44 @@
+{
+    "icd10code": "W23",
+    "type": "category",
+    "title": "Caught, crushed, jammed or pinched in or between objects",
+    "chapter": "External causes of morbidity and mortality",
+    "chapterCode": "XX",
+    "block": "Exposure to inanimate mechanical forces",
+    "blockCode": "W20-W49",
+    "category": "Caught, crushed, jammed or pinched in or between objects",
+    "categoryCode": "W23",
+    "subcategory": "",
+    "inclusion": [
+        "caught, crushed, jammed or pinched: between: moving objects such as folding object",
+        "caught, crushed, jammed or pinched: between: moving objects such as sliding door and door-frame",
+        "caught, crushed, jammed or pinched: between: moving objects such as packing crate and floor, after losing grip",
+        "caught, crushed, jammed or pinched: between: moving objects such as washing-machine wringer",
+        "caught, crushed, jammed or pinched: between: stationary and moving objects such as folding object",
+        "caught, crushed, jammed or pinched: between: stationary and moving objects such as sliding door and door-frame",
+        "caught, crushed, jammed or pinched: between: stationary and moving objects such as packing crate and floor, after losing grip",
+        "caught, crushed, jammed or pinched: between: stationary and moving objects such as washing-machine wringer",
+        "caught, crushed, jammed or pinched: in object such as folding object",
+        "caught, crushed, jammed or pinched: in object such as sliding door and door-frame",
+        "caught, crushed, jammed or pinched: in object such as packing crate and floor, after losing grip",
+        "caught, crushed, jammed or pinched: in object such as washing-machine wringer"
+    ],
+    "exclusion": [
+        "assault",
+        "contact or collision with animals or persons",
+        "intentional self-harm",
+        "injury caused by: cutting or piercing instruments",
+        "injury caused by: lifting and transmission devices",
+        "injury caused by: machinery",
+        "injury caused by: nonpowered hand tools",
+        "injury caused by: transport vehicle being used as a means of transportation",
+        "struck by thrown, projected or falling object"
+    ],
+    "symptoms": [
+        "pain",
+        "swelling",
+        "bruising",
+        "tenderness",
+        "redness"
+    ]
+}

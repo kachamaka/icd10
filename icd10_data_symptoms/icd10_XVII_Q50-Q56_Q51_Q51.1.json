@@ -1,0 +1,26 @@
+{
+    "icd10code": "Q51.1",
+    "type": "subcategory",
+    "title": "Doubling of uterus with doubling of cervix and vagina",
+    "chapter": "Congenital malformations, deformations and chromosomal abnormalities",
+    "chapterCode": "XVII",
+    "block": "Congenital malformations of genital organs",
+    "blockCode": "Q50-Q56",
+    "category": "Congenital malformations of uterus and cervix",
+    "categoryCode": "Q51",
+    "subcategory": "Q51.1",
+    "inclusion": null,
+    "exclusion": [
+        "inborn errors of metabolism",
+        "androgen resistance syndrome",
+        "syndromes associated with anomalies in the number and form of chromosomes",
+        "testicular feminization syndrome"
+    ],
+    "symptoms": [
+        "abnormal uterine bleeding",
+        "pelvic pain",
+        "recurrent miscarriage",
+        "infertility",
+        "dysmenorrhea"
+    ]
+}

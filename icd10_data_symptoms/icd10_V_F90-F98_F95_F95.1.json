@@ -1,0 +1,25 @@
+{
+    "icd10code": "F95.1",
+    "type": "subcategory",
+    "title": "Chronic motor or vocal tic disorder",
+    "chapter": "Mental and behavioural disorders",
+    "chapterCode": "V",
+    "block": "Behavioural and emotional disorders with onset usually occurring in childhood and adolescence",
+    "blockCode": "F90-F98",
+    "category": "Tic disorders",
+    "categoryCode": "F95",
+    "subcategory": "F95.1",
+    "inclusion": [
+        "disorders of psychological development"
+    ],
+    "exclusion": [
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified"
+    ],
+    "symptoms": [
+        "motor tics",
+        "vocal tics",
+        "repetitive movements",
+        "sudden sounds",
+        "involuntary actions"
+    ]
+}

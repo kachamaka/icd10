@@ -1,0 +1,33 @@
+{
+    "icd10code": "W29",
+    "type": "category",
+    "title": "Contact with other powered hand tools and household machinery",
+    "chapter": "External causes of morbidity and mortality",
+    "chapterCode": "XX",
+    "block": "Exposure to inanimate mechanical forces",
+    "blockCode": "W20-W49",
+    "category": "Contact with other powered hand tools and household machinery",
+    "categoryCode": "W29",
+    "subcategory": "",
+    "inclusion": [
+        "blender",
+        "powered: can-opener",
+        "powered: chain-saw",
+        "powered: do-it-yourself tool",
+        "powered: garden tool",
+        "powered: hedge-trimmer",
+        "powered: knife",
+        "powered: sewing-machine",
+        "powered: spin-drier",
+        "washing-machine"
+    ],
+    "exclusion": [
+        "assault",
+        "contact or collision with animals or persons",
+        "intentional self-harm",
+        "exposure to electric current"
+    ],
+    "symptoms": [
+        "asymptomatic"
+    ]
+}

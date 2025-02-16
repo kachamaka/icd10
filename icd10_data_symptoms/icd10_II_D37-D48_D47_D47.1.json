@@ -1,0 +1,27 @@
+{
+    "icd10code": "D47.1",
+    "type": "subcategory",
+    "title": "Chronic myeloproliferative disease",
+    "chapter": "Neoplasms",
+    "chapterCode": "II",
+    "block": "Neoplasms of uncertain or unknown behaviour",
+    "blockCode": "D37-D48",
+    "category": "Other neoplasms of uncertain or unknown behaviour of lymphoid, haematopoietic and related tissue",
+    "categoryCode": "D47",
+    "subcategory": "D47.1",
+    "inclusion": [
+        "Chronic neutrophilic leukaemia",
+        "Myeloproliferative disease, unspecified"
+    ],
+    "exclusion": [
+        "atypical chronic myeloid leukaemia, BCR/ABL-negative",
+        "chronic myeloid leukaemia [CML] BCR/ABL-positive"
+    ],
+    "symptoms": [
+        "easy bruising",
+        "fatigue",
+        "unexplained weight loss",
+        "bone pain",
+        "recurrent infections"
+    ]
+}

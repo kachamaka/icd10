@@ -1,0 +1,37 @@
+{
+    "icd10code": "O02.0",
+    "type": "subcategory",
+    "title": "Blighted ovum and nonhydatidiform mole",
+    "chapter": "Pregnancy, childbirth and the puerperium",
+    "chapterCode": "XV",
+    "block": "Pregnancy with abortive outcome",
+    "blockCode": "O00-O08",
+    "category": "Other abnormal products of conception",
+    "categoryCode": "O02",
+    "subcategory": "O02.0",
+    "inclusion": [
+        "Mole: carneous",
+        "Mole: fleshy",
+        "Mole: intrauterine NOS",
+        "Pathological ovum"
+    ],
+    "exclusion": [
+        "Certain diseases or injuries complicating pregnancy, childbirth and the puerperium classified elsewhere: external causes (for mortality)",
+        "Certain diseases or injuries complicating pregnancy, childbirth and the puerperium classified elsewhere: injury, poisoning and certain other consequences of external cause",
+        "Certain diseases or injuries complicating pregnancy, childbirth and the puerperium classified elsewhere: mental and behavioural disorders associated with the puerperium",
+        "Certain diseases or injuries complicating pregnancy, childbirth and the puerperium classified elsewhere: obstetrical tetanus",
+        "Certain diseases or injuries complicating pregnancy, childbirth and the puerperium classified elsewhere: postpartum necrosis of pituitary gland",
+        "Certain diseases or injuries complicating pregnancy, childbirth and the puerperium classified elsewhere: puerperal osteomalacia",
+        "supervision of: high-risk pregnancy",
+        "supervision of: normal pregnancy",
+        "continuing pregnancy in multiple gestation after abortion of one fetus or more",
+        "delivery of viable fetus in abdominal pregnancy"
+    ],
+    "symptoms": [
+        "vaginal bleeding",
+        "abdominal pain",
+        "absence of fetal heartbeat",
+        "cervical dilation",
+        "cramping"
+    ]
+}

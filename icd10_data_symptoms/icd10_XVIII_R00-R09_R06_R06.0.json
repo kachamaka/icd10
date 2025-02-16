@@ -1,0 +1,33 @@
+{
+    "icd10code": "R06.0",
+    "type": "subcategory",
+    "title": "Dyspnoea",
+    "chapter": "Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+    "chapterCode": "XVIII",
+    "block": "Symptoms and signs involving the circulatory and respiratory systems",
+    "blockCode": "R00-R09",
+    "category": "Abnormalities of breathing",
+    "categoryCode": "R06",
+    "subcategory": "R06.0",
+    "inclusion": [
+        "Orthopnoea",
+        "Shortness of breath"
+    ],
+    "exclusion": [
+        "abnormal findings on antenatal screening of mother",
+        "certain conditions originating in the perinatal period",
+        "respiratory: arrest",
+        "respiratory: distress: syndrome of adult",
+        "respiratory: distress: in newborn",
+        "respiratory: failure",
+        "respiratory: failure of newborn",
+        "transient tachypnoea of newborn"
+    ],
+    "symptoms": [
+        "shortness of breath",
+        "difficulty breathing",
+        "labored breathing",
+        "breathlessness",
+        "dyspnea"
+    ]
+}

@@ -1,0 +1,24 @@
+{
+    "icd10code": "X10",
+    "type": "category",
+    "title": "Contact with hot drinks, food, fats and cooking oils",
+    "chapter": "External causes of morbidity and mortality",
+    "chapterCode": "XX",
+    "block": "Contact with heat and hot substances",
+    "blockCode": "X10-X19",
+    "category": "Contact with hot drinks, food, fats and cooking oils",
+    "categoryCode": "X10",
+    "subcategory": "",
+    "inclusion": null,
+    "exclusion": [
+        "exposure to: excessive natural heat",
+        "exposure to: fire and flames"
+    ],
+    "symptoms": [
+        "redness",
+        "blistering",
+        "swelling",
+        "pain",
+        "peeling"
+    ]
+}

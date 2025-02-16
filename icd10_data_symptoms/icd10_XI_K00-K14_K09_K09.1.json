@@ -1,0 +1,35 @@
+{
+    "icd10code": "K09.1",
+    "type": "subcategory",
+    "title": "Developmental (nonodontogenic) cysts of oral region",
+    "chapter": "Diseases of the digestive system",
+    "chapterCode": "XI",
+    "block": "Diseases of oral cavity, salivary glands and jaws",
+    "blockCode": "K00-K14",
+    "category": "Cysts of oral region, not elsewhere classified",
+    "categoryCode": "K09",
+    "subcategory": "K09.1",
+    "inclusion": [
+        "lesions showing histological features both of aneurysmal cyst and of another fibro-osseous lesion",
+        "Cyst (of): nasolabial [nasoalveolar]",
+        "Cyst (of): nasopalatine duct [incisive canal]"
+    ],
+    "exclusion": [
+        "certain conditions originating in the perinatal period",
+        "certain infectious and parasitic diseases",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "radicular cyst"
+    ],
+    "symptoms": [
+        "swelling",
+        "pain",
+        "tenderness",
+        "difficulty opening mouth",
+        "foul taste"
+    ]
+}

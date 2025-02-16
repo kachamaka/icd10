@@ -1,0 +1,22 @@
+{
+  "type": "category",
+  "chapterCode": "IV",
+  "chapter": "Endocrine, nutritional and metabolic diseases",
+  "blockCode": "E15-E16",
+  "block": "Other disorders of glucose regulation and pancreatic internal secretion",
+  "categoryCode": "E15",
+  "category": "Nondiabetic hypoglycaemic coma",
+  "subcategory": "",
+  "title": "Nondiabetic hypoglycaemic coma",
+  "inclusion": [
+    "Drug-induced insulin coma in nondiabetic",
+    "Hyperinsulinism with hypoglycaemic coma",
+    "Hypoglycaemic coma NOS"
+  ],
+  "exclusion": [
+    "complications of pregnancy, childbirth and the puerperium",
+    "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+    "transitory endocrine and metabolic disorders specific to fetus and newborn"
+  ],
+  "children": null
+}

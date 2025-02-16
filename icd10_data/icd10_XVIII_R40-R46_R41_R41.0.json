@@ -1,0 +1,22 @@
+{
+  "type": "subcategory",
+  "chapterCode": "XVIII",
+  "chapter": "Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+  "blockCode": "R40-R46",
+  "block": "Symptoms and signs involving cognition, perception, emotional state and behaviour",
+  "categoryCode": "R41",
+  "category": "Other symptoms and signs involving cognitive functions and awareness",
+  "subcategory": "R41.0",
+  "title": "Disorientation, unspecified",
+  "inclusion": [
+    "Confusion NOS"
+  ],
+  "exclusion": [
+    "abnormal findings on antenatal screening of mother",
+    "certain conditions originating in the perinatal period",
+    "those constituting part of a pattern of mental disorder",
+    "disturbances of skin sensation",
+    "psychogenic disorientation"
+  ],
+  "children": null
+}

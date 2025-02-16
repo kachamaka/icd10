@@ -1,0 +1,17 @@
+{
+  "type": "subcategory",
+  "chapterCode": "XXI",
+  "chapter": "Factors influencing health status and contact with health services",
+  "blockCode": "Z30-Z39",
+  "block": "Persons encountering health services in circumstances related to reproduction",
+  "categoryCode": "Z35",
+  "category": "Supervision of high-risk pregnancy",
+  "subcategory": "Z35.3",
+  "title": "Supervision of pregnancy with history of insufficient antenatal care",
+  "inclusion": [
+    "Pregnancy: concealed",
+    "Pregnancy: hidden"
+  ],
+  "exclusion": null,
+  "children": null
+}

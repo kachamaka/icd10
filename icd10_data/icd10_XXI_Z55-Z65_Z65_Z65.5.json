@@ -1,0 +1,17 @@
+{
+  "type": "subcategory",
+  "chapterCode": "XXI",
+  "chapter": "Factors influencing health status and contact with health services",
+  "blockCode": "Z55-Z65",
+  "block": "Persons with potential health hazards related to socioeconomic and psychosocial circumstances",
+  "categoryCode": "Z65",
+  "category": "Problems related to other psychosocial circumstances",
+  "subcategory": "Z65.5",
+  "title": "Exposure to disaster, war and other hostilities",
+  "inclusion": null,
+  "exclusion": [
+    "current injury - see Alphabetical Index",
+    "target of perceived discrimination or persecution"
+  ],
+  "children": null
+}

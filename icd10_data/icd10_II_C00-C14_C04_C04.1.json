@@ -1,0 +1,14 @@
+{
+  "type": "subcategory",
+  "chapterCode": "II",
+  "chapter": "Neoplasms",
+  "blockCode": "C00-C14",
+  "block": "Malignant neoplasms of lip, oral cavity and pharynx",
+  "categoryCode": "C04",
+  "category": "Malignant neoplasm of floor of mouth",
+  "subcategory": "C04.1",
+  "title": "Malignant neoplasm: Lateral floor of mouth",
+  "inclusion": null,
+  "exclusion": null,
+  "children": null
+}

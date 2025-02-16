@@ -1,0 +1,29 @@
+{
+    "icd10code": "C41.3",
+    "type": "subcategory",
+    "title": "Malignant neoplasm: Ribs, sternum and clavicle",
+    "chapter": "Neoplasms",
+    "chapterCode": "II",
+    "block": "Malignant neoplasms of bone and articular cartilage",
+    "blockCode": "C40-C41",
+    "category": "Malignant neoplasm of bone and articular cartilage of other and unspecified sites",
+    "categoryCode": "C41",
+    "subcategory": "C41.3",
+    "inclusion": null,
+    "exclusion": [
+        "bone marrow NOS",
+        "synovia",
+        "bones of limbs",
+        "cartilage of: ear",
+        "cartilage of: larynx",
+        "cartilage of: limbs",
+        "cartilage of: nose"
+    ],
+    "symptoms": [
+        "swelling or lump on the skull",
+        "persistent headache",
+        "vision changes",
+        "loss of sensation",
+        "seizures"
+    ]
+}

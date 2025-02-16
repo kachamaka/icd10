@@ -1,0 +1,18 @@
+{
+  "type": "subcategory",
+  "chapterCode": "II",
+  "chapter": "Neoplasms",
+  "blockCode": "C15-C26",
+  "block": "Malignant neoplasms of digestive organs",
+  "categoryCode": "C26",
+  "category": "Malignant neoplasm of other and ill-defined digestive organs",
+  "subcategory": "C26.0",
+  "title": "Malignant neoplasm: Intestinal tract, part unspecified",
+  "inclusion": [
+    "Intestine NOS"
+  ],
+  "exclusion": [
+    "peritoneum and retroperitoneum"
+  ],
+  "children": null
+}

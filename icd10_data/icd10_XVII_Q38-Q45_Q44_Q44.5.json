@@ -1,0 +1,21 @@
+{
+  "type": "subcategory",
+  "chapterCode": "XVII",
+  "chapter": "Congenital malformations, deformations and chromosomal abnormalities",
+  "blockCode": "Q38-Q45",
+  "block": "Other congenital malformations of the digestive system",
+  "categoryCode": "Q44",
+  "category": "Congenital malformations of gallbladder, bile ducts and liver",
+  "subcategory": "Q44.5",
+  "title": "Other congenital malformations of bile ducts",
+  "inclusion": [
+    "Accessory hepatic duct",
+    "Congenital malformation of bile duct NOS",
+    "Duplication: biliary duct",
+    "Duplication: cystic duct"
+  ],
+  "exclusion": [
+    "inborn errors of metabolism"
+  ],
+  "children": null
+}

@@ -1,0 +1,18 @@
+{
+  "type": "subcategory",
+  "chapterCode": "II",
+  "chapter": "Neoplasms",
+  "blockCode": "C00-C14",
+  "block": "Malignant neoplasms of lip, oral cavity and pharynx",
+  "categoryCode": "C10",
+  "category": "Malignant neoplasm of oropharynx",
+  "subcategory": "C10.8",
+  "title": "Malignant neoplasm: Overlapping lesion of oropharynx",
+  "inclusion": [
+    "Junctional region of oropharynx"
+  ],
+  "exclusion": [
+    "tonsil"
+  ],
+  "children": null
+}

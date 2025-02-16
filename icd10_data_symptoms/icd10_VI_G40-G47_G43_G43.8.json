@@ -1,0 +1,34 @@
+{
+    "icd10code": "G43.8",
+    "type": "subcategory",
+    "title": "Other migraine",
+    "chapter": "Diseases of the nervous system",
+    "chapterCode": "VI",
+    "block": "Episodic and paroxysmal disorders",
+    "blockCode": "G40-G47",
+    "category": "Migraine",
+    "categoryCode": "G43",
+    "subcategory": "G43.8",
+    "inclusion": [
+        "Ophthalmoplegic migraine",
+        "Retinal migraine"
+    ],
+    "exclusion": [
+        "certain conditions originating in the perinatal period",
+        "certain infectious and parasitic diseases",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "headache NOS"
+    ],
+    "symptoms": [
+        "headache",
+        "nausea",
+        "vomiting",
+        "photophobia",
+        "phonophobia"
+    ]
+}

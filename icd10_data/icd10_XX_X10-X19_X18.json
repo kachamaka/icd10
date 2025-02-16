@@ -1,0 +1,19 @@
+{
+  "type": "category",
+  "chapterCode": "XX",
+  "chapter": "External causes of morbidity and mortality",
+  "blockCode": "X10-X19",
+  "block": "Contact with heat and hot substances",
+  "categoryCode": "X18",
+  "category": "Contact with other hot metals",
+  "subcategory": "",
+  "title": "Contact with other hot metals",
+  "inclusion": [
+    "liquid metal"
+  ],
+  "exclusion": [
+    "exposure to: excessive natural heat",
+    "exposure to: fire and flames"
+  ],
+  "children": null
+}

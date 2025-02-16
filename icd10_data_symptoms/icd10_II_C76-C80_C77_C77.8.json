@@ -1,0 +1,23 @@
+{
+    "icd10code": "C77.8",
+    "type": "subcategory",
+    "title": "Secondary and unspecified malignant neoplasm: Lymph nodes of multiple regions",
+    "chapter": "Neoplasms",
+    "chapterCode": "II",
+    "block": "Malignant neoplasms of ill-defined, secondary and unspecified sites",
+    "blockCode": "C76-C80",
+    "category": "Secondary and unspecified malignant neoplasm of lymph nodes",
+    "categoryCode": "C77",
+    "subcategory": "C77.8",
+    "inclusion": null,
+    "exclusion": [
+        "malignant neoplasm of lymph nodes, specified as primary"
+    ],
+    "symptoms": [
+        "swelling in the neck or axilla",
+        "localized pain",
+        "unexplained weight loss",
+        "night sweats",
+        "persistent fatigue"
+    ]
+}

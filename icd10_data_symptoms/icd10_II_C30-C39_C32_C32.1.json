@@ -1,0 +1,35 @@
+{
+    "icd10code": "C32.1",
+    "type": "subcategory",
+    "title": "Malignant neoplasm: Supraglottis",
+    "chapter": "Neoplasms",
+    "chapterCode": "II",
+    "block": "Malignant neoplasms of respiratory and intrathoracic organs",
+    "blockCode": "C30-C39",
+    "category": "Malignant neoplasm of larynx",
+    "categoryCode": "C32",
+    "subcategory": "C32.1",
+    "inclusion": [
+        "middle ear",
+        "Aryepiglottic fold, laryngeal aspect",
+        "Epiglottis (suprahyoid portion) NOS",
+        "Extrinsic larynx",
+        "False vocal cord",
+        "Posterior (laryngeal) surface of epiglottis",
+        "Ventricular bands"
+    ],
+    "exclusion": [
+        "mesothelioma",
+        "anterior surface of epiglottis",
+        "aryepiglottic fold: NOS",
+        "aryepiglottic fold: hypopharyngeal aspect",
+        "aryepiglottic fold: marginal zone"
+    ],
+    "symptoms": [
+        "hoarseness or voice changes",
+        "difficulty swallowing",
+        "persistent cough",
+        "unexplained weight loss",
+        "ear pain"
+    ]
+}

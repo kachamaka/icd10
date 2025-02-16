@@ -1,0 +1,31 @@
+{
+  "type": "subcategory",
+  "chapterCode": "XIX",
+  "chapter": "Injury, poisoning and certain other consequences of external causes",
+  "blockCode": "T66-T78",
+  "block": "Other and unspecified effects of external causes",
+  "categoryCode": "T78",
+  "category": "Adverse effects, not elsewhere classified",
+  "subcategory": "T78.4",
+  "title": "Allergy, unspecified",
+  "inclusion": [
+    "Allergic reaction NOS",
+    "Hypersensitivity NOS",
+    "Idiosyncracy NOS"
+  ],
+  "exclusion": [
+    "birth trauma",
+    "obstetric trauma",
+    "malunion of fracture",
+    "nonunion of fracture [pseudarthrosis]",
+    "pathological fracture",
+    "pathological fracture with osteoporosis",
+    "stress fracture",
+    "polycythaemia due to high altitude",
+    "allergic reaction NOS to correct medicinal substance properly administered",
+    "specified types of allergic reaction such as: allergic gastroenteritis and colitis",
+    "specified types of allergic reaction such as: dermatitis",
+    "specified types of allergic reaction such as: hay fever"
+  ],
+  "children": null
+}

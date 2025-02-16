@@ -1,0 +1,24 @@
+{
+    "icd10code": "C81.4",
+    "type": "subcategory",
+    "title": "Lymphocyte-rich (classical) Hodgkin lymphoma",
+    "chapter": "Neoplasms",
+    "chapterCode": "II",
+    "block": "Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",
+    "blockCode": "C81-C96",
+    "category": "Hodgkin lymphoma",
+    "categoryCode": "C81",
+    "subcategory": "C81.4",
+    "inclusion": null,
+    "exclusion": [
+        "secondary and unspecified neoplasm of lymph nodes",
+        "nodular lymphocyte predominant Hodgkin lymphoma"
+    ],
+    "symptoms": [
+        "unexplained fatigue",
+        "persistent fever",
+        "night sweats",
+        "unexplained weight loss",
+        "swollen lymph nodes"
+    ]
+}

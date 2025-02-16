@@ -1,0 +1,35 @@
+{
+    "icd10code": "R93.1",
+    "type": "subcategory",
+    "title": "Abnormal findings on diagnostic imaging of heart and coronary circulation",
+    "chapter": "Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+    "chapterCode": "XVIII",
+    "block": "Abnormal findings on diagnostic imaging and in function studies, without diagnosis",
+    "blockCode": "R90-R94",
+    "category": "Abnormal findings on diagnostic imaging of other body structures",
+    "categoryCode": "R93",
+    "subcategory": "R93.1",
+    "inclusion": [
+        "nonspecific abnormal findings on diagnostic imaging by: computerized axial tomography [CAT scan]",
+        "nonspecific abnormal findings on diagnostic imaging by: magnetic resonance imaging [MRI][NMR]",
+        "nonspecific abnormal findings on diagnostic imaging by: positron emission tomography [PET scan]",
+        "nonspecific abnormal findings on diagnostic imaging by: thermography",
+        "nonspecific abnormal findings on diagnostic imaging by: ultrasound [echogram]",
+        "nonspecific abnormal findings on diagnostic imaging by: X-ray examination",
+        "Abnormal: echocardiogram NOS",
+        "Abnormal: heart shadow"
+    ],
+    "exclusion": [
+        "abnormal findings on antenatal screening of mother",
+        "certain conditions originating in the perinatal period",
+        "abnormal findings on antenatal screening of mother",
+        "diagnostic abnormal findings classified elsewhere - see Alphabetical Index"
+    ],
+    "symptoms": [
+        "abnormal chest x-ray findings",
+        "lung opacity",
+        "pleural thickening",
+        "pulmonary nodule",
+        "hilar enlargement"
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "icd10code": "K10.9",
+    "type": "subcategory",
+    "title": "Disease of jaws, unspecified",
+    "chapter": "Diseases of the digestive system",
+    "chapterCode": "XI",
+    "block": "Diseases of oral cavity, salivary glands and jaws",
+    "blockCode": "K00-K14",
+    "category": "Other diseases of jaws",
+    "categoryCode": "K10",
+    "subcategory": "K10.9",
+    "inclusion": null,
+    "exclusion": [
+        "certain conditions originating in the perinatal period",
+        "certain infectious and parasitic diseases",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified"
+    ],
+    "symptoms": [
+        "jaw pain",
+        "swelling in jaw",
+        "difficulty opening mouth",
+        "jaw stiffness",
+        "tenderness near jaw"
+    ]
+}

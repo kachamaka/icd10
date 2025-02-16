@@ -1,0 +1,31 @@
+{
+    "icd10code": "B08.5",
+    "type": "subcategory",
+    "title": "Enteroviral vesicular pharyngitis",
+    "chapter": "Certain infectious and parasitic diseases",
+    "chapterCode": "I",
+    "block": "Viral infections characterized by skin and mucous membrane lesions",
+    "blockCode": "B00-B09",
+    "category": "Other viral infections characterized by skin and mucous membrane lesions, not elsewhere classified",
+    "categoryCode": "B08",
+    "subcategory": "B08.5",
+    "inclusion": [
+        "diseases generally recognized as communicable or transmissible",
+        "Herpangina"
+    ],
+    "exclusion": [
+        "carrier or suspected carrier of infectious disease",
+        "certain localized infections - see body system-related chapters",
+        "infectious and parasitic diseases complicating pregnancy, childbirth and the puerperium [except obstetrical tetanus]",
+        "infectious and parasitic diseases specific to the perinatal period [except tetanus neonatorum, whooping cough, congenital syphilis, perinatal gonococcal infection and perinatal human immunodeficiency virus [HIV] disease]",
+        "influenza and other acute respiratory infections",
+        "erythrasma"
+    ],
+    "symptoms": [
+        "fever",
+        "rash",
+        "itchy blisters",
+        "headache",
+        "fatigue"
+    ]
+}

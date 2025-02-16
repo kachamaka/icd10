@@ -1,0 +1,28 @@
+{
+    "icd10code": "Q45.9",
+    "type": "subcategory",
+    "title": "Congenital malformation of digestive system, unspecified",
+    "chapter": "Congenital malformations, deformations and chromosomal abnormalities",
+    "chapterCode": "XVII",
+    "block": "Other congenital malformations of the digestive system",
+    "blockCode": "Q38-Q45",
+    "category": "Other congenital malformations of digestive system",
+    "categoryCode": "Q45",
+    "subcategory": "Q45.9",
+    "inclusion": [
+        "Congenital: anomaly NOS of digestive system",
+        "Congenital: deformity NOS of digestive system"
+    ],
+    "exclusion": [
+        "inborn errors of metabolism",
+        "congenital: diaphragmatic hernia",
+        "congenital: hiatus hernia"
+    ],
+    "symptoms": [
+        "congenital abnormalities of digestive system",
+        "feeding difficulties",
+        "abdominal distension",
+        "vomiting",
+        "failure to thrive"
+    ]
+}

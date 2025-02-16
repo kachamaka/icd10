@@ -1,0 +1,24 @@
+{
+    "icd10code": "Z24.4",
+    "type": "subcategory",
+    "title": "Need for immunization against measles alone",
+    "chapter": "Factors influencing health status and contact with health services",
+    "chapterCode": "XXI",
+    "block": "Persons with potential health hazards related to communicable diseases",
+    "blockCode": "Z20-Z29",
+    "category": "Need for immunization against certain single viral diseases",
+    "categoryCode": "Z24",
+    "subcategory": "Z24.4",
+    "inclusion": null,
+    "exclusion": [
+        "immunization: against combinations of diseases",
+        "immunization: not carried out"
+    ],
+    "symptoms": [
+        "vaccination site pain",
+        "redness",
+        "swelling",
+        "fatigue",
+        "mild fever"
+    ]
+}

@@ -1,0 +1,25 @@
+{
+  "type": "subcategory",
+  "chapterCode": "VIII",
+  "chapter": "Diseases of the ear and mastoid process",
+  "blockCode": "H90-H95",
+  "block": "Other disorders of ear",
+  "categoryCode": "H94",
+  "category": "Other disorders of ear in diseases classified elsewhere",
+  "subcategory": "H94.0",
+  "title": "Acoustic neuritis in infectious and parasitic diseases classified elsewhere",
+  "inclusion": [
+    "Acoustic neuritis in syphilis"
+  ],
+  "exclusion": [
+    "certain conditions originating in the perinatal period",
+    "certain infectious and parasitic diseases",
+    "complications of pregnancy, childbirth and the puerperium",
+    "congenital malformations, deformations and chromosomal abnormalities",
+    "endocrine, nutritional and metabolic diseases",
+    "injury, poisoning and certain other consequences of external causes",
+    "neoplasms",
+    "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified"
+  ],
+  "children": null
+}

@@ -1,0 +1,28 @@
+{
+    "icd10code": "Q73.8",
+    "type": "subcategory",
+    "title": "Other reduction defects of unspecified limb(s)",
+    "chapter": "Congenital malformations, deformations and chromosomal abnormalities",
+    "chapterCode": "XVII",
+    "block": "Congenital malformations and deformations of the musculoskeletal system",
+    "blockCode": "Q65-Q79",
+    "category": "Reduction defects of unspecified limb",
+    "categoryCode": "Q73",
+    "subcategory": "Q73.8",
+    "inclusion": [
+        "Longitudinal reduction deformity of unspecified limb(s)",
+        "Ectromelia NOS of limb(s) NOS",
+        "Hemimelia NOS of limb(s) NOS",
+        "Reduction defect of limb(s) NOS"
+    ],
+    "exclusion": [
+        "inborn errors of metabolism"
+    ],
+    "symptoms": [
+        "limb shortening",
+        "absent fingers",
+        "malformed toes",
+        "hand hypoplasia",
+        "foot hypoplasia"
+    ]
+}

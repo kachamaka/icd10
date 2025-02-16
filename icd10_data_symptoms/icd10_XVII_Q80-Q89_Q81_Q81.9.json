@@ -1,0 +1,23 @@
+{
+    "icd10code": "Q81.9",
+    "type": "subcategory",
+    "title": "Epidermolysis bullosa, unspecified",
+    "chapter": "Congenital malformations, deformations and chromosomal abnormalities",
+    "chapterCode": "XVII",
+    "block": "Other congenital malformations",
+    "blockCode": "Q80-Q89",
+    "category": "Epidermolysis bullosa",
+    "categoryCode": "Q81",
+    "subcategory": "Q81.9",
+    "inclusion": null,
+    "exclusion": [
+        "inborn errors of metabolism"
+    ],
+    "symptoms": [
+        "skin blistering",
+        "delayed wound healing",
+        "fragile skin",
+        "easy bruising",
+        "recurrent infections"
+    ]
+}

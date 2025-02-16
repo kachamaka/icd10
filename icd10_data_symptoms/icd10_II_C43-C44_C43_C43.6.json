@@ -1,0 +1,25 @@
+{
+    "icd10code": "C43.6",
+    "type": "subcategory",
+    "title": "Malignant neoplasm: Malignant melanoma of upper limb, including shoulder",
+    "chapter": "Neoplasms",
+    "chapterCode": "II",
+    "block": "Melanoma and other malignant neoplasms of skin",
+    "blockCode": "C43-C44",
+    "category": "Malignant melanoma of skin",
+    "categoryCode": "C43",
+    "subcategory": "C43.6",
+    "inclusion": [
+        "morphology codes M872-M879 with behaviour code /3"
+    ],
+    "exclusion": [
+        "malignant melanoma of skin of genital organs"
+    ],
+    "symptoms": [
+        "unusual skin sensations",
+        "changes in mole appearance",
+        "development of new pigmented or unusual skin",
+        "skin lesion bleeding",
+        "nodules under skin"
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "icd10code": "K07.0",
+    "type": "subcategory",
+    "title": "Major anomalies of jaw size",
+    "chapter": "Diseases of the digestive system",
+    "chapterCode": "XI",
+    "block": "Diseases of oral cavity, salivary glands and jaws",
+    "blockCode": "K00-K14",
+    "category": "Dentofacial anomalies [including malocclusion]",
+    "categoryCode": "K07",
+    "subcategory": "K07.0",
+    "inclusion": [
+        "Hyperplasia, hypoplasia: mandibular",
+        "Hyperplasia, hypoplasia: maxillary",
+        "Macrognathism (mandibular)(maxillary)",
+        "Micrognathism (mandibular)(maxillary)"
+    ],
+    "exclusion": [
+        "certain conditions originating in the perinatal period",
+        "certain infectious and parasitic diseases",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "hemifacial atrophy or hypertrophy",
+        "unilateral condylar hyperplasia or hypoplasia",
+        "acromegaly",
+        "Robin syndrome"
+    ],
+    "symptoms": [
+        "jaw pain",
+        "difficulty chewing",
+        "jaw stiffness",
+        "facial asymmetry",
+        "misaligned bite"
+    ]
+}

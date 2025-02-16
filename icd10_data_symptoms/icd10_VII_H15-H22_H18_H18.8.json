@@ -1,0 +1,34 @@
+{
+    "icd10code": "H18.8",
+    "type": "subcategory",
+    "title": "Other specified disorders of cornea",
+    "chapter": "Diseases of the eye and adnexa",
+    "chapterCode": "VII",
+    "block": "Disorders of sclera, cornea, iris and ciliary body",
+    "blockCode": "H15-H22",
+    "category": "Other disorders of cornea",
+    "categoryCode": "H18",
+    "subcategory": "H18.8",
+    "inclusion": [
+        "Anaesthesia of cornea",
+        "Hypaesthesia of cornea",
+        "Recurrent erosion of cornea"
+    ],
+    "exclusion": [
+        "certain conditions originating in the perinatal period",
+        "certain infectious and parasitic diseases",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified"
+    ],
+    "symptoms": [
+        "blurred vision",
+        "eye redness",
+        "discomfort",
+        "light sensitivity",
+        "visual disturbances"
+    ]
+}

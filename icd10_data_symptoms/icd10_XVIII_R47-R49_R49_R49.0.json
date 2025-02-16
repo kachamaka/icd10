@@ -1,0 +1,27 @@
+{
+    "icd10code": "R49.0",
+    "type": "subcategory",
+    "title": "Dysphonia",
+    "chapter": "Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+    "chapterCode": "XVIII",
+    "block": "Symptoms and signs involving speech and voice",
+    "blockCode": "R47-R49",
+    "category": "Voice disturbances",
+    "categoryCode": "R49",
+    "subcategory": "R49.0",
+    "inclusion": [
+        "Hoarseness"
+    ],
+    "exclusion": [
+        "abnormal findings on antenatal screening of mother",
+        "certain conditions originating in the perinatal period",
+        "psychogenic voice disturbance"
+    ],
+    "symptoms": [
+        "hoarseness",
+        "raspy voice",
+        "strained voice",
+        "loss of vocal pitch",
+        "vocal fatigue"
+    ]
+}

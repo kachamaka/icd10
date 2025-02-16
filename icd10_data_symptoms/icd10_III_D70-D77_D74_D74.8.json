@@ -1,0 +1,34 @@
+{
+    "icd10code": "D74.8",
+    "type": "subcategory",
+    "title": "Other methaemoglobinaemias",
+    "chapter": "Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism",
+    "chapterCode": "III",
+    "block": "Other diseases of blood and blood-forming organs",
+    "blockCode": "D70-D77",
+    "category": "Methaemoglobinaemia",
+    "categoryCode": "D74",
+    "subcategory": "D74.8",
+    "inclusion": [
+        "Acquired methaemoglobinaemia (with sulfhaemoglobinaemia)",
+        "Toxic methaemoglobinaemia"
+    ],
+    "exclusion": [
+        "autoimmune disease (systemic) NOS",
+        "certain conditions originating in the perinatal period",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "human immunodeficiency virus [HIV] disease",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified"
+    ],
+    "symptoms": [
+        "fatigue",
+        "weakness",
+        "pale skin color",
+        "rapid heart rate",
+        "shortness of breath"
+    ]
+}

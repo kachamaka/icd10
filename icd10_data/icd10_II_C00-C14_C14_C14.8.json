@@ -1,0 +1,18 @@
+{
+  "type": "subcategory",
+  "chapterCode": "II",
+  "chapter": "Neoplasms",
+  "blockCode": "C00-C14",
+  "block": "Malignant neoplasms of lip, oral cavity and pharynx",
+  "categoryCode": "C14",
+  "category": "Malignant neoplasm of other and ill-defined sites in the lip, oral cavity and pharynx",
+  "subcategory": "C14.8",
+  "title": "Malignant neoplasm: Overlapping lesion of lip, oral cavity and pharynx",
+  "inclusion": [
+    "Malignant neoplasm of lip, oral cavity and pharynx whose point of origin cannot be classified to any one of the categories C00-C14.2"
+  ],
+  "exclusion": [
+    "oral cavity NOS"
+  ],
+  "children": null
+}

@@ -1,0 +1,23 @@
+{
+  "type": "subcategory",
+  "chapterCode": "II",
+  "chapter": "Neoplasms",
+  "blockCode": "C76-C80",
+  "block": "Malignant neoplasms of ill-defined, secondary and unspecified sites",
+  "categoryCode": "C80",
+  "category": "Malignant neoplasm, without specification of site",
+  "subcategory": "C80.9",
+  "title": "Malignant neoplasm, primary site unspecified",
+  "inclusion": [
+    "Cancer NOS",
+    "Carcinoma NOS",
+    "Malignancy NOS",
+    "Malignant cachexia NOS",
+    "Multiple cancer NOS"
+  ],
+  "exclusion": [
+    "multiple secondary cancer NOS",
+    "secondary malignant neoplasm, unspecified site"
+  ],
+  "children": null
+}

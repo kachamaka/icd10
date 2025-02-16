@@ -1,0 +1,20 @@
+{
+  "type": "subcategory",
+  "chapterCode": "II",
+  "chapter": "Neoplasms",
+  "blockCode": "D00-D09",
+  "block": "In situ neoplasms",
+  "categoryCode": "D03",
+  "category": "Melanoma in situ",
+  "subcategory": "D03.0",
+  "title": "Melanoma in situ of lip",
+  "inclusion": [
+    "Bowen disease",
+    "erythroplasia",
+    "morphology codes with behaviour code /2",
+    "Queyrat erythroplasia",
+    "morphology codes M872-M879 with behaviour code /2"
+  ],
+  "exclusion": null,
+  "children": null
+}

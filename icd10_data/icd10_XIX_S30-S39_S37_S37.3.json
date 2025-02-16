@@ -1,0 +1,40 @@
+{
+  "type": "subcategory",
+  "chapterCode": "XIX",
+  "chapter": "Injury, poisoning and certain other consequences of external causes",
+  "blockCode": "S30-S39",
+  "block": "Injuries to the abdomen, lower back, lumbar spine and pelvis",
+  "categoryCode": "S37",
+  "category": "Injury of urinary and pelvic organs",
+  "subcategory": "S37.3",
+  "title": "Injury of urethra",
+  "inclusion": [
+    "abdominal wall",
+    "anus",
+    "buttock",
+    "external genitalia",
+    "flank",
+    "groin"
+  ],
+  "exclusion": [
+    "birth trauma",
+    "obstetric trauma",
+    "malunion of fracture",
+    "nonunion of fracture [pseudarthrosis]",
+    "pathological fracture",
+    "pathological fracture with osteoporosis",
+    "stress fracture",
+    "burns and corrosions",
+    "effects of foreign body in: anus and rectum",
+    "effects of foreign body in: genitourinary tract",
+    "effects of foreign body in: stomach, small intestine and colon",
+    "fracture of spine NOS",
+    "frostbite",
+    "injuries of: back NOS",
+    "injuries of: spinal cord NOS",
+    "injuries of: trunk NOS",
+    "insect bite or sting, venomous",
+    "aorta NOS"
+  ],
+  "children": null
+}

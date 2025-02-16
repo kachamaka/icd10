@@ -1,0 +1,22 @@
+{
+  "type": "modifiedcategory",
+  "chapterCode": "V",
+  "chapter": "Mental and behavioural disorders",
+  "blockCode": "F10-F19",
+  "block": "Mental and behavioural disorders due to psychoactive substance use",
+  "categoryCode": "F10",
+  "category": "Mental and behavioural disorders due to use of alcohol",
+  "subcategory": "",
+  "title": "Mental and behavioural disorders due to use of alcohol : dependence syndrome",
+  "inclusion": [
+    "disorders of psychological development",
+    "Chronic alcoholism",
+    "Dipsomania",
+    "Drug addiction"
+  ],
+  "exclusion": [
+    "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+    "abuse of non-dependence-producing substances"
+  ],
+  "children": null
+}

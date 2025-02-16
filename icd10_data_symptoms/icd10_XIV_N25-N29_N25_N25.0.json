@@ -1,0 +1,37 @@
+{
+    "icd10code": "N25.0",
+    "type": "subcategory",
+    "title": "Renal osteodystrophy",
+    "chapter": "Diseases of the genitourinary system",
+    "chapterCode": "XIV",
+    "block": "Other disorders of kidney and ureter",
+    "blockCode": "N25-N29",
+    "category": "Disorders resulting from impaired renal tubular function",
+    "categoryCode": "N25",
+    "subcategory": "N25.0",
+    "inclusion": [
+        "Azotaemic osteodystrophy",
+        "Phosphate-losing tubular disorders",
+        "Renal: rickets",
+        "Renal: short stature"
+    ],
+    "exclusion": [
+        "certain conditions originating in the perinatal period",
+        "certain infectious and parasitic diseases",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "with urolithiasis",
+        "hydroureter"
+    ],
+    "symptoms": [
+        "polyuria",
+        "polydipsia",
+        "dehydration",
+        "weakness",
+        "fatigue"
+    ]
+}

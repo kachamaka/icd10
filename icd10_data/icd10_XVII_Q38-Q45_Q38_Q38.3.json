@@ -1,0 +1,27 @@
+{
+  "type": "subcategory",
+  "chapterCode": "XVII",
+  "chapter": "Congenital malformations, deformations and chromosomal abnormalities",
+  "blockCode": "Q38-Q45",
+  "block": "Other congenital malformations of the digestive system",
+  "categoryCode": "Q38",
+  "category": "Other congenital malformations of tongue, mouth and pharynx",
+  "subcategory": "Q38.3",
+  "title": "Other congenital malformations of tongue",
+  "inclusion": [
+    "Aglossia",
+    "Bifid tongue",
+    "Congenital: adhesion of tongue",
+    "Congenital: fissure of tongue",
+    "Congenital: malformation NOS of tongue",
+    "Hypoglossia",
+    "Hypoplasia of tongue",
+    "Microglossia"
+  ],
+  "exclusion": [
+    "inborn errors of metabolism",
+    "macrostomia",
+    "microstomia"
+  ],
+  "children": null
+}

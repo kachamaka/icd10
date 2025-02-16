@@ -1,0 +1,28 @@
+{
+    "icd10code": "Q79.1",
+    "type": "subcategory",
+    "title": "Other congenital malformations of diaphragm",
+    "chapter": "Congenital malformations, deformations and chromosomal abnormalities",
+    "chapterCode": "XVII",
+    "block": "Congenital malformations and deformations of the musculoskeletal system",
+    "blockCode": "Q65-Q79",
+    "category": "Congenital malformations of the musculoskeletal system, not elsewhere classified",
+    "categoryCode": "Q79",
+    "subcategory": "Q79.1",
+    "inclusion": [
+        "Absence of diaphragm",
+        "Congenital malformation of diaphragm NOS",
+        "Eventration of diaphragm"
+    ],
+    "exclusion": [
+        "inborn errors of metabolism",
+        "congenital (sternomastoid) torticollis"
+    ],
+    "symptoms": [
+        "abdominal wall weakness",
+        "protruding abdominal organs",
+        "thin abdominal skin",
+        "visible sac covering organs",
+        "difficulty with movement"
+    ]
+}

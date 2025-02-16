@@ -1,0 +1,34 @@
+{
+    "icd10code": "T33.4",
+    "type": "subcategory",
+    "title": "Superficial frostbite of arm",
+    "chapter": "Injury, poisoning and certain other consequences of external causes",
+    "chapterCode": "XIX",
+    "block": "Frostbite",
+    "blockCode": "T33-T35",
+    "category": "Superficial frostbite",
+    "categoryCode": "T33",
+    "subcategory": "T33.4",
+    "inclusion": [
+        "frostbite with partial-thickness skin loss"
+    ],
+    "exclusion": [
+        "birth trauma",
+        "obstetric trauma",
+        "malunion of fracture",
+        "nonunion of fracture [pseudarthrosis]",
+        "pathological fracture",
+        "pathological fracture with osteoporosis",
+        "stress fracture",
+        "adverse effects of drugs and medicaments",
+        "superficial frostbite involving multiple body regions",
+        "superficial frostbite of wrist and hand alone"
+    ],
+    "symptoms": [
+        "localized numbness",
+        "skin discoloration",
+        "swelling",
+        "blistering",
+        "loss of sensation"
+    ]
+}

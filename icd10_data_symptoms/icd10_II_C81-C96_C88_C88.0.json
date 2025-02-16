@@ -1,0 +1,27 @@
+{
+    "icd10code": "C88.0",
+    "type": "subcategory",
+    "title": "Waldenström macroglobulinaemia",
+    "chapter": "Neoplasms",
+    "chapterCode": "II",
+    "block": "Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",
+    "blockCode": "C81-C96",
+    "category": "Malignant immunoproliferative diseases",
+    "categoryCode": "C88",
+    "subcategory": "C88.0",
+    "inclusion": [
+        "Lymphoplasmacytic lymphoma with IgM-production",
+        "Macroglobulinaemia (primary)(idiopathic)"
+    ],
+    "exclusion": [
+        "secondary and unspecified neoplasm of lymph nodes",
+        "small cell B-cell lymphoma"
+    ],
+    "symptoms": [
+        "fever",
+        "night sweats",
+        "weight loss",
+        "fatigue",
+        "swollen lymph nodes"
+    ]
+}

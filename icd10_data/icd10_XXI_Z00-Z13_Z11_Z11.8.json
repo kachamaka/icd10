@@ -1,0 +1,21 @@
+{
+  "type": "subcategory",
+  "chapterCode": "XXI",
+  "chapter": "Factors influencing health status and contact with health services",
+  "blockCode": "Z00-Z13",
+  "block": "Persons encountering health services for examination and investigation",
+  "categoryCode": "Z11",
+  "category": "Special screening examination for infectious and parasitic diseases",
+  "subcategory": "Z11.8",
+  "title": "Special screening examination for other infectious and parasitic diseases",
+  "inclusion": [
+    "Chlamydial diseases",
+    "Rickettsial diseases",
+    "Spirochaetal diseases",
+    "Mycoses"
+  ],
+  "exclusion": [
+    "examinations related to pregnancy and reproduction"
+  ],
+  "children": null
+}

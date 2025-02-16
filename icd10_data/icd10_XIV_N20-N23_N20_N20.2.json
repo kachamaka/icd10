@@ -1,0 +1,26 @@
+{
+  "type": "subcategory",
+  "chapterCode": "XIV",
+  "chapter": "Diseases of the genitourinary system",
+  "blockCode": "N20-N23",
+  "block": "Urolithiasis",
+  "categoryCode": "N20",
+  "category": "Calculus of kidney and ureter",
+  "subcategory": "N20.2",
+  "title": "Calculus of kidney with calculus of ureter",
+  "inclusion": [
+    "calculous pyelonephritis"
+  ],
+  "exclusion": [
+    "certain conditions originating in the perinatal period",
+    "certain infectious and parasitic diseases",
+    "complications of pregnancy, childbirth and the puerperium",
+    "congenital malformations, deformations and chromosomal abnormalities",
+    "endocrine, nutritional and metabolic diseases",
+    "injury, poisoning and certain other consequences of external causes",
+    "neoplasms",
+    "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+    "with hydronephrosis"
+  ],
+  "children": null
+}

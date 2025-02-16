@@ -1,0 +1,33 @@
+{
+    "icd10code": "M94.3",
+    "type": "subcategory",
+    "title": "Chondrolysis",
+    "chapter": "Diseases of the musculoskeletal system and connective tissue",
+    "chapterCode": "XIII",
+    "block": "Chondropathies",
+    "blockCode": "M91-M94",
+    "category": "Other disorders of cartilage",
+    "categoryCode": "M94",
+    "subcategory": "M94.3",
+    "inclusion": null,
+    "exclusion": [
+        "certain conditions originating in the perinatal period",
+        "certain disorders of the temporomandibular joint",
+        "certain infectious and parasitic diseases",
+        "compartment syndrome",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "stress fracture of vertebra"
+    ],
+    "symptoms": [
+        "joint pain",
+        "stiffness",
+        "swelling",
+        "decreased range of motion",
+        "intermittent joint instability"
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "icd10code": "B92",
+    "type": "category",
+    "title": "Sequelae of leprosy",
+    "chapter": "Certain infectious and parasitic diseases",
+    "chapterCode": "I",
+    "block": "Sequelae of infectious and parasitic diseases",
+    "blockCode": "B90-B94",
+    "category": "Sequelae of leprosy",
+    "categoryCode": "B92",
+    "subcategory": "",
+    "inclusion": [
+        "diseases generally recognized as communicable or transmissible"
+    ],
+    "exclusion": [
+        "carrier or suspected carrier of infectious disease",
+        "certain localized infections - see body system-related chapters",
+        "infectious and parasitic diseases complicating pregnancy, childbirth and the puerperium [except obstetrical tetanus]",
+        "infectious and parasitic diseases specific to the perinatal period [except tetanus neonatorum, whooping cough, congenital syphilis, perinatal gonococcal infection and perinatal human immunodeficiency virus [HIV] disease]",
+        "influenza and other acute respiratory infections"
+    ],
+    "symptoms": [
+        "chronic cough",
+        "weight loss",
+        "fever",
+        "night sweats",
+        "fatigue"
+    ]
+}

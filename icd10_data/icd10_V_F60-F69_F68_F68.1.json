@@ -1,0 +1,23 @@
+{
+  "type": "subcategory",
+  "chapterCode": "V",
+  "chapter": "Mental and behavioural disorders",
+  "blockCode": "F60-F69",
+  "block": "Disorders of adult personality and behaviour",
+  "categoryCode": "F68",
+  "category": "Other disorders of adult personality and behaviour",
+  "subcategory": "F68.1",
+  "title": "Intentional production or feigning of symptoms or disabilities, either physical or psychological [factitious disorder]",
+  "inclusion": [
+    "disorders of psychological development",
+    "Hospital hopper syndrome",
+    "Münchhausen syndrome",
+    "Peregrinating patient"
+  ],
+  "exclusion": [
+    "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+    "factitial dermatitis",
+    "person feigning illness (with obvious motivation)"
+  ],
+  "children": null
+}

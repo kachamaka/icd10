@@ -1,0 +1,24 @@
+{
+    "icd10code": "D17.3",
+    "type": "subcategory",
+    "title": "Benign lipomatous neoplasm of skin and subcutaneous tissue of other and unspecified sites",
+    "chapter": "Neoplasms",
+    "chapterCode": "II",
+    "block": "Benign neoplasms",
+    "blockCode": "D10-D36",
+    "category": "Benign lipomatous neoplasm",
+    "categoryCode": "D17",
+    "subcategory": "D17.3",
+    "inclusion": [
+        "morphology codes with behaviour code /0",
+        "morphology codes M885-M888 with behaviour code /0"
+    ],
+    "exclusion": null,
+    "symptoms": [
+        "lump or mass in the skin",
+        "growth in the skin",
+        "skin discoloration",
+        "discomfort or pain in the affected area",
+        "changes in the texture"
+    ]
+}

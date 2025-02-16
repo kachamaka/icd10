@@ -1,0 +1,31 @@
+{
+    "icd10code": "T95.2",
+    "type": "subcategory",
+    "title": "Sequelae of burn, corrosion and frostbite of upper limb",
+    "chapter": "Injury, poisoning and certain other consequences of external causes",
+    "chapterCode": "XIX",
+    "block": "Sequelae of injuries, of poisoning and of other consequences of external causes",
+    "blockCode": "T90-T98",
+    "category": "Sequelae of burns, corrosions and frostbite",
+    "categoryCode": "T95",
+    "subcategory": "T95.2",
+    "inclusion": [
+        "Sequelae of injury classifiable to T22-T23, T33.4-T33.5, T34.4-T34.5 and T35.4"
+    ],
+    "exclusion": [
+        "birth trauma",
+        "obstetric trauma",
+        "malunion of fracture",
+        "nonunion of fracture [pseudarthrosis]",
+        "pathological fracture",
+        "pathological fracture with osteoporosis",
+        "stress fracture"
+    ],
+    "symptoms": [
+        "chronic pain",
+        "scar formation",
+        "limited range of motion",
+        "inflammation",
+        "tissue atrophy"
+    ]
+}

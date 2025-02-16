@@ -1,0 +1,25 @@
+{
+    "icd10code": "C47.0",
+    "type": "subcategory",
+    "title": "Malignant neoplasm: Peripheral nerves of head, face and neck",
+    "chapter": "Neoplasms",
+    "chapterCode": "II",
+    "block": "Malignant neoplasms of mesothelial and soft tissue",
+    "blockCode": "C45-C49",
+    "category": "Malignant neoplasm of peripheral nerves and autonomic nervous system",
+    "categoryCode": "C47",
+    "subcategory": "C47.0",
+    "inclusion": [
+        "sympathetic and parasympathetic nerves and ganglia"
+    ],
+    "exclusion": [
+        "peripheral nerves of orbit"
+    ],
+    "symptoms": [
+        "pain",
+        "numbness",
+        "muscle weakness",
+        "tingling sensation",
+        "atrophy of muscle"
+    ]
+}

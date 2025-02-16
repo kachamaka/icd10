@@ -1,0 +1,20 @@
+{
+  "type": "subcategory",
+  "chapterCode": "II",
+  "chapter": "Neoplasms",
+  "blockCode": "C69-C72",
+  "block": "Malignant neoplasms of eye, brain and other parts of central nervous system",
+  "categoryCode": "C71",
+  "category": "Malignant neoplasm of brain",
+  "subcategory": "C71.7",
+  "title": "Malignant neoplasm: Brain stem",
+  "inclusion": [
+    "Fourth ventricle",
+    "Infratentorial NOS"
+  ],
+  "exclusion": [
+    "cranial nerves",
+    "retrobulbar tissue"
+  ],
+  "children": null
+}

@@ -1,0 +1,28 @@
+{
+    "icd10code": "Z87.5",
+    "type": "subcategory",
+    "title": "Personal history of complications of pregnancy, childbirth and the puerperium",
+    "chapter": "Factors influencing health status and contact with health services",
+    "chapterCode": "XXI",
+    "block": "Persons with potential health hazards related to family and personal history and certain conditions influencing health status",
+    "blockCode": "Z80-Z99",
+    "category": "Personal history of other diseases and conditions",
+    "categoryCode": "Z87",
+    "subcategory": "Z87.5",
+    "inclusion": [
+        "Conditions classifiable to O00-O99",
+        "Personal history of trophoblastic disease"
+    ],
+    "exclusion": [
+        "follow-up examination",
+        "follow-up medical care and convalescence",
+        "when family or personal history is the reason for special screening or other examination or investigation",
+        "when the possibility that the fetus might be affected is the reason for observation or action during pregnancy",
+        "follow-up medical care and convalescence",
+        "habitual aborter",
+        "supervision during current pregnancy of a woman with poor obstetric history"
+    ],
+    "symptoms": [
+        "asymptomatic"
+    ]
+}

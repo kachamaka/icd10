@@ -1,0 +1,21 @@
+{
+  "type": "category",
+  "chapterCode": "XVIII",
+  "chapter": "Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+  "blockCode": "R30-R39",
+  "block": "Symptoms and signs involving the urinary system",
+  "categoryCode": "R35",
+  "category": "Polyuria",
+  "subcategory": "",
+  "title": "Polyuria",
+  "inclusion": [
+    "Frequency of micturition",
+    "Nocturia"
+  ],
+  "exclusion": [
+    "abnormal findings on antenatal screening of mother",
+    "certain conditions originating in the perinatal period",
+    "psychogenic polyuria"
+  ],
+  "children": null
+}

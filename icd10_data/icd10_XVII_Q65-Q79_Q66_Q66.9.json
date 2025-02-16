@@ -1,0 +1,19 @@
+{
+  "type": "subcategory",
+  "chapterCode": "XVII",
+  "chapter": "Congenital malformations, deformations and chromosomal abnormalities",
+  "blockCode": "Q65-Q79",
+  "block": "Congenital malformations and deformations of the musculoskeletal system",
+  "categoryCode": "Q66",
+  "category": "Congenital deformities of feet",
+  "subcategory": "Q66.9",
+  "title": "Congenital deformity of feet, unspecified",
+  "inclusion": null,
+  "exclusion": [
+    "inborn errors of metabolism",
+    "reduction defects of feet",
+    "valgus deformities (acquired)",
+    "varus deformities (acquired)"
+  ],
+  "children": null
+}

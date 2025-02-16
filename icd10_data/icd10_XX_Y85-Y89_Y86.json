@@ -1,0 +1,14 @@
+{
+  "type": "category",
+  "chapterCode": "XX",
+  "chapter": "External causes of morbidity and mortality",
+  "blockCode": "Y85-Y89",
+  "block": "Sequelae of external causes of morbidity and mortality",
+  "categoryCode": "Y86",
+  "category": "Sequelae of other accidents",
+  "subcategory": "",
+  "title": "Sequelae of other accidents",
+  "inclusion": null,
+  "exclusion": null,
+  "children": null
+}

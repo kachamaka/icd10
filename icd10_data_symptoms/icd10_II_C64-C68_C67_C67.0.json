@@ -1,0 +1,21 @@
+{
+    "icd10code": "C67.0",
+    "type": "subcategory",
+    "title": "Malignant neoplasm: Trigone of bladder",
+    "chapter": "Neoplasms",
+    "chapterCode": "II",
+    "block": "Malignant neoplasms of urinary tract",
+    "blockCode": "C64-C68",
+    "category": "Malignant neoplasm of bladder",
+    "categoryCode": "C67",
+    "subcategory": "C67.0",
+    "inclusion": null,
+    "exclusion": null,
+    "symptoms": [
+        "blood in urine",
+        "frequent urination",
+        "pain during urination",
+        "pelvic pain",
+        "unexplained weight loss"
+    ]
+}

@@ -1,0 +1,14 @@
+{
+  "type": "subcategory",
+  "chapterCode": "XXII",
+  "chapter": "Codes for special purposes",
+  "blockCode": "U00-U49",
+  "block": "Provisional assignment of new diseases of uncertain etiology or emergency use",
+  "categoryCode": "U44",
+  "category": "Emergency use of U44",
+  "subcategory": "U44.9",
+  "title": "Emergency use of U44.9",
+  "inclusion": null,
+  "exclusion": null,
+  "children": null
+}

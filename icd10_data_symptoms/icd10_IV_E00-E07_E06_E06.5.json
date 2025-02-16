@@ -1,0 +1,31 @@
+{
+    "icd10code": "E06.5",
+    "type": "subcategory",
+    "title": "Other chronic thyroiditis",
+    "chapter": "Endocrine, nutritional and metabolic diseases",
+    "chapterCode": "IV",
+    "block": "Disorders of thyroid gland",
+    "blockCode": "E00-E07",
+    "category": "Thyroiditis",
+    "categoryCode": "E06",
+    "subcategory": "E06.5",
+    "inclusion": [
+        "Thyroiditis: chronic: NOS",
+        "Thyroiditis: chronic: fibrous",
+        "Thyroiditis: ligneous",
+        "Thyroiditis: Riedel"
+    ],
+    "exclusion": [
+        "complications of pregnancy, childbirth and the puerperium",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "transitory endocrine and metabolic disorders specific to fetus and newborn",
+        "adiposogenital dystrophy"
+    ],
+    "symptoms": [
+        "fatigue",
+        "weight gain",
+        "constipation",
+        "dry skin",
+        "depression"
+    ]
+}

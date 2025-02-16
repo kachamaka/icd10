@@ -1,0 +1,31 @@
+{
+    "icd10code": "P05.0",
+    "type": "subcategory",
+    "title": "Light for gestational age",
+    "chapter": "Certain conditions originating in the perinatal period",
+    "chapterCode": "XVI",
+    "block": "Disorders related to length of gestation and fetal growth",
+    "blockCode": "P05-P08",
+    "category": "Slow fetal growth and fetal malnutrition",
+    "categoryCode": "P05",
+    "subcategory": "P05.0",
+    "inclusion": [
+        "conditions that have their origin in the perinatal period even though death or morbidity occurs later",
+        "Light-for-dates"
+    ],
+    "exclusion": [
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "tetanus neonatorum",
+        "whooping cough"
+    ],
+    "symptoms": [
+        "low birth weight",
+        "thin body appearance",
+        "reduced subcutaneous fat",
+        "prominent ribs",
+        "weak cry"
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "icd10code": "Q23.1",
+    "type": "subcategory",
+    "title": "Congenital insufficiency of aortic valve",
+    "chapter": "Congenital malformations, deformations and chromosomal abnormalities",
+    "chapterCode": "XVII",
+    "block": "Congenital malformations of the circulatory system",
+    "blockCode": "Q20-Q28",
+    "category": "Congenital malformations of aortic and mitral valves",
+    "categoryCode": "Q23",
+    "subcategory": "Q23.1",
+    "inclusion": [
+        "Bicuspid aortic valve",
+        "Congenital aortic insufficiency"
+    ],
+    "exclusion": [
+        "inborn errors of metabolism"
+    ],
+    "symptoms": [
+        "congenital heart murmur",
+        "cyanosis",
+        "fatigue",
+        "shortness of breath",
+        "failure to thrive"
+    ]
+}

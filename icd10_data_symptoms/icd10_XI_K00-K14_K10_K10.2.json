@@ -1,0 +1,37 @@
+{
+    "icd10code": "K10.2",
+    "type": "subcategory",
+    "title": "Inflammatory conditions of jaws",
+    "chapter": "Diseases of the digestive system",
+    "chapterCode": "XI",
+    "block": "Diseases of oral cavity, salivary glands and jaws",
+    "blockCode": "K00-K14",
+    "category": "Other diseases of jaws",
+    "categoryCode": "K10",
+    "subcategory": "K10.2",
+    "inclusion": [
+        "Osteitis of jaw (acute)(chronic)(suppurative)",
+        "Osteomyelitis (neonatal) of jaw (acute)(chronic)(suppurative)",
+        "Osteonecrosis (drug-induced)(radiation-induced) of jaw (acute)(chronic)(suppurative)",
+        "Osteo(radio)necrosis of jaw (acute)(chronic)(suppurative)",
+        "Periostitis of jaw (acute)(chronic)(suppurative)",
+        "Sequestrum of jaw bone"
+    ],
+    "exclusion": [
+        "certain conditions originating in the perinatal period",
+        "certain infectious and parasitic diseases",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified"
+    ],
+    "symptoms": [
+        "jaw pain",
+        "swelling in the jaw",
+        "difficulty opening mouth",
+        "redness in the jaw area",
+        "tenderness in the jaw"
+    ]
+}

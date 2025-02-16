@@ -1,0 +1,31 @@
+{
+    "icd10code": "T95.0",
+    "type": "subcategory",
+    "title": "Sequelae of burn, corrosion and frostbite of head and neck",
+    "chapter": "Injury, poisoning and certain other consequences of external causes",
+    "chapterCode": "XIX",
+    "block": "Sequelae of injuries, of poisoning and of other consequences of external causes",
+    "blockCode": "T90-T98",
+    "category": "Sequelae of burns, corrosions and frostbite",
+    "categoryCode": "T95",
+    "subcategory": "T95.0",
+    "inclusion": [
+        "Sequelae of injury classifiable to T20.-, T33.0-T33.1, T34.0-T34.1 and T35.2"
+    ],
+    "exclusion": [
+        "birth trauma",
+        "obstetric trauma",
+        "malunion of fracture",
+        "nonunion of fracture [pseudarthrosis]",
+        "pathological fracture",
+        "pathological fracture with osteoporosis",
+        "stress fracture"
+    ],
+    "symptoms": [
+        "pain",
+        "swelling",
+        "scarring",
+        "reduced function",
+        "skin discoloration"
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "icd10code": "T05.2",
+    "type": "subcategory",
+    "title": "Traumatic amputation of both arms [any level]",
+    "chapter": "Injury, poisoning and certain other consequences of external causes",
+    "chapterCode": "XIX",
+    "block": "Injuries involving multiple body regions",
+    "blockCode": "T00-T07",
+    "category": "Traumatic amputations involving multiple body regions",
+    "categoryCode": "T05",
+    "subcategory": "T05.2",
+    "inclusion": [
+        "bilateral involvement of limbs of the same body region",
+        "Injuries by type involving two or more body regions classifiable within S00-S99",
+        "avulsion involving multiple body regions"
+    ],
+    "exclusion": [
+        "birth trauma",
+        "obstetric trauma",
+        "malunion of fracture",
+        "nonunion of fracture [pseudarthrosis]",
+        "pathological fracture",
+        "pathological fracture with osteoporosis",
+        "stress fracture",
+        "burns and corrosions",
+        "frostbite",
+        "insect bite or sting, venomous",
+        "multiple injuries involving only one body region - see S-section",
+        "sunburn",
+        "decapitation",
+        "open wounds involving multiple body regions",
+        "traumatic amputation of: arm NOS",
+        "traumatic amputation of: leg NOS",
+        "traumatic amputation of: trunk NOS"
+    ],
+    "symptoms": [
+        "crushing pain",
+        "swelling",
+        "bruising",
+        "difficulty moving affected area",
+        "numbness or tingling"
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "icd10code": "Q39.8",
+    "type": "subcategory",
+    "title": "Other congenital malformations of oesophagus",
+    "chapter": "Congenital malformations, deformations and chromosomal abnormalities",
+    "chapterCode": "XVII",
+    "block": "Other congenital malformations of the digestive system",
+    "blockCode": "Q38-Q45",
+    "category": "Congenital malformations of oesophagus",
+    "categoryCode": "Q39",
+    "subcategory": "Q39.8",
+    "inclusion": [
+        "Absent (of) oesophagus",
+        "Congenital displacement (of) oesophagus",
+        "Duplication (of) oesophagus"
+    ],
+    "exclusion": [
+        "inborn errors of metabolism"
+    ],
+    "symptoms": [
+        "dysphagia",
+        "regurgitation",
+        "chest pain",
+        "cough",
+        "recurrent respiratory infections"
+    ]
+}

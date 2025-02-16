@@ -1,0 +1,27 @@
+{
+    "icd10code": "D31.0",
+    "type": "subcategory",
+    "title": "Benign neoplasm: Conjunctiva",
+    "chapter": "Neoplasms",
+    "chapterCode": "II",
+    "block": "Benign neoplasms",
+    "blockCode": "D10-D36",
+    "category": "Benign neoplasm of eye and adnexa",
+    "categoryCode": "D31",
+    "subcategory": "D31.0",
+    "inclusion": [
+        "morphology codes with behaviour code /0"
+    ],
+    "exclusion": [
+        "connective tissue of eyelid",
+        "optic nerve",
+        "skin of eyelid"
+    ],
+    "symptoms": [
+        "blurred vision",
+        "loss of peripheral vision",
+        "visual field loss",
+        "seeing flashes of light",
+        "eye discomfort"
+    ]
+}

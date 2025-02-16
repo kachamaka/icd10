@@ -1,0 +1,38 @@
+{
+    "icd10code": "M51.1",
+    "type": "subcategory",
+    "title": "Lumbar and other intervertebral disc disorders with radiculopathy",
+    "chapter": "Diseases of the musculoskeletal system and connective tissue",
+    "chapterCode": "XIII",
+    "block": "Other dorsopathies",
+    "blockCode": "M50-M54",
+    "category": "Other intervertebral disc disorders",
+    "categoryCode": "M51",
+    "subcategory": "M51.1",
+    "inclusion": [
+        "thoracic, thoracolumbar and lumbosacral disc disorders",
+        "Sciatica due to intervertebral disc disorder"
+    ],
+    "exclusion": [
+        "certain conditions originating in the perinatal period",
+        "certain disorders of the temporomandibular joint",
+        "certain infectious and parasitic diseases",
+        "compartment syndrome",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "collapsed vertebra in osteoporosis",
+        "postural kyphosis",
+        "lumbar radiculitis NOS"
+    ],
+    "symptoms": [
+        "back pain",
+        "leg weakness",
+        "numbness or tingling in lower extremities",
+        "sciatica",
+        "reduced reflexes"
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "icd10code": "C95.1",
+    "type": "subcategory",
+    "title": "Chronic leukaemia of unspecified cell type",
+    "chapter": "Neoplasms",
+    "chapterCode": "II",
+    "block": "Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",
+    "blockCode": "C81-C96",
+    "category": "Leukaemia of unspecified cell type",
+    "categoryCode": "C95",
+    "subcategory": "C95.1",
+    "inclusion": null,
+    "exclusion": [
+        "secondary and unspecified neoplasm of lymph nodes"
+    ],
+    "symptoms": [
+        "unexplained weight loss",
+        "fever",
+        "fatigue",
+        "easy bleeding or bruising",
+        "bone pain or tenderness"
+    ]
+}

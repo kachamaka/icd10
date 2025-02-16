@@ -1,0 +1,23 @@
+{
+    "icd10code": "Z20.6",
+    "type": "subcategory",
+    "title": "Contact with and exposure to human immunodeficiency virus [HIV]",
+    "chapter": "Factors influencing health status and contact with health services",
+    "chapterCode": "XXI",
+    "block": "Persons with potential health hazards related to communicable diseases",
+    "blockCode": "Z20-Z29",
+    "category": "Contact with and exposure to communicable diseases",
+    "categoryCode": "Z20",
+    "subcategory": "Z20.6",
+    "inclusion": null,
+    "exclusion": [
+        "asymptomatic human immunodeficiency virus [HIV] infection status"
+    ],
+    "symptoms": [
+        "exposure to tb",
+        "cough",
+        "fever",
+        "weight loss",
+        "night sweats"
+    ]
+}

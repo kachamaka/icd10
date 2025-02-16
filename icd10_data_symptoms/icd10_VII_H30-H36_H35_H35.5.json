@@ -1,0 +1,36 @@
+{
+    "icd10code": "H35.5",
+    "type": "subcategory",
+    "title": "Hereditary retinal dystrophy",
+    "chapter": "Diseases of the eye and adnexa",
+    "chapterCode": "VII",
+    "block": "Disorders of choroid and retina",
+    "blockCode": "H30-H36",
+    "category": "Other retinal disorders",
+    "categoryCode": "H35",
+    "subcategory": "H35.5",
+    "inclusion": [
+        "Dystrophy: retinal (albipunctate)(pigmentary)(vitelliform)",
+        "Dystrophy: tapetoretinal",
+        "Dystrophy: vitreoretinal",
+        "Retinitis pigmentosa",
+        "Stargardt disease"
+    ],
+    "exclusion": [
+        "certain conditions originating in the perinatal period",
+        "certain infectious and parasitic diseases",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified"
+    ],
+    "symptoms": [
+        "blurred vision",
+        "floaters",
+        "flashes of light",
+        "vision loss",
+        "color vision changes"
+    ]
+}

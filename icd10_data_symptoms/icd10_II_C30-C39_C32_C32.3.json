@@ -1,0 +1,25 @@
+{
+    "icd10code": "C32.3",
+    "type": "subcategory",
+    "title": "Malignant neoplasm: Laryngeal cartilage",
+    "chapter": "Neoplasms",
+    "chapterCode": "II",
+    "block": "Malignant neoplasms of respiratory and intrathoracic organs",
+    "blockCode": "C30-C39",
+    "category": "Malignant neoplasm of larynx",
+    "categoryCode": "C32",
+    "subcategory": "C32.3",
+    "inclusion": [
+        "middle ear"
+    ],
+    "exclusion": [
+        "mesothelioma"
+    ],
+    "symptoms": [
+        "difficulty swallowing",
+        "persistent hoarseness",
+        "unexplained weight loss",
+        "coughing up blood",
+        "persistent earache"
+    ]
+}

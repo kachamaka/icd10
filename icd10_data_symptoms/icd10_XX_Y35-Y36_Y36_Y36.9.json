@@ -1,0 +1,19 @@
+{
+    "icd10code": "Y36.9",
+    "type": "subcategory",
+    "title": "War operations, unspecified",
+    "chapter": "External causes of morbidity and mortality",
+    "chapterCode": "XX",
+    "block": "Legal intervention and operations of war",
+    "blockCode": "Y35-Y36",
+    "category": "Operations of war",
+    "categoryCode": "Y36",
+    "subcategory": "Y36.9",
+    "inclusion": [
+        "injuries to military personnel and civilians caused by war and civil insurrection"
+    ],
+    "exclusion": null,
+    "symptoms": [
+        "asymptomatic"
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "icd10code": "T90.3",
+    "type": "subcategory",
+    "title": "Sequelae of injury of cranial nerves",
+    "chapter": "Injury, poisoning and certain other consequences of external causes",
+    "chapterCode": "XIX",
+    "block": "Sequelae of injuries, of poisoning and of other consequences of external causes",
+    "blockCode": "T90-T98",
+    "category": "Sequelae of injuries of head",
+    "categoryCode": "T90",
+    "subcategory": "T90.3",
+    "inclusion": [
+        "Sequelae of injury classifiable to S04.-"
+    ],
+    "exclusion": [
+        "birth trauma",
+        "obstetric trauma",
+        "malunion of fracture",
+        "nonunion of fracture [pseudarthrosis]",
+        "pathological fracture",
+        "pathological fracture with osteoporosis",
+        "stress fracture"
+    ],
+    "symptoms": [
+        "headaches",
+        "memory loss",
+        "dizziness",
+        "difficulty concentrating",
+        "fatigue"
+    ]
+}

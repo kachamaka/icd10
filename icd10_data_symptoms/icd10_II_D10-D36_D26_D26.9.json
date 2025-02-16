@@ -1,0 +1,23 @@
+{
+    "icd10code": "D26.9",
+    "type": "subcategory",
+    "title": "Other benign neoplasm: Uterus, unspecified",
+    "chapter": "Neoplasms",
+    "chapterCode": "II",
+    "block": "Benign neoplasms",
+    "blockCode": "D10-D36",
+    "category": "Other benign neoplasms of uterus",
+    "categoryCode": "D26",
+    "subcategory": "D26.9",
+    "inclusion": [
+        "morphology codes with behaviour code /0"
+    ],
+    "exclusion": null,
+    "symptoms": [
+        "abdominal pain",
+        "unusual vaginal bleeding",
+        "pelvic pain",
+        "bloating",
+        "fatigue"
+    ]
+}

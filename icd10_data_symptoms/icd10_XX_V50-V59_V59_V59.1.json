@@ -1,0 +1,24 @@
+{
+    "icd10code": "V59.1",
+    "type": "subcategory",
+    "title": "Passenger injured in collision with other and unspecified motor vehicles in nontraffic accident",
+    "chapter": "External causes of morbidity and mortality",
+    "chapterCode": "XX",
+    "block": "Occupant of pick-up truck or van injured in transport accident",
+    "blockCode": "V50-V59",
+    "category": "Occupant of pick-up truck or van injured in other and unspecified transport accidents",
+    "categoryCode": "V59",
+    "subcategory": "V59.1",
+    "inclusion": null,
+    "exclusion": [
+        "accidents to persons engaged in the maintenance or repair of transport equipment or vehicle (not in motion) unless injured by another vehicle in motion",
+        "accidents involving vehicles, but unrelated to the hazards associated with the means of transportation, e.g., injuries received in a fight on board ship; transport vehicle involved in a cataclysm; finger crushed when shutting car door",
+        "assault by crashing of motor vehicle",
+        "event of undetermined intent",
+        "intentional self-harm",
+        "collision involving: pedal cyclist"
+    ],
+    "symptoms": [
+        "asymptomatic"
+    ]
+}

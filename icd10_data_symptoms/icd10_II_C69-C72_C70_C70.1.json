@@ -1,0 +1,21 @@
+{
+    "icd10code": "C70.1",
+    "type": "subcategory",
+    "title": "Malignant neoplasm: Spinal meninges",
+    "chapter": "Neoplasms",
+    "chapterCode": "II",
+    "block": "Malignant neoplasms of eye, brain and other parts of central nervous system",
+    "blockCode": "C69-C72",
+    "category": "Malignant neoplasm of meninges",
+    "categoryCode": "C70",
+    "subcategory": "C70.1",
+    "inclusion": null,
+    "exclusion": null,
+    "symptoms": [
+        "headaches",
+        "seizures",
+        "blurred vision",
+        "loss of balance or coordination",
+        "changes in behavior"
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "icd10code": "C88.4",
+    "type": "subcategory",
+    "title": "Extranodal marginal zone B-cell lymphoma of mucosa-associated lymphoid tissue [MALT-lyphoma]",
+    "chapter": "Neoplasms",
+    "chapterCode": "II",
+    "block": "Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",
+    "blockCode": "C81-C96",
+    "category": "Malignant immunoproliferative diseases",
+    "categoryCode": "C88",
+    "subcategory": "C88.4",
+    "inclusion": [
+        "Lymphoma of skin-associated lymphoid tissue (SALT-lymphoma)",
+        "Lymphoma of bronchial-associated lymphoid tissue (BALT-lymphoma)"
+    ],
+    "exclusion": [
+        "secondary and unspecified neoplasm of lymph nodes"
+    ],
+    "symptoms": [
+        "enlarged lymph nodes",
+        "fever",
+        "unexplained weight loss",
+        "fatigue",
+        "night sweats"
+    ]
+}

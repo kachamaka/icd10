@@ -1,0 +1,19 @@
+{
+  "type": "subcategory",
+  "chapterCode": "XX",
+  "chapter": "External causes of morbidity and mortality",
+  "blockCode": "W20-W49",
+  "block": "Exposure to inanimate mechanical forces",
+  "categoryCode": "W26",
+  "category": "Contact with other sharp object(s)",
+  "subcategory": "W26.0",
+  "title": "Contact with knife, sword or dagger",
+  "inclusion": null,
+  "exclusion": [
+    "assault",
+    "contact or collision with animals or persons",
+    "intentional self-harm",
+    "contact with: hand tools (nonpowered)(powered)"
+  ],
+  "children": null
+}

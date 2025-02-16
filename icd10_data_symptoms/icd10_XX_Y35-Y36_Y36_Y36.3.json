@@ -1,0 +1,23 @@
+{
+    "icd10code": "Y36.3",
+    "type": "subcategory",
+    "title": "War operations involving fires, conflagrations and hot substances",
+    "chapter": "External causes of morbidity and mortality",
+    "chapterCode": "XX",
+    "block": "Legal intervention and operations of war",
+    "blockCode": "Y35-Y36",
+    "category": "Operations of war",
+    "categoryCode": "Y36",
+    "subcategory": "Y36.3",
+    "inclusion": [
+        "injuries to military personnel and civilians caused by war and civil insurrection",
+        "Asphyxia originating from fire caused directly by a fire-producing device or indirectly by any conventional weapon",
+        "Burns originating from fire caused directly by a fire-producing device or indirectly by any conventional weapon",
+        "Other injury originating from fire caused directly by a fire-producing device or indirectly by any conventional weapon",
+        "Petrol bomb"
+    ],
+    "exclusion": null,
+    "symptoms": [
+        "asymptomatic"
+    ]
+}

@@ -1,0 +1,16 @@
+{
+  "type": "subcategory",
+  "chapterCode": "II",
+  "chapter": "Neoplasms",
+  "blockCode": "C15-C26",
+  "block": "Malignant neoplasms of digestive organs",
+  "categoryCode": "C25",
+  "category": "Malignant neoplasm of pancreas",
+  "subcategory": "C25.4",
+  "title": "Malignant neoplasm: Endocrine pancreas",
+  "inclusion": [
+    "Islets of Langerhans"
+  ],
+  "exclusion": null,
+  "children": null
+}

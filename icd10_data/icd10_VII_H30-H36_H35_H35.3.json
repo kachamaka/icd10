@@ -1,0 +1,32 @@
+{
+  "type": "subcategory",
+  "chapterCode": "VII",
+  "chapter": "Diseases of the eye and adnexa",
+  "blockCode": "H30-H36",
+  "block": "Disorders of choroid and retina",
+  "categoryCode": "H35",
+  "category": "Other retinal disorders",
+  "subcategory": "H35.3",
+  "title": "Degeneration of macula and posterior pole",
+  "inclusion": [
+    "Angioid streaks of macula",
+    "Cyst of macula",
+    "Drusen (degenerative) of macula",
+    "Hole of macula",
+    "Puckering of macula",
+    "Kuhnt-Junius degeneration",
+    "Senile macular degeneration (atrophic)(exudative)",
+    "Toxic maculopathy"
+  ],
+  "exclusion": [
+    "certain conditions originating in the perinatal period",
+    "certain infectious and parasitic diseases",
+    "complications of pregnancy, childbirth and the puerperium",
+    "congenital malformations, deformations and chromosomal abnormalities",
+    "endocrine, nutritional and metabolic diseases",
+    "injury, poisoning and certain other consequences of external causes",
+    "neoplasms",
+    "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified"
+  ],
+  "children": null
+}

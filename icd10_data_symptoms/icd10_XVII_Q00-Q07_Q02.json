@@ -1,0 +1,27 @@
+{
+    "icd10code": "Q02",
+    "type": "category",
+    "title": "Microcephaly",
+    "chapter": "Congenital malformations, deformations and chromosomal abnormalities",
+    "chapterCode": "XVII",
+    "block": "Congenital malformations of the nervous system",
+    "blockCode": "Q00-Q07",
+    "category": "Microcephaly",
+    "categoryCode": "Q02",
+    "subcategory": "",
+    "inclusion": [
+        "Hydromicrocephaly",
+        "Micrencephalon"
+    ],
+    "exclusion": [
+        "inborn errors of metabolism",
+        "Meckel-Gruber syndrome"
+    ],
+    "symptoms": [
+        "developmental delays",
+        "intellectual disability",
+        "seizures",
+        "feeding difficulties",
+        "coordination issues"
+    ]
+}

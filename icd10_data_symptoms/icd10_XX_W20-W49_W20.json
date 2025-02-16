@@ -1,0 +1,38 @@
+{
+    "icd10code": "W20",
+    "type": "category",
+    "title": "Struck by thrown, projected or falling object(s)",
+    "chapter": "External causes of morbidity and mortality",
+    "chapterCode": "XX",
+    "block": "Exposure to inanimate mechanical forces",
+    "blockCode": "W20-W49",
+    "category": "Struck by thrown, projected or falling object(s)",
+    "categoryCode": "W20",
+    "subcategory": "",
+    "inclusion": [
+        "cave-in without asphyxiation or suffocation",
+        "collapse of building, except on fire",
+        "falling: rock",
+        "falling: stone",
+        "falling: tree"
+    ],
+    "exclusion": [
+        "assault",
+        "contact or collision with animals or persons",
+        "intentional self-harm",
+        "collapse of burning building",
+        "falling object in: cataclysm",
+        "falling object in: machinery accident",
+        "falling object in: transport accident",
+        "object set in motion by: explosion",
+        "object set in motion by: firearm",
+        "sports equipment"
+    ],
+    "symptoms": [
+        "bruising",
+        "swelling",
+        "pain",
+        "redness",
+        "laceration"
+    ]
+}

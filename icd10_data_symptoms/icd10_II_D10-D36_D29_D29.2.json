@@ -1,0 +1,24 @@
+{
+    "icd10code": "D29.2",
+    "type": "subcategory",
+    "title": "Benign neoplasm: Testis",
+    "chapter": "Neoplasms",
+    "chapterCode": "II",
+    "block": "Benign neoplasms",
+    "blockCode": "D10-D36",
+    "category": "Benign neoplasm of male genital organs",
+    "categoryCode": "D29",
+    "subcategory": "D29.2",
+    "inclusion": [
+        "morphology codes with behaviour code /0",
+        "skin of male genital organs"
+    ],
+    "exclusion": null,
+    "symptoms": [
+        "abnormal vaginal bleeding",
+        "pelvic pain",
+        "discomfort during sexual intercourse",
+        "unusual vaginal discharge",
+        "lower back pain"
+    ]
+}

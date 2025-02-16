@@ -1,0 +1,32 @@
+{
+    "icd10code": "A30.0",
+    "type": "subcategory",
+    "title": "Indeterminate leprosy",
+    "chapter": "Certain infectious and parasitic diseases",
+    "chapterCode": "I",
+    "block": "Other bacterial diseases",
+    "blockCode": "A30-A49",
+    "category": "Leprosy [Hansen disease]",
+    "categoryCode": "A30",
+    "subcategory": "A30.0",
+    "inclusion": [
+        "diseases generally recognized as communicable or transmissible",
+        "infection due to Mycobacterium leprae",
+        "I leprosy"
+    ],
+    "exclusion": [
+        "carrier or suspected carrier of infectious disease",
+        "certain localized infections - see body system-related chapters",
+        "infectious and parasitic diseases complicating pregnancy, childbirth and the puerperium [except obstetrical tetanus]",
+        "infectious and parasitic diseases specific to the perinatal period [except tetanus neonatorum, whooping cough, congenital syphilis, perinatal gonococcal infection and perinatal human immunodeficiency virus [HIV] disease]",
+        "influenza and other acute respiratory infections",
+        "enteritis due to Yersinia enterocolitica"
+    ],
+    "symptoms": [
+        "hypopigmented skin patches",
+        "numbness",
+        "muscle weakness",
+        "eye problems",
+        "nasal congestion"
+    ]
+}

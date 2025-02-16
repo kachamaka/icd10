@@ -1,0 +1,32 @@
+{
+    "icd10code": "P70.1",
+    "type": "subcategory",
+    "title": "Syndrome of infant of a diabetic mother",
+    "chapter": "Certain conditions originating in the perinatal period",
+    "chapterCode": "XVI",
+    "block": "Transitory endocrine and metabolic disorders specific to fetus and newborn",
+    "blockCode": "P70-P74",
+    "category": "Transitory disorders of carbohydrate metabolism specific to fetus and newborn",
+    "categoryCode": "P70",
+    "subcategory": "P70.1",
+    "inclusion": [
+        "conditions that have their origin in the perinatal period even though death or morbidity occurs later",
+        "transitory endocrine and metabolic disturbances caused by the infant's response to maternal endocrine and metabolic factors, or its adjustment to extrauterine existence",
+        "Fetus or newborn (with hypoglycaemia) affected by maternal diabetes mellitus (pre-existing)"
+    ],
+    "exclusion": [
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "tetanus neonatorum",
+        "whooping cough"
+    ],
+    "symptoms": [
+        "jitteriness",
+        "irritability",
+        "poor feeding",
+        "lethargy",
+        "tremors"
+    ]
+}

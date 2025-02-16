@@ -1,0 +1,23 @@
+{
+  "type": "subcategory",
+  "chapterCode": "XVII",
+  "chapter": "Congenital malformations, deformations and chromosomal abnormalities",
+  "blockCode": "Q80-Q89",
+  "block": "Other congenital malformations",
+  "categoryCode": "Q82",
+  "category": "Other congenital malformations of skin",
+  "subcategory": "Q82.2",
+  "title": "Mastocytosis",
+  "inclusion": [
+    "Urticaria pigmentosa"
+  ],
+  "exclusion": [
+    "inborn errors of metabolism",
+    "acrodermatitis enteropathica",
+    "congenital erythropoietic porphyria",
+    "pilonidal cyst or sinus",
+    "Sturge-Weber(-Dimitri) syndrome",
+    "malignant mastocytosis"
+  ],
+  "children": null
+}

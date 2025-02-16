@@ -1,0 +1,28 @@
+{
+    "icd10code": "C00.3",
+    "type": "subcategory",
+    "title": "Malignant neoplasm: Upper lip, inner aspect",
+    "chapter": "Neoplasms",
+    "chapterCode": "II",
+    "block": "Malignant neoplasms of lip, oral cavity and pharynx",
+    "blockCode": "C00-C14",
+    "category": "Malignant neoplasm of lip",
+    "categoryCode": "C00",
+    "subcategory": "C00.3",
+    "inclusion": [
+        "Upper lip: buccal aspect",
+        "Upper lip: frenulum",
+        "Upper lip: mucosa",
+        "Upper lip: oral aspect"
+    ],
+    "exclusion": [
+        "skin of lip"
+    ],
+    "symptoms": [
+        "swelling in cheek or jaw",
+        "pain or discomfort in mouth",
+        "loose teeth",
+        "facial numbness",
+        "persistent mouth sore"
+    ]
+}

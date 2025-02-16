@@ -1,0 +1,33 @@
+{
+    "icd10code": "P21.1",
+    "type": "subcategory",
+    "title": "Mild and moderate birth asphyxia",
+    "chapter": "Certain conditions originating in the perinatal period",
+    "chapterCode": "XVI",
+    "block": "Respiratory and cardiovascular disorders specific to the perinatal period",
+    "blockCode": "P20-P29",
+    "category": "Birth asphyxia",
+    "categoryCode": "P21",
+    "subcategory": "P21.1",
+    "inclusion": [
+        "conditions that have their origin in the perinatal period even though death or morbidity occurs later",
+        "Asphyxia with 1-minute Apgar score 4-7",
+        "Blue asphyxia"
+    ],
+    "exclusion": [
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "tetanus neonatorum",
+        "whooping cough",
+        "single umbilical artery"
+    ],
+    "symptoms": [
+        "low apgar score",
+        "poor muscle tone",
+        "weak cry",
+        "irregular breathing",
+        "cyanosis"
+    ]
+}

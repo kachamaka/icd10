@@ -1,0 +1,42 @@
+{
+    "icd10code": "I22.1",
+    "type": "subcategory",
+    "title": "Subsequent myocardial infarction of inferior wall",
+    "chapter": "Diseases of the circulatory system",
+    "chapterCode": "IX",
+    "block": "Ischaemic heart diseases",
+    "blockCode": "I20-I25",
+    "category": "Subsequent myocardial infarction",
+    "categoryCode": "I22",
+    "subcategory": "I22.1",
+    "inclusion": [
+        "with mention of hypertension",
+        "myocardial infarction: extension",
+        "myocardial infarction: recurrent",
+        "myocardial infarction: reinfarction",
+        "Subsequent infarction (acute)(of): diaphragmatic wall",
+        "Subsequent infarction (acute)(of): inferior (wall) NOS",
+        "Subsequent infarction (acute)(of): inferolateral",
+        "Subsequent infarction (acute)(of): inferoposterior"
+    ],
+    "exclusion": [
+        "certain conditions originating in the perinatal period",
+        "certain infectious and parasitic diseases",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "systemic connective tissue disorders",
+        "transient cerebral ischaemic attacks and related syndromes",
+        "Eisenmenger defect"
+    ],
+    "symptoms": [
+        "chest pain",
+        "shortness of breath",
+        "excessive sweating",
+        "nausea",
+        "discomfort in upper body parts"
+    ]
+}

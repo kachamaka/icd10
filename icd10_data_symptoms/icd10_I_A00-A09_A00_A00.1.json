@@ -1,0 +1,30 @@
+{
+    "icd10code": "A00.1",
+    "type": "subcategory",
+    "title": "Cholera due to Vibrio cholerae 01, biovar eltor",
+    "chapter": "Certain infectious and parasitic diseases",
+    "chapterCode": "I",
+    "block": "Intestinal infectious diseases",
+    "blockCode": "A00-A09",
+    "category": "Cholera",
+    "categoryCode": "A00",
+    "subcategory": "A00.1",
+    "inclusion": [
+        "diseases generally recognized as communicable or transmissible",
+        "Cholera eltor"
+    ],
+    "exclusion": [
+        "carrier or suspected carrier of infectious disease",
+        "certain localized infections - see body system-related chapters",
+        "infectious and parasitic diseases complicating pregnancy, childbirth and the puerperium [except obstetrical tetanus]",
+        "infectious and parasitic diseases specific to the perinatal period [except tetanus neonatorum, whooping cough, congenital syphilis, perinatal gonococcal infection and perinatal human immunodeficiency virus [HIV] disease]",
+        "influenza and other acute respiratory infections"
+    ],
+    "symptoms": [
+        "fever",
+        "abdominal pain",
+        "severe diarrhea",
+        "vomiting",
+        "loss of appetite"
+    ]
+}

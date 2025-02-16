@@ -1,0 +1,33 @@
+{
+  "type": "subcategory",
+  "chapterCode": "XI",
+  "chapter": "Diseases of the digestive system",
+  "blockCode": "K80-K87",
+  "block": "Disorders of gallbladder, biliary tract and pancreas",
+  "categoryCode": "K82",
+  "category": "Other diseases of gallbladder",
+  "subcategory": "K82.8",
+  "title": "Other specified diseases of gallbladder",
+  "inclusion": [
+    "Adhesions of cystic duct or gallbladder",
+    "Atrophy of cystic duct or gallbladder",
+    "Cyst of cystic duct or gallbladder",
+    "Dyskinesia of cystic duct or gallbladder",
+    "Hypertrophy of cystic duct or gallbladder",
+    "Nonfunctioning of cystic duct or gallbladder",
+    "Ulcer of cystic duct or gallbladder"
+  ],
+  "exclusion": [
+    "certain conditions originating in the perinatal period",
+    "certain infectious and parasitic diseases",
+    "complications of pregnancy, childbirth and the puerperium",
+    "congenital malformations, deformations and chromosomal abnormalities",
+    "endocrine, nutritional and metabolic diseases",
+    "injury, poisoning and certain other consequences of external causes",
+    "neoplasms",
+    "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+    "nonvisualization of gallbladder",
+    "postcholecystectomy syndrome"
+  ],
+  "children": null
+}

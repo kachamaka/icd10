@@ -1,0 +1,42 @@
+{
+    "icd10code": "E34.3",
+    "type": "subcategory",
+    "title": "Short stature, not elsewhere classified",
+    "chapter": "Endocrine, nutritional and metabolic diseases",
+    "chapterCode": "IV",
+    "block": "Disorders of other endocrine glands",
+    "blockCode": "E20-E35",
+    "category": "Other endocrine disorders",
+    "categoryCode": "E34",
+    "subcategory": "E34.3",
+    "inclusion": [
+        "Short stature: NOS",
+        "Short stature: constitutional",
+        "Short stature: Laron-type",
+        "Short stature: psychosocial"
+    ],
+    "exclusion": [
+        "complications of pregnancy, childbirth and the puerperium",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "transitory endocrine and metabolic disorders specific to fetus and newborn",
+        "galactorrhoea",
+        "gynaecomastia",
+        "Albright(-McCune)(-Sternberg) syndrome",
+        "progeria",
+        "Russell-Silver syndrome",
+        "short-limbed stature with immunodeficiency",
+        "short stature: achondroplastic",
+        "short stature: hypochondroplastic",
+        "short stature: in specific dysmorphic syndromes - code to syndrome - see Alphabetical Index",
+        "short stature: nutritional",
+        "short stature: pituitary",
+        "short stature: renal"
+    ],
+    "symptoms": [
+        "short stature",
+        "delayed growth",
+        "delayed puberty",
+        "poor weight gain",
+        "low body mass index (bmi)"
+    ]
+}

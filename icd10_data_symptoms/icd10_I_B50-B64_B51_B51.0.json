@@ -1,0 +1,33 @@
+{
+    "icd10code": "B51.0",
+    "type": "subcategory",
+    "title": "Plasmodium vivax malaria with rupture of spleen",
+    "chapter": "Certain infectious and parasitic diseases",
+    "chapterCode": "I",
+    "block": "Protozoal diseases",
+    "blockCode": "B50-B64",
+    "category": "Plasmodium vivax malaria",
+    "categoryCode": "B51",
+    "subcategory": "B51.0",
+    "inclusion": [
+        "diseases generally recognized as communicable or transmissible",
+        "mixed infections of Plasmodium vivax with other Plasmodium species, except Plasmodium falciparum"
+    ],
+    "exclusion": [
+        "carrier or suspected carrier of infectious disease",
+        "certain localized infections - see body system-related chapters",
+        "infectious and parasitic diseases complicating pregnancy, childbirth and the puerperium [except obstetrical tetanus]",
+        "infectious and parasitic diseases specific to the perinatal period [except tetanus neonatorum, whooping cough, congenital syphilis, perinatal gonococcal infection and perinatal human immunodeficiency virus [HIV] disease]",
+        "influenza and other acute respiratory infections",
+        "larval diphyllobothriasis",
+        "monkeypox",
+        "intestinal helminthiasis NOS"
+    ],
+    "symptoms": [
+        "fever",
+        "chills",
+        "headache",
+        "muscle pain",
+        "malaise"
+    ]
+}

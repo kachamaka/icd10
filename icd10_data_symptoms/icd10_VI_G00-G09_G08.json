@@ -1,0 +1,40 @@
+{
+    "icd10code": "G08",
+    "type": "category",
+    "title": "Intracranial and intraspinal phlebitis and thrombophlebitis",
+    "chapter": "Diseases of the nervous system",
+    "chapterCode": "VI",
+    "block": "Inflammatory diseases of the central nervous system",
+    "blockCode": "G00-G09",
+    "category": "Intracranial and intraspinal phlebitis and thrombophlebitis",
+    "categoryCode": "G08",
+    "subcategory": "",
+    "inclusion": [
+        "Septic: embolism of intracranial or intraspinal venous sinuses and veins",
+        "Septic: endophlebitis of intracranial or intraspinal venous sinuses and veins",
+        "Septic: phlebitis of intracranial or intraspinal venous sinuses and veins",
+        "Septic: thrombophlebitis of intracranial or intraspinal venous sinuses and veins",
+        "Septic: thrombosis of intracranial or intraspinal venous sinuses and veins"
+    ],
+    "exclusion": [
+        "certain conditions originating in the perinatal period",
+        "certain infectious and parasitic diseases",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "intracranial phlebitis and thrombophlebitis: complicating: abortion or ectopic or molar pregnancy",
+        "intracranial phlebitis and thrombophlebitis: complicating: pregnancy, childbirth and the puerperium",
+        "intracranial phlebitis and thrombophlebitis: of nonpyogenic origin",
+        "nonpyogenic intraspinal phlebitis and thrombophlebitis"
+    ],
+    "symptoms": [
+        "headache",
+        "fever",
+        "neck stiffness",
+        "photophobia",
+        "decreased consciousness"
+    ]
+}

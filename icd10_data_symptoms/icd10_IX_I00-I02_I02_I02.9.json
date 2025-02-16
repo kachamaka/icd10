@@ -1,0 +1,37 @@
+{
+    "icd10code": "I02.9",
+    "type": "subcategory",
+    "title": "Rheumatic chorea without heart involvement",
+    "chapter": "Diseases of the circulatory system",
+    "chapterCode": "IX",
+    "block": "Acute rheumatic fever",
+    "blockCode": "I00-I02",
+    "category": "Rheumatic chorea",
+    "categoryCode": "I02",
+    "subcategory": "I02.9",
+    "inclusion": [
+        "Sydenham chorea",
+        "Rheumatic chorea NOS"
+    ],
+    "exclusion": [
+        "certain conditions originating in the perinatal period",
+        "certain infectious and parasitic diseases",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "systemic connective tissue disorders",
+        "transient cerebral ischaemic attacks and related syndromes",
+        "postoperative shock",
+        "when not specified as rheumatic"
+    ],
+    "symptoms": [
+        "fever",
+        "severe headache",
+        "neck stiffness",
+        "sensitivity to light",
+        "altered mental status"
+    ]
+}

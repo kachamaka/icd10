@@ -1,0 +1,27 @@
+{
+  "type": "subcategory",
+  "chapterCode": "IV",
+  "chapter": "Endocrine, nutritional and metabolic diseases",
+  "blockCode": "E70-E90",
+  "block": "Metabolic disorders",
+  "categoryCode": "E89",
+  "category": "Postprocedural endocrine and metabolic disorders, not elsewhere classified",
+  "subcategory": "E89.0",
+  "title": "Postprocedural hypothyroidism",
+  "inclusion": [
+    "Postirradiation hypothyroidism",
+    "Postsurgical hypothyroidism"
+  ],
+  "exclusion": [
+    "complications of pregnancy, childbirth and the puerperium",
+    "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+    "transitory endocrine and metabolic disorders specific to fetus and newborn",
+    "androgen resistance syndrome",
+    "congenital adrenal hyperplasia",
+    "Ehlers-Danlos syndrome",
+    "haemolytic anaemias due to enzyme disorders",
+    "Marfan syndrome",
+    "5-alpha-reductase deficiency"
+  ],
+  "children": null
+}

@@ -1,0 +1,16 @@
+{
+  "type": "subcategory",
+  "chapterCode": "II",
+  "chapter": "Neoplasms",
+  "blockCode": "D10-D36",
+  "block": "Benign neoplasms",
+  "categoryCode": "D32",
+  "category": "Benign neoplasm of meninges",
+  "subcategory": "D32.0",
+  "title": "Benign neoplasm: Cerebral meninges",
+  "inclusion": [
+    "morphology codes with behaviour code /0"
+  ],
+  "exclusion": null,
+  "children": null
+}

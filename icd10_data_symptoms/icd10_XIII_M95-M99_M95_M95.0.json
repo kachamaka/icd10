@@ -1,0 +1,39 @@
+{
+    "icd10code": "M95.0",
+    "type": "subcategory",
+    "title": "Acquired deformity of nose",
+    "chapter": "Diseases of the musculoskeletal system and connective tissue",
+    "chapterCode": "XIII",
+    "block": "Other disorders of the musculoskeletal system and connective tissue",
+    "blockCode": "M95-M99",
+    "category": "Other acquired deformities of musculoskeletal system and connective tissue",
+    "categoryCode": "M95",
+    "subcategory": "M95.0",
+    "inclusion": null,
+    "exclusion": [
+        "certain conditions originating in the perinatal period",
+        "certain disorders of the temporomandibular joint",
+        "certain infectious and parasitic diseases",
+        "compartment syndrome",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "soft tissue pain, psychogenic",
+        "bursitis: due to use, overuse and pressure",
+        "osteophyte",
+        "spinal enthesopathy",
+        "rickets (active) sequelae",
+        "rickets (active) vitamin-D-resistant",
+        "deviated nasal septum"
+    ],
+    "symptoms": [
+        "joint pain",
+        "swelling",
+        "limited range of motion",
+        "stiffness",
+        "joint deformities"
+    ]
+}

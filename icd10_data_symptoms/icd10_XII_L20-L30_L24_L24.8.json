@@ -1,0 +1,53 @@
+{
+    "icd10code": "L24.8",
+    "type": "subcategory",
+    "title": "Irritant contact dermatitis due to other agents",
+    "chapter": "Diseases of the skin and subcutaneous tissue",
+    "chapterCode": "XII",
+    "block": "Dermatitis and eczema",
+    "blockCode": "L20-L30",
+    "category": "Irritant contact dermatitis",
+    "categoryCode": "L24",
+    "subcategory": "L24.8",
+    "inclusion": [
+        "irritant contact eczema",
+        "Dyes"
+    ],
+    "exclusion": [
+        "certain conditions originating in the perinatal period",
+        "certain infectious and parasitic diseases",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "lipomelanotic reticulosis",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "systemic connective tissue disorders",
+        "chronic (childhood) granulomatous disease",
+        "dermatitis: dry skin",
+        "dermatitis: factitial",
+        "dermatitis: gangrenosa",
+        "dermatitis: herpetiformis",
+        "dermatitis: perioral",
+        "dermatitis: stasis",
+        "radiation-related disorders of the skin and subcutaneous tissue",
+        "dermatitis: contact",
+        "dermatitis: dry skin",
+        "small plaque parapsoriasis",
+        "stasis dermatitis",
+        "drug: photoallergic response",
+        "drug: phototoxic response",
+        "urticaria",
+        "dermatitis (of): perioral",
+        "eczema of external ear",
+        "dermatitis due to ingested food"
+    ],
+    "symptoms": [
+        "itching",
+        "redness",
+        "blistering",
+        "swelling",
+        "burning sensation"
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "icd10code": "Y30",
+    "type": "category",
+    "title": "Falling, jumping or pushed from a high place, undetermined intent",
+    "chapter": "External causes of morbidity and mortality",
+    "chapterCode": "XX",
+    "block": "Event of undetermined intent",
+    "blockCode": "Y10-Y34",
+    "category": "Falling, jumping or pushed from a high place, undetermined intent",
+    "categoryCode": "Y30",
+    "subcategory": "",
+    "inclusion": [
+        "victim falling from one level to another, undetermined intent"
+    ],
+    "exclusion": null,
+    "symptoms": [
+        "asymptomatic"
+    ]
+}

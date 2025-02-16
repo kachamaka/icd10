@@ -1,0 +1,20 @@
+{
+  "type": "subcategory",
+  "chapterCode": "V",
+  "chapter": "Mental and behavioural disorders",
+  "blockCode": "F60-F69",
+  "block": "Disorders of adult personality and behaviour",
+  "categoryCode": "F63",
+  "category": "Habit and impulse disorders",
+  "subcategory": "F63.9",
+  "title": "Habit and impulse disorder, unspecified",
+  "inclusion": [
+    "disorders of psychological development"
+  ],
+  "exclusion": [
+    "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+    "habitual excessive use of alcohol or psychoactive substances",
+    "impulse and habit disorders involving sexual behaviour"
+  ],
+  "children": null
+}

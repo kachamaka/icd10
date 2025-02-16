@@ -1,0 +1,34 @@
+{
+    "icd10code": "J13",
+    "type": "category",
+    "title": "Pneumonia due to Streptococcus pneumoniae",
+    "chapter": "Diseases of the respiratory system",
+    "chapterCode": "X",
+    "block": "Influenza and pneumonia",
+    "blockCode": "J09-J18",
+    "category": "Pneumonia due to Streptococcus pneumoniae",
+    "categoryCode": "J13",
+    "subcategory": "",
+    "inclusion": [
+        "Bronchopneumonia due to S. pneumoniae"
+    ],
+    "exclusion": [
+        "certain conditions originating in the perinatal period",
+        "certain infectious and parasitic diseases",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "congenital pneumonia due to S. pneumoniae",
+        "pneumonia due to other streptococci"
+    ],
+    "symptoms": [
+        "fever",
+        "cough",
+        "chest pain",
+        "shortness of breath",
+        "fatigue"
+    ]
+}

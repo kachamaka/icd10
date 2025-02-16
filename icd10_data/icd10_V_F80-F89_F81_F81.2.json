@@ -1,0 +1,24 @@
+{
+  "type": "subcategory",
+  "chapterCode": "V",
+  "chapter": "Mental and behavioural disorders",
+  "blockCode": "F80-F89",
+  "block": "Disorders of psychological development",
+  "categoryCode": "F81",
+  "category": "Specific developmental disorders of scholastic skills",
+  "subcategory": "F81.2",
+  "title": "Specific disorder of arithmetical skills",
+  "inclusion": [
+    "disorders of psychological development",
+    "Developmental: acalculia",
+    "Developmental: arithmetical disorder",
+    "Developmental: Gerstmann syndrome"
+  ],
+  "exclusion": [
+    "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+    "acalculia NOS",
+    "arithmetical difficulties: associated with a reading or spelling disorder",
+    "arithmetical difficulties: due to inadequate teaching"
+  ],
+  "children": null
+}

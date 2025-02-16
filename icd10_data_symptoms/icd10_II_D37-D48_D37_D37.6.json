@@ -1,0 +1,23 @@
+{
+    "icd10code": "D37.6",
+    "type": "subcategory",
+    "title": "Neoplasm of uncertain or unknown behaviour: Liver, gallbladder and bile ducts",
+    "chapter": "Neoplasms",
+    "chapterCode": "II",
+    "block": "Neoplasms of uncertain or unknown behaviour",
+    "blockCode": "D37-D48",
+    "category": "Neoplasm of uncertain or unknown behaviour of oral cavity and digestive organs",
+    "categoryCode": "D37",
+    "subcategory": "D37.6",
+    "inclusion": [
+        "Ampulla of Vater"
+    ],
+    "exclusion": null,
+    "symptoms": [
+        "abdominal pain",
+        "indigestion",
+        "nausea or vomiting",
+        "weight loss",
+        "bloating or feeling full"
+    ]
+}

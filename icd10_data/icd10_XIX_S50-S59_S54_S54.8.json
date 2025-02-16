@@ -1,0 +1,29 @@
+{
+  "type": "subcategory",
+  "chapterCode": "XIX",
+  "chapter": "Injury, poisoning and certain other consequences of external causes",
+  "blockCode": "S50-S59",
+  "block": "Injuries to the elbow and forearm",
+  "categoryCode": "S54",
+  "category": "Injury of nerves at forearm level",
+  "subcategory": "S54.8",
+  "title": "Injury of other nerves at forearm level",
+  "inclusion": null,
+  "exclusion": [
+    "birth trauma",
+    "obstetric trauma",
+    "malunion of fracture",
+    "nonunion of fracture [pseudarthrosis]",
+    "pathological fracture",
+    "pathological fracture with osteoporosis",
+    "stress fracture",
+    "bilateral involvement of elbow and forearm",
+    "burns and corrosions",
+    "frostbite",
+    "injuries of: arm, level unspecified",
+    "injuries of: wrist and hand",
+    "insect bite or sting, venomous",
+    "Monteggia fracture-dislocation"
+  ],
+  "children": null
+}

@@ -1,0 +1,26 @@
+{
+    "icd10code": "V18",
+    "type": "modifiedcategory",
+    "title": "Pedal cyclist injured in noncollision transport accident : unspecified pedal cyclist injured in nontraffic accident",
+    "chapter": "External causes of morbidity and mortality",
+    "chapterCode": "XX",
+    "block": "Pedal cyclist injured in transport accident",
+    "blockCode": "V10-V19",
+    "category": "Pedal cyclist injured in noncollision transport accident",
+    "categoryCode": "V18",
+    "subcategory": "",
+    "inclusion": [
+        "fall or thrown from pedal cycle (without antecedent collision) overturning: NOS",
+        "fall or thrown from pedal cycle (without antecedent collision) overturning: without collision"
+    ],
+    "exclusion": [
+        "accidents to persons engaged in the maintenance or repair of transport equipment or vehicle (not in motion) unless injured by another vehicle in motion",
+        "accidents involving vehicles, but unrelated to the hazards associated with the means of transportation, e.g., injuries received in a fight on board ship; transport vehicle involved in a cataclysm; finger crushed when shutting car door",
+        "assault by crashing of motor vehicle",
+        "event of undetermined intent",
+        "intentional self-harm"
+    ],
+    "symptoms": [
+        "asymptomatic"
+    ]
+}

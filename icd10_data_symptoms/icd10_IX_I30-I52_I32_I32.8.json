@@ -1,0 +1,36 @@
+{
+    "icd10code": "I32.8",
+    "type": "subcategory",
+    "title": "Pericarditis in other diseases classified elsewhere",
+    "chapter": "Diseases of the circulatory system",
+    "chapterCode": "IX",
+    "block": "Other forms of heart disease",
+    "blockCode": "I30-I52",
+    "category": "Pericarditis in diseases classified elsewhere",
+    "categoryCode": "I32",
+    "subcategory": "I32.8",
+    "inclusion": [
+        "Pericarditis (in): rheumatoid",
+        "Pericarditis (in): systemic lupus erythematosus",
+        "Pericarditis (in): uraemic"
+    ],
+    "exclusion": [
+        "certain conditions originating in the perinatal period",
+        "certain infectious and parasitic diseases",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "systemic connective tissue disorders",
+        "transient cerebral ischaemic attacks and related syndromes"
+    ],
+    "symptoms": [
+        "chest pain",
+        "shortness of breath",
+        "cough with pus-filled sputum",
+        "fever",
+        "night sweats"
+    ]
+}

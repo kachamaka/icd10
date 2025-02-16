@@ -1,0 +1,26 @@
+{
+    "icd10code": "C26.8",
+    "type": "subcategory",
+    "title": "Malignant neoplasm: Overlapping lesion of digestive system",
+    "chapter": "Neoplasms",
+    "chapterCode": "II",
+    "block": "Malignant neoplasms of digestive organs",
+    "blockCode": "C15-C26",
+    "category": "Malignant neoplasm of other and ill-defined digestive organs",
+    "categoryCode": "C26",
+    "subcategory": "C26.8",
+    "inclusion": [
+        "Malignant neoplasm of digestive organs whose point of origin cannot be classified to any one of the categories C15-C26.1"
+    ],
+    "exclusion": [
+        "peritoneum and retroperitoneum",
+        "cardio-oesophageal junction"
+    ],
+    "symptoms": [
+        "abdominal pain",
+        "unexplained weight loss",
+        "loss of appetite",
+        "bloating",
+        "fatigue"
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "icd10code": "Q76.0",
+    "type": "subcategory",
+    "title": "Spina bifida occulta",
+    "chapter": "Congenital malformations, deformations and chromosomal abnormalities",
+    "chapterCode": "XVII",
+    "block": "Congenital malformations and deformations of the musculoskeletal system",
+    "blockCode": "Q65-Q79",
+    "category": "Congenital malformations of spine and bony thorax",
+    "categoryCode": "Q76",
+    "subcategory": "Q76.0",
+    "inclusion": null,
+    "exclusion": [
+        "inborn errors of metabolism",
+        "congenital musculoskeletal deformities of spine and chest",
+        "meningocele (spinal)",
+        "spina bifida (aperta)(cystica)"
+    ],
+    "symptoms": [
+        "short neck",
+        "restricted neck movement",
+        "low hairline",
+        "cervical spine anomalies",
+        "scoliosis"
+    ]
+}

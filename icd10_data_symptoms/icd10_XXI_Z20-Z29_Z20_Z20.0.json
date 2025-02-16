@@ -1,0 +1,21 @@
+{
+    "icd10code": "Z20.0",
+    "type": "subcategory",
+    "title": "Contact with and exposure to intestinal infectious diseases",
+    "chapter": "Factors influencing health status and contact with health services",
+    "chapterCode": "XXI",
+    "block": "Persons with potential health hazards related to communicable diseases",
+    "blockCode": "Z20-Z29",
+    "category": "Contact with and exposure to communicable diseases",
+    "categoryCode": "Z20",
+    "subcategory": "Z20.0",
+    "inclusion": null,
+    "exclusion": null,
+    "symptoms": [
+        "fever",
+        "sore throat",
+        "cough",
+        "fatigue",
+        "rash"
+    ]
+}

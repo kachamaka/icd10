@@ -1,0 +1,29 @@
+{
+    "icd10code": "D23.3",
+    "type": "subcategory",
+    "title": "Benign neoplasm: Skin of other and unspecified parts of face",
+    "chapter": "Neoplasms",
+    "chapterCode": "II",
+    "block": "Benign neoplasms",
+    "blockCode": "D10-D36",
+    "category": "Other benign neoplasms of skin",
+    "categoryCode": "D23",
+    "subcategory": "D23.3",
+    "inclusion": [
+        "morphology codes with behaviour code /0",
+        "benign neoplasm of: hair follicles",
+        "benign neoplasm of: sebaceous glands",
+        "benign neoplasm of: sweat glands"
+    ],
+    "exclusion": [
+        "benign lipomatous neoplasms",
+        "melanocytic naevi"
+    ],
+    "symptoms": [
+        "skin changes in affected area",
+        "discomfort or pain",
+        "itchiness",
+        "bleeding or oozing",
+        "change in skin sensation"
+    ]
+}

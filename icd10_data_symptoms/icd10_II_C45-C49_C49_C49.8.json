@@ -1,0 +1,43 @@
+{
+    "icd10code": "C49.8",
+    "type": "subcategory",
+    "title": "Malignant neoplasm: Overlapping lesion of connective and soft tissue",
+    "chapter": "Neoplasms",
+    "chapterCode": "II",
+    "block": "Malignant neoplasms of mesothelial and soft tissue",
+    "blockCode": "C45-C49",
+    "category": "Malignant neoplasm of other connective and soft tissue",
+    "categoryCode": "C49",
+    "subcategory": "C49.8",
+    "inclusion": [
+        "blood vessel",
+        "bursa",
+        "cartilage",
+        "fascia",
+        "fat",
+        "ligament, except uterine",
+        "lymphatic vessel",
+        "muscle",
+        "synovia",
+        "tendon (sheath)",
+        "Malignant neoplasm of connective and soft tissue whose point of origin cannot be classified to any one of the categories C47-C49.6"
+    ],
+    "exclusion": [
+        "cartilage (of): articular",
+        "cartilage (of): larynx",
+        "cartilage (of): nose",
+        "connective tissue of breast",
+        "Kaposi sarcoma",
+        "mesothelioma",
+        "peripheral nerves and autonomic nervous system",
+        "peritoneum",
+        "retroperitoneum"
+    ],
+    "symptoms": [
+        "pain",
+        "lump or swelling",
+        "limited movement in nearby joints",
+        "changes in skin color",
+        "fatigue"
+    ]
+}

@@ -1,0 +1,21 @@
+{
+  "type": "subcategory",
+  "chapterCode": "XVII",
+  "chapter": "Congenital malformations, deformations and chromosomal abnormalities",
+  "blockCode": "Q38-Q45",
+  "block": "Other congenital malformations of the digestive system",
+  "categoryCode": "Q41",
+  "category": "Congenital absence, atresia and stenosis of small intestine",
+  "subcategory": "Q41.1",
+  "title": "Congenital absence, atresia and stenosis of jejunum",
+  "inclusion": [
+    "congenital obstruction, occlusion and stricture of small intestine or intestine NOS",
+    "Apple peel syndrome",
+    "Imperforate jejunum"
+  ],
+  "exclusion": [
+    "inborn errors of metabolism",
+    "meconium ileus"
+  ],
+  "children": null
+}

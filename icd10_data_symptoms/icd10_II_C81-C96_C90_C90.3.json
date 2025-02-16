@@ -1,0 +1,27 @@
+{
+    "icd10code": "C90.3",
+    "type": "subcategory",
+    "title": "Solitary plasmacytoma",
+    "chapter": "Neoplasms",
+    "chapterCode": "II",
+    "block": "Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",
+    "blockCode": "C81-C96",
+    "category": "Multiple myeloma and malignant plasma cell neoplasms",
+    "categoryCode": "C90",
+    "subcategory": "C90.3",
+    "inclusion": [
+        "Localized malignant plasma cell tumour NOS",
+        "Plasmacytoma NOS",
+        "Solitary myeloma"
+    ],
+    "exclusion": [
+        "secondary and unspecified neoplasm of lymph nodes"
+    ],
+    "symptoms": [
+        "fatigue",
+        "bone pain",
+        "recurrent infections",
+        "nephropathy",
+        "anemia"
+    ]
+}

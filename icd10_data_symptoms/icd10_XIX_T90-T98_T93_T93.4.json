@@ -1,0 +1,31 @@
+{
+    "icd10code": "T93.4",
+    "type": "subcategory",
+    "title": "Sequelae of injury of nerve of lower limb",
+    "chapter": "Injury, poisoning and certain other consequences of external causes",
+    "chapterCode": "XIX",
+    "block": "Sequelae of injuries, of poisoning and of other consequences of external causes",
+    "blockCode": "T90-T98",
+    "category": "Sequelae of injuries of lower limb",
+    "categoryCode": "T93",
+    "subcategory": "T93.4",
+    "inclusion": [
+        "Sequelae of injury classifiable to S74.-, S84.-, S94.- and T13.3"
+    ],
+    "exclusion": [
+        "birth trauma",
+        "obstetric trauma",
+        "malunion of fracture",
+        "nonunion of fracture [pseudarthrosis]",
+        "pathological fracture",
+        "pathological fracture with osteoporosis",
+        "stress fracture"
+    ],
+    "symptoms": [
+        "chronic pain",
+        "limited joint mobility",
+        "muscle weakness",
+        "deformity",
+        "persistent swelling"
+    ]
+}

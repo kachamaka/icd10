@@ -1,0 +1,25 @@
+{
+    "icd10code": "Q93.4",
+    "type": "subcategory",
+    "title": "Deletion of short arm of chromosome 5",
+    "chapter": "Congenital malformations, deformations and chromosomal abnormalities",
+    "chapterCode": "XVII",
+    "block": "Chromosomal abnormalities, not elsewhere classified",
+    "blockCode": "Q90-Q99",
+    "category": "Monosomies and deletions from the autosomes, not elsewhere classified",
+    "categoryCode": "Q93",
+    "subcategory": "Q93.4",
+    "inclusion": [
+        "Cri-du-chat syndrome"
+    ],
+    "exclusion": [
+        "inborn errors of metabolism"
+    ],
+    "symptoms": [
+        "developmental delay",
+        "intellectual disability",
+        "distinctive facial features",
+        "hypotonia",
+        "congenital heart defects"
+    ]
+}

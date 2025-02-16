@@ -1,0 +1,29 @@
+{
+  "type": "subcategory",
+  "chapterCode": "X",
+  "chapter": "Diseases of the respiratory system",
+  "blockCode": "J95-J99",
+  "block": "Other diseases of the respiratory system",
+  "categoryCode": "J99",
+  "category": "Respiratory disorders in diseases classified elsewhere",
+  "subcategory": "J99.8",
+  "title": "Respiratory disorders in other diseases classified elsewhere",
+  "inclusion": [
+    "Respiratory disorders in: amoebiasis",
+    "Respiratory disorders in: ankylosing spondylitis",
+    "Respiratory disorders in: cryoglobulinaemia",
+    "Respiratory disorders in: sporotrichosis",
+    "Respiratory disorders in: syphilis"
+  ],
+  "exclusion": [
+    "certain conditions originating in the perinatal period",
+    "certain infectious and parasitic diseases",
+    "complications of pregnancy, childbirth and the puerperium",
+    "congenital malformations, deformations and chromosomal abnormalities",
+    "endocrine, nutritional and metabolic diseases",
+    "injury, poisoning and certain other consequences of external causes",
+    "neoplasms",
+    "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified"
+  ],
+  "children": null
+}

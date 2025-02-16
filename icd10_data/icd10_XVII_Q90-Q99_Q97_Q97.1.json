@@ -1,0 +1,17 @@
+{
+  "type": "subcategory",
+  "chapterCode": "XVII",
+  "chapter": "Congenital malformations, deformations and chromosomal abnormalities",
+  "blockCode": "Q90-Q99",
+  "block": "Chromosomal abnormalities, not elsewhere classified",
+  "categoryCode": "Q97",
+  "category": "Other sex chromosome abnormalities, female phenotype, not elsewhere classified",
+  "subcategory": "Q97.1",
+  "title": "Female with more than three X chromosomes",
+  "inclusion": null,
+  "exclusion": [
+    "inborn errors of metabolism",
+    "Turner syndrome"
+  ],
+  "children": null
+}

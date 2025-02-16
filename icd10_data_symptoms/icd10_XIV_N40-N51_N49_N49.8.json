@@ -1,0 +1,34 @@
+{
+    "icd10code": "N49.8",
+    "type": "subcategory",
+    "title": "Inflammatory disorders of other specified male genital organs",
+    "chapter": "Diseases of the genitourinary system",
+    "chapterCode": "XIV",
+    "block": "Diseases of male genital organs",
+    "blockCode": "N40-N51",
+    "category": "Inflammatory disorders of male genital organs, not elsewhere classified",
+    "categoryCode": "N49",
+    "subcategory": "N49.8",
+    "inclusion": [
+        "Inflammation of multiple sites in male genital organs"
+    ],
+    "exclusion": [
+        "certain conditions originating in the perinatal period",
+        "certain infectious and parasitic diseases",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "inflammation of penis",
+        "orchitis and epididymitis"
+    ],
+    "symptoms": [
+        "swelling",
+        "pain in the groin",
+        "fever",
+        "redness",
+        "tenderness in scrotal area"
+    ]
+}

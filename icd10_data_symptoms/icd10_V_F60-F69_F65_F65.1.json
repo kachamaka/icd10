@@ -1,0 +1,27 @@
+{
+    "icd10code": "F65.1",
+    "type": "subcategory",
+    "title": "Fetishistic transvestism",
+    "chapter": "Mental and behavioural disorders",
+    "chapterCode": "V",
+    "block": "Disorders of adult personality and behaviour",
+    "blockCode": "F60-F69",
+    "category": "Disorders of sexual preference",
+    "categoryCode": "F65",
+    "subcategory": "F65.1",
+    "inclusion": [
+        "disorders of psychological development",
+        "paraphilias",
+        "Transvestic fetishism"
+    ],
+    "exclusion": [
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified"
+    ],
+    "symptoms": [
+        "recurrent sexual focus on dressing as the opposite gender",
+        "significant distress",
+        "anxiety",
+        "shame",
+        "difficulty in relationships"
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "icd10code": "Q13.9",
+    "type": "subcategory",
+    "title": "Congenital malformation of anterior segment of eye, unspecified",
+    "chapter": "Congenital malformations, deformations and chromosomal abnormalities",
+    "chapterCode": "XVII",
+    "block": "Congenital malformations of eye, ear, face and neck",
+    "blockCode": "Q10-Q18",
+    "category": "Congenital malformations of anterior segment of eye",
+    "categoryCode": "Q13",
+    "subcategory": "Q13.9",
+    "inclusion": null,
+    "exclusion": [
+        "inborn errors of metabolism",
+        "cleft lip and cleft palate",
+        "congenital malformation of: cervical spine",
+        "congenital malformation of: larynx",
+        "congenital malformation of: lip NEC",
+        "congenital malformation of: nose",
+        "congenital malformation of: parathyroid gland",
+        "congenital malformation of: thyroid gland"
+    ],
+    "symptoms": [
+        "vision impairment",
+        "abnormal eye development",
+        "photophobia",
+        "strabismus",
+        "corneal opacity"
+    ]
+}

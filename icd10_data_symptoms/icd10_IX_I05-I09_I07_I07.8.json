@@ -1,0 +1,35 @@
+{
+    "icd10code": "I07.8",
+    "type": "subcategory",
+    "title": "Other tricuspid valve diseases",
+    "chapter": "Diseases of the circulatory system",
+    "chapterCode": "IX",
+    "block": "Chronic rheumatic heart diseases",
+    "blockCode": "I05-I09",
+    "category": "Rheumatic tricuspid valve diseases",
+    "categoryCode": "I07",
+    "subcategory": "I07.8",
+    "inclusion": [
+        "whether specified as rheumatic or of unspecified origin"
+    ],
+    "exclusion": [
+        "certain conditions originating in the perinatal period",
+        "certain infectious and parasitic diseases",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "systemic connective tissue disorders",
+        "transient cerebral ischaemic attacks and related syndromes",
+        "postoperative shock"
+    ],
+    "symptoms": [
+        "chest discomfort",
+        "shortness of breath",
+        "fatigue",
+        "rapid or irregular heartbeat",
+        "lightheadedness"
+    ]
+}

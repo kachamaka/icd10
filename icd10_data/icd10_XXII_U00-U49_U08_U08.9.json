@@ -1,0 +1,14 @@
+{
+  "type": "subcategory",
+  "chapterCode": "XXII",
+  "chapter": "Codes for special purposes",
+  "blockCode": "U00-U49",
+  "block": "Provisional assignment of new diseases of uncertain etiology or emergency use",
+  "categoryCode": "U08",
+  "category": "Personal history of COVID-19",
+  "subcategory": "U08.9",
+  "title": "Personal history of COVID-19, unspecified",
+  "inclusion": null,
+  "exclusion": null,
+  "children": null
+}

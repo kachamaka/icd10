@@ -1,0 +1,30 @@
+{
+    "icd10code": "F43.2",
+    "type": "subcategory",
+    "title": "Adjustment disorders",
+    "chapter": "Mental and behavioural disorders",
+    "chapterCode": "V",
+    "block": "Neurotic, stress-related and somatoform disorders",
+    "blockCode": "F40-F48",
+    "category": "Reaction to severe stress, and adjustment disorders",
+    "categoryCode": "F43",
+    "subcategory": "F43.2",
+    "inclusion": [
+        "disorders of psychological development",
+        "Culture shock",
+        "Grief reaction",
+        "Hospitalism in children"
+    ],
+    "exclusion": [
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "when associated with conduct disorder in F91.-",
+        "separation anxiety disorder of childhood"
+    ],
+    "symptoms": [
+        "anxiety",
+        "difficulty concentrating",
+        "insomnia",
+        "irritability",
+        "hypervigilance"
+    ]
+}

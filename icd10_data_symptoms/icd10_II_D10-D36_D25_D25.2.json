@@ -1,0 +1,25 @@
+{
+    "icd10code": "D25.2",
+    "type": "subcategory",
+    "title": "Subserosal leiomyoma of uterus",
+    "chapter": "Neoplasms",
+    "chapterCode": "II",
+    "block": "Benign neoplasms",
+    "blockCode": "D10-D36",
+    "category": "Leiomyoma of uterus",
+    "categoryCode": "D25",
+    "subcategory": "D25.2",
+    "inclusion": [
+        "morphology codes with behaviour code /0",
+        "benign neoplasms of uterus with morphology code M889 and behaviour code /0",
+        "fibromyoma of uterus"
+    ],
+    "exclusion": null,
+    "symptoms": [
+        "abnormal menstruation",
+        "heavy or prolonged periods",
+        "pelvic pain",
+        "anemia related to heavy bleeding",
+        "pressure or fullness in lower abdomen"
+    ]
+}

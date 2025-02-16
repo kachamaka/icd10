@@ -1,0 +1,31 @@
+{
+    "icd10code": "T35.4",
+    "type": "subcategory",
+    "title": "Unspecified frostbite of upper limb",
+    "chapter": "Injury, poisoning and certain other consequences of external causes",
+    "chapterCode": "XIX",
+    "block": "Frostbite",
+    "blockCode": "T33-T35",
+    "category": "Frostbite involving multiple body regions and unspecified frostbite",
+    "categoryCode": "T35",
+    "subcategory": "T35.4",
+    "inclusion": null,
+    "exclusion": [
+        "birth trauma",
+        "obstetric trauma",
+        "malunion of fracture",
+        "nonunion of fracture [pseudarthrosis]",
+        "pathological fracture",
+        "pathological fracture with osteoporosis",
+        "stress fracture",
+        "complications of surgical and medical care NEC"
+    ],
+    "symptoms": [
+        "burns on at least 40% of the body",
+        "pain",
+        "blistering",
+        "swelling",
+        "risk of infection",
+        "scarring"
+    ]
+}

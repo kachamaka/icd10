@@ -1,0 +1,31 @@
+{
+    "icd10code": "P96.0",
+    "type": "subcategory",
+    "title": "Congenital renal failure",
+    "chapter": "Certain conditions originating in the perinatal period",
+    "chapterCode": "XVI",
+    "block": "Other disorders originating in the perinatal period",
+    "blockCode": "P90-P96",
+    "category": "Other conditions originating in the perinatal period",
+    "categoryCode": "P96",
+    "subcategory": "P96.0",
+    "inclusion": [
+        "conditions that have their origin in the perinatal period even though death or morbidity occurs later",
+        "Uraemia of newborn"
+    ],
+    "exclusion": [
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "tetanus neonatorum",
+        "whooping cough"
+    ],
+    "symptoms": [
+        "jaundice",
+        "poor feeding",
+        "lethargy",
+        "irritability",
+        "vomiting"
+    ]
+}

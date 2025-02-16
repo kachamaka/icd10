@@ -1,0 +1,38 @@
+{
+    "icd10code": "N89.5",
+    "type": "subcategory",
+    "title": "Stricture and atresia of vagina",
+    "chapter": "Diseases of the genitourinary system",
+    "chapterCode": "XIV",
+    "block": "Noninflammatory disorders of female genital tract",
+    "blockCode": "N80-N98",
+    "category": "Other noninflammatory disorders of vagina",
+    "categoryCode": "N89",
+    "subcategory": "N89.5",
+    "inclusion": [
+        "Vaginal: adhesions",
+        "Vaginal: stenosis"
+    ],
+    "exclusion": [
+        "certain conditions originating in the perinatal period",
+        "certain infectious and parasitic diseases",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "carcinoma in situ of vagina",
+        "inflammation of vagina",
+        "senile (atrophic) vaginitis",
+        "trichomonal leukorrhoea",
+        "postoperative adhesions of vagina"
+    ],
+    "symptoms": [
+        "abnormal vaginal discharge",
+        "itching",
+        "irritation",
+        "unusual odor",
+        "mild bleeding"
+    ]
+}

@@ -1,0 +1,18 @@
+{
+  "type": "category",
+  "chapterCode": "II",
+  "chapter": "Neoplasms",
+  "blockCode": "C00-C14",
+  "block": "Malignant neoplasms of lip, oral cavity and pharynx",
+  "categoryCode": "C01",
+  "category": "Malignant neoplasm of base of tongue",
+  "subcategory": "",
+  "title": "Malignant neoplasm of base of tongue",
+  "inclusion": [
+    "Dorsal surface of base of tongue",
+    "Fixed part of tongue NOS",
+    "Posterior third of tongue"
+  ],
+  "exclusion": null,
+  "children": null
+}

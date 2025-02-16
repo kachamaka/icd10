@@ -1,0 +1,38 @@
+{
+    "icd10code": "O70.1",
+    "type": "subcategory",
+    "title": "Second degree perineal laceration during delivery",
+    "chapter": "Pregnancy, childbirth and the puerperium",
+    "chapterCode": "XV",
+    "block": "Complications of labour and delivery",
+    "blockCode": "O60-O75",
+    "category": "Perineal laceration during delivery",
+    "categoryCode": "O70",
+    "subcategory": "O70.1",
+    "inclusion": [
+        "episiotomy extended by laceration",
+        "Perineal laceration, rupture or tear as in O70.0, also involving: pelvic floor during delivery",
+        "Perineal laceration, rupture or tear as in O70.0, also involving: perineal muscles during delivery",
+        "Perineal laceration, rupture or tear as in O70.0, also involving: vaginal muscles during delivery"
+    ],
+    "exclusion": [
+        "Certain diseases or injuries complicating pregnancy, childbirth and the puerperium classified elsewhere: external causes (for mortality)",
+        "Certain diseases or injuries complicating pregnancy, childbirth and the puerperium classified elsewhere: injury, poisoning and certain other consequences of external cause",
+        "Certain diseases or injuries complicating pregnancy, childbirth and the puerperium classified elsewhere: mental and behavioural disorders associated with the puerperium",
+        "Certain diseases or injuries complicating pregnancy, childbirth and the puerperium classified elsewhere: obstetrical tetanus",
+        "Certain diseases or injuries complicating pregnancy, childbirth and the puerperium classified elsewhere: postpartum necrosis of pituitary gland",
+        "Certain diseases or injuries complicating pregnancy, childbirth and the puerperium classified elsewhere: puerperal osteomalacia",
+        "supervision of: high-risk pregnancy",
+        "supervision of: normal pregnancy",
+        "obstetric high vaginal laceration",
+        "vaginal sulcus laceration",
+        "that involving anal sphincter"
+    ],
+    "symptoms": [
+        "perineal pain",
+        "swelling",
+        "bleeding",
+        "difficulty sitting",
+        "discomfort during urination"
+    ]
+}

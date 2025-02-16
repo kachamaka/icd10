@@ -1,0 +1,30 @@
+{
+    "icd10code": "H47.1",
+    "type": "subcategory",
+    "title": "Papilloedema, unspecified",
+    "chapter": "Diseases of the eye and adnexa",
+    "chapterCode": "VII",
+    "block": "Disorders of optic nerve and visual pathways",
+    "blockCode": "H46-H48",
+    "category": "Other disorders of optic [2nd] nerve and visual pathways",
+    "categoryCode": "H47",
+    "subcategory": "H47.1",
+    "inclusion": null,
+    "exclusion": [
+        "certain conditions originating in the perinatal period",
+        "certain infectious and parasitic diseases",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified"
+    ],
+    "symptoms": [
+        "blurred vision",
+        "visual field defects",
+        "headache",
+        "eye pain",
+        "decreased visual acuity"
+    ]
+}

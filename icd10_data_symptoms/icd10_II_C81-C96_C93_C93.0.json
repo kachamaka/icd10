@@ -1,0 +1,28 @@
+{
+    "icd10code": "C93.0",
+    "type": "subcategory",
+    "title": "Acute monoblastic/monocytic leukaemia",
+    "chapter": "Neoplasms",
+    "chapterCode": "II",
+    "block": "Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",
+    "blockCode": "C81-C96",
+    "category": "Monocytic leukaemia",
+    "categoryCode": "C93",
+    "subcategory": "C93.0",
+    "inclusion": [
+        "monocytoid leukaemia",
+        "AML M5a",
+        "AML M5b",
+        "AML M5"
+    ],
+    "exclusion": [
+        "secondary and unspecified neoplasm of lymph nodes"
+    ],
+    "symptoms": [
+        "fatigue",
+        "unexpected weight loss",
+        "fever",
+        "pale skin",
+        "recurrent infections"
+    ]
+}

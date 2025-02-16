@@ -1,0 +1,31 @@
+{
+    "icd10code": "P28.9",
+    "type": "subcategory",
+    "title": "Respiratory condition of newborn, unspecified",
+    "chapter": "Certain conditions originating in the perinatal period",
+    "chapterCode": "XVI",
+    "block": "Respiratory and cardiovascular disorders specific to the perinatal period",
+    "blockCode": "P20-P29",
+    "category": "Other respiratory conditions originating in the perinatal period",
+    "categoryCode": "P28",
+    "subcategory": "P28.9",
+    "inclusion": [
+        "conditions that have their origin in the perinatal period even though death or morbidity occurs later"
+    ],
+    "exclusion": [
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "tetanus neonatorum",
+        "whooping cough",
+        "single umbilical artery"
+    ],
+    "symptoms": [
+        "respiratory distress",
+        "rapid breathing",
+        "cyanosis",
+        "nasal flaring",
+        "irregular breathing patterns"
+    ]
+}

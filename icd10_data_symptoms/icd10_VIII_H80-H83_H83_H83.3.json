@@ -1,0 +1,33 @@
+{
+    "icd10code": "H83.3",
+    "type": "subcategory",
+    "title": "Noise effects on inner ear",
+    "chapter": "Diseases of the ear and mastoid process",
+    "chapterCode": "VIII",
+    "block": "Diseases of inner ear",
+    "blockCode": "H80-H83",
+    "category": "Other diseases of inner ear",
+    "categoryCode": "H83",
+    "subcategory": "H83.3",
+    "inclusion": [
+        "Acoustic trauma",
+        "Noise-induced hearing loss"
+    ],
+    "exclusion": [
+        "certain conditions originating in the perinatal period",
+        "certain infectious and parasitic diseases",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified"
+    ],
+    "symptoms": [
+        "hearing loss",
+        "tinnitus",
+        "dizziness",
+        "balance problems",
+        "ear fullness"
+    ]
+}

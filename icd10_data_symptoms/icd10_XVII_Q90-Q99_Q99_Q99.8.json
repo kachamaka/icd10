@@ -1,0 +1,23 @@
+{
+    "icd10code": "Q99.8",
+    "type": "subcategory",
+    "title": "Other specified chromosome abnormalities",
+    "chapter": "Congenital malformations, deformations and chromosomal abnormalities",
+    "chapterCode": "XVII",
+    "block": "Chromosomal abnormalities, not elsewhere classified",
+    "blockCode": "Q90-Q99",
+    "category": "Other chromosome abnormalities, not elsewhere classified",
+    "categoryCode": "Q99",
+    "subcategory": "Q99.8",
+    "inclusion": null,
+    "exclusion": [
+        "inborn errors of metabolism"
+    ],
+    "symptoms": [
+        "developmental delays",
+        "intellectual disability",
+        "growth abnormalities",
+        "facial dysmorphism",
+        "organ malformations"
+    ]
+}

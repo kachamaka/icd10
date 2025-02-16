@@ -1,0 +1,25 @@
+{
+    "icd10code": "R48.2",
+    "type": "subcategory",
+    "title": "Apraxia",
+    "chapter": "Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+    "chapterCode": "XVIII",
+    "block": "Symptoms and signs involving speech and voice",
+    "blockCode": "R47-R49",
+    "category": "Dyslexia and other symbolic dysfunctions, not elsewhere classified",
+    "categoryCode": "R48",
+    "subcategory": "R48.2",
+    "inclusion": null,
+    "exclusion": [
+        "abnormal findings on antenatal screening of mother",
+        "certain conditions originating in the perinatal period",
+        "specific developmental disorders of scholastic skills"
+    ],
+    "symptoms": [
+        "difficulty reading",
+        "impaired writing",
+        "trouble understanding symbols",
+        "problems recognizing letters",
+        "issues with object naming"
+    ]
+}

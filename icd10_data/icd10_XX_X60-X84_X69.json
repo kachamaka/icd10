@@ -1,0 +1,24 @@
+{
+  "type": "category",
+  "chapterCode": "XX",
+  "chapter": "External causes of morbidity and mortality",
+  "blockCode": "X60-X84",
+  "block": "Intentional self-harm",
+  "categoryCode": "X69",
+  "category": "Intentional self-poisoning by and exposure to other and unspecified chemicals and noxious substances",
+  "subcategory": "",
+  "title": "Intentional self-poisoning by and exposure to other and unspecified chemicals and noxious substances",
+  "inclusion": [
+    "purposely self-inflicted poisoning or injury",
+    "suicide (attempted)",
+    "corrosive aromatics, acids and caustic alkalis",
+    "glues and adhesives",
+    "metals including fumes and vapours",
+    "paints and dyes",
+    "plant foods and fertilizers",
+    "poisonous foodstuffs and poisonous plants",
+    "soaps and detergents"
+  ],
+  "exclusion": null,
+  "children": null
+}

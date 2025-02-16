@@ -1,0 +1,32 @@
+{
+    "icd10code": "E85.9",
+    "type": "subcategory",
+    "title": "Amyloidosis, unspecified",
+    "chapter": "Endocrine, nutritional and metabolic diseases",
+    "chapterCode": "IV",
+    "block": "Metabolic disorders",
+    "blockCode": "E70-E90",
+    "category": "Amyloidosis",
+    "categoryCode": "E85",
+    "subcategory": "E85.9",
+    "inclusion": null,
+    "exclusion": [
+        "complications of pregnancy, childbirth and the puerperium",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "transitory endocrine and metabolic disorders specific to fetus and newborn",
+        "androgen resistance syndrome",
+        "congenital adrenal hyperplasia",
+        "Ehlers-Danlos syndrome",
+        "haemolytic anaemias due to enzyme disorders",
+        "Marfan syndrome",
+        "5-alpha-reductase deficiency",
+        "Schilder disease"
+    ],
+    "symptoms": [
+        "fatigue",
+        "weakness",
+        "irregular heartbeat",
+        "swelling in ankles and legs",
+        "unexplained weight loss"
+    ]
+}

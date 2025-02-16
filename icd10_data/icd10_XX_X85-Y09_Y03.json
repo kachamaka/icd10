@@ -1,0 +1,21 @@
+{
+  "type": "category",
+  "chapterCode": "XX",
+  "chapter": "External causes of morbidity and mortality",
+  "blockCode": "X85-Y09",
+  "block": "Assault",
+  "categoryCode": "Y03",
+  "category": "Assault by crashing of motor vehicle",
+  "subcategory": "",
+  "title": "Assault by crashing of motor vehicle",
+  "inclusion": [
+    "homicide",
+    "injuries inflicted by another person with intent to injure or kill, by any means",
+    "deliberately hitting or running over with motor vehicle"
+  ],
+  "exclusion": [
+    "injuries due to: legal intervention",
+    "injuries due to: operations of war"
+  ],
+  "children": null
+}

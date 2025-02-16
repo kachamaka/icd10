@@ -1,0 +1,34 @@
+{
+    "icd10code": "G63.2",
+    "type": "subcategory",
+    "title": "Diabetic polyneuropathy",
+    "chapter": "Diseases of the nervous system",
+    "chapterCode": "VI",
+    "block": "Polyneuropathies and other disorders of the peripheral nervous system",
+    "blockCode": "G60-G64",
+    "category": "Polyneuropathy in diseases classified elsewhere",
+    "categoryCode": "G63",
+    "subcategory": "G63.2",
+    "inclusion": null,
+    "exclusion": [
+        "certain conditions originating in the perinatal period",
+        "certain infectious and parasitic diseases",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "neuralgia NOS",
+        "neuritis NOS",
+        "peripheral neuritis in pregnancy",
+        "radiculitis NOS"
+    ],
+    "symptoms": [
+        "numbness",
+        "tingling",
+        "weakness",
+        "burning pain",
+        "loss of reflexes"
+    ]
+}

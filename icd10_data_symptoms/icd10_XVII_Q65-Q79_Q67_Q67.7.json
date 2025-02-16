@@ -1,0 +1,27 @@
+{
+    "icd10code": "Q67.7",
+    "type": "subcategory",
+    "title": "Pectus carinatum",
+    "chapter": "Congenital malformations, deformations and chromosomal abnormalities",
+    "chapterCode": "XVII",
+    "block": "Congenital malformations and deformations of the musculoskeletal system",
+    "blockCode": "Q65-Q79",
+    "category": "Congenital musculoskeletal deformities of head, face, spine and chest",
+    "categoryCode": "Q67",
+    "subcategory": "Q67.7",
+    "inclusion": [
+        "Congenital pigeon chest"
+    ],
+    "exclusion": [
+        "inborn errors of metabolism",
+        "congenital malformation syndromes classified to Q87.-",
+        "Potter syndrome"
+    ],
+    "symptoms": [
+        "abnormal head shape",
+        "cranial asymmetry",
+        "plagiocephaly",
+        "flattened skull",
+        "misshapen cranium"
+    ]
+}

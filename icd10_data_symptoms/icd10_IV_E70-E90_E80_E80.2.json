@@ -1,0 +1,36 @@
+{
+    "icd10code": "E80.2",
+    "type": "subcategory",
+    "title": "Other porphyria",
+    "chapter": "Endocrine, nutritional and metabolic diseases",
+    "chapterCode": "IV",
+    "block": "Metabolic disorders",
+    "blockCode": "E70-E90",
+    "category": "Disorders of porphyrin and bilirubin metabolism",
+    "categoryCode": "E80",
+    "subcategory": "E80.2",
+    "inclusion": [
+        "defects of catalase and peroxidase",
+        "Hereditary coproporphyria",
+        "Porphyria: NOS",
+        "Porphyria: acute intermittent (hepatic)"
+    ],
+    "exclusion": [
+        "complications of pregnancy, childbirth and the puerperium",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "transitory endocrine and metabolic disorders specific to fetus and newborn",
+        "androgen resistance syndrome",
+        "congenital adrenal hyperplasia",
+        "Ehlers-Danlos syndrome",
+        "haemolytic anaemias due to enzyme disorders",
+        "Marfan syndrome",
+        "5-alpha-reductase deficiency"
+    ],
+    "symptoms": [
+        "jaundice",
+        "dark urine",
+        "pale stools",
+        "abdominal pain",
+        "pruritus (itchy skin)"
+    ]
+}

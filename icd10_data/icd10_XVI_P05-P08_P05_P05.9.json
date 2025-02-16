@@ -1,0 +1,24 @@
+{
+  "type": "subcategory",
+  "chapterCode": "XVI",
+  "chapter": "Certain conditions originating in the perinatal period",
+  "blockCode": "P05-P08",
+  "block": "Disorders related to length of gestation and fetal growth",
+  "categoryCode": "P05",
+  "category": "Slow fetal growth and fetal malnutrition",
+  "subcategory": "P05.9",
+  "title": "Slow fetal growth, unspecified",
+  "inclusion": [
+    "conditions that have their origin in the perinatal period even though death or morbidity occurs later",
+    "Fetal growth retardation NOS"
+  ],
+  "exclusion": [
+    "congenital malformations, deformations and chromosomal abnormalities",
+    "endocrine, nutritional and metabolic diseases",
+    "injury, poisoning and certain other consequences of external causes",
+    "neoplasms",
+    "tetanus neonatorum",
+    "whooping cough"
+  ],
+  "children": null
+}

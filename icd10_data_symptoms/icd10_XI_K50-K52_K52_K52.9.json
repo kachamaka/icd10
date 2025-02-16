@@ -1,0 +1,46 @@
+{
+    "icd10code": "K52.9",
+    "type": "subcategory",
+    "title": "Noninfective gastroenteritis and colitis, unspecified",
+    "chapter": "Diseases of the digestive system",
+    "chapterCode": "XI",
+    "block": "Noninfective enteritis and colitis",
+    "blockCode": "K50-K52",
+    "category": "Other noninfective gastroenteritis and colitis",
+    "categoryCode": "K52",
+    "subcategory": "K52.9",
+    "inclusion": [
+        "noninfective inflammatory bowel disease",
+        "Diarrhoea specified as noninfectious",
+        "Enteritis specified as noninfectious",
+        "Ileitis specified as noninfectious",
+        "Jejunitis specified as noninfectious",
+        "Sigmoiditis specified as noninfectious"
+    ],
+    "exclusion": [
+        "certain conditions originating in the perinatal period",
+        "certain infectious and parasitic diseases",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "irritable bowel syndrome",
+        "megacolon",
+        "colitis, diarrhoea, enteritis, gastroenteritis: infectious",
+        "colitis, diarrhoea, enteritis, gastroenteritis: unspecified origin",
+        "functional diarrhoea",
+        "neonatal diarrhoea: infectious",
+        "neonatal diarrhoea: noninfective",
+        "neonatal diarrhoea: NOS",
+        "psychogenic diarrhoea"
+    ],
+    "symptoms": [
+        "abdominal pain",
+        "diarrhea",
+        "nausea",
+        "vomiting",
+        "fatigue"
+    ]
+}

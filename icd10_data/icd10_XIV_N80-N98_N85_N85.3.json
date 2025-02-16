@@ -1,0 +1,29 @@
+{
+  "type": "subcategory",
+  "chapterCode": "XIV",
+  "chapter": "Diseases of the genitourinary system",
+  "blockCode": "N80-N98",
+  "block": "Noninflammatory disorders of female genital tract",
+  "categoryCode": "N85",
+  "category": "Other noninflammatory disorders of uterus, except cervix",
+  "subcategory": "N85.3",
+  "title": "Subinvolution of uterus",
+  "inclusion": null,
+  "exclusion": [
+    "certain conditions originating in the perinatal period",
+    "certain infectious and parasitic diseases",
+    "complications of pregnancy, childbirth and the puerperium",
+    "congenital malformations, deformations and chromosomal abnormalities",
+    "endocrine, nutritional and metabolic diseases",
+    "injury, poisoning and certain other consequences of external causes",
+    "neoplasms",
+    "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+    "endometriosis",
+    "inflammatory diseases of uterus",
+    "noninflammatory disorders of cervix except malposition",
+    "polyp of corpus uteri",
+    "uterine prolapse",
+    "puerperal subinvolution of uterus"
+  ],
+  "children": null
+}

@@ -1,0 +1,53 @@
+{
+    "icd10code": "F45.3",
+    "type": "subcategory",
+    "title": "Somatoform autonomic dysfunction",
+    "chapter": "Mental and behavioural disorders",
+    "chapterCode": "V",
+    "block": "Neurotic, stress-related and somatoform disorders",
+    "blockCode": "F40-F48",
+    "category": "Somatoform disorders",
+    "categoryCode": "F45",
+    "subcategory": "F45.3",
+    "inclusion": [
+        "disorders of psychological development",
+        "Cardiac neurosis",
+        "Da Costa syndrome",
+        "Gastric neurosis",
+        "Neurocirculatory asthenia",
+        "Psychogenic forms of: aerophagy",
+        "Psychogenic forms of: cough",
+        "Psychogenic forms of: diarrhoea",
+        "Psychogenic forms of: dyspepsia",
+        "Psychogenic forms of: dysuria",
+        "Psychogenic forms of: flatulence",
+        "Psychogenic forms of: hiccough",
+        "Psychogenic forms of: hyperventilation",
+        "Psychogenic forms of: increased frequency of micturition",
+        "Psychogenic forms of: irritable bowel syndrome",
+        "Psychogenic forms of: pylorospasm"
+    ],
+    "exclusion": [
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "when associated with conduct disorder in F91.-",
+        "dissociative disorders",
+        "hair-plucking",
+        "lalling",
+        "lisping",
+        "nail-biting",
+        "psychological or behavioural factors associated with disorders or diseases classified elsewhere",
+        "sexual dysfunction, not caused by organic disorder or disease",
+        "thumb-sucking",
+        "tic disorders (in childhood and adolescence)",
+        "Tourette syndrome",
+        "trichotillomania",
+        "psychological and behavioural factors associated with disorders or diseases classified elsewhere"
+    ],
+    "symptoms": [
+        "headache",
+        "abdominal pain",
+        "fatigue",
+        "palpitations",
+        "dizziness"
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "icd10code": "Z71.1",
+    "type": "subcategory",
+    "title": "Person with feared complaint in whom no diagnosis is made",
+    "chapter": "Factors influencing health status and contact with health services",
+    "chapterCode": "XXI",
+    "block": "Persons encountering health services in other circumstances",
+    "blockCode": "Z70-Z76",
+    "category": "Persons encountering health services for other counselling and medical advice, not elsewhere classified",
+    "categoryCode": "Z71",
+    "subcategory": "Z71.1",
+    "inclusion": [
+        "Feared condition not demonstrated",
+        "Problem was normal state",
+        "\"Worried well\""
+    ],
+    "exclusion": [
+        "contraceptive or procreation counselling",
+        "sex counselling",
+        "medical observation and evaluation for suspected diseases and conditions"
+    ],
+    "symptoms": [
+        "asymptomatic"
+    ]
+}

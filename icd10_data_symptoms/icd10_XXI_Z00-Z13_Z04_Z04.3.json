@@ -1,0 +1,25 @@
+{
+    "icd10code": "Z04.3",
+    "type": "subcategory",
+    "title": "Examination and observation following other accident",
+    "chapter": "Factors influencing health status and contact with health services",
+    "chapterCode": "XXI",
+    "block": "Persons encountering health services for examination and investigation",
+    "blockCode": "Z00-Z13",
+    "category": "Examination and observation for other reasons",
+    "categoryCode": "Z04",
+    "subcategory": "Z04.3",
+    "inclusion": [
+        "examination for medicolegal reasons"
+    ],
+    "exclusion": [
+        "examinations related to pregnancy and reproduction"
+    ],
+    "symptoms": [
+        "exposure to assault",
+        "observation for injury",
+        "trauma",
+        "evaluation for suspected abuse",
+        "concern for safety"
+    ]
+}

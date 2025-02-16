@@ -1,0 +1,29 @@
+{
+  "type": "subcategory",
+  "chapterCode": "XIX",
+  "chapter": "Injury, poisoning and certain other consequences of external causes",
+  "blockCode": "T08-T14",
+  "block": "Injuries to unspecified part of trunk, limb or body region",
+  "categoryCode": "T13",
+  "category": "Other injuries of lower limb, level unspecified",
+  "subcategory": "T13.3",
+  "title": "Injury of unspecified nerve of lower limb, level unspecified",
+  "inclusion": null,
+  "exclusion": [
+    "birth trauma",
+    "obstetric trauma",
+    "malunion of fracture",
+    "nonunion of fracture [pseudarthrosis]",
+    "pathological fracture",
+    "pathological fracture with osteoporosis",
+    "stress fracture",
+    "burns and corrosions",
+    "frostbite",
+    "injuries involving multiple body regions",
+    "insect bite or sting, venomous",
+    "injuries involving multiple body regions",
+    "multiple: open wounds NOS",
+    "multiple: traumatic amputations NOS"
+  ],
+  "children": null
+}

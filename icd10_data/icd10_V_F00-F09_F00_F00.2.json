@@ -1,0 +1,19 @@
+{
+  "type": "subcategory",
+  "chapterCode": "V",
+  "chapter": "Mental and behavioural disorders",
+  "blockCode": "F00-F09",
+  "block": "Organic, including symptomatic, mental disorders",
+  "categoryCode": "F00",
+  "category": "Dementia in Alzheimer disease",
+  "subcategory": "F00.2",
+  "title": "Dementia in Alzheimer disease, atypical or mixed type",
+  "inclusion": [
+    "disorders of psychological development",
+    "Atypical dementia, Alzheimer type"
+  ],
+  "exclusion": [
+    "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified"
+  ],
+  "children": null
+}

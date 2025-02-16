@@ -1,0 +1,19 @@
+{
+    "icd10code": "W83",
+    "type": "category",
+    "title": "Other specified threats to breathing",
+    "chapter": "External causes of morbidity and mortality",
+    "chapterCode": "XX",
+    "block": "Other accidental threats to breathing",
+    "blockCode": "W75-W84",
+    "category": "Other specified threats to breathing",
+    "categoryCode": "W83",
+    "subcategory": "",
+    "inclusion": [
+        "suffocation by plastic bag"
+    ],
+    "exclusion": null,
+    "symptoms": [
+        "asymptomatic"
+    ]
+}

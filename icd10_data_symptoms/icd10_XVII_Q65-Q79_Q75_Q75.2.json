@@ -1,0 +1,31 @@
+{
+    "icd10code": "Q75.2",
+    "type": "subcategory",
+    "title": "Hypertelorism",
+    "chapter": "Congenital malformations, deformations and chromosomal abnormalities",
+    "chapterCode": "XVII",
+    "block": "Congenital malformations and deformations of the musculoskeletal system",
+    "blockCode": "Q65-Q79",
+    "category": "Other congenital malformations of skull and face bones",
+    "categoryCode": "Q75",
+    "subcategory": "Q75.2",
+    "inclusion": null,
+    "exclusion": [
+        "inborn errors of metabolism",
+        "congenital malformation of face NOS",
+        "congenital malformation syndromes classified to Q87.-",
+        "dentofacial anomalies [including malocclusion]",
+        "musculoskeletal deformities of head and face",
+        "skull defects associated with congenital anomalies of brain such as: anencephaly",
+        "skull defects associated with congenital anomalies of brain such as: encephalocele",
+        "skull defects associated with congenital anomalies of brain such as: hydrocephalus",
+        "skull defects associated with congenital anomalies of brain such as: microcephaly"
+    ],
+    "symptoms": [
+        "facial asymmetry",
+        "abnormal skull shape",
+        "irregular eye spacing",
+        "underdeveloped jaw",
+        "fused cranial sutures"
+    ]
+}

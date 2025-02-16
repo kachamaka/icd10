@@ -1,0 +1,36 @@
+{
+    "icd10code": "O44.1",
+    "type": "subcategory",
+    "title": "Placenta praevia with haemorrhage",
+    "chapter": "Pregnancy, childbirth and the puerperium",
+    "chapterCode": "XV",
+    "block": "Maternal care related to the fetus and amniotic cavity and possible delivery problems",
+    "blockCode": "O30-O48",
+    "category": "Placenta praevia",
+    "categoryCode": "O44",
+    "subcategory": "O44.1",
+    "inclusion": [
+        "Low implantation of placenta, NOS or with haemorrhage",
+        "Placenta praevia: marginal NOS or with haemorrhage",
+        "Placenta praevia: partial NOS or with haemorrhage",
+        "Placenta praevia: total NOS or with haemorrhage"
+    ],
+    "exclusion": [
+        "Certain diseases or injuries complicating pregnancy, childbirth and the puerperium classified elsewhere: external causes (for mortality)",
+        "Certain diseases or injuries complicating pregnancy, childbirth and the puerperium classified elsewhere: injury, poisoning and certain other consequences of external cause",
+        "Certain diseases or injuries complicating pregnancy, childbirth and the puerperium classified elsewhere: mental and behavioural disorders associated with the puerperium",
+        "Certain diseases or injuries complicating pregnancy, childbirth and the puerperium classified elsewhere: obstetrical tetanus",
+        "Certain diseases or injuries complicating pregnancy, childbirth and the puerperium classified elsewhere: postpartum necrosis of pituitary gland",
+        "Certain diseases or injuries complicating pregnancy, childbirth and the puerperium classified elsewhere: puerperal osteomalacia",
+        "supervision of: high-risk pregnancy",
+        "supervision of: normal pregnancy",
+        "labour and delivery complicated by haemorrhage from vasa praevia"
+    ],
+    "symptoms": [
+        "antepartum bleeding",
+        "abdominal pain",
+        "uterine contractions",
+        "dizziness",
+        "fetal distress"
+    ]
+}

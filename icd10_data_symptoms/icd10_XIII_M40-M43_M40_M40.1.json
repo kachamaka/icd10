@@ -1,0 +1,35 @@
+{
+    "icd10code": "M40.1",
+    "type": "subcategory",
+    "title": "Other secondary kyphosis",
+    "chapter": "Diseases of the musculoskeletal system and connective tissue",
+    "chapterCode": "XIII",
+    "block": "Deforming dorsopathies",
+    "blockCode": "M40-M43",
+    "category": "Kyphosis and lordosis",
+    "categoryCode": "M40",
+    "subcategory": "M40.1",
+    "inclusion": null,
+    "exclusion": [
+        "certain conditions originating in the perinatal period",
+        "certain disorders of the temporomandibular joint",
+        "certain infectious and parasitic diseases",
+        "compartment syndrome",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "collapsed vertebra in osteoporosis",
+        "neuropathic spondylopathy in tabes dorsalis",
+        "adult-onset Still disease"
+    ],
+    "symptoms": [
+        "postural abnormality",
+        "back pain",
+        "reduced mobility",
+        "spinal curvature",
+        "muscle fatigue"
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "icd10code": "C11.3",
+    "type": "subcategory",
+    "title": "Malignant neoplasm: Anterior wall of nasopharynx",
+    "chapter": "Neoplasms",
+    "chapterCode": "II",
+    "block": "Malignant neoplasms of lip, oral cavity and pharynx",
+    "blockCode": "C00-C14",
+    "category": "Malignant neoplasm of nasopharynx",
+    "categoryCode": "C11",
+    "subcategory": "C11.3",
+    "inclusion": [
+        "Floor of nasopharynx",
+        "Nasopharyngeal (anterior)(posterior) surface of soft palate",
+        "Posterior margin of nasal: choana",
+        "Posterior margin of nasal: septum"
+    ],
+    "exclusion": null,
+    "symptoms": [
+        "swelling in the nose or face",
+        "reduced nasal airflow",
+        "bloody nasal discharge",
+        "nasal obstruction",
+        "facial pain or pressure"
+    ]
+}

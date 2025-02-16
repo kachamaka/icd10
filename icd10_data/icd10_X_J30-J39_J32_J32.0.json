@@ -1,0 +1,31 @@
+{
+  "type": "subcategory",
+  "chapterCode": "X",
+  "chapter": "Diseases of the respiratory system",
+  "blockCode": "J30-J39",
+  "block": "Other diseases of upper respiratory tract",
+  "categoryCode": "J32",
+  "category": "Chronic sinusitis",
+  "subcategory": "J32.0",
+  "title": "Chronic maxillary sinusitis",
+  "inclusion": [
+    "abscess (chronic) of sinus (accessory)(nasal)",
+    "empyema (chronic) of sinus (accessory)(nasal)",
+    "infection (chronic) of sinus (accessory)(nasal)",
+    "suppuration (chronic) of sinus (accessory)(nasal)",
+    "Antritis (chronic)",
+    "Maxillary sinusitis NOS"
+  ],
+  "exclusion": [
+    "certain conditions originating in the perinatal period",
+    "certain infectious and parasitic diseases",
+    "complications of pregnancy, childbirth and the puerperium",
+    "congenital malformations, deformations and chromosomal abnormalities",
+    "endocrine, nutritional and metabolic diseases",
+    "injury, poisoning and certain other consequences of external causes",
+    "neoplasms",
+    "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+    "acute sinusitis"
+  ],
+  "children": null
+}

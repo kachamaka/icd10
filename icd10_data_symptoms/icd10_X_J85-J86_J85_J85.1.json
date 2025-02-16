@@ -1,0 +1,31 @@
+{
+    "icd10code": "J85.1",
+    "type": "subcategory",
+    "title": "Abscess of lung with pneumonia",
+    "chapter": "Diseases of the respiratory system",
+    "chapterCode": "X",
+    "block": "Suppurative and necrotic conditions of lower respiratory tract",
+    "blockCode": "J85-J86",
+    "category": "Abscess of lung and mediastinum",
+    "categoryCode": "J85",
+    "subcategory": "J85.1",
+    "inclusion": null,
+    "exclusion": [
+        "certain conditions originating in the perinatal period",
+        "certain infectious and parasitic diseases",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "with pneumonia due to specified organism"
+    ],
+    "symptoms": [
+        "fever",
+        "cough",
+        "chest pain",
+        "weight loss",
+        "dyspnea"
+    ]
+}

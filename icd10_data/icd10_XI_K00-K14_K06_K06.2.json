@@ -1,0 +1,29 @@
+{
+  "type": "subcategory",
+  "chapterCode": "XI",
+  "chapter": "Diseases of the digestive system",
+  "blockCode": "K00-K14",
+  "block": "Diseases of oral cavity, salivary glands and jaws",
+  "categoryCode": "K06",
+  "category": "Other disorders of gingiva and edentulous alveolar ridge",
+  "subcategory": "K06.2",
+  "title": "Gingival and edentulous alveolar ridge lesions associated with trauma",
+  "inclusion": [
+    "Irritative hyperplasia of edentulous ridge [denture hyperplasia]"
+  ],
+  "exclusion": [
+    "certain conditions originating in the perinatal period",
+    "certain infectious and parasitic diseases",
+    "complications of pregnancy, childbirth and the puerperium",
+    "congenital malformations, deformations and chromosomal abnormalities",
+    "endocrine, nutritional and metabolic diseases",
+    "injury, poisoning and certain other consequences of external causes",
+    "neoplasms",
+    "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+    "atrophy of edentulous alveolar ridge",
+    "gingivitis: NOS",
+    "gingivitis: acute",
+    "gingivitis: chronic"
+  ],
+  "children": null
+}

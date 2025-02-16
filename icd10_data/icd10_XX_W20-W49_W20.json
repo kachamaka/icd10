@@ -1,0 +1,31 @@
+{
+  "type": "category",
+  "chapterCode": "XX",
+  "chapter": "External causes of morbidity and mortality",
+  "blockCode": "W20-W49",
+  "block": "Exposure to inanimate mechanical forces",
+  "categoryCode": "W20",
+  "category": "Struck by thrown, projected or falling object(s)",
+  "subcategory": "",
+  "title": "Struck by thrown, projected or falling object(s)",
+  "inclusion": [
+    "cave-in without asphyxiation or suffocation",
+    "collapse of building, except on fire",
+    "falling: rock",
+    "falling: stone",
+    "falling: tree"
+  ],
+  "exclusion": [
+    "assault",
+    "contact or collision with animals or persons",
+    "intentional self-harm",
+    "collapse of burning building",
+    "falling object in: cataclysm",
+    "falling object in: machinery accident",
+    "falling object in: transport accident",
+    "object set in motion by: explosion",
+    "object set in motion by: firearm",
+    "sports equipment"
+  ],
+  "children": null
+}

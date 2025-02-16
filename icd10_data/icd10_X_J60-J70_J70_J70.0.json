@@ -1,0 +1,26 @@
+{
+  "type": "subcategory",
+  "chapterCode": "X",
+  "chapter": "Diseases of the respiratory system",
+  "blockCode": "J60-J70",
+  "block": "Lung diseases due to external agents",
+  "categoryCode": "J70",
+  "category": "Respiratory conditions due to other external agents",
+  "subcategory": "J70.0",
+  "title": "Acute pulmonary manifestations due to radiation",
+  "inclusion": [
+    "Radiation pneumonitis"
+  ],
+  "exclusion": [
+    "certain conditions originating in the perinatal period",
+    "certain infectious and parasitic diseases",
+    "complications of pregnancy, childbirth and the puerperium",
+    "congenital malformations, deformations and chromosomal abnormalities",
+    "endocrine, nutritional and metabolic diseases",
+    "injury, poisoning and certain other consequences of external causes",
+    "neoplasms",
+    "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+    "asthma classified to J45.-"
+  ],
+  "children": null
+}

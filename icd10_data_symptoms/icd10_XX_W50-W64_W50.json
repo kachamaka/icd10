@@ -1,0 +1,26 @@
+{
+    "icd10code": "W50",
+    "type": "category",
+    "title": "Hit, struck, kicked, twisted, bitten or scratched by another person",
+    "chapter": "External causes of morbidity and mortality",
+    "chapterCode": "XX",
+    "block": "Exposure to animate mechanical forces",
+    "blockCode": "W50-W64",
+    "category": "Hit, struck, kicked, twisted, bitten or scratched by another person",
+    "categoryCode": "W50",
+    "subcategory": "",
+    "inclusion": null,
+    "exclusion": [
+        "bites, venomous",
+        "stings (venomous)",
+        "assault",
+        "struck by objects"
+    ],
+    "symptoms": [
+        "bruising",
+        "swelling",
+        "pain",
+        "laceration",
+        "tenderness"
+    ]
+}

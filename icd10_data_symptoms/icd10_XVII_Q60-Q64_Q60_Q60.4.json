@@ -1,0 +1,27 @@
+{
+    "icd10code": "Q60.4",
+    "type": "subcategory",
+    "title": "Renal hypoplasia, bilateral",
+    "chapter": "Congenital malformations, deformations and chromosomal abnormalities",
+    "chapterCode": "XVII",
+    "block": "Congenital malformations of the urinary system",
+    "blockCode": "Q60-Q64",
+    "category": "Renal agenesis and other reduction defects of kidney",
+    "categoryCode": "Q60",
+    "subcategory": "Q60.4",
+    "inclusion": [
+        "atrophy of kidney: congenital",
+        "atrophy of kidney: infantile",
+        "congenital absence of kidney"
+    ],
+    "exclusion": [
+        "inborn errors of metabolism"
+    ],
+    "symptoms": [
+        "absent or malformed kidneys",
+        "low amniotic fluid levels",
+        "underdeveloped lungs",
+        "facial abnormalities",
+        "limb deformities"
+    ]
+}

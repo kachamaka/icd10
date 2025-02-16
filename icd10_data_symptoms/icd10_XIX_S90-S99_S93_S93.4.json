@@ -1,0 +1,42 @@
+{
+    "icd10code": "S93.4",
+    "type": "subcategory",
+    "title": "Sprain and strain of ankle",
+    "chapter": "Injury, poisoning and certain other consequences of external causes",
+    "chapterCode": "XIX",
+    "block": "Injuries to the ankle and foot",
+    "blockCode": "S90-S99",
+    "category": "Dislocation, sprain and strain of joints and ligaments at ankle and foot level",
+    "categoryCode": "S93",
+    "subcategory": "S93.4",
+    "inclusion": [
+        "Calcaneofibular (ligament)",
+        "Deltoid (ligament)",
+        "Internal collateral (ligament)",
+        "Talofibular (ligament)",
+        "Tibiofibular (ligament), distal"
+    ],
+    "exclusion": [
+        "birth trauma",
+        "obstetric trauma",
+        "malunion of fracture",
+        "nonunion of fracture [pseudarthrosis]",
+        "pathological fracture",
+        "pathological fracture with osteoporosis",
+        "stress fracture",
+        "bilateral involvement of ankle and foot",
+        "burns and corrosions",
+        "fracture of ankle and malleolus",
+        "frostbite",
+        "injuries of leg, level unspecified",
+        "insect bite or sting, venomous",
+        "injury of Achilles tendon"
+    ],
+    "symptoms": [
+        "pain",
+        "swelling",
+        "bruising",
+        "instability",
+        "difficulty walking"
+    ]
+}

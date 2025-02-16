@@ -1,0 +1,37 @@
+{
+    "icd10code": "G11.3",
+    "type": "subcategory",
+    "title": "Cerebellar ataxia with defective DNA repair",
+    "chapter": "Diseases of the nervous system",
+    "chapterCode": "VI",
+    "block": "Systemic atrophies primarily affecting the central nervous system",
+    "blockCode": "G10-G14",
+    "category": "Hereditary ataxia",
+    "categoryCode": "G11",
+    "subcategory": "G11.3",
+    "inclusion": [
+        "Ataxia telangiectasia [Louis-Bar]"
+    ],
+    "exclusion": [
+        "certain conditions originating in the perinatal period",
+        "certain infectious and parasitic diseases",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "cerebral palsy",
+        "hereditary and idiopathic neuropathy",
+        "metabolic disorders",
+        "Cockayne syndrome",
+        "xeroderma pigmentosum"
+    ],
+    "symptoms": [
+        "impaired coordination",
+        "speech difficulties",
+        "unsteady gait",
+        "muscle weakness",
+        "balance problems"
+    ]
+}

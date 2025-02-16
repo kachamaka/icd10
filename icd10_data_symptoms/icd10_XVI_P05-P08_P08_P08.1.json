@@ -1,0 +1,35 @@
+{
+    "icd10code": "P08.1",
+    "type": "subcategory",
+    "title": "Other heavy for gestational age infants",
+    "chapter": "Certain conditions originating in the perinatal period",
+    "chapterCode": "XVI",
+    "block": "Disorders related to length of gestation and fetal growth",
+    "blockCode": "P05-P08",
+    "category": "Disorders related to long gestation and high birth weight",
+    "categoryCode": "P08",
+    "subcategory": "P08.1",
+    "inclusion": [
+        "conditions that have their origin in the perinatal period even though death or morbidity occurs later",
+        "the listed conditions, without further specification, as causes of mortality, morbidity or additional care, in fetus or newborn",
+        "Other fetus or infant heavy- or large-for-dates regardless of period of gestation."
+    ],
+    "exclusion": [
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "tetanus neonatorum",
+        "whooping cough",
+        "syndrome of infant of: diabetic mother",
+        "syndrome of infant of: mother with gestational diabetes",
+        "syndrome of infant of: Birth weight of 4500 g or more"
+    ],
+    "symptoms": [
+        "respiratory distress",
+        "low birth weight",
+        "difficulty feeding",
+        "hypothermia",
+        "jaundice"
+    ]
+}

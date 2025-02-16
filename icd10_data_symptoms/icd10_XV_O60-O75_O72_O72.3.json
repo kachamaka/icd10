@@ -1,0 +1,34 @@
+{
+    "icd10code": "O72.3",
+    "type": "subcategory",
+    "title": "Postpartum coagulation defects",
+    "chapter": "Pregnancy, childbirth and the puerperium",
+    "chapterCode": "XV",
+    "block": "Complications of labour and delivery",
+    "blockCode": "O60-O75",
+    "category": "Postpartum haemorrhage",
+    "categoryCode": "O72",
+    "subcategory": "O72.3",
+    "inclusion": [
+        "haemorrhage after delivery of fetus or infant",
+        "Postpartum: afibrinogenaemia",
+        "Postpartum: fibrinolysis"
+    ],
+    "exclusion": [
+        "Certain diseases or injuries complicating pregnancy, childbirth and the puerperium classified elsewhere: external causes (for mortality)",
+        "Certain diseases or injuries complicating pregnancy, childbirth and the puerperium classified elsewhere: injury, poisoning and certain other consequences of external cause",
+        "Certain diseases or injuries complicating pregnancy, childbirth and the puerperium classified elsewhere: mental and behavioural disorders associated with the puerperium",
+        "Certain diseases or injuries complicating pregnancy, childbirth and the puerperium classified elsewhere: obstetrical tetanus",
+        "Certain diseases or injuries complicating pregnancy, childbirth and the puerperium classified elsewhere: postpartum necrosis of pituitary gland",
+        "Certain diseases or injuries complicating pregnancy, childbirth and the puerperium classified elsewhere: puerperal osteomalacia",
+        "supervision of: high-risk pregnancy",
+        "supervision of: normal pregnancy"
+    ],
+    "symptoms": [
+        "lightheadedness",
+        "fainting",
+        "dizziness",
+        "fatigue",
+        "rapid heartbeat"
+    ]
+}

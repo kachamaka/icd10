@@ -1,0 +1,30 @@
+{
+    "icd10code": "G46.2",
+    "type": "subcategory",
+    "title": "Posterior cerebral artery syndrome",
+    "chapter": "Diseases of the nervous system",
+    "chapterCode": "VI",
+    "block": "Episodic and paroxysmal disorders",
+    "blockCode": "G40-G47",
+    "category": "Vascular syndromes of brain in cerebrovascular diseases",
+    "categoryCode": "G46",
+    "subcategory": "G46.2",
+    "inclusion": null,
+    "exclusion": [
+        "certain conditions originating in the perinatal period",
+        "certain infectious and parasitic diseases",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified"
+    ],
+    "symptoms": [
+        "dizziness",
+        "ataxia",
+        "headache",
+        "nausea",
+        "impaired coordination"
+    ]
+}

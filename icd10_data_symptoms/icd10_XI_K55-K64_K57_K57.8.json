@@ -1,0 +1,38 @@
+{
+    "icd10code": "K57.8",
+    "type": "subcategory",
+    "title": "Diverticular disease of intestine, part unspecified, with perforation and abscess",
+    "chapter": "Diseases of the digestive system",
+    "chapterCode": "XI",
+    "block": "Other diseases of intestines",
+    "blockCode": "K55-K64",
+    "category": "Diverticular disease of intestine",
+    "categoryCode": "K57",
+    "subcategory": "K57.8",
+    "inclusion": [
+        "diverticulitis of (small)(large) intestine",
+        "diverticulosis of (small)(large) intestine",
+        "diverticulum of (small)(large) intestine",
+        "Diverticular disease of intestine NOS with peritonitis"
+    ],
+    "exclusion": [
+        "certain conditions originating in the perinatal period",
+        "certain infectious and parasitic diseases",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "congenital diverticulum of intestine",
+        "diverticulum of appendix",
+        "Meckel diverticulum"
+    ],
+    "symptoms": [
+        "abdominal pain",
+        "bloating",
+        "diarrhea",
+        "rectal bleeding",
+        "changes in bowel habits"
+    ]
+}

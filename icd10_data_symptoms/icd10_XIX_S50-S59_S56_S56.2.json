@@ -1,0 +1,36 @@
+{
+    "icd10code": "S56.2",
+    "type": "subcategory",
+    "title": "Injury of other flexor muscle and tendon at forearm level",
+    "chapter": "Injury, poisoning and certain other consequences of external causes",
+    "chapterCode": "XIX",
+    "block": "Injuries to the elbow and forearm",
+    "blockCode": "S50-S59",
+    "category": "Injury of muscle and tendon at forearm level",
+    "categoryCode": "S56",
+    "subcategory": "S56.2",
+    "inclusion": null,
+    "exclusion": [
+        "birth trauma",
+        "obstetric trauma",
+        "malunion of fracture",
+        "nonunion of fracture [pseudarthrosis]",
+        "pathological fracture",
+        "pathological fracture with osteoporosis",
+        "stress fracture",
+        "bilateral involvement of elbow and forearm",
+        "burns and corrosions",
+        "frostbite",
+        "injuries of: arm, level unspecified",
+        "injuries of: wrist and hand",
+        "insect bite or sting, venomous",
+        "Monteggia fracture-dislocation"
+    ],
+    "symptoms": [
+        "pain in forearm",
+        "swelling",
+        "limited range of motion",
+        "weakness in hand grip",
+        "tenderness at the injury site"
+    ]
+}

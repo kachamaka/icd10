@@ -1,0 +1,34 @@
+{
+    "icd10code": "G40.7",
+    "type": "subcategory",
+    "title": "Petit mal, unspecified, without grand mal seizures",
+    "chapter": "Diseases of the nervous system",
+    "chapterCode": "VI",
+    "block": "Episodic and paroxysmal disorders",
+    "blockCode": "G40-G47",
+    "category": "Epilepsy",
+    "categoryCode": "G40",
+    "subcategory": "G40.7",
+    "inclusion": null,
+    "exclusion": [
+        "certain conditions originating in the perinatal period",
+        "certain infectious and parasitic diseases",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "Landau-Kleffner syndrome",
+        "seizure (convulsive) NOS",
+        "status epilepticus",
+        "Todd paralysis"
+    ],
+    "symptoms": [
+        "altered consciousness",
+        "muscle stiffness",
+        "brief paralysis",
+        "memory loss",
+        "confusion"
+    ]
+}

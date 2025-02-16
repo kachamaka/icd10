@@ -1,0 +1,27 @@
+{
+    "icd10code": "Q63.2",
+    "type": "subcategory",
+    "title": "Ectopic kidney",
+    "chapter": "Congenital malformations, deformations and chromosomal abnormalities",
+    "chapterCode": "XVII",
+    "block": "Congenital malformations of the urinary system",
+    "blockCode": "Q60-Q64",
+    "category": "Other congenital malformations of kidney",
+    "categoryCode": "Q63",
+    "subcategory": "Q63.2",
+    "inclusion": [
+        "Congenital displaced kidney",
+        "Malrotation of kidney"
+    ],
+    "exclusion": [
+        "inborn errors of metabolism",
+        "congenital nephrotic syndrome"
+    ],
+    "symptoms": [
+        "ectopic kidney",
+        "flank pain",
+        "urinary tract infections",
+        "kidney stones",
+        "abdominal mass"
+    ]
+}

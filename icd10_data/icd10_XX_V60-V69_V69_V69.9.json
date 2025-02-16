@@ -1,0 +1,22 @@
+{
+  "type": "subcategory",
+  "chapterCode": "XX",
+  "chapter": "External causes of morbidity and mortality",
+  "blockCode": "V60-V69",
+  "block": "Occupant of heavy transport vehicle injured in transport accident",
+  "categoryCode": "V69",
+  "category": "Occupant of heavy transport vehicle injured in other and unspecified transport accidents",
+  "subcategory": "V69.9",
+  "title": "Occupant [any] of heavy transport vehicle injured in unspecified traffic accident",
+  "inclusion": [
+    "Accident NOS involving heavy transport vehicle"
+  ],
+  "exclusion": [
+    "accidents to persons engaged in the maintenance or repair of transport equipment or vehicle (not in motion) unless injured by another vehicle in motion",
+    "accidents involving vehicles, but unrelated to the hazards associated with the means of transportation, e.g., injuries received in a fight on board ship; transport vehicle involved in a cataclysm; finger crushed when shutting car door",
+    "assault by crashing of motor vehicle",
+    "event of undetermined intent",
+    "intentional self-harm"
+  ],
+  "children": null
+}

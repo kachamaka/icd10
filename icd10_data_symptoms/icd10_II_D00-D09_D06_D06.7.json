@@ -1,0 +1,30 @@
+{
+    "icd10code": "D06.7",
+    "type": "subcategory",
+    "title": "Carcinoma in situ: Other parts of cervix",
+    "chapter": "Neoplasms",
+    "chapterCode": "II",
+    "block": "In situ neoplasms",
+    "blockCode": "D00-D09",
+    "category": "Carcinoma in situ of cervix uteri",
+    "categoryCode": "D06",
+    "subcategory": "D06.7",
+    "inclusion": [
+        "Bowen disease",
+        "erythroplasia",
+        "morphology codes with behaviour code /2",
+        "Queyrat erythroplasia",
+        "cervical intraepithelial neoplasia [CIN], grade III, with or without mention of severe dysplasia"
+    ],
+    "exclusion": [
+        "melanoma in situ of cervix",
+        "severe dysplasia of cervix NOS"
+    ],
+    "symptoms": [
+        "abnormal vaginal bleeding",
+        "pelvic pain",
+        "foul-smelling vaginal discharge",
+        "painful intercourse",
+        "difficulty urinating"
+    ]
+}

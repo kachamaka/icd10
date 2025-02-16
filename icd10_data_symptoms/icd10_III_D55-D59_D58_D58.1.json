@@ -1,0 +1,34 @@
+{
+    "icd10code": "D58.1",
+    "type": "subcategory",
+    "title": "Hereditary elliptocytosis",
+    "chapter": "Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism",
+    "chapterCode": "III",
+    "block": "Haemolytic anaemias",
+    "blockCode": "D55-D59",
+    "category": "Other hereditary haemolytic anaemias",
+    "categoryCode": "D58",
+    "subcategory": "D58.1",
+    "inclusion": [
+        "Elliptocytosis (congenital)",
+        "Ovalocytosis (congenital)(hereditary)"
+    ],
+    "exclusion": [
+        "autoimmune disease (systemic) NOS",
+        "certain conditions originating in the perinatal period",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "human immunodeficiency virus [HIV] disease",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified"
+    ],
+    "symptoms": [
+        "fatigue",
+        "pallor",
+        "shortness of breath",
+        "jaundice",
+        "dizziness"
+    ]
+}

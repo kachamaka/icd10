@@ -1,0 +1,31 @@
+{
+    "icd10code": "T92.4",
+    "type": "subcategory",
+    "title": "Sequelae of injury of nerve of upper limb",
+    "chapter": "Injury, poisoning and certain other consequences of external causes",
+    "chapterCode": "XIX",
+    "block": "Sequelae of injuries, of poisoning and of other consequences of external causes",
+    "blockCode": "T90-T98",
+    "category": "Sequelae of injuries of upper limb",
+    "categoryCode": "T92",
+    "subcategory": "T92.4",
+    "inclusion": [
+        "Sequelae of injury classifiable to S44.-, S54.-, S64.- and T11.3"
+    ],
+    "exclusion": [
+        "birth trauma",
+        "obstetric trauma",
+        "malunion of fracture",
+        "nonunion of fracture [pseudarthrosis]",
+        "pathological fracture",
+        "pathological fracture with osteoporosis",
+        "stress fracture"
+    ],
+    "symptoms": [
+        "scarring",
+        "limited mobility",
+        "chronic pain",
+        "deformity",
+        "functional impairment"
+    ]
+}

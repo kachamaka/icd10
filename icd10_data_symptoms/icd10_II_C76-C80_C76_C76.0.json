@@ -1,0 +1,29 @@
+{
+    "icd10code": "C76.0",
+    "type": "subcategory",
+    "title": "Malignant neoplasm of other and ill-defined sites: Head, face and neck",
+    "chapter": "Neoplasms",
+    "chapterCode": "II",
+    "block": "Malignant neoplasms of ill-defined, secondary and unspecified sites",
+    "blockCode": "C76-C80",
+    "category": "Malignant neoplasm of other and ill-defined sites",
+    "categoryCode": "C76",
+    "subcategory": "C76.0",
+    "inclusion": [
+        "Cheek NOS",
+        "Nose NOS"
+    ],
+    "exclusion": [
+        "malignant neoplasm of: genitourinary tract NOS: female",
+        "malignant neoplasm of: genitourinary tract NOS: male",
+        "malignant neoplasm of: lymphoid, haematopoietic and related tissue",
+        "malignant neoplasm of: unspecified site"
+    ],
+    "symptoms": [
+        "unintentional weight loss",
+        "persistent fatigue",
+        "loss of appetite",
+        "constant pain in a specific area",
+        "unexplained night sweats"
+    ]
+}

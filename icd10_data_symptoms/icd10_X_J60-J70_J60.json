@@ -1,0 +1,36 @@
+{
+    "icd10code": "J60",
+    "type": "category",
+    "title": "Coalworker pneumoconiosis",
+    "chapter": "Diseases of the respiratory system",
+    "chapterCode": "X",
+    "block": "Lung diseases due to external agents",
+    "blockCode": "J60-J70",
+    "category": "Coalworker pneumoconiosis",
+    "categoryCode": "J60",
+    "subcategory": "",
+    "inclusion": [
+        "Anthracosilicosis",
+        "Anthracosis",
+        "Coalworker lung"
+    ],
+    "exclusion": [
+        "certain conditions originating in the perinatal period",
+        "certain infectious and parasitic diseases",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "asthma classified to J45.-",
+        "with tuberculosis in A15-A16"
+    ],
+    "symptoms": [
+        "cough",
+        "shortness of breath",
+        "chest pain",
+        "fatigue",
+        "wheezing"
+    ]
+}

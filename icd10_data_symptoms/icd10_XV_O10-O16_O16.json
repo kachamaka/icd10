@@ -1,0 +1,30 @@
+{
+    "icd10code": "O16",
+    "type": "category",
+    "title": "Unspecified maternal hypertension",
+    "chapter": "Pregnancy, childbirth and the puerperium",
+    "chapterCode": "XV",
+    "block": "Oedema, proteinuria and hypertensive disorders in pregnancy, childbirth and the puerperium",
+    "blockCode": "O10-O16",
+    "category": "Unspecified maternal hypertension",
+    "categoryCode": "O16",
+    "subcategory": "",
+    "inclusion": null,
+    "exclusion": [
+        "Certain diseases or injuries complicating pregnancy, childbirth and the puerperium classified elsewhere: external causes (for mortality)",
+        "Certain diseases or injuries complicating pregnancy, childbirth and the puerperium classified elsewhere: injury, poisoning and certain other consequences of external cause",
+        "Certain diseases or injuries complicating pregnancy, childbirth and the puerperium classified elsewhere: mental and behavioural disorders associated with the puerperium",
+        "Certain diseases or injuries complicating pregnancy, childbirth and the puerperium classified elsewhere: obstetrical tetanus",
+        "Certain diseases or injuries complicating pregnancy, childbirth and the puerperium classified elsewhere: postpartum necrosis of pituitary gland",
+        "Certain diseases or injuries complicating pregnancy, childbirth and the puerperium classified elsewhere: puerperal osteomalacia",
+        "supervision of: high-risk pregnancy",
+        "supervision of: normal pregnancy"
+    ],
+    "symptoms": [
+        "hypertension",
+        "swelling",
+        "headache",
+        "proteinuria",
+        "dizziness"
+    ]
+}

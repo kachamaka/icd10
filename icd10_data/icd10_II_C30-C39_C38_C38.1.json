@@ -1,0 +1,19 @@
+{
+  "type": "subcategory",
+  "chapterCode": "II",
+  "chapter": "Neoplasms",
+  "blockCode": "C30-C39",
+  "block": "Malignant neoplasms of respiratory and intrathoracic organs",
+  "categoryCode": "C38",
+  "category": "Malignant neoplasm of heart, mediastinum and pleura",
+  "subcategory": "C38.1",
+  "title": "Malignant neoplasm: Anterior mediastinum",
+  "inclusion": [
+    "middle ear"
+  ],
+  "exclusion": [
+    "mesothelioma",
+    "mesothelioma"
+  ],
+  "children": null
+}

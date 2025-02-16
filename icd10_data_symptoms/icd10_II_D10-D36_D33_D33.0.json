@@ -1,0 +1,35 @@
+{
+    "icd10code": "D33.0",
+    "type": "subcategory",
+    "title": "Benign neoplasm: Brain, supratentorial",
+    "chapter": "Neoplasms",
+    "chapterCode": "II",
+    "block": "Benign neoplasms",
+    "blockCode": "D10-D36",
+    "category": "Benign neoplasm of brain and other parts of central nervous system",
+    "categoryCode": "D33",
+    "subcategory": "D33.0",
+    "inclusion": [
+        "morphology codes with behaviour code /0",
+        "Cerebral ventricle",
+        "Cerebrum",
+        "Frontal lobe",
+        "Occipital lobe",
+        "Parietal lobe",
+        "Temporal lobe"
+    ],
+    "exclusion": [
+        "angioma",
+        "meninges",
+        "peripheral nerves and autonomic nervous system",
+        "retro-ocular tissue",
+        "fourth ventricle"
+    ],
+    "symptoms": [
+        "headaches",
+        "seizures",
+        "personality changes",
+        "unexplained nausea and vomiting",
+        "progressive loss of sensation or movement in an arm or a leg"
+    ]
+}

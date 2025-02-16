@@ -1,0 +1,24 @@
+{
+  "type": "subcategory",
+  "chapterCode": "XIX",
+  "chapter": "Injury, poisoning and certain other consequences of external causes",
+  "blockCode": "T90-T98",
+  "block": "Sequelae of injuries, of poisoning and of other consequences of external causes",
+  "categoryCode": "T95",
+  "category": "Sequelae of burns, corrosions and frostbite",
+  "subcategory": "T95.4",
+  "title": "Sequelae of burn and corrosion classifiable only according to extent of body surface involved",
+  "inclusion": [
+    "Sequelae of injury classifiable to T31-T32"
+  ],
+  "exclusion": [
+    "birth trauma",
+    "obstetric trauma",
+    "malunion of fracture",
+    "nonunion of fracture [pseudarthrosis]",
+    "pathological fracture",
+    "pathological fracture with osteoporosis",
+    "stress fracture"
+  ],
+  "children": null
+}

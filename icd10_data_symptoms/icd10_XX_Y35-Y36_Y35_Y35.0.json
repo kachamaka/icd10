@@ -1,0 +1,22 @@
+{
+    "icd10code": "Y35.0",
+    "type": "subcategory",
+    "title": "Legal intervention involving firearm discharge",
+    "chapter": "External causes of morbidity and mortality",
+    "chapterCode": "XX",
+    "block": "Legal intervention and operations of war",
+    "blockCode": "Y35-Y36",
+    "category": "Legal intervention",
+    "categoryCode": "Y35",
+    "subcategory": "Y35.0",
+    "inclusion": [
+        "injuries inflicted by the police or other law-enforcing agents, including military on duty, in the course of arresting or attempting to arrest lawbreakers, suppressing disturbances, maintaining order, and other legal action",
+        "Legal intervention with: machine gun",
+        "Legal intervention with: revolver",
+        "Legal intervention with: rifle pellet or rubber bullet"
+    ],
+    "exclusion": null,
+    "symptoms": [
+        "asymptomatic"
+    ]
+}

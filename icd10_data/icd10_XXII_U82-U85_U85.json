@@ -1,0 +1,17 @@
+{
+  "type": "category",
+  "chapterCode": "XXII",
+  "chapter": "Codes for special purposes",
+  "blockCode": "U82-U85",
+  "block": "Resistance to antimicrobial and antineoplastic drugs",
+  "categoryCode": "U85",
+  "category": "Resistance to antineoplastic drugs",
+  "subcategory": "",
+  "title": "Resistance to antineoplastic drugs",
+  "inclusion": [
+    "Non-responsiveness to antineoplastic drugs",
+    "Refractory cancer"
+  ],
+  "exclusion": null,
+  "children": null
+}

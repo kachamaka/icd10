@@ -1,0 +1,27 @@
+{
+  "type": "category",
+  "chapterCode": "X",
+  "chapter": "Diseases of the respiratory system",
+  "blockCode": "J09-J18",
+  "block": "Influenza and pneumonia",
+  "categoryCode": "J09",
+  "category": "Influenza due to identified zoonotic or pandemic influenza virus",
+  "subcategory": "",
+  "title": "Influenza due to identified zoonotic or pandemic influenza virus",
+  "inclusion": null,
+  "exclusion": [
+    "certain conditions originating in the perinatal period",
+    "certain infectious and parasitic diseases",
+    "complications of pregnancy, childbirth and the puerperium",
+    "congenital malformations, deformations and chromosomal abnormalities",
+    "endocrine, nutritional and metabolic diseases",
+    "injury, poisoning and certain other consequences of external causes",
+    "neoplasms",
+    "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+    "Haemophilus influenzae [H. influenzae]: infection NOS",
+    "Haemophilus influenzae [H. influenzae]: meningitis",
+    "Haemophilus influenzae [H. influenzae]: pneumonia",
+    "influenza due to identified seasonal influenza virus"
+  ],
+  "children": null
+}

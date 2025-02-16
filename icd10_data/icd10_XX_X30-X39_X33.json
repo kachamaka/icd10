@@ -1,0 +1,17 @@
+{
+  "type": "category",
+  "chapterCode": "XX",
+  "chapter": "External causes of morbidity and mortality",
+  "blockCode": "X30-X39",
+  "block": "Exposure to forces of nature",
+  "categoryCode": "X33",
+  "category": "Victim of lightning",
+  "subcategory": "",
+  "title": "Victim of lightning",
+  "inclusion": null,
+  "exclusion": [
+    "fire caused by lightning",
+    "injury from fall of tree or other object caused by lightning"
+  ],
+  "children": null
+}

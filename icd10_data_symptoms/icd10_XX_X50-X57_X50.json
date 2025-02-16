@@ -1,0 +1,29 @@
+{
+    "icd10code": "X50",
+    "type": "category",
+    "title": "Overexertion and strenuous or repetitive movements",
+    "chapter": "External causes of morbidity and mortality",
+    "chapterCode": "XX",
+    "block": "Overexertion, travel and privation",
+    "blockCode": "X50-X57",
+    "category": "Overexertion and strenuous or repetitive movements",
+    "categoryCode": "X50",
+    "subcategory": "",
+    "inclusion": [
+        "lifting: heavy objects",
+        "lifting: weights",
+        "marathon running",
+        "rowing"
+    ],
+    "exclusion": [
+        "assault",
+        "transport accidents"
+    ],
+    "symptoms": [
+        "heat exhaustion",
+        "dizziness",
+        "weakness",
+        "nausea",
+        "headache"
+    ]
+}

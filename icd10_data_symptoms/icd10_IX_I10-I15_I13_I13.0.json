@@ -1,0 +1,41 @@
+{
+    "icd10code": "I13.0",
+    "type": "subcategory",
+    "title": "Hypertensive heart and renal disease with (congestive) heart failure",
+    "chapter": "Diseases of the circulatory system",
+    "chapterCode": "IX",
+    "block": "Hypertensive diseases",
+    "blockCode": "I10-I15",
+    "category": "Hypertensive heart and renal disease",
+    "categoryCode": "I13",
+    "subcategory": "I13.0",
+    "inclusion": [
+        "any condition in I11.- with any condition in I12.-",
+        "disease: cardiorenal",
+        "disease: cardiovascular renal"
+    ],
+    "exclusion": [
+        "certain conditions originating in the perinatal period",
+        "certain infectious and parasitic diseases",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "systemic connective tissue disorders",
+        "transient cerebral ischaemic attacks and related syndromes",
+        "postoperative shock",
+        "maternal hypotension syndrome",
+        "nonspecific low blood pressure reading NOS",
+        "sequelae of the listed conditions",
+        "postmastectomy lymphoedema"
+    ],
+    "symptoms": [
+        "shortness of breath",
+        "persistent cough",
+        "fluid retention",
+        "fatigue",
+        "swelling in legs and ankles"
+    ]
+}

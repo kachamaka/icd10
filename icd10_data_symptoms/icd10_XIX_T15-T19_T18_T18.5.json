@@ -1,0 +1,36 @@
+{
+    "icd10code": "T18.5",
+    "type": "subcategory",
+    "title": "Foreign body in anus and rectum",
+    "chapter": "Injury, poisoning and certain other consequences of external causes",
+    "chapterCode": "XIX",
+    "block": "Effects of foreign body entering through natural orifice",
+    "blockCode": "T15-T19",
+    "category": "Foreign body in alimentary tract",
+    "categoryCode": "T18",
+    "subcategory": "T18.5",
+    "inclusion": [
+        "Rectosigmoid (junction)"
+    ],
+    "exclusion": [
+        "birth trauma",
+        "obstetric trauma",
+        "malunion of fracture",
+        "nonunion of fracture [pseudarthrosis]",
+        "pathological fracture",
+        "pathological fracture with osteoporosis",
+        "stress fracture",
+        "foreign body: accidentally left in operation wound",
+        "foreign body: in puncture wound - see open wound by body region",
+        "foreign body: residual, in soft tissue",
+        "splinter, without major open wound - see superficial injury by body region",
+        "foreign body in pharynx"
+    ],
+    "symptoms": [
+        "chest pain",
+        "difficulty swallowing",
+        "gagging",
+        "vomiting",
+        "feeling of a foreign object in throat"
+    ]
+}

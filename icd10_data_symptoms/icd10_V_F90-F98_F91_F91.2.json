@@ -1,0 +1,35 @@
+{
+    "icd10code": "F91.2",
+    "type": "subcategory",
+    "title": "Socialized conduct disorder",
+    "chapter": "Mental and behavioural disorders",
+    "chapterCode": "V",
+    "block": "Behavioural and emotional disorders with onset usually occurring in childhood and adolescence",
+    "blockCode": "F90-F98",
+    "category": "Conduct disorders",
+    "categoryCode": "F91",
+    "subcategory": "F91.2",
+    "inclusion": [
+        "disorders of psychological development",
+        "Conduct disorder, group type",
+        "Group delinquency",
+        "Offences in the context of gang membership",
+        "Stealing in company with others",
+        "Truancy from school"
+    ],
+    "exclusion": [
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "mood [affective]",
+        "pervasive developmental disorders",
+        "schizophrenia",
+        "when associated with: emotional disorders",
+        "when associated with: hyperkinetic disorders"
+    ],
+    "symptoms": [
+        "aggression",
+        "defiance",
+        "rule-breaking",
+        "temper issues",
+        "hostility towards authority figures"
+    ]
+}

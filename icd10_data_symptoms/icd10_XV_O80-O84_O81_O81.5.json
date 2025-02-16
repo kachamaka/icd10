@@ -1,0 +1,33 @@
+{
+    "icd10code": "O81.5",
+    "type": "subcategory",
+    "title": "Delivery by combination of forceps and vacuum extractor",
+    "chapter": "Pregnancy, childbirth and the puerperium",
+    "chapterCode": "XV",
+    "block": "Delivery",
+    "blockCode": "O80-O84",
+    "category": "Single delivery by forceps and vacuum extractor",
+    "categoryCode": "O81",
+    "subcategory": "O81.5",
+    "inclusion": [
+        "Forceps and ventouse delivery"
+    ],
+    "exclusion": [
+        "Certain diseases or injuries complicating pregnancy, childbirth and the puerperium classified elsewhere: external causes (for mortality)",
+        "Certain diseases or injuries complicating pregnancy, childbirth and the puerperium classified elsewhere: injury, poisoning and certain other consequences of external cause",
+        "Certain diseases or injuries complicating pregnancy, childbirth and the puerperium classified elsewhere: mental and behavioural disorders associated with the puerperium",
+        "Certain diseases or injuries complicating pregnancy, childbirth and the puerperium classified elsewhere: obstetrical tetanus",
+        "Certain diseases or injuries complicating pregnancy, childbirth and the puerperium classified elsewhere: postpartum necrosis of pituitary gland",
+        "Certain diseases or injuries complicating pregnancy, childbirth and the puerperium classified elsewhere: puerperal osteomalacia",
+        "supervision of: high-risk pregnancy",
+        "supervision of: normal pregnancy",
+        "failed application of vacuum extractor or forceps"
+    ],
+    "symptoms": [
+        "prolonged labor",
+        "delivery complications",
+        "fetal distress",
+        "maternal exhaustion",
+        "ineffective uterine contractions"
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "icd10code": "Q92.5",
+    "type": "subcategory",
+    "title": "Duplications with other complex rearrangements",
+    "chapter": "Congenital malformations, deformations and chromosomal abnormalities",
+    "chapterCode": "XVII",
+    "block": "Chromosomal abnormalities, not elsewhere classified",
+    "blockCode": "Q90-Q99",
+    "category": "Other trisomies and partial trisomies of the autosomes, not elsewhere classified",
+    "categoryCode": "Q92",
+    "subcategory": "Q92.5",
+    "inclusion": [
+        "unbalanced translocations and insertions"
+    ],
+    "exclusion": [
+        "inborn errors of metabolism",
+        "trisomies of chromosomes 13, 18, 21"
+    ],
+    "symptoms": [
+        "developmental delay",
+        "intellectual disability",
+        "distinct facial features",
+        "congenital anomalies",
+        "growth retardation"
+    ]
+}

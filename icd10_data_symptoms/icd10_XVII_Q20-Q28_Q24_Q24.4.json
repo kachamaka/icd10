@@ -1,0 +1,24 @@
+{
+    "icd10code": "Q24.4",
+    "type": "subcategory",
+    "title": "Congenital subaortic stenosis",
+    "chapter": "Congenital malformations, deformations and chromosomal abnormalities",
+    "chapterCode": "XVII",
+    "block": "Congenital malformations of the circulatory system",
+    "blockCode": "Q20-Q28",
+    "category": "Other congenital malformations of heart",
+    "categoryCode": "Q24",
+    "subcategory": "Q24.4",
+    "inclusion": null,
+    "exclusion": [
+        "inborn errors of metabolism",
+        "endocardial fibroelastosis"
+    ],
+    "symptoms": [
+        "congenital heart murmur",
+        "cyanosis",
+        "shortness of breath",
+        "failure to thrive",
+        "fatigue"
+    ]
+}

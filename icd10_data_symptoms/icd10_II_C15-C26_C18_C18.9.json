@@ -1,0 +1,23 @@
+{
+    "icd10code": "C18.9",
+    "type": "subcategory",
+    "title": "Malignant neoplasm: Colon, unspecified",
+    "chapter": "Neoplasms",
+    "chapterCode": "II",
+    "block": "Malignant neoplasms of digestive organs",
+    "blockCode": "C15-C26",
+    "category": "Malignant neoplasm of colon",
+    "categoryCode": "C18",
+    "subcategory": "C18.9",
+    "inclusion": [
+        "Large intestine NOS"
+    ],
+    "exclusion": null,
+    "symptoms": [
+        "abdominal pain",
+        "change in bowel habits",
+        "unexplained weight loss",
+        "blood in stool",
+        "fatigue"
+    ]
+}

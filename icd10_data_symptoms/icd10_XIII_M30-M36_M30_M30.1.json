@@ -1,0 +1,40 @@
+{
+    "icd10code": "M30.1",
+    "type": "subcategory",
+    "title": "Polyarteritis with lung involvement [Churg-Strauss]",
+    "chapter": "Diseases of the musculoskeletal system and connective tissue",
+    "chapterCode": "XIII",
+    "block": "Systemic connective tissue disorders",
+    "blockCode": "M30-M36",
+    "category": "Polyarteritis nodosa and related conditions",
+    "categoryCode": "M30",
+    "subcategory": "M30.1",
+    "inclusion": [
+        "autoimmune disease: NOS",
+        "autoimmune disease: systemic",
+        "collagen (vascular) disease: NOS",
+        "collagen (vascular) disease: systemic",
+        "Allergic granulomatous angiitis"
+    ],
+    "exclusion": [
+        "certain conditions originating in the perinatal period",
+        "certain disorders of the temporomandibular joint",
+        "certain infectious and parasitic diseases",
+        "compartment syndrome",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "arthropathy in: haematological disorders",
+        "arthrosis of spine"
+    ],
+    "symptoms": [
+        "fever",
+        "muscle pain",
+        "rash",
+        "swollen lymph nodes",
+        "joint pain"
+    ]
+}

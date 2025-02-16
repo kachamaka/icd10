@@ -1,0 +1,24 @@
+{
+    "icd10code": "Q65.9",
+    "type": "subcategory",
+    "title": "Congenital deformity of hip, unspecified",
+    "chapter": "Congenital malformations, deformations and chromosomal abnormalities",
+    "chapterCode": "XVII",
+    "block": "Congenital malformations and deformations of the musculoskeletal system",
+    "blockCode": "Q65-Q79",
+    "category": "Congenital deformities of hip",
+    "categoryCode": "Q65",
+    "subcategory": "Q65.9",
+    "inclusion": null,
+    "exclusion": [
+        "inborn errors of metabolism",
+        "clicking hip"
+    ],
+    "symptoms": [
+        "hip instability",
+        "limited hip abduction",
+        "uneven leg length",
+        "hip tenderness",
+        "audible hip click"
+    ]
+}

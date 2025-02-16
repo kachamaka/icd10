@@ -1,0 +1,39 @@
+{
+    "icd10code": "I60.6",
+    "type": "subcategory",
+    "title": "Subarachnoid haemorrhage from other intracranial arteries",
+    "chapter": "Diseases of the circulatory system",
+    "chapterCode": "IX",
+    "block": "Cerebrovascular diseases",
+    "blockCode": "I60-I69",
+    "category": "Subarachnoid haemorrhage",
+    "categoryCode": "I60",
+    "subcategory": "I60.6",
+    "inclusion": [
+        "with mention of hypertension (conditions in I10 and I15.-)",
+        "Multiple involvement of intracranial arteries"
+    ],
+    "exclusion": [
+        "certain conditions originating in the perinatal period",
+        "certain infectious and parasitic diseases",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "systemic connective tissue disorders",
+        "transient cerebral ischaemic attacks and related syndromes",
+        "pulmonary",
+        "naevus: blue",
+        "complicating: childbirth and the puerperium",
+        "complicating: pregnancy"
+    ],
+    "symptoms": [
+        "severe headache",
+        "partial vision loss",
+        "difficulty speaking",
+        "confusion",
+        "loss of coordination"
+    ]
+}

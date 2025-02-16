@@ -1,0 +1,31 @@
+{
+    "icd10code": "G95.2",
+    "type": "subcategory",
+    "title": "Cord compression, unspecified",
+    "chapter": "Diseases of the nervous system",
+    "chapterCode": "VI",
+    "block": "Other disorders of the nervous system",
+    "blockCode": "G90-G99",
+    "category": "Other diseases of spinal cord",
+    "categoryCode": "G95",
+    "subcategory": "G95.2",
+    "inclusion": null,
+    "exclusion": [
+        "certain conditions originating in the perinatal period",
+        "certain infectious and parasitic diseases",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "myelitis"
+    ],
+    "symptoms": [
+        "pain",
+        "muscle weakness",
+        "sensory disturbances",
+        "incontinence",
+        "fatigue"
+    ]
+}

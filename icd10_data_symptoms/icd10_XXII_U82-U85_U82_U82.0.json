@@ -1,0 +1,24 @@
+{
+    "icd10code": "U82.0",
+    "type": "subcategory",
+    "title": "Resistance to penicillin",
+    "chapter": "Codes for special purposes",
+    "chapterCode": "XXII",
+    "block": "Resistance to antimicrobial and antineoplastic drugs",
+    "blockCode": "U82-U85",
+    "category": "Resistance to betalactam antibiotics",
+    "categoryCode": "U82",
+    "subcategory": "U82.0",
+    "inclusion": [
+        "Resistance to: Amoxicillin",
+        "Resistance to: Ampicillin"
+    ],
+    "exclusion": null,
+    "symptoms": [
+        "chronic cough",
+        "dyspnea",
+        "fever",
+        "weight loss",
+        "fatigue"
+    ]
+}

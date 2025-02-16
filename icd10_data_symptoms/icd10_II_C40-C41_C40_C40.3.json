@@ -1,0 +1,24 @@
+{
+    "icd10code": "C40.3",
+    "type": "subcategory",
+    "title": "Malignant neoplasm: Short bones of lower limb",
+    "chapter": "Neoplasms",
+    "chapterCode": "II",
+    "block": "Malignant neoplasms of bone and articular cartilage",
+    "blockCode": "C40-C41",
+    "category": "Malignant neoplasm of bone and articular cartilage of limbs",
+    "categoryCode": "C40",
+    "subcategory": "C40.3",
+    "inclusion": null,
+    "exclusion": [
+        "bone marrow NOS",
+        "synovia"
+    ],
+    "symptoms": [
+        "persistent pain in bone",
+        "joint swelling",
+        "decreased range of motion",
+        "bone fractures",
+        "unexplained weight loss"
+    ]
+}

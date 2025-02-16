@@ -1,0 +1,34 @@
+{
+    "icd10code": "A49.2",
+    "type": "subcategory",
+    "title": "Haemophilus influenzae infection, unspecified site",
+    "chapter": "Certain infectious and parasitic diseases",
+    "chapterCode": "I",
+    "block": "Other bacterial diseases",
+    "blockCode": "A30-A49",
+    "category": "Bacterial infection of unspecified site",
+    "categoryCode": "A49",
+    "subcategory": "A49.2",
+    "inclusion": [
+        "diseases generally recognized as communicable or transmissible"
+    ],
+    "exclusion": [
+        "carrier or suspected carrier of infectious disease",
+        "certain localized infections - see body system-related chapters",
+        "infectious and parasitic diseases complicating pregnancy, childbirth and the puerperium [except obstetrical tetanus]",
+        "infectious and parasitic diseases specific to the perinatal period [except tetanus neonatorum, whooping cough, congenital syphilis, perinatal gonococcal infection and perinatal human immunodeficiency virus [HIV] disease]",
+        "influenza and other acute respiratory infections",
+        "bacterial agents as the cause of diseases classified to other chapters",
+        "chlamydial infection NOS",
+        "meningococcal infection NOS",
+        "rickettsial infection NOS",
+        "spirochaetal infection NOS"
+    ],
+    "symptoms": [
+        "fever",
+        "chills",
+        "body aches",
+        "cough",
+        "fatigue"
+    ]
+}

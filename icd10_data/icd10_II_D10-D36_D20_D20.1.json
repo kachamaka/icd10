@@ -1,0 +1,19 @@
+{
+  "type": "subcategory",
+  "chapterCode": "II",
+  "chapter": "Neoplasms",
+  "blockCode": "D10-D36",
+  "block": "Benign neoplasms",
+  "categoryCode": "D20",
+  "category": "Benign neoplasm of soft tissue of retroperitoneum and peritoneum",
+  "subcategory": "D20.1",
+  "title": "Benign neoplasm: Peritoneum",
+  "inclusion": [
+    "morphology codes with behaviour code /0"
+  ],
+  "exclusion": [
+    "benign lipomatous neoplasm of peritoneum and retroperitoneum",
+    "mesothelial tissue"
+  ],
+  "children": null
+}

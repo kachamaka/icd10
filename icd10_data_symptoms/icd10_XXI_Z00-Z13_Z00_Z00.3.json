@@ -1,0 +1,27 @@
+{
+    "icd10code": "Z00.3",
+    "type": "subcategory",
+    "title": "Examination for adolescent development state",
+    "chapter": "Factors influencing health status and contact with health services",
+    "chapterCode": "XXI",
+    "block": "Persons encountering health services for examination and investigation",
+    "blockCode": "Z00-Z13",
+    "category": "General examination and investigation of persons without complaint and reported diagnosis",
+    "categoryCode": "Z00",
+    "subcategory": "Z00.3",
+    "inclusion": [
+        "Puberty development state"
+    ],
+    "exclusion": [
+        "examinations related to pregnancy and reproduction",
+        "examination for administrative purposes",
+        "special screening examinations"
+    ],
+    "symptoms": [
+        "development delay",
+        "difficulty speaking",
+        "fine motor coordination issues",
+        "social interaction challenges",
+        "learning difficulties"
+    ]
+}

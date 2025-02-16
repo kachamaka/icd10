@@ -1,0 +1,35 @@
+{
+    "icd10code": "C30.0",
+    "type": "subcategory",
+    "title": "Malignant neoplasm: Nasal cavity",
+    "chapter": "Neoplasms",
+    "chapterCode": "II",
+    "block": "Malignant neoplasms of respiratory and intrathoracic organs",
+    "blockCode": "C30-C39",
+    "category": "Malignant neoplasm of nasal cavity and middle ear",
+    "categoryCode": "C30",
+    "subcategory": "C30.0",
+    "inclusion": [
+        "middle ear",
+        "Cartilage of nose",
+        "Concha, nasal",
+        "Internal nose",
+        "Septum of nose",
+        "Vestibule of nose"
+    ],
+    "exclusion": [
+        "mesothelioma",
+        "nasal bone",
+        "nose NOS",
+        "olfactory bulb",
+        "posterior margin of nasal septum and choana",
+        "skin of nose"
+    ],
+    "symptoms": [
+        "nasal congestion",
+        "nosebleeds",
+        "loss of smell",
+        "sinus pressure",
+        "facial pain or numbness"
+    ]
+}

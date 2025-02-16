@@ -1,0 +1,21 @@
+{
+  "type": "subcategory",
+  "chapterCode": "XVII",
+  "chapter": "Congenital malformations, deformations and chromosomal abnormalities",
+  "blockCode": "Q80-Q89",
+  "block": "Other congenital malformations",
+  "categoryCode": "Q84",
+  "category": "Other congenital malformations of integument",
+  "subcategory": "Q84.1",
+  "title": "Congenital morphological disturbances of hair, not elsewhere classified",
+  "inclusion": [
+    "Beaded hair",
+    "Monilethrix",
+    "Pili annulati"
+  ],
+  "exclusion": [
+    "inborn errors of metabolism",
+    "Menkes kinky hair syndrome"
+  ],
+  "children": null
+}

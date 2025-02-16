@@ -1,0 +1,17 @@
+{
+    "icd10code": "Y26",
+    "type": "category",
+    "title": "Exposure to smoke, fire and flames, undetermined intent",
+    "chapter": "External causes of morbidity and mortality",
+    "chapterCode": "XX",
+    "block": "Event of undetermined intent",
+    "blockCode": "Y10-Y34",
+    "category": "Exposure to smoke, fire and flames, undetermined intent",
+    "categoryCode": "Y26",
+    "subcategory": "",
+    "inclusion": null,
+    "exclusion": null,
+    "symptoms": [
+        "asymptomatic"
+    ]
+}

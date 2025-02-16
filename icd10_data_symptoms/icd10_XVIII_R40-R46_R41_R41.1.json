@@ -1,0 +1,26 @@
+{
+    "icd10code": "R41.1",
+    "type": "subcategory",
+    "title": "Anterograde amnesia",
+    "chapter": "Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+    "chapterCode": "XVIII",
+    "block": "Symptoms and signs involving cognition, perception, emotional state and behaviour",
+    "blockCode": "R40-R46",
+    "category": "Other symptoms and signs involving cognitive functions and awareness",
+    "categoryCode": "R41",
+    "subcategory": "R41.1",
+    "inclusion": null,
+    "exclusion": [
+        "abnormal findings on antenatal screening of mother",
+        "certain conditions originating in the perinatal period",
+        "those constituting part of a pattern of mental disorder",
+        "disturbances of skin sensation"
+    ],
+    "symptoms": [
+        "memory loss",
+        "forgetfulness",
+        "difficulty concentrating",
+        "confusion",
+        "impaired recall"
+    ]
+}

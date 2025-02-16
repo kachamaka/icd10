@@ -1,0 +1,25 @@
+{
+    "icd10code": "C33",
+    "type": "category",
+    "title": "Malignant neoplasm of trachea",
+    "chapter": "Neoplasms",
+    "chapterCode": "II",
+    "block": "Malignant neoplasms of respiratory and intrathoracic organs",
+    "blockCode": "C30-C39",
+    "category": "Malignant neoplasm of trachea",
+    "categoryCode": "C33",
+    "subcategory": "",
+    "inclusion": [
+        "middle ear"
+    ],
+    "exclusion": [
+        "mesothelioma"
+    ],
+    "symptoms": [
+        "hoarseness",
+        "persistent cough",
+        "difficulty swallowing",
+        "unexplained weight loss",
+        "ear pain"
+    ]
+}

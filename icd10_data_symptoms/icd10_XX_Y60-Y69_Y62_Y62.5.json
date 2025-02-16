@@ -1,0 +1,27 @@
+{
+    "icd10code": "Y62.5",
+    "type": "subcategory",
+    "title": "During heart catheterization",
+    "chapter": "External causes of morbidity and mortality",
+    "chapterCode": "XX",
+    "block": "Misadventures to patients during surgical and medical care",
+    "blockCode": "Y60-Y69",
+    "category": "Failure of sterile precautions during surgical and medical care",
+    "categoryCode": "Y62",
+    "subcategory": "Y62.5",
+    "inclusion": [
+        "complications of medical devices",
+        "correct drug properly administered in therapeutic or prophylactic dosage as the cause of any adverse effect",
+        "misadventures to patients during surgical and medical care",
+        "surgical and medical procedures as the cause of abnormal reaction of the patient, or of later complication, without mention of misadventure at the time of the procedure"
+    ],
+    "exclusion": [
+        "accidental overdose of drug or wrong drug given or taken in error",
+        "breakdown or malfunctioning of medical device (during procedure)(after implantation)(ongoing use)",
+        "medical devices associated with adverse incidents due to external causes classified elsewhere",
+        "surgical and medical procedures as the cause of abnormal reaction of the patient, without mention of misadventure at the time of the procedure"
+    ],
+    "symptoms": [
+        "asymptomatic"
+    ]
+}

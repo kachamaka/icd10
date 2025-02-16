@@ -1,0 +1,35 @@
+{
+    "icd10code": "G91.9",
+    "type": "subcategory",
+    "title": "Hydrocephalus, unspecified",
+    "chapter": "Diseases of the nervous system",
+    "chapterCode": "VI",
+    "block": "Other disorders of the nervous system",
+    "blockCode": "G90-G99",
+    "category": "Hydrocephalus",
+    "categoryCode": "G91",
+    "subcategory": "G91.9",
+    "inclusion": [
+        "acquired hydrocephalus"
+    ],
+    "exclusion": [
+        "certain conditions originating in the perinatal period",
+        "certain infectious and parasitic diseases",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "hydrocephalus: acquired, of newborn",
+        "hydrocephalus: congenital",
+        "hydrocephalus: due to congenital toxoplasmosis"
+    ],
+    "symptoms": [
+        "headache",
+        "nausea",
+        "vomiting",
+        "balance disturbances",
+        "vision changes"
+    ]
+}

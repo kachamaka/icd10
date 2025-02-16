@@ -1,0 +1,31 @@
+{
+    "icd10code": "T92.1",
+    "type": "subcategory",
+    "title": "Sequelae of fracture of arm",
+    "chapter": "Injury, poisoning and certain other consequences of external causes",
+    "chapterCode": "XIX",
+    "block": "Sequelae of injuries, of poisoning and of other consequences of external causes",
+    "blockCode": "T90-T98",
+    "category": "Sequelae of injuries of upper limb",
+    "categoryCode": "T92",
+    "subcategory": "T92.1",
+    "inclusion": [
+        "Sequelae of injury classifiable to S42.-, S52.- and T10"
+    ],
+    "exclusion": [
+        "birth trauma",
+        "obstetric trauma",
+        "malunion of fracture",
+        "nonunion of fracture [pseudarthrosis]",
+        "pathological fracture",
+        "pathological fracture with osteoporosis",
+        "stress fracture"
+    ],
+    "symptoms": [
+        "scarring",
+        "tissue damage",
+        "limited mobility",
+        "chronic pain",
+        "discoloration"
+    ]
+}

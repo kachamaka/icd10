@@ -1,0 +1,33 @@
+{
+    "icd10code": "B26.9",
+    "type": "subcategory",
+    "title": "Mumps without complication",
+    "chapter": "Certain infectious and parasitic diseases",
+    "chapterCode": "I",
+    "block": "Other viral diseases",
+    "blockCode": "B25-B34",
+    "category": "Mumps",
+    "categoryCode": "B26",
+    "subcategory": "B26.9",
+    "inclusion": [
+        "diseases generally recognized as communicable or transmissible",
+        "parotitis: epidemic",
+        "parotitis: infectious",
+        "Mumps: NOS",
+        "Mumps: parotitis NOS"
+    ],
+    "exclusion": [
+        "carrier or suspected carrier of infectious disease",
+        "certain localized infections - see body system-related chapters",
+        "infectious and parasitic diseases complicating pregnancy, childbirth and the puerperium [except obstetrical tetanus]",
+        "infectious and parasitic diseases specific to the perinatal period [except tetanus neonatorum, whooping cough, congenital syphilis, perinatal gonococcal infection and perinatal human immunodeficiency virus [HIV] disease]",
+        "influenza and other acute respiratory infections"
+    ],
+    "symptoms": [
+        "fever",
+        "headache",
+        "swollen salivary glands",
+        "muscle aches",
+        "fatigue"
+    ]
+}

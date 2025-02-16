@@ -1,0 +1,24 @@
+{
+    "icd10code": "C51.0",
+    "type": "subcategory",
+    "title": "Malignant neoplasm: Labium majus",
+    "chapter": "Neoplasms",
+    "chapterCode": "II",
+    "block": "Malignant neoplasms of female genital organs",
+    "blockCode": "C51-C58",
+    "category": "Malignant neoplasm of vulva",
+    "categoryCode": "C51",
+    "subcategory": "C51.0",
+    "inclusion": [
+        "skin of female genital organs",
+        "Bartholin [greater vestibular] gland"
+    ],
+    "exclusion": null,
+    "symptoms": [
+        "abnormal vaginal bleeding",
+        "painful intercourse",
+        "pelvic pain",
+        "unusual vaginal discharge",
+        "presence of a vaginal mass"
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "icd10code": "V39.4",
+    "type": "subcategory",
+    "title": "Driver injured in collision with other and unspecified motor vehicles in traffic accident",
+    "chapter": "External causes of morbidity and mortality",
+    "chapterCode": "XX",
+    "block": "Occupant of three-wheeled motor vehicle injured in transport accident",
+    "blockCode": "V30-V39",
+    "category": "Occupant of three-wheeled motor vehicle injured in other and unspecified transport accidents",
+    "categoryCode": "V39",
+    "subcategory": "V39.4",
+    "inclusion": [
+        "motorized tricycle"
+    ],
+    "exclusion": [
+        "accidents to persons engaged in the maintenance or repair of transport equipment or vehicle (not in motion) unless injured by another vehicle in motion",
+        "accidents involving vehicles, but unrelated to the hazards associated with the means of transportation, e.g., injuries received in a fight on board ship; transport vehicle involved in a cataclysm; finger crushed when shutting car door",
+        "assault by crashing of motor vehicle",
+        "event of undetermined intent",
+        "intentional self-harm",
+        "collision involving: pedal cyclist",
+        "collision involving: pedestrian"
+    ],
+    "symptoms": [
+        "asymptomatic"
+    ]
+}

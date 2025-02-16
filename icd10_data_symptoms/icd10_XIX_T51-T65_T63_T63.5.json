@@ -1,0 +1,33 @@
+{
+    "icd10code": "T63.5",
+    "type": "subcategory",
+    "title": "Toxic effect: Toxic effect of contact with fish",
+    "chapter": "Injury, poisoning and certain other consequences of external causes",
+    "chapterCode": "XIX",
+    "block": "Toxic effects of substances chiefly nonmedicinal as to source",
+    "blockCode": "T51-T65",
+    "category": "Toxic effect of contact with venomous animals",
+    "categoryCode": "T63",
+    "subcategory": "T63.5",
+    "inclusion": null,
+    "exclusion": [
+        "birth trauma",
+        "obstetric trauma",
+        "malunion of fracture",
+        "nonunion of fracture [pseudarthrosis]",
+        "pathological fracture",
+        "pathological fracture with osteoporosis",
+        "stress fracture",
+        "corrosions",
+        "localized toxic effects classified elsewhere",
+        "respiratory conditions due to external agents",
+        "poisoning by ingestion of fish"
+    ],
+    "symptoms": [
+        "rash",
+        "nausea",
+        "vomiting",
+        "abdominal pain",
+        "dizziness"
+    ]
+}

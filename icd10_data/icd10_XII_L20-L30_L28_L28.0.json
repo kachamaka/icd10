@@ -1,0 +1,36 @@
+{
+  "type": "subcategory",
+  "chapterCode": "XII",
+  "chapter": "Diseases of the skin and subcutaneous tissue",
+  "blockCode": "L20-L30",
+  "block": "Dermatitis and eczema",
+  "categoryCode": "L28",
+  "category": "Lichen simplex chronicus and prurigo",
+  "subcategory": "L28.0",
+  "title": "Lichen simplex chronicus",
+  "inclusion": [
+    "Circumscribed neurodermatitis",
+    "Lichen NOS"
+  ],
+  "exclusion": [
+    "certain conditions originating in the perinatal period",
+    "certain infectious and parasitic diseases",
+    "complications of pregnancy, childbirth and the puerperium",
+    "congenital malformations, deformations and chromosomal abnormalities",
+    "endocrine, nutritional and metabolic diseases",
+    "injury, poisoning and certain other consequences of external causes",
+    "lipomelanotic reticulosis",
+    "neoplasms",
+    "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+    "systemic connective tissue disorders",
+    "chronic (childhood) granulomatous disease",
+    "dermatitis: dry skin",
+    "dermatitis: factitial",
+    "dermatitis: gangrenosa",
+    "dermatitis: herpetiformis",
+    "dermatitis: perioral",
+    "dermatitis: stasis",
+    "radiation-related disorders of the skin and subcutaneous tissue"
+  ],
+  "children": null
+}

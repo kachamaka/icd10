@@ -1,0 +1,36 @@
+{
+    "icd10code": "J31.2",
+    "type": "subcategory",
+    "title": "Chronic pharyngitis",
+    "chapter": "Diseases of the respiratory system",
+    "chapterCode": "X",
+    "block": "Other diseases of upper respiratory tract",
+    "blockCode": "J30-J39",
+    "category": "Chronic rhinitis, nasopharyngitis and pharyngitis",
+    "categoryCode": "J31",
+    "subcategory": "J31.2",
+    "inclusion": [
+        "Chronic sore throat",
+        "Pharyngitis (chronic): atrophic",
+        "Pharyngitis (chronic): granular",
+        "Pharyngitis (chronic): hypertrophic"
+    ],
+    "exclusion": [
+        "certain conditions originating in the perinatal period",
+        "certain infectious and parasitic diseases",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "pharyngitis, acute or NOS"
+    ],
+    "symptoms": [
+        "chronic nasal congestion",
+        "nasal obstruction",
+        "nasal dryness",
+        "crusting",
+        "frequent nosebleeds"
+    ]
+}

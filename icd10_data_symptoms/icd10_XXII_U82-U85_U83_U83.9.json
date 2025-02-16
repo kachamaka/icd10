@@ -1,0 +1,23 @@
+{
+    "icd10code": "U83.9",
+    "type": "subcategory",
+    "title": "Resistance to unspecified antibiotic",
+    "chapter": "Codes for special purposes",
+    "chapterCode": "XXII",
+    "block": "Resistance to antimicrobial and antineoplastic drugs",
+    "blockCode": "U82-U85",
+    "category": "Resistance to other antibiotics",
+    "categoryCode": "U83",
+    "subcategory": "U83.9",
+    "inclusion": [
+        "Resistance to antibiotics NOS"
+    ],
+    "exclusion": null,
+    "symptoms": [
+        "fever",
+        "fatigue",
+        "muscle pain",
+        "cough",
+        "shortness of breath"
+    ]
+}

@@ -1,0 +1,38 @@
+{
+  "type": "subcategory",
+  "chapterCode": "XIII",
+  "chapter": "Diseases of the musculoskeletal system and connective tissue",
+  "blockCode": "M50-M54",
+  "block": "Other dorsopathies",
+  "categoryCode": "M54",
+  "category": "Dorsalgia",
+  "subcategory": "M54.1",
+  "title": "Radiculopathy",
+  "inclusion": [
+    "Neuritis or radiculitis: brachial NOS",
+    "Neuritis or radiculitis: lumbar NOS",
+    "Neuritis or radiculitis: lumbosacral NOS",
+    "Neuritis or radiculitis: thoracic NOS",
+    "Radiculitis NOS"
+  ],
+  "exclusion": [
+    "certain conditions originating in the perinatal period",
+    "certain disorders of the temporomandibular joint",
+    "certain infectious and parasitic diseases",
+    "compartment syndrome",
+    "complications of pregnancy, childbirth and the puerperium",
+    "congenital malformations, deformations and chromosomal abnormalities",
+    "endocrine, nutritional and metabolic diseases",
+    "injury, poisoning and certain other consequences of external causes",
+    "neoplasms",
+    "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+    "collapsed vertebra in osteoporosis",
+    "postural kyphosis",
+    "cervical disc disorder",
+    "neuralgia and neuritis NOS",
+    "radiculopathy with: cervical disc disorder",
+    "radiculopathy with: lumbar and other intervertebral disc disorder",
+    "radiculopathy with: spondylosis"
+  ],
+  "children": null
+}

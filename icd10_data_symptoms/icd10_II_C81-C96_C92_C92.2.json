@@ -1,0 +1,26 @@
+{
+    "icd10code": "C92.2",
+    "type": "subcategory",
+    "title": "Atypical chronic myeloid leukaemia, BCR/ABL- negative",
+    "chapter": "Neoplasms",
+    "chapterCode": "II",
+    "block": "Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",
+    "blockCode": "C81-C96",
+    "category": "Myeloid leukaemia",
+    "categoryCode": "C92",
+    "subcategory": "C92.2",
+    "inclusion": [
+        "leukaemia: granulocytic",
+        "leukaemia: myelogenous"
+    ],
+    "exclusion": [
+        "secondary and unspecified neoplasm of lymph nodes"
+    ],
+    "symptoms": [
+        "fatigue",
+        "fever",
+        "easy bruising or bleeding",
+        "recurrent infections",
+        "bone pain"
+    ]
+}

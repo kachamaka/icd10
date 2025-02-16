@@ -1,0 +1,39 @@
+{
+    "icd10code": "H21.5",
+    "type": "subcategory",
+    "title": "Other adhesions and disruptions of iris and ciliary body",
+    "chapter": "Diseases of the eye and adnexa",
+    "chapterCode": "VII",
+    "block": "Disorders of sclera, cornea, iris and ciliary body",
+    "blockCode": "H15-H22",
+    "category": "Other disorders of iris and ciliary body",
+    "categoryCode": "H21",
+    "subcategory": "H21.5",
+    "inclusion": [
+        "Goniosynechiae",
+        "Iridodialysis",
+        "Recession, chamber angle",
+        "Synechiae (iris): NOS",
+        "Synechiae (iris): anterior",
+        "Synechiae (iris): posterior"
+    ],
+    "exclusion": [
+        "certain conditions originating in the perinatal period",
+        "certain infectious and parasitic diseases",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "sympathetic uveitis",
+        "corectopia"
+    ],
+    "symptoms": [
+        "eye redness",
+        "irritation",
+        "watering",
+        "sensitivity to light",
+        "blurred vision"
+    ]
+}

@@ -1,0 +1,33 @@
+{
+    "icd10code": "K10.1",
+    "type": "subcategory",
+    "title": "Giant cell granuloma, central",
+    "chapter": "Diseases of the digestive system",
+    "chapterCode": "XI",
+    "block": "Diseases of oral cavity, salivary glands and jaws",
+    "blockCode": "K00-K14",
+    "category": "Other diseases of jaws",
+    "categoryCode": "K10",
+    "subcategory": "K10.1",
+    "inclusion": [
+        "Giant cell granuloma NOS"
+    ],
+    "exclusion": [
+        "certain conditions originating in the perinatal period",
+        "certain infectious and parasitic diseases",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "peripheral giant cell granuloma"
+    ],
+    "symptoms": [
+        "jaw pain",
+        "swelling in the jaw",
+        "difficulty opening the mouth",
+        "jaw stiffness",
+        "tenderness in the jaw"
+    ]
+}

@@ -1,0 +1,22 @@
+{
+  "type": "subcategory",
+  "chapterCode": "II",
+  "chapter": "Neoplasms",
+  "blockCode": "C81-C96",
+  "block": "Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",
+  "categoryCode": "C96",
+  "category": "Other and unspecified malignant neoplasms of lymphoid, haematopoietic and related tissue",
+  "subcategory": "C96.2",
+  "title": "Malignant mast cell tumour",
+  "inclusion": [
+    "Aggressive systemic mastocytosis",
+    "Mast cell sarcoma"
+  ],
+  "exclusion": [
+    "secondary and unspecified neoplasm of lymph nodes",
+    "indolent mastocytosis",
+    "mast cell leukaemia",
+    "mastocytosis (congenital) (cutaneous)"
+  ],
+  "children": null
+}

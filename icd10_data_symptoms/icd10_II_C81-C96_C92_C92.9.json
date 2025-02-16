@@ -1,0 +1,26 @@
+{
+    "icd10code": "C92.9",
+    "type": "subcategory",
+    "title": "Myeloid leukaemia, unspecified",
+    "chapter": "Neoplasms",
+    "chapterCode": "II",
+    "block": "Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",
+    "blockCode": "C81-C96",
+    "category": "Myeloid leukaemia",
+    "categoryCode": "C92",
+    "subcategory": "C92.9",
+    "inclusion": [
+        "leukaemia: granulocytic",
+        "leukaemia: myelogenous"
+    ],
+    "exclusion": [
+        "secondary and unspecified neoplasm of lymph nodes"
+    ],
+    "symptoms": [
+        "fever",
+        "fatigue",
+        "loss of appetite",
+        "weight loss",
+        "shortness of breath"
+    ]
+}

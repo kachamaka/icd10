@@ -1,0 +1,26 @@
+{
+  "type": "subcategory",
+  "chapterCode": "XVII",
+  "chapter": "Congenital malformations, deformations and chromosomal abnormalities",
+  "blockCode": "Q20-Q28",
+  "block": "Congenital malformations of the circulatory system",
+  "categoryCode": "Q28",
+  "category": "Other congenital malformations of circulatory system",
+  "subcategory": "Q28.2",
+  "title": "Arteriovenous malformation of cerebral vessels",
+  "inclusion": [
+    "Arteriovenous malformation of brain NOS",
+    "Congenital arteriovenous cerebral aneurysm (nonruptured)"
+  ],
+  "exclusion": [
+    "inborn errors of metabolism",
+    "congenital aneurysm: NOS",
+    "congenital aneurysm: coronary",
+    "congenital aneurysm: peripheral",
+    "congenital aneurysm: pulmonary",
+    "congenital aneurysm: retinal",
+    "ruptured: cerebral arteriovenous malformation",
+    "ruptured: malformation of precerebral vessels"
+  ],
+  "children": null
+}

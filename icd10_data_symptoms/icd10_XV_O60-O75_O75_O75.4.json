@@ -1,0 +1,40 @@
+{
+    "icd10code": "O75.4",
+    "type": "subcategory",
+    "title": "Other complications of obstetric surgery and procedures",
+    "chapter": "Pregnancy, childbirth and the puerperium",
+    "chapterCode": "XV",
+    "block": "Complications of labour and delivery",
+    "blockCode": "O60-O75",
+    "category": "Other complications of labour and delivery, not elsewhere classified",
+    "categoryCode": "O75",
+    "subcategory": "O75.4",
+    "inclusion": [
+        "Cardiac: arrest following caesarean or other obstetric surgery or procedures, including delivery NOS",
+        "Cardiac: failure following caesarean or other obstetric surgery or procedures, including delivery NOS",
+        "Cerebral anoxia following caesarean or other obstetric surgery or procedures, including delivery NOS"
+    ],
+    "exclusion": [
+        "Certain diseases or injuries complicating pregnancy, childbirth and the puerperium classified elsewhere: external causes (for mortality)",
+        "Certain diseases or injuries complicating pregnancy, childbirth and the puerperium classified elsewhere: injury, poisoning and certain other consequences of external cause",
+        "Certain diseases or injuries complicating pregnancy, childbirth and the puerperium classified elsewhere: mental and behavioural disorders associated with the puerperium",
+        "Certain diseases or injuries complicating pregnancy, childbirth and the puerperium classified elsewhere: obstetrical tetanus",
+        "Certain diseases or injuries complicating pregnancy, childbirth and the puerperium classified elsewhere: postpartum necrosis of pituitary gland",
+        "Certain diseases or injuries complicating pregnancy, childbirth and the puerperium classified elsewhere: puerperal osteomalacia",
+        "supervision of: high-risk pregnancy",
+        "supervision of: normal pregnancy",
+        "puerperal: infection",
+        "puerperal: sepsis",
+        "complications of anaesthesia during labour and delivery",
+        "obstetric (surgical) wound: disruption",
+        "obstetric (surgical) wound: haematoma",
+        "obstetric (surgical) wound: infection"
+    ],
+    "symptoms": [
+        "fever",
+        "chills",
+        "increased heart rate",
+        "low blood pressure",
+        "malaise"
+    ]
+}

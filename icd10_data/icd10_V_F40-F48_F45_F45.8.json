@@ -1,0 +1,35 @@
+{
+  "type": "subcategory",
+  "chapterCode": "V",
+  "chapter": "Mental and behavioural disorders",
+  "blockCode": "F40-F48",
+  "block": "Neurotic, stress-related and somatoform disorders",
+  "categoryCode": "F45",
+  "category": "Somatoform disorders",
+  "subcategory": "F45.8",
+  "title": "Other somatoform disorders",
+  "inclusion": [
+    "disorders of psychological development",
+    "Psychogenic: dysmenorrhoea",
+    "Psychogenic: dysphagia, including \"globus hystericus\"",
+    "Psychogenic: pruritus",
+    "Psychogenic: torticollis",
+    "Teeth-grinding"
+  ],
+  "exclusion": [
+    "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+    "when associated with conduct disorder in F91.-",
+    "dissociative disorders",
+    "hair-plucking",
+    "lalling",
+    "lisping",
+    "nail-biting",
+    "psychological or behavioural factors associated with disorders or diseases classified elsewhere",
+    "sexual dysfunction, not caused by organic disorder or disease",
+    "thumb-sucking",
+    "tic disorders (in childhood and adolescence)",
+    "Tourette syndrome",
+    "trichotillomania"
+  ],
+  "children": null
+}

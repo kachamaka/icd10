@@ -1,0 +1,21 @@
+{
+  "type": "subcategory",
+  "chapterCode": "II",
+  "chapter": "Neoplasms",
+  "blockCode": "C00-C14",
+  "block": "Malignant neoplasms of lip, oral cavity and pharynx",
+  "categoryCode": "C00",
+  "category": "Malignant neoplasm of lip",
+  "subcategory": "C00.3",
+  "title": "Malignant neoplasm: Upper lip, inner aspect",
+  "inclusion": [
+    "Upper lip: buccal aspect",
+    "Upper lip: frenulum",
+    "Upper lip: mucosa",
+    "Upper lip: oral aspect"
+  ],
+  "exclusion": [
+    "skin of lip"
+  ],
+  "children": null
+}

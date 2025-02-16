@@ -1,0 +1,21 @@
+{
+    "icd10code": "C74.9",
+    "type": "subcategory",
+    "title": "Malignant neoplasm: Adrenal gland, unspecified",
+    "chapter": "Neoplasms",
+    "chapterCode": "II",
+    "block": "Malignant neoplasms of thyroid and other endocrine glands",
+    "blockCode": "C73-C75",
+    "category": "Malignant neoplasm of adrenal gland",
+    "categoryCode": "C74",
+    "subcategory": "C74.9",
+    "inclusion": null,
+    "exclusion": null,
+    "symptoms": [
+        "abdominal pain",
+        "unexplained weight loss",
+        "persistent fatigue",
+        "high blood pressure",
+        "abnormally heavy sweating"
+    ]
+}

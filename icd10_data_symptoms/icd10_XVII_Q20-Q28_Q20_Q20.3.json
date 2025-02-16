@@ -1,0 +1,28 @@
+{
+    "icd10code": "Q20.3",
+    "type": "subcategory",
+    "title": "Discordant ventriculoarterial connection",
+    "chapter": "Congenital malformations, deformations and chromosomal abnormalities",
+    "chapterCode": "XVII",
+    "block": "Congenital malformations of the circulatory system",
+    "blockCode": "Q20-Q28",
+    "category": "Congenital malformations of cardiac chambers and connections",
+    "categoryCode": "Q20",
+    "subcategory": "Q20.3",
+    "inclusion": [
+        "Dextrotransposition of aorta",
+        "Transposition of great vessels (complete)"
+    ],
+    "exclusion": [
+        "inborn errors of metabolism",
+        "dextrocardia with situs inversus",
+        "mirror-image atrial arrangement with situs inversus"
+    ],
+    "symptoms": [
+        "abnormal heart rhythm",
+        "shortness of breath",
+        "fatigue",
+        "cyanosis",
+        "poor feeding"
+    ]
+}

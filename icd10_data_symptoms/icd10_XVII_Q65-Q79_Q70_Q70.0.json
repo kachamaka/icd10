@@ -1,0 +1,25 @@
+{
+    "icd10code": "Q70.0",
+    "type": "subcategory",
+    "title": "Fused fingers",
+    "chapter": "Congenital malformations, deformations and chromosomal abnormalities",
+    "chapterCode": "XVII",
+    "block": "Congenital malformations and deformations of the musculoskeletal system",
+    "blockCode": "Q65-Q79",
+    "category": "Syndactyly",
+    "categoryCode": "Q70",
+    "subcategory": "Q70.0",
+    "inclusion": [
+        "Complex syndactyly of fingers with synostosis"
+    ],
+    "exclusion": [
+        "inborn errors of metabolism"
+    ],
+    "symptoms": [
+        "fusion of eyelid margins",
+        "partial or complete eyelid closure",
+        "difficulty opening eyes",
+        "vision obstruction",
+        "abnormal eyelid appearance"
+    ]
+}

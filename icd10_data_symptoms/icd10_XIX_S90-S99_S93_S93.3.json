@@ -1,0 +1,39 @@
+{
+    "icd10code": "S93.3",
+    "type": "subcategory",
+    "title": "Dislocation of other and unspecified parts of foot",
+    "chapter": "Injury, poisoning and certain other consequences of external causes",
+    "chapterCode": "XIX",
+    "block": "Injuries to the ankle and foot",
+    "blockCode": "S90-S99",
+    "category": "Dislocation, sprain and strain of joints and ligaments at ankle and foot level",
+    "categoryCode": "S93",
+    "subcategory": "S93.3",
+    "inclusion": [
+        "Navicular, foot",
+        "Tarsal (joint(s))",
+        "Tarsometatarsal (joint(s))"
+    ],
+    "exclusion": [
+        "birth trauma",
+        "obstetric trauma",
+        "malunion of fracture",
+        "nonunion of fracture [pseudarthrosis]",
+        "pathological fracture",
+        "pathological fracture with osteoporosis",
+        "stress fracture",
+        "bilateral involvement of ankle and foot",
+        "burns and corrosions",
+        "fracture of ankle and malleolus",
+        "frostbite",
+        "injuries of leg, level unspecified",
+        "insect bite or sting, venomous"
+    ],
+    "symptoms": [
+        "pain",
+        "swelling",
+        "bruising",
+        "limited range of motion",
+        "difficulty bearing weight"
+    ]
+}

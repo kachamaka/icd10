@@ -1,0 +1,27 @@
+{
+  "type": "category",
+  "chapterCode": "XX",
+  "chapter": "External causes of morbidity and mortality",
+  "blockCode": "W20-W49",
+  "block": "Exposure to inanimate mechanical forces",
+  "categoryCode": "W30",
+  "category": "Contact with agricultural machinery",
+  "subcategory": "",
+  "title": "Contact with agricultural machinery",
+  "inclusion": [
+    "animal-powered farm machine",
+    "combine harvester",
+    "derrick, hay",
+    "farm machinery NOS",
+    "reaper",
+    "thresher"
+  ],
+  "exclusion": [
+    "assault",
+    "contact or collision with animals or persons",
+    "intentional self-harm",
+    "contact with agricultural machinery in transport under own power or being towed by a vehicle",
+    "exposure to electric current"
+  ],
+  "children": null
+}

@@ -1,0 +1,16 @@
+{
+  "type": "subcategory",
+  "chapterCode": "II",
+  "chapter": "Neoplasms",
+  "blockCode": "C00-C14",
+  "block": "Malignant neoplasms of lip, oral cavity and pharynx",
+  "categoryCode": "C05",
+  "category": "Malignant neoplasm of palate",
+  "subcategory": "C05.1",
+  "title": "Malignant neoplasm: Soft palate",
+  "inclusion": null,
+  "exclusion": [
+    "nasopharyngeal surface of soft palate"
+  ],
+  "children": null
+}

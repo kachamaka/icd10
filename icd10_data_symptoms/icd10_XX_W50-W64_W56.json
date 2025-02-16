@@ -1,0 +1,26 @@
+{
+    "icd10code": "W56",
+    "type": "category",
+    "title": "Contact with marine animal",
+    "chapter": "External causes of morbidity and mortality",
+    "chapterCode": "XX",
+    "block": "Exposure to animate mechanical forces",
+    "blockCode": "W50-W64",
+    "category": "Contact with marine animal",
+    "categoryCode": "W56",
+    "subcategory": "",
+    "inclusion": [
+        "Bitten or struck by marine animal"
+    ],
+    "exclusion": [
+        "bites, venomous",
+        "stings (venomous)"
+    ],
+    "symptoms": [
+        "pain",
+        "redness",
+        "swelling",
+        "itching",
+        "bruising"
+    ]
+}

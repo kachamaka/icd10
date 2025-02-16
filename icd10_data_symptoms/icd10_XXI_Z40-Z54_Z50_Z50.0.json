@@ -1,0 +1,20 @@
+{
+    "icd10code": "Z50.0",
+    "type": "subcategory",
+    "title": "Cardiac rehabilitation",
+    "chapter": "Factors influencing health status and contact with health services",
+    "chapterCode": "XXI",
+    "block": "Persons encountering health services for specific procedures and health care",
+    "blockCode": "Z40-Z54",
+    "category": "Care involving use of rehabilitation procedures",
+    "categoryCode": "Z50",
+    "subcategory": "Z50.0",
+    "inclusion": null,
+    "exclusion": [
+        "follow-up examination for medical surveillance after treatment",
+        "counselling"
+    ],
+    "symptoms": [
+        "asymptomatic"
+    ]
+}

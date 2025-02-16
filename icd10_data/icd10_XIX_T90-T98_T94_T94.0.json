@@ -1,0 +1,24 @@
+{
+  "type": "subcategory",
+  "chapterCode": "XIX",
+  "chapter": "Injury, poisoning and certain other consequences of external causes",
+  "blockCode": "T90-T98",
+  "block": "Sequelae of injuries, of poisoning and of other consequences of external causes",
+  "categoryCode": "T94",
+  "category": "Sequelae of injuries involving multiple and unspecified body regions",
+  "subcategory": "T94.0",
+  "title": "Sequelae of injuries involving multiple body regions",
+  "inclusion": [
+    "Sequelae of injury classifiable to T00-T07"
+  ],
+  "exclusion": [
+    "birth trauma",
+    "obstetric trauma",
+    "malunion of fracture",
+    "nonunion of fracture [pseudarthrosis]",
+    "pathological fracture",
+    "pathological fracture with osteoporosis",
+    "stress fracture"
+  ],
+  "children": null
+}

@@ -1,0 +1,23 @@
+{
+    "icd10code": "C00.6",
+    "type": "subcategory",
+    "title": "Malignant neoplasm: Commissure of lip",
+    "chapter": "Neoplasms",
+    "chapterCode": "II",
+    "block": "Malignant neoplasms of lip, oral cavity and pharynx",
+    "blockCode": "C00-C14",
+    "category": "Malignant neoplasm of lip",
+    "categoryCode": "C00",
+    "subcategory": "C00.6",
+    "inclusion": null,
+    "exclusion": [
+        "skin of lip"
+    ],
+    "symptoms": [
+        "pain in the lower lip area",
+        "swelling or lumps on the lip",
+        "bleeding from the lip",
+        "numbness",
+        "changes in lip color or texture"
+    ]
+}

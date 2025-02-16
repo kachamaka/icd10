@@ -1,0 +1,37 @@
+{
+    "icd10code": "T12",
+    "type": "category",
+    "title": "Fracture of lower limb, level unspecified",
+    "chapter": "Injury, poisoning and certain other consequences of external causes",
+    "chapterCode": "XIX",
+    "block": "Injuries to unspecified part of trunk, limb or body region",
+    "blockCode": "T08-T14",
+    "category": "Fracture of lower limb, level unspecified",
+    "categoryCode": "T12",
+    "subcategory": "",
+    "inclusion": [
+        "Broken leg NOS",
+        "Fracture of leg NOS"
+    ],
+    "exclusion": [
+        "birth trauma",
+        "obstetric trauma",
+        "malunion of fracture",
+        "nonunion of fracture [pseudarthrosis]",
+        "pathological fracture",
+        "pathological fracture with osteoporosis",
+        "stress fracture",
+        "burns and corrosions",
+        "frostbite",
+        "injuries involving multiple body regions",
+        "insect bite or sting, venomous",
+        "multiple fractures of leg, level unspecified"
+    ],
+    "symptoms": [
+        "swelling",
+        "pain",
+        "bruising",
+        "limited range of motion",
+        "deformity"
+    ]
+}

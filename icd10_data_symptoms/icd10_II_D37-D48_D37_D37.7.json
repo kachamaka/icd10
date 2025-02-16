@@ -1,0 +1,32 @@
+{
+    "icd10code": "D37.7",
+    "type": "subcategory",
+    "title": "Neoplasm of uncertain or unknown behaviour: Other digestive organs",
+    "chapter": "Neoplasms",
+    "chapterCode": "II",
+    "block": "Neoplasms of uncertain or unknown behaviour",
+    "blockCode": "D37-D48",
+    "category": "Neoplasm of uncertain or unknown behaviour of oral cavity and digestive organs",
+    "categoryCode": "D37",
+    "subcategory": "D37.7",
+    "inclusion": [
+        "Anal: canal",
+        "Anal: sphincter",
+        "Anus NOS",
+        "Intestine NOS",
+        "Oesophagus",
+        "Pancreas"
+    ],
+    "exclusion": [
+        "anal: margin",
+        "anal: skin",
+        "perianal skin"
+    ],
+    "symptoms": [
+        "abdominal pain",
+        "unexplained weight loss",
+        "diarrhea",
+        "rectal bleeding",
+        "changes in bowel habits"
+    ]
+}

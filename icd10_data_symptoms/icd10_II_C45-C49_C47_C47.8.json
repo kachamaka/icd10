@@ -1,0 +1,23 @@
+{
+    "icd10code": "C47.8",
+    "type": "subcategory",
+    "title": "Malignant neoplasm: Overlapping lesion of peripheral nerves and autonomic nervous system",
+    "chapter": "Neoplasms",
+    "chapterCode": "II",
+    "block": "Malignant neoplasms of mesothelial and soft tissue",
+    "blockCode": "C45-C49",
+    "category": "Malignant neoplasm of peripheral nerves and autonomic nervous system",
+    "categoryCode": "C47",
+    "subcategory": "C47.8",
+    "inclusion": [
+        "sympathetic and parasympathetic nerves and ganglia"
+    ],
+    "exclusion": null,
+    "symptoms": [
+        "pain in affected area",
+        "sensory loss",
+        "muscle weakness",
+        "numbness",
+        "tingling sensation"
+    ]
+}

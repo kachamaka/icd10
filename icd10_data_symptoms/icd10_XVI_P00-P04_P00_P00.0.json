@@ -1,0 +1,35 @@
+{
+    "icd10code": "P00.0",
+    "type": "subcategory",
+    "title": "Fetus and newborn affected by maternal hypertensive disorders",
+    "chapter": "Certain conditions originating in the perinatal period",
+    "chapterCode": "XVI",
+    "block": "Fetus and newborn affected by maternal factors and by complications of pregnancy, labour and delivery",
+    "blockCode": "P00-P04",
+    "category": "Fetus and newborn affected by maternal conditions that may be unrelated to present pregnancy",
+    "categoryCode": "P00",
+    "subcategory": "P00.0",
+    "inclusion": [
+        "conditions that have their origin in the perinatal period even though death or morbidity occurs later",
+        "the listed maternal conditions only when specified as a cause of mortality or morbidity in fetus or newborn",
+        "Fetus or newborn affected by maternal conditions classifiable to O10-O11, O13-O16"
+    ],
+    "exclusion": [
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "tetanus neonatorum",
+        "whooping cough",
+        "fetus and newborn affected by: maternal complications of pregnancy",
+        "fetus and newborn affected by: maternal endocrine and metabolic disorders",
+        "fetus and newborn affected by: noxious influences transmitted via placenta or breast milk"
+    ],
+    "symptoms": [
+        "low birth weight",
+        "respiratory distress",
+        "poor feeding",
+        "hypothermia",
+        "irritability"
+    ]
+}

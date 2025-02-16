@@ -1,0 +1,18 @@
+{
+  "type": "subcategory",
+  "chapterCode": "XVII",
+  "chapter": "Congenital malformations, deformations and chromosomal abnormalities",
+  "blockCode": "Q80-Q89",
+  "block": "Other congenital malformations",
+  "categoryCode": "Q81",
+  "category": "Epidermolysis bullosa",
+  "subcategory": "Q81.1",
+  "title": "Epidermolysis bullosa letalis",
+  "inclusion": [
+    "Herlitz syndrome"
+  ],
+  "exclusion": [
+    "inborn errors of metabolism"
+  ],
+  "children": null
+}

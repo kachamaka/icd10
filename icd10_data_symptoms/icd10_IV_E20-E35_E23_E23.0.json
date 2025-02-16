@@ -1,0 +1,45 @@
+{
+    "icd10code": "E23.0",
+    "type": "subcategory",
+    "title": "Hypopituitarism",
+    "chapter": "Endocrine, nutritional and metabolic diseases",
+    "chapterCode": "IV",
+    "block": "Disorders of other endocrine glands",
+    "blockCode": "E20-E35",
+    "category": "Hypofunction and other disorders of pituitary gland",
+    "categoryCode": "E23",
+    "subcategory": "E23.0",
+    "inclusion": [
+        "the listed conditions whether the disorder is in the pituitary or the hypothalamus",
+        "Fertile eunuch syndrome",
+        "Hypogonadotropic hypogonadism",
+        "Idiopathic growth hormone deficiency",
+        "Isolated deficiency of: gonadotropin",
+        "Isolated deficiency of: growth hormone",
+        "Isolated deficiency of: pituitary hormone",
+        "Kallmann syndrome",
+        "Lorain-Levi short stature",
+        "Necrosis of pituitary gland (postpartum)",
+        "Panhypopituitarism",
+        "Pituitary: cachexia",
+        "Pituitary: insufficiency NOS",
+        "Pituitary: short stature",
+        "Sheehan syndrome",
+        "Simmonds disease"
+    ],
+    "exclusion": [
+        "complications of pregnancy, childbirth and the puerperium",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "transitory endocrine and metabolic disorders specific to fetus and newborn",
+        "galactorrhoea",
+        "gynaecomastia",
+        "aplasia or hypoplasia with immunodeficiency"
+    ],
+    "symptoms": [
+        "fatigue",
+        "headache",
+        "loss of appetite",
+        "low blood pressure",
+        "unexplained weight loss"
+    ]
+}

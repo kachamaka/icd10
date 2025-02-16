@@ -1,0 +1,27 @@
+{
+  "type": "subcategory",
+  "chapterCode": "IV",
+  "chapter": "Endocrine, nutritional and metabolic diseases",
+  "blockCode": "E70-E90",
+  "block": "Metabolic disorders",
+  "categoryCode": "E77",
+  "category": "Disorders of glycoprotein metabolism",
+  "subcategory": "E77.0",
+  "title": "Defects in post-translational modification of lysosomal enzymes",
+  "inclusion": [
+    "Mucolipidosis II [I-cell disease]",
+    "Mucolipidosis III [pseudo-Hurler polydystrophy]"
+  ],
+  "exclusion": [
+    "complications of pregnancy, childbirth and the puerperium",
+    "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+    "transitory endocrine and metabolic disorders specific to fetus and newborn",
+    "androgen resistance syndrome",
+    "congenital adrenal hyperplasia",
+    "Ehlers-Danlos syndrome",
+    "haemolytic anaemias due to enzyme disorders",
+    "Marfan syndrome",
+    "5-alpha-reductase deficiency"
+  ],
+  "children": null
+}

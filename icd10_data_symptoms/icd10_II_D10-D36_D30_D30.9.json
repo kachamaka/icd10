@@ -1,0 +1,24 @@
+{
+    "icd10code": "D30.9",
+    "type": "subcategory",
+    "title": "Benign neoplasm: Urinary organ, unspecified",
+    "chapter": "Neoplasms",
+    "chapterCode": "II",
+    "block": "Benign neoplasms",
+    "blockCode": "D10-D36",
+    "category": "Benign neoplasm of urinary organs",
+    "categoryCode": "D30",
+    "subcategory": "D30.9",
+    "inclusion": [
+        "morphology codes with behaviour code /0",
+        "Urinary system NOS"
+    ],
+    "exclusion": null,
+    "symptoms": [
+        "hematuria (blood in urine)",
+        "back pain",
+        "frequent urination",
+        "abdominal pain",
+        "difficulty urinating"
+    ]
+}

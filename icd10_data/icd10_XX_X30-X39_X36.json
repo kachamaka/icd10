@@ -1,0 +1,19 @@
+{
+  "type": "category",
+  "chapterCode": "XX",
+  "chapter": "External causes of morbidity and mortality",
+  "blockCode": "X30-X39",
+  "block": "Exposure to forces of nature",
+  "categoryCode": "X36",
+  "category": "Victim of avalanche, landslide and other earth movements",
+  "subcategory": "",
+  "title": "Victim of avalanche, landslide and other earth movements",
+  "inclusion": [
+    "mudslide of cataclysmic nature"
+  ],
+  "exclusion": [
+    "earthquake",
+    "transport accident involving collision with avalanche or landslide not in motion"
+  ],
+  "children": null
+}

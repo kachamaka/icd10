@@ -1,0 +1,25 @@
+{
+    "icd10code": "Y19",
+    "type": "category",
+    "title": "Poisoning by and exposure to other and unspecified chemicals and noxious substances, undetermined intent",
+    "chapter": "External causes of morbidity and mortality",
+    "chapterCode": "XX",
+    "block": "Event of undetermined intent",
+    "blockCode": "Y10-Y34",
+    "category": "Poisoning by and exposure to other and unspecified chemicals and noxious substances, undetermined intent",
+    "categoryCode": "Y19",
+    "subcategory": "",
+    "inclusion": [
+        "corrosive aromatics, acids and caustic alkalis",
+        "glues and adhesives",
+        "metals including fumes and vapours",
+        "paints and dyes",
+        "plant foods and fertilizers",
+        "poisonous foodstuffs and poisonous plants",
+        "soaps and detergents"
+    ],
+    "exclusion": null,
+    "symptoms": [
+        "asymptomatic"
+    ]
+}

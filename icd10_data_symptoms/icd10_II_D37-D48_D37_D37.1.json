@@ -1,0 +1,21 @@
+{
+    "icd10code": "D37.1",
+    "type": "subcategory",
+    "title": "Neoplasm of uncertain or unknown behaviour: Stomach",
+    "chapter": "Neoplasms",
+    "chapterCode": "II",
+    "block": "Neoplasms of uncertain or unknown behaviour",
+    "blockCode": "D37-D48",
+    "category": "Neoplasm of uncertain or unknown behaviour of oral cavity and digestive organs",
+    "categoryCode": "D37",
+    "subcategory": "D37.1",
+    "inclusion": null,
+    "exclusion": null,
+    "symptoms": [
+        "bleeding in the intestinal tract",
+        "abdominal pain",
+        "change in bowel habits",
+        "unintended weight loss",
+        "rectal bleeding"
+    ]
+}

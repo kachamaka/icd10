@@ -1,0 +1,36 @@
+{
+    "icd10code": "L57.8",
+    "type": "subcategory",
+    "title": "Other skin changes due to chronic exposure to nonionizing radiation",
+    "chapter": "Diseases of the skin and subcutaneous tissue",
+    "chapterCode": "XII",
+    "block": "Radiation-related disorders of the skin and subcutaneous tissue",
+    "blockCode": "L55-L59",
+    "category": "Skin changes due to chronic exposure to nonionizing radiation",
+    "categoryCode": "L57",
+    "subcategory": "L57.8",
+    "inclusion": [
+        "Farmer skin",
+        "Sailor skin",
+        "Solar dermatitis"
+    ],
+    "exclusion": [
+        "certain conditions originating in the perinatal period",
+        "certain infectious and parasitic diseases",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "lipomelanotic reticulosis",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "systemic connective tissue disorders"
+    ],
+    "symptoms": [
+        "dry skin",
+        "pigmentation changes",
+        "wrinkles",
+        "leathery skin",
+        "telangiectasia"
+    ]
+}

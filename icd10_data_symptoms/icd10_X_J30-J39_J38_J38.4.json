@@ -1,0 +1,41 @@
+{
+    "icd10code": "J38.4",
+    "type": "subcategory",
+    "title": "Oedema of larynx",
+    "chapter": "Diseases of the respiratory system",
+    "chapterCode": "X",
+    "block": "Other diseases of upper respiratory tract",
+    "blockCode": "J30-J39",
+    "category": "Diseases of vocal cords and larynx, not elsewhere classified",
+    "categoryCode": "J38",
+    "subcategory": "J38.4",
+    "inclusion": [
+        "Oedema (of): glottis",
+        "Oedema (of): subglottic",
+        "Oedema (of): supraglottic"
+    ],
+    "exclusion": [
+        "certain conditions originating in the perinatal period",
+        "certain infectious and parasitic diseases",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "laryngitis: obstructive (acute)",
+        "laryngitis: ulcerative",
+        "postprocedural subglottic stenosis",
+        "stridor: congenital laryngeal NOS",
+        "stridor: NOS",
+        "laryngitis: acute obstructive [croup]",
+        "laryngitis: oedematous"
+    ],
+    "symptoms": [
+        "hoarseness",
+        "vocal fatigue",
+        "breathy voice",
+        "difficulty speaking",
+        "reduced vocal range"
+    ]
+}

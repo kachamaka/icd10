@@ -1,0 +1,26 @@
+{
+    "icd10code": "R04.8",
+    "type": "subcategory",
+    "title": "Haemorrhage from other sites in respiratory passages",
+    "chapter": "Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+    "chapterCode": "XVIII",
+    "block": "Symptoms and signs involving the circulatory and respiratory systems",
+    "blockCode": "R00-R09",
+    "category": "Haemorrhage from respiratory passages",
+    "categoryCode": "R04",
+    "subcategory": "R04.8",
+    "inclusion": [
+        "Pulmonary haemorrhage NOS"
+    ],
+    "exclusion": [
+        "abnormal findings on antenatal screening of mother",
+        "certain conditions originating in the perinatal period",
+        "perinatal pulmonary haemorrhage"
+    ],
+    "symptoms": [
+        "coughing up blood",
+        "blood in sputum",
+        "nasal bleeding",
+        "throat bleeding"
+    ]
+}

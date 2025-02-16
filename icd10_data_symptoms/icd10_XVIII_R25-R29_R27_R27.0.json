@@ -1,0 +1,27 @@
+{
+    "icd10code": "R27.0",
+    "type": "subcategory",
+    "title": "Ataxia, unspecified",
+    "chapter": "Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+    "chapterCode": "XVIII",
+    "block": "Symptoms and signs involving the nervous and musculoskeletal systems",
+    "blockCode": "R25-R29",
+    "category": "Other lack of coordination",
+    "categoryCode": "R27",
+    "subcategory": "R27.0",
+    "inclusion": null,
+    "exclusion": [
+        "abnormal findings on antenatal screening of mother",
+        "certain conditions originating in the perinatal period",
+        "ataxic gait",
+        "hereditary ataxia",
+        "vertigo NOS"
+    ],
+    "symptoms": [
+        "difficulty walking",
+        "unsteadiness",
+        "clumsiness",
+        "poor coordination",
+        "abnormal gait patterns"
+    ]
+}

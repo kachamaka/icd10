@@ -1,0 +1,29 @@
+{
+    "icd10code": "Q45.8",
+    "type": "subcategory",
+    "title": "Other specified congenital malformations of digestive system",
+    "chapter": "Congenital malformations, deformations and chromosomal abnormalities",
+    "chapterCode": "XVII",
+    "block": "Other congenital malformations of the digestive system",
+    "blockCode": "Q38-Q45",
+    "category": "Other congenital malformations of digestive system",
+    "categoryCode": "Q45",
+    "subcategory": "Q45.8",
+    "inclusion": [
+        "Absence (complete)(partial) of alimentary tract NOS",
+        "Duplication of digestive organs NOS",
+        "Malposition, congenital of digestive organs NOS"
+    ],
+    "exclusion": [
+        "inborn errors of metabolism",
+        "congenital: diaphragmatic hernia",
+        "congenital: hiatus hernia"
+    ],
+    "symptoms": [
+        "abdominal pain",
+        "jaundice",
+        "vomiting",
+        "feeding difficulties",
+        "failure to thrive"
+    ]
+}

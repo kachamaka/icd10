@@ -1,0 +1,36 @@
+{
+    "icd10code": "I35.2",
+    "type": "subcategory",
+    "title": "Aortic (valve) stenosis with insufficiency",
+    "chapter": "Diseases of the circulatory system",
+    "chapterCode": "IX",
+    "block": "Other forms of heart disease",
+    "blockCode": "I30-I52",
+    "category": "Nonrheumatic aortic valve disorders",
+    "categoryCode": "I35",
+    "subcategory": "I35.2",
+    "inclusion": null,
+    "exclusion": [
+        "certain conditions originating in the perinatal period",
+        "certain infectious and parasitic diseases",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "systemic connective tissue disorders",
+        "transient cerebral ischaemic attacks and related syndromes",
+        "rheumatoid carditis",
+        "when not specified as rheumatic",
+        "nonspecific low blood pressure reading NOS",
+        "sequelae of the listed conditions"
+    ],
+    "symptoms": [
+        "chest discomfort",
+        "lightheadedness",
+        "fatigue",
+        "rapid or irregular heartbeat",
+        "breathlessness"
+    ]
+}

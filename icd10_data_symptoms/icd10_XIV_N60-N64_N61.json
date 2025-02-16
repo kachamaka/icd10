@@ -1,0 +1,38 @@
+{
+    "icd10code": "N61",
+    "type": "category",
+    "title": "Inflammatory disorders of breast",
+    "chapter": "Diseases of the genitourinary system",
+    "chapterCode": "XIV",
+    "block": "Disorders of breast",
+    "blockCode": "N60-N64",
+    "category": "Inflammatory disorders of breast",
+    "categoryCode": "N61",
+    "subcategory": "",
+    "inclusion": [
+        "Abscess (acute)(chronic)(nonpuerperal) of: areola",
+        "Abscess (acute)(chronic)(nonpuerperal) of: breast",
+        "Carbuncle of breast",
+        "Mastitis (acute)(subacute)(nonpuerperal): NOS",
+        "Mastitis (acute)(subacute)(nonpuerperal): infective"
+    ],
+    "exclusion": [
+        "certain conditions originating in the perinatal period",
+        "certain infectious and parasitic diseases",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "disorders of breast associated with childbirth",
+        "neonatal infective mastitis"
+    ],
+    "symptoms": [
+        "breast pain",
+        "breast redness",
+        "breast swelling",
+        "breast tenderness",
+        "nipple discharge"
+    ]
+}

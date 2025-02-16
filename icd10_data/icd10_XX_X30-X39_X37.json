@@ -1,0 +1,30 @@
+{
+  "type": "category",
+  "chapterCode": "XX",
+  "chapter": "External causes of morbidity and mortality",
+  "blockCode": "X30-X39",
+  "block": "Exposure to forces of nature",
+  "categoryCode": "X37",
+  "category": "Victim of cataclysmic storm",
+  "subcategory": "",
+  "title": "Victim of cataclysmic storm",
+  "inclusion": [
+    "blizzard",
+    "cloudburst",
+    "cyclone",
+    "heavy snowfall",
+    "hurricane",
+    "monsoon",
+    "tidal wave caused by storm",
+    "tornado",
+    "torrential rain",
+    "transport vehicle washed off road by storm",
+    "typhoon"
+  ],
+  "exclusion": [
+    "collapse of dam or man-made structure causing earth movement",
+    "transport accident occurring after storm",
+    "tsunami"
+  ],
+  "children": null
+}

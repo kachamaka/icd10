@@ -1,0 +1,26 @@
+{
+    "icd10code": "Q83.8",
+    "type": "subcategory",
+    "title": "Other congenital malformations of breast",
+    "chapter": "Congenital malformations, deformations and chromosomal abnormalities",
+    "chapterCode": "XVII",
+    "block": "Other congenital malformations",
+    "blockCode": "Q80-Q89",
+    "category": "Congenital malformations of breast",
+    "categoryCode": "Q83",
+    "subcategory": "Q83.8",
+    "inclusion": [
+        "Hypoplasia of breast"
+    ],
+    "exclusion": [
+        "inborn errors of metabolism",
+        "absence of pectoral muscle"
+    ],
+    "symptoms": [
+        "breast hypoplasia",
+        "accessory breast tissue",
+        "inverted nipples",
+        "breast asymmetry",
+        "nipple hypoplasia"
+    ]
+}

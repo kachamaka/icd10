@@ -1,0 +1,30 @@
+{
+    "icd10code": "R82.0",
+    "type": "subcategory",
+    "title": "Chyluria",
+    "chapter": "Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+    "chapterCode": "XVIII",
+    "block": "Abnormal findings on examination of urine, without diagnosis",
+    "blockCode": "R80-R82",
+    "category": "Other abnormal findings in urine",
+    "categoryCode": "R82",
+    "subcategory": "R82.0",
+    "inclusion": null,
+    "exclusion": [
+        "abnormal findings on antenatal screening of mother",
+        "certain conditions originating in the perinatal period",
+        "abnormal findings on antenatal screening of mother",
+        "diagnostic abnormal findings classified elsewhere - see Alphabetical Index",
+        "specific findings indicating disorder of: amino-acid metabolism",
+        "specific findings indicating disorder of: carbohydrate metabolism",
+        "haematuria",
+        "filarial chyluria"
+    ],
+    "symptoms": [
+        "abnormal urine color",
+        "red-tinged urine",
+        "pink-tinged urine",
+        "brown urine",
+        "dark orange urine"
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "icd10code": "F41.0",
+    "type": "subcategory",
+    "title": "Panic disorder [episodic paroxysmal anxiety]",
+    "chapter": "Mental and behavioural disorders",
+    "chapterCode": "V",
+    "block": "Neurotic, stress-related and somatoform disorders",
+    "blockCode": "F40-F48",
+    "category": "Other anxiety disorders",
+    "categoryCode": "F41",
+    "subcategory": "F41.0",
+    "inclusion": [
+        "disorders of psychological development",
+        "Panic: attack",
+        "Panic: state"
+    ],
+    "exclusion": [
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "when associated with conduct disorder in F91.-",
+        "panic disorder with agoraphobia"
+    ],
+    "symptoms": [
+        "excessive worry",
+        "restlessness",
+        "fatigue",
+        "difficulty concentrating",
+        "muscle tension"
+    ]
+}

@@ -1,0 +1,34 @@
+{
+  "type": "subcategory",
+  "chapterCode": "IX",
+  "chapter": "Diseases of the circulatory system",
+  "blockCode": "I30-I52",
+  "block": "Other forms of heart disease",
+  "categoryCode": "I39",
+  "category": "Endocarditis and heart valve disorders in diseases classified elsewhere",
+  "subcategory": "I39.4",
+  "title": "Multiple valve disorders in diseases classified elsewhere",
+  "inclusion": [
+    "endocardial involvement in: candidal infection",
+    "endocardial involvement in: gonococcal infection",
+    "endocardial involvement in: Libman-Sacks disease",
+    "endocardial involvement in: meningococcal infection",
+    "endocardial involvement in: rheumatoid arthritis",
+    "endocardial involvement in: syphilis",
+    "endocardial involvement in: tuberculosis",
+    "endocardial involvement in: typhoid fever"
+  ],
+  "exclusion": [
+    "certain conditions originating in the perinatal period",
+    "certain infectious and parasitic diseases",
+    "complications of pregnancy, childbirth and the puerperium",
+    "congenital malformations, deformations and chromosomal abnormalities",
+    "endocrine, nutritional and metabolic diseases",
+    "injury, poisoning and certain other consequences of external causes",
+    "neoplasms",
+    "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+    "systemic connective tissue disorders",
+    "transient cerebral ischaemic attacks and related syndromes"
+  ],
+  "children": null
+}

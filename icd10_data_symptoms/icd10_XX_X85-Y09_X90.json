@@ -1,0 +1,28 @@
+{
+    "icd10code": "X90",
+    "type": "category",
+    "title": "Assault by unspecified chemical or noxious substance",
+    "chapter": "External causes of morbidity and mortality",
+    "chapterCode": "XX",
+    "block": "Assault",
+    "blockCode": "X85-Y09",
+    "category": "Assault by unspecified chemical or noxious substance",
+    "categoryCode": "X90",
+    "subcategory": "",
+    "inclusion": [
+        "homicide",
+        "injuries inflicted by another person with intent to injure or kill, by any means",
+        "homicidal poisoning NOS"
+    ],
+    "exclusion": [
+        "injuries due to: legal intervention",
+        "injuries due to: operations of war"
+    ],
+    "symptoms": [
+        "burns",
+        "blisters",
+        "fatigue",
+        "nausea",
+        "skin redness"
+    ]
+}

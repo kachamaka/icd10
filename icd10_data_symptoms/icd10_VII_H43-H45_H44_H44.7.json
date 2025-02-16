@@ -1,0 +1,38 @@
+{
+    "icd10code": "H44.7",
+    "type": "subcategory",
+    "title": "Retained (old) intraocular foreign body, nonmagnetic",
+    "chapter": "Diseases of the eye and adnexa",
+    "chapterCode": "VII",
+    "block": "Disorders of vitreous body and globe",
+    "blockCode": "H43-H45",
+    "category": "Disorders of globe",
+    "categoryCode": "H44",
+    "subcategory": "H44.7",
+    "inclusion": [
+        "disorders affecting multiple structures of eye",
+        "Retained (nonmagnetic)(old) foreign body (in): anterior chamber",
+        "Retained (nonmagnetic)(old) foreign body (in): ciliary body",
+        "Retained (nonmagnetic)(old) foreign body (in): iris",
+        "Retained (nonmagnetic)(old) foreign body (in): lens",
+        "Retained (nonmagnetic)(old) foreign body (in): posterior wall of globe",
+        "Retained (nonmagnetic)(old) foreign body (in): vitreous body"
+    ],
+    "exclusion": [
+        "certain conditions originating in the perinatal period",
+        "certain infectious and parasitic diseases",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified"
+    ],
+    "symptoms": [
+        "floaters",
+        "flashes of light",
+        "blurred vision",
+        "dark spots",
+        "reduced visual acuity"
+    ]
+}

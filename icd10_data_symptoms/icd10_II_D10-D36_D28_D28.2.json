@@ -1,0 +1,27 @@
+{
+    "icd10code": "D28.2",
+    "type": "subcategory",
+    "title": "Benign neoplasm: Uterine tubes and ligaments",
+    "chapter": "Neoplasms",
+    "chapterCode": "II",
+    "block": "Benign neoplasms",
+    "blockCode": "D10-D36",
+    "category": "Benign neoplasm of other and unspecified female genital organs",
+    "categoryCode": "D28",
+    "subcategory": "D28.2",
+    "inclusion": [
+        "morphology codes with behaviour code /0",
+        "adenomatous polyp",
+        "skin of female genital organs",
+        "Fallopian tube",
+        "Uterine ligament (broad)(round)"
+    ],
+    "exclusion": null,
+    "symptoms": [
+        "abnormal vaginal bleeding",
+        "pelvic pain",
+        "increased menstrual flow",
+        "menstrual irregularities",
+        "pain during sexual intercourse"
+    ]
+}

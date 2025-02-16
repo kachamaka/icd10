@@ -1,0 +1,30 @@
+{
+    "icd10code": "A97.1",
+    "type": "subcategory",
+    "title": "Dengue with warning signs",
+    "chapter": "Certain infectious and parasitic diseases",
+    "chapterCode": "I",
+    "block": "Arthropod-borne viral fevers and viral haemorrhagic fevers",
+    "blockCode": "A92-A99",
+    "category": "Dengue",
+    "categoryCode": "A97",
+    "subcategory": "A97.1",
+    "inclusion": [
+        "diseases generally recognized as communicable or transmissible",
+        "Dengue haemorrhagic fever with warning signs"
+    ],
+    "exclusion": [
+        "carrier or suspected carrier of infectious disease",
+        "certain localized infections - see body system-related chapters",
+        "infectious and parasitic diseases complicating pregnancy, childbirth and the puerperium [except obstetrical tetanus]",
+        "infectious and parasitic diseases specific to the perinatal period [except tetanus neonatorum, whooping cough, congenital syphilis, perinatal gonococcal infection and perinatal human immunodeficiency virus [HIV] disease]",
+        "influenza and other acute respiratory infections"
+    ],
+    "symptoms": [
+        "fever",
+        "headache",
+        "muscle pain",
+        "joint pain",
+        "skin rash"
+    ]
+}

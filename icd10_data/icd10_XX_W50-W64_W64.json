@@ -1,0 +1,17 @@
+{
+  "type": "category",
+  "chapterCode": "XX",
+  "chapter": "External causes of morbidity and mortality",
+  "blockCode": "W50-W64",
+  "block": "Exposure to animate mechanical forces",
+  "categoryCode": "W64",
+  "category": "Exposure to other and unspecified animate mechanical forces",
+  "subcategory": "",
+  "title": "Exposure to other and unspecified animate mechanical forces",
+  "inclusion": null,
+  "exclusion": [
+    "bites, venomous",
+    "stings (venomous)"
+  ],
+  "children": null
+}

@@ -1,0 +1,32 @@
+{
+    "icd10code": "D16.4",
+    "type": "subcategory",
+    "title": "Benign neoplasm: Bones of skull and face",
+    "chapter": "Neoplasms",
+    "chapterCode": "II",
+    "block": "Benign neoplasms",
+    "blockCode": "D10-D36",
+    "category": "Benign neoplasm of bone and articular cartilage",
+    "categoryCode": "D16",
+    "subcategory": "D16.4",
+    "inclusion": [
+        "morphology codes with behaviour code /0",
+        "Maxilla (superior)",
+        "Orbital bone"
+    ],
+    "exclusion": [
+        "connective tissue of: ear",
+        "connective tissue of: eyelid",
+        "connective tissue of: larynx",
+        "connective tissue of: nose",
+        "synovia",
+        "lower jaw bone"
+    ],
+    "symptoms": [
+        "pain in the affected area",
+        "lump in the bone",
+        "abnormal growth",
+        "fractures",
+        "swelling"
+    ]
+}

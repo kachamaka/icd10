@@ -1,0 +1,26 @@
+{
+    "icd10code": "Q78.4",
+    "type": "subcategory",
+    "title": "Enchondromatosis",
+    "chapter": "Congenital malformations, deformations and chromosomal abnormalities",
+    "chapterCode": "XVII",
+    "block": "Congenital malformations and deformations of the musculoskeletal system",
+    "blockCode": "Q65-Q79",
+    "category": "Other osteochondrodysplasias",
+    "categoryCode": "Q78",
+    "subcategory": "Q78.4",
+    "inclusion": [
+        "Maffucci syndrome",
+        "Ollier disease"
+    ],
+    "exclusion": [
+        "inborn errors of metabolism"
+    ],
+    "symptoms": [
+        "short stature",
+        "skeletal deformities",
+        "bowed legs",
+        "joint pain",
+        "scoliosis"
+    ]
+}

@@ -1,0 +1,24 @@
+{
+    "icd10code": "X99",
+    "type": "category",
+    "title": "Assault by sharp object",
+    "chapter": "External causes of morbidity and mortality",
+    "chapterCode": "XX",
+    "block": "Assault",
+    "blockCode": "X85-Y09",
+    "category": "Assault by sharp object",
+    "categoryCode": "X99",
+    "subcategory": "",
+    "inclusion": [
+        "homicide",
+        "injuries inflicted by another person with intent to injure or kill, by any means",
+        "stabbed NOS"
+    ],
+    "exclusion": [
+        "injuries due to: legal intervention",
+        "injuries due to: operations of war"
+    ],
+    "symptoms": [
+        "asymptomatic"
+    ]
+}

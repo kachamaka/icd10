@@ -1,0 +1,41 @@
+{
+    "icd10code": "D59.1",
+    "type": "subcategory",
+    "title": "Other autoimmune haemolytic anaemias",
+    "chapter": "Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism",
+    "chapterCode": "III",
+    "block": "Haemolytic anaemias",
+    "blockCode": "D55-D59",
+    "category": "Acquired haemolytic anaemia",
+    "categoryCode": "D59",
+    "subcategory": "D59.1",
+    "inclusion": [
+        "Autoimmune haemolytic disease (cold type)(warm type)",
+        "Chronic cold haemagglutinin disease",
+        "Cold agglutinin: disease",
+        "Cold agglutinin: haemoglobinuria",
+        "Haemolytic anaemia: cold type (secondary)(symptomatic)",
+        "Haemolytic anaemia: warm type (secondary)(symptomatic)"
+    ],
+    "exclusion": [
+        "autoimmune disease (systemic) NOS",
+        "certain conditions originating in the perinatal period",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "human immunodeficiency virus [HIV] disease",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "Evans syndrome",
+        "haemolytic disease of fetus and newborn",
+        "paroxysmal cold haemoglobinuria"
+    ],
+    "symptoms": [
+        "fatigue",
+        "rapid heart rate",
+        "yellow or pale skin",
+        "dark urine",
+        "shortness of breath"
+    ]
+}

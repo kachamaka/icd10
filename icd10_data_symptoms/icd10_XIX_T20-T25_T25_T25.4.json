@@ -1,0 +1,47 @@
+{
+    "icd10code": "T25.4",
+    "type": "subcategory",
+    "title": "Corrosion of unspecified degree of ankle and foot",
+    "chapter": "Injury, poisoning and certain other consequences of external causes",
+    "chapterCode": "XIX",
+    "block": "Burns and corrosions of external body surface, specified by site",
+    "blockCode": "T20-T25",
+    "category": "Burn and corrosion of ankle and foot",
+    "categoryCode": "T25",
+    "subcategory": "T25.4",
+    "inclusion": [
+        "burns (thermal) from: electrical heating appliances",
+        "burns (thermal) from: electricity",
+        "burns (thermal) from: flame",
+        "burns (thermal) from: friction",
+        "burns (thermal) from: hot air and hot gases",
+        "burns (thermal) from: hot objects",
+        "burns (thermal) from: lightning",
+        "burns (thermal) from: radiation",
+        "chemical burns [corrosions] (external)(internal)",
+        "scalds",
+        "Thoracic cavity",
+        "burns and corrosions of: second degree [blisters] [epidermal loss]",
+        "burns and corrosions of: third degree [deep necrosis of underlying tissue] [full-thickness skin loss]",
+        "leg [any part, except ankle and foot alone]"
+    ],
+    "exclusion": [
+        "birth trauma",
+        "obstetric trauma",
+        "malunion of fracture",
+        "nonunion of fracture [pseudarthrosis]",
+        "pathological fracture",
+        "pathological fracture with osteoporosis",
+        "stress fracture",
+        "erythema [dermatitis] ab igne",
+        "radiation-related disorders of the skin and subcutaneous tissue",
+        "sunburn"
+    ],
+    "symptoms": [
+        "blistering",
+        "redness",
+        "swelling",
+        "pain",
+        "peeling skin"
+    ]
+}

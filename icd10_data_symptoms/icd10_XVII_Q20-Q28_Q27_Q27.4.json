@@ -1,0 +1,28 @@
+{
+    "icd10code": "Q27.4",
+    "type": "subcategory",
+    "title": "Congenital phlebectasia",
+    "chapter": "Congenital malformations, deformations and chromosomal abnormalities",
+    "chapterCode": "XVII",
+    "block": "Congenital malformations of the circulatory system",
+    "blockCode": "Q20-Q28",
+    "category": "Other congenital malformations of peripheral vascular system",
+    "categoryCode": "Q27",
+    "subcategory": "Q27.4",
+    "inclusion": null,
+    "exclusion": [
+        "inborn errors of metabolism",
+        "anomalies of: cerebral and precerebral vessels",
+        "anomalies of: coronary vessels",
+        "anomalies of: pulmonary artery",
+        "congenital retinal aneurysm",
+        "haemangioma and lymphangioma"
+    ],
+    "symptoms": [
+        "abnormal blood vessel development",
+        "unusual arteriovenous connections",
+        "palpable vascular mass",
+        "bruit over the malformation",
+        "localized pain or swelling"
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "icd10code": "Z64.4",
+    "type": "subcategory",
+    "title": "Discord with counsellors",
+    "chapter": "Factors influencing health status and contact with health services",
+    "chapterCode": "XXI",
+    "block": "Persons with potential health hazards related to socioeconomic and psychosocial circumstances",
+    "blockCode": "Z55-Z65",
+    "category": "Problems related to certain psychosocial circumstances",
+    "categoryCode": "Z64",
+    "subcategory": "Z64.4",
+    "inclusion": [
+        "Discord with: probation officer",
+        "Discord with: social worker"
+    ],
+    "exclusion": null,
+    "symptoms": [
+        "asymptomatic"
+    ]
+}

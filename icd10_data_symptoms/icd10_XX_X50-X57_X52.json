@@ -1,0 +1,22 @@
+{
+    "icd10code": "X52",
+    "type": "category",
+    "title": "Prolonged stay in weightless environment",
+    "chapter": "External causes of morbidity and mortality",
+    "chapterCode": "XX",
+    "block": "Overexertion, travel and privation",
+    "blockCode": "X50-X57",
+    "category": "Prolonged stay in weightless environment",
+    "categoryCode": "X52",
+    "subcategory": "",
+    "inclusion": [
+        "weightlessness in spacecraft (simulator)"
+    ],
+    "exclusion": [
+        "assault",
+        "transport accidents"
+    ],
+    "symptoms": [
+        "asymptomatic"
+    ]
+}

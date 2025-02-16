@@ -1,0 +1,27 @@
+{
+    "icd10code": "R68.2",
+    "type": "subcategory",
+    "title": "Dry mouth, unspecified",
+    "chapter": "Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+    "chapterCode": "XVIII",
+    "block": "General symptoms and signs",
+    "blockCode": "R50-R69",
+    "category": "Other general symptoms and signs",
+    "categoryCode": "R68",
+    "subcategory": "R68.2",
+    "inclusion": null,
+    "exclusion": [
+        "abnormal findings on antenatal screening of mother",
+        "certain conditions originating in the perinatal period",
+        "dry mouth due to: dehydration",
+        "dry mouth due to: sicca syndrome [Sjögren]",
+        "salivary gland hyposecretion"
+    ],
+    "symptoms": [
+        "fever",
+        "fatigue",
+        "chills",
+        "malaise",
+        "generalized pain"
+    ]
+}

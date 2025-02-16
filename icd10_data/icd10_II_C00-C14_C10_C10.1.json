@@ -1,0 +1,20 @@
+{
+  "type": "subcategory",
+  "chapterCode": "II",
+  "chapter": "Neoplasms",
+  "blockCode": "C00-C14",
+  "block": "Malignant neoplasms of lip, oral cavity and pharynx",
+  "categoryCode": "C10",
+  "category": "Malignant neoplasm of oropharynx",
+  "subcategory": "C10.1",
+  "title": "Malignant neoplasm: Anterior surface of epiglottis",
+  "inclusion": [
+    "Epiglottis, free border [margin]",
+    "Glossoepiglottic fold(s)"
+  ],
+  "exclusion": [
+    "tonsil",
+    "epiglottis (suprahyoid portion) NOS"
+  ],
+  "children": null
+}

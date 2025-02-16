@@ -1,0 +1,24 @@
+{
+    "icd10code": "D13.4",
+    "type": "subcategory",
+    "title": "Benign neoplasm: Liver",
+    "chapter": "Neoplasms",
+    "chapterCode": "II",
+    "block": "Benign neoplasms",
+    "blockCode": "D10-D36",
+    "category": "Benign neoplasm of other and ill-defined parts of digestive system",
+    "categoryCode": "D13",
+    "subcategory": "D13.4",
+    "inclusion": [
+        "morphology codes with behaviour code /0",
+        "Intrahepatic bile ducts"
+    ],
+    "exclusion": null,
+    "symptoms": [
+        "abdominal pain",
+        "unintentional weight loss",
+        "jaundice",
+        "loss of appetite",
+        "feelings of fullness after eating small amounts"
+    ]
+}

@@ -1,0 +1,37 @@
+{
+    "icd10code": "K13.5",
+    "type": "subcategory",
+    "title": "Oral submucous fibrosis",
+    "chapter": "Diseases of the digestive system",
+    "chapterCode": "XI",
+    "block": "Diseases of oral cavity, salivary glands and jaws",
+    "blockCode": "K00-K14",
+    "category": "Other diseases of lip and oral mucosa",
+    "categoryCode": "K13",
+    "subcategory": "K13.5",
+    "inclusion": [
+        "epithelial disturbances of tongue",
+        "Submucous fibrosis of tongue"
+    ],
+    "exclusion": [
+        "certain conditions originating in the perinatal period",
+        "certain infectious and parasitic diseases",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "certain disorders of gingiva and edentulous alveolar ridge",
+        "cysts of oral region",
+        "diseases of tongue",
+        "stomatitis and related lesions"
+    ],
+    "symptoms": [
+        "white patches in mouth",
+        "tongue discomfort",
+        "mild pain",
+        "difficulty eating",
+        "oral burning sensation"
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "icd10code": "D03.6",
+    "type": "subcategory",
+    "title": "Melanoma in situ of upper limb, including shoulder",
+    "chapter": "Neoplasms",
+    "chapterCode": "II",
+    "block": "In situ neoplasms",
+    "blockCode": "D00-D09",
+    "category": "Melanoma in situ",
+    "categoryCode": "D03",
+    "subcategory": "D03.6",
+    "inclusion": [
+        "Bowen disease",
+        "erythroplasia",
+        "morphology codes with behaviour code /2",
+        "Queyrat erythroplasia",
+        "morphology codes M872-M879 with behaviour code /2"
+    ],
+    "exclusion": null,
+    "symptoms": [
+        "chest pain",
+        "rapid heart rate",
+        "arm or shoulder pain",
+        "difficulty swallowing",
+        "shortness of breath"
+    ]
+}

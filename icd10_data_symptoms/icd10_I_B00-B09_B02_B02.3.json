@@ -1,0 +1,38 @@
+{
+    "icd10code": "B02.3",
+    "type": "subcategory",
+    "title": "Zoster ocular disease",
+    "chapter": "Certain infectious and parasitic diseases",
+    "chapterCode": "I",
+    "block": "Viral infections characterized by skin and mucous membrane lesions",
+    "blockCode": "B00-B09",
+    "category": "Zoster [herpes zoster]",
+    "categoryCode": "B02",
+    "subcategory": "B02.3",
+    "inclusion": [
+        "diseases generally recognized as communicable or transmissible",
+        "shingles",
+        "zona",
+        "Zoster: blepharitis",
+        "Zoster: conjunctivitis",
+        "Zoster: iridocyclitis",
+        "Zoster: iritis",
+        "Zoster: keratitis",
+        "Zoster: keratoconjunctivitis",
+        "Zoster: scleritis"
+    ],
+    "exclusion": [
+        "carrier or suspected carrier of infectious disease",
+        "certain localized infections - see body system-related chapters",
+        "infectious and parasitic diseases complicating pregnancy, childbirth and the puerperium [except obstetrical tetanus]",
+        "infectious and parasitic diseases specific to the perinatal period [except tetanus neonatorum, whooping cough, congenital syphilis, perinatal gonococcal infection and perinatal human immunodeficiency virus [HIV] disease]",
+        "influenza and other acute respiratory infections"
+    ],
+    "symptoms": [
+        "painful skin rash",
+        "blisters",
+        "burning sensation",
+        "tingling",
+        "itching"
+    ]
+}

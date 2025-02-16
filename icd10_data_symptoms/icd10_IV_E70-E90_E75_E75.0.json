@@ -1,0 +1,39 @@
+{
+    "icd10code": "E75.0",
+    "type": "subcategory",
+    "title": "GM 2 gangliosidosis",
+    "chapter": "Endocrine, nutritional and metabolic diseases",
+    "chapterCode": "IV",
+    "block": "Metabolic disorders",
+    "blockCode": "E70-E90",
+    "category": "Disorders of sphingolipid metabolism and other lipid storage disorders",
+    "categoryCode": "E75",
+    "subcategory": "E75.0",
+    "inclusion": [
+        "Disease: Sandhoff",
+        "Disease: Tay-Sachs",
+        "GM 2 gangliosidosis: NOS",
+        "GM 2 gangliosidosis: adult",
+        "GM 2 gangliosidosis: juvenile"
+    ],
+    "exclusion": [
+        "complications of pregnancy, childbirth and the puerperium",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "transitory endocrine and metabolic disorders specific to fetus and newborn",
+        "androgen resistance syndrome",
+        "congenital adrenal hyperplasia",
+        "Ehlers-Danlos syndrome",
+        "haemolytic anaemias due to enzyme disorders",
+        "Marfan syndrome",
+        "5-alpha-reductase deficiency",
+        "Schilder disease",
+        "hypovolaemic shock: NOS"
+    ],
+    "symptoms": [
+        "muscle weakness",
+        "clumsiness",
+        "difficulty swallowing",
+        "mental deterioration",
+        "unsteady gait"
+    ]
+}

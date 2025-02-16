@@ -1,0 +1,26 @@
+{
+    "icd10code": "F72",
+    "type": "modifiedcategory",
+    "title": "Severe mental retardation with the statement of no, or minimal, impairment of behaviour",
+    "chapter": "Mental and behavioural disorders",
+    "chapterCode": "V",
+    "block": "Mental retardation",
+    "blockCode": "F70-F79",
+    "category": "Severe mental retardation",
+    "categoryCode": "F72",
+    "subcategory": "",
+    "inclusion": [
+        "disorders of psychological development",
+        "severe mental subnormality"
+    ],
+    "exclusion": [
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified"
+    ],
+    "symptoms": [
+        "limited adaptive functioning",
+        "severe communication difficulties",
+        "impaired social skills",
+        "significant learning disabilities",
+        "self-care challenges"
+    ]
+}

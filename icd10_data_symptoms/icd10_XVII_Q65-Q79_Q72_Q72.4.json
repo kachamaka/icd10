@@ -1,0 +1,25 @@
+{
+    "icd10code": "Q72.4",
+    "type": "subcategory",
+    "title": "Longitudinal reduction defect of femur",
+    "chapter": "Congenital malformations, deformations and chromosomal abnormalities",
+    "chapterCode": "XVII",
+    "block": "Congenital malformations and deformations of the musculoskeletal system",
+    "blockCode": "Q65-Q79",
+    "category": "Reduction defects of lower limb",
+    "categoryCode": "Q72",
+    "subcategory": "Q72.4",
+    "inclusion": [
+        "Proximal femoral focal deficiency"
+    ],
+    "exclusion": [
+        "inborn errors of metabolism"
+    ],
+    "symptoms": [
+        "partial absence of lower limb",
+        "shortened leg",
+        "malformed toes",
+        "missing foot",
+        "irregular limb development"
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "icd10code": "D43.0",
+    "type": "subcategory",
+    "title": "Neoplasm of uncertain or unknown behaviour: Brain, supratentorial",
+    "chapter": "Neoplasms",
+    "chapterCode": "II",
+    "block": "Neoplasms of uncertain or unknown behaviour",
+    "blockCode": "D37-D48",
+    "category": "Neoplasm of uncertain or unknown behaviour of brain and central nervous system",
+    "categoryCode": "D43",
+    "subcategory": "D43.0",
+    "inclusion": [
+        "Cerebral ventricle",
+        "Cerebrum",
+        "Frontal lobe",
+        "Occipital lobe",
+        "Parietal lobe",
+        "Temporal lobe"
+    ],
+    "exclusion": [
+        "peripheral nerves and autonomic nervous system",
+        "fourth ventricle"
+    ],
+    "symptoms": [
+        "headaches",
+        "seizures",
+        "cognitive decline",
+        "difficulty speaking",
+        "visual disturbances"
+    ]
+}

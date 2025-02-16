@@ -1,0 +1,16 @@
+{
+  "type": "subcategory",
+  "chapterCode": "II",
+  "chapter": "Neoplasms",
+  "blockCode": "C60-C63",
+  "block": "Malignant neoplasms of male genital organs",
+  "categoryCode": "C60",
+  "category": "Malignant neoplasm of penis",
+  "subcategory": "C60.8",
+  "title": "Malignant neoplasm: Overlapping lesion of penis",
+  "inclusion": [
+    "skin of male genital organs"
+  ],
+  "exclusion": null,
+  "children": null
+}

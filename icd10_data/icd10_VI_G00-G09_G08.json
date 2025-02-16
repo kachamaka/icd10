@@ -1,0 +1,33 @@
+{
+  "type": "category",
+  "chapterCode": "VI",
+  "chapter": "Diseases of the nervous system",
+  "blockCode": "G00-G09",
+  "block": "Inflammatory diseases of the central nervous system",
+  "categoryCode": "G08",
+  "category": "Intracranial and intraspinal phlebitis and thrombophlebitis",
+  "subcategory": "",
+  "title": "Intracranial and intraspinal phlebitis and thrombophlebitis",
+  "inclusion": [
+    "Septic: embolism of intracranial or intraspinal venous sinuses and veins",
+    "Septic: endophlebitis of intracranial or intraspinal venous sinuses and veins",
+    "Septic: phlebitis of intracranial or intraspinal venous sinuses and veins",
+    "Septic: thrombophlebitis of intracranial or intraspinal venous sinuses and veins",
+    "Septic: thrombosis of intracranial or intraspinal venous sinuses and veins"
+  ],
+  "exclusion": [
+    "certain conditions originating in the perinatal period",
+    "certain infectious and parasitic diseases",
+    "complications of pregnancy, childbirth and the puerperium",
+    "congenital malformations, deformations and chromosomal abnormalities",
+    "endocrine, nutritional and metabolic diseases",
+    "injury, poisoning and certain other consequences of external causes",
+    "neoplasms",
+    "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+    "intracranial phlebitis and thrombophlebitis: complicating: abortion or ectopic or molar pregnancy",
+    "intracranial phlebitis and thrombophlebitis: complicating: pregnancy, childbirth and the puerperium",
+    "intracranial phlebitis and thrombophlebitis: of nonpyogenic origin",
+    "nonpyogenic intraspinal phlebitis and thrombophlebitis"
+  ],
+  "children": null
+}

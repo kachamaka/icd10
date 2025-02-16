@@ -1,0 +1,23 @@
+{
+  "type": "subcategory",
+  "chapterCode": "II",
+  "chapter": "Neoplasms",
+  "blockCode": "D00-D09",
+  "block": "In situ neoplasms",
+  "categoryCode": "D07",
+  "category": "Carcinoma in situ of other and unspecified genital organs",
+  "subcategory": "D07.1",
+  "title": "Carcinoma in situ: Vulva",
+  "inclusion": [
+    "Bowen disease",
+    "erythroplasia",
+    "morphology codes with behaviour code /2",
+    "Queyrat erythroplasia",
+    "Vulvar intraepithelial neoplasia [VIN], grade III, with or without mention of severe dysplasia"
+  ],
+  "exclusion": [
+    "melanoma in situ",
+    "severe dysplasia of vulva NOS"
+  ],
+  "children": null
+}

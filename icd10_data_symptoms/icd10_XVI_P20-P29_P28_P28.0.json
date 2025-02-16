@@ -1,0 +1,34 @@
+{
+    "icd10code": "P28.0",
+    "type": "subcategory",
+    "title": "Primary atelectasis of newborn",
+    "chapter": "Certain conditions originating in the perinatal period",
+    "chapterCode": "XVI",
+    "block": "Respiratory and cardiovascular disorders specific to the perinatal period",
+    "blockCode": "P20-P29",
+    "category": "Other respiratory conditions originating in the perinatal period",
+    "categoryCode": "P28",
+    "subcategory": "P28.0",
+    "inclusion": [
+        "conditions that have their origin in the perinatal period even though death or morbidity occurs later",
+        "Primary failure to expand terminal respiratory units",
+        "Pulmonary: hypoplasia associated with short gestation",
+        "Pulmonary: immaturity NOS"
+    ],
+    "exclusion": [
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "tetanus neonatorum",
+        "whooping cough",
+        "single umbilical artery"
+    ],
+    "symptoms": [
+        "respiratory distress",
+        "tachypnea",
+        "nasal flaring",
+        "grunting",
+        "cyanosis"
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "icd10code": "Q70.3",
+    "type": "subcategory",
+    "title": "Webbed toes",
+    "chapter": "Congenital malformations, deformations and chromosomal abnormalities",
+    "chapterCode": "XVII",
+    "block": "Congenital malformations and deformations of the musculoskeletal system",
+    "blockCode": "Q65-Q79",
+    "category": "Syndactyly",
+    "categoryCode": "Q70",
+    "subcategory": "Q70.3",
+    "inclusion": [
+        "Simple syndactyly of toes without synostosis"
+    ],
+    "exclusion": [
+        "inborn errors of metabolism"
+    ],
+    "symptoms": [
+        "syndactyly of fingers",
+        "webbed fingers",
+        "limited finger movement",
+        "abnormal finger development",
+        "fused soft tissue or bone"
+    ]
+}

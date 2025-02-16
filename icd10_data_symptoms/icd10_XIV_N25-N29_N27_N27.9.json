@@ -1,0 +1,31 @@
+{
+    "icd10code": "N27.9",
+    "type": "subcategory",
+    "title": "Small kidney, unspecified",
+    "chapter": "Diseases of the genitourinary system",
+    "chapterCode": "XIV",
+    "block": "Other disorders of kidney and ureter",
+    "blockCode": "N25-N29",
+    "category": "Small kidney of unknown cause",
+    "categoryCode": "N27",
+    "subcategory": "N27.9",
+    "inclusion": null,
+    "exclusion": [
+        "certain conditions originating in the perinatal period",
+        "certain infectious and parasitic diseases",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "with urolithiasis"
+    ],
+    "symptoms": [
+        "flank pain",
+        "hematuria",
+        "fever",
+        "edema",
+        "malaise"
+    ]
+}

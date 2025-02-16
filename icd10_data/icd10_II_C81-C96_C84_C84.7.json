@@ -1,0 +1,17 @@
+{
+  "type": "subcategory",
+  "chapterCode": "II",
+  "chapter": "Neoplasms",
+  "blockCode": "C81-C96",
+  "block": "Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",
+  "categoryCode": "C84",
+  "category": "Mature T/NK-cell lymphomas",
+  "subcategory": "C84.7",
+  "title": "Anaplastic large cell lymphoma, ALK-negative",
+  "inclusion": null,
+  "exclusion": [
+    "secondary and unspecified neoplasm of lymph nodes",
+    "primary cutaneous CD30-positive T-cell proliferations"
+  ],
+  "children": null
+}

@@ -1,0 +1,52 @@
+{
+    "icd10code": "T14.3",
+    "type": "subcategory",
+    "title": "Dislocation, sprain and strain of unspecified body region",
+    "chapter": "Injury, poisoning and certain other consequences of external causes",
+    "chapterCode": "XIX",
+    "block": "Injuries to unspecified part of trunk, limb or body region",
+    "blockCode": "T08-T14",
+    "category": "Injury of unspecified body region",
+    "categoryCode": "T14",
+    "subcategory": "T14.3",
+    "inclusion": [
+        "Avulsion of joint (capsule) NOS",
+        "Avulsion of ligament NOS",
+        "Laceration of joint (capsule) NOS",
+        "Laceration of ligament NOS",
+        "Sprain of joint (capsule) NOS",
+        "Sprain of ligament NOS",
+        "Strain of joint (capsule) NOS",
+        "Strain of ligament NOS",
+        "Traumatic: haemarthrosis of joint (capsule) NOS",
+        "Traumatic: haemarthrosis of ligament NOS",
+        "Traumatic: rupture of joint (capsule) NOS",
+        "Traumatic: rupture of ligament NOS",
+        "Traumatic: subluxation of joint (capsule) NOS",
+        "Traumatic: subluxation of ligament NOS",
+        "Traumatic: tear of joint (capsule) NOS",
+        "Traumatic: tear of ligament NOS"
+    ],
+    "exclusion": [
+        "birth trauma",
+        "obstetric trauma",
+        "malunion of fracture",
+        "nonunion of fracture [pseudarthrosis]",
+        "pathological fracture",
+        "pathological fracture with osteoporosis",
+        "stress fracture",
+        "burns and corrosions",
+        "frostbite",
+        "injuries involving multiple body regions",
+        "insect bite or sting, venomous",
+        "injuries involving multiple body regions",
+        "multiple dislocations, sprains and strains NOS"
+    ],
+    "symptoms": [
+        "pain",
+        "swelling",
+        "redness",
+        "limited mobility",
+        "tenderness"
+    ]
+}

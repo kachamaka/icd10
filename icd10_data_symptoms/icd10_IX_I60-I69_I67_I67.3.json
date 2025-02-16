@@ -1,0 +1,40 @@
+{
+    "icd10code": "I67.3",
+    "type": "subcategory",
+    "title": "Progressive vascular leukoencephalopathy",
+    "chapter": "Diseases of the circulatory system",
+    "chapterCode": "IX",
+    "block": "Cerebrovascular diseases",
+    "blockCode": "I60-I69",
+    "category": "Other cerebrovascular diseases",
+    "categoryCode": "I67",
+    "subcategory": "I67.3",
+    "inclusion": [
+        "with mention of hypertension (conditions in I10 and I15.-)",
+        "Binswanger disease"
+    ],
+    "exclusion": [
+        "certain conditions originating in the perinatal period",
+        "certain infectious and parasitic diseases",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "systemic connective tissue disorders",
+        "transient cerebral ischaemic attacks and related syndromes",
+        "pulmonary",
+        "naevus: blue",
+        "complicating: childbirth and the puerperium",
+        "complicating: pregnancy",
+        "subcortical vascular dementia"
+    ],
+    "symptoms": [
+        "headache",
+        "sudden severe neck pain",
+        "difficulty speaking",
+        "loss of balance or coordination",
+        "vision problems"
+    ]
+}

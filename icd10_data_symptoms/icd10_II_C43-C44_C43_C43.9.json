@@ -1,0 +1,26 @@
+{
+    "icd10code": "C43.9",
+    "type": "subcategory",
+    "title": "Malignant neoplasm: Malignant melanoma of skin, unspecified",
+    "chapter": "Neoplasms",
+    "chapterCode": "II",
+    "block": "Melanoma and other malignant neoplasms of skin",
+    "blockCode": "C43-C44",
+    "category": "Malignant melanoma of skin",
+    "categoryCode": "C43",
+    "subcategory": "C43.9",
+    "inclusion": [
+        "morphology codes M872-M879 with behaviour code /3",
+        "Melanoma (malignant) NOS"
+    ],
+    "exclusion": [
+        "malignant melanoma of skin of genital organs"
+    ],
+    "symptoms": [
+        "irregular skin lesion",
+        "changing mole",
+        "itchiness",
+        "ulcers on the skin",
+        "skin discoloration"
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "icd10code": "I44.5",
+    "type": "subcategory",
+    "title": "Left posterior fascicular block",
+    "chapter": "Diseases of the circulatory system",
+    "chapterCode": "IX",
+    "block": "Other forms of heart disease",
+    "blockCode": "I30-I52",
+    "category": "Atrioventricular and left bundle-branch block",
+    "categoryCode": "I44",
+    "subcategory": "I44.5",
+    "inclusion": null,
+    "exclusion": [
+        "certain conditions originating in the perinatal period",
+        "certain infectious and parasitic diseases",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "systemic connective tissue disorders",
+        "transient cerebral ischaemic attacks and related syndromes"
+    ],
+    "symptoms": [
+        "heart palpitations",
+        "dizziness",
+        "fainting spells",
+        "chest pain",
+        "shortness of breath"
+    ]
+}

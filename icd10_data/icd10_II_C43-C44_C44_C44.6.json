@@ -1,0 +1,21 @@
+{
+  "type": "subcategory",
+  "chapterCode": "II",
+  "chapter": "Neoplasms",
+  "blockCode": "C43-C44",
+  "block": "Melanoma and other malignant neoplasms of skin",
+  "categoryCode": "C44",
+  "category": "Other malignant neoplasms of skin",
+  "subcategory": "C44.6",
+  "title": "Malignant neoplasm: Skin of upper limb, including shoulder",
+  "inclusion": [
+    "malignant neoplasm of: sebaceous glands",
+    "malignant neoplasm of: sweat glands"
+  ],
+  "exclusion": [
+    "Kaposi sarcoma",
+    "malignant melanoma of skin",
+    "skin of genital organs"
+  ],
+  "children": null
+}

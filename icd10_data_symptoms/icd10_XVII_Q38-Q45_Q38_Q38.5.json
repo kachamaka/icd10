@@ -1,0 +1,31 @@
+{
+    "icd10code": "Q38.5",
+    "type": "subcategory",
+    "title": "Congenital malformations of palate, not elsewhere classified",
+    "chapter": "Congenital malformations, deformations and chromosomal abnormalities",
+    "chapterCode": "XVII",
+    "block": "Other congenital malformations of the digestive system",
+    "blockCode": "Q38-Q45",
+    "category": "Other congenital malformations of tongue, mouth and pharynx",
+    "categoryCode": "Q38",
+    "subcategory": "Q38.5",
+    "inclusion": [
+        "Absence of uvula",
+        "Congenital malformation of palate NOS",
+        "High arched palate"
+    ],
+    "exclusion": [
+        "inborn errors of metabolism",
+        "macrostomia",
+        "microstomia",
+        "cleft palate",
+        "cleft palate with cleft lip"
+    ],
+    "symptoms": [
+        "oral anomalies",
+        "tongue abnormalities",
+        "upper lip deformities",
+        "jaw malformations",
+        "facial asymmetry"
+    ]
+}

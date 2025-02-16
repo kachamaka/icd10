@@ -1,0 +1,23 @@
+{
+    "icd10code": "Q43.4",
+    "type": "subcategory",
+    "title": "Duplication of intestine",
+    "chapter": "Congenital malformations, deformations and chromosomal abnormalities",
+    "chapterCode": "XVII",
+    "block": "Other congenital malformations of the digestive system",
+    "blockCode": "Q38-Q45",
+    "category": "Other congenital malformations of intestine",
+    "categoryCode": "Q43",
+    "subcategory": "Q43.4",
+    "inclusion": null,
+    "exclusion": [
+        "inborn errors of metabolism"
+    ],
+    "symptoms": [
+        "abdominal pain",
+        "intestinal obstruction",
+        "vomiting",
+        "diarrhea",
+        "constipation"
+    ]
+}

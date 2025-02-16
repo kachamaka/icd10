@@ -1,0 +1,22 @@
+{
+  "type": "category",
+  "chapterCode": "XX",
+  "chapter": "External causes of morbidity and mortality",
+  "blockCode": "Y10-Y34",
+  "block": "Event of undetermined intent",
+  "categoryCode": "Y19",
+  "category": "Poisoning by and exposure to other and unspecified chemicals and noxious substances, undetermined intent",
+  "subcategory": "",
+  "title": "Poisoning by and exposure to other and unspecified chemicals and noxious substances, undetermined intent",
+  "inclusion": [
+    "corrosive aromatics, acids and caustic alkalis",
+    "glues and adhesives",
+    "metals including fumes and vapours",
+    "paints and dyes",
+    "plant foods and fertilizers",
+    "poisonous foodstuffs and poisonous plants",
+    "soaps and detergents"
+  ],
+  "exclusion": null,
+  "children": null
+}

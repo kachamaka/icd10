@@ -1,0 +1,33 @@
+{
+    "icd10code": "F54",
+    "type": "category",
+    "title": "Psychological and behavioural factors associated with disorders or diseases classified elsewhere",
+    "chapter": "Mental and behavioural disorders",
+    "chapterCode": "V",
+    "block": "Behavioural syndromes associated with physiological disturbances and physical factors",
+    "blockCode": "F50-F59",
+    "category": "Psychological and behavioural factors associated with disorders or diseases classified elsewhere",
+    "categoryCode": "F54",
+    "subcategory": "",
+    "inclusion": [
+        "disorders of psychological development",
+        "Psychological factors affecting physical conditions",
+        "Examples of the use of this category are: asthma F54 and J45.-",
+        "Examples of the use of this category are: dermatitis F54 and L23-L25",
+        "Examples of the use of this category are: gastric ulcer F54 and K25.-",
+        "Examples of the use of this category are: irritable bowel syndrome F54 and K58.-",
+        "Examples of the use of this category are: ulcerative colitis F54 and K51.-",
+        "Examples of the use of this category are: urticaria F54 and L50.-"
+    ],
+    "exclusion": [
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "tension-type headache"
+    ],
+    "symptoms": [
+        "anxiety",
+        "sleep disturbances",
+        "fatigue",
+        "headaches",
+        "palpitations"
+    ]
+}

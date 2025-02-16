@@ -1,0 +1,27 @@
+{
+    "icd10code": "R25.0",
+    "type": "subcategory",
+    "title": "Abnormal head movements",
+    "chapter": "Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+    "chapterCode": "XVIII",
+    "block": "Symptoms and signs involving the nervous and musculoskeletal systems",
+    "blockCode": "R25-R29",
+    "category": "Abnormal involuntary movements",
+    "categoryCode": "R25",
+    "subcategory": "R25.0",
+    "inclusion": null,
+    "exclusion": [
+        "abnormal findings on antenatal screening of mother",
+        "certain conditions originating in the perinatal period",
+        "specific movement disorders",
+        "stereotyped movement disorders",
+        "tic disorders"
+    ],
+    "symptoms": [
+        "involuntary muscle twitching",
+        "muscle spasms",
+        "repetitive jerking movements",
+        "clonic contractions",
+        "sudden muscle jerks"
+    ]
+}

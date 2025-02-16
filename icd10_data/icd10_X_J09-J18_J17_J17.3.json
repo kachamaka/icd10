@@ -1,0 +1,27 @@
+{
+  "type": "subcategory",
+  "chapterCode": "X",
+  "chapter": "Diseases of the respiratory system",
+  "blockCode": "J09-J18",
+  "block": "Influenza and pneumonia",
+  "categoryCode": "J17",
+  "category": "Pneumonia in diseases classified elsewhere",
+  "subcategory": "J17.3",
+  "title": "Pneumonia in parasitic diseases",
+  "inclusion": [
+    "Pneumonia in: ascariasis",
+    "Pneumonia in: schistosomiasis",
+    "Pneumonia in: toxoplasmosis"
+  ],
+  "exclusion": [
+    "certain conditions originating in the perinatal period",
+    "certain infectious and parasitic diseases",
+    "complications of pregnancy, childbirth and the puerperium",
+    "congenital malformations, deformations and chromosomal abnormalities",
+    "endocrine, nutritional and metabolic diseases",
+    "injury, poisoning and certain other consequences of external causes",
+    "neoplasms",
+    "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified"
+  ],
+  "children": null
+}

@@ -1,0 +1,30 @@
+{
+    "icd10code": "F63.2",
+    "type": "subcategory",
+    "title": "Pathological stealing [kleptomania]",
+    "chapter": "Mental and behavioural disorders",
+    "chapterCode": "V",
+    "block": "Disorders of adult personality and behaviour",
+    "blockCode": "F60-F69",
+    "category": "Habit and impulse disorders",
+    "categoryCode": "F63",
+    "subcategory": "F63.2",
+    "inclusion": [
+        "disorders of psychological development"
+    ],
+    "exclusion": [
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "habitual excessive use of alcohol or psychoactive substances",
+        "impulse and habit disorders involving sexual behaviour",
+        "depressive disorder with stealing",
+        "organic mental disorders",
+        "shoplifting as the reason for observation for suspected mental disorder, ruled out"
+    ],
+    "symptoms": [
+        "compulsive hair pulling",
+        "noticeable hair loss",
+        "increasing tension before pulling",
+        "relief after pulling",
+        "distress or impairment"
+    ]
+}

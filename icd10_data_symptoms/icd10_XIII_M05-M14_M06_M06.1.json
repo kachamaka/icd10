@@ -1,0 +1,35 @@
+{
+    "icd10code": "M06.1",
+    "type": "subcategory",
+    "title": "Adult-onset Still disease",
+    "chapter": "Diseases of the musculoskeletal system and connective tissue",
+    "chapterCode": "XIII",
+    "block": "Inflammatory polyarthropathies",
+    "blockCode": "M05-M14",
+    "category": "Other rheumatoid arthritis",
+    "categoryCode": "M06",
+    "subcategory": "M06.1",
+    "inclusion": [
+        "Disorders affecting predominantly peripheral (limb) joints"
+    ],
+    "exclusion": [
+        "certain conditions originating in the perinatal period",
+        "certain disorders of the temporomandibular joint",
+        "certain infectious and parasitic diseases",
+        "compartment syndrome",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "Still disease NOS"
+    ],
+    "symptoms": [
+        "joint swelling",
+        "joint pain",
+        "morning stiffness",
+        "fatigue",
+        "loss of joint function"
+    ]
+}

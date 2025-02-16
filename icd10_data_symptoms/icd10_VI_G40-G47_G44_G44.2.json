@@ -1,0 +1,37 @@
+{
+    "icd10code": "G44.2",
+    "type": "subcategory",
+    "title": "Tension-type headache",
+    "chapter": "Diseases of the nervous system",
+    "chapterCode": "VI",
+    "block": "Episodic and paroxysmal disorders",
+    "blockCode": "G40-G47",
+    "category": "Other headache syndromes",
+    "categoryCode": "G44",
+    "subcategory": "G44.2",
+    "inclusion": [
+        "Chronic tension-type headache",
+        "Episodic tension headache",
+        "Tension headache NOS"
+    ],
+    "exclusion": [
+        "certain conditions originating in the perinatal period",
+        "certain infectious and parasitic diseases",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "atypical facial pain",
+        "headache NOS",
+        "trigeminal neuralgia"
+    ],
+    "symptoms": [
+        "throbbing headache",
+        "sensitivity to light",
+        "nausea",
+        "visual disturbances",
+        "aura sensations"
+    ]
+}

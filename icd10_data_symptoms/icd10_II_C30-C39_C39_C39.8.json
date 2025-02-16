@@ -1,0 +1,28 @@
+{
+    "icd10code": "C39.8",
+    "type": "subcategory",
+    "title": "Malignant neoplasm: Overlapping lesion of respiratory and intrathoracic organs",
+    "chapter": "Neoplasms",
+    "chapterCode": "II",
+    "block": "Malignant neoplasms of respiratory and intrathoracic organs",
+    "blockCode": "C30-C39",
+    "category": "Malignant neoplasm of other and ill-defined sites in the respiratory system and intrathoracic organs",
+    "categoryCode": "C39",
+    "subcategory": "C39.8",
+    "inclusion": [
+        "middle ear",
+        "Malignant neoplasm of respiratory and intrathoracic organs whose point of origin cannot be classified to any one of the categories C30-C39.0"
+    ],
+    "exclusion": [
+        "mesothelioma",
+        "intrathoracic NOS",
+        "thoracic NOS"
+    ],
+    "symptoms": [
+        "difficulty swallowing",
+        "chest pain",
+        "coughing up blood",
+        "hoarseness",
+        "unexplained weight loss"
+    ]
+}

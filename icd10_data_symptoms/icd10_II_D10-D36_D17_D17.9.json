@@ -1,0 +1,25 @@
+{
+    "icd10code": "D17.9",
+    "type": "subcategory",
+    "title": "Benign lipomatous neoplasm, unspecified",
+    "chapter": "Neoplasms",
+    "chapterCode": "II",
+    "block": "Benign neoplasms",
+    "blockCode": "D10-D36",
+    "category": "Benign lipomatous neoplasm",
+    "categoryCode": "D17",
+    "subcategory": "D17.9",
+    "inclusion": [
+        "morphology codes with behaviour code /0",
+        "morphology codes M885-M888 with behaviour code /0",
+        "Lipoma NOS"
+    ],
+    "exclusion": null,
+    "symptoms": [
+        "lump or mass in the skin",
+        "persistent swelling",
+        "skin discoloration",
+        "pain or tenderness in the area",
+        "skin changes"
+    ]
+}

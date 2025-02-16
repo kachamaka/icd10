@@ -1,0 +1,23 @@
+{
+    "icd10code": "C45.9",
+    "type": "subcategory",
+    "title": "Mesothelioma, unspecified",
+    "chapter": "Neoplasms",
+    "chapterCode": "II",
+    "block": "Malignant neoplasms of mesothelial and soft tissue",
+    "blockCode": "C45-C49",
+    "category": "Mesothelioma",
+    "categoryCode": "C45",
+    "subcategory": "C45.9",
+    "inclusion": [
+        "morphology code M905 with behaviour code /3"
+    ],
+    "exclusion": null,
+    "symptoms": [
+        "shortness of breath",
+        "unexplained weight loss",
+        "persistent cough",
+        "chest pain",
+        "fatigue"
+    ]
+}

@@ -1,0 +1,14 @@
+{
+  "type": "subcategory",
+  "chapterCode": "XX",
+  "chapter": "External causes of morbidity and mortality",
+  "blockCode": "Y90-Y98",
+  "block": "Supplementary factors related to causes of morbidity and mortality classified elsewhere",
+  "categoryCode": "Y90",
+  "category": "Evidence of alcohol involvement determined by blood alcohol level",
+  "subcategory": "Y90.4",
+  "title": "Blood alcohol level of 80-99 mg/100 ml",
+  "inclusion": null,
+  "exclusion": null,
+  "children": null
+}

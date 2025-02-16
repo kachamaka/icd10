@@ -1,0 +1,25 @@
+{
+  "type": "subcategory",
+  "chapterCode": "II",
+  "chapter": "Neoplasms",
+  "blockCode": "D10-D36",
+  "block": "Benign neoplasms",
+  "categoryCode": "D16",
+  "category": "Benign neoplasm of bone and articular cartilage",
+  "subcategory": "D16.4",
+  "title": "Benign neoplasm: Bones of skull and face",
+  "inclusion": [
+    "morphology codes with behaviour code /0",
+    "Maxilla (superior)",
+    "Orbital bone"
+  ],
+  "exclusion": [
+    "connective tissue of: ear",
+    "connective tissue of: eyelid",
+    "connective tissue of: larynx",
+    "connective tissue of: nose",
+    "synovia",
+    "lower jaw bone"
+  ],
+  "children": null
+}

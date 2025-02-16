@@ -1,0 +1,16 @@
+{
+  "type": "category",
+  "chapterCode": "II",
+  "chapter": "Neoplasms",
+  "blockCode": "C00-C14",
+  "block": "Malignant neoplasms of lip, oral cavity and pharynx",
+  "categoryCode": "C12",
+  "category": "Malignant neoplasm of piriform sinus",
+  "subcategory": "",
+  "title": "Malignant neoplasm of piriform sinus",
+  "inclusion": [
+    "Piriform fossa"
+  ],
+  "exclusion": null,
+  "children": null
+}

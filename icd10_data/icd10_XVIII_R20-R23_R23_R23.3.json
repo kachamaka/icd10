@@ -1,0 +1,21 @@
+{
+  "type": "subcategory",
+  "chapterCode": "XVIII",
+  "chapter": "Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+  "blockCode": "R20-R23",
+  "block": "Symptoms and signs involving the skin and subcutaneous tissue",
+  "categoryCode": "R23",
+  "category": "Other skin changes",
+  "subcategory": "R23.3",
+  "title": "Spontaneous ecchymoses",
+  "inclusion": [
+    "Petechiae"
+  ],
+  "exclusion": [
+    "abnormal findings on antenatal screening of mother",
+    "certain conditions originating in the perinatal period",
+    "ecchymoses in fetus and newborn",
+    "purpura"
+  ],
+  "children": null
+}

@@ -1,0 +1,26 @@
+{
+    "icd10code": "F73",
+    "type": "modifiedcategory",
+    "title": "Profound mental retardation : significant impairment of behaviour requiring attention or treatment",
+    "chapter": "Mental and behavioural disorders",
+    "chapterCode": "V",
+    "block": "Mental retardation",
+    "blockCode": "F70-F79",
+    "category": "Profound mental retardation",
+    "categoryCode": "F73",
+    "subcategory": "",
+    "inclusion": [
+        "disorders of psychological development",
+        "profound mental subnormality"
+    ],
+    "exclusion": [
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified"
+    ],
+    "symptoms": [
+        "severe intellectual disability",
+        "delayed milestones",
+        "poor social skills",
+        "limited communication abilities",
+        "need for support in daily activities"
+    ]
+}

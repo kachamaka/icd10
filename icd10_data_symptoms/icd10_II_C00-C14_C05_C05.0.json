@@ -1,0 +1,21 @@
+{
+    "icd10code": "C05.0",
+    "type": "subcategory",
+    "title": "Malignant neoplasm: Hard palate",
+    "chapter": "Neoplasms",
+    "chapterCode": "II",
+    "block": "Malignant neoplasms of lip, oral cavity and pharynx",
+    "blockCode": "C00-C14",
+    "category": "Malignant neoplasm of palate",
+    "categoryCode": "C05",
+    "subcategory": "C05.0",
+    "inclusion": null,
+    "exclusion": null,
+    "symptoms": [
+        "pain in the palate",
+        "persistent sore in mouth",
+        "difficulty swallowing",
+        "red or white patches in mouth",
+        "loose teeth"
+    ]
+}

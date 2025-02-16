@@ -1,0 +1,35 @@
+{
+    "icd10code": "B35.9",
+    "type": "subcategory",
+    "title": "Dermatophytosis, unspecified",
+    "chapter": "Certain infectious and parasitic diseases",
+    "chapterCode": "I",
+    "block": "Mycoses",
+    "blockCode": "B35-B49",
+    "category": "Dermatophytosis",
+    "categoryCode": "B35",
+    "subcategory": "B35.9",
+    "inclusion": [
+        "diseases generally recognized as communicable or transmissible",
+        "favus",
+        "infections due to species of Epidermophyton, Microsporum and Trichophyton",
+        "tinea, any type except those in B36.-",
+        "Ringworm NOS"
+    ],
+    "exclusion": [
+        "carrier or suspected carrier of infectious disease",
+        "certain localized infections - see body system-related chapters",
+        "infectious and parasitic diseases complicating pregnancy, childbirth and the puerperium [except obstetrical tetanus]",
+        "infectious and parasitic diseases specific to the perinatal period [except tetanus neonatorum, whooping cough, congenital syphilis, perinatal gonococcal infection and perinatal human immunodeficiency virus [HIV] disease]",
+        "influenza and other acute respiratory infections",
+        "haemorrhagic fever with renal manifestations",
+        "monkeypox"
+    ],
+    "symptoms": [
+        "itching",
+        "redness",
+        "scaling",
+        "cracking",
+        "ring-shaped rash"
+    ]
+}

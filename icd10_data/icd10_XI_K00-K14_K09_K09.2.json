@@ -1,0 +1,32 @@
+{
+  "type": "subcategory",
+  "chapterCode": "XI",
+  "chapter": "Diseases of the digestive system",
+  "blockCode": "K00-K14",
+  "block": "Diseases of oral cavity, salivary glands and jaws",
+  "categoryCode": "K09",
+  "category": "Cysts of oral region, not elsewhere classified",
+  "subcategory": "K09.2",
+  "title": "Other cysts of jaw",
+  "inclusion": [
+    "lesions showing histological features both of aneurysmal cyst and of another fibro-osseous lesion",
+    "Cyst of jaw: NOS",
+    "Cyst of jaw: aneurysmal",
+    "Cyst of jaw: haemorrhagic",
+    "Cyst of jaw: traumatic"
+  ],
+  "exclusion": [
+    "certain conditions originating in the perinatal period",
+    "certain infectious and parasitic diseases",
+    "complications of pregnancy, childbirth and the puerperium",
+    "congenital malformations, deformations and chromosomal abnormalities",
+    "endocrine, nutritional and metabolic diseases",
+    "injury, poisoning and certain other consequences of external causes",
+    "neoplasms",
+    "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+    "radicular cyst",
+    "latent bone cyst of jaw",
+    "Stafne cyst"
+  ],
+  "children": null
+}

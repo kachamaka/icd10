@@ -1,0 +1,23 @@
+{
+    "icd10code": "Q25.8",
+    "type": "subcategory",
+    "title": "Other congenital malformations of great arteries",
+    "chapter": "Congenital malformations, deformations and chromosomal abnormalities",
+    "chapterCode": "XVII",
+    "block": "Congenital malformations of the circulatory system",
+    "blockCode": "Q20-Q28",
+    "category": "Congenital malformations of great arteries",
+    "categoryCode": "Q25",
+    "subcategory": "Q25.8",
+    "inclusion": null,
+    "exclusion": [
+        "inborn errors of metabolism"
+    ],
+    "symptoms": [
+        "abnormal blood flow",
+        "chest pain",
+        "fatigue",
+        "shortness of breath",
+        "cyanosis"
+    ]
+}

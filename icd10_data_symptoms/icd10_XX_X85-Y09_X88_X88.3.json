@@ -1,0 +1,30 @@
+{
+    "icd10code": "X88.3",
+    "type": "subcategory",
+    "title": "Assault by carbon monoxide from other sources",
+    "chapter": "External causes of morbidity and mortality",
+    "chapterCode": "XX",
+    "block": "Assault",
+    "blockCode": "X85-Y09",
+    "category": "Assault by gases and vapours",
+    "categoryCode": "X88",
+    "subcategory": "X88.3",
+    "inclusion": [
+        "homicide",
+        "injuries inflicted by another person with intent to injure or kill, by any means",
+        "Carbon monoxide from: blast furnace gas",
+        "Carbon monoxide from: fuels in industrial use",
+        "Carbon monoxide from: kiln vapour"
+    ],
+    "exclusion": [
+        "injuries due to: legal intervention",
+        "injuries due to: operations of war"
+    ],
+    "symptoms": [
+        "burn injuries",
+        "skin redness",
+        "pain",
+        "blistering",
+        "tissue damage"
+    ]
+}

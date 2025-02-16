@@ -1,0 +1,28 @@
+{
+    "icd10code": "D47.4",
+    "type": "subcategory",
+    "title": "Osteomyelofibrosis",
+    "chapter": "Neoplasms",
+    "chapterCode": "II",
+    "block": "Neoplasms of uncertain or unknown behaviour",
+    "blockCode": "D37-D48",
+    "category": "Other neoplasms of uncertain or unknown behaviour of lymphoid, haematopoietic and related tissue",
+    "categoryCode": "D47",
+    "subcategory": "D47.4",
+    "inclusion": [
+        "Chronic idiopathic myelofibrosis",
+        "Myelofibrosis (idiopathic) (with myeloid metaplasia)",
+        "Myelosclerosis (megakaryocytic) with myeloid metaplasia",
+        "Secondary myelofibrosis in myeloproliferative disease"
+    ],
+    "exclusion": [
+        "acute myelofibrosis"
+    ],
+    "symptoms": [
+        "enlarged lymph nodes",
+        "night sweats",
+        "fever",
+        "unexplained weight loss",
+        "fatigue"
+    ]
+}

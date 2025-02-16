@@ -1,0 +1,25 @@
+{
+    "icd10code": "V88.8",
+    "type": "subcategory",
+    "title": "Person injured in other specified noncollision transport accidents involving motor vehicle, nontraffic",
+    "chapter": "External causes of morbidity and mortality",
+    "chapterCode": "XX",
+    "block": "Other land transport accidents",
+    "blockCode": "V80-V89",
+    "category": "Nontraffic accident of specified type but victim's mode of transport unknown",
+    "categoryCode": "V88",
+    "subcategory": "V88.8",
+    "inclusion": null,
+    "exclusion": [
+        "accidents to persons engaged in the maintenance or repair of transport equipment or vehicle (not in motion) unless injured by another vehicle in motion",
+        "accidents involving vehicles, but unrelated to the hazards associated with the means of transportation, e.g., injuries received in a fight on board ship; transport vehicle involved in a cataclysm; finger crushed when shutting car door",
+        "assault by crashing of motor vehicle",
+        "event of undetermined intent",
+        "intentional self-harm",
+        "fall: while boarding or alighting",
+        "fall: with antecedent collision"
+    ],
+    "symptoms": [
+        "asymptomatic"
+    ]
+}

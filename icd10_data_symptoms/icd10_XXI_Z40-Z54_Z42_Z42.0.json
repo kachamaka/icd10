@@ -1,0 +1,24 @@
+{
+    "icd10code": "Z42.0",
+    "type": "subcategory",
+    "title": "Follow-up care involving plastic surgery of head and neck",
+    "chapter": "Factors influencing health status and contact with health services",
+    "chapterCode": "XXI",
+    "block": "Persons encountering health services for specific procedures and health care",
+    "blockCode": "Z40-Z54",
+    "category": "Follow-up care involving plastic surgery",
+    "categoryCode": "Z42",
+    "subcategory": "Z42.0",
+    "inclusion": [
+        "plastic and reconstructive surgery following healed injury or operation",
+        "repair of scarred tissue"
+    ],
+    "exclusion": [
+        "follow-up examination for medical surveillance after treatment",
+        "plastic surgery: as treatment for current injury - code to relevant injury - see Alphabetical Index",
+        "plastic surgery: for unacceptable cosmetic appearance"
+    ],
+    "symptoms": [
+        "asymptomatic"
+    ]
+}

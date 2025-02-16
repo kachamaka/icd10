@@ -1,0 +1,25 @@
+{
+  "type": "subcategory",
+  "chapterCode": "XVII",
+  "chapter": "Congenital malformations, deformations and chromosomal abnormalities",
+  "blockCode": "Q65-Q79",
+  "block": "Congenital malformations and deformations of the musculoskeletal system",
+  "categoryCode": "Q67",
+  "category": "Congenital musculoskeletal deformities of head, face, spine and chest",
+  "subcategory": "Q67.4",
+  "title": "Other congenital deformities of skull, face and jaw",
+  "inclusion": [
+    "Depressions in skull",
+    "Deviation of nasal septum, congenital",
+    "Hemifacial atrophy or hypertrophy",
+    "Squashed or bent nose, congenital"
+  ],
+  "exclusion": [
+    "inborn errors of metabolism",
+    "congenital malformation syndromes classified to Q87.-",
+    "Potter syndrome",
+    "dentofacial anomalies [including malocclusion]",
+    "syphilitic saddle nose"
+  ],
+  "children": null
+}

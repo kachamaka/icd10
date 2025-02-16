@@ -1,0 +1,19 @@
+{
+    "icd10code": "Z02.4",
+    "type": "subcategory",
+    "title": "Examination for driving licence",
+    "chapter": "Factors influencing health status and contact with health services",
+    "chapterCode": "XXI",
+    "block": "Persons encountering health services for examination and investigation",
+    "blockCode": "Z00-Z13",
+    "category": "Examination and encounter for administrative purposes",
+    "categoryCode": "Z02",
+    "subcategory": "Z02.4",
+    "inclusion": null,
+    "exclusion": [
+        "examinations related to pregnancy and reproduction"
+    ],
+    "symptoms": [
+        "asymptomatic"
+    ]
+}

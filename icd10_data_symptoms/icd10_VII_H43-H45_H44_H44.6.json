@@ -1,0 +1,38 @@
+{
+    "icd10code": "H44.6",
+    "type": "subcategory",
+    "title": "Retained (old) intraocular foreign body, magnetic",
+    "chapter": "Diseases of the eye and adnexa",
+    "chapterCode": "VII",
+    "block": "Disorders of vitreous body and globe",
+    "blockCode": "H43-H45",
+    "category": "Disorders of globe",
+    "categoryCode": "H44",
+    "subcategory": "H44.6",
+    "inclusion": [
+        "disorders affecting multiple structures of eye",
+        "Retained (old) magnetic foreign body (in): anterior chamber",
+        "Retained (old) magnetic foreign body (in): ciliary body",
+        "Retained (old) magnetic foreign body (in): iris",
+        "Retained (old) magnetic foreign body (in): lens",
+        "Retained (old) magnetic foreign body (in): posterior wall of globe",
+        "Retained (old) magnetic foreign body (in): vitreous body"
+    ],
+    "exclusion": [
+        "certain conditions originating in the perinatal period",
+        "certain infectious and parasitic diseases",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified"
+    ],
+    "symptoms": [
+        "floaters",
+        "flashes of light",
+        "blurry vision",
+        "decreased visual acuity",
+        "visual field loss"
+    ]
+}

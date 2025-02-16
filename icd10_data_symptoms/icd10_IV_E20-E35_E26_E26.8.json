@@ -1,0 +1,29 @@
+{
+    "icd10code": "E26.8",
+    "type": "subcategory",
+    "title": "Other hyperaldosteronism",
+    "chapter": "Endocrine, nutritional and metabolic diseases",
+    "chapterCode": "IV",
+    "block": "Disorders of other endocrine glands",
+    "blockCode": "E20-E35",
+    "category": "Hyperaldosteronism",
+    "categoryCode": "E26",
+    "subcategory": "E26.8",
+    "inclusion": [
+        "Bartter syndrome"
+    ],
+    "exclusion": [
+        "complications of pregnancy, childbirth and the puerperium",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "transitory endocrine and metabolic disorders specific to fetus and newborn",
+        "galactorrhoea",
+        "gynaecomastia"
+    ],
+    "symptoms": [
+        "excessive hair growth",
+        "acne",
+        "deepening of the voice",
+        "irregular periods",
+        "increased muscle mass"
+    ]
+}

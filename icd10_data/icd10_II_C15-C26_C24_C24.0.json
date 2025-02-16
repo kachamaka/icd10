@@ -1,0 +1,21 @@
+{
+  "type": "subcategory",
+  "chapterCode": "II",
+  "chapter": "Neoplasms",
+  "blockCode": "C15-C26",
+  "block": "Malignant neoplasms of digestive organs",
+  "categoryCode": "C24",
+  "category": "Malignant neoplasm of other and unspecified parts of biliary tract",
+  "subcategory": "C24.0",
+  "title": "Malignant neoplasm: Extrahepatic bile duct",
+  "inclusion": [
+    "Biliary duct or passage NOS",
+    "Common bile duct",
+    "Cystic duct",
+    "Hepatic duct"
+  ],
+  "exclusion": [
+    "intrahepatic bile duct"
+  ],
+  "children": null
+}

@@ -1,0 +1,29 @@
+{
+  "type": "subcategory",
+  "chapterCode": "XIX",
+  "chapter": "Injury, poisoning and certain other consequences of external causes",
+  "blockCode": "T66-T78",
+  "block": "Other and unspecified effects of external causes",
+  "categoryCode": "T70",
+  "category": "Effects of air pressure and water pressure",
+  "subcategory": "T70.2",
+  "title": "Other and unspecified effects of high altitude",
+  "inclusion": [
+    "Alpine sickness",
+    "Anoxia due to high altitude",
+    "Barotrauma NOS",
+    "Hypobaropathy",
+    "Mountain sickness"
+  ],
+  "exclusion": [
+    "birth trauma",
+    "obstetric trauma",
+    "malunion of fracture",
+    "nonunion of fracture [pseudarthrosis]",
+    "pathological fracture",
+    "pathological fracture with osteoporosis",
+    "stress fracture",
+    "polycythaemia due to high altitude"
+  ],
+  "children": null
+}

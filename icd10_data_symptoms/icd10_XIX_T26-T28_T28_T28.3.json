@@ -1,0 +1,43 @@
+{
+    "icd10code": "T28.3",
+    "type": "subcategory",
+    "title": "Burn of internal genitourinary organs",
+    "chapter": "Injury, poisoning and certain other consequences of external causes",
+    "chapterCode": "XIX",
+    "block": "Burns and corrosions confined to eye and internal organs",
+    "blockCode": "T26-T28",
+    "category": "Burn and corrosion of other internal organs",
+    "categoryCode": "T28",
+    "subcategory": "T28.3",
+    "inclusion": [
+        "burns (thermal) from: electrical heating appliances",
+        "burns (thermal) from: electricity",
+        "burns (thermal) from: flame",
+        "burns (thermal) from: friction",
+        "burns (thermal) from: hot air and hot gases",
+        "burns (thermal) from: hot objects",
+        "burns (thermal) from: lightning",
+        "burns (thermal) from: radiation",
+        "chemical burns [corrosions] (external)(internal)",
+        "scalds"
+    ],
+    "exclusion": [
+        "birth trauma",
+        "obstetric trauma",
+        "malunion of fracture",
+        "nonunion of fracture [pseudarthrosis]",
+        "pathological fracture",
+        "pathological fracture with osteoporosis",
+        "stress fracture",
+        "erythema [dermatitis] ab igne",
+        "radiation-related disorders of the skin and subcutaneous tissue",
+        "sunburn"
+    ],
+    "symptoms": [
+        "burning pain",
+        "redness",
+        "swelling",
+        "blistering",
+        "peeling skin"
+    ]
+}

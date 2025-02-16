@@ -1,0 +1,26 @@
+{
+    "icd10code": "C96.5",
+    "type": "subcategory",
+    "title": "Multifocal and unisystemic Langerhans-cell histiocytosis",
+    "chapter": "Neoplasms",
+    "chapterCode": "II",
+    "block": "Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",
+    "blockCode": "C81-C96",
+    "category": "Other and unspecified malignant neoplasms of lymphoid, haematopoietic and related tissue",
+    "categoryCode": "C96",
+    "subcategory": "C96.5",
+    "inclusion": [
+        "Hand-Schüller-Christian disease",
+        "Histiocytosis X, multifocal"
+    ],
+    "exclusion": [
+        "secondary and unspecified neoplasm of lymph nodes"
+    ],
+    "symptoms": [
+        "unexplained fever",
+        "unexplained weight loss",
+        "night sweats",
+        "persistent fatigue",
+        "unexplained pain or ache"
+    ]
+}

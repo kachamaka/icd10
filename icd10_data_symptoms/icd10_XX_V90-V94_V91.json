@@ -1,0 +1,34 @@
+{
+    "icd10code": "V91",
+    "type": "modifiedcategory",
+    "title": "Accident to watercraft causing other injury : fishing boat",
+    "chapter": "External causes of morbidity and mortality",
+    "chapterCode": "XX",
+    "block": "Water transport accidents",
+    "blockCode": "V90-V94",
+    "category": "Accident to watercraft causing other injury",
+    "categoryCode": "V91",
+    "subcategory": "",
+    "inclusion": [
+        "watercraft accidents in the course of recreational activities",
+        "any injury except drowning and submersion as a result of an accident to watercraft",
+        "burned while ship on fire",
+        "crushed between colliding ships",
+        "crushed by lifeboat after abandoning ship",
+        "fall due to collision or other accident to watercraft",
+        "hit by falling object as a result of accident to watercraft",
+        "injured in watercraft accident involving collision of watercraft",
+        "struck by boat or part thereof after falling or jumping from damaged boat"
+    ],
+    "exclusion": [
+        "accidents to persons engaged in the maintenance or repair of transport equipment or vehicle (not in motion) unless injured by another vehicle in motion",
+        "accidents involving vehicles, but unrelated to the hazards associated with the means of transportation, e.g., injuries received in a fight on board ship; transport vehicle involved in a cataclysm; finger crushed when shutting car door",
+        "assault by crashing of motor vehicle",
+        "event of undetermined intent",
+        "intentional self-harm",
+        "collision involving: pedal cyclist"
+    ],
+    "symptoms": [
+        "asymptomatic"
+    ]
+}

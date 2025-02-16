@@ -1,0 +1,27 @@
+{
+    "icd10code": "Q65.6",
+    "type": "subcategory",
+    "title": "Unstable hip",
+    "chapter": "Congenital malformations, deformations and chromosomal abnormalities",
+    "chapterCode": "XVII",
+    "block": "Congenital malformations and deformations of the musculoskeletal system",
+    "blockCode": "Q65-Q79",
+    "category": "Congenital deformities of hip",
+    "categoryCode": "Q65",
+    "subcategory": "Q65.6",
+    "inclusion": [
+        "Dislocatable hip",
+        "Subluxatable hip"
+    ],
+    "exclusion": [
+        "inborn errors of metabolism",
+        "clicking hip"
+    ],
+    "symptoms": [
+        "hip instability",
+        "limited hip movement",
+        "uneven leg length",
+        "thigh or groin discomfort",
+        "leg weakness"
+    ]
+}

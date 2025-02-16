@@ -1,0 +1,30 @@
+{
+    "icd10code": "Q76.6",
+    "type": "subcategory",
+    "title": "Other congenital malformations of ribs",
+    "chapter": "Congenital malformations, deformations and chromosomal abnormalities",
+    "chapterCode": "XVII",
+    "block": "Congenital malformations and deformations of the musculoskeletal system",
+    "blockCode": "Q65-Q79",
+    "category": "Congenital malformations of spine and bony thorax",
+    "categoryCode": "Q76",
+    "subcategory": "Q76.6",
+    "inclusion": [
+        "Accessory rib",
+        "Congenital: absence of rib",
+        "Congenital: fusion of ribs",
+        "Congenital: malformation of ribs NOS"
+    ],
+    "exclusion": [
+        "inborn errors of metabolism",
+        "congenital musculoskeletal deformities of spine and chest",
+        "short rib syndrome"
+    ],
+    "symptoms": [
+        "short neck",
+        "low hairline",
+        "restricted neck movement",
+        "spinal deformities",
+        "nerve compression"
+    ]
+}

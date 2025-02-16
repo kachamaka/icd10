@@ -1,0 +1,20 @@
+{
+  "type": "subcategory",
+  "chapterCode": "XVIII",
+  "chapter": "Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+  "blockCode": "R25-R29",
+  "block": "Symptoms and signs involving the nervous and musculoskeletal systems",
+  "categoryCode": "R25",
+  "category": "Abnormal involuntary movements",
+  "subcategory": "R25.0",
+  "title": "Abnormal head movements",
+  "inclusion": null,
+  "exclusion": [
+    "abnormal findings on antenatal screening of mother",
+    "certain conditions originating in the perinatal period",
+    "specific movement disorders",
+    "stereotyped movement disorders",
+    "tic disorders"
+  ],
+  "children": null
+}

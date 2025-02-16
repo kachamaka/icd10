@@ -1,0 +1,16 @@
+{
+  "type": "category",
+  "chapterCode": "XX",
+  "chapter": "External causes of morbidity and mortality",
+  "blockCode": "Y10-Y34",
+  "block": "Event of undetermined intent",
+  "categoryCode": "Y30",
+  "category": "Falling, jumping or pushed from a high place, undetermined intent",
+  "subcategory": "",
+  "title": "Falling, jumping or pushed from a high place, undetermined intent",
+  "inclusion": [
+    "victim falling from one level to another, undetermined intent"
+  ],
+  "exclusion": null,
+  "children": null
+}

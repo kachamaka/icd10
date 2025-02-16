@@ -1,0 +1,24 @@
+{
+    "icd10code": "Q96.9",
+    "type": "subcategory",
+    "title": "Turner syndrome, unspecified",
+    "chapter": "Congenital malformations, deformations and chromosomal abnormalities",
+    "chapterCode": "XVII",
+    "block": "Chromosomal abnormalities, not elsewhere classified",
+    "blockCode": "Q90-Q99",
+    "category": "Turner syndrome",
+    "categoryCode": "Q96",
+    "subcategory": "Q96.9",
+    "inclusion": null,
+    "exclusion": [
+        "inborn errors of metabolism",
+        "Noonan syndrome"
+    ],
+    "symptoms": [
+        "short stature",
+        "delayed puberty",
+        "infertility",
+        "learning difficulties",
+        "mild intellectual disability"
+    ]
+}

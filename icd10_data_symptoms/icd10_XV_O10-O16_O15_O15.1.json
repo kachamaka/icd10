@@ -1,0 +1,33 @@
+{
+    "icd10code": "O15.1",
+    "type": "subcategory",
+    "title": "Eclampsia in labour",
+    "chapter": "Pregnancy, childbirth and the puerperium",
+    "chapterCode": "XV",
+    "block": "Oedema, proteinuria and hypertensive disorders in pregnancy, childbirth and the puerperium",
+    "blockCode": "O10-O16",
+    "category": "Eclampsia",
+    "categoryCode": "O15",
+    "subcategory": "O15.1",
+    "inclusion": [
+        "convulsions following conditions in O10-O14 and O16",
+        "eclampsia with pregnancy-induced or pre-existing hypertension"
+    ],
+    "exclusion": [
+        "Certain diseases or injuries complicating pregnancy, childbirth and the puerperium classified elsewhere: external causes (for mortality)",
+        "Certain diseases or injuries complicating pregnancy, childbirth and the puerperium classified elsewhere: injury, poisoning and certain other consequences of external cause",
+        "Certain diseases or injuries complicating pregnancy, childbirth and the puerperium classified elsewhere: mental and behavioural disorders associated with the puerperium",
+        "Certain diseases or injuries complicating pregnancy, childbirth and the puerperium classified elsewhere: obstetrical tetanus",
+        "Certain diseases or injuries complicating pregnancy, childbirth and the puerperium classified elsewhere: postpartum necrosis of pituitary gland",
+        "Certain diseases or injuries complicating pregnancy, childbirth and the puerperium classified elsewhere: puerperal osteomalacia",
+        "supervision of: high-risk pregnancy",
+        "supervision of: normal pregnancy"
+    ],
+    "symptoms": [
+        "severe headache",
+        "blurred vision",
+        "nausea",
+        "abdominal pain",
+        "seizures"
+    ]
+}

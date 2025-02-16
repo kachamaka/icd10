@@ -1,0 +1,33 @@
+{
+    "icd10code": "M49.1",
+    "type": "subcategory",
+    "title": "Brucella spondylitis",
+    "chapter": "Diseases of the musculoskeletal system and connective tissue",
+    "chapterCode": "XIII",
+    "block": "Spondylopathies",
+    "blockCode": "M45-M49",
+    "category": "Spondylopathies in diseases classified elsewhere",
+    "categoryCode": "M49",
+    "subcategory": "M49.1",
+    "inclusion": null,
+    "exclusion": [
+        "certain conditions originating in the perinatal period",
+        "certain disorders of the temporomandibular joint",
+        "certain infectious and parasitic diseases",
+        "compartment syndrome",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "collapsed vertebra in osteoporosis"
+    ],
+    "symptoms": [
+        "back pain",
+        "spinal stiffness",
+        "reduced mobility",
+        "vertebral tenderness",
+        "nerve compression symptoms"
+    ]
+}

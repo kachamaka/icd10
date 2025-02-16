@@ -1,0 +1,31 @@
+{
+    "icd10code": "E77.9",
+    "type": "subcategory",
+    "title": "Disorder of glycoprotein metabolism, unspecified",
+    "chapter": "Endocrine, nutritional and metabolic diseases",
+    "chapterCode": "IV",
+    "block": "Metabolic disorders",
+    "blockCode": "E70-E90",
+    "category": "Disorders of glycoprotein metabolism",
+    "categoryCode": "E77",
+    "subcategory": "E77.9",
+    "inclusion": null,
+    "exclusion": [
+        "complications of pregnancy, childbirth and the puerperium",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "transitory endocrine and metabolic disorders specific to fetus and newborn",
+        "androgen resistance syndrome",
+        "congenital adrenal hyperplasia",
+        "Ehlers-Danlos syndrome",
+        "haemolytic anaemias due to enzyme disorders",
+        "Marfan syndrome",
+        "5-alpha-reductase deficiency"
+    ],
+    "symptoms": [
+        "excessive fatigue",
+        "stomach pain",
+        "constipation",
+        "unexplained weight loss",
+        "bone pain"
+    ]
+}

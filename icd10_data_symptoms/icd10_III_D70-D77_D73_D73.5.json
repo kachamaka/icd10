@@ -1,0 +1,35 @@
+{
+    "icd10code": "D73.5",
+    "type": "subcategory",
+    "title": "Infarction of spleen",
+    "chapter": "Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism",
+    "chapterCode": "III",
+    "block": "Other diseases of blood and blood-forming organs",
+    "blockCode": "D70-D77",
+    "category": "Diseases of spleen",
+    "categoryCode": "D73",
+    "subcategory": "D73.5",
+    "inclusion": [
+        "Splenic rupture, nontraumatic",
+        "Torsion of spleen"
+    ],
+    "exclusion": [
+        "autoimmune disease (systemic) NOS",
+        "certain conditions originating in the perinatal period",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "human immunodeficiency virus [HIV] disease",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "traumatic rupture of spleen"
+    ],
+    "symptoms": [
+        "abdominal pain",
+        "fatigue",
+        "jaundice",
+        "easy bruising or bleeding",
+        "swollen spleen or liver"
+    ]
+}

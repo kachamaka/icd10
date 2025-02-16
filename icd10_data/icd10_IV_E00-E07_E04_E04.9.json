@@ -1,0 +1,25 @@
+{
+  "type": "subcategory",
+  "chapterCode": "IV",
+  "chapter": "Endocrine, nutritional and metabolic diseases",
+  "blockCode": "E00-E07",
+  "block": "Disorders of thyroid gland",
+  "categoryCode": "E04",
+  "category": "Other nontoxic goitre",
+  "subcategory": "E04.9",
+  "title": "Nontoxic goitre, unspecified",
+  "inclusion": [
+    "Goitre NOS",
+    "Nodular goitre (nontoxic) NOS"
+  ],
+  "exclusion": [
+    "complications of pregnancy, childbirth and the puerperium",
+    "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+    "transitory endocrine and metabolic disorders specific to fetus and newborn",
+    "congenital goitre: NOS",
+    "congenital goitre: diffuse",
+    "congenital goitre: parenchymatous",
+    "iodine-deficiency-related goitre"
+  ],
+  "children": null
+}

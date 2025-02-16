@@ -1,0 +1,21 @@
+{
+    "icd10code": "C18.2",
+    "type": "subcategory",
+    "title": "Malignant neoplasm: Ascending colon",
+    "chapter": "Neoplasms",
+    "chapterCode": "II",
+    "block": "Malignant neoplasms of digestive organs",
+    "blockCode": "C15-C26",
+    "category": "Malignant neoplasm of colon",
+    "categoryCode": "C18",
+    "subcategory": "C18.2",
+    "inclusion": null,
+    "exclusion": null,
+    "symptoms": [
+        "abdominal pain",
+        "changes in bowel habits",
+        "blood in stool",
+        "unintentional weight loss",
+        "fatigue"
+    ]
+}

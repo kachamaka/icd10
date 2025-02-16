@@ -1,0 +1,33 @@
+{
+    "icd10code": "H66.3",
+    "type": "subcategory",
+    "title": "Other chronic suppurative otitis media",
+    "chapter": "Diseases of the ear and mastoid process",
+    "chapterCode": "VIII",
+    "block": "Diseases of middle ear and mastoid",
+    "blockCode": "H65-H75",
+    "category": "Suppurative and unspecified otitis media",
+    "categoryCode": "H66",
+    "subcategory": "H66.3",
+    "inclusion": [
+        "with myringitis",
+        "Chronic suppurative otitis media NOS"
+    ],
+    "exclusion": [
+        "certain conditions originating in the perinatal period",
+        "certain infectious and parasitic diseases",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified"
+    ],
+    "symptoms": [
+        "ear pain",
+        "ear discharge",
+        "hearing loss",
+        "fever",
+        "irritability"
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "icd10code": "C86.1",
+    "type": "subcategory",
+    "title": "Hepatosplenic T-cell lymphoma",
+    "chapter": "Neoplasms",
+    "chapterCode": "II",
+    "block": "Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",
+    "blockCode": "C81-C96",
+    "category": "Other specified types of T/NK-cell lymphoma",
+    "categoryCode": "C86",
+    "subcategory": "C86.1",
+    "inclusion": [
+        "Alpha-beta and gamma-delta types"
+    ],
+    "exclusion": [
+        "secondary and unspecified neoplasm of lymph nodes",
+        "anaplastic large cell lymphoma, ALK negative",
+        "anaplastic large cell lymphoma, ALK positive"
+    ],
+    "symptoms": [
+        "unexplained fever",
+        "night sweats",
+        "weight loss",
+        "fatigue",
+        "enlarged lymph nodes"
+    ]
+}

@@ -1,0 +1,36 @@
+{
+    "icd10code": "R15",
+    "type": "category",
+    "title": "Faecal incontinence",
+    "chapter": "Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+    "chapterCode": "XVIII",
+    "block": "Symptoms and signs involving the digestive system and abdomen",
+    "blockCode": "R10-R19",
+    "category": "Faecal incontinence",
+    "categoryCode": "R15",
+    "subcategory": "",
+    "inclusion": [
+        "Encopresis NOS"
+    ],
+    "exclusion": [
+        "abnormal findings on antenatal screening of mother",
+        "certain conditions originating in the perinatal period",
+        "gastrointestinal haemorrhage",
+        "gastrointestinal haemorrhage newborn",
+        "intestinal obstruction",
+        "intestinal obstruction newborn",
+        "pylorospasm",
+        "pylorospasm congenital or infantile",
+        "symptoms and signs involving the urinary system",
+        "symptoms referable to genital organs: female",
+        "symptoms referable to genital organs: male",
+        "that of nonorganic origin"
+    ],
+    "symptoms": [
+        "involuntary stool leakage",
+        "frequent soiling",
+        "difficulty controlling bowels",
+        "stool staining of underwear",
+        "inability to delay defecation"
+    ]
+}

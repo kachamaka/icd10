@@ -1,0 +1,24 @@
+{
+  "type": "subcategory",
+  "chapterCode": "XVII",
+  "chapter": "Congenital malformations, deformations and chromosomal abnormalities",
+  "blockCode": "Q50-Q56",
+  "block": "Congenital malformations of genital organs",
+  "categoryCode": "Q55",
+  "category": "Other congenital malformations of male genital organs",
+  "subcategory": "Q55.9",
+  "title": "Congenital malformation of male genital organ, unspecified",
+  "inclusion": [
+    "Congenital: anomaly NOS of male genital organ",
+    "Congenital: deformity NOS of male genital organ"
+  ],
+  "exclusion": [
+    "inborn errors of metabolism",
+    "androgen resistance syndrome",
+    "syndromes associated with anomalies in the number and form of chromosomes",
+    "testicular feminization syndrome",
+    "congenital hydrocele",
+    "hypospadias"
+  ],
+  "children": null
+}

@@ -1,0 +1,21 @@
+{
+  "type": "category",
+  "chapterCode": "XX",
+  "chapter": "External causes of morbidity and mortality",
+  "blockCode": "W65-W74",
+  "block": "Accidental drowning and submersion",
+  "categoryCode": "W73",
+  "category": "Other specified drowning and submersion",
+  "subcategory": "",
+  "title": "Other specified drowning and submersion",
+  "inclusion": [
+    "quenching tank",
+    "reservoir"
+  ],
+  "exclusion": [
+    "drowning and submersion due to: cataclysm",
+    "drowning and submersion due to: transport accidents",
+    "drowning and submersion due to: water transport accident"
+  ],
+  "children": null
+}

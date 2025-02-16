@@ -1,0 +1,23 @@
+{
+    "icd10code": "C00.8",
+    "type": "subcategory",
+    "title": "Malignant neoplasm: Overlapping lesion of lip",
+    "chapter": "Neoplasms",
+    "chapterCode": "II",
+    "block": "Malignant neoplasms of lip, oral cavity and pharynx",
+    "blockCode": "C00-C14",
+    "category": "Malignant neoplasm of lip",
+    "categoryCode": "C00",
+    "subcategory": "C00.8",
+    "inclusion": null,
+    "exclusion": [
+        "skin of lip"
+    ],
+    "symptoms": [
+        "swelling in the oral region",
+        "pain or discomfort while swallowing",
+        "unusual mouth bleeding",
+        "unexpected weight loss",
+        "persistent mouth sore"
+    ]
+}

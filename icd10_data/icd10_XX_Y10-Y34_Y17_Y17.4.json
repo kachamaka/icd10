@@ -1,0 +1,17 @@
+{
+  "type": "subcategory",
+  "chapterCode": "XX",
+  "chapter": "External causes of morbidity and mortality",
+  "blockCode": "Y10-Y34",
+  "block": "Event of undetermined intent",
+  "categoryCode": "Y17",
+  "category": "Poisoning by and exposure to carbon monoxide and other gases and vapours, undetermined intent",
+  "subcategory": "Y17.4",
+  "title": "Poisoning by and exposure to carbon monoxide from unspecified sources, undetermined intent",
+  "inclusion": null,
+  "exclusion": [
+    "carbon monoxide from smoke, fire and flames, undetermined intent",
+    "metal fumes and vapours"
+  ],
+  "children": null
+}

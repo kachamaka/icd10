@@ -1,0 +1,20 @@
+{
+  "type": "subcategory",
+  "chapterCode": "II",
+  "chapter": "Neoplasms",
+  "blockCode": "C00-C14",
+  "block": "Malignant neoplasms of lip, oral cavity and pharynx",
+  "categoryCode": "C08",
+  "category": "Malignant neoplasm of other and unspecified major salivary glands",
+  "subcategory": "C08.8",
+  "title": "Malignant neoplasm: Overlapping lesion of major salivary glands",
+  "inclusion": [
+    "Malignant neoplasm of major salivary glands whose point of origin cannot be classified to any one of the categories C07-C08.1"
+  ],
+  "exclusion": [
+    "malignant neoplasms of specified minor salivary glands which are classified according to their anatomical location",
+    "malignant neoplasms of minor salivary glands NOS",
+    "parotid gland"
+  ],
+  "children": null
+}

@@ -1,0 +1,27 @@
+{
+  "type": "subcategory",
+  "chapterCode": "XI",
+  "chapter": "Diseases of the digestive system",
+  "blockCode": "K90-K93",
+  "block": "Other diseases of the digestive system",
+  "categoryCode": "K91",
+  "category": "Postprocedural disorders of digestive system, not elsewhere classified",
+  "subcategory": "K91.4",
+  "title": "Colostomy and enterostomy malfunction",
+  "inclusion": null,
+  "exclusion": [
+    "certain conditions originating in the perinatal period",
+    "certain infectious and parasitic diseases",
+    "complications of pregnancy, childbirth and the puerperium",
+    "congenital malformations, deformations and chromosomal abnormalities",
+    "endocrine, nutritional and metabolic diseases",
+    "injury, poisoning and certain other consequences of external causes",
+    "neoplasms",
+    "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+    "gastrojejunal ulcer",
+    "radiation: colitis",
+    "radiation: gastroenteritis",
+    "radiation: proctitis"
+  ],
+  "children": null
+}

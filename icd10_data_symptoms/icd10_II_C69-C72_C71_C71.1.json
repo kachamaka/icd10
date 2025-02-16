@@ -1,0 +1,24 @@
+{
+    "icd10code": "C71.1",
+    "type": "subcategory",
+    "title": "Malignant neoplasm: Frontal lobe",
+    "chapter": "Neoplasms",
+    "chapterCode": "II",
+    "block": "Malignant neoplasms of eye, brain and other parts of central nervous system",
+    "blockCode": "C69-C72",
+    "category": "Malignant neoplasm of brain",
+    "categoryCode": "C71",
+    "subcategory": "C71.1",
+    "inclusion": null,
+    "exclusion": [
+        "cranial nerves",
+        "retrobulbar tissue"
+    ],
+    "symptoms": [
+        "headaches",
+        "seizures",
+        "gradual loss of movement or sensation in an arm or leg",
+        "difficulty with balance",
+        "speech difficulties"
+    ]
+}

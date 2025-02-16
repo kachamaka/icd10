@@ -1,0 +1,31 @@
+{
+    "icd10code": "F63.0",
+    "type": "subcategory",
+    "title": "Pathological gambling",
+    "chapter": "Mental and behavioural disorders",
+    "chapterCode": "V",
+    "block": "Disorders of adult personality and behaviour",
+    "blockCode": "F60-F69",
+    "category": "Habit and impulse disorders",
+    "categoryCode": "F63",
+    "subcategory": "F63.0",
+    "inclusion": [
+        "disorders of psychological development",
+        "Compulsive gambling"
+    ],
+    "exclusion": [
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "habitual excessive use of alcohol or psychoactive substances",
+        "impulse and habit disorders involving sexual behaviour",
+        "excessive gambling by manic patients",
+        "gambling and betting NOS",
+        "gambling in dissocial personality disorder"
+    ],
+    "symptoms": [
+        "intense urge to pull hair",
+        "noticeable hair loss",
+        "tension relief after pulling",
+        "increased distress",
+        "unsuccessful attempts to stop"
+    ]
+}

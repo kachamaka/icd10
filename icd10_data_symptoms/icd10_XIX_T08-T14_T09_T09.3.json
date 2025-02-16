@@ -1,0 +1,36 @@
+{
+    "icd10code": "T09.3",
+    "type": "subcategory",
+    "title": "Injury of spinal cord, level unspecified",
+    "chapter": "Injury, poisoning and certain other consequences of external causes",
+    "chapterCode": "XIX",
+    "block": "Injuries to unspecified part of trunk, limb or body region",
+    "blockCode": "T08-T14",
+    "category": "Other injuries of spine and trunk, level unspecified",
+    "categoryCode": "T09",
+    "subcategory": "T09.3",
+    "inclusion": null,
+    "exclusion": [
+        "birth trauma",
+        "obstetric trauma",
+        "malunion of fracture",
+        "nonunion of fracture [pseudarthrosis]",
+        "pathological fracture",
+        "pathological fracture with osteoporosis",
+        "stress fracture",
+        "burns and corrosions",
+        "frostbite",
+        "injuries involving multiple body regions",
+        "insect bite or sting, venomous",
+        "injuries involving multiple body regions",
+        "fracture of lower limb, level unspecified",
+        "injuries involving multiple body regions"
+    ],
+    "symptoms": [
+        "back pain",
+        "numbness",
+        "tingling",
+        "weakness",
+        "limited mobility"
+    ]
+}

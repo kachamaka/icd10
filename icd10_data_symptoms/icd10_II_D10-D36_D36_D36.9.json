@@ -1,0 +1,23 @@
+{
+    "icd10code": "D36.9",
+    "type": "subcategory",
+    "title": "Benign neoplasm: Benign neoplasm of unspecified site",
+    "chapter": "Neoplasms",
+    "chapterCode": "II",
+    "block": "Benign neoplasms",
+    "blockCode": "D10-D36",
+    "category": "Benign neoplasm of other and unspecified sites",
+    "categoryCode": "D36",
+    "subcategory": "D36.9",
+    "inclusion": [
+        "morphology codes with behaviour code /0"
+    ],
+    "exclusion": null,
+    "symptoms": [
+        "unexplained weight loss",
+        "persistent fatigue",
+        "localized pain",
+        "lump or swelling",
+        "abnormal bleeding"
+    ]
+}

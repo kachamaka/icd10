@@ -1,0 +1,20 @@
+{
+  "type": "subcategory",
+  "chapterCode": "V",
+  "chapter": "Mental and behavioural disorders",
+  "blockCode": "F30-F39",
+  "block": "Mood [affective] disorders",
+  "categoryCode": "F30",
+  "category": "Manic episode",
+  "subcategory": "F30.9",
+  "title": "Manic episode, unspecified",
+  "inclusion": [
+    "disorders of psychological development",
+    "bipolar disorder, single manic episode",
+    "Mania NOS"
+  ],
+  "exclusion": [
+    "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified"
+  ],
+  "children": null
+}

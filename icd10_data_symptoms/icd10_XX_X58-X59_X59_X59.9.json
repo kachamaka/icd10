@@ -1,0 +1,20 @@
+{
+    "icd10code": "X59.9",
+    "type": "subcategory",
+    "title": "Exposure to unspecified factor causing other and unspecified injury",
+    "chapter": "External causes of morbidity and mortality",
+    "chapterCode": "XX",
+    "block": "Accidental exposure to other and unspecified factors",
+    "blockCode": "X58-X59",
+    "category": "Exposure to unspecified factor",
+    "categoryCode": "X59",
+    "subcategory": "X59.9",
+    "inclusion": [
+        "accident NOS",
+        "exposure NOS"
+    ],
+    "exclusion": null,
+    "symptoms": [
+        "asymptomatic"
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "icd10code": "Y36.4",
+    "type": "subcategory",
+    "title": "War operations involving firearm discharge and other forms of conventional warfare",
+    "chapter": "External causes of morbidity and mortality",
+    "chapterCode": "XX",
+    "block": "Legal intervention and operations of war",
+    "blockCode": "Y35-Y36",
+    "category": "Operations of war",
+    "categoryCode": "Y36",
+    "subcategory": "Y36.4",
+    "inclusion": [
+        "injuries to military personnel and civilians caused by war and civil insurrection",
+        "Battle wounds",
+        "Bayonet injury",
+        "Bullet: carbine",
+        "Bullet: machine gun",
+        "Bullet: pistol",
+        "Bullet: rifle",
+        "Bullet: rubber (rifle)",
+        "Drowned in war operations NOS",
+        "Pellets (shotgun)"
+    ],
+    "exclusion": null,
+    "symptoms": [
+        "asymptomatic"
+    ]
+}

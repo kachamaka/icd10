@@ -1,0 +1,37 @@
+{
+    "icd10code": "H33.1",
+    "type": "subcategory",
+    "title": "Retinoschisis and retinal cysts",
+    "chapter": "Diseases of the eye and adnexa",
+    "chapterCode": "VII",
+    "block": "Disorders of choroid and retina",
+    "blockCode": "H30-H36",
+    "category": "Retinal detachments and breaks",
+    "categoryCode": "H33",
+    "subcategory": "H33.1",
+    "inclusion": [
+        "Cyst of ora serrata",
+        "Parasitic cyst of retina NOS",
+        "Pseudocyst of retina"
+    ],
+    "exclusion": [
+        "certain conditions originating in the perinatal period",
+        "certain infectious and parasitic diseases",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "detachment of retinal pigment epithelium",
+        "congenital retinoschisis",
+        "microcystoid degeneration of retina"
+    ],
+    "symptoms": [
+        "blurred vision",
+        "floaters",
+        "flashes of light",
+        "peripheral vision loss",
+        "shadow over vision field"
+    ]
+}

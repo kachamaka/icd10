@@ -1,0 +1,37 @@
+{
+    "icd10code": "E29.1",
+    "type": "subcategory",
+    "title": "Testicular hypofunction",
+    "chapter": "Endocrine, nutritional and metabolic diseases",
+    "chapterCode": "IV",
+    "block": "Disorders of other endocrine glands",
+    "blockCode": "E20-E35",
+    "category": "Testicular dysfunction",
+    "categoryCode": "E29",
+    "subcategory": "E29.1",
+    "inclusion": [
+        "5-Alpha-reductase deficiency (with male pseudohermaphroditism)",
+        "Defective biosynthesis of testicular androgen NOS",
+        "Testicular hypogonadism NOS"
+    ],
+    "exclusion": [
+        "complications of pregnancy, childbirth and the puerperium",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "transitory endocrine and metabolic disorders specific to fetus and newborn",
+        "galactorrhoea",
+        "gynaecomastia",
+        "androgen resistance syndrome",
+        "azoospermia or oligospermia NOS",
+        "isolated gonadotropin deficiency",
+        "Klinefelter syndrome",
+        "postprocedural testicular hypofunction",
+        "testicular feminization (syndrome)"
+    ],
+    "symptoms": [
+        "reduced libido",
+        "erectile dysfunction",
+        "infertility",
+        "fatigue",
+        "depression"
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "icd10code": "Q27.9",
+    "type": "subcategory",
+    "title": "Congenital malformation of peripheral vascular system, unspecified",
+    "chapter": "Congenital malformations, deformations and chromosomal abnormalities",
+    "chapterCode": "XVII",
+    "block": "Congenital malformations of the circulatory system",
+    "blockCode": "Q20-Q28",
+    "category": "Other congenital malformations of peripheral vascular system",
+    "categoryCode": "Q27",
+    "subcategory": "Q27.9",
+    "inclusion": [
+        "Anomaly of artery or vein NOS"
+    ],
+    "exclusion": [
+        "inborn errors of metabolism",
+        "anomalies of: cerebral and precerebral vessels",
+        "anomalies of: coronary vessels",
+        "anomalies of: pulmonary artery",
+        "congenital retinal aneurysm",
+        "haemangioma and lymphangioma"
+    ],
+    "symptoms": [
+        "abnormal blood flow",
+        "varicose veins",
+        "swelling",
+        "discoloration",
+        "leg pain"
+    ]
+}

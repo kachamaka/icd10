@@ -1,0 +1,33 @@
+{
+    "icd10code": "G13.0",
+    "type": "subcategory",
+    "title": "Paraneoplastic neuromyopathy and neuropathy",
+    "chapter": "Diseases of the nervous system",
+    "chapterCode": "VI",
+    "block": "Systemic atrophies primarily affecting the central nervous system",
+    "blockCode": "G10-G14",
+    "category": "Systemic atrophies primarily affecting central nervous system in diseases classified elsewhere",
+    "categoryCode": "G13",
+    "subcategory": "G13.0",
+    "inclusion": [
+        "Carcinomatous neuromyopathy",
+        "Sensorial paraneoplastic neuropathy [Denny Brown]"
+    ],
+    "exclusion": [
+        "certain conditions originating in the perinatal period",
+        "certain infectious and parasitic diseases",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified"
+    ],
+    "symptoms": [
+        "muscle weakness",
+        "sensory loss",
+        "ataxia",
+        "spasticity",
+        "bladder dysfunction"
+    ]
+}

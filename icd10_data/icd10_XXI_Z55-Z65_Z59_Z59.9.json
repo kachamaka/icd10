@@ -1,0 +1,16 @@
+{
+  "type": "subcategory",
+  "chapterCode": "XXI",
+  "chapter": "Factors influencing health status and contact with health services",
+  "blockCode": "Z55-Z65",
+  "block": "Persons with potential health hazards related to socioeconomic and psychosocial circumstances",
+  "categoryCode": "Z59",
+  "category": "Problems related to housing and economic circumstances",
+  "subcategory": "Z59.9",
+  "title": "Problem related to housing and economic circumstances, unspecified",
+  "inclusion": null,
+  "exclusion": [
+    "inadequate drinking-water supply"
+  ],
+  "children": null
+}

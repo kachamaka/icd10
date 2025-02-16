@@ -1,0 +1,24 @@
+{
+    "icd10code": "R39.8",
+    "type": "subcategory",
+    "title": "Other and unspecified symptoms and signs involving the urinary system",
+    "chapter": "Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+    "chapterCode": "XVIII",
+    "block": "Symptoms and signs involving the urinary system",
+    "blockCode": "R30-R39",
+    "category": "Other symptoms and signs involving the urinary system",
+    "categoryCode": "R39",
+    "subcategory": "R39.8",
+    "inclusion": null,
+    "exclusion": [
+        "abnormal findings on antenatal screening of mother",
+        "certain conditions originating in the perinatal period"
+    ],
+    "symptoms": [
+        "bladder pain",
+        "difficulty urinating",
+        "frequent urination",
+        "weak urine stream",
+        "post-void dribbling"
+    ]
+}

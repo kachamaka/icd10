@@ -1,0 +1,22 @@
+{
+  "type": "category",
+  "chapterCode": "XVIII",
+  "chapter": "Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+  "blockCode": "R50-R69",
+  "block": "General symptoms and signs",
+  "categoryCode": "R51",
+  "category": "Headache",
+  "subcategory": "",
+  "title": "Headache",
+  "inclusion": [
+    "Facial pain NOS"
+  ],
+  "exclusion": [
+    "abnormal findings on antenatal screening of mother",
+    "certain conditions originating in the perinatal period",
+    "atypical facial pain",
+    "migraine and other headache syndromes",
+    "trigeminal neuralgia"
+  ],
+  "children": null
+}

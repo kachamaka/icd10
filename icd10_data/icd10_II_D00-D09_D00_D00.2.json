@@ -1,0 +1,21 @@
+{
+  "type": "subcategory",
+  "chapterCode": "II",
+  "chapter": "Neoplasms",
+  "blockCode": "D00-D09",
+  "block": "In situ neoplasms",
+  "categoryCode": "D00",
+  "category": "Carcinoma in situ of oral cavity, oesophagus and stomach",
+  "subcategory": "D00.2",
+  "title": "Carcinoma in situ: Stomach",
+  "inclusion": [
+    "Bowen disease",
+    "erythroplasia",
+    "morphology codes with behaviour code /2",
+    "Queyrat erythroplasia"
+  ],
+  "exclusion": [
+    "melanoma in situ"
+  ],
+  "children": null
+}

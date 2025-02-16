@@ -1,0 +1,36 @@
+{
+    "icd10code": "F80.0",
+    "type": "subcategory",
+    "title": "Specific speech articulation disorder",
+    "chapter": "Mental and behavioural disorders",
+    "chapterCode": "V",
+    "block": "Disorders of psychological development",
+    "blockCode": "F80-F89",
+    "category": "Specific developmental disorders of speech and language",
+    "categoryCode": "F80",
+    "subcategory": "F80.0",
+    "inclusion": [
+        "disorders of psychological development",
+        "Developmental: phonological disorder",
+        "Developmental: speech articulation disorder",
+        "Dyslalia",
+        "Functional speech articulation disorder",
+        "Lalling"
+    ],
+    "exclusion": [
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "speech articulation impairment (due to): aphasia NOS",
+        "speech articulation impairment (due to): apraxia",
+        "speech articulation impairment (due to): hearing loss",
+        "speech articulation impairment (due to): mental retardation",
+        "speech articulation impairment (due to): with language developmental disorder: expressive",
+        "speech articulation impairment (due to): with language developmental disorder: receptive"
+    ],
+    "symptoms": [
+        "delayed speech development",
+        "limited vocabulary",
+        "difficulty understanding speech",
+        "trouble forming sentences",
+        "poor pronunciation"
+    ]
+}

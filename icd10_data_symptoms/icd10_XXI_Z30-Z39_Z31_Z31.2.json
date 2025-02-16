@@ -1,0 +1,21 @@
+{
+    "icd10code": "Z31.2",
+    "type": "subcategory",
+    "title": "In vitro fertilization",
+    "chapter": "Factors influencing health status and contact with health services",
+    "chapterCode": "XXI",
+    "block": "Persons encountering health services in circumstances related to reproduction",
+    "blockCode": "Z30-Z39",
+    "category": "Procreative management",
+    "categoryCode": "Z31",
+    "subcategory": "Z31.2",
+    "inclusion": [
+        "Admission for harvesting or implantation of ova"
+    ],
+    "exclusion": [
+        "complications associated with artificial fertilization"
+    ],
+    "symptoms": [
+        "asymptomatic"
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "icd10code": "W35",
+    "type": "category",
+    "title": "Explosion and rupture of boiler",
+    "chapter": "External causes of morbidity and mortality",
+    "chapterCode": "XX",
+    "block": "Exposure to inanimate mechanical forces",
+    "blockCode": "W20-W49",
+    "category": "Explosion and rupture of boiler",
+    "categoryCode": "W35",
+    "subcategory": "",
+    "inclusion": null,
+    "exclusion": [
+        "assault",
+        "contact or collision with animals or persons",
+        "intentional self-harm"
+    ],
+    "symptoms": [
+        "asymptomatic"
+    ]
+}

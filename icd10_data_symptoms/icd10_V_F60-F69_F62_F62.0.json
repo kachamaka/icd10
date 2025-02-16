@@ -1,0 +1,32 @@
+{
+    "icd10code": "F62.0",
+    "type": "subcategory",
+    "title": "Enduring personality change after catastrophic experience",
+    "chapter": "Mental and behavioural disorders",
+    "chapterCode": "V",
+    "block": "Disorders of adult personality and behaviour",
+    "blockCode": "F60-F69",
+    "category": "Enduring personality changes, not attributable to brain damage and disease",
+    "categoryCode": "F62",
+    "subcategory": "F62.0",
+    "inclusion": [
+        "disorders of psychological development",
+        "Personality change after: concentration camp experiences",
+        "Personality change after: disasters",
+        "Personality change after: prolonged: captivity with an imminent possibility of being killed",
+        "Personality change after: prolonged: exposure to life-threatening situations such as being a victim of terrorism",
+        "Personality change after: torture"
+    ],
+    "exclusion": [
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "personality and behavioural disorder due to brain disease, damage and dysfunction",
+        "post-traumatic stress disorder"
+    ],
+    "symptoms": [
+        "difficulty adapting",
+        "interpersonal issues",
+        "emotional instability",
+        "stress intolerance",
+        "chronic anxiety"
+    ]
+}

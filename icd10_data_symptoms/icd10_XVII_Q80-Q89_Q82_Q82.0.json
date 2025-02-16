@@ -1,0 +1,27 @@
+{
+    "icd10code": "Q82.0",
+    "type": "subcategory",
+    "title": "Hereditary lymphoedema",
+    "chapter": "Congenital malformations, deformations and chromosomal abnormalities",
+    "chapterCode": "XVII",
+    "block": "Other congenital malformations",
+    "blockCode": "Q80-Q89",
+    "category": "Other congenital malformations of skin",
+    "categoryCode": "Q82",
+    "subcategory": "Q82.0",
+    "inclusion": null,
+    "exclusion": [
+        "inborn errors of metabolism",
+        "acrodermatitis enteropathica",
+        "congenital erythropoietic porphyria",
+        "pilonidal cyst or sinus",
+        "Sturge-Weber(-Dimitri) syndrome"
+    ],
+    "symptoms": [
+        "hyperpigmented skin patches",
+        "hypopigmented skin patches",
+        "thickened skin",
+        "abnormal hair growth",
+        "vascular skin lesions"
+    ]
+}

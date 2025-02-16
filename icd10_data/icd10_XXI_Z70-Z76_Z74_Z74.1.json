@@ -1,0 +1,16 @@
+{
+  "type": "subcategory",
+  "chapterCode": "XXI",
+  "chapter": "Factors influencing health status and contact with health services",
+  "blockCode": "Z70-Z76",
+  "block": "Persons encountering health services in other circumstances",
+  "categoryCode": "Z74",
+  "category": "Problems related to care-provider dependency",
+  "subcategory": "Z74.1",
+  "title": "Need for assistance with personal care",
+  "inclusion": null,
+  "exclusion": [
+    "dependence on enabling machines or devices NEC"
+  ],
+  "children": null
+}

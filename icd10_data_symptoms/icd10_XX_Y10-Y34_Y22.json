@@ -1,0 +1,17 @@
+{
+    "icd10code": "Y22",
+    "type": "category",
+    "title": "Handgun discharge, undetermined intent",
+    "chapter": "External causes of morbidity and mortality",
+    "chapterCode": "XX",
+    "block": "Event of undetermined intent",
+    "blockCode": "Y10-Y34",
+    "category": "Handgun discharge, undetermined intent",
+    "categoryCode": "Y22",
+    "subcategory": "",
+    "inclusion": null,
+    "exclusion": null,
+    "symptoms": [
+        "asymptomatic"
+    ]
+}

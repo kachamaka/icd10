@@ -1,0 +1,32 @@
+{
+    "icd10code": "E04.2",
+    "type": "subcategory",
+    "title": "Nontoxic multinodular goitre",
+    "chapter": "Endocrine, nutritional and metabolic diseases",
+    "chapterCode": "IV",
+    "block": "Disorders of thyroid gland",
+    "blockCode": "E00-E07",
+    "category": "Other nontoxic goitre",
+    "categoryCode": "E04",
+    "subcategory": "E04.2",
+    "inclusion": [
+        "Cystic goitre NOS",
+        "Multinodular (cystic) goitre NOS"
+    ],
+    "exclusion": [
+        "complications of pregnancy, childbirth and the puerperium",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "transitory endocrine and metabolic disorders specific to fetus and newborn",
+        "congenital goitre: NOS",
+        "congenital goitre: diffuse",
+        "congenital goitre: parenchymatous",
+        "iodine-deficiency-related goitre"
+    ],
+    "symptoms": [
+        "swelling in the neck",
+        "difficulty swallowing",
+        "hoarseness or voice changes",
+        "unexplained weight loss",
+        "irregular heartbeat"
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "icd10code": "C79.3",
+    "type": "subcategory",
+    "title": "Secondary malignant neoplasm of brain and cerebral meninges",
+    "chapter": "Neoplasms",
+    "chapterCode": "II",
+    "block": "Malignant neoplasms of ill-defined, secondary and unspecified sites",
+    "blockCode": "C76-C80",
+    "category": "Secondary malignant neoplasm of other and unspecified sites",
+    "categoryCode": "C79",
+    "subcategory": "C79.3",
+    "inclusion": null,
+    "exclusion": null,
+    "symptoms": [
+        "abdominal pain",
+        "unexplained weight loss",
+        "loss of appetite",
+        "swelling in the abdominal area",
+        "jaundice"
+    ]
+}

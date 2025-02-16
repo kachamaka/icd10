@@ -1,0 +1,18 @@
+{
+  "type": "subcategory",
+  "chapterCode": "II",
+  "chapter": "Neoplasms",
+  "blockCode": "C81-C96",
+  "block": "Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",
+  "categoryCode": "C91",
+  "category": "Lymphoid leukaemia",
+  "subcategory": "C91.7",
+  "title": "Other lymphoid leukaemia",
+  "inclusion": [
+    "T-cell large granular lymphocytic leukaemia (associated with rheumatoid arthritis)"
+  ],
+  "exclusion": [
+    "secondary and unspecified neoplasm of lymph nodes"
+  ],
+  "children": null
+}

@@ -1,0 +1,35 @@
+{
+    "icd10code": "A67.2",
+    "type": "subcategory",
+    "title": "Late lesions of pinta",
+    "chapter": "Certain infectious and parasitic diseases",
+    "chapterCode": "I",
+    "block": "Other spirochaetal diseases",
+    "blockCode": "A65-A69",
+    "category": "Pinta [carate]",
+    "categoryCode": "A67",
+    "subcategory": "A67.2",
+    "inclusion": [
+        "diseases generally recognized as communicable or transmissible",
+        "Cardiovascular lesions",
+        "Skin lesions: achromic of pinta [carate]",
+        "Skin lesions: cicatricial of pinta [carate]",
+        "Skin lesions: dyschromic of pinta [carate]"
+    ],
+    "exclusion": [
+        "carrier or suspected carrier of infectious disease",
+        "certain localized infections - see body system-related chapters",
+        "infectious and parasitic diseases complicating pregnancy, childbirth and the puerperium [except obstetrical tetanus]",
+        "infectious and parasitic diseases specific to the perinatal period [except tetanus neonatorum, whooping cough, congenital syphilis, perinatal gonococcal infection and perinatal human immunodeficiency virus [HIV] disease]",
+        "influenza and other acute respiratory infections",
+        "erythrasma",
+        "endotoxic shock NOS"
+    ],
+    "symptoms": [
+        "fever",
+        "headache",
+        "muscle pain",
+        "rash",
+        "swollen lymph nodes"
+    ]
+}

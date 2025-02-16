@@ -1,0 +1,28 @@
+{
+    "icd10code": "C44.9",
+    "type": "subcategory",
+    "title": "Malignant neoplasm: Malignant neoplasm of skin, unspecified",
+    "chapter": "Neoplasms",
+    "chapterCode": "II",
+    "block": "Melanoma and other malignant neoplasms of skin",
+    "blockCode": "C43-C44",
+    "category": "Other malignant neoplasms of skin",
+    "categoryCode": "C44",
+    "subcategory": "C44.9",
+    "inclusion": [
+        "malignant neoplasm of: sebaceous glands",
+        "malignant neoplasm of: sweat glands"
+    ],
+    "exclusion": [
+        "Kaposi sarcoma",
+        "malignant melanoma of skin",
+        "skin of genital organs"
+    ],
+    "symptoms": [
+        "unexplained skin changes",
+        "irregular growth or mole",
+        "itchiness or pain in a mole",
+        "bleeding or oozing from a mole",
+        "changes in mole"
+    ]
+}

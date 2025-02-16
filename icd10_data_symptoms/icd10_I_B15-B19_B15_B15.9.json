@@ -1,0 +1,33 @@
+{
+    "icd10code": "B15.9",
+    "type": "subcategory",
+    "title": "Hepatitis A without hepatic coma",
+    "chapter": "Certain infectious and parasitic diseases",
+    "chapterCode": "I",
+    "block": "Viral hepatitis",
+    "blockCode": "B15-B19",
+    "category": "Acute hepatitis A",
+    "categoryCode": "B15",
+    "subcategory": "B15.9",
+    "inclusion": [
+        "diseases generally recognized as communicable or transmissible",
+        "Hepatitis A (acute)(viral) NOS"
+    ],
+    "exclusion": [
+        "carrier or suspected carrier of infectious disease",
+        "certain localized infections - see body system-related chapters",
+        "infectious and parasitic diseases complicating pregnancy, childbirth and the puerperium [except obstetrical tetanus]",
+        "infectious and parasitic diseases specific to the perinatal period [except tetanus neonatorum, whooping cough, congenital syphilis, perinatal gonococcal infection and perinatal human immunodeficiency virus [HIV] disease]",
+        "influenza and other acute respiratory infections",
+        "erythrasma",
+        "monkeypox",
+        "hantavirus (cardio-)pulmonary syndrome"
+    ],
+    "symptoms": [
+        "fever",
+        "fatigue",
+        "nausea",
+        "abdominal pain",
+        "jaundice"
+    ]
+}

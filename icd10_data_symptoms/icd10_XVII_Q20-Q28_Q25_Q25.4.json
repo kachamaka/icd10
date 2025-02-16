@@ -1,0 +1,34 @@
+{
+    "icd10code": "Q25.4",
+    "type": "subcategory",
+    "title": "Other congenital malformations of aorta",
+    "chapter": "Congenital malformations, deformations and chromosomal abnormalities",
+    "chapterCode": "XVII",
+    "block": "Congenital malformations of the circulatory system",
+    "blockCode": "Q20-Q28",
+    "category": "Congenital malformations of great arteries",
+    "categoryCode": "Q25",
+    "subcategory": "Q25.4",
+    "inclusion": [
+        "Absence of aorta",
+        "Aplasia of aorta",
+        "Congenital: aneurysm of aorta",
+        "Congenital: dilatation of aorta",
+        "Aneurysm of sinus of Valsalva (ruptured)",
+        "Double aortic arch [vascular ring of aorta]",
+        "Hypoplasia of aorta",
+        "Persistent: convolutions of aortic arch",
+        "Persistent: right aortic arch"
+    ],
+    "exclusion": [
+        "inborn errors of metabolism",
+        "hypoplasia of aorta in hypoplastic left heart syndrome"
+    ],
+    "symptoms": [
+        "heart murmur",
+        "fatigue",
+        "chest pain",
+        "shortness of breath",
+        "difficulty with exercise"
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "icd10code": "E34.9",
+    "type": "subcategory",
+    "title": "Endocrine disorder, unspecified",
+    "chapter": "Endocrine, nutritional and metabolic diseases",
+    "chapterCode": "IV",
+    "block": "Disorders of other endocrine glands",
+    "blockCode": "E20-E35",
+    "category": "Other endocrine disorders",
+    "categoryCode": "E34",
+    "subcategory": "E34.9",
+    "inclusion": [
+        "Disturbance: endocrine NOS",
+        "Disturbance: hormone NOS"
+    ],
+    "exclusion": [
+        "complications of pregnancy, childbirth and the puerperium",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "transitory endocrine and metabolic disorders specific to fetus and newborn",
+        "galactorrhoea",
+        "gynaecomastia",
+        "Albright(-McCune)(-Sternberg) syndrome"
+    ],
+    "symptoms": [
+        "unexplained weight gain",
+        "fatigue",
+        "slow heart rate",
+        "constipation",
+        "dry skin"
+    ]
+}

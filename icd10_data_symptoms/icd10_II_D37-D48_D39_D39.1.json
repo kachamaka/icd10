@@ -1,0 +1,21 @@
+{
+    "icd10code": "D39.1",
+    "type": "subcategory",
+    "title": "Neoplasm of uncertain or unknown behaviour: Ovary",
+    "chapter": "Neoplasms",
+    "chapterCode": "II",
+    "block": "Neoplasms of uncertain or unknown behaviour",
+    "blockCode": "D37-D48",
+    "category": "Neoplasm of uncertain or unknown behaviour of female genital organs",
+    "categoryCode": "D39",
+    "subcategory": "D39.1",
+    "inclusion": null,
+    "exclusion": null,
+    "symptoms": [
+        "abnormal vaginal bleeding",
+        "pelvic pain",
+        "enlarged uterus",
+        "difficulty urinating",
+        "unintentional weight loss"
+    ]
+}

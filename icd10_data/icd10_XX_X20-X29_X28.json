@@ -1,0 +1,25 @@
+{
+  "type": "category",
+  "chapterCode": "XX",
+  "chapter": "External causes of morbidity and mortality",
+  "blockCode": "X20-X29",
+  "block": "Contact with venomous animals and plants",
+  "categoryCode": "X28",
+  "category": "Contact with other specified venomous plants",
+  "subcategory": "",
+  "title": "Contact with other specified venomous plants",
+  "inclusion": [
+    "chemical released by: animal",
+    "chemical released by: insect",
+    "release of venom through fangs, hairs, spines, tentacles and other venom apparatus",
+    "venomous bites and stings",
+    "injection of poisons or toxins into or through skin by",
+    "plant thorns, spines or other mechanisms"
+  ],
+  "exclusion": [
+    "ingestion of poisonous animals or plants",
+    "ingestion of poisonous plants",
+    "puncture wound NOS caused by plant thorns or spines"
+  ],
+  "children": null
+}

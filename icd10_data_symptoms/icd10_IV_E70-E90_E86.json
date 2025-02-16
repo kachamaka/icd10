@@ -1,0 +1,39 @@
+{
+    "icd10code": "E86",
+    "type": "category",
+    "title": "Volume depletion",
+    "chapter": "Endocrine, nutritional and metabolic diseases",
+    "chapterCode": "IV",
+    "block": "Metabolic disorders",
+    "blockCode": "E70-E90",
+    "category": "Volume depletion",
+    "categoryCode": "E86",
+    "subcategory": "",
+    "inclusion": [
+        "Dehydration",
+        "Depletion of volume of plasma or extracellular fluid",
+        "Hypovolaemia"
+    ],
+    "exclusion": [
+        "complications of pregnancy, childbirth and the puerperium",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "transitory endocrine and metabolic disorders specific to fetus and newborn",
+        "androgen resistance syndrome",
+        "congenital adrenal hyperplasia",
+        "Ehlers-Danlos syndrome",
+        "haemolytic anaemias due to enzyme disorders",
+        "Marfan syndrome",
+        "5-alpha-reductase deficiency",
+        "dehydration of newborn",
+        "hypovolaemic shock: NOS",
+        "hypovolaemic shock: postoperative",
+        "hypovolaemic shock: traumatic"
+    ],
+    "symptoms": [
+        "dry mouth",
+        "excessive thirst",
+        "dark-colored urine",
+        "fatigue",
+        "dizziness"
+    ]
+}

@@ -1,0 +1,19 @@
+{
+  "type": "category",
+  "chapterCode": "XX",
+  "chapter": "External causes of morbidity and mortality",
+  "blockCode": "Y10-Y34",
+  "block": "Event of undetermined intent",
+  "categoryCode": "Y10",
+  "category": "Poisoning by and exposure to nonopioid analgesics, antipyretics and antirheumatics, undetermined intent",
+  "subcategory": "",
+  "title": "Poisoning by and exposure to nonopioid analgesics, antipyretics and antirheumatics, undetermined intent",
+  "inclusion": [
+    "4-aminophenol derivatives",
+    "nonsteroidal anti-inflammatory drugs [NSAID]",
+    "pyrazolone derivatives",
+    "salicylates"
+  ],
+  "exclusion": null,
+  "children": null
+}

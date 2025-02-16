@@ -1,0 +1,43 @@
+{
+    "icd10code": "J43.1",
+    "type": "subcategory",
+    "title": "Panlobular emphysema",
+    "chapter": "Diseases of the respiratory system",
+    "chapterCode": "X",
+    "block": "Chronic lower respiratory diseases",
+    "blockCode": "J40-J47",
+    "category": "Emphysema",
+    "categoryCode": "J43",
+    "subcategory": "J43.1",
+    "inclusion": [
+        "Panacinar emphysema"
+    ],
+    "exclusion": [
+        "certain conditions originating in the perinatal period",
+        "certain infectious and parasitic diseases",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "cystic fibrosis",
+        "respiratory infection NOS",
+        "emphysema: compensatory",
+        "emphysema: due to inhalation of chemicals, gases, fumes or vapours",
+        "emphysema: interstitial",
+        "emphysema: interstitial neonatal",
+        "emphysema: mediastinal",
+        "emphysema: surgical (subcutaneous)",
+        "emphysema: traumatic subcutaneous",
+        "emphysema: with chronic (obstructive) bronchitis",
+        "emphysematous (obstructive) bronchitis"
+    ],
+    "symptoms": [
+        "shortness of breath",
+        "chronic cough",
+        "wheezing",
+        "chest tightness",
+        "fatigue"
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "icd10code": "C00.2",
+    "type": "subcategory",
+    "title": "Malignant neoplasm: External lip, unspecified",
+    "chapter": "Neoplasms",
+    "chapterCode": "II",
+    "block": "Malignant neoplasms of lip, oral cavity and pharynx",
+    "blockCode": "C00-C14",
+    "category": "Malignant neoplasm of lip",
+    "categoryCode": "C00",
+    "subcategory": "C00.2",
+    "inclusion": [
+        "Vermilion border NOS"
+    ],
+    "exclusion": [
+        "skin of lip"
+    ],
+    "symptoms": [
+        "persistent mouth sore",
+        "abnormal or irregular bleeding",
+        "loose teeth",
+        "mouth pain",
+        "growth or lump inside mouth"
+    ]
+}

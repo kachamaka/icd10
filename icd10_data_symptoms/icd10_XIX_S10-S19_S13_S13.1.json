@@ -1,0 +1,45 @@
+{
+    "icd10code": "S13.1",
+    "type": "subcategory",
+    "title": "Dislocation of cervical vertebra",
+    "chapter": "Injury, poisoning and certain other consequences of external causes",
+    "chapterCode": "XIX",
+    "block": "Injuries to the neck",
+    "blockCode": "S10-S19",
+    "category": "Dislocation, sprain and strain of joints and ligaments at neck level",
+    "categoryCode": "S13",
+    "subcategory": "S13.1",
+    "inclusion": [
+        "injuries of: nape",
+        "injuries of: supraclavicular region",
+        "injuries of: throat",
+        "Cervical spine NOS"
+    ],
+    "exclusion": [
+        "birth trauma",
+        "obstetric trauma",
+        "malunion of fracture",
+        "nonunion of fracture [pseudarthrosis]",
+        "pathological fracture",
+        "pathological fracture with osteoporosis",
+        "stress fracture",
+        "burns and corrosions",
+        "effects of foreign body in: larynx",
+        "effects of foreign body in: oesophagus",
+        "effects of foreign body in: pharynx",
+        "effects of foreign body in: trachea",
+        "fracture of spine NOS",
+        "frostbite",
+        "injury of: spinal cord NOS",
+        "injury of: trunk NOS",
+        "insect bite or sting, venomous",
+        "multiple fractures of cervical spine"
+    ],
+    "symptoms": [
+        "neck pain",
+        "stiffness",
+        "limited range of motion",
+        "headaches",
+        "muscle spasms"
+    ]
+}

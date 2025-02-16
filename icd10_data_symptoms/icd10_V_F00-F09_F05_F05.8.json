@@ -1,0 +1,33 @@
+{
+    "icd10code": "F05.8",
+    "type": "subcategory",
+    "title": "Other delirium",
+    "chapter": "Mental and behavioural disorders",
+    "chapterCode": "V",
+    "block": "Organic, including symptomatic, mental disorders",
+    "blockCode": "F00-F09",
+    "category": "Delirium, not induced by alcohol and other psychoactive substances",
+    "categoryCode": "F05",
+    "subcategory": "F05.8",
+    "inclusion": [
+        "disorders of psychological development",
+        "acute or subacute: brain syndrome",
+        "acute or subacute: confusional state (nonalcoholic)",
+        "acute or subacute: infective psychosis",
+        "acute or subacute: organic reaction",
+        "acute or subacute: psycho-organic syndrome",
+        "Delirium of mixed origin",
+        "Postoperative delirium"
+    ],
+    "exclusion": [
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "delirium tremens, alcohol-induced or unspecified"
+    ],
+    "symptoms": [
+        "confusion",
+        "agitation",
+        "disorientation",
+        "hallucinations",
+        "memory disturbances"
+    ]
+}

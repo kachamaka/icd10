@@ -1,0 +1,26 @@
+{
+    "icd10code": "Q66.0",
+    "type": "subcategory",
+    "title": "Talipes equinovarus",
+    "chapter": "Congenital malformations, deformations and chromosomal abnormalities",
+    "chapterCode": "XVII",
+    "block": "Congenital malformations and deformations of the musculoskeletal system",
+    "blockCode": "Q65-Q79",
+    "category": "Congenital deformities of feet",
+    "categoryCode": "Q66",
+    "subcategory": "Q66.0",
+    "inclusion": null,
+    "exclusion": [
+        "inborn errors of metabolism",
+        "reduction defects of feet",
+        "valgus deformities (acquired)",
+        "varus deformities (acquired)"
+    ],
+    "symptoms": [
+        "foot deformity at birth",
+        "inward turning of foot",
+        "high arch",
+        "heel inversion",
+        "limited foot flexibility"
+    ]
+}

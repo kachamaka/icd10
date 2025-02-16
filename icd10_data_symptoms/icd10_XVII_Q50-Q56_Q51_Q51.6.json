@@ -1,0 +1,26 @@
+{
+    "icd10code": "Q51.6",
+    "type": "subcategory",
+    "title": "Embryonic cyst of cervix",
+    "chapter": "Congenital malformations, deformations and chromosomal abnormalities",
+    "chapterCode": "XVII",
+    "block": "Congenital malformations of genital organs",
+    "blockCode": "Q50-Q56",
+    "category": "Congenital malformations of uterus and cervix",
+    "categoryCode": "Q51",
+    "subcategory": "Q51.6",
+    "inclusion": null,
+    "exclusion": [
+        "inborn errors of metabolism",
+        "androgen resistance syndrome",
+        "syndromes associated with anomalies in the number and form of chromosomes",
+        "testicular feminization syndrome"
+    ],
+    "symptoms": [
+        "abnormal uterus shape",
+        "infertility",
+        "recurrent miscarriages",
+        "menstrual irregularities",
+        "pelvic pain"
+    ]
+}

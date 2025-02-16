@@ -1,0 +1,31 @@
+{
+    "icd10code": "E52",
+    "type": "category",
+    "title": "Niacin deficiency [pellagra]",
+    "chapter": "Endocrine, nutritional and metabolic diseases",
+    "chapterCode": "IV",
+    "block": "Other nutritional deficiencies",
+    "blockCode": "E50-E64",
+    "category": "Niacin deficiency [pellagra]",
+    "categoryCode": "E52",
+    "subcategory": "",
+    "inclusion": [
+        "Deficiency: niacin(-tryptophan)",
+        "Deficiency: nicotinamide",
+        "Pellagra (alcoholic)"
+    ],
+    "exclusion": [
+        "complications of pregnancy, childbirth and the puerperium",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "transitory endocrine and metabolic disorders specific to fetus and newborn",
+        "diabetes mellitus (in): malnutrition-related",
+        "sequelae of niacin deficiency"
+    ],
+    "symptoms": [
+        "fatigue",
+        "muscle weakness",
+        "irritability",
+        "poor concentration",
+        "problems with balance and coordination"
+    ]
+}

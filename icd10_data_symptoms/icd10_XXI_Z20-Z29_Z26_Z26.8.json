@@ -1,0 +1,20 @@
+{
+    "icd10code": "Z26.8",
+    "type": "subcategory",
+    "title": "Need for immunization against other specified single infectious diseases",
+    "chapter": "Factors influencing health status and contact with health services",
+    "chapterCode": "XXI",
+    "block": "Persons with potential health hazards related to communicable diseases",
+    "blockCode": "Z20-Z29",
+    "category": "Need for immunization against other single infectious diseases",
+    "categoryCode": "Z26",
+    "subcategory": "Z26.8",
+    "inclusion": null,
+    "exclusion": [
+        "immunization: against combinations of diseases",
+        "immunization: not carried out"
+    ],
+    "symptoms": [
+        "asymptomatic"
+    ]
+}

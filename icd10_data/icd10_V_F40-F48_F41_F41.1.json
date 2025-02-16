@@ -1,0 +1,23 @@
+{
+  "type": "subcategory",
+  "chapterCode": "V",
+  "chapter": "Mental and behavioural disorders",
+  "blockCode": "F40-F48",
+  "block": "Neurotic, stress-related and somatoform disorders",
+  "categoryCode": "F41",
+  "category": "Other anxiety disorders",
+  "subcategory": "F41.1",
+  "title": "Generalized anxiety disorder",
+  "inclusion": [
+    "disorders of psychological development",
+    "Anxiety: neurosis",
+    "Anxiety: reaction",
+    "Anxiety: state"
+  ],
+  "exclusion": [
+    "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+    "when associated with conduct disorder in F91.-",
+    "neurasthenia"
+  ],
+  "children": null
+}

@@ -1,0 +1,30 @@
+{
+  "type": "subcategory",
+  "chapterCode": "XIX",
+  "chapter": "Injury, poisoning and certain other consequences of external causes",
+  "blockCode": "T66-T78",
+  "block": "Other and unspecified effects of external causes",
+  "categoryCode": "T67",
+  "category": "Effects of heat and light",
+  "subcategory": "T67.5",
+  "title": "Heat exhaustion, unspecified",
+  "inclusion": [
+    "Heat prostration NOS"
+  ],
+  "exclusion": [
+    "birth trauma",
+    "obstetric trauma",
+    "malunion of fracture",
+    "nonunion of fracture [pseudarthrosis]",
+    "pathological fracture",
+    "pathological fracture with osteoporosis",
+    "stress fracture",
+    "burns",
+    "erythema [dermatitis] ab igne",
+    "malignant hyperthermia due to anaesthesia",
+    "radiation-related disorders of the skin and subcutaneous tissue",
+    "sunburn",
+    "sweat disorders due to heat"
+  ],
+  "children": null
+}

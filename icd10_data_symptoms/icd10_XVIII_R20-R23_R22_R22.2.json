@@ -1,0 +1,34 @@
+{
+    "icd10code": "R22.2",
+    "type": "subcategory",
+    "title": "Localized swelling, mass and lump, trunk",
+    "chapter": "Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+    "chapterCode": "XVIII",
+    "block": "Symptoms and signs involving the skin and subcutaneous tissue",
+    "blockCode": "R20-R23",
+    "category": "Localized swelling, mass and lump of skin and subcutaneous tissue",
+    "categoryCode": "R22",
+    "subcategory": "R22.2",
+    "inclusion": [
+        "subcutaneous nodules (localized)(superficial)"
+    ],
+    "exclusion": [
+        "abnormal findings on antenatal screening of mother",
+        "certain conditions originating in the perinatal period",
+        "abnormal findings on diagnostic imaging",
+        "enlarged lymph nodes",
+        "localized adiposity",
+        "mass and lump: breast",
+        "mass and lump: intra-abdominal or pelvic",
+        "oedema",
+        "swelling (of): intra-abdominal or pelvic",
+        "swelling (of): joint"
+    ],
+    "symptoms": [
+        "localized swelling",
+        "palpable lump",
+        "tissue swelling",
+        "skin firmness",
+        "subcutaneous mass"
+    ]
+}

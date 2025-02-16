@@ -1,0 +1,26 @@
+{
+  "type": "category",
+  "chapterCode": "XX",
+  "chapter": "External causes of morbidity and mortality",
+  "blockCode": "W20-W49",
+  "block": "Exposure to inanimate mechanical forces",
+  "categoryCode": "W40",
+  "category": "Explosion of other materials",
+  "subcategory": "",
+  "title": "Explosion of other materials",
+  "inclusion": [
+    "blasting material",
+    "explosion (in): NOS",
+    "explosion (in): dump",
+    "explosion (in): factory",
+    "explosion (in): grain store",
+    "explosion (in): munitions",
+    "explosive gas"
+  ],
+  "exclusion": [
+    "assault",
+    "contact or collision with animals or persons",
+    "intentional self-harm"
+  ],
+  "children": null
+}

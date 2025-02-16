@@ -1,0 +1,18 @@
+{
+  "type": "subcategory",
+  "chapterCode": "II",
+  "chapter": "Neoplasms",
+  "blockCode": "C51-C58",
+  "block": "Malignant neoplasms of female genital organs",
+  "categoryCode": "C57",
+  "category": "Malignant neoplasm of other and unspecified female genital organs",
+  "subcategory": "C57.0",
+  "title": "Malignant neoplasm: Fallopian tube",
+  "inclusion": [
+    "skin of female genital organs",
+    "Oviduct",
+    "Uterine tube"
+  ],
+  "exclusion": null,
+  "children": null
+}

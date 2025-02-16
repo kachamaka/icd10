@@ -1,0 +1,36 @@
+{
+    "icd10code": "J98.7",
+    "type": "subcategory",
+    "title": "Respiratory infections, not elsewhere classified",
+    "chapter": "Diseases of the respiratory system",
+    "chapterCode": "X",
+    "block": "Other diseases of the respiratory system",
+    "blockCode": "J95-J99",
+    "category": "Other respiratory disorders",
+    "categoryCode": "J98",
+    "subcategory": "J98.7",
+    "inclusion": [
+        "Respiratory (tract) infections not specified as acute, chronic, lower, or upper"
+    ],
+    "exclusion": [
+        "certain conditions originating in the perinatal period",
+        "certain infectious and parasitic diseases",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "apnoea: NOS",
+        "apnoea: newborn",
+        "apnoea: sleep",
+        "apnoea: sleep newborn"
+    ],
+    "symptoms": [
+        "cough",
+        "shortness of breath",
+        "chest tightness",
+        "wheezing",
+        "fatigue"
+    ]
+}

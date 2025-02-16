@@ -1,0 +1,44 @@
+{
+    "icd10code": "S11.7",
+    "type": "subcategory",
+    "title": "Multiple open wounds of neck",
+    "chapter": "Injury, poisoning and certain other consequences of external causes",
+    "chapterCode": "XIX",
+    "block": "Injuries to the neck",
+    "blockCode": "S10-S19",
+    "category": "Open wound of neck",
+    "categoryCode": "S11",
+    "subcategory": "S11.7",
+    "inclusion": [
+        "injuries of: nape",
+        "injuries of: supraclavicular region",
+        "injuries of: throat"
+    ],
+    "exclusion": [
+        "birth trauma",
+        "obstetric trauma",
+        "malunion of fracture",
+        "nonunion of fracture [pseudarthrosis]",
+        "pathological fracture",
+        "pathological fracture with osteoporosis",
+        "stress fracture",
+        "burns and corrosions",
+        "effects of foreign body in: larynx",
+        "effects of foreign body in: oesophagus",
+        "effects of foreign body in: pharynx",
+        "effects of foreign body in: trachea",
+        "fracture of spine NOS",
+        "frostbite",
+        "injury of: spinal cord NOS",
+        "injury of: trunk NOS",
+        "insect bite or sting, venomous",
+        "multiple fractures of cervical spine"
+    ],
+    "symptoms": [
+        "pain",
+        "swelling",
+        "bleeding",
+        "bruising",
+        "difficulty swallowing"
+    ]
+}

@@ -1,0 +1,17 @@
+{
+  "type": "subcategory",
+  "chapterCode": "XVII",
+  "chapter": "Congenital malformations, deformations and chromosomal abnormalities",
+  "blockCode": "Q38-Q45",
+  "block": "Other congenital malformations of the digestive system",
+  "categoryCode": "Q39",
+  "category": "Congenital malformations of oesophagus",
+  "subcategory": "Q39.4",
+  "title": "Congenital oesophageal web",
+  "inclusion": null,
+  "exclusion": [
+    "inborn errors of metabolism",
+    "oesophageal web (acquired)"
+  ],
+  "children": null
+}

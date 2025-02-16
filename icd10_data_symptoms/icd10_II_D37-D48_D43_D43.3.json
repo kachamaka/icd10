@@ -1,0 +1,23 @@
+{
+    "icd10code": "D43.3",
+    "type": "subcategory",
+    "title": "Neoplasm of uncertain or unknown behaviour: Cranial nerves",
+    "chapter": "Neoplasms",
+    "chapterCode": "II",
+    "block": "Neoplasms of uncertain or unknown behaviour",
+    "blockCode": "D37-D48",
+    "category": "Neoplasm of uncertain or unknown behaviour of brain and central nervous system",
+    "categoryCode": "D43",
+    "subcategory": "D43.3",
+    "inclusion": null,
+    "exclusion": [
+        "peripheral nerves and autonomic nervous system"
+    ],
+    "symptoms": [
+        "headache",
+        "nausea or vomiting",
+        "seizures",
+        "speech difficulties",
+        "personality or mood changes"
+    ]
+}

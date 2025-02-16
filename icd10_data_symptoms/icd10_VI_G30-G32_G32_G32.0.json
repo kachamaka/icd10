@@ -1,0 +1,31 @@
+{
+    "icd10code": "G32.0",
+    "type": "subcategory",
+    "title": "Subacute combined degeneration of spinal cord in diseases classified elsewhere",
+    "chapter": "Diseases of the nervous system",
+    "chapterCode": "VI",
+    "block": "Other degenerative diseases of the nervous system",
+    "blockCode": "G30-G32",
+    "category": "Other degenerative disorders of nervous system in diseases classified elsewhere",
+    "categoryCode": "G32",
+    "subcategory": "G32.0",
+    "inclusion": null,
+    "exclusion": [
+        "certain conditions originating in the perinatal period",
+        "certain infectious and parasitic diseases",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "Subacute combined degeneration of spinal cord in vitamin B 12 deficiency"
+    ],
+    "symptoms": [
+        "weakness",
+        "ataxia",
+        "spasticity",
+        "swallowing difficulties",
+        "muscle stiffness"
+    ]
+}

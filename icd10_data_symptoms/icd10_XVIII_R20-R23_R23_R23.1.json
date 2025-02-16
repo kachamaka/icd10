@@ -1,0 +1,26 @@
+{
+    "icd10code": "R23.1",
+    "type": "subcategory",
+    "title": "Pallor",
+    "chapter": "Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+    "chapterCode": "XVIII",
+    "block": "Symptoms and signs involving the skin and subcutaneous tissue",
+    "blockCode": "R20-R23",
+    "category": "Other skin changes",
+    "categoryCode": "R23",
+    "subcategory": "R23.1",
+    "inclusion": [
+        "Clammy skin"
+    ],
+    "exclusion": [
+        "abnormal findings on antenatal screening of mother",
+        "certain conditions originating in the perinatal period"
+    ],
+    "symptoms": [
+        "skin discoloration",
+        "redness",
+        "blotchy skin",
+        "pigmentation changes",
+        "unusual skin patches"
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "icd10code": "D02.3",
+    "type": "subcategory",
+    "title": "Carcinoma in situ: Other parts of respiratory system",
+    "chapter": "Neoplasms",
+    "chapterCode": "II",
+    "block": "In situ neoplasms",
+    "blockCode": "D00-D09",
+    "category": "Carcinoma in situ of middle ear and respiratory system",
+    "categoryCode": "D02",
+    "subcategory": "D02.3",
+    "inclusion": [
+        "Bowen disease",
+        "erythroplasia",
+        "morphology codes with behaviour code /2",
+        "Queyrat erythroplasia",
+        "Accessory sinuses",
+        "Middle ear",
+        "Nasal cavities"
+    ],
+    "exclusion": [
+        "melanoma in situ",
+        "ear (external)(skin)",
+        "nose: NOS",
+        "nose: skin"
+    ],
+    "symptoms": [
+        "pain in ear",
+        "hearing loss",
+        "ear discharge",
+        "bloody discharge from ear",
+        "ringing in the ear"
+    ]
+}

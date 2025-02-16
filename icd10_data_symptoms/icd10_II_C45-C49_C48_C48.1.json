@@ -1,0 +1,30 @@
+{
+    "icd10code": "C48.1",
+    "type": "subcategory",
+    "title": "Malignant neoplasm: Specified parts of peritoneum",
+    "chapter": "Neoplasms",
+    "chapterCode": "II",
+    "block": "Malignant neoplasms of mesothelial and soft tissue",
+    "blockCode": "C45-C49",
+    "category": "Malignant neoplasm of retroperitoneum and peritoneum",
+    "categoryCode": "C48",
+    "subcategory": "C48.1",
+    "inclusion": [
+        "Mesentery",
+        "Mesocolon",
+        "Omentum",
+        "Peritoneum: parietal",
+        "Peritoneum: pelvic"
+    ],
+    "exclusion": [
+        "Kaposi sarcoma",
+        "mesothelioma"
+    ],
+    "symptoms": [
+        "abdominal pain",
+        "bloating",
+        "feeling of fullness",
+        "unexplained weight loss",
+        "changes in bowel habits"
+    ]
+}

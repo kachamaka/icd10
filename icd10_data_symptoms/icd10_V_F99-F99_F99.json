@@ -1,0 +1,27 @@
+{
+    "icd10code": "F99",
+    "type": "category",
+    "title": "Mental disorder, not otherwise specified",
+    "chapter": "Mental and behavioural disorders",
+    "chapterCode": "V",
+    "block": "Unspecified mental disorder",
+    "blockCode": "F99-F99",
+    "category": "Mental disorder, not otherwise specified",
+    "categoryCode": "F99",
+    "subcategory": "",
+    "inclusion": [
+        "disorders of psychological development",
+        "Mental illness NOS"
+    ],
+    "exclusion": [
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "organic mental disorder NOS"
+    ],
+    "symptoms": [
+        "anxiety",
+        "depressed mood",
+        "confusion",
+        "sleep disturbances",
+        "emotional instability"
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "icd10code": "Q44.2",
+    "type": "subcategory",
+    "title": "Atresia of bile ducts",
+    "chapter": "Congenital malformations, deformations and chromosomal abnormalities",
+    "chapterCode": "XVII",
+    "block": "Other congenital malformations of the digestive system",
+    "blockCode": "Q38-Q45",
+    "category": "Congenital malformations of gallbladder, bile ducts and liver",
+    "categoryCode": "Q44",
+    "subcategory": "Q44.2",
+    "inclusion": null,
+    "exclusion": [
+        "inborn errors of metabolism"
+    ],
+    "symptoms": [
+        "jaundice",
+        "abdominal pain",
+        "vomiting",
+        "abnormal liver function",
+        "bile duct obstruction"
+    ]
+}

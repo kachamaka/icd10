@@ -1,0 +1,14 @@
+{
+  "type": "category",
+  "chapterCode": "XX",
+  "chapter": "External causes of morbidity and mortality",
+  "blockCode": "Y10-Y34",
+  "block": "Event of undetermined intent",
+  "categoryCode": "Y31",
+  "category": "Falling, lying or running before or into moving object, undetermined intent",
+  "subcategory": "",
+  "title": "Falling, lying or running before or into moving object, undetermined intent",
+  "inclusion": null,
+  "exclusion": null,
+  "children": null
+}

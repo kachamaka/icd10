@@ -1,0 +1,33 @@
+{
+    "icd10code": "H54.9",
+    "type": "subcategory",
+    "title": "Unspecified visual impairment (binocular)",
+    "chapter": "Diseases of the eye and adnexa",
+    "chapterCode": "VII",
+    "block": "Visual disturbances and blindness",
+    "blockCode": "H53-H54",
+    "category": "Visual impairment including blindness (binocular or monocular)",
+    "categoryCode": "H54",
+    "subcategory": "H54.9",
+    "inclusion": [
+        "Visual impairment category 9."
+    ],
+    "exclusion": [
+        "certain conditions originating in the perinatal period",
+        "certain infectious and parasitic diseases",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "amaurosis fugax"
+    ],
+    "symptoms": [
+        "blurred vision",
+        "partial vision loss",
+        "difficulty seeing at night",
+        "vision impairment",
+        "unspecified vision loss"
+    ]
+}

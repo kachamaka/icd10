@@ -1,0 +1,19 @@
+{
+    "icd10code": "Z31.1",
+    "type": "subcategory",
+    "title": "Artificial insemination",
+    "chapter": "Factors influencing health status and contact with health services",
+    "chapterCode": "XXI",
+    "block": "Persons encountering health services in circumstances related to reproduction",
+    "blockCode": "Z30-Z39",
+    "category": "Procreative management",
+    "categoryCode": "Z31",
+    "subcategory": "Z31.1",
+    "inclusion": null,
+    "exclusion": [
+        "complications associated with artificial fertilization"
+    ],
+    "symptoms": [
+        "asymptomatic"
+    ]
+}

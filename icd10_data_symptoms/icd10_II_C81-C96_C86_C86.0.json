@@ -1,0 +1,25 @@
+{
+    "icd10code": "C86.0",
+    "type": "subcategory",
+    "title": "Extranodal NK/T-cell lymphoma, nasal type",
+    "chapter": "Neoplasms",
+    "chapterCode": "II",
+    "block": "Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",
+    "blockCode": "C81-C96",
+    "category": "Other specified types of T/NK-cell lymphoma",
+    "categoryCode": "C86",
+    "subcategory": "C86.0",
+    "inclusion": null,
+    "exclusion": [
+        "secondary and unspecified neoplasm of lymph nodes",
+        "anaplastic large cell lymphoma, ALK negative",
+        "anaplastic large cell lymphoma, ALK positive"
+    ],
+    "symptoms": [
+        "fever",
+        "night sweats",
+        "weight loss",
+        "fatigue",
+        "unexplained body aches and pains"
+    ]
+}

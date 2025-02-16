@@ -1,0 +1,35 @@
+{
+    "icd10code": "T67.7",
+    "type": "subcategory",
+    "title": "Heat oedema",
+    "chapter": "Injury, poisoning and certain other consequences of external causes",
+    "chapterCode": "XIX",
+    "block": "Other and unspecified effects of external causes",
+    "blockCode": "T66-T78",
+    "category": "Effects of heat and light",
+    "categoryCode": "T67",
+    "subcategory": "T67.7",
+    "inclusion": null,
+    "exclusion": [
+        "birth trauma",
+        "obstetric trauma",
+        "malunion of fracture",
+        "nonunion of fracture [pseudarthrosis]",
+        "pathological fracture",
+        "pathological fracture with osteoporosis",
+        "stress fracture",
+        "burns",
+        "erythema [dermatitis] ab igne",
+        "malignant hyperthermia due to anaesthesia",
+        "radiation-related disorders of the skin and subcutaneous tissue",
+        "sunburn",
+        "sweat disorders due to heat"
+    ],
+    "symptoms": [
+        "confusion",
+        "dizziness",
+        "muscle cramps",
+        "fatigue",
+        "nausea"
+    ]
+}

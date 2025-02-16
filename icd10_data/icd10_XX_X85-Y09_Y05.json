@@ -1,0 +1,22 @@
+{
+  "type": "category",
+  "chapterCode": "XX",
+  "chapter": "External causes of morbidity and mortality",
+  "blockCode": "X85-Y09",
+  "block": "Assault",
+  "categoryCode": "Y05",
+  "category": "Sexual assault by bodily force",
+  "subcategory": "",
+  "title": "Sexual assault by bodily force",
+  "inclusion": [
+    "homicide",
+    "injuries inflicted by another person with intent to injure or kill, by any means",
+    "rape (attempted)",
+    "sodomy (attempted)"
+  ],
+  "exclusion": [
+    "injuries due to: legal intervention",
+    "injuries due to: operations of war"
+  ],
+  "children": null
+}

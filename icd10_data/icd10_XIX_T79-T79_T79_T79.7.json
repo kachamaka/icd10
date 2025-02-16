@@ -1,0 +1,27 @@
+{
+  "type": "subcategory",
+  "chapterCode": "XIX",
+  "chapter": "Injury, poisoning and certain other consequences of external causes",
+  "blockCode": "T79-T79",
+  "block": "Certain early complications of trauma",
+  "categoryCode": "T79",
+  "category": "Certain early complications of trauma, not elsewhere classified",
+  "subcategory": "T79.7",
+  "title": "Traumatic subcutaneous emphysema",
+  "inclusion": null,
+  "exclusion": [
+    "birth trauma",
+    "obstetric trauma",
+    "malunion of fracture",
+    "nonunion of fracture [pseudarthrosis]",
+    "pathological fracture",
+    "pathological fracture with osteoporosis",
+    "stress fracture",
+    "complications of surgical and medical care NEC",
+    "respiratory distress: syndrome of adult",
+    "respiratory distress: in newborn",
+    "when occurring during or following medical procedures",
+    "emphysema (subcutaneous) resulting from a procedure"
+  ],
+  "children": null
+}

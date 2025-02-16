@@ -1,0 +1,18 @@
+{
+  "type": "subcategory",
+  "chapterCode": "II",
+  "chapter": "Neoplasms",
+  "blockCode": "D10-D36",
+  "block": "Benign neoplasms",
+  "categoryCode": "D12",
+  "category": "Benign neoplasm of colon, rectum, anus and anal canal",
+  "subcategory": "D12.3",
+  "title": "Benign neoplasm: Transverse colon",
+  "inclusion": [
+    "morphology codes with behaviour code /0",
+    "Hepatic flexure",
+    "Splenic flexure"
+  ],
+  "exclusion": null,
+  "children": null
+}

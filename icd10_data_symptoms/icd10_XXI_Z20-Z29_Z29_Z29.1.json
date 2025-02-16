@@ -1,0 +1,22 @@
+{
+    "icd10code": "Z29.1",
+    "type": "subcategory",
+    "title": "Prophylactic immunotherapy",
+    "chapter": "Factors influencing health status and contact with health services",
+    "chapterCode": "XXI",
+    "block": "Persons with potential health hazards related to communicable diseases",
+    "blockCode": "Z20-Z29",
+    "category": "Need for other prophylactic measures",
+    "categoryCode": "Z29",
+    "subcategory": "Z29.1",
+    "inclusion": [
+        "Administration of immunoglobulin"
+    ],
+    "exclusion": [
+        "desensitization to allergens",
+        "prophylactic surgery"
+    ],
+    "symptoms": [
+        "asymptomatic"
+    ]
+}

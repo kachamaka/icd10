@@ -1,0 +1,23 @@
+{
+    "icd10code": "Q93.9",
+    "type": "subcategory",
+    "title": "Deletion from autosomes, unspecified",
+    "chapter": "Congenital malformations, deformations and chromosomal abnormalities",
+    "chapterCode": "XVII",
+    "block": "Chromosomal abnormalities, not elsewhere classified",
+    "blockCode": "Q90-Q99",
+    "category": "Monosomies and deletions from the autosomes, not elsewhere classified",
+    "categoryCode": "Q93",
+    "subcategory": "Q93.9",
+    "inclusion": null,
+    "exclusion": [
+        "inborn errors of metabolism"
+    ],
+    "symptoms": [
+        "developmental delay",
+        "intellectual disability",
+        "distinct facial features",
+        "growth retardation",
+        "congenital abnormalities"
+    ]
+}

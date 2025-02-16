@@ -1,0 +1,37 @@
+{
+    "icd10code": "N95.3",
+    "type": "subcategory",
+    "title": "States associated with artificial menopause",
+    "chapter": "Diseases of the genitourinary system",
+    "chapterCode": "XIV",
+    "block": "Noninflammatory disorders of female genital tract",
+    "blockCode": "N80-N98",
+    "category": "Menopausal and other perimenopausal disorders",
+    "categoryCode": "N95",
+    "subcategory": "N95.3",
+    "inclusion": [
+        "Post-artificial-menopause syndrome"
+    ],
+    "exclusion": [
+        "certain conditions originating in the perinatal period",
+        "certain infectious and parasitic diseases",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "excessive bleeding in the premenopausal period",
+        "postmenopausal: osteoporosis",
+        "postmenopausal: osteoporosis with pathological fracture",
+        "postmenopausal: urethritis",
+        "premature menopause NOS"
+    ],
+    "symptoms": [
+        "hot flashes",
+        "night sweats",
+        "mood changes",
+        "vaginal dryness",
+        "insomnia"
+    ]
+}

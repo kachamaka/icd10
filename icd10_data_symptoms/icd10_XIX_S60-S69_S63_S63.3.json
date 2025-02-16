@@ -1,0 +1,38 @@
+{
+    "icd10code": "S63.3",
+    "type": "subcategory",
+    "title": "Traumatic rupture of ligament of wrist and carpus",
+    "chapter": "Injury, poisoning and certain other consequences of external causes",
+    "chapterCode": "XIX",
+    "block": "Injuries to the wrist and hand",
+    "blockCode": "S60-S69",
+    "category": "Dislocation, sprain and strain of joints and ligaments at wrist and hand level",
+    "categoryCode": "S63",
+    "subcategory": "S63.3",
+    "inclusion": [
+        "Collateral, wrist",
+        "Radiocarpal (ligament)",
+        "Ulnocarpal (palmar)"
+    ],
+    "exclusion": [
+        "birth trauma",
+        "obstetric trauma",
+        "malunion of fracture",
+        "nonunion of fracture [pseudarthrosis]",
+        "pathological fracture",
+        "pathological fracture with osteoporosis",
+        "stress fracture",
+        "bilateral involvement of wrist and hand",
+        "burns and corrosions",
+        "frostbite",
+        "injuries of arm, level unspecified",
+        "insect bite or sting, venomous"
+    ],
+    "symptoms": [
+        "pain in the wrist",
+        "swelling",
+        "reduced range of motion",
+        "bruising",
+        "wrist instability"
+    ]
+}

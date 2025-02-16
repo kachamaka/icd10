@@ -1,0 +1,34 @@
+{
+    "icd10code": "F22.0",
+    "type": "subcategory",
+    "title": "Delusional disorder",
+    "chapter": "Mental and behavioural disorders",
+    "chapterCode": "V",
+    "block": "Schizophrenia, schizotypal and delusional disorders",
+    "blockCode": "F20-F29",
+    "category": "Persistent delusional disorders",
+    "categoryCode": "F22",
+    "subcategory": "F22.0",
+    "inclusion": [
+        "disorders of psychological development",
+        "Paranoia",
+        "Paranoid: psychosis",
+        "Paranoid: state",
+        "Paraphrenia (late)",
+        "Sensitiver Beziehungswahn"
+    ],
+    "exclusion": [
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "paranoid: personality disorder",
+        "paranoid: psychosis, psychogenic",
+        "paranoid: reaction",
+        "paranoid: schizophrenia"
+    ],
+    "symptoms": [
+        "delusions",
+        "paranoia",
+        "social isolation",
+        "hallucinations",
+        "difficulty distinguishing reality"
+    ]
+}

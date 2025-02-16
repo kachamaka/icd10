@@ -1,0 +1,16 @@
+{
+  "type": "subcategory",
+  "chapterCode": "II",
+  "chapter": "Neoplasms",
+  "blockCode": "D10-D36",
+  "block": "Benign neoplasms",
+  "categoryCode": "D26",
+  "category": "Other benign neoplasms of uterus",
+  "subcategory": "D26.7",
+  "title": "Other benign neoplasm: Other parts of uterus",
+  "inclusion": [
+    "morphology codes with behaviour code /0"
+  ],
+  "exclusion": null,
+  "children": null
+}

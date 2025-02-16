@@ -1,0 +1,23 @@
+{
+  "type": "subcategory",
+  "chapterCode": "IV",
+  "chapter": "Endocrine, nutritional and metabolic diseases",
+  "blockCode": "E50-E64",
+  "block": "Other nutritional deficiencies",
+  "categoryCode": "E50",
+  "category": "Vitamin A deficiency",
+  "subcategory": "E50.8",
+  "title": "Other manifestations of vitamin A deficiency",
+  "inclusion": [
+    "Follicular keratosis due to vitamin A deficiency",
+    "Xeroderma due to vitamin A deficiency"
+  ],
+  "exclusion": [
+    "complications of pregnancy, childbirth and the puerperium",
+    "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+    "transitory endocrine and metabolic disorders specific to fetus and newborn",
+    "diabetes mellitus (in): malnutrition-related",
+    "sequelae of vitamin A deficiency"
+  ],
+  "children": null
+}

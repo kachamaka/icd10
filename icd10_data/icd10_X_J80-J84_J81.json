@@ -1,0 +1,30 @@
+{
+  "type": "category",
+  "chapterCode": "X",
+  "chapter": "Diseases of the respiratory system",
+  "blockCode": "J80-J84",
+  "block": "Other respiratory diseases principally affecting the interstitium",
+  "categoryCode": "J81",
+  "category": "Pulmonary oedema",
+  "subcategory": "",
+  "title": "Pulmonary oedema",
+  "inclusion": [
+    "Acute oedema of lung",
+    "Pulmonary congestion (passive)"
+  ],
+  "exclusion": [
+    "certain conditions originating in the perinatal period",
+    "certain infectious and parasitic diseases",
+    "complications of pregnancy, childbirth and the puerperium",
+    "congenital malformations, deformations and chromosomal abnormalities",
+    "endocrine, nutritional and metabolic diseases",
+    "injury, poisoning and certain other consequences of external causes",
+    "neoplasms",
+    "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+    "hypostatic pneumonia",
+    "pulmonary oedema: chemical (acute)",
+    "pulmonary oedema: due to external agents",
+    "pulmonary oedema: with mention of heart disease NOS or heart failure"
+  ],
+  "children": null
+}

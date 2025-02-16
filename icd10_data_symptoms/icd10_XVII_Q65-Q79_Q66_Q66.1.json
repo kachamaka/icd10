@@ -1,0 +1,26 @@
+{
+    "icd10code": "Q66.1",
+    "type": "subcategory",
+    "title": "Talipes calcaneovarus",
+    "chapter": "Congenital malformations, deformations and chromosomal abnormalities",
+    "chapterCode": "XVII",
+    "block": "Congenital malformations and deformations of the musculoskeletal system",
+    "blockCode": "Q65-Q79",
+    "category": "Congenital deformities of feet",
+    "categoryCode": "Q66",
+    "subcategory": "Q66.1",
+    "inclusion": null,
+    "exclusion": [
+        "inborn errors of metabolism",
+        "reduction defects of feet",
+        "valgus deformities (acquired)",
+        "varus deformities (acquired)"
+    ],
+    "symptoms": [
+        "foot inversion",
+        "foot adduction",
+        "high foot arch",
+        "stiff foot joints",
+        "underdeveloped calf muscles"
+    ]
+}

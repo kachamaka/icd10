@@ -1,0 +1,34 @@
+{
+    "icd10code": "T63.8",
+    "type": "subcategory",
+    "title": "Toxic effect: Toxic effect of contact with other venomous animals",
+    "chapter": "Injury, poisoning and certain other consequences of external causes",
+    "chapterCode": "XIX",
+    "block": "Toxic effects of substances chiefly nonmedicinal as to source",
+    "blockCode": "T51-T65",
+    "category": "Toxic effect of contact with venomous animals",
+    "categoryCode": "T63",
+    "subcategory": "T63.8",
+    "inclusion": [
+        "Venom of amphibian"
+    ],
+    "exclusion": [
+        "birth trauma",
+        "obstetric trauma",
+        "malunion of fracture",
+        "nonunion of fracture [pseudarthrosis]",
+        "pathological fracture",
+        "pathological fracture with osteoporosis",
+        "stress fracture",
+        "corrosions",
+        "localized toxic effects classified elsewhere",
+        "respiratory conditions due to external agents"
+    ],
+    "symptoms": [
+        "skin rash",
+        "nausea",
+        "abdominal pain",
+        "dizziness",
+        "trouble breathing"
+    ]
+}

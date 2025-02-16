@@ -1,0 +1,33 @@
+{
+  "type": "subcategory",
+  "chapterCode": "XIX",
+  "chapter": "Injury, poisoning and certain other consequences of external causes",
+  "blockCode": "T08-T14",
+  "block": "Injuries to unspecified part of trunk, limb or body region",
+  "categoryCode": "T14",
+  "category": "Injury of unspecified body region",
+  "subcategory": "T14.4",
+  "title": "Injury of nerve(s) of unspecified body region",
+  "inclusion": [
+    "Injury of nerve NOS",
+    "Traumatic: division of nerve NOS",
+    "Traumatic: haematomyelia NOS",
+    "Traumatic: paralysis (transient) NOS"
+  ],
+  "exclusion": [
+    "birth trauma",
+    "obstetric trauma",
+    "malunion of fracture",
+    "nonunion of fracture [pseudarthrosis]",
+    "pathological fracture",
+    "pathological fracture with osteoporosis",
+    "stress fracture",
+    "burns and corrosions",
+    "frostbite",
+    "injuries involving multiple body regions",
+    "insect bite or sting, venomous",
+    "injuries involving multiple body regions",
+    "multiple injuries of nerves NOS"
+  ],
+  "children": null
+}

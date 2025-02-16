@@ -1,0 +1,40 @@
+{
+    "icd10code": "N28.9",
+    "type": "subcategory",
+    "title": "Disorder of kidney and ureter, unspecified",
+    "chapter": "Diseases of the genitourinary system",
+    "chapterCode": "XIV",
+    "block": "Other disorders of kidney and ureter",
+    "blockCode": "N25-N29",
+    "category": "Other disorders of kidney and ureter, not elsewhere classified",
+    "categoryCode": "N28",
+    "subcategory": "N28.9",
+    "inclusion": [
+        "Nephropathy NOS",
+        "Renal disease NOS"
+    ],
+    "exclusion": [
+        "certain conditions originating in the perinatal period",
+        "certain infectious and parasitic diseases",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "with urolithiasis",
+        "hydroureter",
+        "renal disease: acute NOS",
+        "renal disease: chronic NOS",
+        "ureteric kinking and stricture: with hydronephrosis",
+        "ureteric kinking and stricture: without hydronephrosis",
+        "nephropathy NOS and renal disease NOS with morphological lesion specified in .0-.8 before N00.-"
+    ],
+    "symptoms": [
+        "pain in the back",
+        "fever",
+        "hematuria",
+        "dysuria",
+        "fatigue"
+    ]
+}

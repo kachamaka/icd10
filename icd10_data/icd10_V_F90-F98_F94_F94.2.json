@@ -1,0 +1,24 @@
+{
+  "type": "subcategory",
+  "chapterCode": "V",
+  "chapter": "Mental and behavioural disorders",
+  "blockCode": "F90-F98",
+  "block": "Behavioural and emotional disorders with onset usually occurring in childhood and adolescence",
+  "categoryCode": "F94",
+  "category": "Disorders of social functioning with onset specific to childhood and adolescence",
+  "subcategory": "F94.2",
+  "title": "Disinhibited attachment disorder of childhood",
+  "inclusion": [
+    "disorders of psychological development",
+    "Affectionless psychopathy",
+    "Institutional syndrome"
+  ],
+  "exclusion": [
+    "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+    "Asperger syndrome",
+    "hospitalism in children",
+    "hyperkinetic disorders",
+    "reactive attachment disorder of childhood"
+  ],
+  "children": null
+}

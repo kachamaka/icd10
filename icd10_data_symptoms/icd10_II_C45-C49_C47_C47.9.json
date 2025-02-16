@@ -1,0 +1,23 @@
+{
+    "icd10code": "C47.9",
+    "type": "subcategory",
+    "title": "Malignant neoplasm: Peripheral nerves and autonomic nervous system, unspecified",
+    "chapter": "Neoplasms",
+    "chapterCode": "II",
+    "block": "Malignant neoplasms of mesothelial and soft tissue",
+    "blockCode": "C45-C49",
+    "category": "Malignant neoplasm of peripheral nerves and autonomic nervous system",
+    "categoryCode": "C47",
+    "subcategory": "C47.9",
+    "inclusion": [
+        "sympathetic and parasympathetic nerves and ganglia"
+    ],
+    "exclusion": null,
+    "symptoms": [
+        "pain",
+        "lump or swelling",
+        "numbness or tingling",
+        "difficulty moving affected area",
+        "tissue hardening"
+    ]
+}

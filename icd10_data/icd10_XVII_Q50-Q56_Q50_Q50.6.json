@@ -1,0 +1,24 @@
+{
+  "type": "subcategory",
+  "chapterCode": "XVII",
+  "chapter": "Congenital malformations, deformations and chromosomal abnormalities",
+  "blockCode": "Q50-Q56",
+  "block": "Congenital malformations of genital organs",
+  "categoryCode": "Q50",
+  "category": "Congenital malformations of ovaries, fallopian tubes and broad ligaments",
+  "subcategory": "Q50.6",
+  "title": "Other congenital malformations of fallopian tube and broad ligament",
+  "inclusion": [
+    "Absence (of) fallopian tube or broad ligament",
+    "Accessory (of) fallopian tube or broad ligament",
+    "Atresia (of) fallopian tube or broad ligament",
+    "Congenital malformation of fallopian tube or broad ligament NOS"
+  ],
+  "exclusion": [
+    "inborn errors of metabolism",
+    "androgen resistance syndrome",
+    "syndromes associated with anomalies in the number and form of chromosomes",
+    "testicular feminization syndrome"
+  ],
+  "children": null
+}

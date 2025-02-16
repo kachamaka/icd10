@@ -1,0 +1,28 @@
+{
+    "icd10code": "F40.9",
+    "type": "subcategory",
+    "title": "Phobic anxiety disorder, unspecified",
+    "chapter": "Mental and behavioural disorders",
+    "chapterCode": "V",
+    "block": "Neurotic, stress-related and somatoform disorders",
+    "blockCode": "F40-F48",
+    "category": "Phobic anxiety disorders",
+    "categoryCode": "F40",
+    "subcategory": "F40.9",
+    "inclusion": [
+        "disorders of psychological development",
+        "Phobia NOS",
+        "Phobic state NOS"
+    ],
+    "exclusion": [
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "when associated with conduct disorder in F91.-"
+    ],
+    "symptoms": [
+        "anxiety",
+        "fear",
+        "restlessness",
+        "sweating",
+        "difficulty concentrating"
+    ]
+}

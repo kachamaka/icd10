@@ -1,0 +1,24 @@
+{
+    "icd10code": "C72.3",
+    "type": "subcategory",
+    "title": "Malignant neoplasm: Optic nerve",
+    "chapter": "Neoplasms",
+    "chapterCode": "II",
+    "block": "Malignant neoplasms of eye, brain and other parts of central nervous system",
+    "blockCode": "C69-C72",
+    "category": "Malignant neoplasm of spinal cord, cranial nerves and other parts of central nervous system",
+    "categoryCode": "C72",
+    "subcategory": "C72.3",
+    "inclusion": null,
+    "exclusion": [
+        "meninges",
+        "peripheral nerves and autonomic nervous system"
+    ],
+    "symptoms": [
+        "headaches",
+        "seizures",
+        "progressive neurological deficits",
+        "changes in vision",
+        "changes in personality or behaviour"
+    ]
+}

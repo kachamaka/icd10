@@ -1,0 +1,23 @@
+{
+    "icd10code": "Q62.0",
+    "type": "subcategory",
+    "title": "Congenital hydronephrosis",
+    "chapter": "Congenital malformations, deformations and chromosomal abnormalities",
+    "chapterCode": "XVII",
+    "block": "Congenital malformations of the urinary system",
+    "blockCode": "Q60-Q64",
+    "category": "Congenital obstructive defects of renal pelvis and congenital malformations of ureter",
+    "categoryCode": "Q62",
+    "subcategory": "Q62.0",
+    "inclusion": null,
+    "exclusion": [
+        "inborn errors of metabolism"
+    ],
+    "symptoms": [
+        "hydronephrosis",
+        "flank pain",
+        "urinary tract infections",
+        "hematuria",
+        "abdominal mass"
+    ]
+}

@@ -1,0 +1,27 @@
+{
+  "type": "subcategory",
+  "chapterCode": "VIII",
+  "chapter": "Diseases of the ear and mastoid process",
+  "blockCode": "H65-H75",
+  "block": "Diseases of middle ear and mastoid",
+  "categoryCode": "H72",
+  "category": "Perforation of tympanic membrane",
+  "subcategory": "H72.9",
+  "title": "Perforation of tympanic membrane, unspecified",
+  "inclusion": [
+    "perforation of ear drum: persistent post-traumatic",
+    "perforation of ear drum: postinflammatory"
+  ],
+  "exclusion": [
+    "certain conditions originating in the perinatal period",
+    "certain infectious and parasitic diseases",
+    "complications of pregnancy, childbirth and the puerperium",
+    "congenital malformations, deformations and chromosomal abnormalities",
+    "endocrine, nutritional and metabolic diseases",
+    "injury, poisoning and certain other consequences of external causes",
+    "neoplasms",
+    "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+    "traumatic rupture of ear drum"
+  ],
+  "children": null
+}

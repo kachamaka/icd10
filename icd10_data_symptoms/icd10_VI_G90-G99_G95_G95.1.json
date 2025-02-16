@@ -1,0 +1,39 @@
+{
+    "icd10code": "G95.1",
+    "type": "subcategory",
+    "title": "Vascular myelopathies",
+    "chapter": "Diseases of the nervous system",
+    "chapterCode": "VI",
+    "block": "Other disorders of the nervous system",
+    "blockCode": "G90-G99",
+    "category": "Other diseases of spinal cord",
+    "categoryCode": "G95",
+    "subcategory": "G95.1",
+    "inclusion": [
+        "Acute infarction of spinal cord (embolic)(nonembolic)",
+        "Arterial thrombosis of spinal cord",
+        "Haematomyelia",
+        "Nonpyogenic intraspinal phlebitis and thrombophlebitis",
+        "Oedema of spinal cord",
+        "Subacute necrotic myelopathy"
+    ],
+    "exclusion": [
+        "certain conditions originating in the perinatal period",
+        "certain infectious and parasitic diseases",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "myelitis",
+        "intraspinal phlebitis and thrombophlebitis, except non-pyogenic"
+    ],
+    "symptoms": [
+        "back pain",
+        "leg weakness",
+        "numbness in extremities",
+        "gait disturbance",
+        "bowel/bladder dysfunction"
+    ]
+}

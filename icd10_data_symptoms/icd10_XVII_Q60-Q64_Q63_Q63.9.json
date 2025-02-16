@@ -1,0 +1,24 @@
+{
+    "icd10code": "Q63.9",
+    "type": "subcategory",
+    "title": "Congenital malformation of kidney, unspecified",
+    "chapter": "Congenital malformations, deformations and chromosomal abnormalities",
+    "chapterCode": "XVII",
+    "block": "Congenital malformations of the urinary system",
+    "blockCode": "Q60-Q64",
+    "category": "Other congenital malformations of kidney",
+    "categoryCode": "Q63",
+    "subcategory": "Q63.9",
+    "inclusion": null,
+    "exclusion": [
+        "inborn errors of metabolism",
+        "congenital nephrotic syndrome"
+    ],
+    "symptoms": [
+        "abnormal kidney shape",
+        "kidney malformation",
+        "kidney hypoplasia",
+        "kidney agenesis",
+        "unspecified congenital kidney anomalies"
+    ]
+}

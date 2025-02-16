@@ -1,0 +1,25 @@
+{
+    "icd10code": "F64.0",
+    "type": "subcategory",
+    "title": "Transsexualism",
+    "chapter": "Mental and behavioural disorders",
+    "chapterCode": "V",
+    "block": "Disorders of adult personality and behaviour",
+    "blockCode": "F60-F69",
+    "category": "Gender identity disorders",
+    "categoryCode": "F64",
+    "subcategory": "F64.0",
+    "inclusion": [
+        "disorders of psychological development"
+    ],
+    "exclusion": [
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified"
+    ],
+    "symptoms": [
+        "strong desire to live as opposite gender",
+        "discomfort with assigned gender",
+        "distress over gender identity",
+        "significant impact on social life",
+        "anxiety or depression"
+    ]
+}

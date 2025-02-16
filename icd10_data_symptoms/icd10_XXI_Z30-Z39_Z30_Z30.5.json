@@ -1,0 +1,19 @@
+{
+    "icd10code": "Z30.5",
+    "type": "subcategory",
+    "title": "Surveillance of (intrauterine) contraceptive device",
+    "chapter": "Factors influencing health status and contact with health services",
+    "chapterCode": "XXI",
+    "block": "Persons encountering health services in circumstances related to reproduction",
+    "blockCode": "Z30-Z39",
+    "category": "Contraceptive management",
+    "categoryCode": "Z30",
+    "subcategory": "Z30.5",
+    "inclusion": [
+        "Checking, reinsertion or removal of (intrauterine) contraceptive device"
+    ],
+    "exclusion": null,
+    "symptoms": [
+        "asymptomatic"
+    ]
+}

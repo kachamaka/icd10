@@ -1,0 +1,30 @@
+{
+    "icd10code": "Q27.0",
+    "type": "subcategory",
+    "title": "Congenital absence and hypoplasia of umbilical artery",
+    "chapter": "Congenital malformations, deformations and chromosomal abnormalities",
+    "chapterCode": "XVII",
+    "block": "Congenital malformations of the circulatory system",
+    "blockCode": "Q20-Q28",
+    "category": "Other congenital malformations of peripheral vascular system",
+    "categoryCode": "Q27",
+    "subcategory": "Q27.0",
+    "inclusion": [
+        "Single umbilical artery"
+    ],
+    "exclusion": [
+        "inborn errors of metabolism",
+        "anomalies of: cerebral and precerebral vessels",
+        "anomalies of: coronary vessels",
+        "anomalies of: pulmonary artery",
+        "congenital retinal aneurysm",
+        "haemangioma and lymphangioma"
+    ],
+    "symptoms": [
+        "abnormal blood flow",
+        "swelling in extremities",
+        "cyanosis",
+        "fatigue",
+        "impaired growth"
+    ]
+}

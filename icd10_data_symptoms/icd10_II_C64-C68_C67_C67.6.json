@@ -1,0 +1,21 @@
+{
+    "icd10code": "C67.6",
+    "type": "subcategory",
+    "title": "Malignant neoplasm: Ureteric orifice",
+    "chapter": "Neoplasms",
+    "chapterCode": "II",
+    "block": "Malignant neoplasms of urinary tract",
+    "blockCode": "C64-C68",
+    "category": "Malignant neoplasm of bladder",
+    "categoryCode": "C67",
+    "subcategory": "C67.6",
+    "inclusion": null,
+    "exclusion": null,
+    "symptoms": [
+        "hematuria (blood in urine)",
+        "painful urination",
+        "frequent urination",
+        "lower back pain",
+        "unexplained weight loss"
+    ]
+}

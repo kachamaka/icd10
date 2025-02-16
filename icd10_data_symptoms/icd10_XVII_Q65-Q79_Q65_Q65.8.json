@@ -1,0 +1,29 @@
+{
+    "icd10code": "Q65.8",
+    "type": "subcategory",
+    "title": "Other congenital deformities of hip",
+    "chapter": "Congenital malformations, deformations and chromosomal abnormalities",
+    "chapterCode": "XVII",
+    "block": "Congenital malformations and deformations of the musculoskeletal system",
+    "blockCode": "Q65-Q79",
+    "category": "Congenital deformities of hip",
+    "categoryCode": "Q65",
+    "subcategory": "Q65.8",
+    "inclusion": [
+        "Anteversion of femoral neck",
+        "Congenital acetabular dysplasia",
+        "Congenital coxa: valga",
+        "Congenital coxa: vara"
+    ],
+    "exclusion": [
+        "inborn errors of metabolism",
+        "clicking hip"
+    ],
+    "symptoms": [
+        "uneven leg lengths",
+        "hip clicking or popping",
+        "limited hip movement",
+        "hip instability",
+        "asymmetry in thigh folds"
+    ]
+}

@@ -1,0 +1,26 @@
+{
+  "type": "category",
+  "chapterCode": "IV",
+  "chapter": "Endocrine, nutritional and metabolic diseases",
+  "blockCode": "E40-E46",
+  "block": "Malnutrition",
+  "categoryCode": "E46",
+  "category": "Unspecified protein-energy malnutrition",
+  "subcategory": "",
+  "title": "Unspecified protein-energy malnutrition",
+  "inclusion": [
+    "Malnutrition NOS",
+    "Protein-energy imbalance NOS"
+  ],
+  "exclusion": [
+    "complications of pregnancy, childbirth and the puerperium",
+    "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+    "transitory endocrine and metabolic disorders specific to fetus and newborn",
+    "intestinal malabsorption",
+    "nutritional anaemias",
+    "sequelae of protein-energy malnutrition",
+    "slim disease",
+    "starvation"
+  ],
+  "children": null
+}

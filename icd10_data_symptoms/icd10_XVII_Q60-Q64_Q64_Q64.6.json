@@ -1,0 +1,23 @@
+{
+    "icd10code": "Q64.6",
+    "type": "subcategory",
+    "title": "Congenital diverticulum of bladder",
+    "chapter": "Congenital malformations, deformations and chromosomal abnormalities",
+    "chapterCode": "XVII",
+    "block": "Congenital malformations of the urinary system",
+    "blockCode": "Q60-Q64",
+    "category": "Other congenital malformations of urinary system",
+    "categoryCode": "Q64",
+    "subcategory": "Q64.6",
+    "inclusion": null,
+    "exclusion": [
+        "inborn errors of metabolism"
+    ],
+    "symptoms": [
+        "urinary incontinence",
+        "recurrent utis",
+        "abnormal urination",
+        "vesicoureteral reflux",
+        "hydronephrosis"
+    ]
+}

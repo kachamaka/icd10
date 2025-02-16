@@ -1,0 +1,27 @@
+{
+    "icd10code": "Z90.2",
+    "type": "subcategory",
+    "title": "Acquired absence of lung [part of]",
+    "chapter": "Factors influencing health status and contact with health services",
+    "chapterCode": "XXI",
+    "block": "Persons with potential health hazards related to family and personal history and certain conditions influencing health status",
+    "blockCode": "Z80-Z99",
+    "category": "Acquired absence of organs, not elsewhere classified",
+    "categoryCode": "Z90",
+    "subcategory": "Z90.2",
+    "inclusion": [
+        "postoperative or post-traumatic loss of body part NEC"
+    ],
+    "exclusion": [
+        "follow-up examination",
+        "follow-up medical care and convalescence",
+        "when family or personal history is the reason for special screening or other examination or investigation",
+        "when the possibility that the fetus might be affected is the reason for observation or action during pregnancy",
+        "congenital absence - see Alphabetical Index",
+        "postoperative absence of: endocrine glands",
+        "postoperative absence of: spleen"
+    ],
+    "symptoms": [
+        "asymptomatic"
+    ]
+}

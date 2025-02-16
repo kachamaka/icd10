@@ -1,0 +1,23 @@
+{
+  "type": "subcategory",
+  "chapterCode": "V",
+  "chapter": "Mental and behavioural disorders",
+  "blockCode": "F30-F39",
+  "block": "Mood [affective] disorders",
+  "categoryCode": "F34",
+  "category": "Persistent mood [affective] disorders",
+  "subcategory": "F34.1",
+  "title": "Dysthymia",
+  "inclusion": [
+    "disorders of psychological development",
+    "Depressive: neurosis",
+    "Depressive: personality disorder",
+    "Neurotic depression",
+    "Persistent anxiety depression"
+  ],
+  "exclusion": [
+    "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+    "anxiety depression (mild or not persistent)"
+  ],
+  "children": null
+}

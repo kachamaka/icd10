@@ -1,0 +1,34 @@
+{
+    "icd10code": "P72.9",
+    "type": "subcategory",
+    "title": "Transitory neonatal endocrine disorder, unspecified",
+    "chapter": "Certain conditions originating in the perinatal period",
+    "chapterCode": "XVI",
+    "block": "Transitory endocrine and metabolic disorders specific to fetus and newborn",
+    "blockCode": "P70-P74",
+    "category": "Other transitory neonatal endocrine disorders",
+    "categoryCode": "P72",
+    "subcategory": "P72.9",
+    "inclusion": [
+        "conditions that have their origin in the perinatal period even though death or morbidity occurs later",
+        "transitory endocrine and metabolic disturbances caused by the infant's response to maternal endocrine and metabolic factors, or its adjustment to extrauterine existence"
+    ],
+    "exclusion": [
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "tetanus neonatorum",
+        "whooping cough",
+        "congenital hypothyroidism with or without goitre",
+        "dyshormogenetic goitre",
+        "Pendred syndrome"
+    ],
+    "symptoms": [
+        "jaundice",
+        "poor feeding",
+        "lethargy",
+        "abnormal weight changes",
+        "dehydration"
+    ]
+}

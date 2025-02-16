@@ -1,0 +1,20 @@
+{
+  "type": "category",
+  "chapterCode": "XX",
+  "chapter": "External causes of morbidity and mortality",
+  "blockCode": "X00-X09",
+  "block": "Exposure to smoke, fire and flames",
+  "categoryCode": "X08",
+  "category": "Exposure to other specified smoke, fire and flames",
+  "subcategory": "",
+  "title": "Exposure to other specified smoke, fire and flames",
+  "inclusion": [
+    "fire caused by lightning"
+  ],
+  "exclusion": [
+    "arson",
+    "secondary fire resulting from explosion",
+    "transport accidents"
+  ],
+  "children": null
+}

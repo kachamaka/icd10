@@ -1,0 +1,50 @@
+{
+    "icd10code": "J20.1",
+    "type": "subcategory",
+    "title": "Acute bronchitis due to Haemophilus influenzae",
+    "chapter": "Diseases of the respiratory system",
+    "chapterCode": "X",
+    "block": "Other acute lower respiratory infections",
+    "blockCode": "J20-J22",
+    "category": "Acute bronchitis",
+    "categoryCode": "J20",
+    "subcategory": "J20.1",
+    "inclusion": [
+        "bronchitis: NOS, in those under l5 years of age",
+        "bronchitis: acute and subacute (with): bronchospasm",
+        "bronchitis: acute and subacute (with): fibrinous",
+        "bronchitis: acute and subacute (with): membranous",
+        "bronchitis: acute and subacute (with): purulent",
+        "bronchitis: acute and subacute (with): septic",
+        "bronchitis: acute and subacute (with): tracheitis",
+        "tracheobronchitis, acute"
+    ],
+    "exclusion": [
+        "certain conditions originating in the perinatal period",
+        "certain infectious and parasitic diseases",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "chronic obstructive pulmonary disease with acute: exacerbation NOS",
+        "chronic obstructive pulmonary disease with acute: lower respiratory infection",
+        "bronchitis: NOS, in those 15 years of age and above",
+        "bronchitis: allergic NOS",
+        "bronchitis: chronic: NOS",
+        "bronchitis: chronic: mucopurulent",
+        "bronchitis: chronic: obstructive",
+        "bronchitis: chronic: simple",
+        "tracheobronchitis: NOS",
+        "tracheobronchitis: chronic",
+        "tracheobronchitis: chronic obstructive"
+    ],
+    "symptoms": [
+        "cough",
+        "wheezing",
+        "shortness of breath",
+        "chest discomfort",
+        "fatigue"
+    ]
+}

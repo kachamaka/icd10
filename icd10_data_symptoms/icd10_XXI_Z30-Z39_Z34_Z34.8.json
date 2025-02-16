@@ -1,0 +1,17 @@
+{
+    "icd10code": "Z34.8",
+    "type": "subcategory",
+    "title": "Supervision of other normal pregnancy",
+    "chapter": "Factors influencing health status and contact with health services",
+    "chapterCode": "XXI",
+    "block": "Persons encountering health services in circumstances related to reproduction",
+    "blockCode": "Z30-Z39",
+    "category": "Supervision of normal pregnancy",
+    "categoryCode": "Z34",
+    "subcategory": "Z34.8",
+    "inclusion": null,
+    "exclusion": null,
+    "symptoms": [
+        "asymptomatic"
+    ]
+}

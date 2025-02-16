@@ -1,0 +1,24 @@
+{
+  "type": "subcategory",
+  "chapterCode": "IV",
+  "chapter": "Endocrine, nutritional and metabolic diseases",
+  "blockCode": "E20-E35",
+  "block": "Disorders of other endocrine glands",
+  "categoryCode": "E27",
+  "category": "Other disorders of adrenal gland",
+  "subcategory": "E27.0",
+  "title": "Other adrenocortical overactivity",
+  "inclusion": [
+    "Overproduction of ACTH, not associated with Cushing disease",
+    "Premature adrenarche"
+  ],
+  "exclusion": [
+    "complications of pregnancy, childbirth and the puerperium",
+    "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+    "transitory endocrine and metabolic disorders specific to fetus and newborn",
+    "galactorrhoea",
+    "gynaecomastia",
+    "Cushing syndrome"
+  ],
+  "children": null
+}

@@ -1,0 +1,30 @@
+{
+  "type": "category",
+  "chapterCode": "XIX",
+  "chapter": "Injury, poisoning and certain other consequences of external causes",
+  "blockCode": "T08-T14",
+  "block": "Injuries to unspecified part of trunk, limb or body region",
+  "categoryCode": "T10",
+  "category": "Fracture of upper limb, level unspecified",
+  "subcategory": "",
+  "title": "Fracture of upper limb, level unspecified",
+  "inclusion": [
+    "Broken arm NOS",
+    "Fracture of arm NOS"
+  ],
+  "exclusion": [
+    "birth trauma",
+    "obstetric trauma",
+    "malunion of fracture",
+    "nonunion of fracture [pseudarthrosis]",
+    "pathological fracture",
+    "pathological fracture with osteoporosis",
+    "stress fracture",
+    "burns and corrosions",
+    "frostbite",
+    "injuries involving multiple body regions",
+    "insect bite or sting, venomous",
+    "multiple fractures of upper limb, level unspecified"
+  ],
+  "children": null
+}

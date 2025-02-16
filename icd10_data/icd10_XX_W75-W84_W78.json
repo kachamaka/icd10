@@ -1,0 +1,25 @@
+{
+  "type": "category",
+  "chapterCode": "XX",
+  "chapter": "External causes of morbidity and mortality",
+  "blockCode": "W75-W84",
+  "block": "Other accidental threats to breathing",
+  "categoryCode": "W78",
+  "category": "Inhalation of gastric contents",
+  "subcategory": "",
+  "title": "Inhalation of gastric contents",
+  "inclusion": [
+    "asphyxia by vomitus [regurgitated food]",
+    "choked on vomitus [regurgitated food]",
+    "suffocation by vomitus [regurgitated food]",
+    "aspiration and inhalation of vomitus (into respiratory tract) NOS",
+    "compression of trachea by vomitus in oesophagus",
+    "interruption of respiration by vomitus in oesophagus",
+    "obstruction of respiration by vomitus in oesophagus"
+  ],
+  "exclusion": [
+    "injury, except asphyxia or obstruction of respiratory tract, caused by vomitus",
+    "obstruction of oesophagus by vomitus without mention of asphyxia or obstruction of respiratory tract"
+  ],
+  "children": null
+}

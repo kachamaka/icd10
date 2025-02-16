@@ -1,0 +1,24 @@
+{
+    "icd10code": "Y03",
+    "type": "category",
+    "title": "Assault by crashing of motor vehicle",
+    "chapter": "External causes of morbidity and mortality",
+    "chapterCode": "XX",
+    "block": "Assault",
+    "blockCode": "X85-Y09",
+    "category": "Assault by crashing of motor vehicle",
+    "categoryCode": "Y03",
+    "subcategory": "",
+    "inclusion": [
+        "homicide",
+        "injuries inflicted by another person with intent to injure or kill, by any means",
+        "deliberately hitting or running over with motor vehicle"
+    ],
+    "exclusion": [
+        "injuries due to: legal intervention",
+        "injuries due to: operations of war"
+    ],
+    "symptoms": [
+        "asymptomatic"
+    ]
+}

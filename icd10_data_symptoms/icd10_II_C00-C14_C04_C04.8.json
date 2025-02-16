@@ -1,0 +1,21 @@
+{
+    "icd10code": "C04.8",
+    "type": "subcategory",
+    "title": "Malignant neoplasm: Overlapping lesion of floor of mouth",
+    "chapter": "Neoplasms",
+    "chapterCode": "II",
+    "block": "Malignant neoplasms of lip, oral cavity and pharynx",
+    "blockCode": "C00-C14",
+    "category": "Malignant neoplasm of floor of mouth",
+    "categoryCode": "C04",
+    "subcategory": "C04.8",
+    "inclusion": null,
+    "exclusion": null,
+    "symptoms": [
+        "pain in oral cavity",
+        "difficulty in swallowing",
+        "mouth ulcer",
+        "speech difficulty",
+        "abnormal oral bleeding"
+    ]
+}

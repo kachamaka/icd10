@@ -1,0 +1,18 @@
+{
+  "type": "subcategory",
+  "chapterCode": "XX",
+  "chapter": "External causes of morbidity and mortality",
+  "blockCode": "Y35-Y36",
+  "block": "Legal intervention and operations of war",
+  "categoryCode": "Y36",
+  "category": "Operations of war",
+  "subcategory": "Y36.8",
+  "title": "War operations occurring after cessation of hostilities",
+  "inclusion": [
+    "injuries to military personnel and civilians caused by war and civil insurrection",
+    "Injuries by explosion of bombs or mines placed in the course of operations of war, if the explosion occurred after cessation of hostilities",
+    "Injuries due to operations of war and classifiable to Y36.0-Y36.7 or Y36.9 but occurring after cessation of hostilities"
+  ],
+  "exclusion": null,
+  "children": null
+}

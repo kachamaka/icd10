@@ -1,0 +1,30 @@
+{
+    "icd10code": "N22.0",
+    "type": "subcategory",
+    "title": "Urinary calculus in schistosomiasis [bilharziasis]",
+    "chapter": "Diseases of the genitourinary system",
+    "chapterCode": "XIV",
+    "block": "Urolithiasis",
+    "blockCode": "N20-N23",
+    "category": "Calculus of urinary tract in diseases classified elsewhere",
+    "categoryCode": "N22",
+    "subcategory": "N22.0",
+    "inclusion": null,
+    "exclusion": [
+        "certain conditions originating in the perinatal period",
+        "certain infectious and parasitic diseases",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified"
+    ],
+    "symptoms": [
+        "pain during urination",
+        "frequent urination",
+        "blood in urine",
+        "cloudy urine",
+        "pelvic discomfort"
+    ]
+}

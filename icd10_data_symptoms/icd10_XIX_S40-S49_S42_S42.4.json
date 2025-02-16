@@ -1,0 +1,46 @@
+{
+    "icd10code": "S42.4",
+    "type": "subcategory",
+    "title": "Fracture of lower end of humerus",
+    "chapter": "Injury, poisoning and certain other consequences of external causes",
+    "chapterCode": "XIX",
+    "block": "Injuries to the shoulder and upper arm",
+    "blockCode": "S40-S49",
+    "category": "Fracture of shoulder and upper arm",
+    "categoryCode": "S42",
+    "subcategory": "S42.4",
+    "inclusion": [
+        "injuries of: axilla",
+        "injuries of: scapular region",
+        "Articular process",
+        "Distal end",
+        "External condyle",
+        "Intercondylar",
+        "Internal epicondyle",
+        "Lower epiphysis",
+        "Supracondylar"
+    ],
+    "exclusion": [
+        "birth trauma",
+        "obstetric trauma",
+        "malunion of fracture",
+        "nonunion of fracture [pseudarthrosis]",
+        "pathological fracture",
+        "pathological fracture with osteoporosis",
+        "stress fracture",
+        "bilateral involvement of shoulder and upper arm",
+        "burns and corrosions",
+        "frostbite",
+        "injuries of: arm, level unspecified",
+        "injuries of: elbow",
+        "insect bite or sting, venomous",
+        "fracture of elbow NOS"
+    ],
+    "symptoms": [
+        "pain in upper arm",
+        "swelling",
+        "limited arm movement",
+        "bruising",
+        "deformity of the upper arm"
+    ]
+}

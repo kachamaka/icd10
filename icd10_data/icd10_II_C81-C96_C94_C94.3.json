@@ -1,0 +1,18 @@
+{
+  "type": "subcategory",
+  "chapterCode": "II",
+  "chapter": "Neoplasms",
+  "blockCode": "C81-C96",
+  "block": "Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",
+  "categoryCode": "C94",
+  "category": "Other leukaemias of specified cell type",
+  "subcategory": "C94.3",
+  "title": "Mast cell leukaemia",
+  "inclusion": null,
+  "exclusion": [
+    "secondary and unspecified neoplasm of lymph nodes",
+    "leukaemic reticuloendotheliosis",
+    "plasma cell leukaemia"
+  ],
+  "children": null
+}

@@ -1,0 +1,34 @@
+{
+    "icd10code": "Q17.4",
+    "type": "subcategory",
+    "title": "Misplaced ear",
+    "chapter": "Congenital malformations, deformations and chromosomal abnormalities",
+    "chapterCode": "XVII",
+    "block": "Congenital malformations of eye, ear, face and neck",
+    "blockCode": "Q10-Q18",
+    "category": "Other congenital malformations of ear",
+    "categoryCode": "Q17",
+    "subcategory": "Q17.4",
+    "inclusion": [
+        "Low-set ears"
+    ],
+    "exclusion": [
+        "inborn errors of metabolism",
+        "cleft lip and cleft palate",
+        "congenital malformation of: cervical spine",
+        "congenital malformation of: larynx",
+        "congenital malformation of: lip NEC",
+        "congenital malformation of: nose",
+        "congenital malformation of: parathyroid gland",
+        "congenital malformation of: thyroid gland",
+        "preauricular sinus",
+        "cervical auricle"
+    ],
+    "symptoms": [
+        "malformed or misshapen ear",
+        "hearing loss",
+        "ear pain",
+        "recurrent ear infections",
+        "speech delay"
+    ]
+}

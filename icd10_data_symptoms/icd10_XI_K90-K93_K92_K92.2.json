@@ -1,0 +1,37 @@
+{
+    "icd10code": "K92.2",
+    "type": "subcategory",
+    "title": "Gastrointestinal haemorrhage, unspecified",
+    "chapter": "Diseases of the digestive system",
+    "chapterCode": "XI",
+    "block": "Other diseases of the digestive system",
+    "blockCode": "K90-K93",
+    "category": "Other diseases of digestive system",
+    "categoryCode": "K92",
+    "subcategory": "K92.2",
+    "inclusion": [
+        "Haemorrhage: gastric NOS",
+        "Haemorrhage: intestinal NOS"
+    ],
+    "exclusion": [
+        "certain conditions originating in the perinatal period",
+        "certain infectious and parasitic diseases",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "neonatal gastrointestinal haemorrhage",
+        "acute haemorrhagic gastritis",
+        "haemorrhage of anus and rectum",
+        "with peptic ulcer"
+    ],
+    "symptoms": [
+        "blood in stool",
+        "black tarry stool",
+        "vomiting blood",
+        "anemia",
+        "abdominal pain"
+    ]
+}

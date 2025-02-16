@@ -1,0 +1,31 @@
+{
+    "icd10code": "R26.3",
+    "type": "subcategory",
+    "title": "Immobility",
+    "chapter": "Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+    "chapterCode": "XVIII",
+    "block": "Symptoms and signs involving the nervous and musculoskeletal systems",
+    "blockCode": "R25-R29",
+    "category": "Abnormalities of gait and mobility",
+    "categoryCode": "R26",
+    "subcategory": "R26.3",
+    "inclusion": [
+        "Bedfast",
+        "Chairfast"
+    ],
+    "exclusion": [
+        "abnormal findings on antenatal screening of mother",
+        "certain conditions originating in the perinatal period",
+        "ataxia: NOS",
+        "ataxia: hereditary",
+        "ataxia: locomotor (syphilitic)",
+        "immobility syndrome (paraplegic)"
+    ],
+    "symptoms": [
+        "unsteady gait",
+        "difficulty walking",
+        "balance issues",
+        "frequent stumbling",
+        "impaired coordination"
+    ]
+}

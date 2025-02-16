@@ -1,0 +1,23 @@
+{
+    "icd10code": "X67.9",
+    "type": "subcategory",
+    "title": "Intentional self-poisoning by and exposure to unspecified gases and vapours",
+    "chapter": "External causes of morbidity and mortality",
+    "chapterCode": "XX",
+    "block": "Intentional self-harm",
+    "blockCode": "X60-X84",
+    "category": "Intentional self-poisoning by and exposure to carbon monoxide and other gases and vapours",
+    "categoryCode": "X67",
+    "subcategory": "X67.9",
+    "inclusion": [
+        "purposely self-inflicted poisoning or injury",
+        "suicide (attempted)"
+    ],
+    "exclusion": [
+        "carbon monoxide from smoke, fire and flames",
+        "metal fumes and vapours"
+    ],
+    "symptoms": [
+        "asymptomatic"
+    ]
+}

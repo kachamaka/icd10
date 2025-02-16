@@ -1,0 +1,34 @@
+{
+    "icd10code": "X00",
+    "type": "category",
+    "title": "Exposure to uncontrolled fire in building or structure",
+    "chapter": "External causes of morbidity and mortality",
+    "chapterCode": "XX",
+    "block": "Exposure to smoke, fire and flames",
+    "blockCode": "X00-X09",
+    "category": "Exposure to uncontrolled fire in building or structure",
+    "categoryCode": "X00",
+    "subcategory": "",
+    "inclusion": [
+        "fire caused by lightning",
+        "collapse of burning building or structure",
+        "fall from burning building or structure",
+        "hit by object falling from burning building or structure",
+        "jump from burning building or structure",
+        "conflagration",
+        "fire of fittings",
+        "fire of furniture",
+        "melting of fittings",
+        "melting of furniture",
+        "smouldering of fittings",
+        "smouldering of furniture"
+    ],
+    "exclusion": [
+        "arson",
+        "secondary fire resulting from explosion",
+        "transport accidents"
+    ],
+    "symptoms": [
+        "asymptomatic"
+    ]
+}

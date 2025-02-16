@@ -1,0 +1,37 @@
+{
+    "icd10code": "G00.1",
+    "type": "subcategory",
+    "title": "Pneumococcal meningitis",
+    "chapter": "Diseases of the nervous system",
+    "chapterCode": "VI",
+    "block": "Inflammatory diseases of the central nervous system",
+    "blockCode": "G00-G09",
+    "category": "Bacterial meningitis, not elsewhere classified",
+    "categoryCode": "G00",
+    "subcategory": "G00.1",
+    "inclusion": [
+        "arachnoiditis bacterial",
+        "leptomeningitis bacterial",
+        "meningitis bacterial",
+        "pachymeningitis bacterial"
+    ],
+    "exclusion": [
+        "certain conditions originating in the perinatal period",
+        "certain infectious and parasitic diseases",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "bacterial: meningoencephalitis",
+        "bacterial: meningomyelitis"
+    ],
+    "symptoms": [
+        "headache",
+        "fever",
+        "neck stiffness",
+        "nausea",
+        "vomiting"
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "icd10code": "R56.8",
+    "type": "subcategory",
+    "title": "Other and unspecified convulsions",
+    "chapter": "Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+    "chapterCode": "XVIII",
+    "block": "General symptoms and signs",
+    "blockCode": "R50-R69",
+    "category": "Convulsions, not elsewhere classified",
+    "categoryCode": "R56",
+    "subcategory": "R56.8",
+    "inclusion": [
+        "Fit NOS",
+        "Seizure (convulsive) NOS"
+    ],
+    "exclusion": [
+        "abnormal findings on antenatal screening of mother",
+        "certain conditions originating in the perinatal period",
+        "convulsions and seizures (in): dissociative",
+        "convulsions and seizures (in): epilepsy",
+        "convulsions and seizures (in): newborn"
+    ],
+    "symptoms": [
+        "seizures",
+        "convulsions",
+        "abnormal movements",
+        "fainting",
+        "muscle spasms"
+    ]
+}

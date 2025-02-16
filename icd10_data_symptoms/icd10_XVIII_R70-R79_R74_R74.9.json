@@ -1,0 +1,31 @@
+{
+    "icd10code": "R74.9",
+    "type": "subcategory",
+    "title": "Abnormal level of unspecified serum enzyme",
+    "chapter": "Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+    "chapterCode": "XVIII",
+    "block": "Abnormal findings on examination of blood, without diagnosis",
+    "blockCode": "R70-R79",
+    "category": "Abnormal serum enzyme levels",
+    "categoryCode": "R74",
+    "subcategory": "R74.9",
+    "inclusion": null,
+    "exclusion": [
+        "abnormal findings on antenatal screening of mother",
+        "certain conditions originating in the perinatal period",
+        "abnormalities (of)(on): antenatal screening of mother",
+        "abnormalities (of)(on): coagulation",
+        "abnormalities (of)(on): lipids",
+        "abnormalities (of)(on): platelets and thrombocytes",
+        "abnormalities (of)(on): white blood cells classified elsewhere",
+        "diagnostic abnormal findings classified elsewhere - see Alphabetical Index",
+        "haemorrhagic and haematological disorders of fetus and newborn"
+    ],
+    "symptoms": [
+        "fatigue",
+        "jaundice",
+        "abdominal pain",
+        "dark urine",
+        "nausea"
+    ]
+}

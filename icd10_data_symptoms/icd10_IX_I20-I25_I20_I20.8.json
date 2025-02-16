@@ -1,0 +1,38 @@
+{
+    "icd10code": "I20.8",
+    "type": "subcategory",
+    "title": "Other forms of angina pectoris",
+    "chapter": "Diseases of the circulatory system",
+    "chapterCode": "IX",
+    "block": "Ischaemic heart diseases",
+    "blockCode": "I20-I25",
+    "category": "Angina pectoris",
+    "categoryCode": "I20",
+    "subcategory": "I20.8",
+    "inclusion": [
+        "with mention of hypertension",
+        "Angina of effort",
+        "Coronary slow flow syndrome",
+        "Stable angina",
+        "Stenocardia"
+    ],
+    "exclusion": [
+        "certain conditions originating in the perinatal period",
+        "certain infectious and parasitic diseases",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "systemic connective tissue disorders",
+        "transient cerebral ischaemic attacks and related syndromes"
+    ],
+    "symptoms": [
+        "chest discomfort",
+        "difficulty breathing",
+        "excessive sweating",
+        "fatigue",
+        "pain radiating to the arm or jaw"
+    ]
+}

@@ -1,0 +1,36 @@
+{
+    "icd10code": "I23.5",
+    "type": "subcategory",
+    "title": "Rupture of papillary muscle as current complication following acute myocardial infarction",
+    "chapter": "Diseases of the circulatory system",
+    "chapterCode": "IX",
+    "block": "Ischaemic heart diseases",
+    "blockCode": "I20-I25",
+    "category": "Certain current complications following acute myocardial infarction",
+    "categoryCode": "I23",
+    "subcategory": "I23.5",
+    "inclusion": [
+        "with mention of hypertension"
+    ],
+    "exclusion": [
+        "certain conditions originating in the perinatal period",
+        "certain infectious and parasitic diseases",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "systemic connective tissue disorders",
+        "transient cerebral ischaemic attacks and related syndromes",
+        "Eisenmenger defect",
+        "when not specified as rheumatic"
+    ],
+    "symptoms": [
+        "chest pain",
+        "irregular heartbeats",
+        "shortness of breath",
+        "fatigue",
+        "lightheadedness"
+    ]
+}

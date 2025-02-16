@@ -1,0 +1,34 @@
+{
+    "icd10code": "Q05.9",
+    "type": "subcategory",
+    "title": "Spina bifida, unspecified",
+    "chapter": "Congenital malformations, deformations and chromosomal abnormalities",
+    "chapterCode": "XVII",
+    "block": "Congenital malformations of the nervous system",
+    "blockCode": "Q00-Q07",
+    "category": "Spina bifida",
+    "categoryCode": "Q05",
+    "subcategory": "Q05.9",
+    "inclusion": [
+        "hydromeningocele (spinal)",
+        "meningocele (spinal)",
+        "meningomyelocele",
+        "myelocele",
+        "myelomeningocele",
+        "rachischisis",
+        "spina bifida (aperta)(cystica)",
+        "syringomyelocele"
+    ],
+    "exclusion": [
+        "inborn errors of metabolism",
+        "Arnold-Chiari syndrome",
+        "spina bifida occulta"
+    ],
+    "symptoms": [
+        "back pain",
+        "muscle weakness",
+        "hydrocephalus",
+        "bladder issues",
+        "leg"
+    ]
+}

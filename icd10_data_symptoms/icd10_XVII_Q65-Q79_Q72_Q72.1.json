@@ -1,0 +1,23 @@
+{
+    "icd10code": "Q72.1",
+    "type": "subcategory",
+    "title": "Congenital absence of thigh and lower leg with foot present",
+    "chapter": "Congenital malformations, deformations and chromosomal abnormalities",
+    "chapterCode": "XVII",
+    "block": "Congenital malformations and deformations of the musculoskeletal system",
+    "blockCode": "Q65-Q79",
+    "category": "Reduction defects of lower limb",
+    "categoryCode": "Q72",
+    "subcategory": "Q72.1",
+    "inclusion": null,
+    "exclusion": [
+        "inborn errors of metabolism"
+    ],
+    "symptoms": [
+        "underdeveloped leg muscles",
+        "limb length discrepancy",
+        "foot malformation",
+        "reduced leg mobility",
+        "missing leg bones"
+    ]
+}

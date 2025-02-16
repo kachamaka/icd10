@@ -1,0 +1,26 @@
+{
+    "icd10code": "Q80.2",
+    "type": "subcategory",
+    "title": "Lamellar ichthyosis",
+    "chapter": "Congenital malformations, deformations and chromosomal abnormalities",
+    "chapterCode": "XVII",
+    "block": "Other congenital malformations",
+    "blockCode": "Q80-Q89",
+    "category": "Congenital ichthyosis",
+    "categoryCode": "Q80",
+    "subcategory": "Q80.2",
+    "inclusion": [
+        "Collodion baby"
+    ],
+    "exclusion": [
+        "inborn errors of metabolism",
+        "Refsum disease"
+    ],
+    "symptoms": [
+        "skin blistering",
+        "fragile skin",
+        "skin erosions",
+        "delayed wound healing",
+        "scarring"
+    ]
+}

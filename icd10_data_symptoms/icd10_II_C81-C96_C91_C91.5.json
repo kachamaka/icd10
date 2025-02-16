@@ -1,0 +1,28 @@
+{
+    "icd10code": "C91.5",
+    "type": "subcategory",
+    "title": "Adult T-cell lymphoma/leukaemia [HTLV-1-associated]",
+    "chapter": "Neoplasms",
+    "chapterCode": "II",
+    "block": "Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",
+    "blockCode": "C81-C96",
+    "category": "Lymphoid leukaemia",
+    "categoryCode": "C91",
+    "subcategory": "C91.5",
+    "inclusion": [
+        "Acute variant",
+        "Chronic variant",
+        "Lymphomatoid variant",
+        "Smouldering variant"
+    ],
+    "exclusion": [
+        "secondary and unspecified neoplasm of lymph nodes"
+    ],
+    "symptoms": [
+        "fatigue",
+        "fever",
+        "weight loss",
+        "night sweats",
+        "easy bruising or bleeding"
+    ]
+}

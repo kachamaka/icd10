@@ -1,0 +1,30 @@
+{
+    "icd10code": "A28.1",
+    "type": "subcategory",
+    "title": "Cat-scratch disease",
+    "chapter": "Certain infectious and parasitic diseases",
+    "chapterCode": "I",
+    "block": "Certain zoonotic bacterial diseases",
+    "blockCode": "A20-A28",
+    "category": "Other zoonotic bacterial diseases, not elsewhere classified",
+    "categoryCode": "A28",
+    "subcategory": "A28.1",
+    "inclusion": [
+        "diseases generally recognized as communicable or transmissible",
+        "Cat-scratch fever"
+    ],
+    "exclusion": [
+        "carrier or suspected carrier of infectious disease",
+        "certain localized infections - see body system-related chapters",
+        "infectious and parasitic diseases complicating pregnancy, childbirth and the puerperium [except obstetrical tetanus]",
+        "infectious and parasitic diseases specific to the perinatal period [except tetanus neonatorum, whooping cough, congenital syphilis, perinatal gonococcal infection and perinatal human immunodeficiency virus [HIV] disease]",
+        "influenza and other acute respiratory infections"
+    ],
+    "symptoms": [
+        "fever",
+        "headache",
+        "muscle pain",
+        "nausea",
+        "swollen lymph nodes"
+    ]
+}

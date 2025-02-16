@@ -1,0 +1,16 @@
+{
+  "type": "category",
+  "chapterCode": "II",
+  "chapter": "Neoplasms",
+  "blockCode": "C15-C26",
+  "block": "Malignant neoplasms of digestive organs",
+  "categoryCode": "C20",
+  "category": "Malignant neoplasm of rectum",
+  "subcategory": "",
+  "title": "Malignant neoplasm of rectum",
+  "inclusion": [
+    "Rectal ampulla"
+  ],
+  "exclusion": null,
+  "children": null
+}

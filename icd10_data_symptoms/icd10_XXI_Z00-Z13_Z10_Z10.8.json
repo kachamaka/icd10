@@ -1,0 +1,26 @@
+{
+    "icd10code": "Z10.8",
+    "type": "subcategory",
+    "title": "Routine general health check-up of other defined subpopulations",
+    "chapter": "Factors influencing health status and contact with health services",
+    "chapterCode": "XXI",
+    "block": "Persons encountering health services for examination and investigation",
+    "blockCode": "Z00-Z13",
+    "category": "Routine general health check-up of defined subpopulation",
+    "categoryCode": "Z10",
+    "subcategory": "Z10.8",
+    "inclusion": [
+        "Schoolchildren",
+        "Students"
+    ],
+    "exclusion": [
+        "examinations related to pregnancy and reproduction",
+        "medical examination for administrative purposes"
+    ],
+    "symptoms": [
+        "screening abnormalities",
+        "mild discomfort",
+        "lab test anomalies",
+        "general wellness review"
+    ]
+}

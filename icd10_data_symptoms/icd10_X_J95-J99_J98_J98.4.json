@@ -1,0 +1,39 @@
+{
+    "icd10code": "J98.4",
+    "type": "subcategory",
+    "title": "Other disorders of lung",
+    "chapter": "Diseases of the respiratory system",
+    "chapterCode": "X",
+    "block": "Other diseases of the respiratory system",
+    "blockCode": "J95-J99",
+    "category": "Other respiratory disorders",
+    "categoryCode": "J98",
+    "subcategory": "J98.4",
+    "inclusion": [
+        "Calcification of lung",
+        "Cystic lung disease (acquired)",
+        "Lung disease NOS",
+        "Pulmolithiasis"
+    ],
+    "exclusion": [
+        "certain conditions originating in the perinatal period",
+        "certain infectious and parasitic diseases",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "apnoea: NOS",
+        "apnoea: newborn",
+        "apnoea: sleep",
+        "apnoea: sleep newborn"
+    ],
+    "symptoms": [
+        "cough",
+        "difficulty breathing",
+        "chest pain",
+        "wheezing",
+        "hypoxia"
+    ]
+}

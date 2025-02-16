@@ -1,0 +1,18 @@
+{
+  "type": "subcategory",
+  "chapterCode": "XXI",
+  "chapter": "Factors influencing health status and contact with health services",
+  "blockCode": "Z00-Z13",
+  "block": "Persons encountering health services for examination and investigation",
+  "categoryCode": "Z10",
+  "category": "Routine general health check-up of defined subpopulation",
+  "subcategory": "Z10.1",
+  "title": "Routine general health check-up of inhabitants of institutions",
+  "inclusion": null,
+  "exclusion": [
+    "examinations related to pregnancy and reproduction",
+    "medical examination for administrative purposes",
+    "admission examination"
+  ],
+  "children": null
+}

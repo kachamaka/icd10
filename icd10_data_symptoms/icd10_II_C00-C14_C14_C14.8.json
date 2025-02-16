@@ -1,0 +1,25 @@
+{
+    "icd10code": "C14.8",
+    "type": "subcategory",
+    "title": "Malignant neoplasm: Overlapping lesion of lip, oral cavity and pharynx",
+    "chapter": "Neoplasms",
+    "chapterCode": "II",
+    "block": "Malignant neoplasms of lip, oral cavity and pharynx",
+    "blockCode": "C00-C14",
+    "category": "Malignant neoplasm of other and ill-defined sites in the lip, oral cavity and pharynx",
+    "categoryCode": "C14",
+    "subcategory": "C14.8",
+    "inclusion": [
+        "Malignant neoplasm of lip, oral cavity and pharynx whose point of origin cannot be classified to any one of the categories C00-C14.2"
+    ],
+    "exclusion": [
+        "oral cavity NOS"
+    ],
+    "symptoms": [
+        "difficulty swallowing",
+        "persistent sore throat",
+        "ear pain",
+        "unusual weight loss",
+        "unexplained fatigue"
+    ]
+}

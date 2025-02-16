@@ -1,0 +1,24 @@
+{
+    "icd10code": "D29.9",
+    "type": "subcategory",
+    "title": "Benign neoplasm: Male genital organ, unspecified",
+    "chapter": "Neoplasms",
+    "chapterCode": "II",
+    "block": "Benign neoplasms",
+    "blockCode": "D10-D36",
+    "category": "Benign neoplasm of male genital organs",
+    "categoryCode": "D29",
+    "subcategory": "D29.9",
+    "inclusion": [
+        "morphology codes with behaviour code /0",
+        "skin of male genital organs"
+    ],
+    "exclusion": null,
+    "symptoms": [
+        "abnormal growth feeling or palpable mass",
+        "dull persistent pain",
+        "swelling",
+        "lower urinary tract symptoms",
+        "vaginal or rectal bleeding"
+    ]
+}

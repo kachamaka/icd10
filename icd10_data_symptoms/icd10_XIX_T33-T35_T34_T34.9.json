@@ -1,0 +1,35 @@
+{
+    "icd10code": "T34.9",
+    "type": "subcategory",
+    "title": "Frostbite with tissue necrosis of other and unspecified sites",
+    "chapter": "Injury, poisoning and certain other consequences of external causes",
+    "chapterCode": "XIX",
+    "block": "Frostbite",
+    "blockCode": "T33-T35",
+    "category": "Frostbite with tissue necrosis",
+    "categoryCode": "T34",
+    "subcategory": "T34.9",
+    "inclusion": [
+        "Frostbite with tissue necrosis (of): NOS",
+        "Frostbite with tissue necrosis (of): leg NOS",
+        "Frostbite with tissue necrosis (of): trunk NOS"
+    ],
+    "exclusion": [
+        "birth trauma",
+        "obstetric trauma",
+        "malunion of fracture",
+        "nonunion of fracture [pseudarthrosis]",
+        "pathological fracture",
+        "pathological fracture with osteoporosis",
+        "stress fracture",
+        "adverse effects of drugs and medicaments",
+        "frostbite with tissue necrosis involving multiple body regions"
+    ],
+    "symptoms": [
+        "frostbite",
+        "numbness",
+        "skin discoloration",
+        "swelling",
+        "blisters"
+    ]
+}

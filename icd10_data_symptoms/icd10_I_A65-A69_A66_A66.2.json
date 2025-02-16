@@ -1,0 +1,37 @@
+{
+    "icd10code": "A66.2",
+    "type": "subcategory",
+    "title": "Other early skin lesions of yaws",
+    "chapter": "Certain infectious and parasitic diseases",
+    "chapterCode": "I",
+    "block": "Other spirochaetal diseases",
+    "blockCode": "A65-A69",
+    "category": "Yaws",
+    "categoryCode": "A66",
+    "subcategory": "A66.2",
+    "inclusion": [
+        "diseases generally recognized as communicable or transmissible",
+        "bouba",
+        "framboesia (tropica)",
+        "pian",
+        "Cutaneous yaws, less than five years after infection",
+        "Early yaws (cutaneous) (macular) (maculopapular) (micropapular) (papular)",
+        "Framboeside of early yaws"
+    ],
+    "exclusion": [
+        "carrier or suspected carrier of infectious disease",
+        "certain localized infections - see body system-related chapters",
+        "infectious and parasitic diseases complicating pregnancy, childbirth and the puerperium [except obstetrical tetanus]",
+        "infectious and parasitic diseases specific to the perinatal period [except tetanus neonatorum, whooping cough, congenital syphilis, perinatal gonococcal infection and perinatal human immunodeficiency virus [HIV] disease]",
+        "influenza and other acute respiratory infections",
+        "erythrasma",
+        "endotoxic shock NOS"
+    ],
+    "symptoms": [
+        "skin ulcers",
+        "fever",
+        "swollen lymph nodes",
+        "sore throat",
+        "muscle pain"
+    ]
+}

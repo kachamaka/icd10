@@ -1,0 +1,20 @@
+{
+    "icd10code": "W64",
+    "type": "category",
+    "title": "Exposure to other and unspecified animate mechanical forces",
+    "chapter": "External causes of morbidity and mortality",
+    "chapterCode": "XX",
+    "block": "Exposure to animate mechanical forces",
+    "blockCode": "W50-W64",
+    "category": "Exposure to other and unspecified animate mechanical forces",
+    "categoryCode": "W64",
+    "subcategory": "",
+    "inclusion": null,
+    "exclusion": [
+        "bites, venomous",
+        "stings (venomous)"
+    ],
+    "symptoms": [
+        "asymptomatic"
+    ]
+}

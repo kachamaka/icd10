@@ -1,0 +1,33 @@
+{
+    "icd10code": "N93.8",
+    "type": "subcategory",
+    "title": "Other specified abnormal uterine and vaginal bleeding",
+    "chapter": "Diseases of the genitourinary system",
+    "chapterCode": "XIV",
+    "block": "Noninflammatory disorders of female genital tract",
+    "blockCode": "N80-N98",
+    "category": "Other abnormal uterine and vaginal bleeding",
+    "categoryCode": "N93",
+    "subcategory": "N93.8",
+    "inclusion": [
+        "Dysfunctional or functional uterine or vaginal bleeding NOS"
+    ],
+    "exclusion": [
+        "certain conditions originating in the perinatal period",
+        "certain infectious and parasitic diseases",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "neonatal vaginal haemorrhage",
+        "pseudomenses"
+    ],
+    "symptoms": [
+        "irregular menstruation",
+        "heavy menstrual bleeding",
+        "intermenstrual bleeding",
+        "postmenopausal bleeding"
+    ]
+}

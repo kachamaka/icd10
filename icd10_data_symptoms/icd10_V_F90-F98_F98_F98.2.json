@@ -1,0 +1,35 @@
+{
+    "icd10code": "F98.2",
+    "type": "subcategory",
+    "title": "Feeding disorder of infancy and childhood",
+    "chapter": "Mental and behavioural disorders",
+    "chapterCode": "V",
+    "block": "Behavioural and emotional disorders with onset usually occurring in childhood and adolescence",
+    "blockCode": "F90-F98",
+    "category": "Other behavioural and emotional disorders with onset usually occurring in childhood and adolescence",
+    "categoryCode": "F98",
+    "subcategory": "F98.2",
+    "inclusion": [
+        "disorders of psychological development",
+        "Rumination disorder of infancy"
+    ],
+    "exclusion": [
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "breath-holding spells",
+        "gender identity disorder of childhood",
+        "Kleine-Levin syndrome",
+        "obsessive-compulsive disorder",
+        "sleep disorders due to emotional causes",
+        "anorexia nervosa and other eating disorders",
+        "feeding: difficulties and mismanagement",
+        "feeding: problems of newborn",
+        "pica of infancy or childhood"
+    ],
+    "symptoms": [
+        "involuntary urination",
+        "bedwetting",
+        "frequent night-time urination",
+        "loss of bladder control",
+        "emotional distress"
+    ]
+}

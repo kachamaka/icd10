@@ -1,0 +1,16 @@
+{
+  "type": "subcategory",
+  "chapterCode": "II",
+  "chapter": "Neoplasms",
+  "blockCode": "D37-D48",
+  "block": "Neoplasms of uncertain or unknown behaviour",
+  "categoryCode": "D40",
+  "category": "Neoplasm of uncertain or unknown behaviour of male genital organs",
+  "subcategory": "D40.7",
+  "title": "Neoplasm of uncertain or unknown behaviour: Other male genital organs",
+  "inclusion": [
+    "Skin of male genital organs"
+  ],
+  "exclusion": null,
+  "children": null
+}

@@ -1,0 +1,32 @@
+{
+    "icd10code": "F60.2",
+    "type": "subcategory",
+    "title": "Dissocial personality disorder",
+    "chapter": "Mental and behavioural disorders",
+    "chapterCode": "V",
+    "block": "Disorders of adult personality and behaviour",
+    "blockCode": "F60-F69",
+    "category": "Specific personality disorders",
+    "categoryCode": "F60",
+    "subcategory": "F60.2",
+    "inclusion": [
+        "disorders of psychological development",
+        "Personality (disorder): amoral",
+        "Personality (disorder): antisocial",
+        "Personality (disorder): asocial",
+        "Personality (disorder): psychopathic",
+        "Personality (disorder): sociopathic"
+    ],
+    "exclusion": [
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "conduct disorders",
+        "emotionally unstable personality disorder"
+    ],
+    "symptoms": [
+        "unstable relationships",
+        "intense emotions",
+        "impulsivity",
+        "identity disturbance",
+        "fear of abandonment"
+    ]
+}

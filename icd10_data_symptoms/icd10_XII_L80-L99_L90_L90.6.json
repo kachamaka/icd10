@@ -1,0 +1,32 @@
+{
+    "icd10code": "L90.6",
+    "type": "subcategory",
+    "title": "Striae atrophicae",
+    "chapter": "Diseases of the skin and subcutaneous tissue",
+    "chapterCode": "XII",
+    "block": "Other disorders of the skin and subcutaneous tissue",
+    "blockCode": "L80-L99",
+    "category": "Atrophic disorders of skin",
+    "categoryCode": "L90",
+    "subcategory": "L90.6",
+    "inclusion": null,
+    "exclusion": [
+        "certain conditions originating in the perinatal period",
+        "certain infectious and parasitic diseases",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "lipomelanotic reticulosis",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "systemic connective tissue disorders"
+    ],
+    "symptoms": [
+        "skin thinning",
+        "fragile skin",
+        "skin tears",
+        "easy bruising",
+        "increased prominence of veins"
+    ]
+}

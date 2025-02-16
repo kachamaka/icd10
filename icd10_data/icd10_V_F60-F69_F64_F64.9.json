@@ -1,0 +1,19 @@
+{
+  "type": "subcategory",
+  "chapterCode": "V",
+  "chapter": "Mental and behavioural disorders",
+  "blockCode": "F60-F69",
+  "block": "Disorders of adult personality and behaviour",
+  "categoryCode": "F64",
+  "category": "Gender identity disorders",
+  "subcategory": "F64.9",
+  "title": "Gender identity disorder, unspecified",
+  "inclusion": [
+    "disorders of psychological development",
+    "Gender-role disorder NOS"
+  ],
+  "exclusion": [
+    "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified"
+  ],
+  "children": null
+}

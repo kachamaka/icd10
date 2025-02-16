@@ -1,0 +1,23 @@
+{
+    "icd10code": "W43",
+    "type": "category",
+    "title": "Exposure to vibration",
+    "chapter": "External causes of morbidity and mortality",
+    "chapterCode": "XX",
+    "block": "Exposure to inanimate mechanical forces",
+    "blockCode": "W20-W49",
+    "category": "Exposure to vibration",
+    "categoryCode": "W43",
+    "subcategory": "",
+    "inclusion": [
+        "infrasound waves"
+    ],
+    "exclusion": [
+        "assault",
+        "contact or collision with animals or persons",
+        "intentional self-harm"
+    ],
+    "symptoms": [
+        "asymptomatic"
+    ]
+}

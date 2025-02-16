@@ -1,0 +1,27 @@
+{
+    "icd10code": "F79",
+    "type": "modifiedcategory",
+    "title": "Unspecified mental retardation with the statement of no, or minimal, impairment of behaviour",
+    "chapter": "Mental and behavioural disorders",
+    "chapterCode": "V",
+    "block": "Mental retardation",
+    "blockCode": "F70-F79",
+    "category": "Unspecified mental retardation",
+    "categoryCode": "F79",
+    "subcategory": "",
+    "inclusion": [
+        "disorders of psychological development",
+        "mental: deficiency NOS",
+        "mental: subnormality NOS"
+    ],
+    "exclusion": [
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified"
+    ],
+    "symptoms": [
+        "impaired intellectual functioning",
+        "delayed development",
+        "difficulties with problem-solving",
+        "challenges in learning",
+        "reduced social skills"
+    ]
+}

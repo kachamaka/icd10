@@ -1,0 +1,25 @@
+{
+    "icd10code": "Q73.1",
+    "type": "subcategory",
+    "title": "Phocomelia, unspecified limb(s)",
+    "chapter": "Congenital malformations, deformations and chromosomal abnormalities",
+    "chapterCode": "XVII",
+    "block": "Congenital malformations and deformations of the musculoskeletal system",
+    "blockCode": "Q65-Q79",
+    "category": "Reduction defects of unspecified limb",
+    "categoryCode": "Q73",
+    "subcategory": "Q73.1",
+    "inclusion": [
+        "Phocomelia NOS"
+    ],
+    "exclusion": [
+        "inborn errors of metabolism"
+    ],
+    "symptoms": [
+        "limb agenesis",
+        "limb hypoplasia",
+        "congenital limb deficiency",
+        "absent hand",
+        "absent foot"
+    ]
+}

@@ -1,0 +1,20 @@
+{
+  "type": "subcategory",
+  "chapterCode": "V",
+  "chapter": "Mental and behavioural disorders",
+  "blockCode": "F00-F09",
+  "block": "Organic, including symptomatic, mental disorders",
+  "categoryCode": "F02",
+  "category": "Dementia in other diseases classified elsewhere",
+  "subcategory": "F02.3",
+  "title": "Dementia in Parkinson disease",
+  "inclusion": [
+    "disorders of psychological development",
+    "Dementia in: paralysis agitans",
+    "Dementia in: parkinsonism"
+  ],
+  "exclusion": [
+    "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified"
+  ],
+  "children": null
+}

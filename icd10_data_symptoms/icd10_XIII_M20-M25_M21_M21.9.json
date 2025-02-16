@@ -1,0 +1,40 @@
+{
+    "icd10code": "M21.9",
+    "type": "subcategory",
+    "title": "Acquired deformity of limb, unspecified",
+    "chapter": "Diseases of the musculoskeletal system and connective tissue",
+    "chapterCode": "XIII",
+    "block": "Other joint disorders",
+    "blockCode": "M20-M25",
+    "category": "Other acquired deformities of limbs",
+    "categoryCode": "M21",
+    "subcategory": "M21.9",
+    "inclusion": [
+        "Disorders affecting predominantly peripheral (limb) joints"
+    ],
+    "exclusion": [
+        "certain conditions originating in the perinatal period",
+        "certain disorders of the temporomandibular joint",
+        "certain infectious and parasitic diseases",
+        "compartment syndrome",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "polyarthritis NOS",
+        "viral arthropathies",
+        "adult-onset Still disease",
+        "post-traumatic arthrosis (of): NOS",
+        "clubbing of fingers",
+        "palmar fascial fibromatosis [Dupuytren]"
+    ],
+    "symptoms": [
+        "joint pain",
+        "joint swelling",
+        "restricted movement",
+        "joint stiffness",
+        "abnormal gait"
+    ]
+}

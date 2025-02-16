@@ -1,0 +1,31 @@
+{
+    "icd10code": "T91.4",
+    "type": "subcategory",
+    "title": "Sequelae of injury of intrathoracic organs",
+    "chapter": "Injury, poisoning and certain other consequences of external causes",
+    "chapterCode": "XIX",
+    "block": "Sequelae of injuries, of poisoning and of other consequences of external causes",
+    "blockCode": "T90-T98",
+    "category": "Sequelae of injuries of neck and trunk",
+    "categoryCode": "T91",
+    "subcategory": "T91.4",
+    "inclusion": [
+        "Sequelae of injury classifiable to S26-S27"
+    ],
+    "exclusion": [
+        "birth trauma",
+        "obstetric trauma",
+        "malunion of fracture",
+        "nonunion of fracture [pseudarthrosis]",
+        "pathological fracture",
+        "pathological fracture with osteoporosis",
+        "stress fracture"
+    ],
+    "symptoms": [
+        "scarring",
+        "pain at injury site",
+        "limited mobility",
+        "tenderness",
+        "skin discoloration"
+    ]
+}

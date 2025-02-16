@@ -1,0 +1,31 @@
+{
+    "icd10code": "K92.9",
+    "type": "subcategory",
+    "title": "Disease of digestive system, unspecified",
+    "chapter": "Diseases of the digestive system",
+    "chapterCode": "XI",
+    "block": "Other diseases of the digestive system",
+    "blockCode": "K90-K93",
+    "category": "Other diseases of digestive system",
+    "categoryCode": "K92",
+    "subcategory": "K92.9",
+    "inclusion": null,
+    "exclusion": [
+        "certain conditions originating in the perinatal period",
+        "certain infectious and parasitic diseases",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "neonatal gastrointestinal haemorrhage"
+    ],
+    "symptoms": [
+        "abdominal pain",
+        "nausea",
+        "vomiting",
+        "blood in stool",
+        "unintentional weight loss"
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "icd10code": "D33.4",
+    "type": "subcategory",
+    "title": "Benign neoplasm: Spinal cord",
+    "chapter": "Neoplasms",
+    "chapterCode": "II",
+    "block": "Benign neoplasms",
+    "blockCode": "D10-D36",
+    "category": "Benign neoplasm of brain and other parts of central nervous system",
+    "categoryCode": "D33",
+    "subcategory": "D33.4",
+    "inclusion": [
+        "morphology codes with behaviour code /0"
+    ],
+    "exclusion": [
+        "angioma",
+        "meninges",
+        "peripheral nerves and autonomic nervous system",
+        "retro-ocular tissue"
+    ],
+    "symptoms": [
+        "headache",
+        "nausea",
+        "seizures",
+        "visual disturbances",
+        "cognitive changes"
+    ]
+}

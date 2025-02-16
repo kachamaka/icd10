@@ -1,0 +1,36 @@
+{
+    "icd10code": "H91.0",
+    "type": "subcategory",
+    "title": "Ototoxic hearing loss",
+    "chapter": "Diseases of the ear and mastoid process",
+    "chapterCode": "VIII",
+    "block": "Other disorders of ear",
+    "blockCode": "H90-H95",
+    "category": "Other hearing loss",
+    "categoryCode": "H91",
+    "subcategory": "H91.0",
+    "inclusion": null,
+    "exclusion": [
+        "certain conditions originating in the perinatal period",
+        "certain infectious and parasitic diseases",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "abnormal auditory perception",
+        "hearing loss as classified in H90.-",
+        "impacted cerumen",
+        "noise-induced hearing loss",
+        "psychogenic deafness",
+        "transient ischaemic deafness"
+    ],
+    "symptoms": [
+        "hearing loss",
+        "tinnitus",
+        "dizziness",
+        "balance issues",
+        "difficulty understanding speech"
+    ]
+}

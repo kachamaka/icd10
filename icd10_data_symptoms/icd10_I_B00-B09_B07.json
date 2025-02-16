@@ -1,0 +1,35 @@
+{
+    "icd10code": "B07",
+    "type": "category",
+    "title": "Viral warts",
+    "chapter": "Certain infectious and parasitic diseases",
+    "chapterCode": "I",
+    "block": "Viral infections characterized by skin and mucous membrane lesions",
+    "blockCode": "B00-B09",
+    "category": "Viral warts",
+    "categoryCode": "B07",
+    "subcategory": "",
+    "inclusion": [
+        "diseases generally recognized as communicable or transmissible",
+        "Verruca: simplex",
+        "Verruca: vulgaris"
+    ],
+    "exclusion": [
+        "carrier or suspected carrier of infectious disease",
+        "certain localized infections - see body system-related chapters",
+        "infectious and parasitic diseases complicating pregnancy, childbirth and the puerperium [except obstetrical tetanus]",
+        "infectious and parasitic diseases specific to the perinatal period [except tetanus neonatorum, whooping cough, congenital syphilis, perinatal gonococcal infection and perinatal human immunodeficiency virus [HIV] disease]",
+        "influenza and other acute respiratory infections",
+        "anogenital (venereal) warts",
+        "papilloma of: bladder",
+        "papilloma of: cervix",
+        "papilloma of: larynx"
+    ],
+    "symptoms": [
+        "raised bumps",
+        "rough skin texture",
+        "painless",
+        "flesh-colored",
+        "cauliflower appearance"
+    ]
+}

@@ -1,0 +1,24 @@
+{
+    "icd10code": "C40.2",
+    "type": "subcategory",
+    "title": "Malignant neoplasm: Long bones of lower limb",
+    "chapter": "Neoplasms",
+    "chapterCode": "II",
+    "block": "Malignant neoplasms of bone and articular cartilage",
+    "blockCode": "C40-C41",
+    "category": "Malignant neoplasm of bone and articular cartilage of limbs",
+    "categoryCode": "C40",
+    "subcategory": "C40.2",
+    "inclusion": null,
+    "exclusion": [
+        "bone marrow NOS",
+        "synovia"
+    ],
+    "symptoms": [
+        "bone pain",
+        "swelling or tenderness in the affected area",
+        "unexplained weight loss",
+        "fatigue",
+        "noticeable lump or mass"
+    ]
+}

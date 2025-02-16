@@ -1,0 +1,24 @@
+{
+    "icd10code": "Z93.2",
+    "type": "subcategory",
+    "title": "Ileostomy status",
+    "chapter": "Factors influencing health status and contact with health services",
+    "chapterCode": "XXI",
+    "block": "Persons with potential health hazards related to family and personal history and certain conditions influencing health status",
+    "blockCode": "Z80-Z99",
+    "category": "Artificial opening status",
+    "categoryCode": "Z93",
+    "subcategory": "Z93.2",
+    "inclusion": null,
+    "exclusion": [
+        "follow-up examination",
+        "follow-up medical care and convalescence",
+        "when family or personal history is the reason for special screening or other examination or investigation",
+        "when the possibility that the fetus might be affected is the reason for observation or action during pregnancy",
+        "artificial openings requiring attention or management",
+        "complications of external stoma"
+    ],
+    "symptoms": [
+        "asymptomatic"
+    ]
+}

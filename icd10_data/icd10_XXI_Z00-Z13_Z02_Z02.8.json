@@ -1,0 +1,24 @@
+{
+  "type": "subcategory",
+  "chapterCode": "XXI",
+  "chapter": "Factors influencing health status and contact with health services",
+  "blockCode": "Z00-Z13",
+  "block": "Persons encountering health services for examination and investigation",
+  "categoryCode": "Z02",
+  "category": "Examination and encounter for administrative purposes",
+  "subcategory": "Z02.8",
+  "title": "Other examinations for administrative purposes",
+  "inclusion": [
+    "Examination (for): admission to: prison",
+    "Examination (for): admission to: summer camp",
+    "Examination (for): adoption",
+    "Examination (for): immigration",
+    "Examination (for): naturalization",
+    "Examination (for): premarital"
+  ],
+  "exclusion": [
+    "examinations related to pregnancy and reproduction",
+    "health supervision of foundling or other healthy infant or child"
+  ],
+  "children": null
+}

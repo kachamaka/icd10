@@ -1,0 +1,49 @@
+{
+    "icd10code": "D21.5",
+    "type": "subcategory",
+    "title": "Benign neoplasm: Connective and other soft tissue of pelvis",
+    "chapter": "Neoplasms",
+    "chapterCode": "II",
+    "block": "Benign neoplasms",
+    "blockCode": "D10-D36",
+    "category": "Other benign neoplasms of connective and other soft tissue",
+    "categoryCode": "D21",
+    "subcategory": "D21.5",
+    "inclusion": [
+        "morphology codes with behaviour code /0",
+        "blood vessel",
+        "bursa",
+        "cartilage",
+        "fascia",
+        "fat",
+        "ligament, except uterine",
+        "lymphatic channel",
+        "muscle",
+        "synovia",
+        "tendon (sheath)"
+    ],
+    "exclusion": [
+        "cartilage: articular",
+        "cartilage: larynx",
+        "cartilage: nose",
+        "connective tissue of breast",
+        "haemangioma",
+        "lipomatous neoplasm",
+        "lymphangioma",
+        "peripheral nerves and autonomic nervous system",
+        "peritoneum",
+        "retroperitoneum",
+        "uterine: leiomyoma",
+        "uterine: ligament, any",
+        "vascular tissue",
+        "uterine: leiomyoma",
+        "uterine: ligament, any"
+    ],
+    "symptoms": [
+        "pain in the connective tissue",
+        "a palpable mass in the connective tissue",
+        "local swelling",
+        "skin discoloration",
+        "limited movement in nearby"
+    ]
+}

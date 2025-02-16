@@ -1,0 +1,34 @@
+{
+    "icd10code": "W16",
+    "type": "category",
+    "title": "Diving or jumping into water causing injury other than drowning or submersion",
+    "chapter": "External causes of morbidity and mortality",
+    "chapterCode": "XX",
+    "block": "Falls",
+    "blockCode": "W00-W19",
+    "category": "Diving or jumping into water causing injury other than drowning or submersion",
+    "categoryCode": "W16",
+    "subcategory": "",
+    "inclusion": [
+        "striking or hitting: against bottom when jumping or diving into shallow water",
+        "striking or hitting: wall or diving board of swimming-pool",
+        "striking or hitting: water surface"
+    ],
+    "exclusion": [
+        "assault",
+        "fall (in)(from): animal",
+        "fall (in)(from): burning building",
+        "fall (in)(from): into fire",
+        "fall (in)(from): into water (with drowning or submersion)",
+        "fall (in)(from): machinery (in operation)",
+        "fall (in)(from): repeated falls not resulting from accident",
+        "fall (in)(from): transport vehicle",
+        "intentional self-harm",
+        "accidental drowning and submersion",
+        "diving with insufficient air supply",
+        "effects of air pressure from diving"
+    ],
+    "symptoms": [
+        "asymptomatic"
+    ]
+}

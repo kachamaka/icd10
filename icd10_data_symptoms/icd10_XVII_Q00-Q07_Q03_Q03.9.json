@@ -1,0 +1,30 @@
+{
+    "icd10code": "Q03.9",
+    "type": "subcategory",
+    "title": "Congenital hydrocephalus, unspecified",
+    "chapter": "Congenital malformations, deformations and chromosomal abnormalities",
+    "chapterCode": "XVII",
+    "block": "Congenital malformations of the nervous system",
+    "blockCode": "Q00-Q07",
+    "category": "Congenital hydrocephalus",
+    "categoryCode": "Q03",
+    "subcategory": "Q03.9",
+    "inclusion": [
+        "hydrocephalus in newborn"
+    ],
+    "exclusion": [
+        "inborn errors of metabolism",
+        "Arnold-Chiari syndrome",
+        "hydrocephalus: acquired NOS",
+        "hydrocephalus: acquired, of newborn",
+        "hydrocephalus: due to congenital toxoplasmosis",
+        "hydrocephalus: with spina bifida"
+    ],
+    "symptoms": [
+        "head enlargement",
+        "vomiting",
+        "headaches",
+        "poor appetite",
+        "developmental delays"
+    ]
+}

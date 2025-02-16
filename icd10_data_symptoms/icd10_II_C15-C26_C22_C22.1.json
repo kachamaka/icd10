@@ -1,0 +1,26 @@
+{
+    "icd10code": "C22.1",
+    "type": "subcategory",
+    "title": "Malignant neoplasm: Intrahepatic bile duct carcinoma",
+    "chapter": "Neoplasms",
+    "chapterCode": "II",
+    "block": "Malignant neoplasms of digestive organs",
+    "blockCode": "C15-C26",
+    "category": "Malignant neoplasm of liver and intrahepatic bile ducts",
+    "categoryCode": "C22",
+    "subcategory": "C22.1",
+    "inclusion": [
+        "Cholangiocarcinoma"
+    ],
+    "exclusion": [
+        "biliary tract NOS",
+        "secondary malignant neoplasm of liver"
+    ],
+    "symptoms": [
+        "abdominal pain",
+        "jaundice",
+        "loss of appetite",
+        "unintentional weight loss",
+        "feeling of fullness"
+    ]
+}

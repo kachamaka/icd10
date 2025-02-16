@@ -1,0 +1,23 @@
+{
+    "icd10code": "C57.4",
+    "type": "subcategory",
+    "title": "Malignant neoplasm: Uterine adnexa, unspecified",
+    "chapter": "Neoplasms",
+    "chapterCode": "II",
+    "block": "Malignant neoplasms of female genital organs",
+    "blockCode": "C51-C58",
+    "category": "Malignant neoplasm of other and unspecified female genital organs",
+    "categoryCode": "C57",
+    "subcategory": "C57.4",
+    "inclusion": [
+        "skin of female genital organs"
+    ],
+    "exclusion": null,
+    "symptoms": [
+        "pelvic pain",
+        "irregular vaginal bleeding",
+        "vaginal discomfort",
+        "swelling or lump in the pelvic area",
+        "weight loss"
+    ]
+}

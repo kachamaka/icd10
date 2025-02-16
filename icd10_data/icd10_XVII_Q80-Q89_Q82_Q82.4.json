@@ -1,0 +1,21 @@
+{
+  "type": "subcategory",
+  "chapterCode": "XVII",
+  "chapter": "Congenital malformations, deformations and chromosomal abnormalities",
+  "blockCode": "Q80-Q89",
+  "block": "Other congenital malformations",
+  "categoryCode": "Q82",
+  "category": "Other congenital malformations of skin",
+  "subcategory": "Q82.4",
+  "title": "Ectodermal dysplasia (anhidrotic)",
+  "inclusion": null,
+  "exclusion": [
+    "inborn errors of metabolism",
+    "acrodermatitis enteropathica",
+    "congenital erythropoietic porphyria",
+    "pilonidal cyst or sinus",
+    "Sturge-Weber(-Dimitri) syndrome",
+    "Ellis-van Creveld syndrome"
+  ],
+  "children": null
+}

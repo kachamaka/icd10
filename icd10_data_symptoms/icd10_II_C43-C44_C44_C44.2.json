@@ -1,0 +1,29 @@
+{
+    "icd10code": "C44.2",
+    "type": "subcategory",
+    "title": "Malignant neoplasm: Skin of ear and external auricular canal",
+    "chapter": "Neoplasms",
+    "chapterCode": "II",
+    "block": "Melanoma and other malignant neoplasms of skin",
+    "blockCode": "C43-C44",
+    "category": "Other malignant neoplasms of skin",
+    "categoryCode": "C44",
+    "subcategory": "C44.2",
+    "inclusion": [
+        "malignant neoplasm of: sebaceous glands",
+        "malignant neoplasm of: sweat glands"
+    ],
+    "exclusion": [
+        "Kaposi sarcoma",
+        "malignant melanoma of skin",
+        "skin of genital organs",
+        "connective tissue of ear"
+    ],
+    "symptoms": [
+        "skin discoloration",
+        "skin lesion or growth",
+        "itching",
+        "bleeding",
+        "pain on the affected area"
+    ]
+}

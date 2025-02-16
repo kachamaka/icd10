@@ -1,0 +1,27 @@
+{
+    "icd10code": "F51.9",
+    "type": "subcategory",
+    "title": "Nonorganic sleep disorder, unspecified",
+    "chapter": "Mental and behavioural disorders",
+    "chapterCode": "V",
+    "block": "Behavioural syndromes associated with physiological disturbances and physical factors",
+    "blockCode": "F50-F59",
+    "category": "Nonorganic sleep disorders",
+    "categoryCode": "F51",
+    "subcategory": "F51.9",
+    "inclusion": [
+        "disorders of psychological development",
+        "Emotional sleep disorder NOS"
+    ],
+    "exclusion": [
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "sleep disorders (organic)"
+    ],
+    "symptoms": [
+        "difficulty falling asleep",
+        "staying asleep",
+        "early waking",
+        "non-restorative sleep",
+        "daytime fatigue"
+    ]
+}

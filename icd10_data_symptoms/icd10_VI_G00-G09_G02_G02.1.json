@@ -1,0 +1,35 @@
+{
+    "icd10code": "G02.1",
+    "type": "subcategory",
+    "title": "Meningitis in mycoses",
+    "chapter": "Diseases of the nervous system",
+    "chapterCode": "VI",
+    "block": "Inflammatory diseases of the central nervous system",
+    "blockCode": "G00-G09",
+    "category": "Meningitis in other infectious and parasitic diseases classified elsewhere",
+    "categoryCode": "G02",
+    "subcategory": "G02.1",
+    "inclusion": [
+        "Meningitis (in): candidal",
+        "Meningitis (in): coccidioidomycosis",
+        "Meningitis (in): cryptococcal"
+    ],
+    "exclusion": [
+        "certain conditions originating in the perinatal period",
+        "certain infectious and parasitic diseases",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "meningoencephalitis and meningomyelitis in other infectious and parasitic diseases classified elsewhere"
+    ],
+    "symptoms": [
+        "headache",
+        "fever",
+        "neck stiffness",
+        "nausea",
+        "confusion"
+    ]
+}

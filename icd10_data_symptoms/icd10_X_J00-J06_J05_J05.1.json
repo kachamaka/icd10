@@ -1,0 +1,33 @@
+{
+    "icd10code": "J05.1",
+    "type": "subcategory",
+    "title": "Acute epiglottitis",
+    "chapter": "Diseases of the respiratory system",
+    "chapterCode": "X",
+    "block": "Acute upper respiratory infections",
+    "blockCode": "J00-J06",
+    "category": "Acute obstructive laryngitis [croup] and epiglottitis",
+    "categoryCode": "J05",
+    "subcategory": "J05.1",
+    "inclusion": [
+        "Epiglottitis NOS"
+    ],
+    "exclusion": [
+        "certain conditions originating in the perinatal period",
+        "certain infectious and parasitic diseases",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "chronic obstructive pulmonary disease with acute exacerbation NOS"
+    ],
+    "symptoms": [
+        "stridor",
+        "hoarseness",
+        "fever",
+        "cough",
+        "respiratory distress"
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "icd10code": "T75.4",
+    "type": "subcategory",
+    "title": "Effects of electric current",
+    "chapter": "Injury, poisoning and certain other consequences of external causes",
+    "chapterCode": "XIX",
+    "block": "Other and unspecified effects of external causes",
+    "blockCode": "T66-T78",
+    "category": "Effects of other external causes",
+    "categoryCode": "T75",
+    "subcategory": "T75.4",
+    "inclusion": [
+        "Electrocution",
+        "Shock from electric current"
+    ],
+    "exclusion": [
+        "birth trauma",
+        "obstetric trauma",
+        "malunion of fracture",
+        "nonunion of fracture [pseudarthrosis]",
+        "pathological fracture",
+        "pathological fracture with osteoporosis",
+        "stress fracture",
+        "adverse effects NEC",
+        "burns (electric)"
+    ],
+    "symptoms": [
+        "dizziness",
+        "headache",
+        "nausea",
+        "fatigue",
+        "confusion"
+    ]
+}

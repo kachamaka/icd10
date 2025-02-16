@@ -1,0 +1,31 @@
+{
+  "type": "subcategory",
+  "chapterCode": "XI",
+  "chapter": "Diseases of the digestive system",
+  "blockCode": "K55-K64",
+  "block": "Other diseases of intestines",
+  "categoryCode": "K57",
+  "category": "Diverticular disease of intestine",
+  "subcategory": "K57.5",
+  "title": "Diverticular disease of both small and large intestine without perforation or abscess",
+  "inclusion": [
+    "diverticulitis of (small)(large) intestine",
+    "diverticulosis of (small)(large) intestine",
+    "diverticulum of (small)(large) intestine",
+    "Diverticular disease of both small and large intestine NOS"
+  ],
+  "exclusion": [
+    "certain conditions originating in the perinatal period",
+    "certain infectious and parasitic diseases",
+    "complications of pregnancy, childbirth and the puerperium",
+    "congenital malformations, deformations and chromosomal abnormalities",
+    "endocrine, nutritional and metabolic diseases",
+    "injury, poisoning and certain other consequences of external causes",
+    "neoplasms",
+    "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+    "congenital diverticulum of intestine",
+    "diverticulum of appendix",
+    "Meckel diverticulum"
+  ],
+  "children": null
+}

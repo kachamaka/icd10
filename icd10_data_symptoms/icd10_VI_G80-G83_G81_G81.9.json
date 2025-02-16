@@ -1,0 +1,31 @@
+{
+    "icd10code": "G81.9",
+    "type": "subcategory",
+    "title": "Hemiplegia, unspecified",
+    "chapter": "Diseases of the nervous system",
+    "chapterCode": "VI",
+    "block": "Cerebral palsy and other paralytic syndromes",
+    "blockCode": "G80-G83",
+    "category": "Hemiplegia",
+    "categoryCode": "G81",
+    "subcategory": "G81.9",
+    "inclusion": null,
+    "exclusion": [
+        "certain conditions originating in the perinatal period",
+        "certain infectious and parasitic diseases",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "congenital cerebral palsy"
+    ],
+    "symptoms": [
+        "weakness",
+        "loss of muscle control",
+        "inability to move",
+        "paralysis in one limb",
+        "loss of coordination"
+    ]
+}

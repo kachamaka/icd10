@@ -1,0 +1,18 @@
+{
+  "type": "subcategory",
+  "chapterCode": "II",
+  "chapter": "Neoplasms",
+  "blockCode": "D10-D36",
+  "block": "Benign neoplasms",
+  "categoryCode": "D30",
+  "category": "Benign neoplasm of urinary organs",
+  "subcategory": "D30.3",
+  "title": "Benign neoplasm: Bladder",
+  "inclusion": [
+    "morphology codes with behaviour code /0",
+    "Orifice of bladder: urethral",
+    "Orifice of bladder: ureteric"
+  ],
+  "exclusion": null,
+  "children": null
+}

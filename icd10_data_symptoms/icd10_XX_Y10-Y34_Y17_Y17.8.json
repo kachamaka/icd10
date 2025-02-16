@@ -1,0 +1,26 @@
+{
+    "icd10code": "Y17.8",
+    "type": "subcategory",
+    "title": "Poisoning by and exposure to other specified gases and vapours, undetermined intent",
+    "chapter": "External causes of morbidity and mortality",
+    "chapterCode": "XX",
+    "block": "Event of undetermined intent",
+    "blockCode": "Y10-Y34",
+    "category": "Poisoning by and exposure to carbon monoxide and other gases and vapours, undetermined intent",
+    "categoryCode": "Y17",
+    "subcategory": "Y17.8",
+    "inclusion": [
+        "Helium (nonmedicinal) NEC",
+        "Lacrimogenic gas [tear gas]",
+        "Nitrogen oxides",
+        "Sulfur dioxide"
+    ],
+    "exclusion": [
+        "carbon monoxide from smoke, fire and flames, undetermined intent",
+        "metal fumes and vapours",
+        "helium, medicinal"
+    ],
+    "symptoms": [
+        "asymptomatic"
+    ]
+}

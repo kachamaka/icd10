@@ -1,0 +1,34 @@
+{
+    "icd10code": "G02.8",
+    "type": "subcategory",
+    "title": "Meningitis in other specified infectious and parasitic diseases classified elsewhere",
+    "chapter": "Diseases of the nervous system",
+    "chapterCode": "VI",
+    "block": "Inflammatory diseases of the central nervous system",
+    "blockCode": "G00-G09",
+    "category": "Meningitis in other infectious and parasitic diseases classified elsewhere",
+    "categoryCode": "G02",
+    "subcategory": "G02.8",
+    "inclusion": [
+        "Meningitis due to: African trypanosomiasis",
+        "Meningitis due to: Chagas disease (chronic)"
+    ],
+    "exclusion": [
+        "certain conditions originating in the perinatal period",
+        "certain infectious and parasitic diseases",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "meningoencephalitis and meningomyelitis in other infectious and parasitic diseases classified elsewhere"
+    ],
+    "symptoms": [
+        "headache",
+        "fever",
+        "neck stiffness",
+        "nausea",
+        "altered mental status"
+    ]
+}

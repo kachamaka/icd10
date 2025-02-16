@@ -1,0 +1,42 @@
+{
+    "icd10code": "E83.3",
+    "type": "subcategory",
+    "title": "Disorders of phosphorus metabolism and phosphatases",
+    "chapter": "Endocrine, nutritional and metabolic diseases",
+    "chapterCode": "IV",
+    "block": "Metabolic disorders",
+    "blockCode": "E70-E90",
+    "category": "Disorders of mineral metabolism",
+    "categoryCode": "E83",
+    "subcategory": "E83.3",
+    "inclusion": [
+        "Acid phosphatase deficiency",
+        "Familial hypophosphataemia",
+        "Hypophosphatasia",
+        "Vitamin-D-resistant: osteomalacia",
+        "Vitamin-D-resistant: rickets"
+    ],
+    "exclusion": [
+        "complications of pregnancy, childbirth and the puerperium",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "transitory endocrine and metabolic disorders specific to fetus and newborn",
+        "androgen resistance syndrome",
+        "congenital adrenal hyperplasia",
+        "Ehlers-Danlos syndrome",
+        "haemolytic anaemias due to enzyme disorders",
+        "Marfan syndrome",
+        "5-alpha-reductase deficiency",
+        "Schilder disease",
+        "hypovolaemic shock: NOS",
+        "adrenoleukodystrophy [Addison-Schilder]",
+        "adult osteomalacia",
+        "osteoporosis"
+    ],
+    "symptoms": [
+        "fatigue",
+        "joint pain",
+        "skin hyperpigmentation",
+        "decreased libido",
+        "erectile dysfunction"
+    ]
+}

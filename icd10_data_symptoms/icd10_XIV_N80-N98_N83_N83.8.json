@@ -1,0 +1,33 @@
+{
+    "icd10code": "N83.8",
+    "type": "subcategory",
+    "title": "Other noninflammatory disorders of ovary, fallopian tube and broad ligament",
+    "chapter": "Diseases of the genitourinary system",
+    "chapterCode": "XIV",
+    "block": "Noninflammatory disorders of female genital tract",
+    "blockCode": "N80-N98",
+    "category": "Noninflammatory disorders of ovary, fallopian tube and broad ligament",
+    "categoryCode": "N83",
+    "subcategory": "N83.8",
+    "inclusion": [
+        "Broad ligament laceration syndrome [Allen-Masters]"
+    ],
+    "exclusion": [
+        "certain conditions originating in the perinatal period",
+        "certain infectious and parasitic diseases",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "hydrosalpinx"
+    ],
+    "symptoms": [
+        "pelvic pain",
+        "irregular menstrual cycles",
+        "abdominal bloating",
+        "discomfort during intercourse",
+        "lower back pain"
+    ]
+}

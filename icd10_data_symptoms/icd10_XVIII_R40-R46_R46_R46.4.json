@@ -1,0 +1,26 @@
+{
+    "icd10code": "R46.4",
+    "type": "subcategory",
+    "title": "Slowness and poor responsiveness",
+    "chapter": "Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+    "chapterCode": "XVIII",
+    "block": "Symptoms and signs involving cognition, perception, emotional state and behaviour",
+    "blockCode": "R40-R46",
+    "category": "Symptoms and signs involving appearance and behaviour",
+    "categoryCode": "R46",
+    "subcategory": "R46.4",
+    "inclusion": null,
+    "exclusion": [
+        "abnormal findings on antenatal screening of mother",
+        "certain conditions originating in the perinatal period",
+        "those constituting part of a pattern of mental disorder",
+        "stupor"
+    ],
+    "symptoms": [
+        "irritability",
+        "anger outbursts",
+        "mood swings",
+        "impulsivity",
+        "frustration"
+    ]
+}

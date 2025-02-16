@@ -1,0 +1,22 @@
+{
+    "icd10code": "Z72.2",
+    "type": "subcategory",
+    "title": "Drug use",
+    "chapter": "Factors influencing health status and contact with health services",
+    "chapterCode": "XXI",
+    "block": "Persons encountering health services in other circumstances",
+    "blockCode": "Z70-Z76",
+    "category": "Problems related to lifestyle",
+    "categoryCode": "Z72",
+    "subcategory": "Z72.2",
+    "inclusion": null,
+    "exclusion": [
+        "problems related to: life-management difficulty",
+        "problems related to: socioeconomic and psychosocial circumstances",
+        "abuse of non-dependence-producing substances",
+        "drug dependence"
+    ],
+    "symptoms": [
+        "asymptomatic"
+    ]
+}

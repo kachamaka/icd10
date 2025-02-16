@@ -1,0 +1,38 @@
+{
+    "icd10code": "G95.8",
+    "type": "subcategory",
+    "title": "Other specified diseases of spinal cord",
+    "chapter": "Diseases of the nervous system",
+    "chapterCode": "VI",
+    "block": "Other disorders of the nervous system",
+    "blockCode": "G90-G99",
+    "category": "Other diseases of spinal cord",
+    "categoryCode": "G95",
+    "subcategory": "G95.8",
+    "inclusion": [
+        "Cord bladder NOS",
+        "Myelopathy: drug-induced",
+        "Myelopathy: radiation-induced"
+    ],
+    "exclusion": [
+        "certain conditions originating in the perinatal period",
+        "certain infectious and parasitic diseases",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "myelitis",
+        "neurogenic bladder: NOS",
+        "neurogenic bladder: due to cauda equina syndrome",
+        "neuromuscular dysfunction of bladder without mention of spinal cord lesion"
+    ],
+    "symptoms": [
+        "numbness",
+        "tingling",
+        "muscle weakness",
+        "balance issues",
+        "bladder dysfunction"
+    ]
+}

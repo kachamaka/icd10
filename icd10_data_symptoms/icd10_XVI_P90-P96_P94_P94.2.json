@@ -1,0 +1,31 @@
+{
+    "icd10code": "P94.2",
+    "type": "subcategory",
+    "title": "Congenital hypotonia",
+    "chapter": "Certain conditions originating in the perinatal period",
+    "chapterCode": "XVI",
+    "block": "Other disorders originating in the perinatal period",
+    "blockCode": "P90-P96",
+    "category": "Disorders of muscle tone of newborn",
+    "categoryCode": "P94",
+    "subcategory": "P94.2",
+    "inclusion": [
+        "conditions that have their origin in the perinatal period even though death or morbidity occurs later",
+        "Nonspecific floppy baby syndrome"
+    ],
+    "exclusion": [
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "tetanus neonatorum",
+        "whooping cough"
+    ],
+    "symptoms": [
+        "lethargy",
+        "hypotonia",
+        "weak sucking reflex",
+        "poor feeding",
+        "delayed developmental milestones"
+    ]
+}

@@ -1,0 +1,28 @@
+{
+  "type": "modifiedcategory",
+  "chapterCode": "XIV",
+  "chapter": "Diseases of the genitourinary system",
+  "blockCode": "N00-N08",
+  "block": "Glomerular diseases",
+  "categoryCode": "N04",
+  "category": "Nephrotic syndrome",
+  "subcategory": "",
+  "title": "Nephrotic syndrome : minor glomerular abnormality",
+  "inclusion": [
+    "congenital nephrotic syndrome",
+    "lipoid nephrosis",
+    "Minimal change lesion"
+  ],
+  "exclusion": [
+    "certain conditions originating in the perinatal period",
+    "certain infectious and parasitic diseases",
+    "complications of pregnancy, childbirth and the puerperium",
+    "congenital malformations, deformations and chromosomal abnormalities",
+    "endocrine, nutritional and metabolic diseases",
+    "injury, poisoning and certain other consequences of external causes",
+    "neoplasms",
+    "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+    "hypertensive renal disease"
+  ],
+  "children": null
+}

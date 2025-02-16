@@ -1,0 +1,30 @@
+{
+    "icd10code": "A25.0",
+    "type": "subcategory",
+    "title": "Spirillosis",
+    "chapter": "Certain infectious and parasitic diseases",
+    "chapterCode": "I",
+    "block": "Certain zoonotic bacterial diseases",
+    "blockCode": "A20-A28",
+    "category": "Rat-bite fevers",
+    "categoryCode": "A25",
+    "subcategory": "A25.0",
+    "inclusion": [
+        "diseases generally recognized as communicable or transmissible",
+        "Sodoku"
+    ],
+    "exclusion": [
+        "carrier or suspected carrier of infectious disease",
+        "certain localized infections - see body system-related chapters",
+        "infectious and parasitic diseases complicating pregnancy, childbirth and the puerperium [except obstetrical tetanus]",
+        "infectious and parasitic diseases specific to the perinatal period [except tetanus neonatorum, whooping cough, congenital syphilis, perinatal gonococcal infection and perinatal human immunodeficiency virus [HIV] disease]",
+        "influenza and other acute respiratory infections"
+    ],
+    "symptoms": [
+        "fever",
+        "swelling",
+        "erythema",
+        "tenderness at the site",
+        "axillary pain"
+    ]
+}

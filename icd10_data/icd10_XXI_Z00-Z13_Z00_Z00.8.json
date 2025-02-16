@@ -1,0 +1,20 @@
+{
+  "type": "subcategory",
+  "chapterCode": "XXI",
+  "chapter": "Factors influencing health status and contact with health services",
+  "blockCode": "Z00-Z13",
+  "block": "Persons encountering health services for examination and investigation",
+  "categoryCode": "Z00",
+  "category": "General examination and investigation of persons without complaint and reported diagnosis",
+  "subcategory": "Z00.8",
+  "title": "Other general examinations",
+  "inclusion": [
+    "Health examination in population surveys"
+  ],
+  "exclusion": [
+    "examinations related to pregnancy and reproduction",
+    "examination for administrative purposes",
+    "special screening examinations"
+  ],
+  "children": null
+}

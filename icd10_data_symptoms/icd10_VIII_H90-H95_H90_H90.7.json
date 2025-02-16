@@ -1,0 +1,38 @@
+{
+    "icd10code": "H90.7",
+    "type": "subcategory",
+    "title": "Mixed conductive and sensorineural hearing loss, unilateral with unrestricted hearing on the contralateral side",
+    "chapter": "Diseases of the ear and mastoid process",
+    "chapterCode": "VIII",
+    "block": "Other disorders of ear",
+    "blockCode": "H90-H95",
+    "category": "Conductive and sensorineural hearing loss",
+    "categoryCode": "H90",
+    "subcategory": "H90.7",
+    "inclusion": [
+        "congenital deafness"
+    ],
+    "exclusion": [
+        "certain conditions originating in the perinatal period",
+        "certain infectious and parasitic diseases",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "deaf mutism NEC",
+        "deafness NOS",
+        "hearing loss: NOS",
+        "hearing loss: noise-induced",
+        "hearing loss: ototoxic",
+        "hearing loss: sudden (idiopathic)"
+    ],
+    "symptoms": [
+        "hearing difficulty",
+        "misunderstanding speech",
+        "frequently asking for repetition",
+        "increased volume on devices",
+        "withdrawing from conversations"
+    ]
+}

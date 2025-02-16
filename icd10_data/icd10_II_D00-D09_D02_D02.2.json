@@ -1,0 +1,21 @@
+{
+  "type": "subcategory",
+  "chapterCode": "II",
+  "chapter": "Neoplasms",
+  "blockCode": "D00-D09",
+  "block": "In situ neoplasms",
+  "categoryCode": "D02",
+  "category": "Carcinoma in situ of middle ear and respiratory system",
+  "subcategory": "D02.2",
+  "title": "Carcinoma in situ: Bronchus and lung",
+  "inclusion": [
+    "Bowen disease",
+    "erythroplasia",
+    "morphology codes with behaviour code /2",
+    "Queyrat erythroplasia"
+  ],
+  "exclusion": [
+    "melanoma in situ"
+  ],
+  "children": null
+}

@@ -1,0 +1,27 @@
+{
+    "icd10code": "F93.3",
+    "type": "subcategory",
+    "title": "Sibling rivalry disorder",
+    "chapter": "Mental and behavioural disorders",
+    "chapterCode": "V",
+    "block": "Behavioural and emotional disorders with onset usually occurring in childhood and adolescence",
+    "blockCode": "F90-F98",
+    "category": "Emotional disorders with onset specific to childhood",
+    "categoryCode": "F93",
+    "subcategory": "F93.3",
+    "inclusion": [
+        "disorders of psychological development",
+        "Sibling jealousy"
+    ],
+    "exclusion": [
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "when associated with conduct disorder"
+    ],
+    "symptoms": [
+        "separation anxiety",
+        "excessive worry about harm",
+        "refusal to sleep alone",
+        "nightmares",
+        "physical symptoms like headaches"
+    ]
+}

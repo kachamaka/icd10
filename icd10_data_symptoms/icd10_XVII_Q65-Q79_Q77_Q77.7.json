@@ -1,0 +1,24 @@
+{
+    "icd10code": "Q77.7",
+    "type": "subcategory",
+    "title": "Spondyloepiphyseal dysplasia",
+    "chapter": "Congenital malformations, deformations and chromosomal abnormalities",
+    "chapterCode": "XVII",
+    "block": "Congenital malformations and deformations of the musculoskeletal system",
+    "blockCode": "Q65-Q79",
+    "category": "Osteochondrodysplasia with defects of growth of tubular bones and spine",
+    "categoryCode": "Q77",
+    "subcategory": "Q77.7",
+    "inclusion": null,
+    "exclusion": [
+        "inborn errors of metabolism",
+        "mucopolysaccharidosis"
+    ],
+    "symptoms": [
+        "short stature",
+        "bowed long bones",
+        "joint laxity",
+        "spinal deformities",
+        "prominent forehead"
+    ]
+}

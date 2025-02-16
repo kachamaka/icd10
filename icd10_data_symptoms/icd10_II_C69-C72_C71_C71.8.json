@@ -1,0 +1,24 @@
+{
+    "icd10code": "C71.8",
+    "type": "subcategory",
+    "title": "Malignant neoplasm: Overlapping lesion of brain",
+    "chapter": "Neoplasms",
+    "chapterCode": "II",
+    "block": "Malignant neoplasms of eye, brain and other parts of central nervous system",
+    "blockCode": "C69-C72",
+    "category": "Malignant neoplasm of brain",
+    "categoryCode": "C71",
+    "subcategory": "C71.8",
+    "inclusion": null,
+    "exclusion": [
+        "cranial nerves",
+        "retrobulbar tissue"
+    ],
+    "symptoms": [
+        "headaches",
+        "changes in vision",
+        "seizures",
+        "cognitive difficulties",
+        "speech difficulties"
+    ]
+}

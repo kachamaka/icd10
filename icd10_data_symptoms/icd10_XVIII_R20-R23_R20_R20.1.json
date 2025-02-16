@@ -1,0 +1,26 @@
+{
+    "icd10code": "R20.1",
+    "type": "subcategory",
+    "title": "Hypoaesthesia of skin",
+    "chapter": "Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+    "chapterCode": "XVIII",
+    "block": "Symptoms and signs involving the skin and subcutaneous tissue",
+    "blockCode": "R20-R23",
+    "category": "Disturbances of skin sensation",
+    "categoryCode": "R20",
+    "subcategory": "R20.1",
+    "inclusion": null,
+    "exclusion": [
+        "abnormal findings on antenatal screening of mother",
+        "certain conditions originating in the perinatal period",
+        "dissociative anaesthesia and sensory loss",
+        "psychogenic disturbances"
+    ],
+    "symptoms": [
+        "numbness",
+        "tingling",
+        "lack of sensation",
+        "prickling sensation",
+        "pins and needles"
+    ]
+}

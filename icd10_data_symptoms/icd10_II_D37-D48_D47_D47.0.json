@@ -1,0 +1,28 @@
+{
+    "icd10code": "D47.0",
+    "type": "subcategory",
+    "title": "Histiocytic and mast cell tumours of uncertain and unknown behaviour",
+    "chapter": "Neoplasms",
+    "chapterCode": "II",
+    "block": "Neoplasms of uncertain or unknown behaviour",
+    "blockCode": "D37-D48",
+    "category": "Other neoplasms of uncertain or unknown behaviour of lymphoid, haematopoietic and related tissue",
+    "categoryCode": "D47",
+    "subcategory": "D47.0",
+    "inclusion": [
+        "Indolent systemic mastocytosis",
+        "Mast cell tumour NOS",
+        "Mastocytoma NOS",
+        "Systemic mastocytosis, associated with clonal haematopoietic non-mast-cell disease (SM-AHNMD)"
+    ],
+    "exclusion": [
+        "mastocytosis (congenital) (cutaneous)"
+    ],
+    "symptoms": [
+        "unexplained weight loss",
+        "fatigue",
+        "enlarged lymph nodes",
+        "calcium level abnormalities",
+        "frequent infections"
+    ]
+}

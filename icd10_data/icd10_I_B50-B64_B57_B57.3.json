@@ -1,0 +1,26 @@
+{
+  "type": "subcategory",
+  "chapterCode": "I",
+  "chapter": "Certain infectious and parasitic diseases",
+  "blockCode": "B50-B64",
+  "block": "Protozoal diseases",
+  "categoryCode": "B57",
+  "category": "Chagas disease",
+  "subcategory": "B57.3",
+  "title": "Chagas disease (chronic) with digestive system involvement",
+  "inclusion": [
+    "diseases generally recognized as communicable or transmissible",
+    "American trypanosomiasis",
+    "infection due to Trypanosoma cruzi"
+  ],
+  "exclusion": [
+    "carrier or suspected carrier of infectious disease",
+    "certain localized infections - see body system-related chapters",
+    "infectious and parasitic diseases complicating pregnancy, childbirth and the puerperium [except obstetrical tetanus]",
+    "infectious and parasitic diseases specific to the perinatal period [except tetanus neonatorum, whooping cough, congenital syphilis, perinatal gonococcal infection and perinatal human immunodeficiency virus [HIV] disease]",
+    "influenza and other acute respiratory infections",
+    "larval diphyllobothriasis",
+    "monkeypox"
+  ],
+  "children": null
+}

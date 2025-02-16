@@ -1,0 +1,22 @@
+{
+  "type": "subcategory",
+  "chapterCode": "V",
+  "chapter": "Mental and behavioural disorders",
+  "blockCode": "F40-F48",
+  "block": "Neurotic, stress-related and somatoform disorders",
+  "categoryCode": "F41",
+  "category": "Other anxiety disorders",
+  "subcategory": "F41.0",
+  "title": "Panic disorder [episodic paroxysmal anxiety]",
+  "inclusion": [
+    "disorders of psychological development",
+    "Panic: attack",
+    "Panic: state"
+  ],
+  "exclusion": [
+    "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+    "when associated with conduct disorder in F91.-",
+    "panic disorder with agoraphobia"
+  ],
+  "children": null
+}

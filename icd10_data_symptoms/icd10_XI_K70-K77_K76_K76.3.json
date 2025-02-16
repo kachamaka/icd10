@@ -1,0 +1,42 @@
+{
+    "icd10code": "K76.3",
+    "type": "subcategory",
+    "title": "Infarction of liver",
+    "chapter": "Diseases of the digestive system",
+    "chapterCode": "XI",
+    "block": "Diseases of liver",
+    "blockCode": "K70-K77",
+    "category": "Other diseases of liver",
+    "categoryCode": "K76",
+    "subcategory": "K76.3",
+    "inclusion": null,
+    "exclusion": [
+        "certain conditions originating in the perinatal period",
+        "certain infectious and parasitic diseases",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "haemochromatosis",
+        "jaundice NOS",
+        "Reye syndrome",
+        "viral hepatitis",
+        "Wilson disease",
+        "alcoholic liver disease",
+        "amyloid degeneration of liver",
+        "cystic disease of liver (congenital)",
+        "hepatic vein thrombosis",
+        "hepatomegaly NOS",
+        "portal vein thrombosis",
+        "toxic liver disease"
+    ],
+    "symptoms": [
+        "abdominal pain",
+        "jaundice",
+        "ascites",
+        "fatigue",
+        "hepatomegaly"
+    ]
+}

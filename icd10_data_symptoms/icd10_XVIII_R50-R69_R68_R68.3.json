@@ -1,0 +1,28 @@
+{
+    "icd10code": "R68.3",
+    "type": "subcategory",
+    "title": "Clubbing of fingers",
+    "chapter": "Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+    "chapterCode": "XVIII",
+    "block": "General symptoms and signs",
+    "blockCode": "R50-R69",
+    "category": "Other general symptoms and signs",
+    "categoryCode": "R68",
+    "subcategory": "R68.3",
+    "inclusion": [
+        "Clubbing of nails"
+    ],
+    "exclusion": [
+        "abnormal findings on antenatal screening of mother",
+        "certain conditions originating in the perinatal period",
+        "congenital clubfinger",
+        "congenital clubnail"
+    ],
+    "symptoms": [
+        "fever",
+        "fatigue",
+        "weight loss",
+        "night sweats",
+        "loss of appetite"
+    ]
+}

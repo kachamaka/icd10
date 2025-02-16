@@ -1,0 +1,24 @@
+{
+  "type": "subcategory",
+  "chapterCode": "II",
+  "chapter": "Neoplasms",
+  "blockCode": "D00-D09",
+  "block": "In situ neoplasms",
+  "categoryCode": "D01",
+  "category": "Carcinoma in situ of other and unspecified digestive organs",
+  "subcategory": "D01.3",
+  "title": "Carcinoma in situ: Anus and anal canal",
+  "inclusion": [
+    "Bowen disease",
+    "erythroplasia",
+    "morphology codes with behaviour code /2",
+    "Queyrat erythroplasia"
+  ],
+  "exclusion": [
+    "melanoma in situ",
+    "anal: margin",
+    "anal: skin",
+    "perianal skin"
+  ],
+  "children": null
+}

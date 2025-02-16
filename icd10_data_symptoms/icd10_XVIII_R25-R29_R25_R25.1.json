@@ -1,0 +1,31 @@
+{
+    "icd10code": "R25.1",
+    "type": "subcategory",
+    "title": "Tremor, unspecified",
+    "chapter": "Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+    "chapterCode": "XVIII",
+    "block": "Symptoms and signs involving the nervous and musculoskeletal systems",
+    "blockCode": "R25-R29",
+    "category": "Abnormal involuntary movements",
+    "categoryCode": "R25",
+    "subcategory": "R25.1",
+    "inclusion": null,
+    "exclusion": [
+        "abnormal findings on antenatal screening of mother",
+        "certain conditions originating in the perinatal period",
+        "specific movement disorders",
+        "stereotyped movement disorders",
+        "tic disorders",
+        "chorea NOS",
+        "tremor: essential",
+        "tremor: hysterical",
+        "tremor: intention"
+    ],
+    "symptoms": [
+        "tremors",
+        "shaking",
+        "involuntary movements",
+        "rhythmic muscle contractions",
+        "unsteady hands"
+    ]
+}

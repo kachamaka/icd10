@@ -1,0 +1,27 @@
+{
+    "icd10code": "X88.4",
+    "type": "subcategory",
+    "title": "Assault by carbon monoxide from unspecified sources",
+    "chapter": "External causes of morbidity and mortality",
+    "chapterCode": "XX",
+    "block": "Assault",
+    "blockCode": "X85-Y09",
+    "category": "Assault by gases and vapours",
+    "categoryCode": "X88",
+    "subcategory": "X88.4",
+    "inclusion": [
+        "homicide",
+        "injuries inflicted by another person with intent to injure or kill, by any means"
+    ],
+    "exclusion": [
+        "injuries due to: legal intervention",
+        "injuries due to: operations of war"
+    ],
+    "symptoms": [
+        "burns",
+        "pain at injury site",
+        "blistering",
+        "difficulty breathing",
+        "shock"
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "icd10code": "R30.0",
+    "type": "subcategory",
+    "title": "Dysuria",
+    "chapter": "Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+    "chapterCode": "XVIII",
+    "block": "Symptoms and signs involving the urinary system",
+    "blockCode": "R30-R39",
+    "category": "Pain associated with micturition",
+    "categoryCode": "R30",
+    "subcategory": "R30.0",
+    "inclusion": [
+        "Strangury"
+    ],
+    "exclusion": [
+        "abnormal findings on antenatal screening of mother",
+        "certain conditions originating in the perinatal period",
+        "psychogenic pain"
+    ],
+    "symptoms": [
+        "dysuria",
+        "painful urination",
+        "discomfort during urination",
+        "burning sensation",
+        "frequent urge to urinate"
+    ]
+}

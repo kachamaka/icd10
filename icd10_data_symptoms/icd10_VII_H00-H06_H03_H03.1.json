@@ -1,0 +1,37 @@
+{
+    "icd10code": "H03.1",
+    "type": "subcategory",
+    "title": "Involvement of eyelid in other infectious diseases classified elsewhere",
+    "chapter": "Diseases of the eye and adnexa",
+    "chapterCode": "VII",
+    "block": "Disorders of eyelid, lacrimal system and orbit",
+    "blockCode": "H00-H06",
+    "category": "Disorders of eyelid in diseases classified elsewhere",
+    "categoryCode": "H03",
+    "subcategory": "H03.1",
+    "inclusion": [
+        "Involvement of eyelid in: herpesviral [herpes simplex] infection",
+        "Involvement of eyelid in: leprosy",
+        "Involvement of eyelid in: molluscum contagiosum",
+        "Involvement of eyelid in: tuberculosis",
+        "Involvement of eyelid in: yaws",
+        "Involvement of eyelid in: zoster"
+    ],
+    "exclusion": [
+        "certain conditions originating in the perinatal period",
+        "certain infectious and parasitic diseases",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified"
+    ],
+    "symptoms": [
+        "swelling",
+        "redness",
+        "pain",
+        "eyelid tenderness",
+        "discharge"
+    ]
+}

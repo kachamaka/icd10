@@ -1,0 +1,23 @@
+{
+    "icd10code": "Q72.7",
+    "type": "subcategory",
+    "title": "Split foot",
+    "chapter": "Congenital malformations, deformations and chromosomal abnormalities",
+    "chapterCode": "XVII",
+    "block": "Congenital malformations and deformations of the musculoskeletal system",
+    "blockCode": "Q65-Q79",
+    "category": "Reduction defects of lower limb",
+    "categoryCode": "Q72",
+    "subcategory": "Q72.7",
+    "inclusion": null,
+    "exclusion": [
+        "inborn errors of metabolism"
+    ],
+    "symptoms": [
+        "partial or complete absence of limb",
+        "short or malformed bones",
+        "joint deformities",
+        "underdeveloped muscles",
+        "limited range of motion"
+    ]
+}

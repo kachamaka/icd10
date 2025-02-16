@@ -1,0 +1,30 @@
+{
+  "type": "subcategory",
+  "chapterCode": "XIV",
+  "chapter": "Diseases of the genitourinary system",
+  "blockCode": "N40-N51",
+  "block": "Diseases of male genital organs",
+  "categoryCode": "N49",
+  "category": "Inflammatory disorders of male genital organs, not elsewhere classified",
+  "subcategory": "N49.9",
+  "title": "Inflammatory disorder of unspecified male genital organ",
+  "inclusion": [
+    "Abscess of unspecified male genital organ",
+    "Boil of unspecified male genital organ",
+    "Carbuncle of unspecified male genital organ",
+    "Cellulitis of unspecified male genital organ"
+  ],
+  "exclusion": [
+    "certain conditions originating in the perinatal period",
+    "certain infectious and parasitic diseases",
+    "complications of pregnancy, childbirth and the puerperium",
+    "congenital malformations, deformations and chromosomal abnormalities",
+    "endocrine, nutritional and metabolic diseases",
+    "injury, poisoning and certain other consequences of external causes",
+    "neoplasms",
+    "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+    "inflammation of penis",
+    "orchitis and epididymitis"
+  ],
+  "children": null
+}

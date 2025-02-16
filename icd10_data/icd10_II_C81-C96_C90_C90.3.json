@@ -1,0 +1,20 @@
+{
+  "type": "subcategory",
+  "chapterCode": "II",
+  "chapter": "Neoplasms",
+  "blockCode": "C81-C96",
+  "block": "Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",
+  "categoryCode": "C90",
+  "category": "Multiple myeloma and malignant plasma cell neoplasms",
+  "subcategory": "C90.3",
+  "title": "Solitary plasmacytoma",
+  "inclusion": [
+    "Localized malignant plasma cell tumour NOS",
+    "Plasmacytoma NOS",
+    "Solitary myeloma"
+  ],
+  "exclusion": [
+    "secondary and unspecified neoplasm of lymph nodes"
+  ],
+  "children": null
+}

@@ -1,0 +1,16 @@
+{
+  "type": "subcategory",
+  "chapterCode": "XVII",
+  "chapter": "Congenital malformations, deformations and chromosomal abnormalities",
+  "blockCode": "Q30-Q34",
+  "block": "Congenital malformations of the respiratory system",
+  "categoryCode": "Q33",
+  "category": "Congenital malformations of lung",
+  "subcategory": "Q33.9",
+  "title": "Congenital malformation of lung, unspecified",
+  "inclusion": null,
+  "exclusion": [
+    "inborn errors of metabolism"
+  ],
+  "children": null
+}

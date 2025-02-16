@@ -1,0 +1,16 @@
+{
+  "type": "subcategory",
+  "chapterCode": "XXI",
+  "chapter": "Factors influencing health status and contact with health services",
+  "blockCode": "Z70-Z76",
+  "block": "Persons encountering health services in other circumstances",
+  "categoryCode": "Z73",
+  "category": "Problems related to life-management difficulty",
+  "subcategory": "Z73.8",
+  "title": "Other problems related to life-management difficulty",
+  "inclusion": null,
+  "exclusion": [
+    "problems related to socioeconomic and psychosocial circumstances"
+  ],
+  "children": null
+}

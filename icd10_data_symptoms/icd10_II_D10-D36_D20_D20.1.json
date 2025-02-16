@@ -1,0 +1,26 @@
+{
+    "icd10code": "D20.1",
+    "type": "subcategory",
+    "title": "Benign neoplasm: Peritoneum",
+    "chapter": "Neoplasms",
+    "chapterCode": "II",
+    "block": "Benign neoplasms",
+    "blockCode": "D10-D36",
+    "category": "Benign neoplasm of soft tissue of retroperitoneum and peritoneum",
+    "categoryCode": "D20",
+    "subcategory": "D20.1",
+    "inclusion": [
+        "morphology codes with behaviour code /0"
+    ],
+    "exclusion": [
+        "benign lipomatous neoplasm of peritoneum and retroperitoneum",
+        "mesothelial tissue"
+    ],
+    "symptoms": [
+        "abdominal pain",
+        "weight loss",
+        "difficulty swallowing",
+        "feeling of fullness",
+        "bloody stool"
+    ]
+}

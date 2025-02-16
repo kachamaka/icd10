@@ -1,0 +1,36 @@
+{
+    "icd10code": "E78.3",
+    "type": "subcategory",
+    "title": "Hyperchylomicronaemia",
+    "chapter": "Endocrine, nutritional and metabolic diseases",
+    "chapterCode": "IV",
+    "block": "Metabolic disorders",
+    "blockCode": "E70-E90",
+    "category": "Disorders of lipoprotein metabolism and other lipidaemias",
+    "categoryCode": "E78",
+    "subcategory": "E78.3",
+    "inclusion": [
+        "Fredrickson hyperlipoproteinaemia, type I or V",
+        "Hyperlipidaemia, group D",
+        "Mixed hyperglyceridaemia"
+    ],
+    "exclusion": [
+        "complications of pregnancy, childbirth and the puerperium",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "transitory endocrine and metabolic disorders specific to fetus and newborn",
+        "androgen resistance syndrome",
+        "congenital adrenal hyperplasia",
+        "Ehlers-Danlos syndrome",
+        "haemolytic anaemias due to enzyme disorders",
+        "Marfan syndrome",
+        "5-alpha-reductase deficiency",
+        "Schilder disease"
+    ],
+    "symptoms": [
+        "abdominal pain",
+        "fatigue",
+        "yellowish skin and eyes (jaundice)",
+        "itchy skin",
+        "pale or light-colored stools"
+    ]
+}

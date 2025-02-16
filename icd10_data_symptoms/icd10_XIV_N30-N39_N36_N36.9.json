@@ -1,0 +1,33 @@
+{
+    "icd10code": "N36.9",
+    "type": "subcategory",
+    "title": "Urethral disorder, unspecified",
+    "chapter": "Diseases of the genitourinary system",
+    "chapterCode": "XIV",
+    "block": "Other diseases of urinary system",
+    "blockCode": "N30-N39",
+    "category": "Other disorders of urethra",
+    "categoryCode": "N36",
+    "subcategory": "N36.9",
+    "inclusion": null,
+    "exclusion": [
+        "certain conditions originating in the perinatal period",
+        "certain infectious and parasitic diseases",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "urinary infection (complicating): abortion or ectopic or molar pregnancy",
+        "urinary infection (complicating): pregnancy, childbirth and the puerperium",
+        "urinary infection (complicating): with urolithiasis"
+    ],
+    "symptoms": [
+        "urinary incontinence",
+        "pelvic pain",
+        "recurrent urinary tract infections",
+        "urine retention",
+        "abnormal urination"
+    ]
+}

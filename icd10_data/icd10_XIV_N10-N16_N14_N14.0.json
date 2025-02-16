@@ -1,0 +1,26 @@
+{
+  "type": "subcategory",
+  "chapterCode": "XIV",
+  "chapter": "Diseases of the genitourinary system",
+  "blockCode": "N10-N16",
+  "block": "Renal tubulo-interstitial diseases",
+  "categoryCode": "N14",
+  "category": "Drug- and heavy-metal-induced tubulo-interstitial and tubular conditions",
+  "subcategory": "N14.0",
+  "title": "Analgesic nephropathy",
+  "inclusion": [
+    "pyelonephritis"
+  ],
+  "exclusion": [
+    "certain conditions originating in the perinatal period",
+    "certain infectious and parasitic diseases",
+    "complications of pregnancy, childbirth and the puerperium",
+    "congenital malformations, deformations and chromosomal abnormalities",
+    "endocrine, nutritional and metabolic diseases",
+    "injury, poisoning and certain other consequences of external causes",
+    "neoplasms",
+    "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+    "pyeloureteritis cystica"
+  ],
+  "children": null
+}

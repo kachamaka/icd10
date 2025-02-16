@@ -1,0 +1,21 @@
+{
+    "icd10code": "Y91.9",
+    "type": "subcategory",
+    "title": "Alcohol involvement, not otherwise specified",
+    "chapter": "External causes of morbidity and mortality",
+    "chapterCode": "XX",
+    "block": "Supplementary factors related to causes of morbidity and mortality classified elsewhere",
+    "blockCode": "Y90-Y98",
+    "category": "Evidence of alcohol involvement determined by level of intoxication",
+    "categoryCode": "Y91",
+    "subcategory": "Y91.9",
+    "inclusion": [
+        "Suspected alcohol involvement NOS"
+    ],
+    "exclusion": [
+        "evidence of alcohol involvement determined by blood alcohol content"
+    ],
+    "symptoms": [
+        "asymptomatic"
+    ]
+}

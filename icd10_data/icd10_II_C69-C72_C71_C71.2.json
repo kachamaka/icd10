@@ -1,0 +1,17 @@
+{
+  "type": "subcategory",
+  "chapterCode": "II",
+  "chapter": "Neoplasms",
+  "blockCode": "C69-C72",
+  "block": "Malignant neoplasms of eye, brain and other parts of central nervous system",
+  "categoryCode": "C71",
+  "category": "Malignant neoplasm of brain",
+  "subcategory": "C71.2",
+  "title": "Malignant neoplasm: Temporal lobe",
+  "inclusion": null,
+  "exclusion": [
+    "cranial nerves",
+    "retrobulbar tissue"
+  ],
+  "children": null
+}

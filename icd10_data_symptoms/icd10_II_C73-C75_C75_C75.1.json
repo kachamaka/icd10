@@ -1,0 +1,28 @@
+{
+    "icd10code": "C75.1",
+    "type": "subcategory",
+    "title": "Malignant neoplasm: Pituitary gland",
+    "chapter": "Neoplasms",
+    "chapterCode": "II",
+    "block": "Malignant neoplasms of thyroid and other endocrine glands",
+    "blockCode": "C73-C75",
+    "category": "Malignant neoplasm of other endocrine glands and related structures",
+    "categoryCode": "C75",
+    "subcategory": "C75.1",
+    "inclusion": null,
+    "exclusion": [
+        "adrenal gland",
+        "endocrine pancreas",
+        "ovary",
+        "testis",
+        "thymus",
+        "thyroid gland"
+    ],
+    "symptoms": [
+        "headache",
+        "high blood pressure",
+        "rapid heart rate",
+        "sweating",
+        "anxiety or panic attacks"
+    ]
+}

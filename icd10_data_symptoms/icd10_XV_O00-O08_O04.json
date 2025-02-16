@@ -1,0 +1,36 @@
+{
+    "icd10code": "O04",
+    "type": "modifiedcategory",
+    "title": "Medical abortion : incomplete, complicated by genital tract and pelvic infection",
+    "chapter": "Pregnancy, childbirth and the puerperium",
+    "chapterCode": "XV",
+    "block": "Pregnancy with abortive outcome",
+    "blockCode": "O00-O08",
+    "category": "Medical abortion",
+    "categoryCode": "O04",
+    "subcategory": "",
+    "inclusion": [
+        "termination of pregnancy: legal",
+        "termination of pregnancy: therapeutic",
+        "therapeutic abortion",
+        "With conditions in O08.0"
+    ],
+    "exclusion": [
+        "Certain diseases or injuries complicating pregnancy, childbirth and the puerperium classified elsewhere: external causes (for mortality)",
+        "Certain diseases or injuries complicating pregnancy, childbirth and the puerperium classified elsewhere: injury, poisoning and certain other consequences of external cause",
+        "Certain diseases or injuries complicating pregnancy, childbirth and the puerperium classified elsewhere: mental and behavioural disorders associated with the puerperium",
+        "Certain diseases or injuries complicating pregnancy, childbirth and the puerperium classified elsewhere: obstetrical tetanus",
+        "Certain diseases or injuries complicating pregnancy, childbirth and the puerperium classified elsewhere: postpartum necrosis of pituitary gland",
+        "Certain diseases or injuries complicating pregnancy, childbirth and the puerperium classified elsewhere: puerperal osteomalacia",
+        "supervision of: high-risk pregnancy",
+        "supervision of: normal pregnancy",
+        "continuing pregnancy in multiple gestation after abortion of one fetus or more"
+    ],
+    "symptoms": [
+        "abdominal pain",
+        "heavy vaginal bleeding",
+        "fever",
+        "chills",
+        "dizziness"
+    ]
+}

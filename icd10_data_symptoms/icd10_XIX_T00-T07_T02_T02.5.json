@@ -1,0 +1,40 @@
+{
+    "icd10code": "T02.5",
+    "type": "subcategory",
+    "title": "Fractures involving multiple regions of both lower limbs",
+    "chapter": "Injury, poisoning and certain other consequences of external causes",
+    "chapterCode": "XIX",
+    "block": "Injuries involving multiple body regions",
+    "blockCode": "T00-T07",
+    "category": "Fractures involving multiple body regions",
+    "categoryCode": "T02",
+    "subcategory": "T02.5",
+    "inclusion": [
+        "bilateral involvement of limbs of the same body region",
+        "Injuries by type involving two or more body regions classifiable within S00-S99",
+        "Fractures of sites classifiable to S72.-, S82.-, S92.- and T12 specified as bilateral"
+    ],
+    "exclusion": [
+        "birth trauma",
+        "obstetric trauma",
+        "malunion of fracture",
+        "nonunion of fracture [pseudarthrosis]",
+        "pathological fracture",
+        "pathological fracture with osteoporosis",
+        "stress fracture",
+        "burns and corrosions",
+        "frostbite",
+        "insect bite or sting, venomous",
+        "multiple injuries involving only one body region - see S-section",
+        "sunburn",
+        "when combined with fractures of: thorax, lower back and pelvis",
+        "when combined with fractures of: upper limb(s)"
+    ],
+    "symptoms": [
+        "fracture pain",
+        "swelling",
+        "bruising",
+        "deformity",
+        "limited mobility"
+    ]
+}

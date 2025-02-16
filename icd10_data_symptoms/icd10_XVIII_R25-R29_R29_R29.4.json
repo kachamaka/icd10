@@ -1,0 +1,25 @@
+{
+    "icd10code": "R29.4",
+    "type": "subcategory",
+    "title": "Clicking hip",
+    "chapter": "Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+    "chapterCode": "XVIII",
+    "block": "Symptoms and signs involving the nervous and musculoskeletal systems",
+    "blockCode": "R25-R29",
+    "category": "Other symptoms and signs involving the nervous and musculoskeletal systems",
+    "categoryCode": "R29",
+    "subcategory": "R29.4",
+    "inclusion": null,
+    "exclusion": [
+        "abnormal findings on antenatal screening of mother",
+        "certain conditions originating in the perinatal period",
+        "congenital deformities of hip"
+    ],
+    "symptoms": [
+        "muscle stiffness",
+        "reduced range of motion",
+        "involuntary muscle contractions",
+        "pain during movement",
+        "difficulty performing coordinated actions"
+    ]
+}

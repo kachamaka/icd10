@@ -1,0 +1,25 @@
+{
+    "icd10code": "C69.8",
+    "type": "subcategory",
+    "title": "Malignant neoplasm: Overlapping lesion of eye and adnexa",
+    "chapter": "Neoplasms",
+    "chapterCode": "II",
+    "block": "Malignant neoplasms of eye, brain and other parts of central nervous system",
+    "blockCode": "C69-C72",
+    "category": "Malignant neoplasm of eye and adnexa",
+    "categoryCode": "C69",
+    "subcategory": "C69.8",
+    "inclusion": null,
+    "exclusion": [
+        "connective tissue of eyelid",
+        "eyelid (skin)",
+        "optic nerve"
+    ],
+    "symptoms": [
+        "blurry vision",
+        "eye pain",
+        "loss of vision",
+        "floaters or flashes of light",
+        "a dark spot in the central vision"
+    ]
+}

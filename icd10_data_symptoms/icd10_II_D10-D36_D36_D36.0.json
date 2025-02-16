@@ -1,0 +1,23 @@
+{
+    "icd10code": "D36.0",
+    "type": "subcategory",
+    "title": "Benign neoplasm: Lymph nodes",
+    "chapter": "Neoplasms",
+    "chapterCode": "II",
+    "block": "Benign neoplasms",
+    "blockCode": "D10-D36",
+    "category": "Benign neoplasm of other and unspecified sites",
+    "categoryCode": "D36",
+    "subcategory": "D36.0",
+    "inclusion": [
+        "morphology codes with behaviour code /0"
+    ],
+    "exclusion": null,
+    "symptoms": [
+        "pain in the affected area",
+        "a noticeable lump or swelling",
+        "changes in skin color",
+        "weight loss",
+        "fatigue"
+    ]
+}

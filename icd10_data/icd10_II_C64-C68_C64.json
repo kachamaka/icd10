@@ -1,0 +1,17 @@
+{
+  "type": "category",
+  "chapterCode": "II",
+  "chapter": "Neoplasms",
+  "blockCode": "C64-C68",
+  "block": "Malignant neoplasms of urinary tract",
+  "categoryCode": "C64",
+  "category": "Malignant neoplasm of kidney, except renal pelvis",
+  "subcategory": "",
+  "title": "Malignant neoplasm of kidney, except renal pelvis",
+  "inclusion": null,
+  "exclusion": [
+    "renal: calyces",
+    "renal: pelvis"
+  ],
+  "children": null
+}

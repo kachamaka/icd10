@@ -1,0 +1,30 @@
+{
+    "icd10code": "K38.2",
+    "type": "subcategory",
+    "title": "Diverticulum of appendix",
+    "chapter": "Diseases of the digestive system",
+    "chapterCode": "XI",
+    "block": "Diseases of appendix",
+    "blockCode": "K35-K38",
+    "category": "Other diseases of appendix",
+    "categoryCode": "K38",
+    "subcategory": "K38.2",
+    "inclusion": null,
+    "exclusion": [
+        "certain conditions originating in the perinatal period",
+        "certain infectious and parasitic diseases",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified"
+    ],
+    "symptoms": [
+        "abdominal pain",
+        "fever",
+        "nausea",
+        "vomiting",
+        "tenderness in the right lower abdomen"
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "icd10code": "K12.0",
+    "type": "subcategory",
+    "title": "Recurrent oral aphthae",
+    "chapter": "Diseases of the digestive system",
+    "chapterCode": "XI",
+    "block": "Diseases of oral cavity, salivary glands and jaws",
+    "blockCode": "K00-K14",
+    "category": "Stomatitis and related lesions",
+    "categoryCode": "K12",
+    "subcategory": "K12.0",
+    "inclusion": [
+        "Aphthous stomatitis (major)(minor)",
+        "Bednar aphthae",
+        "Periadenitis mucosa necrotica recurrens",
+        "Recurrent aphthous ulcer",
+        "Stomatitis herpetiformis"
+    ],
+    "exclusion": [
+        "certain conditions originating in the perinatal period",
+        "certain infectious and parasitic diseases",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "cancrum oris",
+        "cheilitis",
+        "gangrenous stomatitis",
+        "herpesviral [herpes simplex] gingivostomatitis",
+        "noma"
+    ],
+    "symptoms": [
+        "mouth ulcers",
+        "pain in mouth",
+        "redness in mouth",
+        "difficulty eating",
+        "swollen mouth tissue"
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "icd10code": "D61.0",
+    "type": "subcategory",
+    "title": "Constitutional aplastic anaemia",
+    "chapter": "Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism",
+    "chapterCode": "III",
+    "block": "Aplastic and other anaemias",
+    "blockCode": "D60-D64",
+    "category": "Other aplastic anaemias",
+    "categoryCode": "D61",
+    "subcategory": "D61.0",
+    "inclusion": [
+        "Aplasia, (pure) red cell (of): congenital",
+        "Aplasia, (pure) red cell (of): infants",
+        "Aplasia, (pure) red cell (of): primary",
+        "Blackfan-Diamond syndrome",
+        "Familial hypoplastic anaemia",
+        "Fanconi anaemia",
+        "Pancytopenia with malformations"
+    ],
+    "exclusion": [
+        "autoimmune disease (systemic) NOS",
+        "certain conditions originating in the perinatal period",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "human immunodeficiency virus [HIV] disease",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "benign hypergammaglobulinaemic purpura"
+    ],
+    "symptoms": [
+        "fatigue",
+        "pale skin",
+        "rapid heart rate",
+        "shortness of breath",
+        "prolonged bleeding from cuts"
+    ]
+}

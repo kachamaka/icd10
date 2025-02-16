@@ -1,0 +1,25 @@
+{
+    "icd10code": "C77.0",
+    "type": "subcategory",
+    "title": "Secondary and unspecified malignant neoplasm: Lymph nodes of head, face and neck",
+    "chapter": "Neoplasms",
+    "chapterCode": "II",
+    "block": "Malignant neoplasms of ill-defined, secondary and unspecified sites",
+    "blockCode": "C76-C80",
+    "category": "Secondary and unspecified malignant neoplasm of lymph nodes",
+    "categoryCode": "C77",
+    "subcategory": "C77.0",
+    "inclusion": [
+        "Supraclavicular lymph nodes"
+    ],
+    "exclusion": [
+        "malignant neoplasm of lymph nodes, specified as primary"
+    ],
+    "symptoms": [
+        "swollen lymph node in neck",
+        "neck pain",
+        "unexplained weight loss",
+        "night sweats",
+        "fatigue"
+    ]
+}

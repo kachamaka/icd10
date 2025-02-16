@@ -1,0 +1,30 @@
+{
+    "icd10code": "H45.8",
+    "type": "subcategory",
+    "title": "Other disorders of vitreous body and globe in diseases classified elsewhere",
+    "chapter": "Diseases of the eye and adnexa",
+    "chapterCode": "VII",
+    "block": "Disorders of vitreous body and globe",
+    "blockCode": "H43-H45",
+    "category": "Disorders of vitreous body and globe in diseases classified elsewhere",
+    "categoryCode": "H45",
+    "subcategory": "H45.8",
+    "inclusion": null,
+    "exclusion": [
+        "certain conditions originating in the perinatal period",
+        "certain infectious and parasitic diseases",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified"
+    ],
+    "symptoms": [
+        "blurred vision",
+        "eye pain",
+        "redness",
+        "halos around lights",
+        "sensitivity to light"
+    ]
+}

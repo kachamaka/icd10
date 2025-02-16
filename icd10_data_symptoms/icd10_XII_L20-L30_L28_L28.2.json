@@ -1,0 +1,45 @@
+{
+    "icd10code": "L28.2",
+    "type": "subcategory",
+    "title": "Other prurigo",
+    "chapter": "Diseases of the skin and subcutaneous tissue",
+    "chapterCode": "XII",
+    "block": "Dermatitis and eczema",
+    "blockCode": "L20-L30",
+    "category": "Lichen simplex chronicus and prurigo",
+    "categoryCode": "L28",
+    "subcategory": "L28.2",
+    "inclusion": [
+        "Prurigo: NOS",
+        "Prurigo: Hebra",
+        "Prurigo: mitis",
+        "Urticaria papulosa"
+    ],
+    "exclusion": [
+        "certain conditions originating in the perinatal period",
+        "certain infectious and parasitic diseases",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "lipomelanotic reticulosis",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "systemic connective tissue disorders",
+        "chronic (childhood) granulomatous disease",
+        "dermatitis: dry skin",
+        "dermatitis: factitial",
+        "dermatitis: gangrenosa",
+        "dermatitis: herpetiformis",
+        "dermatitis: perioral",
+        "dermatitis: stasis",
+        "radiation-related disorders of the skin and subcutaneous tissue"
+    ],
+    "symptoms": [
+        "pruritus",
+        "thickened skin",
+        "dry patches",
+        "erythema",
+        "excoriations"
+    ]
+}

@@ -1,0 +1,20 @@
+{
+  "type": "subcategory",
+  "chapterCode": "II",
+  "chapter": "Neoplasms",
+  "blockCode": "D10-D36",
+  "block": "Benign neoplasms",
+  "categoryCode": "D31",
+  "category": "Benign neoplasm of eye and adnexa",
+  "subcategory": "D31.1",
+  "title": "Benign neoplasm: Cornea",
+  "inclusion": [
+    "morphology codes with behaviour code /0"
+  ],
+  "exclusion": [
+    "connective tissue of eyelid",
+    "optic nerve",
+    "skin of eyelid"
+  ],
+  "children": null
+}

@@ -1,0 +1,18 @@
+{
+  "type": "subcategory",
+  "chapterCode": "XVII",
+  "chapter": "Congenital malformations, deformations and chromosomal abnormalities",
+  "blockCode": "Q80-Q89",
+  "block": "Other congenital malformations",
+  "categoryCode": "Q86",
+  "category": "Congenital malformation syndromes due to known exogenous causes, not elsewhere classified",
+  "subcategory": "Q86.8",
+  "title": "Other congenital malformation syndromes due to known exogenous causes",
+  "inclusion": null,
+  "exclusion": [
+    "inborn errors of metabolism",
+    "iodine-deficiency-related hypothyroidism",
+    "nonteratogenic effects of substances transmitted via placenta or breast milk"
+  ],
+  "children": null
+}

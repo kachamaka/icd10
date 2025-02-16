@@ -1,0 +1,17 @@
+{
+    "icd10code": "Z37.5",
+    "type": "subcategory",
+    "title": "Other multiple births, all liveborn",
+    "chapter": "Factors influencing health status and contact with health services",
+    "chapterCode": "XXI",
+    "block": "Persons encountering health services in circumstances related to reproduction",
+    "blockCode": "Z30-Z39",
+    "category": "Outcome of delivery",
+    "categoryCode": "Z37",
+    "subcategory": "Z37.5",
+    "inclusion": null,
+    "exclusion": null,
+    "symptoms": [
+        "asymptomatic"
+    ]
+}

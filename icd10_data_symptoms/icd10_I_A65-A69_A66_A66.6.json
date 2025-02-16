@@ -1,0 +1,41 @@
+{
+    "icd10code": "A66.6",
+    "type": "subcategory",
+    "title": "Bone and joint lesions of yaws",
+    "chapter": "Certain infectious and parasitic diseases",
+    "chapterCode": "I",
+    "block": "Other spirochaetal diseases",
+    "blockCode": "A65-A69",
+    "category": "Yaws",
+    "categoryCode": "A66",
+    "subcategory": "A66.6",
+    "inclusion": [
+        "diseases generally recognized as communicable or transmissible",
+        "bouba",
+        "framboesia (tropica)",
+        "pian",
+        "Ganglion of yaws (early)(late)",
+        "Hydrarthrosis of yaws (early)(late)",
+        "Osteitis of yaws (early)(late)",
+        "Periostitis (hypertrophic) of yaws (early)(late)",
+        "Goundou of yaws (late)",
+        "Gumma, bone of yaws (late)",
+        "Gummatous osteitis or periostitis of yaws (late)"
+    ],
+    "exclusion": [
+        "carrier or suspected carrier of infectious disease",
+        "certain localized infections - see body system-related chapters",
+        "infectious and parasitic diseases complicating pregnancy, childbirth and the puerperium [except obstetrical tetanus]",
+        "infectious and parasitic diseases specific to the perinatal period [except tetanus neonatorum, whooping cough, congenital syphilis, perinatal gonococcal infection and perinatal human immunodeficiency virus [HIV] disease]",
+        "influenza and other acute respiratory infections",
+        "erythrasma",
+        "endotoxic shock NOS"
+    ],
+    "symptoms": [
+        "bone pain",
+        "fever",
+        "malaise",
+        "skin lesions",
+        "lymphadenopathy"
+    ]
+}

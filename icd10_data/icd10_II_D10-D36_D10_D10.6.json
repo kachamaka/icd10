@@ -1,0 +1,18 @@
+{
+  "type": "subcategory",
+  "chapterCode": "II",
+  "chapter": "Neoplasms",
+  "blockCode": "D10-D36",
+  "block": "Benign neoplasms",
+  "categoryCode": "D10",
+  "category": "Benign neoplasm of mouth and pharynx",
+  "subcategory": "D10.6",
+  "title": "Benign neoplasm: Nasopharynx",
+  "inclusion": [
+    "morphology codes with behaviour code /0",
+    "Pharyngeal tonsil",
+    "Posterior margin of septum and choanae"
+  ],
+  "exclusion": null,
+  "children": null
+}

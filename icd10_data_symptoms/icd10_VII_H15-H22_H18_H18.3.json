@@ -1,0 +1,33 @@
+{
+    "icd10code": "H18.3",
+    "type": "subcategory",
+    "title": "Changes in corneal membranes",
+    "chapter": "Diseases of the eye and adnexa",
+    "chapterCode": "VII",
+    "block": "Disorders of sclera, cornea, iris and ciliary body",
+    "blockCode": "H15-H22",
+    "category": "Other disorders of cornea",
+    "categoryCode": "H18",
+    "subcategory": "H18.3",
+    "inclusion": [
+        "Fold in Descemet membrane",
+        "Rupture in Descemet membrane"
+    ],
+    "exclusion": [
+        "certain conditions originating in the perinatal period",
+        "certain infectious and parasitic diseases",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified"
+    ],
+    "symptoms": [
+        "eye redness",
+        "pain",
+        "blurred vision",
+        "light sensitivity",
+        "tearing"
+    ]
+}

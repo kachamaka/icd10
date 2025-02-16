@@ -1,0 +1,19 @@
+{
+  "type": "subcategory",
+  "chapterCode": "XVII",
+  "chapter": "Congenital malformations, deformations and chromosomal abnormalities",
+  "blockCode": "Q65-Q79",
+  "block": "Congenital malformations and deformations of the musculoskeletal system",
+  "categoryCode": "Q76",
+  "category": "Congenital malformations of spine and bony thorax",
+  "subcategory": "Q76.1",
+  "title": "Klippel-Feil syndrome",
+  "inclusion": [
+    "Cervical fusion syndrome"
+  ],
+  "exclusion": [
+    "inborn errors of metabolism",
+    "congenital musculoskeletal deformities of spine and chest"
+  ],
+  "children": null
+}

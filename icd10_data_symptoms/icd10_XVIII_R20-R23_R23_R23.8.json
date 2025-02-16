@@ -1,0 +1,24 @@
+{
+    "icd10code": "R23.8",
+    "type": "subcategory",
+    "title": "Other and unspecified skin changes",
+    "chapter": "Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+    "chapterCode": "XVIII",
+    "block": "Symptoms and signs involving the skin and subcutaneous tissue",
+    "blockCode": "R20-R23",
+    "category": "Other skin changes",
+    "categoryCode": "R23",
+    "subcategory": "R23.8",
+    "inclusion": null,
+    "exclusion": [
+        "abnormal findings on antenatal screening of mother",
+        "certain conditions originating in the perinatal period"
+    ],
+    "symptoms": [
+        "skin discoloration",
+        "abnormal skin texture",
+        "skin swelling",
+        "unspecified skin changes",
+        "localized skin tenderness"
+    ]
+}

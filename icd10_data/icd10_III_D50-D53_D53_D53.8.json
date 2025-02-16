@@ -1,0 +1,32 @@
+{
+  "type": "subcategory",
+  "chapterCode": "III",
+  "chapter": "Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism",
+  "blockCode": "D50-D53",
+  "block": "Nutritional anaemias",
+  "categoryCode": "D53",
+  "category": "Other nutritional anaemias",
+  "subcategory": "D53.8",
+  "title": "Other specified nutritional anaemias",
+  "inclusion": [
+    "megaloblastic anaemia unresponsive to vitamin B 12 or folate therapy",
+    "Anaemia associated with deficiency of: copper",
+    "Anaemia associated with deficiency of: molybdenum",
+    "Anaemia associated with deficiency of: zinc"
+  ],
+  "exclusion": [
+    "autoimmune disease (systemic) NOS",
+    "certain conditions originating in the perinatal period",
+    "complications of pregnancy, childbirth and the puerperium",
+    "congenital malformations, deformations and chromosomal abnormalities",
+    "endocrine, nutritional and metabolic diseases",
+    "human immunodeficiency virus [HIV] disease",
+    "injury, poisoning and certain other consequences of external causes",
+    "neoplasms",
+    "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+    "nutritional deficiencies without mention of anaemia, such as: copper deficiency",
+    "nutritional deficiencies without mention of anaemia, such as: molybdenum deficiency",
+    "nutritional deficiencies without mention of anaemia, such as: zinc deficiency"
+  ],
+  "children": null
+}

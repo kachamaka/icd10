@@ -1,0 +1,28 @@
+{
+    "icd10code": "D24",
+    "type": "category",
+    "title": "Benign neoplasm of breast",
+    "chapter": "Neoplasms",
+    "chapterCode": "II",
+    "block": "Benign neoplasms",
+    "blockCode": "D10-D36",
+    "category": "Benign neoplasm of breast",
+    "categoryCode": "D24",
+    "subcategory": "",
+    "inclusion": [
+        "morphology codes with behaviour code /0",
+        "Breast: connective tissue",
+        "Breast: soft parts"
+    ],
+    "exclusion": [
+        "benign mammary dysplasia",
+        "skin of breast"
+    ],
+    "symptoms": [
+        "lump in the breast",
+        "breast pain",
+        "nipple discharge",
+        "changes in the size or shape of the breast",
+        "changes in the skin on the breast"
+    ]
+}

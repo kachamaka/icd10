@@ -1,0 +1,32 @@
+{
+    "icd10code": "T98.3",
+    "type": "subcategory",
+    "title": "Sequelae of complications of surgical and medical care, not elsewhere classified",
+    "chapter": "Injury, poisoning and certain other consequences of external causes",
+    "chapterCode": "XIX",
+    "block": "Sequelae of injuries, of poisoning and of other consequences of external causes",
+    "blockCode": "T90-T98",
+    "category": "Sequelae of other and unspecified effects of external causes",
+    "categoryCode": "T98",
+    "subcategory": "T98.3",
+    "inclusion": [
+        "Sequelae of complications classifiable to T80-T88"
+    ],
+    "exclusion": [
+        "birth trauma",
+        "obstetric trauma",
+        "malunion of fracture",
+        "nonunion of fracture [pseudarthrosis]",
+        "pathological fracture",
+        "pathological fracture with osteoporosis",
+        "stress fracture"
+    ],
+    "symptoms": [
+        "delayed wound healing",
+        "persistent pain at the site",
+        "infection signs like redness",
+        "pus or warmth",
+        "scarring or fibrosis",
+        "swelling or fluid accumulation"
+    ]
+}

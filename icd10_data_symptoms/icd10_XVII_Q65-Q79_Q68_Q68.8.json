@@ -1,0 +1,31 @@
+{
+    "icd10code": "Q68.8",
+    "type": "subcategory",
+    "title": "Other specified congenital musculoskeletal deformities",
+    "chapter": "Congenital malformations, deformations and chromosomal abnormalities",
+    "chapterCode": "XVII",
+    "block": "Congenital malformations and deformations of the musculoskeletal system",
+    "blockCode": "Q65-Q79",
+    "category": "Other congenital musculoskeletal deformities",
+    "categoryCode": "Q68",
+    "subcategory": "Q68.8",
+    "inclusion": [
+        "Congenital: deformity of: clavicle",
+        "Congenital: deformity of: elbow",
+        "Congenital: deformity of: forearm",
+        "Congenital: deformity of: scapula",
+        "Congenital: dislocation of: elbow",
+        "Congenital: dislocation of: shoulder"
+    ],
+    "exclusion": [
+        "inborn errors of metabolism",
+        "reduction defects of limb(s)"
+    ],
+    "symptoms": [
+        "abnormal limb positioning",
+        "restricted joint movement",
+        "unusual limb size",
+        "deformities in limb structure",
+        "asymmetry in limb appearance"
+    ]
+}

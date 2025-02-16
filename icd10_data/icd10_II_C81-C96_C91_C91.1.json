@@ -1,0 +1,20 @@
+{
+  "type": "subcategory",
+  "chapterCode": "II",
+  "chapter": "Neoplasms",
+  "blockCode": "C81-C96",
+  "block": "Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",
+  "categoryCode": "C91",
+  "category": "Lymphoid leukaemia",
+  "subcategory": "C91.1",
+  "title": "Chronic lymphocytic leukaemia of B-cell type",
+  "inclusion": [
+    "Lymphoplasmacytic leukaemia",
+    "Richter syndrome"
+  ],
+  "exclusion": [
+    "secondary and unspecified neoplasm of lymph nodes",
+    "lymphoplasmacytic lymphoma"
+  ],
+  "children": null
+}

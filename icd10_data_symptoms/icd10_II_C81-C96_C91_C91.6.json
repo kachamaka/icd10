@@ -1,0 +1,23 @@
+{
+    "icd10code": "C91.6",
+    "type": "subcategory",
+    "title": "Prolymphocytic leukaemia of T-cell type",
+    "chapter": "Neoplasms",
+    "chapterCode": "II",
+    "block": "Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",
+    "blockCode": "C81-C96",
+    "category": "Lymphoid leukaemia",
+    "categoryCode": "C91",
+    "subcategory": "C91.6",
+    "inclusion": null,
+    "exclusion": [
+        "secondary and unspecified neoplasm of lymph nodes"
+    ],
+    "symptoms": [
+        "unexplained weight loss",
+        "fatigue",
+        "frequent infections",
+        "easy bruising or bleeding",
+        "swollen lymph nodes"
+    ]
+}

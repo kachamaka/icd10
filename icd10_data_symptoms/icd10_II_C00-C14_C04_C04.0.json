@@ -1,0 +1,23 @@
+{
+    "icd10code": "C04.0",
+    "type": "subcategory",
+    "title": "Malignant neoplasm: Anterior floor of mouth",
+    "chapter": "Neoplasms",
+    "chapterCode": "II",
+    "block": "Malignant neoplasms of lip, oral cavity and pharynx",
+    "blockCode": "C00-C14",
+    "category": "Malignant neoplasm of floor of mouth",
+    "categoryCode": "C04",
+    "subcategory": "C04.0",
+    "inclusion": [
+        "Anterior to the premolar-canine junction"
+    ],
+    "exclusion": null,
+    "symptoms": [
+        "pain in the lower lip",
+        "persistent lip sore",
+        "non-healing ulcers on the lip",
+        "thickening or lump on lip",
+        "unusual bleeding or"
+    ]
+}

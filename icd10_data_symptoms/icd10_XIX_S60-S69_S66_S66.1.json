@@ -1,0 +1,34 @@
+{
+    "icd10code": "S66.1",
+    "type": "subcategory",
+    "title": "Injury of flexor muscle and tendon of other finger at wrist and hand level",
+    "chapter": "Injury, poisoning and certain other consequences of external causes",
+    "chapterCode": "XIX",
+    "block": "Injuries to the wrist and hand",
+    "blockCode": "S60-S69",
+    "category": "Injury of muscle and tendon at wrist and hand level",
+    "categoryCode": "S66",
+    "subcategory": "S66.1",
+    "inclusion": null,
+    "exclusion": [
+        "birth trauma",
+        "obstetric trauma",
+        "malunion of fracture",
+        "nonunion of fracture [pseudarthrosis]",
+        "pathological fracture",
+        "pathological fracture with osteoporosis",
+        "stress fracture",
+        "bilateral involvement of wrist and hand",
+        "burns and corrosions",
+        "frostbite",
+        "injuries of arm, level unspecified",
+        "insect bite or sting, venomous"
+    ],
+    "symptoms": [
+        "pain in hand",
+        "swelling in hand",
+        "difficulty moving fingers",
+        "stiffness in hand",
+        "weakness in grip"
+    ]
+}

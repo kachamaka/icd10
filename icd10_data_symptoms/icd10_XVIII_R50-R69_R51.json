@@ -1,0 +1,29 @@
+{
+    "icd10code": "R51",
+    "type": "category",
+    "title": "Headache",
+    "chapter": "Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+    "chapterCode": "XVIII",
+    "block": "General symptoms and signs",
+    "blockCode": "R50-R69",
+    "category": "Headache",
+    "categoryCode": "R51",
+    "subcategory": "",
+    "inclusion": [
+        "Facial pain NOS"
+    ],
+    "exclusion": [
+        "abnormal findings on antenatal screening of mother",
+        "certain conditions originating in the perinatal period",
+        "atypical facial pain",
+        "migraine and other headache syndromes",
+        "trigeminal neuralgia"
+    ],
+    "symptoms": [
+        "headache",
+        "pressure in head",
+        "throbbing pain",
+        "localized head pain",
+        "generalized head discomfort"
+    ]
+}

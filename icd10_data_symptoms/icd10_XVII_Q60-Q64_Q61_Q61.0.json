@@ -1,0 +1,27 @@
+{
+    "icd10code": "Q61.0",
+    "type": "subcategory",
+    "title": "Congenital single renal cyst",
+    "chapter": "Congenital malformations, deformations and chromosomal abnormalities",
+    "chapterCode": "XVII",
+    "block": "Congenital malformations of the urinary system",
+    "blockCode": "Q60-Q64",
+    "category": "Cystic kidney disease",
+    "categoryCode": "Q61",
+    "subcategory": "Q61.0",
+    "inclusion": [
+        "Congenital cyst of kidney (single)"
+    ],
+    "exclusion": [
+        "inborn errors of metabolism",
+        "cyst of kidney (acquired)",
+        "Potter syndrome"
+    ],
+    "symptoms": [
+        "kidney cysts",
+        "abdominal pain",
+        "hypertension",
+        "blood in urine",
+        "kidney dysfunction"
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "icd10code": "F30.9",
+    "type": "subcategory",
+    "title": "Manic episode, unspecified",
+    "chapter": "Mental and behavioural disorders",
+    "chapterCode": "V",
+    "block": "Mood [affective] disorders",
+    "blockCode": "F30-F39",
+    "category": "Manic episode",
+    "categoryCode": "F30",
+    "subcategory": "F30.9",
+    "inclusion": [
+        "disorders of psychological development",
+        "bipolar disorder, single manic episode",
+        "Mania NOS"
+    ],
+    "exclusion": [
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified"
+    ],
+    "symptoms": [
+        "elevated mood",
+        "increased energy",
+        "decreased need for sleep",
+        "impulsivity",
+        "grandiosity"
+    ]
+}

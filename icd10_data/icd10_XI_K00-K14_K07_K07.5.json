@@ -1,0 +1,32 @@
+{
+  "type": "subcategory",
+  "chapterCode": "XI",
+  "chapter": "Diseases of the digestive system",
+  "blockCode": "K00-K14",
+  "block": "Diseases of oral cavity, salivary glands and jaws",
+  "categoryCode": "K07",
+  "category": "Dentofacial anomalies [including malocclusion]",
+  "subcategory": "K07.5",
+  "title": "Dentofacial functional abnormalities",
+  "inclusion": [
+    "Abnormal jaw closure",
+    "Malocclusion due to: abnormal swallowing",
+    "Malocclusion due to: mouth breathing",
+    "Malocclusion due to: tongue, lip or finger habits"
+  ],
+  "exclusion": [
+    "certain conditions originating in the perinatal period",
+    "certain infectious and parasitic diseases",
+    "complications of pregnancy, childbirth and the puerperium",
+    "congenital malformations, deformations and chromosomal abnormalities",
+    "endocrine, nutritional and metabolic diseases",
+    "injury, poisoning and certain other consequences of external causes",
+    "neoplasms",
+    "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+    "hemifacial atrophy or hypertrophy",
+    "unilateral condylar hyperplasia or hypoplasia",
+    "bruxism",
+    "teeth-grinding NOS"
+  ],
+  "children": null
+}

@@ -1,0 +1,41 @@
+{
+    "icd10code": "L20.0",
+    "type": "subcategory",
+    "title": "Besnier prurigo",
+    "chapter": "Diseases of the skin and subcutaneous tissue",
+    "chapterCode": "XII",
+    "block": "Dermatitis and eczema",
+    "blockCode": "L20-L30",
+    "category": "Atopic dermatitis",
+    "categoryCode": "L20",
+    "subcategory": "L20.0",
+    "inclusion": null,
+    "exclusion": [
+        "certain conditions originating in the perinatal period",
+        "certain infectious and parasitic diseases",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "lipomelanotic reticulosis",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "systemic connective tissue disorders",
+        "chronic (childhood) granulomatous disease",
+        "dermatitis: dry skin",
+        "dermatitis: factitial",
+        "dermatitis: gangrenosa",
+        "dermatitis: herpetiformis",
+        "dermatitis: perioral",
+        "dermatitis: stasis",
+        "radiation-related disorders of the skin and subcutaneous tissue",
+        "dermatitis: contact"
+    ],
+    "symptoms": [
+        "itching",
+        "redness",
+        "dry skin",
+        "thickened skin",
+        "scaly patches"
+    ]
+}

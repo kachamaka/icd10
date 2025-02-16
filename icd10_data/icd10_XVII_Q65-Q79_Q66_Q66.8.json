@@ -1,0 +1,26 @@
+{
+  "type": "subcategory",
+  "chapterCode": "XVII",
+  "chapter": "Congenital malformations, deformations and chromosomal abnormalities",
+  "blockCode": "Q65-Q79",
+  "block": "Congenital malformations and deformations of the musculoskeletal system",
+  "categoryCode": "Q66",
+  "category": "Congenital deformities of feet",
+  "subcategory": "Q66.8",
+  "title": "Other congenital deformities of feet",
+  "inclusion": [
+    "Clubfoot NOS",
+    "Hammer toe, congenital",
+    "Talipes: NOS",
+    "Talipes: asymmetric",
+    "Tarsal coalition",
+    "Vertical talus"
+  ],
+  "exclusion": [
+    "inborn errors of metabolism",
+    "reduction defects of feet",
+    "valgus deformities (acquired)",
+    "varus deformities (acquired)"
+  ],
+  "children": null
+}

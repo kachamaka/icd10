@@ -1,0 +1,27 @@
+{
+  "type": "subcategory",
+  "chapterCode": "X",
+  "chapter": "Diseases of the respiratory system",
+  "blockCode": "J40-J47",
+  "block": "Chronic lower respiratory diseases",
+  "categoryCode": "J41",
+  "category": "Simple and mucopurulent chronic bronchitis",
+  "subcategory": "J41.8",
+  "title": "Mixed simple and mucopurulent chronic bronchitis",
+  "inclusion": null,
+  "exclusion": [
+    "certain conditions originating in the perinatal period",
+    "certain infectious and parasitic diseases",
+    "complications of pregnancy, childbirth and the puerperium",
+    "congenital malformations, deformations and chromosomal abnormalities",
+    "endocrine, nutritional and metabolic diseases",
+    "injury, poisoning and certain other consequences of external causes",
+    "neoplasms",
+    "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+    "cystic fibrosis",
+    "respiratory infection NOS",
+    "congenital bronchiectasis",
+    "tuberculous bronchiectasis (current disease)"
+  ],
+  "children": null
+}

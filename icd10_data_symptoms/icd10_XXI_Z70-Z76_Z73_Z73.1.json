@@ -1,0 +1,25 @@
+{
+    "icd10code": "Z73.1",
+    "type": "subcategory",
+    "title": "Accentuation of personality traits",
+    "chapter": "Factors influencing health status and contact with health services",
+    "chapterCode": "XXI",
+    "block": "Persons encountering health services in other circumstances",
+    "blockCode": "Z70-Z76",
+    "category": "Problems related to life-management difficulty",
+    "categoryCode": "Z73",
+    "subcategory": "Z73.1",
+    "inclusion": [
+        "Type A behaviour pattern (characterized by unbridled ambition, a need for high achievement, impatience, competitiveness, and a sense of urgency)"
+    ],
+    "exclusion": [
+        "problems related to socioeconomic and psychosocial circumstances"
+    ],
+    "symptoms": [
+        "stress",
+        "fatigue",
+        "irritability",
+        "difficulty concentrating",
+        "sleep disturbances"
+    ]
+}

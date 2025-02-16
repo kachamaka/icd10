@@ -1,0 +1,17 @@
+{
+    "icd10code": "Z76.9",
+    "type": "subcategory",
+    "title": "Person encountering health services in unspecified circumstances",
+    "chapter": "Factors influencing health status and contact with health services",
+    "chapterCode": "XXI",
+    "block": "Persons encountering health services in other circumstances",
+    "blockCode": "Z70-Z76",
+    "category": "Persons encountering health services in other circumstances",
+    "categoryCode": "Z76",
+    "subcategory": "Z76.9",
+    "inclusion": null,
+    "exclusion": null,
+    "symptoms": [
+        "asymptomatic"
+    ]
+}

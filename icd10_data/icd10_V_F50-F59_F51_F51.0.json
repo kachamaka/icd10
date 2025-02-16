@@ -1,0 +1,20 @@
+{
+  "type": "subcategory",
+  "chapterCode": "V",
+  "chapter": "Mental and behavioural disorders",
+  "blockCode": "F50-F59",
+  "block": "Behavioural syndromes associated with physiological disturbances and physical factors",
+  "categoryCode": "F51",
+  "category": "Nonorganic sleep disorders",
+  "subcategory": "F51.0",
+  "title": "Nonorganic insomnia",
+  "inclusion": [
+    "disorders of psychological development"
+  ],
+  "exclusion": [
+    "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+    "sleep disorders (organic)",
+    "insomnia (organic)"
+  ],
+  "children": null
+}

@@ -1,0 +1,27 @@
+{
+    "icd10code": "E51.9",
+    "type": "subcategory",
+    "title": "Thiamine deficiency, unspecified",
+    "chapter": "Endocrine, nutritional and metabolic diseases",
+    "chapterCode": "IV",
+    "block": "Other nutritional deficiencies",
+    "blockCode": "E50-E64",
+    "category": "Thiamine deficiency",
+    "categoryCode": "E51",
+    "subcategory": "E51.9",
+    "inclusion": null,
+    "exclusion": [
+        "complications of pregnancy, childbirth and the puerperium",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "transitory endocrine and metabolic disorders specific to fetus and newborn",
+        "diabetes mellitus (in): malnutrition-related",
+        "sequelae of thiamine deficiency"
+    ],
+    "symptoms": [
+        "fatigue",
+        "mild memory impairment",
+        "trouble focusing",
+        "irritability",
+        "unexplained weight loss"
+    ]
+}

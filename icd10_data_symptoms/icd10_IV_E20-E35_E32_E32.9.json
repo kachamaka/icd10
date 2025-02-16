@@ -1,0 +1,29 @@
+{
+    "icd10code": "E32.9",
+    "type": "subcategory",
+    "title": "Disease of thymus, unspecified",
+    "chapter": "Endocrine, nutritional and metabolic diseases",
+    "chapterCode": "IV",
+    "block": "Disorders of other endocrine glands",
+    "blockCode": "E20-E35",
+    "category": "Diseases of thymus",
+    "categoryCode": "E32",
+    "subcategory": "E32.9",
+    "inclusion": null,
+    "exclusion": [
+        "complications of pregnancy, childbirth and the puerperium",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "transitory endocrine and metabolic disorders specific to fetus and newborn",
+        "galactorrhoea",
+        "gynaecomastia",
+        "Albright(-McCune)(-Sternberg) syndrome",
+        "progeria"
+    ],
+    "symptoms": [
+        "facial pain",
+        "difficulty swallowing",
+        "hoarseness",
+        "persistent cough",
+        "swelling in the neck"
+    ]
+}

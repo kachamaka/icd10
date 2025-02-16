@@ -1,0 +1,19 @@
+{
+    "icd10code": "Z33",
+    "type": "category",
+    "title": "Pregnant state, incidental",
+    "chapter": "Factors influencing health status and contact with health services",
+    "chapterCode": "XXI",
+    "block": "Persons encountering health services in circumstances related to reproduction",
+    "blockCode": "Z30-Z39",
+    "category": "Pregnant state, incidental",
+    "categoryCode": "Z33",
+    "subcategory": "",
+    "inclusion": [
+        "Pregnant state NOS"
+    ],
+    "exclusion": null,
+    "symptoms": [
+        "asymptomatic"
+    ]
+}

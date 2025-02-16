@@ -1,0 +1,21 @@
+{
+    "icd10code": "C78.3",
+    "type": "subcategory",
+    "title": "Secondary malignant neoplasm of other and unspecified respiratory organs",
+    "chapter": "Neoplasms",
+    "chapterCode": "II",
+    "block": "Malignant neoplasms of ill-defined, secondary and unspecified sites",
+    "blockCode": "C76-C80",
+    "category": "Secondary malignant neoplasm of respiratory and digestive organs",
+    "categoryCode": "C78",
+    "subcategory": "C78.3",
+    "inclusion": null,
+    "exclusion": null,
+    "symptoms": [
+        "abdominal pain",
+        "loss of appetite",
+        "unexplained weight loss",
+        "jaundice",
+        "nausea and vomiting"
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "icd10code": "Z51.2",
+    "type": "subcategory",
+    "title": "Other chemotherapy",
+    "chapter": "Factors influencing health status and contact with health services",
+    "chapterCode": "XXI",
+    "block": "Persons encountering health services for specific procedures and health care",
+    "blockCode": "Z40-Z54",
+    "category": "Other medical care",
+    "categoryCode": "Z51",
+    "subcategory": "Z51.2",
+    "inclusion": [
+        "Maintenance chemotherapy NOS"
+    ],
+    "exclusion": [
+        "follow-up examination for medical surveillance after treatment",
+        "follow-up examination after treatment",
+        "prophylactic chemotherapy for immunization purposes"
+    ],
+    "symptoms": [
+        "asymptomatic"
+    ]
+}

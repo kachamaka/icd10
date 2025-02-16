@@ -1,0 +1,31 @@
+{
+    "icd10code": "D03.5",
+    "type": "subcategory",
+    "title": "Melanoma in situ of trunk",
+    "chapter": "Neoplasms",
+    "chapterCode": "II",
+    "block": "In situ neoplasms",
+    "blockCode": "D00-D09",
+    "category": "Melanoma in situ",
+    "categoryCode": "D03",
+    "subcategory": "D03.5",
+    "inclusion": [
+        "Bowen disease",
+        "erythroplasia",
+        "morphology codes with behaviour code /2",
+        "Queyrat erythroplasia",
+        "morphology codes M872-M879 with behaviour code /2",
+        "Anal: margin",
+        "Anal: skin",
+        "Breast (skin)(soft tissue)",
+        "Perianal skin"
+    ],
+    "exclusion": null,
+    "symptoms": [
+        "pain in the lower back",
+        "blood in urine",
+        "frequent urination",
+        "urinary urgency",
+        "unexplained weight loss"
+    ]
+}

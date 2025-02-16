@@ -1,0 +1,17 @@
+{
+  "type": "category",
+  "chapterCode": "XX",
+  "chapter": "External causes of morbidity and mortality",
+  "blockCode": "X60-X84",
+  "block": "Intentional self-harm",
+  "categoryCode": "X81",
+  "category": "Intentional self-harm by jumping or lying before moving object",
+  "subcategory": "",
+  "title": "Intentional self-harm by jumping or lying before moving object",
+  "inclusion": [
+    "purposely self-inflicted poisoning or injury",
+    "suicide (attempted)"
+  ],
+  "exclusion": null,
+  "children": null
+}

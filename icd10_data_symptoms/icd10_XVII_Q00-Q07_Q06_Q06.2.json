@@ -1,0 +1,23 @@
+{
+    "icd10code": "Q06.2",
+    "type": "subcategory",
+    "title": "Diastematomyelia",
+    "chapter": "Congenital malformations, deformations and chromosomal abnormalities",
+    "chapterCode": "XVII",
+    "block": "Congenital malformations of the nervous system",
+    "blockCode": "Q00-Q07",
+    "category": "Other congenital malformations of spinal cord",
+    "categoryCode": "Q06",
+    "subcategory": "Q06.2",
+    "inclusion": null,
+    "exclusion": [
+        "inborn errors of metabolism"
+    ],
+    "symptoms": [
+        "delayed milestones",
+        "poor muscle tone",
+        "abnormal head shape",
+        "breathing difficulties",
+        "developmental delays"
+    ]
+}

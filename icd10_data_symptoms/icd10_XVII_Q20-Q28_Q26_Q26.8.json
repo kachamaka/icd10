@@ -1,0 +1,28 @@
+{
+    "icd10code": "Q26.8",
+    "type": "subcategory",
+    "title": "Other congenital malformations of great veins",
+    "chapter": "Congenital malformations, deformations and chromosomal abnormalities",
+    "chapterCode": "XVII",
+    "block": "Congenital malformations of the circulatory system",
+    "blockCode": "Q20-Q28",
+    "category": "Congenital malformations of great veins",
+    "categoryCode": "Q26",
+    "subcategory": "Q26.8",
+    "inclusion": [
+        "Absence of vena cava (inferior)(superior)",
+        "Azygos continuation of inferior vena cava",
+        "Persistent left posterior cardinal vein",
+        "Scimitar syndrome"
+    ],
+    "exclusion": [
+        "inborn errors of metabolism"
+    ],
+    "symptoms": [
+        "abnormal blood vessel connections",
+        "unusual blood flow patterns",
+        "cyanosis",
+        "swelling in affected areas",
+        "vascular malformations"
+    ]
+}

@@ -1,0 +1,29 @@
+{
+  "type": "subcategory",
+  "chapterCode": "I",
+  "chapter": "Certain infectious and parasitic diseases",
+  "blockCode": "B35-B49",
+  "block": "Mycoses",
+  "categoryCode": "B37",
+  "category": "Candidiasis",
+  "subcategory": "B37.4",
+  "title": "Candidiasis of other urogenital sites",
+  "inclusion": [
+    "diseases generally recognized as communicable or transmissible",
+    "candidosis",
+    "moniliasis",
+    "Candidal: balanitis",
+    "Candidal: urethritis"
+  ],
+  "exclusion": [
+    "carrier or suspected carrier of infectious disease",
+    "certain localized infections - see body system-related chapters",
+    "infectious and parasitic diseases complicating pregnancy, childbirth and the puerperium [except obstetrical tetanus]",
+    "infectious and parasitic diseases specific to the perinatal period [except tetanus neonatorum, whooping cough, congenital syphilis, perinatal gonococcal infection and perinatal human immunodeficiency virus [HIV] disease]",
+    "influenza and other acute respiratory infections",
+    "haemorrhagic fever with renal manifestations",
+    "monkeypox",
+    "hantavirus (cardio-)pulmonary syndrome"
+  ],
+  "children": null
+}

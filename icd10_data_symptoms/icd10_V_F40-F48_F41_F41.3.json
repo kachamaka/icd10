@@ -1,0 +1,26 @@
+{
+    "icd10code": "F41.3",
+    "type": "subcategory",
+    "title": "Other mixed anxiety disorders",
+    "chapter": "Mental and behavioural disorders",
+    "chapterCode": "V",
+    "block": "Neurotic, stress-related and somatoform disorders",
+    "blockCode": "F40-F48",
+    "category": "Other anxiety disorders",
+    "categoryCode": "F41",
+    "subcategory": "F41.3",
+    "inclusion": [
+        "disorders of psychological development"
+    ],
+    "exclusion": [
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "when associated with conduct disorder in F91.-"
+    ],
+    "symptoms": [
+        "restlessness",
+        "muscle tension",
+        "fatigue",
+        "difficulty concentrating",
+        "sleep disturbances"
+    ]
+}

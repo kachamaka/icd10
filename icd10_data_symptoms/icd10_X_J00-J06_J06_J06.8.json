@@ -1,0 +1,35 @@
+{
+    "icd10code": "J06.8",
+    "type": "subcategory",
+    "title": "Other acute upper respiratory infections of multiple sites",
+    "chapter": "Diseases of the respiratory system",
+    "chapterCode": "X",
+    "block": "Acute upper respiratory infections",
+    "blockCode": "J00-J06",
+    "category": "Acute upper respiratory infections of multiple and unspecified sites",
+    "categoryCode": "J06",
+    "subcategory": "J06.8",
+    "inclusion": null,
+    "exclusion": [
+        "certain conditions originating in the perinatal period",
+        "certain infectious and parasitic diseases",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "chronic obstructive pulmonary disease with acute exacerbation NOS",
+        "acute respiratory infection NOS",
+        "influenza virus: identified",
+        "chronic laryngotracheitis",
+        "influenzal laryngitis, influenza virus: identified"
+    ],
+    "symptoms": [
+        "fever",
+        "cough",
+        "sore throat",
+        "nasal congestion",
+        "headache"
+    ]
+}

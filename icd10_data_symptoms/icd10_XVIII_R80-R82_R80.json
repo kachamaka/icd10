@@ -1,0 +1,36 @@
+{
+    "icd10code": "R80",
+    "type": "category",
+    "title": "Isolated proteinuria",
+    "chapter": "Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+    "chapterCode": "XVIII",
+    "block": "Abnormal findings on examination of urine, without diagnosis",
+    "blockCode": "R80-R82",
+    "category": "Isolated proteinuria",
+    "categoryCode": "R80",
+    "subcategory": "",
+    "inclusion": [
+        "Albuminuria NOS",
+        "Bence Jones proteinuria",
+        "Proteinuria NOS"
+    ],
+    "exclusion": [
+        "abnormal findings on antenatal screening of mother",
+        "certain conditions originating in the perinatal period",
+        "abnormal findings on antenatal screening of mother",
+        "diagnostic abnormal findings classified elsewhere - see Alphabetical Index",
+        "specific findings indicating disorder of: amino-acid metabolism",
+        "specific findings indicating disorder of: carbohydrate metabolism",
+        "proteinuria: gestational",
+        "proteinuria: isolated, with specified morphological lesion",
+        "proteinuria: orthostatic",
+        "proteinuria: persistent"
+    ],
+    "symptoms": [
+        "proteinuria",
+        "foamy urine",
+        "swelling in legs",
+        "fatigue",
+        "weight gain"
+    ]
+}

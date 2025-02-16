@@ -1,0 +1,14 @@
+{
+  "type": "category",
+  "chapterCode": "XX",
+  "chapter": "External causes of morbidity and mortality",
+  "blockCode": "X30-X39",
+  "block": "Exposure to forces of nature",
+  "categoryCode": "X32",
+  "category": "Exposure to sunlight",
+  "subcategory": "",
+  "title": "Exposure to sunlight",
+  "inclusion": null,
+  "exclusion": null,
+  "children": null
+}

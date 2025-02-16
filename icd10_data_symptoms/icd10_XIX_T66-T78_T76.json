@@ -1,0 +1,36 @@
+{
+    "icd10code": "T76",
+    "type": "category",
+    "title": "Unspecified effects of external causes",
+    "chapter": "Injury, poisoning and certain other consequences of external causes",
+    "chapterCode": "XIX",
+    "block": "Other and unspecified effects of external causes",
+    "blockCode": "T66-T78",
+    "category": "Unspecified effects of external causes",
+    "categoryCode": "T76",
+    "subcategory": "",
+    "inclusion": [
+        "Unspecified effects of: assault by unspecified means",
+        "Unspecified effects of: intentional self-harm (suicide) by unspecified means"
+    ],
+    "exclusion": [
+        "birth trauma",
+        "obstetric trauma",
+        "malunion of fracture",
+        "nonunion of fracture [pseudarthrosis]",
+        "pathological fracture",
+        "pathological fracture with osteoporosis",
+        "stress fracture",
+        "effect (of): adverse NEC",
+        "effect (of): injury NOS",
+        "effect (of): other external causes",
+        "effect (of): poisoning NOS"
+    ],
+    "symptoms": [
+        "bruising",
+        "anxiety",
+        "depression",
+        "nightmares",
+        "difficulty trusting others"
+    ]
+}

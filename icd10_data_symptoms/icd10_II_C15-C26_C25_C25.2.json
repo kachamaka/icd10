@@ -1,0 +1,21 @@
+{
+    "icd10code": "C25.2",
+    "type": "subcategory",
+    "title": "Malignant neoplasm: Tail of pancreas",
+    "chapter": "Neoplasms",
+    "chapterCode": "II",
+    "block": "Malignant neoplasms of digestive organs",
+    "blockCode": "C15-C26",
+    "category": "Malignant neoplasm of pancreas",
+    "categoryCode": "C25",
+    "subcategory": "C25.2",
+    "inclusion": null,
+    "exclusion": null,
+    "symptoms": [
+        "abdominal pain",
+        "weight loss",
+        "loss of appetite",
+        "jaundice",
+        "light-colored stools"
+    ]
+}

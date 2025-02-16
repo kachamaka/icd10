@@ -1,0 +1,26 @@
+{
+    "icd10code": "Q53.1",
+    "type": "subcategory",
+    "title": "Undescended testicle, unilateral",
+    "chapter": "Congenital malformations, deformations and chromosomal abnormalities",
+    "chapterCode": "XVII",
+    "block": "Congenital malformations of genital organs",
+    "blockCode": "Q50-Q56",
+    "category": "Undescended testicle",
+    "categoryCode": "Q53",
+    "subcategory": "Q53.1",
+    "inclusion": null,
+    "exclusion": [
+        "inborn errors of metabolism",
+        "androgen resistance syndrome",
+        "syndromes associated with anomalies in the number and form of chromosomes",
+        "testicular feminization syndrome"
+    ],
+    "symptoms": [
+        "undescended testis",
+        "empty scrotum",
+        "palpable mass in inguinal area",
+        "asymmetrical scrotum",
+        "fertility issues"
+    ]
+}

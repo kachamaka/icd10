@@ -1,0 +1,35 @@
+{
+    "icd10code": "B37.0",
+    "type": "subcategory",
+    "title": "Candidal stomatitis",
+    "chapter": "Certain infectious and parasitic diseases",
+    "chapterCode": "I",
+    "block": "Mycoses",
+    "blockCode": "B35-B49",
+    "category": "Candidiasis",
+    "categoryCode": "B37",
+    "subcategory": "B37.0",
+    "inclusion": [
+        "diseases generally recognized as communicable or transmissible",
+        "candidosis",
+        "moniliasis",
+        "Oral thrush"
+    ],
+    "exclusion": [
+        "carrier or suspected carrier of infectious disease",
+        "certain localized infections - see body system-related chapters",
+        "infectious and parasitic diseases complicating pregnancy, childbirth and the puerperium [except obstetrical tetanus]",
+        "infectious and parasitic diseases specific to the perinatal period [except tetanus neonatorum, whooping cough, congenital syphilis, perinatal gonococcal infection and perinatal human immunodeficiency virus [HIV] disease]",
+        "influenza and other acute respiratory infections",
+        "haemorrhagic fever with renal manifestations",
+        "monkeypox",
+        "hantavirus (cardio-)pulmonary syndrome"
+    ],
+    "symptoms": [
+        "sore mouth",
+        "white patches",
+        "redness",
+        "burning sensation",
+        "difficulty swallowing"
+    ]
+}

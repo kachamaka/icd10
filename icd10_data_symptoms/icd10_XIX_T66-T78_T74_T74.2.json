@@ -1,0 +1,29 @@
+{
+    "icd10code": "T74.2",
+    "type": "subcategory",
+    "title": "Sexual abuse",
+    "chapter": "Injury, poisoning and certain other consequences of external causes",
+    "chapterCode": "XIX",
+    "block": "Other and unspecified effects of external causes",
+    "blockCode": "T66-T78",
+    "category": "Maltreatment syndromes",
+    "categoryCode": "T74",
+    "subcategory": "T74.2",
+    "inclusion": null,
+    "exclusion": [
+        "birth trauma",
+        "obstetric trauma",
+        "malunion of fracture",
+        "nonunion of fracture [pseudarthrosis]",
+        "pathological fracture",
+        "pathological fracture with osteoporosis",
+        "stress fracture"
+    ],
+    "symptoms": [
+        "bruising",
+        "withdrawal",
+        "fearfulness",
+        "anxiety",
+        "inconsistent explanations of injuries"
+    ]
+}

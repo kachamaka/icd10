@@ -1,0 +1,27 @@
+{
+    "icd10code": "Z97.5",
+    "type": "subcategory",
+    "title": "Presence of (intrauterine) contraceptive device",
+    "chapter": "Factors influencing health status and contact with health services",
+    "chapterCode": "XXI",
+    "block": "Persons with potential health hazards related to family and personal history and certain conditions influencing health status",
+    "blockCode": "Z80-Z99",
+    "category": "Presence of other devices",
+    "categoryCode": "Z97",
+    "subcategory": "Z97.5",
+    "inclusion": null,
+    "exclusion": [
+        "follow-up examination",
+        "follow-up medical care and convalescence",
+        "when family or personal history is the reason for special screening or other examination or investigation",
+        "when the possibility that the fetus might be affected is the reason for observation or action during pregnancy",
+        "complications of internal prosthetic devices, implants and grafts",
+        "fitting and adjustment of prosthetic and other devices",
+        "presence of cerebrospinal fluid drainage device",
+        "checking, reinsertion or removal of contraceptive device",
+        "insertion of contraceptive device"
+    ],
+    "symptoms": [
+        "asymptomatic"
+    ]
+}

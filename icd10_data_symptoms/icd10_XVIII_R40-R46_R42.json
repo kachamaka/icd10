@@ -1,0 +1,29 @@
+{
+    "icd10code": "R42",
+    "type": "category",
+    "title": "Dizziness and giddiness",
+    "chapter": "Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+    "chapterCode": "XVIII",
+    "block": "Symptoms and signs involving cognition, perception, emotional state and behaviour",
+    "blockCode": "R40-R46",
+    "category": "Dizziness and giddiness",
+    "categoryCode": "R42",
+    "subcategory": "",
+    "inclusion": [
+        "Light-headedness",
+        "Vertigo NOS"
+    ],
+    "exclusion": [
+        "abnormal findings on antenatal screening of mother",
+        "certain conditions originating in the perinatal period",
+        "those constituting part of a pattern of mental disorder",
+        "vertiginous syndromes"
+    ],
+    "symptoms": [
+        "dizziness",
+        "lightheadedness",
+        "unsteadiness",
+        "vertigo",
+        "sensation of spinning"
+    ]
+}

@@ -1,0 +1,16 @@
+{
+  "type": "subcategory",
+  "chapterCode": "II",
+  "chapter": "Neoplasms",
+  "blockCode": "C15-C26",
+  "block": "Malignant neoplasms of digestive organs",
+  "categoryCode": "C17",
+  "category": "Malignant neoplasm of small intestine",
+  "subcategory": "C17.2",
+  "title": "Malignant neoplasm: Ileum",
+  "inclusion": null,
+  "exclusion": [
+    "ileocaecal valve"
+  ],
+  "children": null
+}

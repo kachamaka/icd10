@@ -1,0 +1,31 @@
+{
+    "icd10code": "P29.8",
+    "type": "subcategory",
+    "title": "Other cardiovascular disorders originating in the perinatal period",
+    "chapter": "Certain conditions originating in the perinatal period",
+    "chapterCode": "XVI",
+    "block": "Respiratory and cardiovascular disorders specific to the perinatal period",
+    "blockCode": "P20-P29",
+    "category": "Cardiovascular disorders originating in the perinatal period",
+    "categoryCode": "P29",
+    "subcategory": "P29.8",
+    "inclusion": [
+        "conditions that have their origin in the perinatal period even though death or morbidity occurs later"
+    ],
+    "exclusion": [
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "tetanus neonatorum",
+        "whooping cough",
+        "single umbilical artery"
+    ],
+    "symptoms": [
+        "heart murmur",
+        "cyanosis",
+        "difficulty breathing",
+        "fatigue",
+        "poor feeding"
+    ]
+}

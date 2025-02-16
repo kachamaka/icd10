@@ -1,0 +1,20 @@
+{
+  "type": "category",
+  "chapterCode": "XX",
+  "chapter": "External causes of morbidity and mortality",
+  "blockCode": "W20-W49",
+  "block": "Exposure to inanimate mechanical forces",
+  "categoryCode": "W49",
+  "category": "Exposure to other and unspecified inanimate mechanical forces",
+  "subcategory": "",
+  "title": "Exposure to other and unspecified inanimate mechanical forces",
+  "inclusion": [
+    "abnormal gravitational [G] forces"
+  ],
+  "exclusion": [
+    "assault",
+    "contact or collision with animals or persons",
+    "intentional self-harm"
+  ],
+  "children": null
+}

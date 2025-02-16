@@ -1,0 +1,24 @@
+{
+  "type": "subcategory",
+  "chapterCode": "VII",
+  "chapter": "Diseases of the eye and adnexa",
+  "blockCode": "H43-H45",
+  "block": "Disorders of vitreous body and globe",
+  "categoryCode": "H43",
+  "category": "Disorders of vitreous body",
+  "subcategory": "H43.0",
+  "title": "Vitreous prolapse",
+  "inclusion": null,
+  "exclusion": [
+    "certain conditions originating in the perinatal period",
+    "certain infectious and parasitic diseases",
+    "complications of pregnancy, childbirth and the puerperium",
+    "congenital malformations, deformations and chromosomal abnormalities",
+    "endocrine, nutritional and metabolic diseases",
+    "injury, poisoning and certain other consequences of external causes",
+    "neoplasms",
+    "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+    "vitreous syndrome following cataract surgery"
+  ],
+  "children": null
+}

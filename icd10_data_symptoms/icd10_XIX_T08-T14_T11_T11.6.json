@@ -1,0 +1,38 @@
+{
+    "icd10code": "T11.6",
+    "type": "subcategory",
+    "title": "Traumatic amputation of upper limb, level unspecified",
+    "chapter": "Injury, poisoning and certain other consequences of external causes",
+    "chapterCode": "XIX",
+    "block": "Injuries to unspecified part of trunk, limb or body region",
+    "blockCode": "T08-T14",
+    "category": "Other injuries of upper limb, level unspecified",
+    "categoryCode": "T11",
+    "subcategory": "T11.6",
+    "inclusion": [
+        "Traumatic amputation of arm NOS"
+    ],
+    "exclusion": [
+        "birth trauma",
+        "obstetric trauma",
+        "malunion of fracture",
+        "nonunion of fracture [pseudarthrosis]",
+        "pathological fracture",
+        "pathological fracture with osteoporosis",
+        "stress fracture",
+        "burns and corrosions",
+        "frostbite",
+        "injuries involving multiple body regions",
+        "insect bite or sting, venomous",
+        "injuries involving multiple body regions",
+        "fracture of lower limb, level unspecified",
+        "injuries involving multiple body regions"
+    ],
+    "symptoms": [
+        "pain",
+        "swelling",
+        "numbness",
+        "limited mobility",
+        "bruising"
+    ]
+}

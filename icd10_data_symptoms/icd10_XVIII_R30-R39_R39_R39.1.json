@@ -1,0 +1,28 @@
+{
+    "icd10code": "R39.1",
+    "type": "subcategory",
+    "title": "Other difficulties with micturition",
+    "chapter": "Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+    "chapterCode": "XVIII",
+    "block": "Symptoms and signs involving the urinary system",
+    "blockCode": "R30-R39",
+    "category": "Other symptoms and signs involving the urinary system",
+    "categoryCode": "R39",
+    "subcategory": "R39.1",
+    "inclusion": [
+        "Hesitancy of micturition",
+        "Poor urinary stream",
+        "Splitting of urinary stream"
+    ],
+    "exclusion": [
+        "abnormal findings on antenatal screening of mother",
+        "certain conditions originating in the perinatal period"
+    ],
+    "symptoms": [
+        "painful urination",
+        "burning sensation during urination",
+        "frequent urge to urinate",
+        "difficulty starting urination",
+        "discomfort in the lower abdomen"
+    ]
+}

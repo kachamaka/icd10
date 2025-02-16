@@ -1,0 +1,20 @@
+{
+  "type": "subcategory",
+  "chapterCode": "V",
+  "chapter": "Mental and behavioural disorders",
+  "blockCode": "F60-F69",
+  "block": "Disorders of adult personality and behaviour",
+  "categoryCode": "F60",
+  "category": "Specific personality disorders",
+  "subcategory": "F60.4",
+  "title": "Histrionic personality disorder",
+  "inclusion": [
+    "disorders of psychological development",
+    "Personality (disorder): hysterical",
+    "Personality (disorder): psychoinfantile"
+  ],
+  "exclusion": [
+    "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified"
+  ],
+  "children": null
+}

@@ -1,0 +1,33 @@
+{
+    "icd10code": "E89.2",
+    "type": "subcategory",
+    "title": "Postprocedural hypoparathyroidism",
+    "chapter": "Endocrine, nutritional and metabolic diseases",
+    "chapterCode": "IV",
+    "block": "Metabolic disorders",
+    "blockCode": "E70-E90",
+    "category": "Postprocedural endocrine and metabolic disorders, not elsewhere classified",
+    "categoryCode": "E89",
+    "subcategory": "E89.2",
+    "inclusion": [
+        "Parathyroprival tetany"
+    ],
+    "exclusion": [
+        "complications of pregnancy, childbirth and the puerperium",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "transitory endocrine and metabolic disorders specific to fetus and newborn",
+        "androgen resistance syndrome",
+        "congenital adrenal hyperplasia",
+        "Ehlers-Danlos syndrome",
+        "haemolytic anaemias due to enzyme disorders",
+        "Marfan syndrome",
+        "5-alpha-reductase deficiency"
+    ],
+    "symptoms": [
+        "weight loss",
+        "poor appetite",
+        "stomach pain",
+        "nausea and vomiting",
+        "diarrhea"
+    ]
+}

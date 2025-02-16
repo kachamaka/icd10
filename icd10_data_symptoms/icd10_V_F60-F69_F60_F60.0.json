@@ -1,0 +1,35 @@
+{
+    "icd10code": "F60.0",
+    "type": "subcategory",
+    "title": "Paranoid personality disorder",
+    "chapter": "Mental and behavioural disorders",
+    "chapterCode": "V",
+    "block": "Disorders of adult personality and behaviour",
+    "blockCode": "F60-F69",
+    "category": "Specific personality disorders",
+    "categoryCode": "F60",
+    "subcategory": "F60.0",
+    "inclusion": [
+        "disorders of psychological development",
+        "Personality (disorder): expansive paranoid",
+        "Personality (disorder): fanatic",
+        "Personality (disorder): querulant",
+        "Personality (disorder): paranoid",
+        "Personality (disorder): sensitive paranoid"
+    ],
+    "exclusion": [
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "paranoia",
+        "paranoia querulans",
+        "paranoid: psychosis",
+        "paranoid: schizophrenia",
+        "paranoid: state"
+    ],
+    "symptoms": [
+        "fear of abandonment",
+        "unstable relationships",
+        "identity disturbance",
+        "impulsivity",
+        "emotional instability"
+    ]
+}

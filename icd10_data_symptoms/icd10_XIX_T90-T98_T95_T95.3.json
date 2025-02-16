@@ -1,0 +1,31 @@
+{
+    "icd10code": "T95.3",
+    "type": "subcategory",
+    "title": "Sequelae of burn, corrosion and frostbite of lower limb",
+    "chapter": "Injury, poisoning and certain other consequences of external causes",
+    "chapterCode": "XIX",
+    "block": "Sequelae of injuries, of poisoning and of other consequences of external causes",
+    "blockCode": "T90-T98",
+    "category": "Sequelae of burns, corrosions and frostbite",
+    "categoryCode": "T95",
+    "subcategory": "T95.3",
+    "inclusion": [
+        "Sequelae of injury classifiable to T24-T25, T33.6-T33.8, T34.6-T34.8 and T35.5"
+    ],
+    "exclusion": [
+        "birth trauma",
+        "obstetric trauma",
+        "malunion of fracture",
+        "nonunion of fracture [pseudarthrosis]",
+        "pathological fracture",
+        "pathological fracture with osteoporosis",
+        "stress fracture"
+    ],
+    "symptoms": [
+        "chronic pain",
+        "limited mobility",
+        "recurrent infections",
+        "scarring",
+        "tissue deformity"
+    ]
+}

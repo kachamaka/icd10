@@ -1,0 +1,35 @@
+{
+    "icd10code": "K03.4",
+    "type": "subcategory",
+    "title": "Hypercementosis",
+    "chapter": "Diseases of the digestive system",
+    "chapterCode": "XI",
+    "block": "Diseases of oral cavity, salivary glands and jaws",
+    "blockCode": "K00-K14",
+    "category": "Other diseases of hard tissues of teeth",
+    "categoryCode": "K03",
+    "subcategory": "K03.4",
+    "inclusion": [
+        "Cementation hyperplasia"
+    ],
+    "exclusion": [
+        "certain conditions originating in the perinatal period",
+        "certain infectious and parasitic diseases",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "bruxism",
+        "dental caries",
+        "teeth-grinding NOS"
+    ],
+    "symptoms": [
+        "white spots on teeth",
+        "enamel discoloration",
+        "chalky appearance",
+        "tooth sensitivity to temperature",
+        "mild to severe pitting"
+    ]
+}

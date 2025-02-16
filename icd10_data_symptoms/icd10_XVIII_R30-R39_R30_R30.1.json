@@ -1,0 +1,25 @@
+{
+    "icd10code": "R30.1",
+    "type": "subcategory",
+    "title": "Vesical tenesmus",
+    "chapter": "Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+    "chapterCode": "XVIII",
+    "block": "Symptoms and signs involving the urinary system",
+    "blockCode": "R30-R39",
+    "category": "Pain associated with micturition",
+    "categoryCode": "R30",
+    "subcategory": "R30.1",
+    "inclusion": null,
+    "exclusion": [
+        "abnormal findings on antenatal screening of mother",
+        "certain conditions originating in the perinatal period",
+        "psychogenic pain"
+    ],
+    "symptoms": [
+        "dysuria",
+        "burning sensation during urination",
+        "frequent urination",
+        "discomfort in the urethra",
+        "pain while urinating"
+    ]
+}

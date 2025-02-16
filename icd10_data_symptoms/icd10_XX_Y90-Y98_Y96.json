@@ -1,0 +1,17 @@
+{
+    "icd10code": "Y96",
+    "type": "category",
+    "title": "Work-related condition",
+    "chapter": "External causes of morbidity and mortality",
+    "chapterCode": "XX",
+    "block": "Supplementary factors related to causes of morbidity and mortality classified elsewhere",
+    "blockCode": "Y90-Y98",
+    "category": "Work-related condition",
+    "categoryCode": "Y96",
+    "subcategory": "",
+    "inclusion": null,
+    "exclusion": null,
+    "symptoms": [
+        "asymptomatic"
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "icd10code": "E66.2",
+    "type": "subcategory",
+    "title": "Extreme obesity with alveolar hypoventilation",
+    "chapter": "Endocrine, nutritional and metabolic diseases",
+    "chapterCode": "IV",
+    "block": "Obesity and other hyperalimentation",
+    "blockCode": "E65-E68",
+    "category": "Obesity",
+    "categoryCode": "E66",
+    "subcategory": "E66.2",
+    "inclusion": [
+        "Obesity hypoventilation syndrome (OHS)",
+        "Pickwickian syndrome"
+    ],
+    "exclusion": [
+        "complications of pregnancy, childbirth and the puerperium",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "transitory endocrine and metabolic disorders specific to fetus and newborn",
+        "adiposogenital dystrophy",
+        "lipomatosis: NOS",
+        "lipomatosis: dolorosa [Dercum]",
+        "Prader-Willi syndrome"
+    ],
+    "symptoms": [
+        "increased appetite",
+        "uncontrolled eating",
+        "weight gain",
+        "fatigue",
+        "depression"
+    ]
+}

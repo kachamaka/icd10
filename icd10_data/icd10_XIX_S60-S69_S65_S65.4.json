@@ -1,0 +1,27 @@
+{
+  "type": "subcategory",
+  "chapterCode": "XIX",
+  "chapter": "Injury, poisoning and certain other consequences of external causes",
+  "blockCode": "S60-S69",
+  "block": "Injuries to the wrist and hand",
+  "categoryCode": "S65",
+  "category": "Injury of blood vessels at wrist and hand level",
+  "subcategory": "S65.4",
+  "title": "Injury of blood vessel(s) of thumb",
+  "inclusion": null,
+  "exclusion": [
+    "birth trauma",
+    "obstetric trauma",
+    "malunion of fracture",
+    "nonunion of fracture [pseudarthrosis]",
+    "pathological fracture",
+    "pathological fracture with osteoporosis",
+    "stress fracture",
+    "bilateral involvement of wrist and hand",
+    "burns and corrosions",
+    "frostbite",
+    "injuries of arm, level unspecified",
+    "insect bite or sting, venomous"
+  ],
+  "children": null
+}

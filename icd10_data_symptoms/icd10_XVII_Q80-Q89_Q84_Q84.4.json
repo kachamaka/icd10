@@ -1,0 +1,23 @@
+{
+    "icd10code": "Q84.4",
+    "type": "subcategory",
+    "title": "Congenital leukonychia",
+    "chapter": "Congenital malformations, deformations and chromosomal abnormalities",
+    "chapterCode": "XVII",
+    "block": "Other congenital malformations",
+    "blockCode": "Q80-Q89",
+    "category": "Other congenital malformations of integument",
+    "categoryCode": "Q84",
+    "subcategory": "Q84.4",
+    "inclusion": null,
+    "exclusion": [
+        "inborn errors of metabolism"
+    ],
+    "symptoms": [
+        "abnormal hair growth",
+        "brittle hair",
+        "sparse hair",
+        "hair shaft abnormalities",
+        "alopecia"
+    ]
+}

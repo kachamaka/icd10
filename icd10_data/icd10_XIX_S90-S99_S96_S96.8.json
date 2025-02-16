@@ -1,0 +1,29 @@
+{
+  "type": "subcategory",
+  "chapterCode": "XIX",
+  "chapter": "Injury, poisoning and certain other consequences of external causes",
+  "blockCode": "S90-S99",
+  "block": "Injuries to the ankle and foot",
+  "categoryCode": "S96",
+  "category": "Injury of muscle and tendon at ankle and foot level",
+  "subcategory": "S96.8",
+  "title": "Injury of other muscles and tendons at ankle and foot level",
+  "inclusion": null,
+  "exclusion": [
+    "birth trauma",
+    "obstetric trauma",
+    "malunion of fracture",
+    "nonunion of fracture [pseudarthrosis]",
+    "pathological fracture",
+    "pathological fracture with osteoporosis",
+    "stress fracture",
+    "bilateral involvement of ankle and foot",
+    "burns and corrosions",
+    "fracture of ankle and malleolus",
+    "frostbite",
+    "injuries of leg, level unspecified",
+    "insect bite or sting, venomous",
+    "injury of Achilles tendon"
+  ],
+  "children": null
+}

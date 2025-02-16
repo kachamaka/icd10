@@ -1,0 +1,27 @@
+{
+    "icd10code": "F16",
+    "type": "modifiedcategory",
+    "title": "Mental and behavioural disorders due to use of hallucinogens : harmful use",
+    "chapter": "Mental and behavioural disorders",
+    "chapterCode": "V",
+    "block": "Mental and behavioural disorders due to psychoactive substance use",
+    "blockCode": "F10-F19",
+    "category": "Mental and behavioural disorders due to use of hallucinogens",
+    "categoryCode": "F16",
+    "subcategory": "",
+    "inclusion": [
+        "disorders of psychological development",
+        "Psychoactive substance abuse"
+    ],
+    "exclusion": [
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "abuse of non-dependence-producing substances"
+    ],
+    "symptoms": [
+        "hallucinations",
+        "paranoia",
+        "agitation",
+        "mood swings",
+        "cognitive impairment"
+    ]
+}

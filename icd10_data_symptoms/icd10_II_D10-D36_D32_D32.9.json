@@ -1,0 +1,24 @@
+{
+    "icd10code": "D32.9",
+    "type": "subcategory",
+    "title": "Benign neoplasm: Meninges, unspecified",
+    "chapter": "Neoplasms",
+    "chapterCode": "II",
+    "block": "Benign neoplasms",
+    "blockCode": "D10-D36",
+    "category": "Benign neoplasm of meninges",
+    "categoryCode": "D32",
+    "subcategory": "D32.9",
+    "inclusion": [
+        "morphology codes with behaviour code /0",
+        "Meningioma NOS"
+    ],
+    "exclusion": null,
+    "symptoms": [
+        "headaches",
+        "seizures",
+        "cognitive changes",
+        "vision problems",
+        "changes in mood or personality"
+    ]
+}

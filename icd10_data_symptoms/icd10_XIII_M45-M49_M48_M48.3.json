@@ -1,0 +1,32 @@
+{
+    "icd10code": "M48.3",
+    "type": "subcategory",
+    "title": "Traumatic spondylopathy",
+    "chapter": "Diseases of the musculoskeletal system and connective tissue",
+    "chapterCode": "XIII",
+    "block": "Spondylopathies",
+    "blockCode": "M45-M49",
+    "category": "Other spondylopathies",
+    "categoryCode": "M48",
+    "subcategory": "M48.3",
+    "inclusion": null,
+    "exclusion": [
+        "certain conditions originating in the perinatal period",
+        "certain disorders of the temporomandibular joint",
+        "certain infectious and parasitic diseases",
+        "compartment syndrome",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified"
+    ],
+    "symptoms": [
+        "back pain",
+        "stiffness",
+        "limited range of motion",
+        "muscle spasms",
+        "tenderness"
+    ]
+}

@@ -1,0 +1,24 @@
+{
+    "icd10code": "C06.1",
+    "type": "subcategory",
+    "title": "Malignant neoplasm: Vestibule of mouth",
+    "chapter": "Neoplasms",
+    "chapterCode": "II",
+    "block": "Malignant neoplasms of lip, oral cavity and pharynx",
+    "blockCode": "C00-C14",
+    "category": "Malignant neoplasm of other and unspecified parts of mouth",
+    "categoryCode": "C06",
+    "subcategory": "C06.1",
+    "inclusion": [
+        "Buccal sulcus (upper)(lower)",
+        "Labial sulcus (upper)(lower)"
+    ],
+    "exclusion": null,
+    "symptoms": [
+        "pain in the oral region",
+        "swelling in the cheek",
+        "difficulty swallowing",
+        "bleeding from the mouth",
+        "loose or missing teeth"
+    ]
+}

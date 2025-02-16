@@ -1,0 +1,37 @@
+{
+    "icd10code": "L13.0",
+    "type": "subcategory",
+    "title": "Dermatitis herpetiformis",
+    "chapter": "Diseases of the skin and subcutaneous tissue",
+    "chapterCode": "XII",
+    "block": "Bullous disorders",
+    "blockCode": "L10-L14",
+    "category": "Other bullous disorders",
+    "categoryCode": "L13",
+    "subcategory": "L13.0",
+    "inclusion": [
+        "Duhring disease"
+    ],
+    "exclusion": [
+        "certain conditions originating in the perinatal period",
+        "certain infectious and parasitic diseases",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "lipomelanotic reticulosis",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "systemic connective tissue disorders",
+        "decubitus [pressure] ulcer and pressure area",
+        "gangrene",
+        "skin infections"
+    ],
+    "symptoms": [
+        "blisters",
+        "itching",
+        "burning sensation",
+        "red skin patches",
+        "skin ulcerations"
+    ]
+}

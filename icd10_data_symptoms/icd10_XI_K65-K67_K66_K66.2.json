@@ -1,0 +1,33 @@
+{
+    "icd10code": "K66.2",
+    "type": "subcategory",
+    "title": "Retroperitoneal fibrosis",
+    "chapter": "Diseases of the digestive system",
+    "chapterCode": "XI",
+    "block": "Diseases of peritoneum",
+    "blockCode": "K65-K67",
+    "category": "Other disorders of peritoneum",
+    "categoryCode": "K66",
+    "subcategory": "K66.2",
+    "inclusion": [
+        "Ormond’s disease"
+    ],
+    "exclusion": [
+        "certain conditions originating in the perinatal period",
+        "certain infectious and parasitic diseases",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "ascites"
+    ],
+    "symptoms": [
+        "abdominal pain",
+        "bloating",
+        "nausea",
+        "vomiting",
+        "constipation"
+    ]
+}

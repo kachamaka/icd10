@@ -1,0 +1,31 @@
+{
+    "icd10code": "P11.5",
+    "type": "subcategory",
+    "title": "Birth injury to spine and spinal cord",
+    "chapter": "Certain conditions originating in the perinatal period",
+    "chapterCode": "XVI",
+    "block": "Birth trauma",
+    "blockCode": "P10-P15",
+    "category": "Other birth injuries to central nervous system",
+    "categoryCode": "P11",
+    "subcategory": "P11.5",
+    "inclusion": [
+        "conditions that have their origin in the perinatal period even though death or morbidity occurs later",
+        "Fracture of spine due to birth injury"
+    ],
+    "exclusion": [
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "tetanus neonatorum",
+        "whooping cough"
+    ],
+    "symptoms": [
+        "seizures",
+        "poor muscle tone",
+        "delayed development",
+        "feeding difficulties",
+        "breathing problems"
+    ]
+}

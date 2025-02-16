@@ -1,0 +1,47 @@
+{
+    "icd10code": "D68.2",
+    "type": "subcategory",
+    "title": "Hereditary deficiency of other clotting factors",
+    "chapter": "Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism",
+    "chapterCode": "III",
+    "block": "Coagulation defects, purpura and other haemorrhagic conditions",
+    "blockCode": "D65-D69",
+    "category": "Other coagulation defects",
+    "categoryCode": "D68",
+    "subcategory": "D68.2",
+    "inclusion": [
+        "Congenital afibrinogenaemia",
+        "Deficiency: AC globulin",
+        "Deficiency: proaccelerin",
+        "Deficiency of factor: I [fibrinogen]",
+        "Deficiency of factor: II [prothrombin]",
+        "Deficiency of factor: V [labile]",
+        "Deficiency of factor: VII [stable]",
+        "Deficiency of factor: X [Stuart-Prower]",
+        "Deficiency of factor: XII [Hageman]",
+        "Deficiency of factor: XIII [fibrin-stabilizing]",
+        "Dysfibrinogenaemia (congenital)",
+        "Hypoproconvertinaemia",
+        "Owren disease"
+    ],
+    "exclusion": [
+        "autoimmune disease (systemic) NOS",
+        "certain conditions originating in the perinatal period",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "human immunodeficiency virus [HIV] disease",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "traumatic rupture of spleen",
+        "splenomegaly: congenital"
+    ],
+    "symptoms": [
+        "easy bruising",
+        "frequent or severe nosebleeds",
+        "prolonged bleeding from cuts",
+        "unexplained gum bleeding",
+        "excessive bleeding after surgery or dental work"
+    ]
+}

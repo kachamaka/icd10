@@ -1,0 +1,35 @@
+{
+    "icd10code": "X47.2",
+    "type": "subcategory",
+    "title": "Accidental poisoning by and exposure to carbon monoxide from other domestic fuels",
+    "chapter": "External causes of morbidity and mortality",
+    "chapterCode": "XX",
+    "block": "Accidental poisoning by and exposure to noxious substances",
+    "blockCode": "X40-X49",
+    "category": "Accidental poisoning by and exposure to carbon monoxide and other gases and vapours",
+    "categoryCode": "X47",
+    "subcategory": "X47.2",
+    "inclusion": [
+        "accidental overdose of drug, wrong drug given or taken in error, and drug taken inadvertently",
+        "accidents in the use of drugs, medicaments and biological substances in medical and surgical procedures",
+        "(self-inflicted) poisoning, when not specified whether accidental or with intent to harm. Follow legal rulings when available (see note at Y10-Y34).",
+        "Carbon monoxide from: charcoal in domestic stove, portable grill, barbecue or fireplace (free-standing)",
+        "Carbon monoxide from: coal in domestic stove, portable grill, barbecue or fireplace (free-standing)",
+        "Carbon monoxide from: coke in domestic stove, portable grill, barbecue or fireplace (free-standing)",
+        "Carbon monoxide from: kerosine or paraffin in domestic stove, portable grill, barbecue or fireplace (free-standing)",
+        "Carbon monoxide from: wood in domestic stove, portable grill, barbecue or fireplace (free-standing)"
+    ],
+    "exclusion": [
+        "administration with suicidal or homicidal intent, or intent to harm, or in other circumstances classifiable to X60-X69, X85-X90, Y10-Y19",
+        "correct drug properly administered in therapeutic or prophylactic dosage as the cause of any adverse effect",
+        "carbon monoxide from smoke and fumes due to fire and flames",
+        "metal fumes and vapours"
+    ],
+    "symptoms": [
+        "headache",
+        "dizziness",
+        "nausea",
+        "confusion",
+        "shortness of breath"
+    ]
+}

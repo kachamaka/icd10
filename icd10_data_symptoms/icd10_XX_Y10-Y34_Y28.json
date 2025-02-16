@@ -1,0 +1,17 @@
+{
+    "icd10code": "Y28",
+    "type": "category",
+    "title": "Contact with sharp object, undetermined intent",
+    "chapter": "External causes of morbidity and mortality",
+    "chapterCode": "XX",
+    "block": "Event of undetermined intent",
+    "blockCode": "Y10-Y34",
+    "category": "Contact with sharp object, undetermined intent",
+    "categoryCode": "Y28",
+    "subcategory": "",
+    "inclusion": null,
+    "exclusion": null,
+    "symptoms": [
+        "asymptomatic"
+    ]
+}

@@ -1,0 +1,33 @@
+{
+    "icd10code": "R82.9",
+    "type": "subcategory",
+    "title": "Other and unspecified abnormal findings in urine",
+    "chapter": "Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+    "chapterCode": "XVIII",
+    "block": "Abnormal findings on examination of urine, without diagnosis",
+    "blockCode": "R80-R82",
+    "category": "Other abnormal findings in urine",
+    "categoryCode": "R82",
+    "subcategory": "R82.9",
+    "inclusion": [
+        "Cells and casts in urine",
+        "Crystalluria",
+        "Melanuria"
+    ],
+    "exclusion": [
+        "abnormal findings on antenatal screening of mother",
+        "certain conditions originating in the perinatal period",
+        "abnormal findings on antenatal screening of mother",
+        "diagnostic abnormal findings classified elsewhere - see Alphabetical Index",
+        "specific findings indicating disorder of: amino-acid metabolism",
+        "specific findings indicating disorder of: carbohydrate metabolism",
+        "haematuria"
+    ],
+    "symptoms": [
+        "abnormal urine odor",
+        "cloudy urine",
+        "blood in urine",
+        "unusual urine color",
+        "foamy urine"
+    ]
+}

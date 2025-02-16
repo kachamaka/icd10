@@ -1,0 +1,42 @@
+{
+    "icd10code": "L98.4",
+    "type": "subcategory",
+    "title": "Chronic ulcer of skin, not elsewhere classified",
+    "chapter": "Diseases of the skin and subcutaneous tissue",
+    "chapterCode": "XII",
+    "block": "Other disorders of the skin and subcutaneous tissue",
+    "blockCode": "L80-L99",
+    "category": "Other disorders of skin and subcutaneous tissue, not elsewhere classified",
+    "categoryCode": "L98",
+    "subcategory": "L98.4",
+    "inclusion": [
+        "Chronic ulcer of skin NOS",
+        "Tropical ulcer NOS",
+        "Ulcer of skin NOS"
+    ],
+    "exclusion": [
+        "certain conditions originating in the perinatal period",
+        "certain infectious and parasitic diseases",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "lipomelanotic reticulosis",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "systemic connective tissue disorders",
+        "decubitus [pressure] ulcer and pressure area",
+        "gangrene",
+        "skin infections",
+        "specific infections classified to A00-B99",
+        "ulcer of lower limb NEC",
+        "varicose ulcer"
+    ],
+    "symptoms": [
+        "ulcer",
+        "redness",
+        "swelling",
+        "pain",
+        "drainage"
+    ]
+}

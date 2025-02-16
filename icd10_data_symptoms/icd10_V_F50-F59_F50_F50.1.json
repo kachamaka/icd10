@@ -1,0 +1,29 @@
+{
+    "icd10code": "F50.1",
+    "type": "subcategory",
+    "title": "Atypical anorexia nervosa",
+    "chapter": "Mental and behavioural disorders",
+    "chapterCode": "V",
+    "block": "Behavioural syndromes associated with physiological disturbances and physical factors",
+    "blockCode": "F50-F59",
+    "category": "Eating disorders",
+    "categoryCode": "F50",
+    "subcategory": "F50.1",
+    "inclusion": [
+        "disorders of psychological development"
+    ],
+    "exclusion": [
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "anorexia NOS",
+        "feeding: difficulties and mismanagement",
+        "feeding: disorder of infancy or childhood",
+        "polyphagia"
+    ],
+    "symptoms": [
+        "preoccupation with food",
+        "fear of weight gain",
+        "vomiting",
+        "excessive exercise",
+        "distorted body image"
+    ]
+}

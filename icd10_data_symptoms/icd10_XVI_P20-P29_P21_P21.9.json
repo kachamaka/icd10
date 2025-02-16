@@ -1,0 +1,34 @@
+{
+    "icd10code": "P21.9",
+    "type": "subcategory",
+    "title": "Birth asphyxia, unspecified",
+    "chapter": "Certain conditions originating in the perinatal period",
+    "chapterCode": "XVI",
+    "block": "Respiratory and cardiovascular disorders specific to the perinatal period",
+    "blockCode": "P20-P29",
+    "category": "Birth asphyxia",
+    "categoryCode": "P21",
+    "subcategory": "P21.9",
+    "inclusion": [
+        "conditions that have their origin in the perinatal period even though death or morbidity occurs later",
+        "Anoxia NOS",
+        "Asphyxia NOS",
+        "Hypoxia NOS"
+    ],
+    "exclusion": [
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "tetanus neonatorum",
+        "whooping cough",
+        "single umbilical artery"
+    ],
+    "symptoms": [
+        "low apgar score",
+        "irregular breathing",
+        "bluish skin",
+        "reduced muscle tone",
+        "lack of responsiveness"
+    ]
+}

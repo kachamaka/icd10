@@ -1,0 +1,45 @@
+{
+    "icd10code": "D72.8",
+    "type": "subcategory",
+    "title": "Other specified disorders of white blood cells",
+    "chapter": "Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism",
+    "chapterCode": "III",
+    "block": "Other diseases of blood and blood-forming organs",
+    "blockCode": "D70-D77",
+    "category": "Other disorders of white blood cells",
+    "categoryCode": "D72",
+    "subcategory": "D72.8",
+    "inclusion": [
+        "Leukaemoid reaction: lymphocytic",
+        "Leukaemoid reaction: monocytic",
+        "Leukaemoid reaction: myelocytic",
+        "Leukocytosis",
+        "Lymphocytosis (symptomatic)",
+        "Lymphopenia",
+        "Monocytosis (symptomatic)",
+        "Plasmacytosis"
+    ],
+    "exclusion": [
+        "autoimmune disease (systemic) NOS",
+        "certain conditions originating in the perinatal period",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "human immunodeficiency virus [HIV] disease",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "traumatic rupture of spleen",
+        "splenomegaly: congenital",
+        "paroxysmal cold haemoglobinuria",
+        "high-altitude polycythaemia",
+        "methaemoglobinaemia"
+    ],
+    "symptoms": [
+        "unusual weakness",
+        "abnormal fatigue",
+        "sudden weight loss",
+        "night sweats",
+        "unexplained fever"
+    ]
+}

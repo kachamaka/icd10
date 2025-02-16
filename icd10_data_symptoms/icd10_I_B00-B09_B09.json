@@ -1,0 +1,31 @@
+{
+    "icd10code": "B09",
+    "type": "category",
+    "title": "Unspecified viral infection characterized by skin and mucous membrane lesions",
+    "chapter": "Certain infectious and parasitic diseases",
+    "chapterCode": "I",
+    "block": "Viral infections characterized by skin and mucous membrane lesions",
+    "blockCode": "B00-B09",
+    "category": "Unspecified viral infection characterized by skin and mucous membrane lesions",
+    "categoryCode": "B09",
+    "subcategory": "",
+    "inclusion": [
+        "diseases generally recognized as communicable or transmissible",
+        "Viral: enanthema NOS",
+        "Viral: exanthema NOS"
+    ],
+    "exclusion": [
+        "carrier or suspected carrier of infectious disease",
+        "certain localized infections - see body system-related chapters",
+        "infectious and parasitic diseases complicating pregnancy, childbirth and the puerperium [except obstetrical tetanus]",
+        "infectious and parasitic diseases specific to the perinatal period [except tetanus neonatorum, whooping cough, congenital syphilis, perinatal gonococcal infection and perinatal human immunodeficiency virus [HIV] disease]",
+        "influenza and other acute respiratory infections"
+    ],
+    "symptoms": [
+        "fever",
+        "rash",
+        "headache",
+        "fatigue",
+        "muscle aches"
+    ]
+}

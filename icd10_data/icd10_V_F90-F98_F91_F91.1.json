@@ -1,0 +1,25 @@
+{
+  "type": "subcategory",
+  "chapterCode": "V",
+  "chapter": "Mental and behavioural disorders",
+  "blockCode": "F90-F98",
+  "block": "Behavioural and emotional disorders with onset usually occurring in childhood and adolescence",
+  "categoryCode": "F91",
+  "category": "Conduct disorders",
+  "subcategory": "F91.1",
+  "title": "Unsocialized conduct disorder",
+  "inclusion": [
+    "disorders of psychological development",
+    "Conduct disorder, solitary aggressive type",
+    "Unsocialized aggressive disorder"
+  ],
+  "exclusion": [
+    "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+    "mood [affective]",
+    "pervasive developmental disorders",
+    "schizophrenia",
+    "when associated with: emotional disorders",
+    "when associated with: hyperkinetic disorders"
+  ],
+  "children": null
+}

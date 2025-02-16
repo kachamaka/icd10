@@ -1,0 +1,37 @@
+{
+  "type": "subcategory",
+  "chapterCode": "XIX",
+  "chapter": "Injury, poisoning and certain other consequences of external causes",
+  "blockCode": "T08-T14",
+  "block": "Injuries to unspecified part of trunk, limb or body region",
+  "categoryCode": "T14",
+  "category": "Injury of unspecified body region",
+  "subcategory": "T14.0",
+  "title": "Superficial injury of unspecified body region",
+  "inclusion": [
+    "Abrasion NOS",
+    "Blister (nonthermal) NOS",
+    "Bruise NOS",
+    "Contusion NOS",
+    "Haematoma NOS",
+    "Injury from superficial foreign body (splinter) without major open wound NOS",
+    "Insect bite (nonvenomous) NOS",
+    "Superficial injury NOS"
+  ],
+  "exclusion": [
+    "birth trauma",
+    "obstetric trauma",
+    "malunion of fracture",
+    "nonunion of fracture [pseudarthrosis]",
+    "pathological fracture",
+    "pathological fracture with osteoporosis",
+    "stress fracture",
+    "burns and corrosions",
+    "frostbite",
+    "injuries involving multiple body regions",
+    "insect bite or sting, venomous",
+    "injuries involving multiple body regions",
+    "multiple superficial injuries NOS"
+  ],
+  "children": null
+}

@@ -1,0 +1,38 @@
+{
+  "type": "subcategory",
+  "chapterCode": "XVIII",
+  "chapter": "Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+  "blockCode": "R50-R69",
+  "block": "General symptoms and signs",
+  "categoryCode": "R52",
+  "category": "Pain, not elsewhere classified",
+  "subcategory": "R52.2",
+  "title": "Other chronic pain",
+  "inclusion": [
+    "pain not referable to any one organ or body region"
+  ],
+  "exclusion": [
+    "abnormal findings on antenatal screening of mother",
+    "certain conditions originating in the perinatal period",
+    "chronic pain personality syndrome",
+    "headache",
+    "pain (in): abdomen",
+    "pain (in): back",
+    "pain (in): breast",
+    "pain (in): chest",
+    "pain (in): ear",
+    "pain (in): eye",
+    "pain (in): joint",
+    "pain (in): limb",
+    "pain (in): lumbar region",
+    "pain (in): pelvic and perineal",
+    "pain (in): psychogenic",
+    "pain (in): shoulder",
+    "pain (in): spine",
+    "pain (in): throat",
+    "pain (in): tongue",
+    "pain (in): tooth",
+    "renal colic"
+  ],
+  "children": null
+}

@@ -1,0 +1,27 @@
+{
+    "icd10code": "D03.1",
+    "type": "subcategory",
+    "title": "Melanoma in situ of eyelid, including canthus",
+    "chapter": "Neoplasms",
+    "chapterCode": "II",
+    "block": "In situ neoplasms",
+    "blockCode": "D00-D09",
+    "category": "Melanoma in situ",
+    "categoryCode": "D03",
+    "subcategory": "D03.1",
+    "inclusion": [
+        "Bowen disease",
+        "erythroplasia",
+        "morphology codes with behaviour code /2",
+        "Queyrat erythroplasia",
+        "morphology codes M872-M879 with behaviour code /2"
+    ],
+    "exclusion": null,
+    "symptoms": [
+        "coughing blood",
+        "chest pain",
+        "weight loss",
+        "fatigue",
+        "persistent cough"
+    ]
+}

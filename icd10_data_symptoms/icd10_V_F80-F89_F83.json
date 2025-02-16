@@ -1,0 +1,25 @@
+{
+    "icd10code": "F83",
+    "type": "category",
+    "title": "Mixed specific developmental disorders",
+    "chapter": "Mental and behavioural disorders",
+    "chapterCode": "V",
+    "block": "Disorders of psychological development",
+    "blockCode": "F80-F89",
+    "category": "Mixed specific developmental disorders",
+    "categoryCode": "F83",
+    "subcategory": "",
+    "inclusion": [
+        "disorders of psychological development"
+    ],
+    "exclusion": [
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified"
+    ],
+    "symptoms": [
+        "language delays",
+        "learning difficulties",
+        "motor skill challenges",
+        "social interaction issues",
+        "adaptive behavior problems"
+    ]
+}

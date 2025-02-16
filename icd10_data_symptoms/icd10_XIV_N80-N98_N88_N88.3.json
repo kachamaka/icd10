@@ -1,0 +1,36 @@
+{
+    "icd10code": "N88.3",
+    "type": "subcategory",
+    "title": "Incompetence of cervix uteri",
+    "chapter": "Diseases of the genitourinary system",
+    "chapterCode": "XIV",
+    "block": "Noninflammatory disorders of female genital tract",
+    "blockCode": "N80-N98",
+    "category": "Other noninflammatory disorders of cervix uteri",
+    "categoryCode": "N88",
+    "subcategory": "N88.3",
+    "inclusion": [
+        "Investigation and management of (suspected) cervical incompetence in a nonpregnant woman"
+    ],
+    "exclusion": [
+        "certain conditions originating in the perinatal period",
+        "certain infectious and parasitic diseases",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "inflammatory disease of cervix",
+        "polyp of cervix",
+        "affecting fetus or newborn",
+        "complicating pregnancy"
+    ],
+    "symptoms": [
+        "abnormal vaginal discharge",
+        "pelvic pain",
+        "irregular menstrual bleeding",
+        "dyspareunia",
+        "lower abdominal discomfort"
+    ]
+}

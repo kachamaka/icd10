@@ -1,0 +1,20 @@
+{
+    "icd10code": "Z30.3",
+    "type": "subcategory",
+    "title": "Menstrual extraction",
+    "chapter": "Factors influencing health status and contact with health services",
+    "chapterCode": "XXI",
+    "block": "Persons encountering health services in circumstances related to reproduction",
+    "blockCode": "Z30-Z39",
+    "category": "Contraceptive management",
+    "categoryCode": "Z30",
+    "subcategory": "Z30.3",
+    "inclusion": [
+        "Interception of pregnancy",
+        "Menstrual regulation"
+    ],
+    "exclusion": null,
+    "symptoms": [
+        "asymptomatic"
+    ]
+}

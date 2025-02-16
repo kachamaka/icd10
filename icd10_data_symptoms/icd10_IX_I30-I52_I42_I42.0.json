@@ -1,0 +1,37 @@
+{
+    "icd10code": "I42.0",
+    "type": "subcategory",
+    "title": "Dilated cardiomyopathy",
+    "chapter": "Diseases of the circulatory system",
+    "chapterCode": "IX",
+    "block": "Other forms of heart disease",
+    "blockCode": "I30-I52",
+    "category": "Cardiomyopathy",
+    "categoryCode": "I42",
+    "subcategory": "I42.0",
+    "inclusion": [
+        "Congestive cardiomyopathy"
+    ],
+    "exclusion": [
+        "certain conditions originating in the perinatal period",
+        "certain infectious and parasitic diseases",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "systemic connective tissue disorders",
+        "transient cerebral ischaemic attacks and related syndromes",
+        "rheumatoid carditis",
+        "when not specified as rheumatic",
+        "nonspecific low blood pressure reading NOS"
+    ],
+    "symptoms": [
+        "shortness of breath",
+        "fatigue",
+        "swelling in the legs and ankles",
+        "rapid or irregular heartbeat",
+        "fainting or lightheadedness"
+    ]
+}

@@ -1,0 +1,24 @@
+{
+    "icd10code": "C22.9",
+    "type": "subcategory",
+    "title": "Malignant neoplasm: Liver, unspecified",
+    "chapter": "Neoplasms",
+    "chapterCode": "II",
+    "block": "Malignant neoplasms of digestive organs",
+    "blockCode": "C15-C26",
+    "category": "Malignant neoplasm of liver and intrahepatic bile ducts",
+    "categoryCode": "C22",
+    "subcategory": "C22.9",
+    "inclusion": null,
+    "exclusion": [
+        "biliary tract NOS",
+        "secondary malignant neoplasm of liver"
+    ],
+    "symptoms": [
+        "abdominal pain",
+        "loss of appetite",
+        "jaundice",
+        "nausea or vomiting",
+        "unexplained weight loss"
+    ]
+}

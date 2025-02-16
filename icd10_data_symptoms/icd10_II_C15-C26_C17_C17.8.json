@@ -1,0 +1,21 @@
+{
+    "icd10code": "C17.8",
+    "type": "subcategory",
+    "title": "Malignant neoplasm: Overlapping lesion of small intestine",
+    "chapter": "Neoplasms",
+    "chapterCode": "II",
+    "block": "Malignant neoplasms of digestive organs",
+    "blockCode": "C15-C26",
+    "category": "Malignant neoplasm of small intestine",
+    "categoryCode": "C17",
+    "subcategory": "C17.8",
+    "inclusion": null,
+    "exclusion": null,
+    "symptoms": [
+        "abdominal pain",
+        "loss of appetite",
+        "unintentional weight loss",
+        "blood in stool",
+        "fatigue"
+    ]
+}

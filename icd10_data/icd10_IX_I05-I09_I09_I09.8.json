@@ -1,0 +1,27 @@
+{
+  "type": "subcategory",
+  "chapterCode": "IX",
+  "chapter": "Diseases of the circulatory system",
+  "blockCode": "I05-I09",
+  "block": "Chronic rheumatic heart diseases",
+  "categoryCode": "I09",
+  "category": "Other rheumatic heart diseases",
+  "subcategory": "I09.8",
+  "title": "Other specified rheumatic heart diseases",
+  "inclusion": [
+    "Rheumatic disease of pulmonary valve"
+  ],
+  "exclusion": [
+    "certain conditions originating in the perinatal period",
+    "certain infectious and parasitic diseases",
+    "complications of pregnancy, childbirth and the puerperium",
+    "congenital malformations, deformations and chromosomal abnormalities",
+    "endocrine, nutritional and metabolic diseases",
+    "injury, poisoning and certain other consequences of external causes",
+    "neoplasms",
+    "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+    "systemic connective tissue disorders",
+    "transient cerebral ischaemic attacks and related syndromes"
+  ],
+  "children": null
+}

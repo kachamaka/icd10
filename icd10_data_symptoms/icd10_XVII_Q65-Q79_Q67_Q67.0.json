@@ -1,0 +1,25 @@
+{
+    "icd10code": "Q67.0",
+    "type": "subcategory",
+    "title": "Facial asymmetry",
+    "chapter": "Congenital malformations, deformations and chromosomal abnormalities",
+    "chapterCode": "XVII",
+    "block": "Congenital malformations and deformations of the musculoskeletal system",
+    "blockCode": "Q65-Q79",
+    "category": "Congenital musculoskeletal deformities of head, face, spine and chest",
+    "categoryCode": "Q67",
+    "subcategory": "Q67.0",
+    "inclusion": null,
+    "exclusion": [
+        "inborn errors of metabolism",
+        "congenital malformation syndromes classified to Q87.-",
+        "Potter syndrome"
+    ],
+    "symptoms": [
+        "asymmetrical skull",
+        "cranial flattening",
+        "facial asymmetry",
+        "irregular head shape",
+        "positional head deformity"
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "icd10code": "W40",
+    "type": "category",
+    "title": "Explosion of other materials",
+    "chapter": "External causes of morbidity and mortality",
+    "chapterCode": "XX",
+    "block": "Exposure to inanimate mechanical forces",
+    "blockCode": "W20-W49",
+    "category": "Explosion of other materials",
+    "categoryCode": "W40",
+    "subcategory": "",
+    "inclusion": [
+        "blasting material",
+        "explosion (in): NOS",
+        "explosion (in): dump",
+        "explosion (in): factory",
+        "explosion (in): grain store",
+        "explosion (in): munitions",
+        "explosive gas"
+    ],
+    "exclusion": [
+        "assault",
+        "contact or collision with animals or persons",
+        "intentional self-harm"
+    ],
+    "symptoms": [
+        "asymptomatic"
+    ]
+}

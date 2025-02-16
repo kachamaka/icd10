@@ -1,0 +1,29 @@
+{
+    "icd10code": "F81.1",
+    "type": "subcategory",
+    "title": "Specific spelling disorder",
+    "chapter": "Mental and behavioural disorders",
+    "chapterCode": "V",
+    "block": "Disorders of psychological development",
+    "blockCode": "F80-F89",
+    "category": "Specific developmental disorders of scholastic skills",
+    "categoryCode": "F81",
+    "subcategory": "F81.1",
+    "inclusion": [
+        "disorders of psychological development",
+        "Specific spelling retardation (without reading disorder)"
+    ],
+    "exclusion": [
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "agraphia NOS",
+        "spelling difficulties: associated with a reading disorder",
+        "spelling difficulties: due to inadequate teaching"
+    ],
+    "symptoms": [
+        "difficulty reading",
+        "problems with reading comprehension",
+        "slow reading speed",
+        "difficulty spelling",
+        "and challenges with decoding words"
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "icd10code": "U82.2",
+    "type": "subcategory",
+    "title": "Extended spectrum betalactamase (ESBL) resistance",
+    "chapter": "Codes for special purposes",
+    "chapterCode": "XXII",
+    "block": "Resistance to antimicrobial and antineoplastic drugs",
+    "blockCode": "U82-U85",
+    "category": "Resistance to betalactam antibiotics",
+    "categoryCode": "U82",
+    "subcategory": "U82.2",
+    "inclusion": null,
+    "exclusion": null,
+    "symptoms": [
+        "antibiotic resistance",
+        "recurrent infections",
+        "persistent bacterial shedding",
+        "prolonged illness",
+        "treatment failure"
+    ]
+}

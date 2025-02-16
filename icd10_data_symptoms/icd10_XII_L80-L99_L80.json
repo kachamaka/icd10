@@ -1,0 +1,32 @@
+{
+    "icd10code": "L80",
+    "type": "category",
+    "title": "Vitiligo",
+    "chapter": "Diseases of the skin and subcutaneous tissue",
+    "chapterCode": "XII",
+    "block": "Other disorders of the skin and subcutaneous tissue",
+    "blockCode": "L80-L99",
+    "category": "Vitiligo",
+    "categoryCode": "L80",
+    "subcategory": "",
+    "inclusion": null,
+    "exclusion": [
+        "certain conditions originating in the perinatal period",
+        "certain infectious and parasitic diseases",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "lipomelanotic reticulosis",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "systemic connective tissue disorders"
+    ],
+    "symptoms": [
+        "skin depigmentation",
+        "white patches",
+        "irregular skin borders",
+        "premature graying",
+        "sensitivity to sunlight"
+    ]
+}

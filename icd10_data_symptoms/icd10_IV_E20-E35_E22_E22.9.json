@@ -1,0 +1,32 @@
+{
+    "icd10code": "E22.9",
+    "type": "subcategory",
+    "title": "Hyperfunction of pituitary gland, unspecified",
+    "chapter": "Endocrine, nutritional and metabolic diseases",
+    "chapterCode": "IV",
+    "block": "Disorders of other endocrine glands",
+    "blockCode": "E20-E35",
+    "category": "Hyperfunction of pituitary gland",
+    "categoryCode": "E22",
+    "subcategory": "E22.9",
+    "inclusion": null,
+    "exclusion": [
+        "complications of pregnancy, childbirth and the puerperium",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "transitory endocrine and metabolic disorders specific to fetus and newborn",
+        "galactorrhoea",
+        "gynaecomastia",
+        "Cushing syndrome",
+        "Nelson syndrome",
+        "overproduction of: ACTH not associated with Cushing disease",
+        "overproduction of: pituitary ACTH",
+        "overproduction of: thyroid-stimulating hormone"
+    ],
+    "symptoms": [
+        "headache",
+        "visual disturbances",
+        "joint pain",
+        "fatigue",
+        "delayed puberty"
+    ]
+}

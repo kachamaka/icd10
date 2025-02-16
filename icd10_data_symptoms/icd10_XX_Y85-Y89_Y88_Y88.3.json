@@ -1,0 +1,17 @@
+{
+    "icd10code": "Y88.3",
+    "type": "subcategory",
+    "title": "Sequelae of surgical and medical procedures as the cause of abnormal reaction of the patient, or of later complication, without mention of misadventure at the time of the procedure",
+    "chapter": "External causes of morbidity and mortality",
+    "chapterCode": "XX",
+    "block": "Sequelae of external causes of morbidity and mortality",
+    "blockCode": "Y85-Y89",
+    "category": "Sequelae with surgical and medical care as external cause",
+    "categoryCode": "Y88",
+    "subcategory": "Y88.3",
+    "inclusion": null,
+    "exclusion": null,
+    "symptoms": [
+        "asymptomatic"
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "icd10code": "P70.3",
+    "type": "subcategory",
+    "title": "Iatrogenic neonatal hypoglycaemia",
+    "chapter": "Certain conditions originating in the perinatal period",
+    "chapterCode": "XVI",
+    "block": "Transitory endocrine and metabolic disorders specific to fetus and newborn",
+    "blockCode": "P70-P74",
+    "category": "Transitory disorders of carbohydrate metabolism specific to fetus and newborn",
+    "categoryCode": "P70",
+    "subcategory": "P70.3",
+    "inclusion": [
+        "conditions that have their origin in the perinatal period even though death or morbidity occurs later",
+        "transitory endocrine and metabolic disturbances caused by the infant's response to maternal endocrine and metabolic factors, or its adjustment to extrauterine existence"
+    ],
+    "exclusion": [
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "tetanus neonatorum",
+        "whooping cough"
+    ],
+    "symptoms": [
+        "hypoglycemia",
+        "irritability",
+        "jitteriness",
+        "poor feeding",
+        "lethargy"
+    ]
+}

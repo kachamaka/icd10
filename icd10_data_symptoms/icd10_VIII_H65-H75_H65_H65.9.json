@@ -1,0 +1,41 @@
+{
+    "icd10code": "H65.9",
+    "type": "subcategory",
+    "title": "Nonsuppurative otitis media, unspecified",
+    "chapter": "Diseases of the ear and mastoid process",
+    "chapterCode": "VIII",
+    "block": "Diseases of middle ear and mastoid",
+    "blockCode": "H65-H75",
+    "category": "Nonsuppurative otitis media",
+    "categoryCode": "H65",
+    "subcategory": "H65.9",
+    "inclusion": [
+        "with myringitis",
+        "Otitis media: allergic",
+        "Otitis media: catarrhal",
+        "Otitis media: exudative",
+        "Otitis media: mucoid",
+        "Otitis media: secretory",
+        "Otitis media: seromucinous",
+        "Otitis media: serous",
+        "Otitis media: transudative",
+        "Otitis media: with effusion (nonpurulent)"
+    ],
+    "exclusion": [
+        "certain conditions originating in the perinatal period",
+        "certain infectious and parasitic diseases",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified"
+    ],
+    "symptoms": [
+        "ear pain",
+        "hearing loss",
+        "ear fullness",
+        "fluid drainage",
+        "irritability"
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "icd10code": "Q81.1",
+    "type": "subcategory",
+    "title": "Epidermolysis bullosa letalis",
+    "chapter": "Congenital malformations, deformations and chromosomal abnormalities",
+    "chapterCode": "XVII",
+    "block": "Other congenital malformations",
+    "blockCode": "Q80-Q89",
+    "category": "Epidermolysis bullosa",
+    "categoryCode": "Q81",
+    "subcategory": "Q81.1",
+    "inclusion": [
+        "Herlitz syndrome"
+    ],
+    "exclusion": [
+        "inborn errors of metabolism"
+    ],
+    "symptoms": [
+        "skin blistering",
+        "delayed wound healing",
+        "fragile skin",
+        "recurrent infections",
+        "scarring"
+    ]
+}

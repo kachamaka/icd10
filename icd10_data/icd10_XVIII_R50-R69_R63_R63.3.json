@@ -1,0 +1,24 @@
+{
+  "type": "subcategory",
+  "chapterCode": "XVIII",
+  "chapter": "Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+  "blockCode": "R50-R69",
+  "block": "General symptoms and signs",
+  "categoryCode": "R63",
+  "category": "Symptoms and signs concerning food and fluid intake",
+  "subcategory": "R63.3",
+  "title": "Feeding difficulties and mismanagement",
+  "inclusion": [
+    "Feeding problem NOS"
+  ],
+  "exclusion": [
+    "abnormal findings on antenatal screening of mother",
+    "certain conditions originating in the perinatal period",
+    "bulimia NOS",
+    "eating disorders of nonorganic origin",
+    "malnutrition",
+    "feeding problems of newborn",
+    "infant feeding disorder of nonorganic origin"
+  ],
+  "children": null
+}

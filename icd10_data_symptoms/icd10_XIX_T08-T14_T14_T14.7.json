@@ -1,0 +1,39 @@
+{
+    "icd10code": "T14.7",
+    "type": "subcategory",
+    "title": "Crushing injury and traumatic amputation of unspecified body region",
+    "chapter": "Injury, poisoning and certain other consequences of external causes",
+    "chapterCode": "XIX",
+    "block": "Injuries to unspecified part of trunk, limb or body region",
+    "blockCode": "T08-T14",
+    "category": "Injury of unspecified body region",
+    "categoryCode": "T14",
+    "subcategory": "T14.7",
+    "inclusion": [
+        "Crushing injury NOS",
+        "Traumatic amputation NOS"
+    ],
+    "exclusion": [
+        "birth trauma",
+        "obstetric trauma",
+        "malunion of fracture",
+        "nonunion of fracture [pseudarthrosis]",
+        "pathological fracture",
+        "pathological fracture with osteoporosis",
+        "stress fracture",
+        "burns and corrosions",
+        "frostbite",
+        "injuries involving multiple body regions",
+        "insect bite or sting, venomous",
+        "injuries involving multiple body regions",
+        "multiple: crushing injuries NOS",
+        "multiple: traumatic amputations NOS"
+    ],
+    "symptoms": [
+        "open wound",
+        "bleeding",
+        "pain",
+        "swelling",
+        "redness"
+    ]
+}

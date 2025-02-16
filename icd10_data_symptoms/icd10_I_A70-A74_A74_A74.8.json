@@ -1,0 +1,34 @@
+{
+    "icd10code": "A74.8",
+    "type": "subcategory",
+    "title": "Other chlamydial diseases",
+    "chapter": "Certain infectious and parasitic diseases",
+    "chapterCode": "I",
+    "block": "Other diseases caused by chlamydiae",
+    "blockCode": "A70-A74",
+    "category": "Other diseases caused by chlamydiae",
+    "categoryCode": "A74",
+    "subcategory": "A74.8",
+    "inclusion": [
+        "diseases generally recognized as communicable or transmissible",
+        "Chlamydial peritonitis"
+    ],
+    "exclusion": [
+        "carrier or suspected carrier of infectious disease",
+        "certain localized infections - see body system-related chapters",
+        "infectious and parasitic diseases complicating pregnancy, childbirth and the puerperium [except obstetrical tetanus]",
+        "infectious and parasitic diseases specific to the perinatal period [except tetanus neonatorum, whooping cough, congenital syphilis, perinatal gonococcal infection and perinatal human immunodeficiency virus [HIV] disease]",
+        "influenza and other acute respiratory infections",
+        "chlamydial pneumonia",
+        "neonatal chlamydial: conjunctivitis",
+        "neonatal chlamydial: pneumonia",
+        "sexually transmitted chlamydial diseases"
+    ],
+    "symptoms": [
+        "fever",
+        "fatigue",
+        "cough",
+        "headache",
+        "muscle pain"
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "icd10code": "C50.5",
+    "type": "subcategory",
+    "title": "Malignant neoplasm: Lower-outer quadrant of breast",
+    "chapter": "Neoplasms",
+    "chapterCode": "II",
+    "block": "Malignant neoplasm of breast",
+    "blockCode": "C50-C50",
+    "category": "Malignant neoplasm of breast",
+    "categoryCode": "C50",
+    "subcategory": "C50.5",
+    "inclusion": [
+        "connective tissue of breast"
+    ],
+    "exclusion": [
+        "skin of breast"
+    ],
+    "symptoms": [
+        "breast lump or mass",
+        "nipple inversion",
+        "nipple discharge",
+        "skin changes on the breast",
+        "breast pain"
+    ]
+}

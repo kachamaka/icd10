@@ -1,0 +1,18 @@
+{
+  "type": "subcategory",
+  "chapterCode": "XXI",
+  "chapter": "Factors influencing health status and contact with health services",
+  "blockCode": "Z40-Z54",
+  "block": "Persons encountering health services for specific procedures and health care",
+  "categoryCode": "Z44",
+  "category": "Fitting and adjustment of external prosthetic device",
+  "subcategory": "Z44.2",
+  "title": "Fitting and adjustment of artificial eye",
+  "inclusion": null,
+  "exclusion": [
+    "follow-up examination for medical surveillance after treatment",
+    "presence of prosthetic device",
+    "mechanical complication of ocular prosthesis"
+  ],
+  "children": null
+}

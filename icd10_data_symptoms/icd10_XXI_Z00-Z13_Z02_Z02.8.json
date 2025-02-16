@@ -1,0 +1,27 @@
+{
+    "icd10code": "Z02.8",
+    "type": "subcategory",
+    "title": "Other examinations for administrative purposes",
+    "chapter": "Factors influencing health status and contact with health services",
+    "chapterCode": "XXI",
+    "block": "Persons encountering health services for examination and investigation",
+    "blockCode": "Z00-Z13",
+    "category": "Examination and encounter for administrative purposes",
+    "categoryCode": "Z02",
+    "subcategory": "Z02.8",
+    "inclusion": [
+        "Examination (for): admission to: prison",
+        "Examination (for): admission to: summer camp",
+        "Examination (for): adoption",
+        "Examination (for): immigration",
+        "Examination (for): naturalization",
+        "Examination (for): premarital"
+    ],
+    "exclusion": [
+        "examinations related to pregnancy and reproduction",
+        "health supervision of foundling or other healthy infant or child"
+    ],
+    "symptoms": [
+        "asymptomatic"
+    ]
+}

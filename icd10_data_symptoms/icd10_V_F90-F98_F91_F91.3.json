@@ -1,0 +1,30 @@
+{
+    "icd10code": "F91.3",
+    "type": "subcategory",
+    "title": "Oppositional defiant disorder",
+    "chapter": "Mental and behavioural disorders",
+    "chapterCode": "V",
+    "block": "Behavioural and emotional disorders with onset usually occurring in childhood and adolescence",
+    "blockCode": "F90-F98",
+    "category": "Conduct disorders",
+    "categoryCode": "F91",
+    "subcategory": "F91.3",
+    "inclusion": [
+        "disorders of psychological development"
+    ],
+    "exclusion": [
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "mood [affective]",
+        "pervasive developmental disorders",
+        "schizophrenia",
+        "when associated with: emotional disorders",
+        "when associated with: hyperkinetic disorders"
+    ],
+    "symptoms": [
+        "aggression",
+        "defiance",
+        "frequent rule-breaking",
+        "disruptive behavior",
+        "excessive arguing"
+    ]
+}

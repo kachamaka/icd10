@@ -1,0 +1,25 @@
+{
+    "icd10code": "X19",
+    "type": "category",
+    "title": "Contact with other and unspecified heat and hot substances",
+    "chapter": "External causes of morbidity and mortality",
+    "chapterCode": "XX",
+    "block": "Contact with heat and hot substances",
+    "blockCode": "X10-X19",
+    "category": "Contact with other and unspecified heat and hot substances",
+    "categoryCode": "X19",
+    "subcategory": "",
+    "inclusion": null,
+    "exclusion": [
+        "exposure to: excessive natural heat",
+        "exposure to: fire and flames",
+        "objects that are not normally hot, e.g., an object made hot by a house fire"
+    ],
+    "symptoms": [
+        "burns",
+        "redness",
+        "swelling",
+        "blisters",
+        "pain"
+    ]
+}

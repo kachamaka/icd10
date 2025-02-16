@@ -1,0 +1,26 @@
+{
+    "icd10code": "Q64.9",
+    "type": "subcategory",
+    "title": "Congenital malformation of urinary system, unspecified",
+    "chapter": "Congenital malformations, deformations and chromosomal abnormalities",
+    "chapterCode": "XVII",
+    "block": "Congenital malformations of the urinary system",
+    "blockCode": "Q60-Q64",
+    "category": "Other congenital malformations of urinary system",
+    "categoryCode": "Q64",
+    "subcategory": "Q64.9",
+    "inclusion": [
+        "Congenital: anomaly NOS of urinary system",
+        "Congenital: deformity NOS of urinary system"
+    ],
+    "exclusion": [
+        "inborn errors of metabolism"
+    ],
+    "symptoms": [
+        "urinary incontinence",
+        "recurrent urinary tract infections",
+        "abdominal pain",
+        "difficulty urinating",
+        "abnormal urinary stream"
+    ]
+}

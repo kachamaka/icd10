@@ -1,0 +1,32 @@
+{
+    "icd10code": "J35.1",
+    "type": "subcategory",
+    "title": "Hypertrophy of tonsils",
+    "chapter": "Diseases of the respiratory system",
+    "chapterCode": "X",
+    "block": "Other diseases of upper respiratory tract",
+    "blockCode": "J30-J39",
+    "category": "Chronic diseases of tonsils and adenoids",
+    "categoryCode": "J35",
+    "subcategory": "J35.1",
+    "inclusion": [
+        "Enlargement of tonsils"
+    ],
+    "exclusion": [
+        "certain conditions originating in the perinatal period",
+        "certain infectious and parasitic diseases",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified"
+    ],
+    "symptoms": [
+        "chronic sore throat",
+        "difficulty swallowing",
+        "snoring",
+        "sleep apnea",
+        "halitosis"
+    ]
+}

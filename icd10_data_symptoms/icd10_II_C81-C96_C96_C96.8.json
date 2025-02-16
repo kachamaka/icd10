@@ -1,0 +1,25 @@
+{
+    "icd10code": "C96.8",
+    "type": "subcategory",
+    "title": "Histiocytic sarcoma",
+    "chapter": "Neoplasms",
+    "chapterCode": "II",
+    "block": "Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",
+    "blockCode": "C81-C96",
+    "category": "Other and unspecified malignant neoplasms of lymphoid, haematopoietic and related tissue",
+    "categoryCode": "C96",
+    "subcategory": "C96.8",
+    "inclusion": [
+        "Malignant Histiocytosis"
+    ],
+    "exclusion": [
+        "secondary and unspecified neoplasm of lymph nodes"
+    ],
+    "symptoms": [
+        "fatigue",
+        "unexplained weight loss",
+        "bone pain",
+        "night sweats",
+        "enlarged lymph nodes"
+    ]
+}

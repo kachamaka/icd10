@@ -1,0 +1,34 @@
+{
+    "icd10code": "H20.0",
+    "type": "subcategory",
+    "title": "Acute and subacute iridocyclitis",
+    "chapter": "Diseases of the eye and adnexa",
+    "chapterCode": "VII",
+    "block": "Disorders of sclera, cornea, iris and ciliary body",
+    "blockCode": "H15-H22",
+    "category": "Iridocyclitis",
+    "categoryCode": "H20",
+    "subcategory": "H20.0",
+    "inclusion": [
+        "Anterior uveitis acute, recurrent or subacute",
+        "Cyclitis acute, recurrent or subacute",
+        "Iritis acute, recurrent or subacute"
+    ],
+    "exclusion": [
+        "certain conditions originating in the perinatal period",
+        "certain infectious and parasitic diseases",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified"
+    ],
+    "symptoms": [
+        "eye redness",
+        "eye pain",
+        "blurred vision",
+        "sensitivity to light",
+        "tearing"
+    ]
+}

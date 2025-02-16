@@ -1,0 +1,29 @@
+{
+    "icd10code": "R07.4",
+    "type": "subcategory",
+    "title": "Chest pain, unspecified",
+    "chapter": "Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+    "chapterCode": "XVIII",
+    "block": "Symptoms and signs involving the circulatory and respiratory systems",
+    "blockCode": "R00-R09",
+    "category": "Pain in throat and chest",
+    "categoryCode": "R07",
+    "subcategory": "R07.4",
+    "inclusion": null,
+    "exclusion": [
+        "abnormal findings on antenatal screening of mother",
+        "certain conditions originating in the perinatal period",
+        "dysphagia",
+        "epidemic myalgia",
+        "pain in: breast",
+        "pain in: neck",
+        "sore throat (acute) NOS"
+    ],
+    "symptoms": [
+        "chest pain",
+        "discomfort in chest",
+        "pressure in chest",
+        "tightness in chest",
+        "burning sensation in chest"
+    ]
+}

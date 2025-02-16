@@ -1,0 +1,19 @@
+{
+  "type": "category",
+  "chapterCode": "V",
+  "chapter": "Mental and behavioural disorders",
+  "blockCode": "F80-F89",
+  "block": "Disorders of psychological development",
+  "categoryCode": "F89",
+  "category": "Unspecified disorder of psychological development",
+  "subcategory": "",
+  "title": "Unspecified disorder of psychological development",
+  "inclusion": [
+    "disorders of psychological development",
+    "Developmental disorder NOS"
+  ],
+  "exclusion": [
+    "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified"
+  ],
+  "children": null
+}

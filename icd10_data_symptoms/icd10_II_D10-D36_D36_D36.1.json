@@ -1,0 +1,25 @@
+{
+    "icd10code": "D36.1",
+    "type": "subcategory",
+    "title": "Benign neoplasm: Peripheral nerves and autonomic nervous system",
+    "chapter": "Neoplasms",
+    "chapterCode": "II",
+    "block": "Benign neoplasms",
+    "blockCode": "D10-D36",
+    "category": "Benign neoplasm of other and unspecified sites",
+    "categoryCode": "D36",
+    "subcategory": "D36.1",
+    "inclusion": [
+        "morphology codes with behaviour code /0"
+    ],
+    "exclusion": [
+        "peripheral nerves of orbit"
+    ],
+    "symptoms": [
+        "painless swelling",
+        "lump in neck or throat",
+        "sudden weight loss",
+        "cough",
+        "throat discomfort"
+    ]
+}

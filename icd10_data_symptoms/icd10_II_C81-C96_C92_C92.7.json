@@ -1,0 +1,27 @@
+{
+    "icd10code": "C92.7",
+    "type": "subcategory",
+    "title": "Other myeloid leukaemia",
+    "chapter": "Neoplasms",
+    "chapterCode": "II",
+    "block": "Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",
+    "blockCode": "C81-C96",
+    "category": "Myeloid leukaemia",
+    "categoryCode": "C92",
+    "subcategory": "C92.7",
+    "inclusion": [
+        "leukaemia: granulocytic",
+        "leukaemia: myelogenous"
+    ],
+    "exclusion": [
+        "secondary and unspecified neoplasm of lymph nodes",
+        "chronic eosinophilic leukaemia [hypereosinophilic syndrome]"
+    ],
+    "symptoms": [
+        "fatigue",
+        "unexplained weight loss",
+        "persistent fever",
+        "frequent infections",
+        "bruising or bleeding easily"
+    ]
+}

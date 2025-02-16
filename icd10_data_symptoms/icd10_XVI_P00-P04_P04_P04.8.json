@@ -1,0 +1,34 @@
+{
+    "icd10code": "P04.8",
+    "type": "subcategory",
+    "title": "Fetus and newborn affected by other maternal noxious influences",
+    "chapter": "Certain conditions originating in the perinatal period",
+    "chapterCode": "XVI",
+    "block": "Fetus and newborn affected by maternal factors and by complications of pregnancy, labour and delivery",
+    "blockCode": "P00-P04",
+    "category": "Fetus and newborn affected by noxious influences transmitted via placenta or breast milk",
+    "categoryCode": "P04",
+    "subcategory": "P04.8",
+    "inclusion": [
+        "conditions that have their origin in the perinatal period even though death or morbidity occurs later",
+        "the listed maternal conditions only when specified as a cause of mortality or morbidity in fetus or newborn",
+        "nonteratogenic effects of substances transmitted via placenta"
+    ],
+    "exclusion": [
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "tetanus neonatorum",
+        "whooping cough",
+        "single umbilical artery",
+        "fetal malnutrition with mention of: small for gestational age"
+    ],
+    "symptoms": [
+        "tremors",
+        "irritability",
+        "feeding difficulties",
+        "respiratory distress",
+        "abnormal muscle tone"
+    ]
+}

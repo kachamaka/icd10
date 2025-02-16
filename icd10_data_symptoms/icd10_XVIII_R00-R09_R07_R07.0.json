@@ -1,0 +1,29 @@
+{
+    "icd10code": "R07.0",
+    "type": "subcategory",
+    "title": "Pain in throat",
+    "chapter": "Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+    "chapterCode": "XVIII",
+    "block": "Symptoms and signs involving the circulatory and respiratory systems",
+    "blockCode": "R00-R09",
+    "category": "Pain in throat and chest",
+    "categoryCode": "R07",
+    "subcategory": "R07.0",
+    "inclusion": null,
+    "exclusion": [
+        "abnormal findings on antenatal screening of mother",
+        "certain conditions originating in the perinatal period",
+        "dysphagia",
+        "epidemic myalgia",
+        "pain in: breast",
+        "pain in: neck",
+        "sore throat (acute) NOS"
+    ],
+    "symptoms": [
+        "chest pain",
+        "pressure in chest",
+        "tightness in chest",
+        "discomfort in chest",
+        "pain radiating to upper body"
+    ]
+}

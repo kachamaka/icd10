@@ -1,0 +1,26 @@
+{
+    "icd10code": "D44.7",
+    "type": "subcategory",
+    "title": "Neoplasm of uncertain or unknown behaviour: Aortic body and other paraganglia",
+    "chapter": "Neoplasms",
+    "chapterCode": "II",
+    "block": "Neoplasms of uncertain or unknown behaviour",
+    "blockCode": "D37-D48",
+    "category": "Neoplasm of uncertain or unknown behaviour of endocrine glands",
+    "categoryCode": "D44",
+    "subcategory": "D44.7",
+    "inclusion": null,
+    "exclusion": [
+        "endocrine pancreas",
+        "ovary",
+        "testis",
+        "thymus"
+    ],
+    "symptoms": [
+        "fatigue",
+        "rapid heartbeat",
+        "increased sweating",
+        "unintentional weight loss",
+        "frequent bowel movements"
+    ]
+}

@@ -1,0 +1,36 @@
+{
+    "icd10code": "H04.3",
+    "type": "subcategory",
+    "title": "Acute and unspecified inflammation of lacrimal passages",
+    "chapter": "Diseases of the eye and adnexa",
+    "chapterCode": "VII",
+    "block": "Disorders of eyelid, lacrimal system and orbit",
+    "blockCode": "H00-H06",
+    "category": "Disorders of lacrimal system",
+    "categoryCode": "H04",
+    "subcategory": "H04.3",
+    "inclusion": [
+        "Dacryocystitis (phlegmonous) acute, subacute or unspecified",
+        "Dacryopericystitis acute, subacute or unspecified",
+        "Lacrimal canaliculitis acute, subacute or unspecified"
+    ],
+    "exclusion": [
+        "certain conditions originating in the perinatal period",
+        "certain infectious and parasitic diseases",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "congenital malformations of lacrimal system",
+        "neonatal dacryocystitis"
+    ],
+    "symptoms": [
+        "dry eyes",
+        "redness",
+        "irritation",
+        "burning sensation",
+        "excessive tearing"
+    ]
+}

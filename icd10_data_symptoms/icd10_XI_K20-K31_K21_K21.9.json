@@ -1,0 +1,33 @@
+{
+    "icd10code": "K21.9",
+    "type": "subcategory",
+    "title": "Gastro-oesophageal reflux disease without oesophagitis",
+    "chapter": "Diseases of the digestive system",
+    "chapterCode": "XI",
+    "block": "Diseases of oesophagus, stomach and duodenum",
+    "blockCode": "K20-K31",
+    "category": "Gastro-oesophageal reflux disease",
+    "categoryCode": "K21",
+    "subcategory": "K21.9",
+    "inclusion": [
+        "Oesophageal reflux NOS"
+    ],
+    "exclusion": [
+        "certain conditions originating in the perinatal period",
+        "certain infectious and parasitic diseases",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "hiatus hernia"
+    ],
+    "symptoms": [
+        "heartburn",
+        "acid reflux",
+        "chest discomfort",
+        "regurgitation",
+        "difficulty swallowing"
+    ]
+}

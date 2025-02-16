@@ -1,0 +1,23 @@
+{
+  "type": "subcategory",
+  "chapterCode": "IV",
+  "chapter": "Endocrine, nutritional and metabolic diseases",
+  "blockCode": "E00-E07",
+  "block": "Disorders of thyroid gland",
+  "categoryCode": "E06",
+  "category": "Thyroiditis",
+  "subcategory": "E06.0",
+  "title": "Acute thyroiditis",
+  "inclusion": [
+    "Abscess of thyroid",
+    "Thyroiditis: pyogenic",
+    "Thyroiditis: suppurative"
+  ],
+  "exclusion": [
+    "complications of pregnancy, childbirth and the puerperium",
+    "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+    "transitory endocrine and metabolic disorders specific to fetus and newborn",
+    "adiposogenital dystrophy"
+  ],
+  "children": null
+}

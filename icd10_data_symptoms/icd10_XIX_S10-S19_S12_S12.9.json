@@ -1,0 +1,51 @@
+{
+    "icd10code": "S12.9",
+    "type": "subcategory",
+    "title": "Fracture of neck, part unspecified",
+    "chapter": "Injury, poisoning and certain other consequences of external causes",
+    "chapterCode": "XIX",
+    "block": "Injuries to the neck",
+    "blockCode": "S10-S19",
+    "category": "Fracture of neck",
+    "categoryCode": "S12",
+    "subcategory": "S12.9",
+    "inclusion": [
+        "injuries of: nape",
+        "injuries of: supraclavicular region",
+        "injuries of: throat",
+        "cervical: neural arch",
+        "cervical: spine",
+        "cervical: spinous process",
+        "cervical: transverse process",
+        "cervical: vertebra",
+        "cervical: vertebral arch",
+        "Fracture of cervical: spine NOS",
+        "Fracture of cervical: vertebra NOS"
+    ],
+    "exclusion": [
+        "birth trauma",
+        "obstetric trauma",
+        "malunion of fracture",
+        "nonunion of fracture [pseudarthrosis]",
+        "pathological fracture",
+        "pathological fracture with osteoporosis",
+        "stress fracture",
+        "burns and corrosions",
+        "effects of foreign body in: larynx",
+        "effects of foreign body in: oesophagus",
+        "effects of foreign body in: pharynx",
+        "effects of foreign body in: trachea",
+        "fracture of spine NOS",
+        "frostbite",
+        "injury of: spinal cord NOS",
+        "injury of: trunk NOS",
+        "insect bite or sting, venomous"
+    ],
+    "symptoms": [
+        "neck pain",
+        "decreased range of motion",
+        "muscle spasms",
+        "swelling",
+        "tenderness"
+    ]
+}

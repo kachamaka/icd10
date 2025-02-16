@@ -1,0 +1,27 @@
+{
+    "icd10code": "R23.2",
+    "type": "subcategory",
+    "title": "Flushing",
+    "chapter": "Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+    "chapterCode": "XVIII",
+    "block": "Symptoms and signs involving the skin and subcutaneous tissue",
+    "blockCode": "R20-R23",
+    "category": "Other skin changes",
+    "categoryCode": "R23",
+    "subcategory": "R23.2",
+    "inclusion": [
+        "Excessive blushing"
+    ],
+    "exclusion": [
+        "abnormal findings on antenatal screening of mother",
+        "certain conditions originating in the perinatal period",
+        "menopausal and female climacteric states"
+    ],
+    "symptoms": [
+        "itching",
+        "redness",
+        "irritation",
+        "tingling",
+        "discomfort"
+    ]
+}

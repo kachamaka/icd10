@@ -1,0 +1,23 @@
+{
+    "icd10code": "C63.0",
+    "type": "subcategory",
+    "title": "Malignant neoplasm: Epididymis",
+    "chapter": "Neoplasms",
+    "chapterCode": "II",
+    "block": "Malignant neoplasms of male genital organs",
+    "blockCode": "C60-C63",
+    "category": "Malignant neoplasm of other and unspecified male genital organs",
+    "categoryCode": "C63",
+    "subcategory": "C63.0",
+    "inclusion": [
+        "skin of male genital organs"
+    ],
+    "exclusion": null,
+    "symptoms": [
+        "blood in urine",
+        "pain during urination",
+        "pelvic pain",
+        "enlarged prostate",
+        "back pain"
+    ]
+}

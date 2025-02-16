@@ -1,0 +1,30 @@
+{
+    "icd10code": "Q36.0",
+    "type": "subcategory",
+    "title": "Cleft lip, bilateral",
+    "chapter": "Congenital malformations, deformations and chromosomal abnormalities",
+    "chapterCode": "XVII",
+    "block": "Cleft lip and cleft palate",
+    "blockCode": "Q35-Q37",
+    "category": "Cleft lip",
+    "categoryCode": "Q36",
+    "subcategory": "Q36.0",
+    "inclusion": [
+        "cheiloschisis",
+        "congenital fissure of lip",
+        "harelip",
+        "labium leporinum"
+    ],
+    "exclusion": [
+        "inborn errors of metabolism",
+        "Robin syndrome",
+        "cleft lip with cleft palate"
+    ],
+    "symptoms": [
+        "facial cleft",
+        "nasal deformity",
+        "feeding difficulties",
+        "speech impairment",
+        "cosmetic concerns"
+    ]
+}

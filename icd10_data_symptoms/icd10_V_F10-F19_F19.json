@@ -1,0 +1,28 @@
+{
+    "icd10code": "F19",
+    "type": "modifiedcategory",
+    "title": "Mental and behavioural disorders due to multiple drug use and use of other psychoactive substances : harmful use",
+    "chapter": "Mental and behavioural disorders",
+    "chapterCode": "V",
+    "block": "Mental and behavioural disorders due to psychoactive substance use",
+    "blockCode": "F10-F19",
+    "category": "Mental and behavioural disorders due to multiple drug use and use of other psychoactive substances",
+    "categoryCode": "F19",
+    "subcategory": "",
+    "inclusion": [
+        "disorders of psychological development",
+        "misuse of drugs NOS",
+        "Psychoactive substance abuse"
+    ],
+    "exclusion": [
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "abuse of non-dependence-producing substances"
+    ],
+    "symptoms": [
+        "confusion",
+        "anxiety",
+        "mood swings",
+        "hallucinations",
+        "impaired judgment"
+    ]
+}

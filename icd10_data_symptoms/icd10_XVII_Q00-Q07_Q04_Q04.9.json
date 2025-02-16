@@ -1,0 +1,30 @@
+{
+    "icd10code": "Q04.9",
+    "type": "subcategory",
+    "title": "Congenital malformation of brain, unspecified",
+    "chapter": "Congenital malformations, deformations and chromosomal abnormalities",
+    "chapterCode": "XVII",
+    "block": "Congenital malformations of the nervous system",
+    "blockCode": "Q00-Q07",
+    "category": "Other congenital malformations of brain",
+    "categoryCode": "Q04",
+    "subcategory": "Q04.9",
+    "inclusion": [
+        "Congenital: anomaly NOS of brain",
+        "Congenital: deformity NOS of brain",
+        "Congenital: disease or lesion NOS of brain",
+        "Congenital: multiple anomalies NOS of brain"
+    ],
+    "exclusion": [
+        "inborn errors of metabolism",
+        "cyclopia",
+        "macrocephaly"
+    ],
+    "symptoms": [
+        "developmental delay",
+        "seizure activity",
+        "abnormal muscle tone",
+        "poor coordination",
+        "intellectual disability"
+    ]
+}

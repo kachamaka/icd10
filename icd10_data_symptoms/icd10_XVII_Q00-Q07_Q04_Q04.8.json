@@ -1,0 +1,27 @@
+{
+    "icd10code": "Q04.8",
+    "type": "subcategory",
+    "title": "Other specified congenital malformations of brain",
+    "chapter": "Congenital malformations, deformations and chromosomal abnormalities",
+    "chapterCode": "XVII",
+    "block": "Congenital malformations of the nervous system",
+    "blockCode": "Q00-Q07",
+    "category": "Other congenital malformations of brain",
+    "categoryCode": "Q04",
+    "subcategory": "Q04.8",
+    "inclusion": [
+        "Macrogyria"
+    ],
+    "exclusion": [
+        "inborn errors of metabolism",
+        "cyclopia",
+        "macrocephaly"
+    ],
+    "symptoms": [
+        "delayed development",
+        "seizures",
+        "muscle weakness",
+        "poor coordination",
+        "intellectual disability"
+    ]
+}

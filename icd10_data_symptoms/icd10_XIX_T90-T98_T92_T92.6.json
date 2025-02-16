@@ -1,0 +1,31 @@
+{
+    "icd10code": "T92.6",
+    "type": "subcategory",
+    "title": "Sequelae of crushing injury and traumatic amputation of upper limb",
+    "chapter": "Injury, poisoning and certain other consequences of external causes",
+    "chapterCode": "XIX",
+    "block": "Sequelae of injuries, of poisoning and of other consequences of external causes",
+    "blockCode": "T90-T98",
+    "category": "Sequelae of injuries of upper limb",
+    "categoryCode": "T92",
+    "subcategory": "T92.6",
+    "inclusion": [
+        "Sequelae of injury classifiable to S47-S48, S57-S58, S67-S68 and T11.6"
+    ],
+    "exclusion": [
+        "birth trauma",
+        "obstetric trauma",
+        "malunion of fracture",
+        "nonunion of fracture [pseudarthrosis]",
+        "pathological fracture",
+        "pathological fracture with osteoporosis",
+        "stress fracture"
+    ],
+    "symptoms": [
+        "scarring",
+        "tissue fibrosis",
+        "chronic pain",
+        "restricted mobility",
+        "skin discoloration"
+    ]
+}

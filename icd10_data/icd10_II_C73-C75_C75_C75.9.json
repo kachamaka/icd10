@@ -1,0 +1,21 @@
+{
+  "type": "subcategory",
+  "chapterCode": "II",
+  "chapter": "Neoplasms",
+  "blockCode": "C73-C75",
+  "block": "Malignant neoplasms of thyroid and other endocrine glands",
+  "categoryCode": "C75",
+  "category": "Malignant neoplasm of other endocrine glands and related structures",
+  "subcategory": "C75.9",
+  "title": "Malignant neoplasm: Endocrine gland, unspecified",
+  "inclusion": null,
+  "exclusion": [
+    "adrenal gland",
+    "endocrine pancreas",
+    "ovary",
+    "testis",
+    "thymus",
+    "thyroid gland"
+  ],
+  "children": null
+}

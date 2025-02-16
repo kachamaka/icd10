@@ -1,0 +1,25 @@
+{
+  "type": "subcategory",
+  "chapterCode": "I",
+  "chapter": "Certain infectious and parasitic diseases",
+  "blockCode": "A30-A49",
+  "block": "Other bacterial diseases",
+  "categoryCode": "A30",
+  "category": "Leprosy [Hansen disease]",
+  "subcategory": "A30.4",
+  "title": "Borderline lepromatous leprosy",
+  "inclusion": [
+    "diseases generally recognized as communicable or transmissible",
+    "infection due to Mycobacterium leprae",
+    "BL leprosy"
+  ],
+  "exclusion": [
+    "carrier or suspected carrier of infectious disease",
+    "certain localized infections - see body system-related chapters",
+    "infectious and parasitic diseases complicating pregnancy, childbirth and the puerperium [except obstetrical tetanus]",
+    "infectious and parasitic diseases specific to the perinatal period [except tetanus neonatorum, whooping cough, congenital syphilis, perinatal gonococcal infection and perinatal human immunodeficiency virus [HIV] disease]",
+    "influenza and other acute respiratory infections",
+    "enteritis due to Yersinia enterocolitica"
+  ],
+  "children": null
+}

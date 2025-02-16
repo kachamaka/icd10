@@ -1,0 +1,25 @@
+{
+    "icd10code": "C11.2",
+    "type": "subcategory",
+    "title": "Malignant neoplasm: Lateral wall of nasopharynx",
+    "chapter": "Neoplasms",
+    "chapterCode": "II",
+    "block": "Malignant neoplasms of lip, oral cavity and pharynx",
+    "blockCode": "C00-C14",
+    "category": "Malignant neoplasm of nasopharynx",
+    "categoryCode": "C11",
+    "subcategory": "C11.2",
+    "inclusion": [
+        "Fossa of Rosenmüller",
+        "Opening of auditory tube",
+        "Pharyngeal recess"
+    ],
+    "exclusion": null,
+    "symptoms": [
+        "ear pain",
+        "hearing loss",
+        "tinnitus",
+        "nasal congestion",
+        "discharge from the ear"
+    ]
+}

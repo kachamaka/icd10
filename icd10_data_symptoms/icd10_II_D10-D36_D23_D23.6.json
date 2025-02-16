@@ -1,0 +1,29 @@
+{
+    "icd10code": "D23.6",
+    "type": "subcategory",
+    "title": "Benign neoplasm: Skin of upper limb, including shoulder",
+    "chapter": "Neoplasms",
+    "chapterCode": "II",
+    "block": "Benign neoplasms",
+    "blockCode": "D10-D36",
+    "category": "Other benign neoplasms of skin",
+    "categoryCode": "D23",
+    "subcategory": "D23.6",
+    "inclusion": [
+        "morphology codes with behaviour code /0",
+        "benign neoplasm of: hair follicles",
+        "benign neoplasm of: sebaceous glands",
+        "benign neoplasm of: sweat glands"
+    ],
+    "exclusion": [
+        "benign lipomatous neoplasms",
+        "melanocytic naevi"
+    ],
+    "symptoms": [
+        "unusual skin growth or lump",
+        "changes in skin color",
+        "itching or pain in the lesion",
+        "bleeding or oozing from the lesion",
+        "ulceration"
+    ]
+}

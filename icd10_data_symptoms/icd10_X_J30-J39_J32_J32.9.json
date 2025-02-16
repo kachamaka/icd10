@@ -1,0 +1,37 @@
+{
+    "icd10code": "J32.9",
+    "type": "subcategory",
+    "title": "Chronic sinusitis, unspecified",
+    "chapter": "Diseases of the respiratory system",
+    "chapterCode": "X",
+    "block": "Other diseases of upper respiratory tract",
+    "blockCode": "J30-J39",
+    "category": "Chronic sinusitis",
+    "categoryCode": "J32",
+    "subcategory": "J32.9",
+    "inclusion": [
+        "abscess (chronic) of sinus (accessory)(nasal)",
+        "empyema (chronic) of sinus (accessory)(nasal)",
+        "infection (chronic) of sinus (accessory)(nasal)",
+        "suppuration (chronic) of sinus (accessory)(nasal)",
+        "Sinusitis (chronic) NOS"
+    ],
+    "exclusion": [
+        "certain conditions originating in the perinatal period",
+        "certain infectious and parasitic diseases",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "acute sinusitis"
+    ],
+    "symptoms": [
+        "nasal congestion",
+        "facial pain",
+        "headache",
+        "postnasal drip",
+        "chronic cough"
+    ]
+}

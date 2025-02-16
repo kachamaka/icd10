@@ -1,0 +1,33 @@
+{
+    "icd10code": "H54.4",
+    "type": "subcategory",
+    "title": "Blindness, monocular",
+    "chapter": "Diseases of the eye and adnexa",
+    "chapterCode": "VII",
+    "block": "Visual disturbances and blindness",
+    "blockCode": "H53-H54",
+    "category": "Visual impairment including blindness (binocular or monocular)",
+    "categoryCode": "H54",
+    "subcategory": "H54.4",
+    "inclusion": [
+        "Visual impairment categories 3, 4, 5 in one eye and categories 0, 1, 2 or 9 in the other eye."
+    ],
+    "exclusion": [
+        "certain conditions originating in the perinatal period",
+        "certain infectious and parasitic diseases",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "amaurosis fugax"
+    ],
+    "symptoms": [
+        "blurry vision",
+        "difficulty seeing at night",
+        "eye strain",
+        "headaches",
+        "frequent changes in prescription"
+    ]
+}

@@ -1,0 +1,26 @@
+{
+  "type": "subcategory",
+  "chapterCode": "XIX",
+  "chapter": "Injury, poisoning and certain other consequences of external causes",
+  "blockCode": "T33-T35",
+  "block": "Frostbite",
+  "categoryCode": "T33",
+  "category": "Superficial frostbite",
+  "subcategory": "T33.2",
+  "title": "Superficial frostbite of thorax",
+  "inclusion": [
+    "frostbite with partial-thickness skin loss"
+  ],
+  "exclusion": [
+    "birth trauma",
+    "obstetric trauma",
+    "malunion of fracture",
+    "nonunion of fracture [pseudarthrosis]",
+    "pathological fracture",
+    "pathological fracture with osteoporosis",
+    "stress fracture",
+    "adverse effects of drugs and medicaments",
+    "superficial frostbite involving multiple body regions"
+  ],
+  "children": null
+}

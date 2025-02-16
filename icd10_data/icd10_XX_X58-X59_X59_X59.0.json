@@ -1,0 +1,14 @@
+{
+  "type": "subcategory",
+  "chapterCode": "XX",
+  "chapter": "External causes of morbidity and mortality",
+  "blockCode": "X58-X59",
+  "block": "Accidental exposure to other and unspecified factors",
+  "categoryCode": "X59",
+  "category": "Exposure to unspecified factor",
+  "subcategory": "X59.0",
+  "title": "Exposure to unspecified factor causing fracture",
+  "inclusion": null,
+  "exclusion": null,
+  "children": null
+}

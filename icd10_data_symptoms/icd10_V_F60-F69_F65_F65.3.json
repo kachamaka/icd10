@@ -1,0 +1,26 @@
+{
+    "icd10code": "F65.3",
+    "type": "subcategory",
+    "title": "Voyeurism",
+    "chapter": "Mental and behavioural disorders",
+    "chapterCode": "V",
+    "block": "Disorders of adult personality and behaviour",
+    "blockCode": "F60-F69",
+    "category": "Disorders of sexual preference",
+    "categoryCode": "F65",
+    "subcategory": "F65.3",
+    "inclusion": [
+        "disorders of psychological development",
+        "paraphilias"
+    ],
+    "exclusion": [
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified"
+    ],
+    "symptoms": [
+        "fantasies involving suffering or humiliation",
+        "distress",
+        "impaired functioning",
+        "anxiety",
+        "obsessional sexual thoughts"
+    ]
+}

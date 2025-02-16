@@ -1,0 +1,42 @@
+{
+    "icd10code": "I10",
+    "type": "category",
+    "title": "Essential (primary) hypertension",
+    "chapter": "Diseases of the circulatory system",
+    "chapterCode": "IX",
+    "block": "Hypertensive diseases",
+    "blockCode": "I10-I15",
+    "category": "Essential (primary) hypertension",
+    "categoryCode": "I10",
+    "subcategory": "",
+    "inclusion": [
+        "High blood pressure",
+        "Hypertension (arterial)(benign)(essential)(malignant)(primary)(systemic)"
+    ],
+    "exclusion": [
+        "certain conditions originating in the perinatal period",
+        "certain infectious and parasitic diseases",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "systemic connective tissue disorders",
+        "transient cerebral ischaemic attacks and related syndromes",
+        "transient cerebral ischaemic attacks and related syndromes",
+        "traumatic intracranial haemorrhage",
+        "vascular dementia",
+        "pulmonary hypertension: primary",
+        "pulmonary hypertension: secondary",
+        "involving vessels of: brain",
+        "involving vessels of: eye"
+    ],
+    "symptoms": [
+        "headache",
+        "dizziness",
+        "shortness of breath",
+        "fatigue",
+        "chest pain"
+    ]
+}

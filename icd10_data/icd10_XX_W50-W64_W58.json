@@ -1,0 +1,17 @@
+{
+  "type": "category",
+  "chapterCode": "XX",
+  "chapter": "External causes of morbidity and mortality",
+  "blockCode": "W50-W64",
+  "block": "Exposure to animate mechanical forces",
+  "categoryCode": "W58",
+  "category": "Bitten or struck by crocodile or alligator",
+  "subcategory": "",
+  "title": "Bitten or struck by crocodile or alligator",
+  "inclusion": null,
+  "exclusion": [
+    "bites, venomous",
+    "stings (venomous)"
+  ],
+  "children": null
+}

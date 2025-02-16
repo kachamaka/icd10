@@ -1,0 +1,20 @@
+{
+  "type": "subcategory",
+  "chapterCode": "XXII",
+  "chapter": "Codes for special purposes",
+  "blockCode": "U00-U49",
+  "block": "Provisional assignment of new diseases of uncertain etiology or emergency use",
+  "categoryCode": "U07",
+  "category": "Emergency use of U07",
+  "subcategory": "U07.1",
+  "title": "COVID-19, virus identified",
+  "inclusion": [
+    "COVID-19 NOS"
+  ],
+  "exclusion": [
+    "Coronavirus infection, unspecified site",
+    "Coronavirus as the cause of diseases classified to other chapters",
+    "Severe acute respiratory syndrome [SARS], unspecified"
+  ],
+  "children": null
+}

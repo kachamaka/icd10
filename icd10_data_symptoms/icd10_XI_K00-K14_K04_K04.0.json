@@ -1,0 +1,36 @@
+{
+    "icd10code": "K04.0",
+    "type": "subcategory",
+    "title": "Pulpitis",
+    "chapter": "Diseases of the digestive system",
+    "chapterCode": "XI",
+    "block": "Diseases of oral cavity, salivary glands and jaws",
+    "blockCode": "K00-K14",
+    "category": "Diseases of pulp and periapical tissues",
+    "categoryCode": "K04",
+    "subcategory": "K04.0",
+    "inclusion": [
+        "Pulpitis: NOS",
+        "Pulpitis: acute",
+        "Pulpitis: chronic (hyperplastic)(ulcerative)",
+        "Pulpitis: irreversible",
+        "Pulpitis: reversible"
+    ],
+    "exclusion": [
+        "certain conditions originating in the perinatal period",
+        "certain infectious and parasitic diseases",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified"
+    ],
+    "symptoms": [
+        "toothache",
+        "sensitivity to hot or cold",
+        "swelling around the affected tooth",
+        "localized gum swelling",
+        "pain while chewing"
+    ]
+}

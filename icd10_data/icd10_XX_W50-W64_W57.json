@@ -1,0 +1,17 @@
+{
+  "type": "category",
+  "chapterCode": "XX",
+  "chapter": "External causes of morbidity and mortality",
+  "blockCode": "W50-W64",
+  "block": "Exposure to animate mechanical forces",
+  "categoryCode": "W57",
+  "category": "Bitten or stung by nonvenomous insect and other nonvenomous arthropods",
+  "subcategory": "",
+  "title": "Bitten or stung by nonvenomous insect and other nonvenomous arthropods",
+  "inclusion": null,
+  "exclusion": [
+    "bites, venomous",
+    "stings (venomous)"
+  ],
+  "children": null
+}

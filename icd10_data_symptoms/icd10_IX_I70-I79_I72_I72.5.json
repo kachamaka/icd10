@@ -1,0 +1,49 @@
+{
+    "icd10code": "I72.5",
+    "type": "subcategory",
+    "title": "Aneurysm and dissection of other precerebral arteries",
+    "chapter": "Diseases of the circulatory system",
+    "chapterCode": "IX",
+    "block": "Diseases of arteries, arterioles and capillaries",
+    "blockCode": "I70-I79",
+    "category": "Other aneurysm and dissection",
+    "categoryCode": "I72",
+    "subcategory": "I72.5",
+    "inclusion": [
+        "aneurysm (cirsoid)(false)(ruptured)",
+        "Aneurysm and dissection of basilar artery (trunk)"
+    ],
+    "exclusion": [
+        "certain conditions originating in the perinatal period",
+        "certain infectious and parasitic diseases",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "systemic connective tissue disorders",
+        "transient cerebral ischaemic attacks and related syndromes",
+        "aneurysm (of): aorta",
+        "aneurysm (of): arteriovenous NOS",
+        "aneurysm (of): arteriovenous acquired",
+        "aneurysm (of): cerebral (nonruptured)",
+        "aneurysm (of): cerebral ruptured",
+        "aneurysm (of): coronary",
+        "aneurysm (of): heart",
+        "aneurysm (of): pulmonary artery",
+        "aneurysm (of): retinal",
+        "aneurysm (of): varicose",
+        "dissection of: coronary artery",
+        "dissection of: precerebral artery, congenital (nonruptured)",
+        "aneurysm and dissection of : carotid artery",
+        "aneurysm and dissection of : vertebral artery"
+    ],
+    "symptoms": [
+        "pain in the abdomen",
+        "pulsating feeling in the stomach",
+        "sudden onset of severe pain",
+        "shock",
+        "faintness or dizziness"
+    ]
+}

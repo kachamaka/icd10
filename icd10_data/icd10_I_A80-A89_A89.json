@@ -1,0 +1,24 @@
+{
+  "type": "category",
+  "chapterCode": "I",
+  "chapter": "Certain infectious and parasitic diseases",
+  "blockCode": "A80-A89",
+  "block": "Viral infections of the central nervous system",
+  "categoryCode": "A89",
+  "category": "Unspecified viral infection of central nervous system",
+  "subcategory": "",
+  "title": "Unspecified viral infection of central nervous system",
+  "inclusion": [
+    "diseases generally recognized as communicable or transmissible"
+  ],
+  "exclusion": [
+    "carrier or suspected carrier of infectious disease",
+    "certain localized infections - see body system-related chapters",
+    "infectious and parasitic diseases complicating pregnancy, childbirth and the puerperium [except obstetrical tetanus]",
+    "infectious and parasitic diseases specific to the perinatal period [except tetanus neonatorum, whooping cough, congenital syphilis, perinatal gonococcal infection and perinatal human immunodeficiency virus [HIV] disease]",
+    "influenza and other acute respiratory infections",
+    "rickettsiosis due to Neorickettsia sennetsu [Ehrlichia sennetsu]",
+    "neonatal chlamydial: conjunctivitis"
+  ],
+  "children": null
+}

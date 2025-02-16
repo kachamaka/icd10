@@ -1,0 +1,32 @@
+{
+    "icd10code": "D37.0",
+    "type": "subcategory",
+    "title": "Neoplasm of uncertain or unknown behaviour: Lip, oral cavity and pharynx",
+    "chapter": "Neoplasms",
+    "chapterCode": "II",
+    "block": "Neoplasms of uncertain or unknown behaviour",
+    "blockCode": "D37-D48",
+    "category": "Neoplasm of uncertain or unknown behaviour of oral cavity and digestive organs",
+    "categoryCode": "D37",
+    "subcategory": "D37.0",
+    "inclusion": [
+        "Aryepiglottic fold: NOS",
+        "Aryepiglottic fold: hypopharyngeal aspect",
+        "Aryepiglottic fold: marginal zone",
+        "Major and minor salivary glands",
+        "Vermilion border of lip"
+    ],
+    "exclusion": [
+        "aryepiglottic fold, laryngeal aspect",
+        "epiglottis: NOS",
+        "epiglottis: suprahyoid portion",
+        "skin of lip"
+    ],
+    "symptoms": [
+        "abdominal pain",
+        "changes in bowel habits",
+        "unexplained weight loss",
+        "rectal bleeding",
+        "fatigue"
+    ]
+}

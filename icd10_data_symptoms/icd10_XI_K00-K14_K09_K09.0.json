@@ -1,0 +1,39 @@
+{
+    "icd10code": "K09.0",
+    "type": "subcategory",
+    "title": "Developmental odontogenic cysts",
+    "chapter": "Diseases of the digestive system",
+    "chapterCode": "XI",
+    "block": "Diseases of oral cavity, salivary glands and jaws",
+    "blockCode": "K00-K14",
+    "category": "Cysts of oral region, not elsewhere classified",
+    "categoryCode": "K09",
+    "subcategory": "K09.0",
+    "inclusion": [
+        "lesions showing histological features both of aneurysmal cyst and of another fibro-osseous lesion",
+        "Cyst: dentigerous",
+        "Cyst: eruption",
+        "Cyst: follicular",
+        "Cyst: gingival",
+        "Cyst: lateral periodontal",
+        "Cyst: primordial"
+    ],
+    "exclusion": [
+        "certain conditions originating in the perinatal period",
+        "certain infectious and parasitic diseases",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "radicular cyst"
+    ],
+    "symptoms": [
+        "oral swelling",
+        "gum pain",
+        "jaw tenderness",
+        "difficulty opening mouth",
+        "fever"
+    ]
+}

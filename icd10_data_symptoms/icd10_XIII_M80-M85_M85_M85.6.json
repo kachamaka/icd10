@@ -1,0 +1,38 @@
+{
+    "icd10code": "M85.6",
+    "type": "subcategory",
+    "title": "Other cyst of bone",
+    "chapter": "Diseases of the musculoskeletal system and connective tissue",
+    "chapterCode": "XIII",
+    "block": "Disorders of bone density and structure",
+    "blockCode": "M80-M85",
+    "category": "Other disorders of bone density and structure",
+    "categoryCode": "M85",
+    "subcategory": "M85.6",
+    "inclusion": null,
+    "exclusion": [
+        "certain conditions originating in the perinatal period",
+        "certain disorders of the temporomandibular joint",
+        "certain infectious and parasitic diseases",
+        "compartment syndrome",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "stress fracture of vertebra",
+        "pathological fracture in osteoporosis",
+        "sympathetic reflex dystrophy",
+        "pain due to intervertebral disc disorder",
+        "cyst of jaw NEC",
+        "osteitis fibrosa cystica generalisata [von Recklinghausen disease of bone]"
+    ],
+    "symptoms": [
+        "pain",
+        "swelling",
+        "tenderness in the affected area",
+        "limited range of motion",
+        "possible visible lump"
+    ]
+}

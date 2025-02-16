@@ -1,0 +1,31 @@
+{
+    "icd10code": "H34.1",
+    "type": "subcategory",
+    "title": "Central retinal artery occlusion",
+    "chapter": "Diseases of the eye and adnexa",
+    "chapterCode": "VII",
+    "block": "Disorders of choroid and retina",
+    "blockCode": "H30-H36",
+    "category": "Retinal vascular occlusions",
+    "categoryCode": "H34",
+    "subcategory": "H34.1",
+    "inclusion": null,
+    "exclusion": [
+        "certain conditions originating in the perinatal period",
+        "certain infectious and parasitic diseases",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "amaurosis fugax"
+    ],
+    "symptoms": [
+        "sudden vision loss",
+        "eye floaters",
+        "flashes of light",
+        "dark shadows",
+        "blurred vision"
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "icd10code": "H03.8",
+    "type": "subcategory",
+    "title": "Involvement of eyelid in other diseases classified elsewhere",
+    "chapter": "Diseases of the eye and adnexa",
+    "chapterCode": "VII",
+    "block": "Disorders of eyelid, lacrimal system and orbit",
+    "blockCode": "H00-H06",
+    "category": "Disorders of eyelid in diseases classified elsewhere",
+    "categoryCode": "H03",
+    "subcategory": "H03.8",
+    "inclusion": [
+        "Involvement of eyelid in impetigo"
+    ],
+    "exclusion": [
+        "certain conditions originating in the perinatal period",
+        "certain infectious and parasitic diseases",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified"
+    ],
+    "symptoms": [
+        "swelling around eyes",
+        "redness",
+        "itching",
+        "tearing",
+        "eye discomfort"
+    ]
+}

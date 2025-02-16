@@ -1,0 +1,31 @@
+{
+    "icd10code": "H92.1",
+    "type": "subcategory",
+    "title": "Otorrhoea",
+    "chapter": "Diseases of the ear and mastoid process",
+    "chapterCode": "VIII",
+    "block": "Other disorders of ear",
+    "blockCode": "H90-H95",
+    "category": "Otalgia and effusion of ear",
+    "categoryCode": "H92",
+    "subcategory": "H92.1",
+    "inclusion": null,
+    "exclusion": [
+        "certain conditions originating in the perinatal period",
+        "certain infectious and parasitic diseases",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "leakage of cerebrospinal fluid through ear"
+    ],
+    "symptoms": [
+        "ear ache",
+        "ear fullness",
+        "ear drainage",
+        "hearing loss",
+        "ringing in the ear"
+    ]
+}

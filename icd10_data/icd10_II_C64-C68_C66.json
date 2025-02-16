@@ -1,0 +1,16 @@
+{
+  "type": "category",
+  "chapterCode": "II",
+  "chapter": "Neoplasms",
+  "blockCode": "C64-C68",
+  "block": "Malignant neoplasms of urinary tract",
+  "categoryCode": "C66",
+  "category": "Malignant neoplasm of ureter",
+  "subcategory": "",
+  "title": "Malignant neoplasm of ureter",
+  "inclusion": null,
+  "exclusion": [
+    "ureteric orifice of bladder"
+  ],
+  "children": null
+}

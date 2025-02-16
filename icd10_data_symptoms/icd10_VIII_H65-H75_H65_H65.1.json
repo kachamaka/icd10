@@ -1,0 +1,39 @@
+{
+    "icd10code": "H65.1",
+    "type": "subcategory",
+    "title": "Other acute nonsuppurative otitis media",
+    "chapter": "Diseases of the ear and mastoid process",
+    "chapterCode": "VIII",
+    "block": "Diseases of middle ear and mastoid",
+    "blockCode": "H65-H75",
+    "category": "Nonsuppurative otitis media",
+    "categoryCode": "H65",
+    "subcategory": "H65.1",
+    "inclusion": [
+        "with myringitis",
+        "Otitis media, acute and subacute: allergic (mucoid)(sanguinous)(serous)",
+        "Otitis media, acute and subacute: mucoid",
+        "Otitis media, acute and subacute: nonsuppurative NOS",
+        "Otitis media, acute and subacute: sanguinous",
+        "Otitis media, acute and subacute: seromucinous"
+    ],
+    "exclusion": [
+        "certain conditions originating in the perinatal period",
+        "certain infectious and parasitic diseases",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "otitic barotrauma",
+        "otitis media (acute) NOS"
+    ],
+    "symptoms": [
+        "ear pain",
+        "hearing loss",
+        "ear fullness",
+        "tinnitus",
+        "dizziness"
+    ]
+}

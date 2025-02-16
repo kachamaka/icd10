@@ -1,0 +1,42 @@
+{
+    "icd10code": "N17.9",
+    "type": "subcategory",
+    "title": "Acute renal failure, unspecified",
+    "chapter": "Diseases of the genitourinary system",
+    "chapterCode": "XIV",
+    "block": "Renal failure",
+    "blockCode": "N17-N19",
+    "category": "Acute renal failure",
+    "categoryCode": "N17",
+    "subcategory": "N17.9",
+    "inclusion": [
+        "acute renal impairment"
+    ],
+    "exclusion": [
+        "certain conditions originating in the perinatal period",
+        "certain infectious and parasitic diseases",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "congenital renal failure",
+        "drug- and heavy-metal-induced tubulo-interstitial and tubular conditions",
+        "extrarenal uraemia",
+        "haemolytic-uraemic syndrome",
+        "hepatorenal syndrome",
+        "hepatorenal syndrome postpartum",
+        "prerenal uraemia",
+        "renal failure: complicating abortion or ectopic or molar pregnancy",
+        "renal failure: following labour and delivery",
+        "renal failure: postprocedural"
+    ],
+    "symptoms": [
+        "decreased urine output",
+        "swelling",
+        "fatigue",
+        "confusion",
+        "shortness of breath"
+    ]
+}

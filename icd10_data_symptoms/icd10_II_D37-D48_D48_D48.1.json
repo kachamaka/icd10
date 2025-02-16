@@ -1,0 +1,30 @@
+{
+    "icd10code": "D48.1",
+    "type": "subcategory",
+    "title": "Neoplasm of uncertain or unknown behaviour: Connective and other soft tissue",
+    "chapter": "Neoplasms",
+    "chapterCode": "II",
+    "block": "Neoplasms of uncertain or unknown behaviour",
+    "blockCode": "D37-D48",
+    "category": "Neoplasm of uncertain or unknown behaviour of other and unspecified sites",
+    "categoryCode": "D48",
+    "subcategory": "D48.1",
+    "inclusion": [
+        "Connective tissue of: ear",
+        "Connective tissue of: eyelid"
+    ],
+    "exclusion": [
+        "neurofibromatosis (nonmalignant)",
+        "cartilage (of): articular",
+        "cartilage (of): larynx",
+        "cartilage (of): nose",
+        "connective tissue of breast"
+    ],
+    "symptoms": [
+        "persistent pain in the breast",
+        "abnormal discharge from nipple",
+        "lump in the breast",
+        "changes in skin over breast",
+        "change in breast shape or size"
+    ]
+}

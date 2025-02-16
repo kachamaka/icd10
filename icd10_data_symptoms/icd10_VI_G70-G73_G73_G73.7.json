@@ -1,0 +1,35 @@
+{
+    "icd10code": "G73.7",
+    "type": "subcategory",
+    "title": "Myopathy in other diseases classified elsewhere",
+    "chapter": "Diseases of the nervous system",
+    "chapterCode": "VI",
+    "block": "Diseases of myoneural junction and muscle",
+    "blockCode": "G70-G73",
+    "category": "Disorders of myoneural junction and muscle in diseases classified elsewhere",
+    "categoryCode": "G73",
+    "subcategory": "G73.7",
+    "inclusion": [
+        "Myopathy in: rheumatoid arthritis",
+        "Myopathy in: scleroderma",
+        "Myopathy in: sicca syndrome [Sjögren]",
+        "Myopathy in: systemic lupus erythematosus"
+    ],
+    "exclusion": [
+        "certain conditions originating in the perinatal period",
+        "certain infectious and parasitic diseases",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified"
+    ],
+    "symptoms": [
+        "muscle weakness",
+        "fatigue",
+        "exercise intolerance",
+        "ptosis",
+        "dysphagia"
+    ]
+}

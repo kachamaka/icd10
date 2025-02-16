@@ -1,0 +1,35 @@
+{
+    "icd10code": "G31.0",
+    "type": "subcategory",
+    "title": "Circumscribed brain atrophy",
+    "chapter": "Diseases of the nervous system",
+    "chapterCode": "VI",
+    "block": "Other degenerative diseases of the nervous system",
+    "blockCode": "G30-G32",
+    "category": "Other degenerative diseases of nervous system, not elsewhere classified",
+    "categoryCode": "G31",
+    "subcategory": "G31.0",
+    "inclusion": [
+        "Frontotemporal dementia (FTD)",
+        "Pick disease",
+        "Progressive isolated aphasia"
+    ],
+    "exclusion": [
+        "certain conditions originating in the perinatal period",
+        "certain infectious and parasitic diseases",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "Reye syndrome"
+    ],
+    "symptoms": [
+        "memory loss",
+        "confusion",
+        "disorientation",
+        "difficulty in planning",
+        "impaired judgment"
+    ]
+}

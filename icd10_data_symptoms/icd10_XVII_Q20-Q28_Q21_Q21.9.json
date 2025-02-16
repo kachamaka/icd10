@@ -1,0 +1,26 @@
+{
+    "icd10code": "Q21.9",
+    "type": "subcategory",
+    "title": "Congenital malformation of cardiac septum, unspecified",
+    "chapter": "Congenital malformations, deformations and chromosomal abnormalities",
+    "chapterCode": "XVII",
+    "block": "Congenital malformations of the circulatory system",
+    "blockCode": "Q20-Q28",
+    "category": "Congenital malformations of cardiac septa",
+    "categoryCode": "Q21",
+    "subcategory": "Q21.9",
+    "inclusion": [
+        "Septal (heart) defect NOS"
+    ],
+    "exclusion": [
+        "inborn errors of metabolism",
+        "acquired cardiac septal defect"
+    ],
+    "symptoms": [
+        "heart murmur",
+        "fatigue",
+        "shortness of breath",
+        "rapid heartbeat",
+        "poor weight gain"
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "icd10code": "T79.0",
+    "type": "subcategory",
+    "title": "Air embolism (traumatic)",
+    "chapter": "Injury, poisoning and certain other consequences of external causes",
+    "chapterCode": "XIX",
+    "block": "Certain early complications of trauma",
+    "blockCode": "T79-T79",
+    "category": "Certain early complications of trauma, not elsewhere classified",
+    "categoryCode": "T79",
+    "subcategory": "T79.0",
+    "inclusion": null,
+    "exclusion": [
+        "birth trauma",
+        "obstetric trauma",
+        "malunion of fracture",
+        "nonunion of fracture [pseudarthrosis]",
+        "pathological fracture",
+        "pathological fracture with osteoporosis",
+        "stress fracture",
+        "complications of surgical and medical care NEC",
+        "respiratory distress: syndrome of adult",
+        "respiratory distress: in newborn",
+        "when occurring during or following medical procedures",
+        "air embolism complicating: abortion or ectopic or molar pregnancy",
+        "air embolism complicating: pregnancy, childbirth and the puerperium"
+    ],
+    "symptoms": [
+        "pain",
+        "swelling",
+        "discoloration",
+        "warmth",
+        "tenderness"
+    ]
+}

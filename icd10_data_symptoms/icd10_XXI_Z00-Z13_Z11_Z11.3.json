@@ -1,0 +1,23 @@
+{
+    "icd10code": "Z11.3",
+    "type": "subcategory",
+    "title": "Special screening examination for infections with a predominantly sexual mode of transmission",
+    "chapter": "Factors influencing health status and contact with health services",
+    "chapterCode": "XXI",
+    "block": "Persons encountering health services for examination and investigation",
+    "blockCode": "Z00-Z13",
+    "category": "Special screening examination for infectious and parasitic diseases",
+    "categoryCode": "Z11",
+    "subcategory": "Z11.3",
+    "inclusion": null,
+    "exclusion": [
+        "examinations related to pregnancy and reproduction"
+    ],
+    "symptoms": [
+        "typically asymptomatic",
+        "abnormal pap smear",
+        "genital discomfort",
+        "genital discharge",
+        "itching"
+    ]
+}

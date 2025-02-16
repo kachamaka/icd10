@@ -1,0 +1,37 @@
+{
+    "icd10code": "T56.2",
+    "type": "subcategory",
+    "title": "Toxic effect: Chromium and its compounds",
+    "chapter": "Injury, poisoning and certain other consequences of external causes",
+    "chapterCode": "XIX",
+    "block": "Toxic effects of substances chiefly nonmedicinal as to source",
+    "blockCode": "T51-T65",
+    "category": "Toxic effect of metals",
+    "categoryCode": "T56",
+    "subcategory": "T56.2",
+    "inclusion": [
+        "fumes and vapours of metals",
+        "metals from all sources, except medicinal substances"
+    ],
+    "exclusion": [
+        "birth trauma",
+        "obstetric trauma",
+        "malunion of fracture",
+        "nonunion of fracture [pseudarthrosis]",
+        "pathological fracture",
+        "pathological fracture with osteoporosis",
+        "stress fracture",
+        "corrosions",
+        "localized toxic effects classified elsewhere",
+        "respiratory conditions due to external agents",
+        "organophosphate insecticides",
+        "homologues of benzene"
+    ],
+    "symptoms": [
+        "nausea",
+        "vomiting",
+        "abdominal pain",
+        "diarrhea",
+        "confusion"
+    ]
+}

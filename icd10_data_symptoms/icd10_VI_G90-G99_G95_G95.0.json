@@ -1,0 +1,31 @@
+{
+    "icd10code": "G95.0",
+    "type": "subcategory",
+    "title": "Syringomyelia and syringobulbia",
+    "chapter": "Diseases of the nervous system",
+    "chapterCode": "VI",
+    "block": "Other disorders of the nervous system",
+    "blockCode": "G90-G99",
+    "category": "Other diseases of spinal cord",
+    "categoryCode": "G95",
+    "subcategory": "G95.0",
+    "inclusion": null,
+    "exclusion": [
+        "certain conditions originating in the perinatal period",
+        "certain infectious and parasitic diseases",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "myelitis"
+    ],
+    "symptoms": [
+        "numbness",
+        "tingling",
+        "weakness",
+        "back pain",
+        "bladder dysfunction"
+    ]
+}

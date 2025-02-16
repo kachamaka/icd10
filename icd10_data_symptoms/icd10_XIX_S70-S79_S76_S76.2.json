@@ -1,0 +1,34 @@
+{
+    "icd10code": "S76.2",
+    "type": "subcategory",
+    "title": "Injury of adductor muscle and tendon of thigh",
+    "chapter": "Injury, poisoning and certain other consequences of external causes",
+    "chapterCode": "XIX",
+    "block": "Injuries to the hip and thigh",
+    "blockCode": "S70-S79",
+    "category": "Injury of muscle and tendon at hip and thigh level",
+    "categoryCode": "S76",
+    "subcategory": "S76.2",
+    "inclusion": null,
+    "exclusion": [
+        "birth trauma",
+        "obstetric trauma",
+        "malunion of fracture",
+        "nonunion of fracture [pseudarthrosis]",
+        "pathological fracture",
+        "pathological fracture with osteoporosis",
+        "stress fracture",
+        "bilateral involvement of hip and thigh",
+        "burns and corrosions",
+        "frostbite",
+        "injuries of leg, level unspecified",
+        "insect bite or sting, venomous"
+    ],
+    "symptoms": [
+        "pain in thigh",
+        "swelling",
+        "bruising",
+        "limited mobility",
+        "tenderness"
+    ]
+}

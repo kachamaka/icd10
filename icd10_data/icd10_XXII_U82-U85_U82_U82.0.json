@@ -1,0 +1,17 @@
+{
+  "type": "subcategory",
+  "chapterCode": "XXII",
+  "chapter": "Codes for special purposes",
+  "blockCode": "U82-U85",
+  "block": "Resistance to antimicrobial and antineoplastic drugs",
+  "categoryCode": "U82",
+  "category": "Resistance to betalactam antibiotics",
+  "subcategory": "U82.0",
+  "title": "Resistance to penicillin",
+  "inclusion": [
+    "Resistance to: Amoxicillin",
+    "Resistance to: Ampicillin"
+  ],
+  "exclusion": null,
+  "children": null
+}

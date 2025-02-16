@@ -1,0 +1,35 @@
+{
+    "icd10code": "J96.0",
+    "type": "subcategory",
+    "title": "Acute respiratory failure",
+    "chapter": "Diseases of the respiratory system",
+    "chapterCode": "X",
+    "block": "Other diseases of the respiratory system",
+    "blockCode": "J95-J99",
+    "category": "Respiratory failure, not elsewhere classified",
+    "categoryCode": "J96",
+    "subcategory": "J96.0",
+    "inclusion": null,
+    "exclusion": [
+        "certain conditions originating in the perinatal period",
+        "certain infectious and parasitic diseases",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "cardiorespiratory failure",
+        "postprocedural respiratory failure",
+        "respiratory: arrest",
+        "respiratory: distress: syndrome of adult",
+        "respiratory: distress: in newborn"
+    ],
+    "symptoms": [
+        "shortness of breath",
+        "confusion",
+        "rapid breathing",
+        "bluish skin",
+        "fatigue"
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "icd10code": "S72.7",
+    "type": "subcategory",
+    "title": "Multiple fractures of femur",
+    "chapter": "Injury, poisoning and certain other consequences of external causes",
+    "chapterCode": "XIX",
+    "block": "Injuries to the hip and thigh",
+    "blockCode": "S70-S79",
+    "category": "Fracture of femur",
+    "categoryCode": "S72",
+    "subcategory": "S72.7",
+    "inclusion": null,
+    "exclusion": [
+        "birth trauma",
+        "obstetric trauma",
+        "malunion of fracture",
+        "nonunion of fracture [pseudarthrosis]",
+        "pathological fracture",
+        "pathological fracture with osteoporosis",
+        "stress fracture",
+        "bilateral involvement of hip and thigh",
+        "burns and corrosions",
+        "frostbite",
+        "injuries of leg, level unspecified",
+        "insect bite or sting, venomous"
+    ],
+    "symptoms": [
+        "pain in the hip",
+        "difficulty walking",
+        "swelling in the hip area",
+        "reduced hip mobility",
+        "bruising around the hip"
+    ]
+}

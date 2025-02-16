@@ -1,0 +1,30 @@
+{
+    "icd10code": "Q50.5",
+    "type": "subcategory",
+    "title": "Embryonic cyst of broad ligament",
+    "chapter": "Congenital malformations, deformations and chromosomal abnormalities",
+    "chapterCode": "XVII",
+    "block": "Congenital malformations of genital organs",
+    "blockCode": "Q50-Q56",
+    "category": "Congenital malformations of ovaries, fallopian tubes and broad ligaments",
+    "categoryCode": "Q50",
+    "subcategory": "Q50.5",
+    "inclusion": [
+        "Cyst: epoophoron",
+        "Cyst: Gartner duct",
+        "Cyst: parovarian"
+    ],
+    "exclusion": [
+        "inborn errors of metabolism",
+        "androgen resistance syndrome",
+        "syndromes associated with anomalies in the number and form of chromosomes",
+        "testicular feminization syndrome"
+    ],
+    "symptoms": [
+        "pelvic pain",
+        "irregular menstruation",
+        "infertility",
+        "ovarian mass",
+        "lower abdominal discomfort"
+    ]
+}

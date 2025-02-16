@@ -1,0 +1,23 @@
+{
+    "icd10code": "C47.3",
+    "type": "subcategory",
+    "title": "Malignant neoplasm: Peripheral nerves of thorax",
+    "chapter": "Neoplasms",
+    "chapterCode": "II",
+    "block": "Malignant neoplasms of mesothelial and soft tissue",
+    "blockCode": "C45-C49",
+    "category": "Malignant neoplasm of peripheral nerves and autonomic nervous system",
+    "categoryCode": "C47",
+    "subcategory": "C47.3",
+    "inclusion": [
+        "sympathetic and parasympathetic nerves and ganglia"
+    ],
+    "exclusion": null,
+    "symptoms": [
+        "pain in the peripheral nerves",
+        "numbness or tingling sensation",
+        "decreased sense of touch",
+        "muscle weakness",
+        "loss of muscle control"
+    ]
+}

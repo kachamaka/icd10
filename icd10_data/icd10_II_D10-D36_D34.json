@@ -1,0 +1,16 @@
+{
+  "type": "category",
+  "chapterCode": "II",
+  "chapter": "Neoplasms",
+  "blockCode": "D10-D36",
+  "block": "Benign neoplasms",
+  "categoryCode": "D34",
+  "category": "Benign neoplasm of thyroid gland",
+  "subcategory": "",
+  "title": "Benign neoplasm of thyroid gland",
+  "inclusion": [
+    "morphology codes with behaviour code /0"
+  ],
+  "exclusion": null,
+  "children": null
+}

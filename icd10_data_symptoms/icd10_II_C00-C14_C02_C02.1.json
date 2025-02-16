@@ -1,0 +1,23 @@
+{
+    "icd10code": "C02.1",
+    "type": "subcategory",
+    "title": "Malignant neoplasm: Border of tongue",
+    "chapter": "Neoplasms",
+    "chapterCode": "II",
+    "block": "Malignant neoplasms of lip, oral cavity and pharynx",
+    "blockCode": "C00-C14",
+    "category": "Malignant neoplasm of other and unspecified parts of tongue",
+    "categoryCode": "C02",
+    "subcategory": "C02.1",
+    "inclusion": [
+        "Tip of tongue"
+    ],
+    "exclusion": null,
+    "symptoms": [
+        "sore throat",
+        "difficulty swallowing",
+        "oral lesion",
+        "unexplained weight loss",
+        "bleeding in the mouth"
+    ]
+}

@@ -1,0 +1,23 @@
+{
+  "type": "subcategory",
+  "chapterCode": "XVII",
+  "chapter": "Congenital malformations, deformations and chromosomal abnormalities",
+  "blockCode": "Q80-Q89",
+  "block": "Other congenital malformations",
+  "categoryCode": "Q85",
+  "category": "Phakomatoses, not elsewhere classified",
+  "subcategory": "Q85.8",
+  "title": "Other phakomatoses, not elsewhere classified",
+  "inclusion": [
+    "Syndrome: Peutz-Jeghers",
+    "Syndrome: Sturge-Weber(-Dimitri)",
+    "Syndrome: von Hippel-Lindau"
+  ],
+  "exclusion": [
+    "inborn errors of metabolism",
+    "ataxia telangiectasia [Louis-Bar]",
+    "familial dysautonomia [Riley-Day]",
+    "Meckel-Gruber syndrome"
+  ],
+  "children": null
+}

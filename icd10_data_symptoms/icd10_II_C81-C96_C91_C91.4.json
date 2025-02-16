@@ -1,0 +1,25 @@
+{
+    "icd10code": "C91.4",
+    "type": "subcategory",
+    "title": "Hairy-cell leukaemia",
+    "chapter": "Neoplasms",
+    "chapterCode": "II",
+    "block": "Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",
+    "blockCode": "C81-C96",
+    "category": "Lymphoid leukaemia",
+    "categoryCode": "C91",
+    "subcategory": "C91.4",
+    "inclusion": [
+        "Leukaemic reticuloendotheliosis"
+    ],
+    "exclusion": [
+        "secondary and unspecified neoplasm of lymph nodes"
+    ],
+    "symptoms": [
+        "fatigue",
+        "excessive night sweats",
+        "fever",
+        "unintentional weight loss",
+        "swollen lymph nodes"
+    ]
+}

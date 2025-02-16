@@ -1,0 +1,32 @@
+{
+    "icd10code": "T34.7",
+    "type": "subcategory",
+    "title": "Frostbite with tissue necrosis of knee and lower leg",
+    "chapter": "Injury, poisoning and certain other consequences of external causes",
+    "chapterCode": "XIX",
+    "block": "Frostbite",
+    "blockCode": "T33-T35",
+    "category": "Frostbite with tissue necrosis",
+    "categoryCode": "T34",
+    "subcategory": "T34.7",
+    "inclusion": null,
+    "exclusion": [
+        "birth trauma",
+        "obstetric trauma",
+        "malunion of fracture",
+        "nonunion of fracture [pseudarthrosis]",
+        "pathological fracture",
+        "pathological fracture with osteoporosis",
+        "stress fracture",
+        "adverse effects of drugs and medicaments",
+        "frostbite with tissue necrosis involving multiple body regions",
+        "frostbite with tissue necrosis of ankle and foot alone"
+    ],
+    "symptoms": [
+        "frostbite",
+        "numbness",
+        "skin discoloration",
+        "blistering",
+        "tissue damage"
+    ]
+}

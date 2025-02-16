@@ -1,0 +1,28 @@
+{
+    "icd10code": "R01.1",
+    "type": "subcategory",
+    "title": "Cardiac murmur, unspecified",
+    "chapter": "Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+    "chapterCode": "XVIII",
+    "block": "Symptoms and signs involving the circulatory and respiratory systems",
+    "blockCode": "R00-R09",
+    "category": "Cardiac murmurs and other cardiac sounds",
+    "categoryCode": "R01",
+    "subcategory": "R01.1",
+    "inclusion": [
+        "Cardiac bruit NOS",
+        "Systolic murmur NOS"
+    ],
+    "exclusion": [
+        "abnormal findings on antenatal screening of mother",
+        "certain conditions originating in the perinatal period",
+        "those originating in the perinatal period"
+    ],
+    "symptoms": [
+        "heart murmur",
+        "irregular heartbeat",
+        "chest discomfort",
+        "shortness of breath",
+        "fatigue"
+    ]
+}

@@ -1,0 +1,24 @@
+{
+  "type": "subcategory",
+  "chapterCode": "VI",
+  "chapter": "Diseases of the nervous system",
+  "blockCode": "G35-G37",
+  "block": "Demyelinating diseases of the central nervous system",
+  "categoryCode": "G36",
+  "category": "Other acute disseminated demyelination",
+  "subcategory": "G36.9",
+  "title": "Acute disseminated demyelination, unspecified",
+  "inclusion": null,
+  "exclusion": [
+    "certain conditions originating in the perinatal period",
+    "certain infectious and parasitic diseases",
+    "complications of pregnancy, childbirth and the puerperium",
+    "congenital malformations, deformations and chromosomal abnormalities",
+    "endocrine, nutritional and metabolic diseases",
+    "injury, poisoning and certain other consequences of external causes",
+    "neoplasms",
+    "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+    "postinfectious encephalitis and encephalomyelitis NOS"
+  ],
+  "children": null
+}

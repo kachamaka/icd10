@@ -1,0 +1,28 @@
+{
+    "icd10code": "C75.9",
+    "type": "subcategory",
+    "title": "Malignant neoplasm: Endocrine gland, unspecified",
+    "chapter": "Neoplasms",
+    "chapterCode": "II",
+    "block": "Malignant neoplasms of thyroid and other endocrine glands",
+    "blockCode": "C73-C75",
+    "category": "Malignant neoplasm of other endocrine glands and related structures",
+    "categoryCode": "C75",
+    "subcategory": "C75.9",
+    "inclusion": null,
+    "exclusion": [
+        "adrenal gland",
+        "endocrine pancreas",
+        "ovary",
+        "testis",
+        "thymus",
+        "thyroid gland"
+    ],
+    "symptoms": [
+        "headaches",
+        "lightheadedness",
+        "excessive sweating",
+        "heart palpitations",
+        "high blood pressure"
+    ]
+}

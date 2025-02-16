@@ -1,0 +1,25 @@
+{
+    "icd10code": "Q84.0",
+    "type": "subcategory",
+    "title": "Congenital alopecia",
+    "chapter": "Congenital malformations, deformations and chromosomal abnormalities",
+    "chapterCode": "XVII",
+    "block": "Other congenital malformations",
+    "blockCode": "Q80-Q89",
+    "category": "Other congenital malformations of integument",
+    "categoryCode": "Q84",
+    "subcategory": "Q84.0",
+    "inclusion": [
+        "Congenital atrichosis"
+    ],
+    "exclusion": [
+        "inborn errors of metabolism"
+    ],
+    "symptoms": [
+        "abnormal hair texture",
+        "sparse hair",
+        "fragile hair",
+        "hair loss",
+        "abnormal hair growth"
+    ]
+}

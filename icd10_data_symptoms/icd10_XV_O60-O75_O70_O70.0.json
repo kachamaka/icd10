@@ -1,0 +1,44 @@
+{
+    "icd10code": "O70.0",
+    "type": "subcategory",
+    "title": "First degree perineal laceration during delivery",
+    "chapter": "Pregnancy, childbirth and the puerperium",
+    "chapterCode": "XV",
+    "block": "Complications of labour and delivery",
+    "blockCode": "O60-O75",
+    "category": "Perineal laceration during delivery",
+    "categoryCode": "O70",
+    "subcategory": "O70.0",
+    "inclusion": [
+        "episiotomy extended by laceration",
+        "Perineal laceration, rupture or tear (involving): fourchette during delivery",
+        "Perineal laceration, rupture or tear (involving): labia during delivery",
+        "Perineal laceration, rupture or tear (involving): periurethral tissue during delivery",
+        "Perineal laceration, rupture or tear (involving): skin during delivery",
+        "Perineal laceration, rupture or tear (involving): slight during delivery",
+        "Perineal laceration, rupture or tear (involving): vagina, low during delivery",
+        "Perineal laceration, rupture or tear (involving): vulva during delivery"
+    ],
+    "exclusion": [
+        "Certain diseases or injuries complicating pregnancy, childbirth and the puerperium classified elsewhere: external causes (for mortality)",
+        "Certain diseases or injuries complicating pregnancy, childbirth and the puerperium classified elsewhere: injury, poisoning and certain other consequences of external cause",
+        "Certain diseases or injuries complicating pregnancy, childbirth and the puerperium classified elsewhere: mental and behavioural disorders associated with the puerperium",
+        "Certain diseases or injuries complicating pregnancy, childbirth and the puerperium classified elsewhere: obstetrical tetanus",
+        "Certain diseases or injuries complicating pregnancy, childbirth and the puerperium classified elsewhere: postpartum necrosis of pituitary gland",
+        "Certain diseases or injuries complicating pregnancy, childbirth and the puerperium classified elsewhere: puerperal osteomalacia",
+        "supervision of: high-risk pregnancy",
+        "supervision of: normal pregnancy",
+        "obstetric high vaginal laceration",
+        "vaginal sulcus laceration",
+        "periurethral laceration involving urethra",
+        "that with laceration of: high vaginal wall (middle)(upper third of vaginal wall)",
+        "that with laceration of: vaginal sulcus"
+    ],
+    "symptoms": [
+        "perineal pain",
+        "swelling",
+        "bleeding",
+        "bruising",
+        "difficulty urinating"
+    ]
+}

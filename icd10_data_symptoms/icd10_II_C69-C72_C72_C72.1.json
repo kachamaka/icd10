@@ -1,0 +1,24 @@
+{
+    "icd10code": "C72.1",
+    "type": "subcategory",
+    "title": "Malignant neoplasm: Cauda equina",
+    "chapter": "Neoplasms",
+    "chapterCode": "II",
+    "block": "Malignant neoplasms of eye, brain and other parts of central nervous system",
+    "blockCode": "C69-C72",
+    "category": "Malignant neoplasm of spinal cord, cranial nerves and other parts of central nervous system",
+    "categoryCode": "C72",
+    "subcategory": "C72.1",
+    "inclusion": null,
+    "exclusion": [
+        "meninges",
+        "peripheral nerves and autonomic nervous system"
+    ],
+    "symptoms": [
+        "headache",
+        "nausea",
+        "loss of vision",
+        "difficulty speaking",
+        "change in personality or behavior"
+    ]
+}

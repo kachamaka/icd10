@@ -1,0 +1,42 @@
+{
+    "icd10code": "S52.0",
+    "type": "subcategory",
+    "title": "Fracture of upper end of ulna",
+    "chapter": "Injury, poisoning and certain other consequences of external causes",
+    "chapterCode": "XIX",
+    "block": "Injuries to the elbow and forearm",
+    "blockCode": "S50-S59",
+    "category": "Fracture of forearm",
+    "categoryCode": "S52",
+    "subcategory": "S52.0",
+    "inclusion": [
+        "Coronoid process",
+        "Elbow NOS",
+        "Monteggia fracture-dislocation",
+        "Olecranon process",
+        "Proximal end"
+    ],
+    "exclusion": [
+        "birth trauma",
+        "obstetric trauma",
+        "malunion of fracture",
+        "nonunion of fracture [pseudarthrosis]",
+        "pathological fracture",
+        "pathological fracture with osteoporosis",
+        "stress fracture",
+        "bilateral involvement of elbow and forearm",
+        "burns and corrosions",
+        "frostbite",
+        "injuries of: arm, level unspecified",
+        "injuries of: wrist and hand",
+        "insect bite or sting, venomous",
+        "other and unspecified injuries of wrist and hand"
+    ],
+    "symptoms": [
+        "pain in the forearm",
+        "swelling",
+        "tenderness",
+        "limited range of motion",
+        "visible deformity"
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "icd10code": "Q78.1",
+    "type": "subcategory",
+    "title": "Polyostotic fibrous dysplasia",
+    "chapter": "Congenital malformations, deformations and chromosomal abnormalities",
+    "chapterCode": "XVII",
+    "block": "Congenital malformations and deformations of the musculoskeletal system",
+    "blockCode": "Q65-Q79",
+    "category": "Other osteochondrodysplasias",
+    "categoryCode": "Q78",
+    "subcategory": "Q78.1",
+    "inclusion": [
+        "Albright(-McCune)(-Sternberg) syndrome"
+    ],
+    "exclusion": [
+        "inborn errors of metabolism"
+    ],
+    "symptoms": [
+        "short stature",
+        "brittle bones",
+        "frequent fractures",
+        "skeletal deformities",
+        "joint pain"
+    ]
+}

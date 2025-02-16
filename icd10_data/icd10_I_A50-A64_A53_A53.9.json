@@ -1,0 +1,28 @@
+{
+  "type": "subcategory",
+  "chapterCode": "I",
+  "chapter": "Certain infectious and parasitic diseases",
+  "blockCode": "A50-A64",
+  "block": "Infections with a predominantly sexual mode of transmission",
+  "categoryCode": "A53",
+  "category": "Other and unspecified syphilis",
+  "subcategory": "A53.9",
+  "title": "Syphilis, unspecified",
+  "inclusion": [
+    "diseases generally recognized as communicable or transmissible",
+    "Infection due to Treponema pallidum NOS",
+    "Syphilis (acquired) NOS"
+  ],
+  "exclusion": [
+    "carrier or suspected carrier of infectious disease",
+    "certain localized infections - see body system-related chapters",
+    "infectious and parasitic diseases complicating pregnancy, childbirth and the puerperium [except obstetrical tetanus]",
+    "infectious and parasitic diseases specific to the perinatal period [except tetanus neonatorum, whooping cough, congenital syphilis, perinatal gonococcal infection and perinatal human immunodeficiency virus [HIV] disease]",
+    "influenza and other acute respiratory infections",
+    "erythrasma",
+    "endotoxic shock NOS",
+    "sepsis NOS",
+    "syphilis NOS causing death under two years of age"
+  ],
+  "children": null
+}

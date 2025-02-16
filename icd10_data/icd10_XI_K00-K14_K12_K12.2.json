@@ -1,0 +1,36 @@
+{
+  "type": "subcategory",
+  "chapterCode": "XI",
+  "chapter": "Diseases of the digestive system",
+  "blockCode": "K00-K14",
+  "block": "Diseases of oral cavity, salivary glands and jaws",
+  "categoryCode": "K12",
+  "category": "Stomatitis and related lesions",
+  "subcategory": "K12.2",
+  "title": "Cellulitis and abscess of mouth",
+  "inclusion": [
+    "Cellulitis of mouth (floor)",
+    "Submandibular abscess"
+  ],
+  "exclusion": [
+    "certain conditions originating in the perinatal period",
+    "certain infectious and parasitic diseases",
+    "complications of pregnancy, childbirth and the puerperium",
+    "congenital malformations, deformations and chromosomal abnormalities",
+    "endocrine, nutritional and metabolic diseases",
+    "injury, poisoning and certain other consequences of external causes",
+    "neoplasms",
+    "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+    "cancrum oris",
+    "cheilitis",
+    "gangrenous stomatitis",
+    "herpesviral [herpes simplex] gingivostomatitis",
+    "noma",
+    "abscess (of): periapical",
+    "abscess (of): periodontal",
+    "abscess (of): peritonsillar",
+    "abscess (of): salivary gland",
+    "abscess (of): tongue"
+  ],
+  "children": null
+}

@@ -1,0 +1,29 @@
+{
+    "icd10code": "C83.5",
+    "type": "subcategory",
+    "title": "Lymphoblastic (diffuse) lymphoma",
+    "chapter": "Neoplasms",
+    "chapterCode": "II",
+    "block": "Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",
+    "blockCode": "C81-C96",
+    "category": "Non-follicular lymphoma",
+    "categoryCode": "C83",
+    "subcategory": "C83.5",
+    "inclusion": [
+        "B-cell precursor lymphoma",
+        "Lymphoblastic B-cell lymphoma",
+        "Lymphoblastic lymphoma NOS",
+        "Lymphoblastic T-cell lymphoma",
+        "T-cell precursor lymphoma"
+    ],
+    "exclusion": [
+        "secondary and unspecified neoplasm of lymph nodes"
+    ],
+    "symptoms": [
+        "unexplained weight loss",
+        "fever",
+        "night sweats",
+        "fatigue",
+        "enlarged lymph nodes"
+    ]
+}

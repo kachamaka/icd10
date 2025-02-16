@@ -1,0 +1,32 @@
+{
+    "icd10code": "E06.1",
+    "type": "subcategory",
+    "title": "Subacute thyroiditis",
+    "chapter": "Endocrine, nutritional and metabolic diseases",
+    "chapterCode": "IV",
+    "block": "Disorders of thyroid gland",
+    "blockCode": "E00-E07",
+    "category": "Thyroiditis",
+    "categoryCode": "E06",
+    "subcategory": "E06.1",
+    "inclusion": [
+        "Thyroiditis: de Quervain",
+        "Thyroiditis: giant-cell",
+        "Thyroiditis: granulomatous",
+        "Thyroiditis: nonsuppurative"
+    ],
+    "exclusion": [
+        "complications of pregnancy, childbirth and the puerperium",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "transitory endocrine and metabolic disorders specific to fetus and newborn",
+        "adiposogenital dystrophy",
+        "autoimmune thyroiditis"
+    ],
+    "symptoms": [
+        "fatigue",
+        "unexpected weight loss",
+        "irritability",
+        "rapid heart rate",
+        "heat sensitivity"
+    ]
+}

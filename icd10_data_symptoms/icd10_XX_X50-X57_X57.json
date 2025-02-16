@@ -1,0 +1,22 @@
+{
+    "icd10code": "X57",
+    "type": "category",
+    "title": "Unspecified privation",
+    "chapter": "External causes of morbidity and mortality",
+    "chapterCode": "XX",
+    "block": "Overexertion, travel and privation",
+    "blockCode": "X50-X57",
+    "category": "Unspecified privation",
+    "categoryCode": "X57",
+    "subcategory": "",
+    "inclusion": [
+        "destitution"
+    ],
+    "exclusion": [
+        "assault",
+        "transport accidents"
+    ],
+    "symptoms": [
+        "asymptomatic"
+    ]
+}

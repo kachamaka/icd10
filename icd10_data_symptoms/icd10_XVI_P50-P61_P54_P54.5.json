@@ -1,0 +1,43 @@
+{
+    "icd10code": "P54.5",
+    "type": "subcategory",
+    "title": "Neonatal cutaneous haemorrhage",
+    "chapter": "Certain conditions originating in the perinatal period",
+    "chapterCode": "XVI",
+    "block": "Haemorrhagic and haematological disorders of fetus and newborn",
+    "blockCode": "P50-P61",
+    "category": "Other neonatal haemorrhages",
+    "categoryCode": "P54",
+    "subcategory": "P54.5",
+    "inclusion": [
+        "conditions that have their origin in the perinatal period even though death or morbidity occurs later",
+        "Bruising in fetus or newborn",
+        "Ecchymoses in fetus or newborn",
+        "Petechiae in fetus or newborn",
+        "Superficial haematomata in fetus or newborn"
+    ],
+    "exclusion": [
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "tetanus neonatorum",
+        "whooping cough",
+        "congenital stenosis and stricture of bile ducts",
+        "Crigler-Najjar syndrome",
+        "Dubin-Johnson syndrome",
+        "Gilbert syndrome",
+        "hereditary haemolytic anaemias",
+        "due to inborn errors of metabolism",
+        "kernicterus",
+        "bruising of scalp due to birth injury",
+        "cephalhaematoma due to birth injury"
+    ],
+    "symptoms": [
+        "bruising",
+        "petechiae",
+        "excessive bleeding",
+        "prolonged clotting time",
+        "blood in stool"
+    ]
+}

@@ -1,0 +1,23 @@
+{
+  "type": "category",
+  "chapterCode": "XX",
+  "chapter": "External causes of morbidity and mortality",
+  "blockCode": "X10-X19",
+  "block": "Contact with heat and hot substances",
+  "categoryCode": "X11",
+  "category": "Contact with hot tap-water",
+  "subcategory": "",
+  "title": "Contact with hot tap-water",
+  "inclusion": [
+    "hot water in: bath",
+    "hot water in: bucket",
+    "hot water in: tub",
+    "hot water running out of: hose",
+    "hot water running out of: tap"
+  ],
+  "exclusion": [
+    "exposure to: excessive natural heat",
+    "exposure to: fire and flames"
+  ],
+  "children": null
+}

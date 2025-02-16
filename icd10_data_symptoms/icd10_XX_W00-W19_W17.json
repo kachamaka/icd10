@@ -1,0 +1,41 @@
+{
+    "icd10code": "W17",
+    "type": "category",
+    "title": "Other fall from one level to another",
+    "chapter": "External causes of morbidity and mortality",
+    "chapterCode": "XX",
+    "block": "Falls",
+    "blockCode": "W00-W19",
+    "category": "Other fall from one level to another",
+    "categoryCode": "W17",
+    "subcategory": "",
+    "inclusion": [
+        "fall from or into: cavity",
+        "fall from or into: cherry picker",
+        "fall from or into: dock",
+        "fall from or into: haystack",
+        "fall from or into: hole",
+        "fall from or into: lifting device",
+        "fall from or into: mobile elevated work platform [MEWP]",
+        "fall from or into: pit",
+        "fall from or into: quarry",
+        "fall from or into: shaft",
+        "fall from or into: sky lift",
+        "fall from or into: tank",
+        "fall from or into: well"
+    ],
+    "exclusion": [
+        "assault",
+        "fall (in)(from): animal",
+        "fall (in)(from): burning building",
+        "fall (in)(from): into fire",
+        "fall (in)(from): into water (with drowning or submersion)",
+        "fall (in)(from): machinery (in operation)",
+        "fall (in)(from): repeated falls not resulting from accident",
+        "fall (in)(from): transport vehicle",
+        "intentional self-harm"
+    ],
+    "symptoms": [
+        "asymptomatic"
+    ]
+}

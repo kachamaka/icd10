@@ -1,0 +1,24 @@
+{
+  "type": "subcategory",
+  "chapterCode": "XVIII",
+  "chapter": "Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+  "blockCode": "R20-R23",
+  "block": "Symptoms and signs involving the skin and subcutaneous tissue",
+  "categoryCode": "R20",
+  "category": "Disturbances of skin sensation",
+  "subcategory": "R20.2",
+  "title": "Paraesthesia of skin",
+  "inclusion": [
+    "Formication",
+    "Pins and needles",
+    "Tingling skin"
+  ],
+  "exclusion": [
+    "abnormal findings on antenatal screening of mother",
+    "certain conditions originating in the perinatal period",
+    "dissociative anaesthesia and sensory loss",
+    "psychogenic disturbances",
+    "acroparaesthesia"
+  ],
+  "children": null
+}

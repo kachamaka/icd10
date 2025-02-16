@@ -1,0 +1,21 @@
+{
+    "icd10code": "C06.8",
+    "type": "subcategory",
+    "title": "Malignant neoplasm: Overlapping lesion of other and unspecified parts of mouth",
+    "chapter": "Neoplasms",
+    "chapterCode": "II",
+    "block": "Malignant neoplasms of lip, oral cavity and pharynx",
+    "blockCode": "C00-C14",
+    "category": "Malignant neoplasm of other and unspecified parts of mouth",
+    "categoryCode": "C06",
+    "subcategory": "C06.8",
+    "inclusion": null,
+    "exclusion": null,
+    "symptoms": [
+        "pain in mouth",
+        "unusual mouth bleeding",
+        "difficulty swallowing",
+        "weight loss",
+        "lump or lesion in the mouth"
+    ]
+}

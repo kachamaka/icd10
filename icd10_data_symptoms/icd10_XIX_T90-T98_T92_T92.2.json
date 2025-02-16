@@ -1,0 +1,31 @@
+{
+    "icd10code": "T92.2",
+    "type": "subcategory",
+    "title": "Sequelae of fracture at wrist and hand level",
+    "chapter": "Injury, poisoning and certain other consequences of external causes",
+    "chapterCode": "XIX",
+    "block": "Sequelae of injuries, of poisoning and of other consequences of external causes",
+    "blockCode": "T90-T98",
+    "category": "Sequelae of injuries of upper limb",
+    "categoryCode": "T92",
+    "subcategory": "T92.2",
+    "inclusion": [
+        "Sequelae of injury classifiable to S62.-"
+    ],
+    "exclusion": [
+        "birth trauma",
+        "obstetric trauma",
+        "malunion of fracture",
+        "nonunion of fracture [pseudarthrosis]",
+        "pathological fracture",
+        "pathological fracture with osteoporosis",
+        "stress fracture"
+    ],
+    "symptoms": [
+        "scarring",
+        "disfigurement",
+        "pain",
+        "restricted mobility",
+        "skin contractures"
+    ]
+}

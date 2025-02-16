@@ -1,0 +1,21 @@
+{
+    "icd10code": "U82.8",
+    "type": "subcategory",
+    "title": "Resistance to other betalactam antibiotics",
+    "chapter": "Codes for special purposes",
+    "chapterCode": "XXII",
+    "block": "Resistance to antimicrobial and antineoplastic drugs",
+    "blockCode": "U82-U85",
+    "category": "Resistance to betalactam antibiotics",
+    "categoryCode": "U82",
+    "subcategory": "U82.8",
+    "inclusion": null,
+    "exclusion": null,
+    "symptoms": [
+        "antibiotic resistance",
+        "recurrent infections",
+        "delayed recovery",
+        "ineffectiveness of standard treatments",
+        "necessity for specialized therapy"
+    ]
+}

@@ -1,0 +1,33 @@
+{
+    "icd10code": "A81.2",
+    "type": "subcategory",
+    "title": "Progressive multifocal leukoencephalopathy",
+    "chapter": "Certain infectious and parasitic diseases",
+    "chapterCode": "I",
+    "block": "Viral infections of the central nervous system",
+    "blockCode": "A80-A89",
+    "category": "Atypical virus infections of central nervous system",
+    "categoryCode": "A81",
+    "subcategory": "A81.2",
+    "inclusion": [
+        "diseases generally recognized as communicable or transmissible",
+        "prion diseases of the central nervous system",
+        "Multifocal leukoencephalopathy NOS"
+    ],
+    "exclusion": [
+        "carrier or suspected carrier of infectious disease",
+        "certain localized infections - see body system-related chapters",
+        "infectious and parasitic diseases complicating pregnancy, childbirth and the puerperium [except obstetrical tetanus]",
+        "infectious and parasitic diseases specific to the perinatal period [except tetanus neonatorum, whooping cough, congenital syphilis, perinatal gonococcal infection and perinatal human immunodeficiency virus [HIV] disease]",
+        "influenza and other acute respiratory infections",
+        "erythrasma",
+        "endotoxic shock NOS"
+    ],
+    "symptoms": [
+        "cognitive decline",
+        "memory loss",
+        "personality changes",
+        "difficulty with language",
+        "motor skill impairment"
+    ]
+}

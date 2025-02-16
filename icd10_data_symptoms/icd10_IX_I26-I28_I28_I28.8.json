@@ -1,0 +1,36 @@
+{
+    "icd10code": "I28.8",
+    "type": "subcategory",
+    "title": "Other specified diseases of pulmonary vessels",
+    "chapter": "Diseases of the circulatory system",
+    "chapterCode": "IX",
+    "block": "Pulmonary heart disease and diseases of pulmonary circulation",
+    "blockCode": "I26-I28",
+    "category": "Other diseases of pulmonary vessels",
+    "categoryCode": "I28",
+    "subcategory": "I28.8",
+    "inclusion": [
+        "Rupture of pulmonary vessel",
+        "Stenosis of pulmonary vessel",
+        "Stricture of pulmonary vessel"
+    ],
+    "exclusion": [
+        "certain conditions originating in the perinatal period",
+        "certain infectious and parasitic diseases",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "systemic connective tissue disorders",
+        "transient cerebral ischaemic attacks and related syndromes"
+    ],
+    "symptoms": [
+        "shortness of breath",
+        "coughing up blood",
+        "chest pain",
+        "fatigue",
+        "unexplained weight loss"
+    ]
+}

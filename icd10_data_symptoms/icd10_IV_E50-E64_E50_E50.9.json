@@ -1,0 +1,29 @@
+{
+    "icd10code": "E50.9",
+    "type": "subcategory",
+    "title": "Vitamin A deficiency, unspecified",
+    "chapter": "Endocrine, nutritional and metabolic diseases",
+    "chapterCode": "IV",
+    "block": "Other nutritional deficiencies",
+    "blockCode": "E50-E64",
+    "category": "Vitamin A deficiency",
+    "categoryCode": "E50",
+    "subcategory": "E50.9",
+    "inclusion": [
+        "Hypovitaminosis A NOS"
+    ],
+    "exclusion": [
+        "complications of pregnancy, childbirth and the puerperium",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "transitory endocrine and metabolic disorders specific to fetus and newborn",
+        "diabetes mellitus (in): malnutrition-related",
+        "sequelae of vitamin A deficiency"
+    ],
+    "symptoms": [
+        "fatigue",
+        "impaired growth",
+        "weight loss",
+        "dry and rough skin",
+        "muscle weakness"
+    ]
+}

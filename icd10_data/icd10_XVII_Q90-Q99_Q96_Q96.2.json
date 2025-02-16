@@ -1,0 +1,17 @@
+{
+  "type": "subcategory",
+  "chapterCode": "XVII",
+  "chapter": "Congenital malformations, deformations and chromosomal abnormalities",
+  "blockCode": "Q90-Q99",
+  "block": "Chromosomal abnormalities, not elsewhere classified",
+  "categoryCode": "Q96",
+  "category": "Turner syndrome",
+  "subcategory": "Q96.2",
+  "title": "Karyotype 46,X with abnormal sex chromosome, except iso (Xq)",
+  "inclusion": null,
+  "exclusion": [
+    "inborn errors of metabolism",
+    "Noonan syndrome"
+  ],
+  "children": null
+}

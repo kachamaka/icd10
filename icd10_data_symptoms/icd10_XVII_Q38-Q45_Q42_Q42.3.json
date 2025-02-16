@@ -1,0 +1,26 @@
+{
+    "icd10code": "Q42.3",
+    "type": "subcategory",
+    "title": "Congenital absence, atresia and stenosis of anus without fistula",
+    "chapter": "Congenital malformations, deformations and chromosomal abnormalities",
+    "chapterCode": "XVII",
+    "block": "Other congenital malformations of the digestive system",
+    "blockCode": "Q38-Q45",
+    "category": "Congenital absence, atresia and stenosis of large intestine",
+    "categoryCode": "Q42",
+    "subcategory": "Q42.3",
+    "inclusion": [
+        "congenital obstruction, occlusion and stricture of large intestine",
+        "Imperforate anus"
+    ],
+    "exclusion": [
+        "inborn errors of metabolism"
+    ],
+    "symptoms": [
+        "chronic constipation",
+        "abdominal distension",
+        "delayed passage of meconium",
+        "vomiting",
+        "failure to thrive"
+    ]
+}

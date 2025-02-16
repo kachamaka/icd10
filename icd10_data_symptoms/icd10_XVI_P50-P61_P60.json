@@ -1,0 +1,36 @@
+{
+    "icd10code": "P60",
+    "type": "category",
+    "title": "Disseminated intravascular coagulation of fetus and newborn",
+    "chapter": "Certain conditions originating in the perinatal period",
+    "chapterCode": "XVI",
+    "block": "Haemorrhagic and haematological disorders of fetus and newborn",
+    "blockCode": "P50-P61",
+    "category": "Disseminated intravascular coagulation of fetus and newborn",
+    "categoryCode": "P60",
+    "subcategory": "",
+    "inclusion": [
+        "conditions that have their origin in the perinatal period even though death or morbidity occurs later",
+        "Defibrination syndrome of fetus or newborn"
+    ],
+    "exclusion": [
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "tetanus neonatorum",
+        "whooping cough",
+        "congenital stenosis and stricture of bile ducts",
+        "Crigler-Najjar syndrome",
+        "Dubin-Johnson syndrome",
+        "Gilbert syndrome",
+        "hereditary haemolytic anaemias"
+    ],
+    "symptoms": [
+        "low birth weight",
+        "difficulty breathing",
+        "jaundice",
+        "poor feeding",
+        "hypothermia"
+    ]
+}

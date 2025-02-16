@@ -1,0 +1,28 @@
+{
+    "icd10code": "Q61.8",
+    "type": "subcategory",
+    "title": "Other cystic kidney diseases",
+    "chapter": "Congenital malformations, deformations and chromosomal abnormalities",
+    "chapterCode": "XVII",
+    "block": "Congenital malformations of the urinary system",
+    "blockCode": "Q60-Q64",
+    "category": "Cystic kidney disease",
+    "categoryCode": "Q61",
+    "subcategory": "Q61.8",
+    "inclusion": [
+        "Fibrocystic: kidney",
+        "Fibrocystic: renal degeneration or disease"
+    ],
+    "exclusion": [
+        "inborn errors of metabolism",
+        "cyst of kidney (acquired)",
+        "Potter syndrome"
+    ],
+    "symptoms": [
+        "kidney cysts",
+        "abdominal pain",
+        "hematuria",
+        "hypertension",
+        "urinary tract infections"
+    ]
+}

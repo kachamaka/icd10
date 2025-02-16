@@ -1,0 +1,39 @@
+{
+    "icd10code": "I15.2",
+    "type": "subcategory",
+    "title": "Hypertension secondary to endocrine disorders",
+    "chapter": "Diseases of the circulatory system",
+    "chapterCode": "IX",
+    "block": "Hypertensive diseases",
+    "blockCode": "I10-I15",
+    "category": "Secondary hypertension",
+    "categoryCode": "I15",
+    "subcategory": "I15.2",
+    "inclusion": null,
+    "exclusion": [
+        "certain conditions originating in the perinatal period",
+        "certain infectious and parasitic diseases",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "systemic connective tissue disorders",
+        "transient cerebral ischaemic attacks and related syndromes",
+        "transient cerebral ischaemic attacks and related syndromes",
+        "traumatic intracranial haemorrhage",
+        "vascular dementia",
+        "pulmonary hypertension: primary",
+        "pulmonary hypertension: secondary",
+        "involving vessels of: brain",
+        "involving vessels of: eye"
+    ],
+    "symptoms": [
+        "high blood pressure",
+        "headache",
+        "vision problems",
+        "shortness of breath",
+        "chest pain"
+    ]
+}

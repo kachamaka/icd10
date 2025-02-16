@@ -1,0 +1,20 @@
+{
+  "type": "subcategory",
+  "chapterCode": "II",
+  "chapter": "Neoplasms",
+  "blockCode": "C30-C39",
+  "block": "Malignant neoplasms of respiratory and intrathoracic organs",
+  "categoryCode": "C39",
+  "category": "Malignant neoplasm of other and ill-defined sites in the respiratory system and intrathoracic organs",
+  "subcategory": "C39.0",
+  "title": "Malignant neoplasm: Upper respiratory tract, part unspecified",
+  "inclusion": [
+    "middle ear"
+  ],
+  "exclusion": [
+    "mesothelioma",
+    "intrathoracic NOS",
+    "thoracic NOS"
+  ],
+  "children": null
+}

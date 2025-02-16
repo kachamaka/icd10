@@ -1,0 +1,28 @@
+{
+    "icd10code": "R83",
+    "type": "modifiedcategory",
+    "title": "Abnormal findings in cerebrospinal fluid : abnormal level of enzymes",
+    "chapter": "Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+    "chapterCode": "XVIII",
+    "block": "Abnormal findings on examination of other body fluids, substances and tissues, without diagnosis",
+    "blockCode": "R83-R89",
+    "category": "Abnormal findings in cerebrospinal fluid",
+    "categoryCode": "R83",
+    "subcategory": "",
+    "inclusion": null,
+    "exclusion": [
+        "abnormal findings on antenatal screening of mother",
+        "certain conditions originating in the perinatal period",
+        "abnormal findings on: antenatal screening of mother",
+        "abnormal findings on: examination of: blood, without diagnosis",
+        "abnormal findings on: examination of: urine, without diagnosis",
+        "diagnostic abnormal findings classified elsewhere - see Alphabetical Index"
+    ],
+    "symptoms": [
+        "abnormal color",
+        "unusual consistency",
+        "presence of odor",
+        "detection of cells",
+        "unusual chemical findings"
+    ]
+}

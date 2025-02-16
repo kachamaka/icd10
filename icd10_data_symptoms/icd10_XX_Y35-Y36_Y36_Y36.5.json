@@ -1,0 +1,24 @@
+{
+    "icd10code": "Y36.5",
+    "type": "subcategory",
+    "title": "War operations involving nuclear weapons",
+    "chapter": "External causes of morbidity and mortality",
+    "chapterCode": "XX",
+    "block": "Legal intervention and operations of war",
+    "blockCode": "Y35-Y36",
+    "category": "Operations of war",
+    "categoryCode": "Y36",
+    "subcategory": "Y36.5",
+    "inclusion": [
+        "injuries to military personnel and civilians caused by war and civil insurrection",
+        "Blast effects",
+        "Exposure to ionizing radiation from nuclear weapon",
+        "Fireball effects",
+        "Heat",
+        "Other direct and secondary effects of nuclear weapons"
+    ],
+    "exclusion": null,
+    "symptoms": [
+        "asymptomatic"
+    ]
+}

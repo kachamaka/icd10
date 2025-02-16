@@ -1,0 +1,25 @@
+{
+  "type": "category",
+  "chapterCode": "V",
+  "chapter": "Mental and behavioural disorders",
+  "blockCode": "F00-F09",
+  "block": "Organic, including symptomatic, mental disorders",
+  "categoryCode": "F04",
+  "category": "Organic amnesic syndrome, not induced by alcohol and other psychoactive substances",
+  "subcategory": "",
+  "title": "Organic amnesic syndrome, not induced by alcohol and other psychoactive substances",
+  "inclusion": [
+    "disorders of psychological development",
+    "Korsakov psychosis or syndrome, nonalcoholic"
+  ],
+  "exclusion": [
+    "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+    "amnesia: NOS",
+    "amnesia: anterograde",
+    "amnesia: dissociative",
+    "amnesia: retrograde",
+    "Korsakov syndrome: alcohol-induced or unspecified",
+    "Korsakov syndrome: induced by other psychoactive substances"
+  ],
+  "children": null
+}

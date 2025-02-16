@@ -1,0 +1,25 @@
+{
+    "icd10code": "C31.9",
+    "type": "subcategory",
+    "title": "Malignant neoplasm: Accessory sinus, unspecified",
+    "chapter": "Neoplasms",
+    "chapterCode": "II",
+    "block": "Malignant neoplasms of respiratory and intrathoracic organs",
+    "blockCode": "C30-C39",
+    "category": "Malignant neoplasm of accessory sinuses",
+    "categoryCode": "C31",
+    "subcategory": "C31.9",
+    "inclusion": [
+        "middle ear"
+    ],
+    "exclusion": [
+        "mesothelioma"
+    ],
+    "symptoms": [
+        "nasal obstruction",
+        "persistent sinusitis",
+        "frequent nosebleeds",
+        "loss of smell",
+        "visible growth/swelling in the face or neck"
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "icd10code": "O33.0",
+    "type": "subcategory",
+    "title": "Maternal care for disproportion due to deformity of maternal pelvic bones",
+    "chapter": "Pregnancy, childbirth and the puerperium",
+    "chapterCode": "XV",
+    "block": "Maternal care related to the fetus and amniotic cavity and possible delivery problems",
+    "blockCode": "O30-O48",
+    "category": "Maternal care for known or suspected disproportion",
+    "categoryCode": "O33",
+    "subcategory": "O33.0",
+    "inclusion": [
+        "the listed conditions as a reason for observation, hospitalization or other obstetric care of the mother, or for caesarean section before onset of labour",
+        "Pelvic deformity causing disproportion NOS"
+    ],
+    "exclusion": [
+        "Certain diseases or injuries complicating pregnancy, childbirth and the puerperium classified elsewhere: external causes (for mortality)",
+        "Certain diseases or injuries complicating pregnancy, childbirth and the puerperium classified elsewhere: injury, poisoning and certain other consequences of external cause",
+        "Certain diseases or injuries complicating pregnancy, childbirth and the puerperium classified elsewhere: mental and behavioural disorders associated with the puerperium",
+        "Certain diseases or injuries complicating pregnancy, childbirth and the puerperium classified elsewhere: obstetrical tetanus",
+        "Certain diseases or injuries complicating pregnancy, childbirth and the puerperium classified elsewhere: postpartum necrosis of pituitary gland",
+        "Certain diseases or injuries complicating pregnancy, childbirth and the puerperium classified elsewhere: puerperal osteomalacia",
+        "supervision of: high-risk pregnancy",
+        "supervision of: normal pregnancy",
+        "the listed conditions with obstructed labour"
+    ],
+    "symptoms": [
+        "abnormal fetal position",
+        "pelvic pain",
+        "difficulty in labor",
+        "backache",
+        "reduced fetal movements"
+    ]
+}

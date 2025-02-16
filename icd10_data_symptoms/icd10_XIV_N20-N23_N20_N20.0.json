@@ -1,0 +1,37 @@
+{
+    "icd10code": "N20.0",
+    "type": "subcategory",
+    "title": "Calculus of kidney",
+    "chapter": "Diseases of the genitourinary system",
+    "chapterCode": "XIV",
+    "block": "Urolithiasis",
+    "blockCode": "N20-N23",
+    "category": "Calculus of kidney and ureter",
+    "categoryCode": "N20",
+    "subcategory": "N20.0",
+    "inclusion": [
+        "calculous pyelonephritis",
+        "Nephrolithiasis NOS",
+        "Renal calculus or stone",
+        "Staghorn calculus",
+        "Stone in kidney"
+    ],
+    "exclusion": [
+        "certain conditions originating in the perinatal period",
+        "certain infectious and parasitic diseases",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "with hydronephrosis"
+    ],
+    "symptoms": [
+        "flank pain",
+        "hematuria",
+        "nausea",
+        "vomiting",
+        "urinary frequency"
+    ]
+}

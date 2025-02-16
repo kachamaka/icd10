@@ -1,0 +1,27 @@
+{
+  "type": "subcategory",
+  "chapterCode": "XIV",
+  "chapter": "Diseases of the genitourinary system",
+  "blockCode": "N30-N39",
+  "block": "Other diseases of urinary system",
+  "categoryCode": "N35",
+  "category": "Urethral stricture",
+  "subcategory": "N35.8",
+  "title": "Other urethral stricture",
+  "inclusion": null,
+  "exclusion": [
+    "certain conditions originating in the perinatal period",
+    "certain infectious and parasitic diseases",
+    "complications of pregnancy, childbirth and the puerperium",
+    "congenital malformations, deformations and chromosomal abnormalities",
+    "endocrine, nutritional and metabolic diseases",
+    "injury, poisoning and certain other consequences of external causes",
+    "neoplasms",
+    "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+    "urinary infection (complicating): abortion or ectopic or molar pregnancy",
+    "urinary infection (complicating): pregnancy, childbirth and the puerperium",
+    "urinary infection (complicating): with urolithiasis",
+    "haematuria: NOS"
+  ],
+  "children": null
+}

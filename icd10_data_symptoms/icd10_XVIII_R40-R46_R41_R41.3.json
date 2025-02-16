@@ -1,0 +1,31 @@
+{
+    "icd10code": "R41.3",
+    "type": "subcategory",
+    "title": "Other amnesia",
+    "chapter": "Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+    "chapterCode": "XVIII",
+    "block": "Symptoms and signs involving cognition, perception, emotional state and behaviour",
+    "blockCode": "R40-R46",
+    "category": "Other symptoms and signs involving cognitive functions and awareness",
+    "categoryCode": "R41",
+    "subcategory": "R41.3",
+    "inclusion": [
+        "Amnesia NOS"
+    ],
+    "exclusion": [
+        "abnormal findings on antenatal screening of mother",
+        "certain conditions originating in the perinatal period",
+        "those constituting part of a pattern of mental disorder",
+        "disturbances of skin sensation",
+        "amnesic syndrome: due to psychoactive substance use",
+        "amnesic syndrome: organic",
+        "transient global amnesia"
+    ],
+    "symptoms": [
+        "memory loss",
+        "forgetfulness",
+        "difficulty concentrating",
+        "confusion",
+        "trouble retaining new information"
+    ]
+}

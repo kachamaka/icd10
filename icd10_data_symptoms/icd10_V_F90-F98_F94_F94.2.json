@@ -1,0 +1,31 @@
+{
+    "icd10code": "F94.2",
+    "type": "subcategory",
+    "title": "Disinhibited attachment disorder of childhood",
+    "chapter": "Mental and behavioural disorders",
+    "chapterCode": "V",
+    "block": "Behavioural and emotional disorders with onset usually occurring in childhood and adolescence",
+    "blockCode": "F90-F98",
+    "category": "Disorders of social functioning with onset specific to childhood and adolescence",
+    "categoryCode": "F94",
+    "subcategory": "F94.2",
+    "inclusion": [
+        "disorders of psychological development",
+        "Affectionless psychopathy",
+        "Institutional syndrome"
+    ],
+    "exclusion": [
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "Asperger syndrome",
+        "hospitalism in children",
+        "hyperkinetic disorders",
+        "reactive attachment disorder of childhood"
+    ],
+    "symptoms": [
+        "social withdrawal",
+        "inappropriate social interactions",
+        "emotional detachment",
+        "impaired social communication",
+        "lack of empathy"
+    ]
+}

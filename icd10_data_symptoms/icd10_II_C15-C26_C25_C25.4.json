@@ -1,0 +1,23 @@
+{
+    "icd10code": "C25.4",
+    "type": "subcategory",
+    "title": "Malignant neoplasm: Endocrine pancreas",
+    "chapter": "Neoplasms",
+    "chapterCode": "II",
+    "block": "Malignant neoplasms of digestive organs",
+    "blockCode": "C15-C26",
+    "category": "Malignant neoplasm of pancreas",
+    "categoryCode": "C25",
+    "subcategory": "C25.4",
+    "inclusion": [
+        "Islets of Langerhans"
+    ],
+    "exclusion": null,
+    "symptoms": [
+        "abdominal pain",
+        "weight loss",
+        "jaundice",
+        "nausea and vomiting",
+        "loss of appetite"
+    ]
+}

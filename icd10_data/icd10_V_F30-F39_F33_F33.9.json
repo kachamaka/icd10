@@ -1,0 +1,24 @@
+{
+  "type": "subcategory",
+  "chapterCode": "V",
+  "chapter": "Mental and behavioural disorders",
+  "blockCode": "F30-F39",
+  "block": "Mood [affective] disorders",
+  "categoryCode": "F33",
+  "category": "Recurrent depressive disorder",
+  "subcategory": "F33.9",
+  "title": "Recurrent depressive disorder, unspecified",
+  "inclusion": [
+    "disorders of psychological development",
+    "recurrent episodes of: depressive reaction",
+    "recurrent episodes of: psychogenic depression",
+    "recurrent episodes of: reactive depression",
+    "seasonal depressive disorder",
+    "Monopolar depression NOS"
+  ],
+  "exclusion": [
+    "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+    "recurrent brief depressive episodes"
+  ],
+  "children": null
+}

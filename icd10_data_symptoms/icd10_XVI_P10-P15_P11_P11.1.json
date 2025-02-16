@@ -1,0 +1,30 @@
+{
+    "icd10code": "P11.1",
+    "type": "subcategory",
+    "title": "Other specified brain damage due to birth injury",
+    "chapter": "Certain conditions originating in the perinatal period",
+    "chapterCode": "XVI",
+    "block": "Birth trauma",
+    "blockCode": "P10-P15",
+    "category": "Other birth injuries to central nervous system",
+    "categoryCode": "P11",
+    "subcategory": "P11.1",
+    "inclusion": [
+        "conditions that have their origin in the perinatal period even though death or morbidity occurs later"
+    ],
+    "exclusion": [
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "tetanus neonatorum",
+        "whooping cough"
+    ],
+    "symptoms": [
+        "seizures",
+        "abnormal muscle tone",
+        "difficulty feeding",
+        "poor reflexes",
+        "irritability"
+    ]
+}

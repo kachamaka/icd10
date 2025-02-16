@@ -1,0 +1,24 @@
+{
+    "icd10code": "C06.0",
+    "type": "subcategory",
+    "title": "Malignant neoplasm: Cheek mucosa",
+    "chapter": "Neoplasms",
+    "chapterCode": "II",
+    "block": "Malignant neoplasms of lip, oral cavity and pharynx",
+    "blockCode": "C00-C14",
+    "category": "Malignant neoplasm of other and unspecified parts of mouth",
+    "categoryCode": "C06",
+    "subcategory": "C06.0",
+    "inclusion": [
+        "Buccal mucosa NOS",
+        "Internal cheek"
+    ],
+    "exclusion": null,
+    "symptoms": [
+        "mouth pain",
+        "swollen gums",
+        "bleeding gums",
+        "difficulty swallowing",
+        "oral discomfort"
+    ]
+}

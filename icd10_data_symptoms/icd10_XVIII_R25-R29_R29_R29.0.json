@@ -1,0 +1,30 @@
+{
+    "icd10code": "R29.0",
+    "type": "subcategory",
+    "title": "Tetany",
+    "chapter": "Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+    "chapterCode": "XVIII",
+    "block": "Symptoms and signs involving the nervous and musculoskeletal systems",
+    "blockCode": "R25-R29",
+    "category": "Other symptoms and signs involving the nervous and musculoskeletal systems",
+    "categoryCode": "R29",
+    "subcategory": "R29.0",
+    "inclusion": [
+        "Carpopedal spasm"
+    ],
+    "exclusion": [
+        "abnormal findings on antenatal screening of mother",
+        "certain conditions originating in the perinatal period",
+        "tetany: hysterical",
+        "tetany: neonatal",
+        "tetany: parathyroid",
+        "tetany: post-thyroidectomy"
+    ],
+    "symptoms": [
+        "loss of reflexes",
+        "decreased muscle tone",
+        "absent deep tendon reflex",
+        "flaccid paralysis",
+        "limb hypotonia"
+    ]
+}

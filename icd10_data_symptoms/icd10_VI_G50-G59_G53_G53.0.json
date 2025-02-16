@@ -1,0 +1,38 @@
+{
+    "icd10code": "G53.0",
+    "type": "subcategory",
+    "title": "Postzoster neuralgia",
+    "chapter": "Diseases of the nervous system",
+    "chapterCode": "VI",
+    "block": "Nerve, nerve root and plexus disorders",
+    "blockCode": "G50-G59",
+    "category": "Cranial nerve disorders in diseases classified elsewhere",
+    "categoryCode": "G53",
+    "subcategory": "G53.0",
+    "inclusion": [
+        "Postherpetic: geniculate ganglionitis",
+        "Postherpetic: trigeminal neuralgia"
+    ],
+    "exclusion": [
+        "certain conditions originating in the perinatal period",
+        "certain infectious and parasitic diseases",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "current traumatic nerve, nerve root and plexus disorders - see nerve injury by body region",
+        "neuralgia NOS",
+        "neuritis NOS",
+        "peripheral neuritis in pregnancy",
+        "radiculitis NOS"
+    ],
+    "symptoms": [
+        "pain",
+        "weakness",
+        "impaired sensation",
+        "muscle atrophy",
+        "reflex loss"
+    ]
+}

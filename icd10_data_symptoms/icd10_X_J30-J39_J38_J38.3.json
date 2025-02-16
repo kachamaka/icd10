@@ -1,0 +1,41 @@
+{
+    "icd10code": "J38.3",
+    "type": "subcategory",
+    "title": "Other diseases of vocal cords",
+    "chapter": "Diseases of the respiratory system",
+    "chapterCode": "X",
+    "block": "Other diseases of upper respiratory tract",
+    "blockCode": "J30-J39",
+    "category": "Diseases of vocal cords and larynx, not elsewhere classified",
+    "categoryCode": "J38",
+    "subcategory": "J38.3",
+    "inclusion": [
+        "Abscess of vocal cord(s)",
+        "Cellulitis of vocal cord(s)",
+        "Granuloma of vocal cord(s)",
+        "Leukokeratosis of vocal cord(s)",
+        "Leukoplakia of vocal cord(s)"
+    ],
+    "exclusion": [
+        "certain conditions originating in the perinatal period",
+        "certain infectious and parasitic diseases",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "laryngitis: obstructive (acute)",
+        "laryngitis: ulcerative",
+        "postprocedural subglottic stenosis",
+        "stridor: congenital laryngeal NOS",
+        "stridor: NOS"
+    ],
+    "symptoms": [
+        "hoarseness",
+        "vocal fatigue",
+        "breathy voice",
+        "difficulty speaking",
+        "weak voice"
+    ]
+}

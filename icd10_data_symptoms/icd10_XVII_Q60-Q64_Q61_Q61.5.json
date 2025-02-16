@@ -1,0 +1,27 @@
+{
+    "icd10code": "Q61.5",
+    "type": "subcategory",
+    "title": "Medullary cystic kidney",
+    "chapter": "Congenital malformations, deformations and chromosomal abnormalities",
+    "chapterCode": "XVII",
+    "block": "Congenital malformations of the urinary system",
+    "blockCode": "Q60-Q64",
+    "category": "Cystic kidney disease",
+    "categoryCode": "Q61",
+    "subcategory": "Q61.5",
+    "inclusion": [
+        "Sponge kidney NOS"
+    ],
+    "exclusion": [
+        "inborn errors of metabolism",
+        "cyst of kidney (acquired)",
+        "Potter syndrome"
+    ],
+    "symptoms": [
+        "enlarged kidneys",
+        "frequent urination",
+        "flank pain",
+        "high blood pressure",
+        "blood in urine"
+    ]
+}

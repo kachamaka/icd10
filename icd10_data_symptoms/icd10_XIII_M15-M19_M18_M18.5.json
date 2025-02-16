@@ -1,0 +1,37 @@
+{
+    "icd10code": "M18.5",
+    "type": "subcategory",
+    "title": "Other secondary arthrosis of first carpometacarpal joint",
+    "chapter": "Diseases of the musculoskeletal system and connective tissue",
+    "chapterCode": "XIII",
+    "block": "Arthrosis",
+    "blockCode": "M15-M19",
+    "category": "Arthrosis of first carpometacarpal joint",
+    "categoryCode": "M18",
+    "subcategory": "M18.5",
+    "inclusion": [
+        "Disorders affecting predominantly peripheral (limb) joints",
+        "Secondary arthrosis of first carpometacarpal joint: NOS",
+        "Secondary arthrosis of first carpometacarpal joint: unilateral"
+    ],
+    "exclusion": [
+        "certain conditions originating in the perinatal period",
+        "certain disorders of the temporomandibular joint",
+        "certain infectious and parasitic diseases",
+        "compartment syndrome",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "polyarthritis NOS"
+    ],
+    "symptoms": [
+        "pain in thumb joint",
+        "stiffness",
+        "swelling",
+        "reduced grip strength",
+        "limited thumb movement"
+    ]
+}

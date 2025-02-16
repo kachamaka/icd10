@@ -1,0 +1,26 @@
+{
+    "icd10code": "Q84.5",
+    "type": "subcategory",
+    "title": "Enlarged and hypertrophic nails",
+    "chapter": "Congenital malformations, deformations and chromosomal abnormalities",
+    "chapterCode": "XVII",
+    "block": "Other congenital malformations",
+    "blockCode": "Q80-Q89",
+    "category": "Other congenital malformations of integument",
+    "categoryCode": "Q84",
+    "subcategory": "Q84.5",
+    "inclusion": [
+        "Congenital onychauxis",
+        "Pachyonychia"
+    ],
+    "exclusion": [
+        "inborn errors of metabolism"
+    ],
+    "symptoms": [
+        "abnormal skin texture",
+        "skin fragility",
+        "abnormal hair distribution",
+        "patchy alopecia",
+        "unusual pigmentation"
+    ]
+}

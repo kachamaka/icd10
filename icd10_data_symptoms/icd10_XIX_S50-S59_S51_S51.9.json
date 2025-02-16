@@ -1,0 +1,37 @@
+{
+    "icd10code": "S51.9",
+    "type": "subcategory",
+    "title": "Open wound of forearm, part unspecified",
+    "chapter": "Injury, poisoning and certain other consequences of external causes",
+    "chapterCode": "XIX",
+    "block": "Injuries to the elbow and forearm",
+    "blockCode": "S50-S59",
+    "category": "Open wound of forearm",
+    "categoryCode": "S51",
+    "subcategory": "S51.9",
+    "inclusion": null,
+    "exclusion": [
+        "birth trauma",
+        "obstetric trauma",
+        "malunion of fracture",
+        "nonunion of fracture [pseudarthrosis]",
+        "pathological fracture",
+        "pathological fracture with osteoporosis",
+        "stress fracture",
+        "bilateral involvement of elbow and forearm",
+        "burns and corrosions",
+        "frostbite",
+        "injuries of: arm, level unspecified",
+        "injuries of: wrist and hand",
+        "insect bite or sting, venomous",
+        "other and unspecified injuries of wrist and hand",
+        "fractures of both ulna and radius: lower end"
+    ],
+    "symptoms": [
+        "pain in forearm",
+        "swelling in forearm",
+        "tenderness in forearm",
+        "bruising in forearm",
+        "limited range of motion"
+    ]
+}

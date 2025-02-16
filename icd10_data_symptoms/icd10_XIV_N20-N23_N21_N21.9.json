@@ -1,0 +1,32 @@
+{
+    "icd10code": "N21.9",
+    "type": "subcategory",
+    "title": "Calculus of lower urinary tract, unspecified",
+    "chapter": "Diseases of the genitourinary system",
+    "chapterCode": "XIV",
+    "block": "Urolithiasis",
+    "blockCode": "N20-N23",
+    "category": "Calculus of lower urinary tract",
+    "categoryCode": "N21",
+    "subcategory": "N21.9",
+    "inclusion": [
+        "with cystitis and urethritis"
+    ],
+    "exclusion": [
+        "certain conditions originating in the perinatal period",
+        "certain infectious and parasitic diseases",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified"
+    ],
+    "symptoms": [
+        "pain during urination",
+        "frequent urination",
+        "abdominal pain",
+        "cloudy urine",
+        "urgency to urinate"
+    ]
+}

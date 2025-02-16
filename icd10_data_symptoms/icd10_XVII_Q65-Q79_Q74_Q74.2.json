@@ -1,0 +1,31 @@
+{
+    "icd10code": "Q74.2",
+    "type": "subcategory",
+    "title": "Other congenital malformations of lower limb(s), including pelvic girdle",
+    "chapter": "Congenital malformations, deformations and chromosomal abnormalities",
+    "chapterCode": "XVII",
+    "block": "Congenital malformations and deformations of the musculoskeletal system",
+    "blockCode": "Q65-Q79",
+    "category": "Other congenital malformations of limb(s)",
+    "categoryCode": "Q74",
+    "subcategory": "Q74.2",
+    "inclusion": [
+        "Congenital: fusion of sacroiliac joint",
+        "Congenital: malformation (of): ankle (joint)",
+        "Congenital: malformation (of): sacroiliac (joint)"
+    ],
+    "exclusion": [
+        "inborn errors of metabolism",
+        "polydactyly",
+        "reduction defect of limb",
+        "syndactyly",
+        "anteversion of femur (neck)"
+    ],
+    "symptoms": [
+        "limited limb mobility",
+        "congenital limb deformity",
+        "joint stiffness",
+        "abnormal limb posture",
+        "muscle weakness"
+    ]
+}

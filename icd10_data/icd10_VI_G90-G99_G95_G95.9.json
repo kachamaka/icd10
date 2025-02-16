@@ -1,0 +1,26 @@
+{
+  "type": "subcategory",
+  "chapterCode": "VI",
+  "chapter": "Diseases of the nervous system",
+  "blockCode": "G90-G99",
+  "block": "Other disorders of the nervous system",
+  "categoryCode": "G95",
+  "category": "Other diseases of spinal cord",
+  "subcategory": "G95.9",
+  "title": "Disease of spinal cord, unspecified",
+  "inclusion": [
+    "Myelopathy NOS"
+  ],
+  "exclusion": [
+    "certain conditions originating in the perinatal period",
+    "certain infectious and parasitic diseases",
+    "complications of pregnancy, childbirth and the puerperium",
+    "congenital malformations, deformations and chromosomal abnormalities",
+    "endocrine, nutritional and metabolic diseases",
+    "injury, poisoning and certain other consequences of external causes",
+    "neoplasms",
+    "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+    "myelitis"
+  ],
+  "children": null
+}

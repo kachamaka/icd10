@@ -1,0 +1,39 @@
+{
+    "icd10code": "J69.0",
+    "type": "subcategory",
+    "title": "Pneumonitis due to food and vomit",
+    "chapter": "Diseases of the respiratory system",
+    "chapterCode": "X",
+    "block": "Lung diseases due to external agents",
+    "blockCode": "J60-J70",
+    "category": "Pneumonitis due to solids and liquids",
+    "categoryCode": "J69",
+    "subcategory": "J69.0",
+    "inclusion": [
+        "Aspiration pneumonia (due to): NOS",
+        "Aspiration pneumonia (due to): food (regurgitated)",
+        "Aspiration pneumonia (due to): gastric secretions",
+        "Aspiration pneumonia (due to): milk",
+        "Aspiration pneumonia (due to): vomit"
+    ],
+    "exclusion": [
+        "certain conditions originating in the perinatal period",
+        "certain infectious and parasitic diseases",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "asthma classified to J45.-",
+        "neonatal aspiration syndromes",
+        "Mendelson syndrome"
+    ],
+    "symptoms": [
+        "cough",
+        "dyspnea",
+        "fever",
+        "chest pain",
+        "wheezing"
+    ]
+}

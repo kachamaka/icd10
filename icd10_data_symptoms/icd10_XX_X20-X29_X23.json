@@ -1,0 +1,29 @@
+{
+    "icd10code": "X23",
+    "type": "category",
+    "title": "Contact with hornets, wasps and bees",
+    "chapter": "External causes of morbidity and mortality",
+    "chapterCode": "XX",
+    "block": "Contact with venomous animals and plants",
+    "blockCode": "X20-X29",
+    "category": "Contact with hornets, wasps and bees",
+    "categoryCode": "X23",
+    "subcategory": "",
+    "inclusion": [
+        "chemical released by: animal",
+        "chemical released by: insect",
+        "release of venom through fangs, hairs, spines, tentacles and other venom apparatus",
+        "venomous bites and stings",
+        "yellow jacket"
+    ],
+    "exclusion": [
+        "ingestion of poisonous animals or plants"
+    ],
+    "symptoms": [
+        "pain",
+        "swelling",
+        "redness",
+        "itching",
+        "rash"
+    ]
+}

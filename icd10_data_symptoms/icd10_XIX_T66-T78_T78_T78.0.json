@@ -1,0 +1,30 @@
+{
+    "icd10code": "T78.0",
+    "type": "subcategory",
+    "title": "Anaphylactic shock due to adverse food reaction",
+    "chapter": "Injury, poisoning and certain other consequences of external causes",
+    "chapterCode": "XIX",
+    "block": "Other and unspecified effects of external causes",
+    "blockCode": "T66-T78",
+    "category": "Adverse effects, not elsewhere classified",
+    "categoryCode": "T78",
+    "subcategory": "T78.0",
+    "inclusion": null,
+    "exclusion": [
+        "birth trauma",
+        "obstetric trauma",
+        "malunion of fracture",
+        "nonunion of fracture [pseudarthrosis]",
+        "pathological fracture",
+        "pathological fracture with osteoporosis",
+        "stress fracture",
+        "polycythaemia due to high altitude"
+    ],
+    "symptoms": [
+        "hives",
+        "swelling",
+        "itching",
+        "difficulty breathing",
+        "gastrointestinal distress"
+    ]
+}

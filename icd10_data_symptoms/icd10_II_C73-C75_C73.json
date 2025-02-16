@@ -1,0 +1,21 @@
+{
+    "icd10code": "C73",
+    "type": "category",
+    "title": "Malignant neoplasm of thyroid gland",
+    "chapter": "Neoplasms",
+    "chapterCode": "II",
+    "block": "Malignant neoplasms of thyroid and other endocrine glands",
+    "blockCode": "C73-C75",
+    "category": "Malignant neoplasm of thyroid gland",
+    "categoryCode": "C73",
+    "subcategory": "",
+    "inclusion": null,
+    "exclusion": null,
+    "symptoms": [
+        "swelling or lump in the neck",
+        "fatigue",
+        "weight loss",
+        "persisting cough",
+        "changes in voice"
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "icd10code": "P27.1",
+    "type": "subcategory",
+    "title": "Bronchopulmonary dysplasia originating in the perinatal period",
+    "chapter": "Certain conditions originating in the perinatal period",
+    "chapterCode": "XVI",
+    "block": "Respiratory and cardiovascular disorders specific to the perinatal period",
+    "blockCode": "P20-P29",
+    "category": "Chronic respiratory disease originating in the perinatal period",
+    "categoryCode": "P27",
+    "subcategory": "P27.1",
+    "inclusion": [
+        "conditions that have their origin in the perinatal period even though death or morbidity occurs later"
+    ],
+    "exclusion": [
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "tetanus neonatorum",
+        "whooping cough"
+    ],
+    "symptoms": [
+        "respiratory distress",
+        "cyanosis",
+        "tachypnea",
+        "nasal flaring",
+        "hypoxemia"
+    ]
+}

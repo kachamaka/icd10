@@ -1,0 +1,21 @@
+{
+    "icd10code": "C06.2",
+    "type": "subcategory",
+    "title": "Malignant neoplasm: Retromolar area",
+    "chapter": "Neoplasms",
+    "chapterCode": "II",
+    "block": "Malignant neoplasms of lip, oral cavity and pharynx",
+    "blockCode": "C00-C14",
+    "category": "Malignant neoplasm of other and unspecified parts of mouth",
+    "categoryCode": "C06",
+    "subcategory": "C06.2",
+    "inclusion": null,
+    "exclusion": null,
+    "symptoms": [
+        "pain or discomfort in the mouth",
+        "presence of oral mass or lesion",
+        "difficulty swallowing or speaking",
+        "bleeding in the mouth",
+        "unexplained weight loss"
+    ]
+}

@@ -1,0 +1,36 @@
+{
+    "icd10code": "E75.5",
+    "type": "subcategory",
+    "title": "Other lipid storage disorders",
+    "chapter": "Endocrine, nutritional and metabolic diseases",
+    "chapterCode": "IV",
+    "block": "Metabolic disorders",
+    "blockCode": "E70-E90",
+    "category": "Disorders of sphingolipid metabolism and other lipid storage disorders",
+    "categoryCode": "E75",
+    "subcategory": "E75.5",
+    "inclusion": [
+        "Cerebrotendinous cholesterosis [van Bogaert-Scherer-Epstein]",
+        "Wolman disease"
+    ],
+    "exclusion": [
+        "complications of pregnancy, childbirth and the puerperium",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "transitory endocrine and metabolic disorders specific to fetus and newborn",
+        "androgen resistance syndrome",
+        "congenital adrenal hyperplasia",
+        "Ehlers-Danlos syndrome",
+        "haemolytic anaemias due to enzyme disorders",
+        "Marfan syndrome",
+        "5-alpha-reductase deficiency",
+        "Schilder disease",
+        "hypovolaemic shock: NOS"
+    ],
+    "symptoms": [
+        "intellectual disability",
+        "progressive neurologic deterioration",
+        "vision loss",
+        "difficulty moving or walking",
+        "muscle weakness"
+    ]
+}

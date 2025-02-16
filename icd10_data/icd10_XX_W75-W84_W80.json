@@ -1,0 +1,29 @@
+{
+  "type": "category",
+  "chapterCode": "XX",
+  "chapter": "External causes of morbidity and mortality",
+  "blockCode": "W75-W84",
+  "block": "Other accidental threats to breathing",
+  "categoryCode": "W80",
+  "category": "Inhalation and ingestion of other objects causing obstruction of respiratory tract",
+  "subcategory": "",
+  "title": "Inhalation and ingestion of other objects causing obstruction of respiratory tract",
+  "inclusion": [
+    "asphyxia by any object, except food or vomitus, entering by nose or mouth",
+    "choked on any object, except food or vomitus, entering by nose or mouth",
+    "suffocation by any object, except food or vomitus, entering by nose or mouth",
+    "aspiration NOS",
+    "aspiration and inhalation of foreign body, except food or vomitus (into respiratory tract), NOS",
+    "compression of trachea by foreign body in oesophagus",
+    "interruption of respiration by foreign body in oesophagus",
+    "obstruction of respiration by foreign body in oesophagus",
+    "foreign object in nose",
+    "obstruction of pharynx by foreign body"
+  ],
+  "exclusion": [
+    "inhalation of vomitus or food",
+    "injury, except asphyxia or obstruction of respiratory tract, caused by foreign body",
+    "obstruction of oesophagus by foreign body without mention of asphyxia or obstruction of respiratory tract"
+  ],
+  "children": null
+}

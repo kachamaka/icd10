@@ -1,0 +1,25 @@
+{
+  "type": "category",
+  "chapterCode": "XX",
+  "chapter": "External causes of morbidity and mortality",
+  "blockCode": "X85-Y09",
+  "block": "Assault",
+  "categoryCode": "Y04",
+  "category": "Assault by bodily force",
+  "subcategory": "",
+  "title": "Assault by bodily force",
+  "inclusion": [
+    "homicide",
+    "injuries inflicted by another person with intent to injure or kill, by any means",
+    "unarmed brawl or fight"
+  ],
+  "exclusion": [
+    "injuries due to: legal intervention",
+    "injuries due to: operations of war",
+    "assault by: strangulation",
+    "assault by: submersion",
+    "assault by: use of weapon , ,",
+    "sexual assault by bodily force"
+  ],
+  "children": null
+}

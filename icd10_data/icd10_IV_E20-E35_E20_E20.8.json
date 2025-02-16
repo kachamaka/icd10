@@ -1,0 +1,24 @@
+{
+  "type": "subcategory",
+  "chapterCode": "IV",
+  "chapter": "Endocrine, nutritional and metabolic diseases",
+  "blockCode": "E20-E35",
+  "block": "Disorders of other endocrine glands",
+  "categoryCode": "E20",
+  "category": "Hypoparathyroidism",
+  "subcategory": "E20.8",
+  "title": "Other hypoparathyroidism",
+  "inclusion": null,
+  "exclusion": [
+    "complications of pregnancy, childbirth and the puerperium",
+    "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+    "transitory endocrine and metabolic disorders specific to fetus and newborn",
+    "galactorrhoea",
+    "gynaecomastia",
+    "Di George syndrome",
+    "postprocedural hypoparathyroidism",
+    "tetany NOS",
+    "transitory neonatal hypoparathyroidism"
+  ],
+  "children": null
+}

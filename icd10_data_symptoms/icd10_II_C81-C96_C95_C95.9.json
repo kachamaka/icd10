@@ -1,0 +1,23 @@
+{
+    "icd10code": "C95.9",
+    "type": "subcategory",
+    "title": "Leukaemia, unspecified",
+    "chapter": "Neoplasms",
+    "chapterCode": "II",
+    "block": "Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",
+    "blockCode": "C81-C96",
+    "category": "Leukaemia of unspecified cell type",
+    "categoryCode": "C95",
+    "subcategory": "C95.9",
+    "inclusion": null,
+    "exclusion": [
+        "secondary and unspecified neoplasm of lymph nodes"
+    ],
+    "symptoms": [
+        "fatigue",
+        "fever",
+        "night sweats",
+        "unexplained weight loss",
+        "frequent infections"
+    ]
+}

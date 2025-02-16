@@ -1,0 +1,18 @@
+{
+  "type": "subcategory",
+  "chapterCode": "II",
+  "chapter": "Neoplasms",
+  "blockCode": "C15-C26",
+  "block": "Malignant neoplasms of digestive organs",
+  "categoryCode": "C21",
+  "category": "Malignant neoplasm of anus and anal canal",
+  "subcategory": "C21.8",
+  "title": "Malignant neoplasm: Overlapping lesion of rectum, anus and anal canal",
+  "inclusion": [
+    "Anorectal junction",
+    "Anorectum",
+    "Malignant neoplasm of rectum, anus and anal canal whose point of origin cannot be classified to any one of the categories C20-C21.2"
+  ],
+  "exclusion": null,
+  "children": null
+}

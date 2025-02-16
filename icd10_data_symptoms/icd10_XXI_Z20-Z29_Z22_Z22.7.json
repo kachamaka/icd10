@@ -1,0 +1,21 @@
+{
+    "icd10code": "Z22.7",
+    "type": "subcategory",
+    "title": "Latent tuberculosis",
+    "chapter": "Factors influencing health status and contact with health services",
+    "chapterCode": "XXI",
+    "block": "Persons with potential health hazards related to communicable diseases",
+    "blockCode": "Z20-Z29",
+    "category": "Carrier of infectious disease",
+    "categoryCode": "Z22",
+    "subcategory": "Z22.7",
+    "inclusion": [
+        "suspected carrier"
+    ],
+    "exclusion": [
+        "abnormal result of Mantoux test"
+    ],
+    "symptoms": [
+        "asymptomatic"
+    ]
+}

@@ -1,0 +1,24 @@
+{
+    "icd10code": "U84.7",
+    "type": "subcategory",
+    "title": "Resistance to multiple antimicrobial drugs",
+    "chapter": "Codes for special purposes",
+    "chapterCode": "XXII",
+    "block": "Resistance to antimicrobial and antineoplastic drugs",
+    "blockCode": "U82-U85",
+    "category": "Resistance to other antimicrobial drugs",
+    "categoryCode": "U84",
+    "subcategory": "U84.7",
+    "inclusion": null,
+    "exclusion": [
+        "Resistance to antibiotics",
+        "Resistance to multiple antibiotics only"
+    ],
+    "symptoms": [
+        "chronic cough",
+        "shortness of breath",
+        "wheezing",
+        "fatigue",
+        "recurrent respiratory infections"
+    ]
+}

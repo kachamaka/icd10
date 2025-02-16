@@ -1,0 +1,35 @@
+{
+    "icd10code": "K08.8",
+    "type": "subcategory",
+    "title": "Other specified disorders of teeth and supporting structures",
+    "chapter": "Diseases of the digestive system",
+    "chapterCode": "XI",
+    "block": "Diseases of oral cavity, salivary glands and jaws",
+    "blockCode": "K00-K14",
+    "category": "Other disorders of teeth and supporting structures",
+    "categoryCode": "K08",
+    "subcategory": "K08.8",
+    "inclusion": [
+        "Alveolar (process) cleft",
+        "Enlargement of alveolar ridge NOS",
+        "Irregular alveolar process",
+        "Toothache NOS"
+    ],
+    "exclusion": [
+        "certain conditions originating in the perinatal period",
+        "certain infectious and parasitic diseases",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified"
+    ],
+    "symptoms": [
+        "tooth pain",
+        "loose teeth",
+        "gum swelling",
+        "difficulty chewing",
+        "dental abscess"
+    ]
+}

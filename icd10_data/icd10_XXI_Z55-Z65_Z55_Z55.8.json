@@ -1,0 +1,18 @@
+{
+  "type": "subcategory",
+  "chapterCode": "XXI",
+  "chapter": "Factors influencing health status and contact with health services",
+  "blockCode": "Z55-Z65",
+  "block": "Persons with potential health hazards related to socioeconomic and psychosocial circumstances",
+  "categoryCode": "Z55",
+  "category": "Problems related to education and literacy",
+  "subcategory": "Z55.8",
+  "title": "Other problems related to education and literacy",
+  "inclusion": [
+    "Inadequate teaching"
+  ],
+  "exclusion": [
+    "disorders of psychological development"
+  ],
+  "children": null
+}

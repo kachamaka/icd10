@@ -1,0 +1,25 @@
+{
+    "icd10code": "F78",
+    "type": "modifiedcategory",
+    "title": "Other mental retardation with the statement of no, or minimal, impairment of behaviour",
+    "chapter": "Mental and behavioural disorders",
+    "chapterCode": "V",
+    "block": "Mental retardation",
+    "blockCode": "F70-F79",
+    "category": "Other mental retardation",
+    "categoryCode": "F78",
+    "subcategory": "",
+    "inclusion": [
+        "disorders of psychological development"
+    ],
+    "exclusion": [
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified"
+    ],
+    "symptoms": [
+        "limited intellectual functioning",
+        "impaired adaptive behavior",
+        "difficulty with social skills",
+        "challenges in communication",
+        "learning difficulties"
+    ]
+}

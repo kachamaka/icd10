@@ -1,0 +1,27 @@
+{
+    "icd10code": "R49.1",
+    "type": "subcategory",
+    "title": "Aphonia",
+    "chapter": "Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+    "chapterCode": "XVIII",
+    "block": "Symptoms and signs involving speech and voice",
+    "blockCode": "R47-R49",
+    "category": "Voice disturbances",
+    "categoryCode": "R49",
+    "subcategory": "R49.1",
+    "inclusion": [
+        "Loss of voice"
+    ],
+    "exclusion": [
+        "abnormal findings on antenatal screening of mother",
+        "certain conditions originating in the perinatal period",
+        "psychogenic voice disturbance"
+    ],
+    "symptoms": [
+        "hoarseness",
+        "weak voice",
+        "raspy voice",
+        "breathy voice",
+        "vocal fatigue"
+    ]
+}

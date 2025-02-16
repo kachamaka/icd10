@@ -1,0 +1,37 @@
+{
+    "icd10code": "D51.0",
+    "type": "subcategory",
+    "title": "Vitamin B 12 deficiency anaemia due to intrinsic factor deficiency",
+    "chapter": "Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism",
+    "chapterCode": "III",
+    "block": "Nutritional anaemias",
+    "blockCode": "D50-D53",
+    "category": "Vitamin B 12 deficiency anaemia",
+    "categoryCode": "D51",
+    "subcategory": "D51.0",
+    "inclusion": [
+        "Anaemia: Addison",
+        "Anaemia: Biermer",
+        "Anaemia: pernicious (congenital)",
+        "Congenital intrinsic factor deficiency"
+    ],
+    "exclusion": [
+        "autoimmune disease (systemic) NOS",
+        "certain conditions originating in the perinatal period",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "human immunodeficiency virus [HIV] disease",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "benign hypergammaglobulinaemic purpura"
+    ],
+    "symptoms": [
+        "fatigue",
+        "pallor or pale skin",
+        "shortness of breath",
+        "dizziness",
+        "glossitis or swollen tongue"
+    ]
+}

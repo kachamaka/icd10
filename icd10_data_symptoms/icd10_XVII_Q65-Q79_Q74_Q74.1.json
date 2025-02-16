@@ -1,0 +1,35 @@
+{
+    "icd10code": "Q74.1",
+    "type": "subcategory",
+    "title": "Congenital malformation of knee",
+    "chapter": "Congenital malformations, deformations and chromosomal abnormalities",
+    "chapterCode": "XVII",
+    "block": "Congenital malformations and deformations of the musculoskeletal system",
+    "blockCode": "Q65-Q79",
+    "category": "Other congenital malformations of limb(s)",
+    "categoryCode": "Q74",
+    "subcategory": "Q74.1",
+    "inclusion": [
+        "Congenital: absence of patella",
+        "Congenital: dislocation of patella",
+        "Congenital: genu: valgum",
+        "Congenital: genu: varum",
+        "Rudimentary patella"
+    ],
+    "exclusion": [
+        "inborn errors of metabolism",
+        "polydactyly",
+        "reduction defect of limb",
+        "syndactyly",
+        "congenital: dislocation of knee",
+        "congenital: genu recurvatum",
+        "nail patella syndrome"
+    ],
+    "symptoms": [
+        "joint stiffness",
+        "limited range of motion",
+        "abnormal limb posture",
+        "muscle weakness",
+        "restricted mobility"
+    ]
+}

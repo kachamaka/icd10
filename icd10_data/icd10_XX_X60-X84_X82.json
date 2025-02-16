@@ -1,0 +1,22 @@
+{
+  "type": "category",
+  "chapterCode": "XX",
+  "chapter": "External causes of morbidity and mortality",
+  "blockCode": "X60-X84",
+  "block": "Intentional self-harm",
+  "categoryCode": "X82",
+  "category": "Intentional self-harm by crashing of motor vehicle",
+  "subcategory": "",
+  "title": "Intentional self-harm by crashing of motor vehicle",
+  "inclusion": [
+    "purposely self-inflicted poisoning or injury",
+    "suicide (attempted)",
+    "intentional collision with: motor vehicle",
+    "intentional collision with: train",
+    "intentional collision with: tram (streetcar)"
+  ],
+  "exclusion": [
+    "crashing of aircraft"
+  ],
+  "children": null
+}

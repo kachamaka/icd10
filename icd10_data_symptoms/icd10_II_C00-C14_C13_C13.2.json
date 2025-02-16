@@ -1,0 +1,23 @@
+{
+    "icd10code": "C13.2",
+    "type": "subcategory",
+    "title": "Malignant neoplasm: Posterior wall of hypopharynx",
+    "chapter": "Neoplasms",
+    "chapterCode": "II",
+    "block": "Malignant neoplasms of lip, oral cavity and pharynx",
+    "blockCode": "C00-C14",
+    "category": "Malignant neoplasm of hypopharynx",
+    "categoryCode": "C13",
+    "subcategory": "C13.2",
+    "inclusion": null,
+    "exclusion": [
+        "piriform sinus"
+    ],
+    "symptoms": [
+        "difficulty swallowing",
+        "sore throat",
+        "unexplained weight loss",
+        "hoarseness or voice changes",
+        "persistent cough"
+    ]
+}

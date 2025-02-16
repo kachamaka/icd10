@@ -1,0 +1,33 @@
+{
+    "icd10code": "Q87.0",
+    "type": "subcategory",
+    "title": "Congenital malformation syndromes predominantly affecting facial appearance",
+    "chapter": "Congenital malformations, deformations and chromosomal abnormalities",
+    "chapterCode": "XVII",
+    "block": "Other congenital malformations",
+    "blockCode": "Q80-Q89",
+    "category": "Other specified congenital malformation syndromes affecting multiple systems",
+    "categoryCode": "Q87",
+    "subcategory": "Q87.0",
+    "inclusion": [
+        "Acrocephalopolysyndactyly",
+        "Acrocephalosyndactyly [Apert]",
+        "Cryptophthalmos syndrome",
+        "Cyclopia",
+        "Syndrome: Goldenhar",
+        "Syndrome: Moebius",
+        "Syndrome: oro-facial-digital",
+        "Syndrome: Robin",
+        "Whistling face"
+    ],
+    "exclusion": [
+        "inborn errors of metabolism"
+    ],
+    "symptoms": [
+        "facial dysmorphism",
+        "growth retardation",
+        "intellectual disability",
+        "skeletal anomalies",
+        "congenital heart defects"
+    ]
+}

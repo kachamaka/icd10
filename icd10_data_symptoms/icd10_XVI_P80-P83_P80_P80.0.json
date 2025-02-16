@@ -1,0 +1,31 @@
+{
+    "icd10code": "P80.0",
+    "type": "subcategory",
+    "title": "Cold injury syndrome",
+    "chapter": "Certain conditions originating in the perinatal period",
+    "chapterCode": "XVI",
+    "block": "Conditions involving the integument and temperature regulation of fetus and newborn",
+    "blockCode": "P80-P83",
+    "category": "Hypothermia of newborn",
+    "categoryCode": "P80",
+    "subcategory": "P80.0",
+    "inclusion": [
+        "conditions that have their origin in the perinatal period even though death or morbidity occurs later"
+    ],
+    "exclusion": [
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "tetanus neonatorum",
+        "whooping cough",
+        "mild hypothermia of newborn"
+    ],
+    "symptoms": [
+        "hypothermia",
+        "cold skin",
+        "shivering",
+        "slow heart rate",
+        "weak cry"
+    ]
+}

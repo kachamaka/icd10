@@ -1,0 +1,39 @@
+{
+    "icd10code": "I51.6",
+    "type": "subcategory",
+    "title": "Cardiovascular disease, unspecified",
+    "chapter": "Diseases of the circulatory system",
+    "chapterCode": "IX",
+    "block": "Other forms of heart disease",
+    "blockCode": "I30-I52",
+    "category": "Complications and ill-defined descriptions of heart disease",
+    "categoryCode": "I51",
+    "subcategory": "I51.6",
+    "inclusion": [
+        "Cardiovascular accident NOS"
+    ],
+    "exclusion": [
+        "certain conditions originating in the perinatal period",
+        "certain infectious and parasitic diseases",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "systemic connective tissue disorders",
+        "transient cerebral ischaemic attacks and related syndromes",
+        "prolongation of QT interval",
+        "when not specified as rheumatic",
+        "nonspecific low blood pressure reading NOS",
+        "sudden death: NOS",
+        "atherosclerotic cardiovascular disease, so described"
+    ],
+    "symptoms": [
+        "fatigue",
+        "joint pain or discomfort",
+        "increased heart rate",
+        "breathlessness",
+        "chest discomfort"
+    ]
+}

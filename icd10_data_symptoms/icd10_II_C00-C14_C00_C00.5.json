@@ -1,0 +1,28 @@
+{
+    "icd10code": "C00.5",
+    "type": "subcategory",
+    "title": "Malignant neoplasm: Lip, unspecified, inner aspect",
+    "chapter": "Neoplasms",
+    "chapterCode": "II",
+    "block": "Malignant neoplasms of lip, oral cavity and pharynx",
+    "blockCode": "C00-C14",
+    "category": "Malignant neoplasm of lip",
+    "categoryCode": "C00",
+    "subcategory": "C00.5",
+    "inclusion": [
+        "Lip, not specified whether upper or lower: buccal aspect",
+        "Lip, not specified whether upper or lower: frenulum",
+        "Lip, not specified whether upper or lower: mucosa",
+        "Lip, not specified whether upper or lower: oral aspect"
+    ],
+    "exclusion": [
+        "skin of lip"
+    ],
+    "symptoms": [
+        "pain in the lower lip area",
+        "swelling or lump on the lip",
+        "bleeding from the lip",
+        "persistent lip ulcer",
+        "abnormal color changes in the lip"
+    ]
+}

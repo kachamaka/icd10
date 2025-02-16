@@ -1,0 +1,26 @@
+{
+    "icd10code": "F80.9",
+    "type": "subcategory",
+    "title": "Developmental disorder of speech and language, unspecified",
+    "chapter": "Mental and behavioural disorders",
+    "chapterCode": "V",
+    "block": "Disorders of psychological development",
+    "blockCode": "F80-F89",
+    "category": "Specific developmental disorders of speech and language",
+    "categoryCode": "F80",
+    "subcategory": "F80.9",
+    "inclusion": [
+        "disorders of psychological development",
+        "Language disorder NOS"
+    ],
+    "exclusion": [
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified"
+    ],
+    "symptoms": [
+        "delayed speech development",
+        "difficulty understanding language",
+        "limited vocabulary",
+        "trouble forming sentences",
+        "issues with language comprehension"
+    ]
+}

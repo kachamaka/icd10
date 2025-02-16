@@ -1,0 +1,25 @@
+{
+  "type": "subcategory",
+  "chapterCode": "IX",
+  "chapter": "Diseases of the circulatory system",
+  "blockCode": "I26-I28",
+  "block": "Pulmonary heart disease and diseases of pulmonary circulation",
+  "categoryCode": "I27",
+  "category": "Other pulmonary heart diseases",
+  "subcategory": "I27.0",
+  "title": "Primary pulmonary hypertension",
+  "inclusion": null,
+  "exclusion": [
+    "certain conditions originating in the perinatal period",
+    "certain infectious and parasitic diseases",
+    "complications of pregnancy, childbirth and the puerperium",
+    "congenital malformations, deformations and chromosomal abnormalities",
+    "endocrine, nutritional and metabolic diseases",
+    "injury, poisoning and certain other consequences of external causes",
+    "neoplasms",
+    "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+    "systemic connective tissue disorders",
+    "transient cerebral ischaemic attacks and related syndromes"
+  ],
+  "children": null
+}

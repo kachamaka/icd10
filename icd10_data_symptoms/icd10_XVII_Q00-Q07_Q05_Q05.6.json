@@ -1,0 +1,36 @@
+{
+    "icd10code": "Q05.6",
+    "type": "subcategory",
+    "title": "Thoracic spina bifida without hydrocephalus",
+    "chapter": "Congenital malformations, deformations and chromosomal abnormalities",
+    "chapterCode": "XVII",
+    "block": "Congenital malformations of the nervous system",
+    "blockCode": "Q00-Q07",
+    "category": "Spina bifida",
+    "categoryCode": "Q05",
+    "subcategory": "Q05.6",
+    "inclusion": [
+        "hydromeningocele (spinal)",
+        "meningocele (spinal)",
+        "meningomyelocele",
+        "myelocele",
+        "myelomeningocele",
+        "rachischisis",
+        "spina bifida (aperta)(cystica)",
+        "syringomyelocele",
+        "Spina bifida: dorsal NOS",
+        "Spina bifida: thoracolumbar NOS"
+    ],
+    "exclusion": [
+        "inborn errors of metabolism",
+        "Arnold-Chiari syndrome",
+        "spina bifida occulta"
+    ],
+    "symptoms": [
+        "paralysis",
+        "hydrocephalus",
+        "scoliosis",
+        "loss of sensation",
+        "bladder dysfunction"
+    ]
+}

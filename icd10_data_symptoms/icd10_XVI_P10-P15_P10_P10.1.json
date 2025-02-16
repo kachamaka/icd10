@@ -1,0 +1,32 @@
+{
+    "icd10code": "P10.1",
+    "type": "subcategory",
+    "title": "Cerebral haemorrhage due to birth injury",
+    "chapter": "Certain conditions originating in the perinatal period",
+    "chapterCode": "XVI",
+    "block": "Birth trauma",
+    "blockCode": "P10-P15",
+    "category": "Intracranial laceration and haemorrhage due to birth injury",
+    "categoryCode": "P10",
+    "subcategory": "P10.1",
+    "inclusion": [
+        "conditions that have their origin in the perinatal period even though death or morbidity occurs later"
+    ],
+    "exclusion": [
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "tetanus neonatorum",
+        "whooping cough",
+        "single umbilical artery",
+        "early congenital syphilitic rhinitis"
+    ],
+    "symptoms": [
+        "scalp swelling",
+        "bruising on the scalp",
+        "irritability",
+        "feeding difficulties",
+        "altered consciousness"
+    ]
+}

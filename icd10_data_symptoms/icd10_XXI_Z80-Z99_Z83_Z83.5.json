@@ -1,0 +1,27 @@
+{
+    "icd10code": "Z83.5",
+    "type": "subcategory",
+    "title": "Family history of eye and ear disorders",
+    "chapter": "Factors influencing health status and contact with health services",
+    "chapterCode": "XXI",
+    "block": "Persons with potential health hazards related to family and personal history and certain conditions influencing health status",
+    "blockCode": "Z80-Z99",
+    "category": "Family history of other specific disorders",
+    "categoryCode": "Z83",
+    "subcategory": "Z83.5",
+    "inclusion": [
+        "Conditions classifiable to H00-H53, H55-H83, H92-H95"
+    ],
+    "exclusion": [
+        "follow-up examination",
+        "follow-up medical care and convalescence",
+        "when family or personal history is the reason for special screening or other examination or investigation",
+        "when the possibility that the fetus might be affected is the reason for observation or action during pregnancy",
+        "contact with or exposure to communicable disease in the family",
+        "family history of: blindness and visual loss",
+        "family history of: deafness and hearing loss"
+    ],
+    "symptoms": [
+        "asymptomatic"
+    ]
+}

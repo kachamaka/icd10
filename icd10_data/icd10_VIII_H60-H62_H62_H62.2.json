@@ -1,0 +1,27 @@
+{
+  "type": "subcategory",
+  "chapterCode": "VIII",
+  "chapter": "Diseases of the ear and mastoid process",
+  "blockCode": "H60-H62",
+  "block": "Diseases of external ear",
+  "categoryCode": "H62",
+  "category": "Disorders of external ear in diseases classified elsewhere",
+  "subcategory": "H62.2",
+  "title": "Otitis externa in mycoses",
+  "inclusion": [
+    "Otitis externa in: aspergillosis",
+    "Otitis externa in: candidiasis",
+    "Otomycosis NOS"
+  ],
+  "exclusion": [
+    "certain conditions originating in the perinatal period",
+    "certain infectious and parasitic diseases",
+    "complications of pregnancy, childbirth and the puerperium",
+    "congenital malformations, deformations and chromosomal abnormalities",
+    "endocrine, nutritional and metabolic diseases",
+    "injury, poisoning and certain other consequences of external causes",
+    "neoplasms",
+    "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified"
+  ],
+  "children": null
+}

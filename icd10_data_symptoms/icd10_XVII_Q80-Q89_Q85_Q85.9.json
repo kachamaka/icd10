@@ -1,0 +1,27 @@
+{
+    "icd10code": "Q85.9",
+    "type": "subcategory",
+    "title": "Phakomatosis, unspecified",
+    "chapter": "Congenital malformations, deformations and chromosomal abnormalities",
+    "chapterCode": "XVII",
+    "block": "Other congenital malformations",
+    "blockCode": "Q80-Q89",
+    "category": "Phakomatoses, not elsewhere classified",
+    "categoryCode": "Q85",
+    "subcategory": "Q85.9",
+    "inclusion": [
+        "Hamartosis NOS"
+    ],
+    "exclusion": [
+        "inborn errors of metabolism",
+        "ataxia telangiectasia [Louis-Bar]",
+        "familial dysautonomia [Riley-Day]"
+    ],
+    "symptoms": [
+        "skin lesions",
+        "neurological issues",
+        "benign tumors",
+        "vision problems",
+        "developmental delays"
+    ]
+}

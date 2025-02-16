@@ -1,0 +1,28 @@
+{
+    "icd10code": "F63.3",
+    "type": "subcategory",
+    "title": "Trichotillomania",
+    "chapter": "Mental and behavioural disorders",
+    "chapterCode": "V",
+    "block": "Disorders of adult personality and behaviour",
+    "blockCode": "F60-F69",
+    "category": "Habit and impulse disorders",
+    "categoryCode": "F63",
+    "subcategory": "F63.3",
+    "inclusion": [
+        "disorders of psychological development"
+    ],
+    "exclusion": [
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "habitual excessive use of alcohol or psychoactive substances",
+        "impulse and habit disorders involving sexual behaviour",
+        "stereotyped movement disorder with hair-plucking"
+    ],
+    "symptoms": [
+        "impulsive pulling of hair",
+        "noticeable hair loss",
+        "increasing tension before pulling",
+        "relief after pulling",
+        "distress or impairment in functioning"
+    ]
+}

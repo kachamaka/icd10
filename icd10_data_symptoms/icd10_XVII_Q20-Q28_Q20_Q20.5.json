@@ -1,0 +1,29 @@
+{
+    "icd10code": "Q20.5",
+    "type": "subcategory",
+    "title": "Discordant atrioventricular connection",
+    "chapter": "Congenital malformations, deformations and chromosomal abnormalities",
+    "chapterCode": "XVII",
+    "block": "Congenital malformations of the circulatory system",
+    "blockCode": "Q20-Q28",
+    "category": "Congenital malformations of cardiac chambers and connections",
+    "categoryCode": "Q20",
+    "subcategory": "Q20.5",
+    "inclusion": [
+        "Corrected transposition",
+        "Laevotransposition",
+        "Ventricular inversion"
+    ],
+    "exclusion": [
+        "inborn errors of metabolism",
+        "dextrocardia with situs inversus",
+        "mirror-image atrial arrangement with situs inversus"
+    ],
+    "symptoms": [
+        "congenital heart defect",
+        "irregular heartbeat",
+        "cyanosis",
+        "shortness of breath",
+        "poor feeding"
+    ]
+}

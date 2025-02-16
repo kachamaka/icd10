@@ -1,0 +1,26 @@
+{
+    "icd10code": "R44.3",
+    "type": "subcategory",
+    "title": "Hallucinations, unspecified",
+    "chapter": "Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+    "chapterCode": "XVIII",
+    "block": "Symptoms and signs involving cognition, perception, emotional state and behaviour",
+    "blockCode": "R40-R46",
+    "category": "Other symptoms and signs involving general sensations and perceptions",
+    "categoryCode": "R44",
+    "subcategory": "R44.3",
+    "inclusion": null,
+    "exclusion": [
+        "abnormal findings on antenatal screening of mother",
+        "certain conditions originating in the perinatal period",
+        "those constituting part of a pattern of mental disorder",
+        "signs and symptoms constituting part of a mental disorder"
+    ],
+    "symptoms": [
+        "hallucinations",
+        "visual disturbances",
+        "hearing non-existent sounds",
+        "sensory misperceptions",
+        "altered reality awareness"
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "icd10code": "D13.5",
+    "type": "subcategory",
+    "title": "Benign neoplasm: Extrahepatic bile ducts",
+    "chapter": "Neoplasms",
+    "chapterCode": "II",
+    "block": "Benign neoplasms",
+    "blockCode": "D10-D36",
+    "category": "Benign neoplasm of other and ill-defined parts of digestive system",
+    "categoryCode": "D13",
+    "subcategory": "D13.5",
+    "inclusion": [
+        "morphology codes with behaviour code /0"
+    ],
+    "exclusion": null,
+    "symptoms": [
+        "abdominal pain",
+        "nausea and vomiting",
+        "unexplained weight loss",
+        "jaundice",
+        "lack of appetite"
+    ]
+}

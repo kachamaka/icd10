@@ -1,0 +1,51 @@
+{
+    "icd10code": "S07.0",
+    "type": "subcategory",
+    "title": "Crushing injury of face",
+    "chapter": "Injury, poisoning and certain other consequences of external causes",
+    "chapterCode": "XIX",
+    "block": "Injuries to the head",
+    "blockCode": "S00-S09",
+    "category": "Crushing injury of head",
+    "categoryCode": "S07",
+    "subcategory": "S07.0",
+    "inclusion": [
+        "injuries of: ear",
+        "injuries of: eye",
+        "injuries of: face [any part]",
+        "injuries of: gum",
+        "injuries of: jaw",
+        "injuries of: temporomandibular joint area",
+        "injuries of: oral cavity",
+        "injuries of: palate",
+        "injuries of: periocular area",
+        "injuries of: scalp",
+        "injuries of: tongue",
+        "injuries of: tooth"
+    ],
+    "exclusion": [
+        "birth trauma",
+        "obstetric trauma",
+        "malunion of fracture",
+        "nonunion of fracture [pseudarthrosis]",
+        "pathological fracture",
+        "pathological fracture with osteoporosis",
+        "stress fracture",
+        "burns and corrosions",
+        "effects of foreign body: in: ear",
+        "effects of foreign body: in: larynx",
+        "effects of foreign body: in: mouth",
+        "effects of foreign body: in: nose",
+        "effects of foreign body: in: pharynx",
+        "effects of foreign body: on external eye",
+        "frostbite",
+        "insect bite or sting, venomous"
+    ],
+    "symptoms": [
+        "headache",
+        "loss of consciousness",
+        "nausea",
+        "vomiting",
+        "dizziness"
+    ]
+}

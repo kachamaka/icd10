@@ -1,0 +1,29 @@
+{
+  "type": "subcategory",
+  "chapterCode": "I",
+  "chapter": "Certain infectious and parasitic diseases",
+  "blockCode": "A30-A49",
+  "block": "Other bacterial diseases",
+  "categoryCode": "A40",
+  "category": "Streptococcal sepsis",
+  "subcategory": "A40.1",
+  "title": "Sepsis due to streptococcus, group B",
+  "inclusion": [
+    "diseases generally recognized as communicable or transmissible"
+  ],
+  "exclusion": [
+    "carrier or suspected carrier of infectious disease",
+    "certain localized infections - see body system-related chapters",
+    "infectious and parasitic diseases complicating pregnancy, childbirth and the puerperium [except obstetrical tetanus]",
+    "infectious and parasitic diseases specific to the perinatal period [except tetanus neonatorum, whooping cough, congenital syphilis, perinatal gonococcal infection and perinatal human immunodeficiency virus [HIV] disease]",
+    "influenza and other acute respiratory infections",
+    "during labour",
+    "following: abortion or ectopic or molar pregnancy",
+    "following: immunization",
+    "following: infusion, transfusion or therapeutic injection",
+    "neonatal",
+    "postprocedural",
+    "puerperal"
+  ],
+  "children": null
+}

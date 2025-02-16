@@ -1,0 +1,32 @@
+{
+  "type": "subcategory",
+  "chapterCode": "XV",
+  "chapter": "Pregnancy, childbirth and the puerperium",
+  "blockCode": "O60-O75",
+  "block": "Complications of labour and delivery",
+  "categoryCode": "O67",
+  "category": "Labour and delivery complicated by intrapartum haemorrhage, not elsewhere classified",
+  "subcategory": "O67.0",
+  "title": "Intrapartum haemorrhage with coagulation defect",
+  "inclusion": [
+    "Intrapartum haemorrhage (excessive) associated with: afibrinogenaemia",
+    "Intrapartum haemorrhage (excessive) associated with: disseminated intravascular coagulation",
+    "Intrapartum haemorrhage (excessive) associated with: hyperfibrinolysis",
+    "Intrapartum haemorrhage (excessive) associated with: hypofibrinogenaemia"
+  ],
+  "exclusion": [
+    "Certain diseases or injuries complicating pregnancy, childbirth and the puerperium classified elsewhere: external causes (for mortality)",
+    "Certain diseases or injuries complicating pregnancy, childbirth and the puerperium classified elsewhere: injury, poisoning and certain other consequences of external cause",
+    "Certain diseases or injuries complicating pregnancy, childbirth and the puerperium classified elsewhere: mental and behavioural disorders associated with the puerperium",
+    "Certain diseases or injuries complicating pregnancy, childbirth and the puerperium classified elsewhere: obstetrical tetanus",
+    "Certain diseases or injuries complicating pregnancy, childbirth and the puerperium classified elsewhere: postpartum necrosis of pituitary gland",
+    "Certain diseases or injuries complicating pregnancy, childbirth and the puerperium classified elsewhere: puerperal osteomalacia",
+    "supervision of: high-risk pregnancy",
+    "supervision of: normal pregnancy",
+    "antepartum haemorrhage NEC",
+    "placenta praevia",
+    "postpartum haemorrhage",
+    "premature separation of placenta [abruptio placentae]"
+  ],
+  "children": null
+}

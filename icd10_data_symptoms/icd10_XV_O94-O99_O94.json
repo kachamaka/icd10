@@ -1,0 +1,31 @@
+{
+    "icd10code": "O94",
+    "type": "category",
+    "title": "Sequelae of complication of pregnancy, childbirth and the puerperium",
+    "chapter": "Pregnancy, childbirth and the puerperium",
+    "chapterCode": "XV",
+    "block": "Other obstetric conditions, not elsewhere classified",
+    "blockCode": "O94-O99",
+    "category": "Sequelae of complication of pregnancy, childbirth and the puerperium",
+    "categoryCode": "O94",
+    "subcategory": "",
+    "inclusion": null,
+    "exclusion": [
+        "Certain diseases or injuries complicating pregnancy, childbirth and the puerperium classified elsewhere: external causes (for mortality)",
+        "Certain diseases or injuries complicating pregnancy, childbirth and the puerperium classified elsewhere: injury, poisoning and certain other consequences of external cause",
+        "Certain diseases or injuries complicating pregnancy, childbirth and the puerperium classified elsewhere: mental and behavioural disorders associated with the puerperium",
+        "Certain diseases or injuries complicating pregnancy, childbirth and the puerperium classified elsewhere: obstetrical tetanus",
+        "Certain diseases or injuries complicating pregnancy, childbirth and the puerperium classified elsewhere: postpartum necrosis of pituitary gland",
+        "Certain diseases or injuries complicating pregnancy, childbirth and the puerperium classified elsewhere: puerperal osteomalacia",
+        "supervision of: high-risk pregnancy",
+        "supervision of: normal pregnancy",
+        "that resulting in death"
+    ],
+    "symptoms": [
+        "fatigue",
+        "shortness of breath",
+        "chest pain",
+        "muscle weakness",
+        "palpitations"
+    ]
+}

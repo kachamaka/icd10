@@ -1,0 +1,27 @@
+{
+    "icd10code": "E65",
+    "type": "category",
+    "title": "Localized adiposity",
+    "chapter": "Endocrine, nutritional and metabolic diseases",
+    "chapterCode": "IV",
+    "block": "Obesity and other hyperalimentation",
+    "blockCode": "E65-E68",
+    "category": "Localized adiposity",
+    "categoryCode": "E65",
+    "subcategory": "",
+    "inclusion": [
+        "Fat pad"
+    ],
+    "exclusion": [
+        "complications of pregnancy, childbirth and the puerperium",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "transitory endocrine and metabolic disorders specific to fetus and newborn"
+    ],
+    "symptoms": [
+        "excessive fat in abdomen",
+        "protruding belly",
+        "difficulty losing weight",
+        "unusual weight gain",
+        "disproportionate body shape"
+    ]
+}

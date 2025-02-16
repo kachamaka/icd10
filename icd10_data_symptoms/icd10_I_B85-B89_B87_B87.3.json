@@ -1,0 +1,31 @@
+{
+    "icd10code": "B87.3",
+    "type": "subcategory",
+    "title": "Nasopharyngeal myiasis",
+    "chapter": "Certain infectious and parasitic diseases",
+    "chapterCode": "I",
+    "block": "Pediculosis, acariasis and other infestations",
+    "blockCode": "B85-B89",
+    "category": "Myiasis",
+    "categoryCode": "B87",
+    "subcategory": "B87.3",
+    "inclusion": [
+        "diseases generally recognized as communicable or transmissible",
+        "infestation by larvae of flies",
+        "Laryngeal myiasis"
+    ],
+    "exclusion": [
+        "carrier or suspected carrier of infectious disease",
+        "certain localized infections - see body system-related chapters",
+        "infectious and parasitic diseases complicating pregnancy, childbirth and the puerperium [except obstetrical tetanus]",
+        "infectious and parasitic diseases specific to the perinatal period [except tetanus neonatorum, whooping cough, congenital syphilis, perinatal gonococcal infection and perinatal human immunodeficiency virus [HIV] disease]",
+        "influenza and other acute respiratory infections"
+    ],
+    "symptoms": [
+        "fever",
+        "headache",
+        "muscle pain",
+        "itching",
+        "eosinophilia"
+    ]
+}

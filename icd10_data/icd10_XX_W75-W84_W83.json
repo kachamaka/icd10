@@ -1,0 +1,16 @@
+{
+  "type": "category",
+  "chapterCode": "XX",
+  "chapter": "External causes of morbidity and mortality",
+  "blockCode": "W75-W84",
+  "block": "Other accidental threats to breathing",
+  "categoryCode": "W83",
+  "category": "Other specified threats to breathing",
+  "subcategory": "",
+  "title": "Other specified threats to breathing",
+  "inclusion": [
+    "suffocation by plastic bag"
+  ],
+  "exclusion": null,
+  "children": null
+}

@@ -1,0 +1,35 @@
+{
+    "icd10code": "K61.1",
+    "type": "subcategory",
+    "title": "Rectal abscess",
+    "chapter": "Diseases of the digestive system",
+    "chapterCode": "XI",
+    "block": "Other diseases of intestines",
+    "blockCode": "K55-K64",
+    "category": "Abscess of anal and rectal regions",
+    "categoryCode": "K61",
+    "subcategory": "K61.1",
+    "inclusion": [
+        "abscess of anal and rectal regions with or without fistula",
+        "cellulitis of anal and rectal regions with or without fistula",
+        "Perirectal abscess"
+    ],
+    "exclusion": [
+        "certain conditions originating in the perinatal period",
+        "certain infectious and parasitic diseases",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "ischiorectal abscess"
+    ],
+    "symptoms": [
+        "pain",
+        "swelling",
+        "redness",
+        "warmth",
+        "drainage of pus"
+    ]
+}

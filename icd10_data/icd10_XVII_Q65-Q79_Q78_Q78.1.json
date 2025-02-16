@@ -1,0 +1,18 @@
+{
+  "type": "subcategory",
+  "chapterCode": "XVII",
+  "chapter": "Congenital malformations, deformations and chromosomal abnormalities",
+  "blockCode": "Q65-Q79",
+  "block": "Congenital malformations and deformations of the musculoskeletal system",
+  "categoryCode": "Q78",
+  "category": "Other osteochondrodysplasias",
+  "subcategory": "Q78.1",
+  "title": "Polyostotic fibrous dysplasia",
+  "inclusion": [
+    "Albright(-McCune)(-Sternberg) syndrome"
+  ],
+  "exclusion": [
+    "inborn errors of metabolism"
+  ],
+  "children": null
+}

@@ -1,0 +1,31 @@
+{
+    "icd10code": "Z01.5",
+    "type": "subcategory",
+    "title": "Diagnostic skin and sensitization tests",
+    "chapter": "Factors influencing health status and contact with health services",
+    "chapterCode": "XXI",
+    "block": "Persons encountering health services for examination and investigation",
+    "blockCode": "Z00-Z13",
+    "category": "Other special examinations and investigations of persons without complaint or reported diagnosis",
+    "categoryCode": "Z01",
+    "subcategory": "Z01.5",
+    "inclusion": [
+        "routine examination of specific system",
+        "Allergy tests",
+        "Skin tests for: bacterial disease",
+        "Skin tests for: hypersensitivity"
+    ],
+    "exclusion": [
+        "examinations related to pregnancy and reproduction",
+        "examination for: administrative purposes",
+        "examination for: suspected conditions, ruled out",
+        "special screening examinations"
+    ],
+    "symptoms": [
+        "eye redness",
+        "blurred vision",
+        "eye pain",
+        "light sensitivity",
+        "dry eyes"
+    ]
+}

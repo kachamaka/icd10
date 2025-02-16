@@ -1,0 +1,23 @@
+{
+  "type": "category",
+  "chapterCode": "II",
+  "chapter": "Neoplasms",
+  "blockCode": "C51-C58",
+  "block": "Malignant neoplasms of female genital organs",
+  "categoryCode": "C58",
+  "category": "Malignant neoplasm of placenta",
+  "subcategory": "",
+  "title": "Malignant neoplasm of placenta",
+  "inclusion": [
+    "skin of female genital organs",
+    "Choriocarcinoma NOS",
+    "Chorionepithelioma NOS"
+  ],
+  "exclusion": [
+    "chorioadenoma (destruens)",
+    "hydatidiform mole: NOS",
+    "hydatidiform mole: invasive",
+    "hydatidiform mole: malignant"
+  ],
+  "children": null
+}

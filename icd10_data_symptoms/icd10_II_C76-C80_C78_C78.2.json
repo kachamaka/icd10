@@ -1,0 +1,23 @@
+{
+    "icd10code": "C78.2",
+    "type": "subcategory",
+    "title": "Secondary malignant neoplasm of pleura",
+    "chapter": "Neoplasms",
+    "chapterCode": "II",
+    "block": "Malignant neoplasms of ill-defined, secondary and unspecified sites",
+    "blockCode": "C76-C80",
+    "category": "Secondary malignant neoplasm of respiratory and digestive organs",
+    "categoryCode": "C78",
+    "subcategory": "C78.2",
+    "inclusion": [
+        "Malignant pleural effusion NOS"
+    ],
+    "exclusion": null,
+    "symptoms": [
+        "abdominal pain",
+        "unexplained weight loss",
+        "loss of appetite",
+        "bloody stools or rectal bleeding",
+        "feeling of fullness"
+    ]
+}

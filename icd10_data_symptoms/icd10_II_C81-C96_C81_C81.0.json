@@ -1,0 +1,23 @@
+{
+    "icd10code": "C81.0",
+    "type": "subcategory",
+    "title": "Nodular lymphocyte predominant Hodgkin lymphoma",
+    "chapter": "Neoplasms",
+    "chapterCode": "II",
+    "block": "Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",
+    "blockCode": "C81-C96",
+    "category": "Hodgkin lymphoma",
+    "categoryCode": "C81",
+    "subcategory": "C81.0",
+    "inclusion": null,
+    "exclusion": [
+        "secondary and unspecified neoplasm of lymph nodes"
+    ],
+    "symptoms": [
+        "night sweats",
+        "unexplained fever",
+        "fatigue",
+        "unexplained weight loss",
+        "painless swelling in neck or armpits"
+    ]
+}

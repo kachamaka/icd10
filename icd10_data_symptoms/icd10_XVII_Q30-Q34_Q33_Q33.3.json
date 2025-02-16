@@ -1,0 +1,25 @@
+{
+    "icd10code": "Q33.3",
+    "type": "subcategory",
+    "title": "Agenesis of lung",
+    "chapter": "Congenital malformations, deformations and chromosomal abnormalities",
+    "chapterCode": "XVII",
+    "block": "Congenital malformations of the respiratory system",
+    "blockCode": "Q30-Q34",
+    "category": "Congenital malformations of lung",
+    "categoryCode": "Q33",
+    "subcategory": "Q33.3",
+    "inclusion": [
+        "Absence of lung (lobe)"
+    ],
+    "exclusion": [
+        "inborn errors of metabolism"
+    ],
+    "symptoms": [
+        "congenital shortness of breath",
+        "cyanosis",
+        "recurrent lung infections",
+        "wheezing",
+        "respiratory distress"
+    ]
+}

@@ -1,0 +1,33 @@
+{
+    "icd10code": "B70.1",
+    "type": "subcategory",
+    "title": "Sparganosis",
+    "chapter": "Certain infectious and parasitic diseases",
+    "chapterCode": "I",
+    "block": "Helminthiases",
+    "blockCode": "B65-B83",
+    "category": "Diphyllobothriasis and sparganosis",
+    "categoryCode": "B70",
+    "subcategory": "B70.1",
+    "inclusion": [
+        "diseases generally recognized as communicable or transmissible",
+        "Infection due to: Sparganum (mansoni)(proliferum)",
+        "Infection due to: Spirometra larvae",
+        "Larval diphyllobothriasis",
+        "Spirometrosis"
+    ],
+    "exclusion": [
+        "carrier or suspected carrier of infectious disease",
+        "certain localized infections - see body system-related chapters",
+        "infectious and parasitic diseases complicating pregnancy, childbirth and the puerperium [except obstetrical tetanus]",
+        "infectious and parasitic diseases specific to the perinatal period [except tetanus neonatorum, whooping cough, congenital syphilis, perinatal gonococcal infection and perinatal human immunodeficiency virus [HIV] disease]",
+        "influenza and other acute respiratory infections"
+    ],
+    "symptoms": [
+        "anal itching",
+        "abdominal pain",
+        "nausea",
+        "fatigue",
+        "diarrhea"
+    ]
+}

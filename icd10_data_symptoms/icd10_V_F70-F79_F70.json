@@ -1,0 +1,27 @@
+{
+    "icd10code": "F70",
+    "type": "modifiedcategory",
+    "title": "Mild mental retardation : other impairments of behaviour",
+    "chapter": "Mental and behavioural disorders",
+    "chapterCode": "V",
+    "block": "Mental retardation",
+    "blockCode": "F70-F79",
+    "category": "Mild mental retardation",
+    "categoryCode": "F70",
+    "subcategory": "",
+    "inclusion": [
+        "disorders of psychological development",
+        "feeble-mindedness",
+        "mild mental subnormality"
+    ],
+    "exclusion": [
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified"
+    ],
+    "symptoms": [
+        "impaired cognitive development",
+        "difficulty in learning new skills",
+        "limited social responsibilities",
+        "delayed speech and language",
+        "difficulty in problem-solving"
+    ]
+}

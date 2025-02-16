@@ -1,0 +1,24 @@
+{
+    "icd10code": "R33",
+    "type": "category",
+    "title": "Retention of urine",
+    "chapter": "Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+    "chapterCode": "XVIII",
+    "block": "Symptoms and signs involving the urinary system",
+    "blockCode": "R30-R39",
+    "category": "Retention of urine",
+    "categoryCode": "R33",
+    "subcategory": "",
+    "inclusion": null,
+    "exclusion": [
+        "abnormal findings on antenatal screening of mother",
+        "certain conditions originating in the perinatal period"
+    ],
+    "symptoms": [
+        "urinary retention",
+        "difficulty urinating",
+        "incomplete bladder emptying",
+        "weak urine stream",
+        "abdominal discomfort"
+    ]
+}

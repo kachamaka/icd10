@@ -1,0 +1,23 @@
+{
+    "icd10code": "C55",
+    "type": "category",
+    "title": "Malignant neoplasm of uterus, part unspecified",
+    "chapter": "Neoplasms",
+    "chapterCode": "II",
+    "block": "Malignant neoplasms of female genital organs",
+    "blockCode": "C51-C58",
+    "category": "Malignant neoplasm of uterus, part unspecified",
+    "categoryCode": "C55",
+    "subcategory": "",
+    "inclusion": [
+        "skin of female genital organs"
+    ],
+    "exclusion": null,
+    "symptoms": [
+        "abdominal pain",
+        "abnormal vaginal bleeding",
+        "pelvic discomfort",
+        "fatigue",
+        "unexplained weight loss"
+    ]
+}

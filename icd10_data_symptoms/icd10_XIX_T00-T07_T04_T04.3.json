@@ -1,0 +1,41 @@
+{
+    "icd10code": "T04.3",
+    "type": "subcategory",
+    "title": "Crushing injuries involving multiple regions of lower limb(s)",
+    "chapter": "Injury, poisoning and certain other consequences of external causes",
+    "chapterCode": "XIX",
+    "block": "Injuries involving multiple body regions",
+    "blockCode": "T00-T07",
+    "category": "Crushing injuries involving multiple body regions",
+    "categoryCode": "T04",
+    "subcategory": "T04.3",
+    "inclusion": [
+        "bilateral involvement of limbs of the same body region",
+        "Injuries by type involving two or more body regions classifiable within S00-S99",
+        "Crushing injury of: lower limb NOS",
+        "Crushing injury of: sites classifiable to S77.-, S87.- and S97.-"
+    ],
+    "exclusion": [
+        "birth trauma",
+        "obstetric trauma",
+        "malunion of fracture",
+        "nonunion of fracture [pseudarthrosis]",
+        "pathological fracture",
+        "pathological fracture with osteoporosis",
+        "stress fracture",
+        "burns and corrosions",
+        "frostbite",
+        "insect bite or sting, venomous",
+        "multiple injuries involving only one body region - see S-section",
+        "sunburn",
+        "with involvement of: thorax, abdomen, lower back and pelvis",
+        "with involvement of: upper limb(s)"
+    ],
+    "symptoms": [
+        "extensive crushing injury to thorax",
+        "chest pain",
+        "bruising",
+        "difficulty breathing",
+        "tissue damage"
+    ]
+}

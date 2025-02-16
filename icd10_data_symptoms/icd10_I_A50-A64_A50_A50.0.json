@@ -1,0 +1,41 @@
+{
+    "icd10code": "A50.0",
+    "type": "subcategory",
+    "title": "Early congenital syphilis, symptomatic",
+    "chapter": "Certain infectious and parasitic diseases",
+    "chapterCode": "I",
+    "block": "Infections with a predominantly sexual mode of transmission",
+    "blockCode": "A50-A64",
+    "category": "Congenital syphilis",
+    "categoryCode": "A50",
+    "subcategory": "A50.0",
+    "inclusion": [
+        "diseases generally recognized as communicable or transmissible",
+        "Early congenital syphilis: cutaneous",
+        "Early congenital syphilis: mucocutaneous",
+        "Early congenital syphilis: visceral",
+        "Early congenital syphilitic: laryngitis",
+        "Early congenital syphilitic: oculopathy",
+        "Early congenital syphilitic: osteochondropathy",
+        "Early congenital syphilitic: pharyngitis",
+        "Early congenital syphilitic: pneumonia",
+        "Early congenital syphilitic: rhinitis"
+    ],
+    "exclusion": [
+        "carrier or suspected carrier of infectious disease",
+        "certain localized infections - see body system-related chapters",
+        "infectious and parasitic diseases complicating pregnancy, childbirth and the puerperium [except obstetrical tetanus]",
+        "infectious and parasitic diseases specific to the perinatal period [except tetanus neonatorum, whooping cough, congenital syphilis, perinatal gonococcal infection and perinatal human immunodeficiency virus [HIV] disease]",
+        "influenza and other acute respiratory infections",
+        "erythrasma",
+        "endotoxic shock NOS",
+        "sepsis NOS"
+    ],
+    "symptoms": [
+        "fever",
+        "rash",
+        "nasal discharge",
+        "hepatosplenomegaly",
+        "bone abnormalities"
+    ]
+}

@@ -1,0 +1,36 @@
+{
+    "icd10code": "D00.0",
+    "type": "subcategory",
+    "title": "Carcinoma in situ: Lip, oral cavity and pharynx",
+    "chapter": "Neoplasms",
+    "chapterCode": "II",
+    "block": "In situ neoplasms",
+    "blockCode": "D00-D09",
+    "category": "Carcinoma in situ of oral cavity, oesophagus and stomach",
+    "categoryCode": "D00",
+    "subcategory": "D00.0",
+    "inclusion": [
+        "Bowen disease",
+        "erythroplasia",
+        "morphology codes with behaviour code /2",
+        "Queyrat erythroplasia",
+        "Aryepiglottic fold: NOS",
+        "Aryepiglottic fold: hypopharyngeal aspect",
+        "Aryepiglottic fold: marginal zone",
+        "Vermilion border of lip"
+    ],
+    "exclusion": [
+        "melanoma in situ",
+        "aryepiglottic fold, laryngeal aspect",
+        "epiglottis: NOS",
+        "epiglottis: suprahyoid portion",
+        "skin of lip"
+    ],
+    "symptoms": [
+        "difficulty swallowing",
+        "hoarseness or change in voice",
+        "persistent sore throat",
+        "enlarged lymph nodes in the neck",
+        "unintended weight loss"
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "icd10code": "K81.0",
+    "type": "subcategory",
+    "title": "Acute cholecystitis",
+    "chapter": "Diseases of the digestive system",
+    "chapterCode": "XI",
+    "block": "Disorders of gallbladder, biliary tract and pancreas",
+    "blockCode": "K80-K87",
+    "category": "Cholecystitis",
+    "categoryCode": "K81",
+    "subcategory": "K81.0",
+    "inclusion": [
+        "Abscess of gallbladder without calculus",
+        "Angiocholecystitis without calculus",
+        "Cholecystitis: emphysematous (acute) without calculus",
+        "Cholecystitis: gangrenous without calculus",
+        "Cholecystitis: suppurative without calculus",
+        "Empyema of gallbladder without calculus",
+        "Gangrene of gallbladder without calculus"
+    ],
+    "exclusion": [
+        "certain conditions originating in the perinatal period",
+        "certain infectious and parasitic diseases",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "with cholelithiasis"
+    ],
+    "symptoms": [
+        "right upper quadrant pain",
+        "fever",
+        "nausea",
+        "vomiting",
+        "abdominal tenderness"
+    ]
+}

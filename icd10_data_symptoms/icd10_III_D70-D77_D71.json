@@ -1,0 +1,36 @@
+{
+    "icd10code": "D71",
+    "type": "category",
+    "title": "Functional disorders of polymorphonuclear neutrophils",
+    "chapter": "Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism",
+    "chapterCode": "III",
+    "block": "Other diseases of blood and blood-forming organs",
+    "blockCode": "D70-D77",
+    "category": "Functional disorders of polymorphonuclear neutrophils",
+    "categoryCode": "D71",
+    "subcategory": "",
+    "inclusion": [
+        "Cell membrane receptor complex [CR3] defect",
+        "Chronic (childhood) granulomatous disease",
+        "Congenital dysphagocytosis",
+        "Progressive septic granulomatosis"
+    ],
+    "exclusion": [
+        "autoimmune disease (systemic) NOS",
+        "certain conditions originating in the perinatal period",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "human immunodeficiency virus [HIV] disease",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified"
+    ],
+    "symptoms": [
+        "enlarged spleen",
+        "fever",
+        "fatigue",
+        "recurrent infections",
+        "decreased appetite"
+    ]
+}

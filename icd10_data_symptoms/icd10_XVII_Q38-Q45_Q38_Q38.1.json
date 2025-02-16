@@ -1,0 +1,27 @@
+{
+    "icd10code": "Q38.1",
+    "type": "subcategory",
+    "title": "Ankyloglossia",
+    "chapter": "Congenital malformations, deformations and chromosomal abnormalities",
+    "chapterCode": "XVII",
+    "block": "Other congenital malformations of the digestive system",
+    "blockCode": "Q38-Q45",
+    "category": "Other congenital malformations of tongue, mouth and pharynx",
+    "categoryCode": "Q38",
+    "subcategory": "Q38.1",
+    "inclusion": [
+        "Tongue tie"
+    ],
+    "exclusion": [
+        "inborn errors of metabolism",
+        "macrostomia",
+        "microstomia"
+    ],
+    "symptoms": [
+        "difficulty swallowing",
+        "tongue pain",
+        "speech problems",
+        "tongue malformation",
+        "restricted tongue movement"
+    ]
+}

@@ -1,0 +1,36 @@
+{
+    "icd10code": "H11.1",
+    "type": "subcategory",
+    "title": "Conjunctival degenerations and deposits",
+    "chapter": "Diseases of the eye and adnexa",
+    "chapterCode": "VII",
+    "block": "Disorders of conjunctiva",
+    "blockCode": "H10-H13",
+    "category": "Other disorders of conjunctiva",
+    "categoryCode": "H11",
+    "subcategory": "H11.1",
+    "inclusion": [
+        "Conjunctival: argyrosis [argyria]",
+        "Conjunctival: concretions",
+        "Conjunctival: pigmentation",
+        "Conjunctival: xerosis NOS"
+    ],
+    "exclusion": [
+        "certain conditions originating in the perinatal period",
+        "certain infectious and parasitic diseases",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "keratoconjunctivitis"
+    ],
+    "symptoms": [
+        "eye redness",
+        "discomfort",
+        "itching",
+        "tearing",
+        "foreign body sensation"
+    ]
+}

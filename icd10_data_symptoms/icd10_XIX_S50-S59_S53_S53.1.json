@@ -1,0 +1,38 @@
+{
+    "icd10code": "S53.1",
+    "type": "subcategory",
+    "title": "Dislocation of elbow, unspecified",
+    "chapter": "Injury, poisoning and certain other consequences of external causes",
+    "chapterCode": "XIX",
+    "block": "Injuries to the elbow and forearm",
+    "blockCode": "S50-S59",
+    "category": "Dislocation, sprain and strain of joints and ligaments of elbow",
+    "categoryCode": "S53",
+    "subcategory": "S53.1",
+    "inclusion": [
+        "Ulnohumeral joint"
+    ],
+    "exclusion": [
+        "birth trauma",
+        "obstetric trauma",
+        "malunion of fracture",
+        "nonunion of fracture [pseudarthrosis]",
+        "pathological fracture",
+        "pathological fracture with osteoporosis",
+        "stress fracture",
+        "bilateral involvement of elbow and forearm",
+        "burns and corrosions",
+        "frostbite",
+        "injuries of: arm, level unspecified",
+        "injuries of: wrist and hand",
+        "insect bite or sting, venomous",
+        "dislocation of radial head alone"
+    ],
+    "symptoms": [
+        "pain in the elbow",
+        "swelling",
+        "limited range of motion",
+        "bruising",
+        "joint instability"
+    ]
+}

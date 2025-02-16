@@ -1,0 +1,26 @@
+{
+    "icd10code": "C43.0",
+    "type": "subcategory",
+    "title": "Malignant neoplasm: Malignant melanoma of lip",
+    "chapter": "Neoplasms",
+    "chapterCode": "II",
+    "block": "Melanoma and other malignant neoplasms of skin",
+    "blockCode": "C43-C44",
+    "category": "Malignant melanoma of skin",
+    "categoryCode": "C43",
+    "subcategory": "C43.0",
+    "inclusion": [
+        "morphology codes M872-M879 with behaviour code /3"
+    ],
+    "exclusion": [
+        "malignant melanoma of skin of genital organs",
+        "vermilion border of lip"
+    ],
+    "symptoms": [
+        "change in mole size",
+        "shape or colour",
+        "skin lesion or sore that doesn't heal",
+        "itchy or painful mole",
+        "bleeding or oozing"
+    ]
+}

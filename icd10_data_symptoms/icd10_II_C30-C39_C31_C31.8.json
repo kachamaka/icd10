@@ -1,0 +1,25 @@
+{
+    "icd10code": "C31.8",
+    "type": "subcategory",
+    "title": "Malignant neoplasm: Overlapping lesion of accessory sinuses",
+    "chapter": "Neoplasms",
+    "chapterCode": "II",
+    "block": "Malignant neoplasms of respiratory and intrathoracic organs",
+    "blockCode": "C30-C39",
+    "category": "Malignant neoplasm of accessory sinuses",
+    "categoryCode": "C31",
+    "subcategory": "C31.8",
+    "inclusion": [
+        "middle ear"
+    ],
+    "exclusion": [
+        "mesothelioma"
+    ],
+    "symptoms": [
+        "facial pain",
+        "nasal obstruction",
+        "runny nose",
+        "swelling around eyes",
+        "vision changes"
+    ]
+}

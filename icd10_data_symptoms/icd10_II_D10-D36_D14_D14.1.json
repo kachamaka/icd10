@@ -1,0 +1,27 @@
+{
+    "icd10code": "D14.1",
+    "type": "subcategory",
+    "title": "Benign neoplasm: Larynx",
+    "chapter": "Neoplasms",
+    "chapterCode": "II",
+    "block": "Benign neoplasms",
+    "blockCode": "D10-D36",
+    "category": "Benign neoplasm of middle ear and respiratory system",
+    "categoryCode": "D14",
+    "subcategory": "D14.1",
+    "inclusion": [
+        "morphology codes with behaviour code /0",
+        "Epiglottis (suprahyoid portion)"
+    ],
+    "exclusion": [
+        "epiglottis, anterior aspect",
+        "polyp of vocal cord and larynx"
+    ],
+    "symptoms": [
+        "persistent cough",
+        "changes in voice such as hoarseness",
+        "difficulty swallowing",
+        "ear pain",
+        "presence of lump in the neck"
+    ]
+}

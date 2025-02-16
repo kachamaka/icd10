@@ -1,0 +1,37 @@
+{
+    "icd10code": "I09.2",
+    "type": "subcategory",
+    "title": "Chronic rheumatic pericarditis",
+    "chapter": "Diseases of the circulatory system",
+    "chapterCode": "IX",
+    "block": "Chronic rheumatic heart diseases",
+    "blockCode": "I05-I09",
+    "category": "Other rheumatic heart diseases",
+    "categoryCode": "I09",
+    "subcategory": "I09.2",
+    "inclusion": [
+        "Adherent pericardium, rheumatic",
+        "Chronic rheumatic: mediastinopericarditis",
+        "Chronic rheumatic: myopericarditis"
+    ],
+    "exclusion": [
+        "certain conditions originating in the perinatal period",
+        "certain infectious and parasitic diseases",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "systemic connective tissue disorders",
+        "transient cerebral ischaemic attacks and related syndromes",
+        "when not specified as rheumatic"
+    ],
+    "symptoms": [
+        "chest discomfort",
+        "shortness of breath",
+        "fatigue",
+        "irregular heartbeat",
+        "swelling in legs and ankles"
+    ]
+}

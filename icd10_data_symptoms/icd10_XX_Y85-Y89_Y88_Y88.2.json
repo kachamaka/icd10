@@ -1,0 +1,17 @@
+{
+    "icd10code": "Y88.2",
+    "type": "subcategory",
+    "title": "Sequelae of adverse incidents associated with medical devices in diagnostic and therapeutic use",
+    "chapter": "External causes of morbidity and mortality",
+    "chapterCode": "XX",
+    "block": "Sequelae of external causes of morbidity and mortality",
+    "blockCode": "Y85-Y89",
+    "category": "Sequelae with surgical and medical care as external cause",
+    "categoryCode": "Y88",
+    "subcategory": "Y88.2",
+    "inclusion": null,
+    "exclusion": null,
+    "symptoms": [
+        "asymptomatic"
+    ]
+}

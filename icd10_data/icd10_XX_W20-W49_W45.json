@@ -1,0 +1,26 @@
+{
+  "type": "category",
+  "chapterCode": "XX",
+  "chapter": "External causes of morbidity and mortality",
+  "blockCode": "W20-W49",
+  "block": "Exposure to inanimate mechanical forces",
+  "categoryCode": "W45",
+  "category": "Foreign body or object entering through skin",
+  "subcategory": "",
+  "title": "Foreign body or object entering through skin",
+  "inclusion": [
+    "foreign body or object embedded in skin: nail",
+    "foreign body or object embedded in skin: splinter"
+  ],
+  "exclusion": [
+    "assault",
+    "contact or collision with animals or persons",
+    "intentional self-harm",
+    "contact with: hand tools (nonpowered)(powered)",
+    "contact with: hypodermic needle",
+    "contact with: other sharp object(s)",
+    "contact with: sharp glass",
+    "struck by objects"
+  ],
+  "children": null
+}

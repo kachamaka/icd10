@@ -1,0 +1,35 @@
+{
+    "icd10code": "L88",
+    "type": "category",
+    "title": "Pyoderma gangrenosum",
+    "chapter": "Diseases of the skin and subcutaneous tissue",
+    "chapterCode": "XII",
+    "block": "Other disorders of the skin and subcutaneous tissue",
+    "blockCode": "L80-L99",
+    "category": "Pyoderma gangrenosum",
+    "categoryCode": "L88",
+    "subcategory": "",
+    "inclusion": [
+        "Phagedenic pyoderma"
+    ],
+    "exclusion": [
+        "certain conditions originating in the perinatal period",
+        "certain infectious and parasitic diseases",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "lipomelanotic reticulosis",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "systemic connective tissue disorders",
+        "dermatitis gangrenosa"
+    ],
+    "symptoms": [
+        "pain",
+        "redness",
+        "swelling",
+        "blisters",
+        "pustules"
+    ]
+}

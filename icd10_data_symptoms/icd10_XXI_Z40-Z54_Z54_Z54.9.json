@@ -1,0 +1,19 @@
+{
+    "icd10code": "Z54.9",
+    "type": "subcategory",
+    "title": "Convalescence following unspecified treatment",
+    "chapter": "Factors influencing health status and contact with health services",
+    "chapterCode": "XXI",
+    "block": "Persons encountering health services for specific procedures and health care",
+    "blockCode": "Z40-Z54",
+    "category": "Convalescence",
+    "categoryCode": "Z54",
+    "subcategory": "Z54.9",
+    "inclusion": null,
+    "exclusion": [
+        "follow-up examination for medical surveillance after treatment"
+    ],
+    "symptoms": [
+        "asymptomatic"
+    ]
+}

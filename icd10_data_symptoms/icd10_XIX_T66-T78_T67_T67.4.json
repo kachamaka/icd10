@@ -1,0 +1,34 @@
+{
+    "icd10code": "T67.4",
+    "type": "subcategory",
+    "title": "Heat exhaustion due to salt depletion",
+    "chapter": "Injury, poisoning and certain other consequences of external causes",
+    "chapterCode": "XIX",
+    "block": "Other and unspecified effects of external causes",
+    "blockCode": "T66-T78",
+    "category": "Effects of heat and light",
+    "categoryCode": "T67",
+    "subcategory": "T67.4",
+    "inclusion": [
+        "Heat prostration due to salt (and water) depletion"
+    ],
+    "exclusion": [
+        "birth trauma",
+        "obstetric trauma",
+        "malunion of fracture",
+        "nonunion of fracture [pseudarthrosis]",
+        "pathological fracture",
+        "pathological fracture with osteoporosis",
+        "stress fracture",
+        "burns",
+        "erythema [dermatitis] ab igne",
+        "malignant hyperthermia due to anaesthesia",
+        "radiation-related disorders of the skin and subcutaneous tissue",
+        "sunburn",
+        "sweat disorders due to heat"
+    ],
+    "symptoms": [
+        "fatigue",
+        "weakness"
+    ]
+}

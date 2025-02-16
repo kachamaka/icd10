@@ -1,0 +1,27 @@
+{
+    "icd10code": "C96.4",
+    "type": "subcategory",
+    "title": "Sarcoma of dendritic cells (accessory cells)",
+    "chapter": "Neoplasms",
+    "chapterCode": "II",
+    "block": "Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",
+    "blockCode": "C81-C96",
+    "category": "Other and unspecified malignant neoplasms of lymphoid, haematopoietic and related tissue",
+    "categoryCode": "C96",
+    "subcategory": "C96.4",
+    "inclusion": [
+        "Interdigiting dendritic cell sarcoma",
+        "Langerhans-cell sarcoma",
+        "Sarcoma of follicular dendritic cells"
+    ],
+    "exclusion": [
+        "secondary and unspecified neoplasm of lymph nodes"
+    ],
+    "symptoms": [
+        "unexplained weight loss",
+        "fatigue",
+        "night sweats",
+        "persistent fever",
+        "enlarged spleen or liver"
+    ]
+}

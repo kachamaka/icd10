@@ -1,0 +1,21 @@
+{
+  "type": "subcategory",
+  "chapterCode": "II",
+  "chapter": "Neoplasms",
+  "blockCode": "C81-C96",
+  "block": "Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",
+  "categoryCode": "C96",
+  "category": "Other and unspecified malignant neoplasms of lymphoid, haematopoietic and related tissue",
+  "subcategory": "C96.6",
+  "title": "Unifocal Langerhans-cell histiocytosis",
+  "inclusion": [
+    "Eosinophilic granuloma",
+    "Histiocytosis X, unifocal",
+    "Histiocytosis X NOS",
+    "Langerhans-cell histiocytosis NOS"
+  ],
+  "exclusion": [
+    "secondary and unspecified neoplasm of lymph nodes"
+  ],
+  "children": null
+}

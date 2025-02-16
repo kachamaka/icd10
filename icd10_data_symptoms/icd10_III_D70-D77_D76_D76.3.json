@@ -1,0 +1,49 @@
+{
+    "icd10code": "D76.3",
+    "type": "subcategory",
+    "title": "Other histiocytosis syndromes",
+    "chapter": "Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism",
+    "chapterCode": "III",
+    "block": "Other diseases of blood and blood-forming organs",
+    "blockCode": "D70-D77",
+    "category": "Other specified diseases with participation of lymphoreticular and reticulohistiocytic tissue",
+    "categoryCode": "D76",
+    "subcategory": "D76.3",
+    "inclusion": [
+        "Reticulohistiocytoma (giant-cell)",
+        "Sinus histiocytosis with massive lymphadenopathy",
+        "Xanthogranuloma"
+    ],
+    "exclusion": [
+        "autoimmune disease (systemic) NOS",
+        "certain conditions originating in the perinatal period",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "human immunodeficiency virus [HIV] disease",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "(Abt-)Letterer-Siwe disease",
+        "eosinophilic granuloma",
+        "Hand-Schüller-Christian disease",
+        "histiocytic sarcoma",
+        "histiocytosis X, multifocal",
+        "histiocytosis X, unifocal",
+        "Langerhans-cell histiocytosis, multifocal",
+        "Langerhans-cell histiocytosis, unifocal",
+        "malignant histiocytosis",
+        "reticuloendotheliosis: leukaemic",
+        "reticuloendotheliosis: nonlipid",
+        "reticulosis: histiocytic medullary",
+        "reticulosis: lipomelanotic",
+        "reticulosis: malignant NOS"
+    ],
+    "symptoms": [
+        "fever",
+        "unexplained weight loss",
+        "night sweats",
+        "fatigue",
+        "recurrent infections"
+    ]
+}

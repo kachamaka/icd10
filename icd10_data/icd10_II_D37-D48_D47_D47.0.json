@@ -1,0 +1,21 @@
+{
+  "type": "subcategory",
+  "chapterCode": "II",
+  "chapter": "Neoplasms",
+  "blockCode": "D37-D48",
+  "block": "Neoplasms of uncertain or unknown behaviour",
+  "categoryCode": "D47",
+  "category": "Other neoplasms of uncertain or unknown behaviour of lymphoid, haematopoietic and related tissue",
+  "subcategory": "D47.0",
+  "title": "Histiocytic and mast cell tumours of uncertain and unknown behaviour",
+  "inclusion": [
+    "Indolent systemic mastocytosis",
+    "Mast cell tumour NOS",
+    "Mastocytoma NOS",
+    "Systemic mastocytosis, associated with clonal haematopoietic non-mast-cell disease (SM-AHNMD)"
+  ],
+  "exclusion": [
+    "mastocytosis (congenital) (cutaneous)"
+  ],
+  "children": null
+}

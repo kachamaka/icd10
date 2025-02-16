@@ -1,0 +1,27 @@
+{
+  "type": "subcategory",
+  "chapterCode": "XI",
+  "chapter": "Diseases of the digestive system",
+  "blockCode": "K55-K64",
+  "block": "Other diseases of intestines",
+  "categoryCode": "K61",
+  "category": "Abscess of anal and rectal regions",
+  "subcategory": "K61.3",
+  "title": "Ischiorectal abscess",
+  "inclusion": [
+    "abscess of anal and rectal regions with or without fistula",
+    "cellulitis of anal and rectal regions with or without fistula",
+    "Abscess of ischiorectal fossa"
+  ],
+  "exclusion": [
+    "certain conditions originating in the perinatal period",
+    "certain infectious and parasitic diseases",
+    "complications of pregnancy, childbirth and the puerperium",
+    "congenital malformations, deformations and chromosomal abnormalities",
+    "endocrine, nutritional and metabolic diseases",
+    "injury, poisoning and certain other consequences of external causes",
+    "neoplasms",
+    "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified"
+  ],
+  "children": null
+}

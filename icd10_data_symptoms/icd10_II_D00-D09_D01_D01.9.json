@@ -1,0 +1,28 @@
+{
+    "icd10code": "D01.9",
+    "type": "subcategory",
+    "title": "Carcinoma in situ: Digestive organ, unspecified",
+    "chapter": "Neoplasms",
+    "chapterCode": "II",
+    "block": "In situ neoplasms",
+    "blockCode": "D00-D09",
+    "category": "Carcinoma in situ of other and unspecified digestive organs",
+    "categoryCode": "D01",
+    "subcategory": "D01.9",
+    "inclusion": [
+        "Bowen disease",
+        "erythroplasia",
+        "morphology codes with behaviour code /2",
+        "Queyrat erythroplasia"
+    ],
+    "exclusion": [
+        "melanoma in situ"
+    ],
+    "symptoms": [
+        "abnormal vaginal bleeding",
+        "pelvic pain",
+        "discharge with odor",
+        "abdominal pain",
+        "postmenopausal bleeding"
+    ]
+}

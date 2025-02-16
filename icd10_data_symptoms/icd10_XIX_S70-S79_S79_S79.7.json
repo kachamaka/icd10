@@ -1,0 +1,36 @@
+{
+    "icd10code": "S79.7",
+    "type": "subcategory",
+    "title": "Multiple injuries of hip and thigh",
+    "chapter": "Injury, poisoning and certain other consequences of external causes",
+    "chapterCode": "XIX",
+    "block": "Injuries to the hip and thigh",
+    "blockCode": "S70-S79",
+    "category": "Other and unspecified injuries of hip and thigh",
+    "categoryCode": "S79",
+    "subcategory": "S79.7",
+    "inclusion": [
+        "Injuries classifiable to more than one of the categories S70-S78"
+    ],
+    "exclusion": [
+        "birth trauma",
+        "obstetric trauma",
+        "malunion of fracture",
+        "nonunion of fracture [pseudarthrosis]",
+        "pathological fracture",
+        "pathological fracture with osteoporosis",
+        "stress fracture",
+        "bilateral involvement of hip and thigh",
+        "burns and corrosions",
+        "frostbite",
+        "injuries of leg, level unspecified",
+        "insect bite or sting, venomous"
+    ],
+    "symptoms": [
+        "pain in hip",
+        "swelling in hip",
+        "difficulty walking",
+        "reduced range of motion",
+        "bruising around hip"
+    ]
+}

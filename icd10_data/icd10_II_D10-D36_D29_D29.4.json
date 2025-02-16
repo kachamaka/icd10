@@ -1,0 +1,18 @@
+{
+  "type": "subcategory",
+  "chapterCode": "II",
+  "chapter": "Neoplasms",
+  "blockCode": "D10-D36",
+  "block": "Benign neoplasms",
+  "categoryCode": "D29",
+  "category": "Benign neoplasm of male genital organs",
+  "subcategory": "D29.4",
+  "title": "Benign neoplasm: Scrotum",
+  "inclusion": [
+    "morphology codes with behaviour code /0",
+    "skin of male genital organs",
+    "Skin of scrotum"
+  ],
+  "exclusion": null,
+  "children": null
+}

@@ -1,0 +1,21 @@
+{
+  "type": "subcategory",
+  "chapterCode": "V",
+  "chapter": "Mental and behavioural disorders",
+  "blockCode": "F80-F89",
+  "block": "Disorders of psychological development",
+  "categoryCode": "F81",
+  "category": "Specific developmental disorders of scholastic skills",
+  "subcategory": "F81.3",
+  "title": "Mixed disorder of scholastic skills",
+  "inclusion": [
+    "disorders of psychological development"
+  ],
+  "exclusion": [
+    "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+    "specific: disorder of arithmetical skills",
+    "specific: reading disorder",
+    "specific: spelling disorder"
+  ],
+  "children": null
+}

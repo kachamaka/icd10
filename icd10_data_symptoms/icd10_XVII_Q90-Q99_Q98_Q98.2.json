@@ -1,0 +1,23 @@
+{
+    "icd10code": "Q98.2",
+    "type": "subcategory",
+    "title": "Klinefelter syndrome, male with 46,XX karyotype",
+    "chapter": "Congenital malformations, deformations and chromosomal abnormalities",
+    "chapterCode": "XVII",
+    "block": "Chromosomal abnormalities, not elsewhere classified",
+    "blockCode": "Q90-Q99",
+    "category": "Other sex chromosome abnormalities, male phenotype, not elsewhere classified",
+    "categoryCode": "Q98",
+    "subcategory": "Q98.2",
+    "inclusion": null,
+    "exclusion": [
+        "inborn errors of metabolism"
+    ],
+    "symptoms": [
+        "infertility",
+        "sparse body hair",
+        "small testes",
+        "decreased muscle mass",
+        "difficulty with sexual function"
+    ]
+}

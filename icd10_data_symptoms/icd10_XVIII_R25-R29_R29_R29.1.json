@@ -1,0 +1,24 @@
+{
+    "icd10code": "R29.1",
+    "type": "subcategory",
+    "title": "Meningismus",
+    "chapter": "Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+    "chapterCode": "XVIII",
+    "block": "Symptoms and signs involving the nervous and musculoskeletal systems",
+    "blockCode": "R25-R29",
+    "category": "Other symptoms and signs involving the nervous and musculoskeletal systems",
+    "categoryCode": "R29",
+    "subcategory": "R29.1",
+    "inclusion": null,
+    "exclusion": [
+        "abnormal findings on antenatal screening of mother",
+        "certain conditions originating in the perinatal period"
+    ],
+    "symptoms": [
+        "impaired balance",
+        "difficulty walking",
+        "unsteady gait",
+        "dizziness",
+        "clumsiness"
+    ]
+}

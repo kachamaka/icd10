@@ -1,0 +1,18 @@
+{
+  "type": "category",
+  "chapterCode": "IV",
+  "chapter": "Endocrine, nutritional and metabolic diseases",
+  "blockCode": "E00-E07",
+  "block": "Disorders of thyroid gland",
+  "categoryCode": "E02",
+  "category": "Subclinical iodine-deficiency hypothyroidism",
+  "subcategory": "",
+  "title": "Subclinical iodine-deficiency hypothyroidism",
+  "inclusion": null,
+  "exclusion": [
+    "complications of pregnancy, childbirth and the puerperium",
+    "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+    "transitory endocrine and metabolic disorders specific to fetus and newborn"
+  ],
+  "children": null
+}

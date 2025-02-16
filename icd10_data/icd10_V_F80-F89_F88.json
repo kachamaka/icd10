@@ -1,0 +1,19 @@
+{
+  "type": "category",
+  "chapterCode": "V",
+  "chapter": "Mental and behavioural disorders",
+  "blockCode": "F80-F89",
+  "block": "Disorders of psychological development",
+  "categoryCode": "F88",
+  "category": "Other disorders of psychological development",
+  "subcategory": "",
+  "title": "Other disorders of psychological development",
+  "inclusion": [
+    "disorders of psychological development",
+    "Developmental agnosia"
+  ],
+  "exclusion": [
+    "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified"
+  ],
+  "children": null
+}

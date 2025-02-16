@@ -1,0 +1,25 @@
+{
+    "icd10code": "W36",
+    "type": "category",
+    "title": "Explosion and rupture of gas cylinder",
+    "chapter": "External causes of morbidity and mortality",
+    "chapterCode": "XX",
+    "block": "Exposure to inanimate mechanical forces",
+    "blockCode": "W20-W49",
+    "category": "Explosion and rupture of gas cylinder",
+    "categoryCode": "W36",
+    "subcategory": "",
+    "inclusion": [
+        "aerosol can",
+        "air tank",
+        "pressurized-gas tank"
+    ],
+    "exclusion": [
+        "assault",
+        "contact or collision with animals or persons",
+        "intentional self-harm"
+    ],
+    "symptoms": [
+        "asymptomatic"
+    ]
+}

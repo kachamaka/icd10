@@ -1,0 +1,37 @@
+{
+    "icd10code": "I44.1",
+    "type": "subcategory",
+    "title": "Atrioventricular block, second degree",
+    "chapter": "Diseases of the circulatory system",
+    "chapterCode": "IX",
+    "block": "Other forms of heart disease",
+    "blockCode": "I30-I52",
+    "category": "Atrioventricular and left bundle-branch block",
+    "categoryCode": "I44",
+    "subcategory": "I44.1",
+    "inclusion": [
+        "Atrioventricular block, type I and II",
+        "Möbitz block, type I and II",
+        "Second-degree block, type I and II",
+        "Wenckebach block"
+    ],
+    "exclusion": [
+        "certain conditions originating in the perinatal period",
+        "certain infectious and parasitic diseases",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "systemic connective tissue disorders",
+        "transient cerebral ischaemic attacks and related syndromes"
+    ],
+    "symptoms": [
+        "fainting",
+        "fatigue",
+        "shortness of breath",
+        "chest pain",
+        "palpitations"
+    ]
+}

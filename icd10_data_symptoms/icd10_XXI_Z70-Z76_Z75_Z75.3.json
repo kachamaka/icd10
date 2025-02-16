@@ -1,0 +1,19 @@
+{
+    "icd10code": "Z75.3",
+    "type": "subcategory",
+    "title": "Unavailability and inaccessibility of health-care facilities",
+    "chapter": "Factors influencing health status and contact with health services",
+    "chapterCode": "XXI",
+    "block": "Persons encountering health services in other circumstances",
+    "blockCode": "Z70-Z76",
+    "category": "Problems related to medical facilities and other health care",
+    "categoryCode": "Z75",
+    "subcategory": "Z75.3",
+    "inclusion": null,
+    "exclusion": [
+        "bed unavailable"
+    ],
+    "symptoms": [
+        "asymptomatic"
+    ]
+}

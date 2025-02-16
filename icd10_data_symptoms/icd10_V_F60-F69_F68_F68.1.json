@@ -1,0 +1,30 @@
+{
+    "icd10code": "F68.1",
+    "type": "subcategory",
+    "title": "Intentional production or feigning of symptoms or disabilities, either physical or psychological [factitious disorder]",
+    "chapter": "Mental and behavioural disorders",
+    "chapterCode": "V",
+    "block": "Disorders of adult personality and behaviour",
+    "blockCode": "F60-F69",
+    "category": "Other disorders of adult personality and behaviour",
+    "categoryCode": "F68",
+    "subcategory": "F68.1",
+    "inclusion": [
+        "disorders of psychological development",
+        "Hospital hopper syndrome",
+        "Münchhausen syndrome",
+        "Peregrinating patient"
+    ],
+    "exclusion": [
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "factitial dermatitis",
+        "person feigning illness (with obvious motivation)"
+    ],
+    "symptoms": [
+        "exaggerated sense of health",
+        "excessive concern for appearance",
+        "belief in having superior abilities",
+        "lack of awareness of these behaviors",
+        "seeking unnecessary medical treatments"
+    ]
+}

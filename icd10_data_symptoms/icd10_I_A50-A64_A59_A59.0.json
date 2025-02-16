@@ -1,0 +1,35 @@
+{
+    "icd10code": "A59.0",
+    "type": "subcategory",
+    "title": "Urogenital trichomoniasis",
+    "chapter": "Certain infectious and parasitic diseases",
+    "chapterCode": "I",
+    "block": "Infections with a predominantly sexual mode of transmission",
+    "blockCode": "A50-A64",
+    "category": "Trichomoniasis",
+    "categoryCode": "A59",
+    "subcategory": "A59.0",
+    "inclusion": [
+        "diseases generally recognized as communicable or transmissible",
+        "Leukorrhoea (vaginalis) due to Trichomonas (vaginalis)",
+        "Prostatitis due to Trichomonas (vaginalis)"
+    ],
+    "exclusion": [
+        "carrier or suspected carrier of infectious disease",
+        "certain localized infections - see body system-related chapters",
+        "infectious and parasitic diseases complicating pregnancy, childbirth and the puerperium [except obstetrical tetanus]",
+        "infectious and parasitic diseases specific to the perinatal period [except tetanus neonatorum, whooping cough, congenital syphilis, perinatal gonococcal infection and perinatal human immunodeficiency virus [HIV] disease]",
+        "influenza and other acute respiratory infections",
+        "postpartum or puerperal erysipelas",
+        "chlamydial infection NOS",
+        "meningococcal infection NOS",
+        "intestinal trichomoniasis"
+    ],
+    "symptoms": [
+        "itching",
+        "burning sensation",
+        "vaginal discharge",
+        "redness",
+        "pain during intercourse"
+    ]
+}

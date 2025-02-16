@@ -1,0 +1,19 @@
+{
+  "type": "subcategory",
+  "chapterCode": "II",
+  "chapter": "Neoplasms",
+  "blockCode": "C69-C72",
+  "block": "Malignant neoplasms of eye, brain and other parts of central nervous system",
+  "categoryCode": "C72",
+  "category": "Malignant neoplasm of spinal cord, cranial nerves and other parts of central nervous system",
+  "subcategory": "C72.8",
+  "title": "Malignant neoplasm: Overlapping lesion of brain and other parts of central nervous system",
+  "inclusion": [
+    "Malignant neoplasm of brain and other parts of central nervous system whose point of origin cannot be classified to any one of the categories C70-C72.5"
+  ],
+  "exclusion": [
+    "meninges",
+    "peripheral nerves and autonomic nervous system"
+  ],
+  "children": null
+}

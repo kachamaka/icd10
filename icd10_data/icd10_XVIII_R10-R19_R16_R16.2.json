@@ -1,0 +1,28 @@
+{
+  "type": "subcategory",
+  "chapterCode": "XVIII",
+  "chapter": "Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+  "blockCode": "R10-R19",
+  "block": "Symptoms and signs involving the digestive system and abdomen",
+  "categoryCode": "R16",
+  "category": "Hepatomegaly and splenomegaly, not elsewhere classified",
+  "subcategory": "R16.2",
+  "title": "Hepatomegaly with splenomegaly, not elsewhere classified",
+  "inclusion": [
+    "Hepatosplenomegaly NOS"
+  ],
+  "exclusion": [
+    "abnormal findings on antenatal screening of mother",
+    "certain conditions originating in the perinatal period",
+    "gastrointestinal haemorrhage",
+    "gastrointestinal haemorrhage newborn",
+    "intestinal obstruction",
+    "intestinal obstruction newborn",
+    "pylorospasm",
+    "pylorospasm congenital or infantile",
+    "symptoms and signs involving the urinary system",
+    "symptoms referable to genital organs: female",
+    "symptoms referable to genital organs: male"
+  ],
+  "children": null
+}

@@ -1,0 +1,29 @@
+{
+    "icd10code": "D04.3",
+    "type": "subcategory",
+    "title": "Carcinoma in situ: Skin of other and unspecified parts of face",
+    "chapter": "Neoplasms",
+    "chapterCode": "II",
+    "block": "In situ neoplasms",
+    "blockCode": "D00-D09",
+    "category": "Carcinoma in situ of skin",
+    "categoryCode": "D04",
+    "subcategory": "D04.3",
+    "inclusion": [
+        "Bowen disease",
+        "erythroplasia",
+        "morphology codes with behaviour code /2",
+        "Queyrat erythroplasia"
+    ],
+    "exclusion": [
+        "erythroplasia of Queyrat (penis) NOS",
+        "melanoma in situ"
+    ],
+    "symptoms": [
+        "abnormal skin pigmentation",
+        "lump or swelling on skin",
+        "skin lesions",
+        "skin discoloration",
+        "itching or pain in affected area"
+    ]
+}

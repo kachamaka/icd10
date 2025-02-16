@@ -1,0 +1,32 @@
+{
+  "type": "subcategory",
+  "chapterCode": "VI",
+  "chapter": "Diseases of the nervous system",
+  "blockCode": "G90-G99",
+  "block": "Other disorders of the nervous system",
+  "categoryCode": "G95",
+  "category": "Other diseases of spinal cord",
+  "subcategory": "G95.1",
+  "title": "Vascular myelopathies",
+  "inclusion": [
+    "Acute infarction of spinal cord (embolic)(nonembolic)",
+    "Arterial thrombosis of spinal cord",
+    "Haematomyelia",
+    "Nonpyogenic intraspinal phlebitis and thrombophlebitis",
+    "Oedema of spinal cord",
+    "Subacute necrotic myelopathy"
+  ],
+  "exclusion": [
+    "certain conditions originating in the perinatal period",
+    "certain infectious and parasitic diseases",
+    "complications of pregnancy, childbirth and the puerperium",
+    "congenital malformations, deformations and chromosomal abnormalities",
+    "endocrine, nutritional and metabolic diseases",
+    "injury, poisoning and certain other consequences of external causes",
+    "neoplasms",
+    "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+    "myelitis",
+    "intraspinal phlebitis and thrombophlebitis, except non-pyogenic"
+  ],
+  "children": null
+}

@@ -1,0 +1,22 @@
+{
+  "type": "subcategory",
+  "chapterCode": "V",
+  "chapter": "Mental and behavioural disorders",
+  "blockCode": "F60-F69",
+  "block": "Disorders of adult personality and behaviour",
+  "categoryCode": "F60",
+  "category": "Specific personality disorders",
+  "subcategory": "F60.3",
+  "title": "Emotionally unstable personality disorder",
+  "inclusion": [
+    "disorders of psychological development",
+    "Personality (disorder): aggressive",
+    "Personality (disorder): borderline",
+    "Personality (disorder): explosive"
+  ],
+  "exclusion": [
+    "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+    "dissocial personality disorder"
+  ],
+  "children": null
+}

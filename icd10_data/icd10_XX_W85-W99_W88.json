@@ -1,0 +1,25 @@
+{
+  "type": "category",
+  "chapterCode": "XX",
+  "chapter": "External causes of morbidity and mortality",
+  "blockCode": "W85-W99",
+  "block": "Exposure to electric current, radiation and extreme ambient air temperature and pressure",
+  "categoryCode": "W88",
+  "category": "Exposure to ionizing radiation",
+  "subcategory": "",
+  "title": "Exposure to ionizing radiation",
+  "inclusion": [
+    "radioactive isotopes",
+    "X-rays"
+  ],
+  "exclusion": [
+    "abnormal reaction to a complication of treatment, without mention of misadventure",
+    "misadventure to patient in surgical and medical procedures",
+    "exposure to: natural: cold",
+    "exposure to: natural: heat",
+    "exposure to: radiation NOS",
+    "exposure to: sunlight",
+    "victim of lightning"
+  ],
+  "children": null
+}

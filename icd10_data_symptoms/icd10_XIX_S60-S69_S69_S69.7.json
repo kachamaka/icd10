@@ -1,0 +1,36 @@
+{
+    "icd10code": "S69.7",
+    "type": "subcategory",
+    "title": "Multiple injuries of wrist and hand",
+    "chapter": "Injury, poisoning and certain other consequences of external causes",
+    "chapterCode": "XIX",
+    "block": "Injuries to the wrist and hand",
+    "blockCode": "S60-S69",
+    "category": "Other and unspecified injuries of wrist and hand",
+    "categoryCode": "S69",
+    "subcategory": "S69.7",
+    "inclusion": [
+        "Injuries classifiable to more than one of the categories S60-S68"
+    ],
+    "exclusion": [
+        "birth trauma",
+        "obstetric trauma",
+        "malunion of fracture",
+        "nonunion of fracture [pseudarthrosis]",
+        "pathological fracture",
+        "pathological fracture with osteoporosis",
+        "stress fracture",
+        "bilateral involvement of wrist and hand",
+        "burns and corrosions",
+        "frostbite",
+        "injuries of arm, level unspecified",
+        "insect bite or sting, venomous"
+    ],
+    "symptoms": [
+        "pain in hand",
+        "swelling",
+        "reduced mobility",
+        "bruising",
+        "tenderness"
+    ]
+}

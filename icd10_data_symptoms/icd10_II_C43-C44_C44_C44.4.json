@@ -1,0 +1,28 @@
+{
+    "icd10code": "C44.4",
+    "type": "subcategory",
+    "title": "Malignant neoplasm: Skin of scalp and neck",
+    "chapter": "Neoplasms",
+    "chapterCode": "II",
+    "block": "Melanoma and other malignant neoplasms of skin",
+    "blockCode": "C43-C44",
+    "category": "Other malignant neoplasms of skin",
+    "categoryCode": "C44",
+    "subcategory": "C44.4",
+    "inclusion": [
+        "malignant neoplasm of: sebaceous glands",
+        "malignant neoplasm of: sweat glands"
+    ],
+    "exclusion": [
+        "Kaposi sarcoma",
+        "malignant melanoma of skin",
+        "skin of genital organs"
+    ],
+    "symptoms": [
+        "changes in skin appearance",
+        "growth of irregular patches or moles",
+        "sensitivity or pain in the affected area",
+        "skin discoloration",
+        "ulceration in skin"
+    ]
+}

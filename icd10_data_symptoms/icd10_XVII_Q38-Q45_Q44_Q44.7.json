@@ -1,0 +1,29 @@
+{
+    "icd10code": "Q44.7",
+    "type": "subcategory",
+    "title": "Other congenital malformations of liver",
+    "chapter": "Congenital malformations, deformations and chromosomal abnormalities",
+    "chapterCode": "XVII",
+    "block": "Other congenital malformations of the digestive system",
+    "blockCode": "Q38-Q45",
+    "category": "Congenital malformations of gallbladder, bile ducts and liver",
+    "categoryCode": "Q44",
+    "subcategory": "Q44.7",
+    "inclusion": [
+        "Accessory liver",
+        "Alagille syndrome",
+        "Congenital: absence of liver",
+        "Congenital: hepatomegaly",
+        "Congenital: malformation of liver NOS"
+    ],
+    "exclusion": [
+        "inborn errors of metabolism"
+    ],
+    "symptoms": [
+        "congenital anomalies of liver",
+        "jaundice",
+        "abdominal pain",
+        "hepatomegaly",
+        "bile duct obstruction"
+    ]
+}

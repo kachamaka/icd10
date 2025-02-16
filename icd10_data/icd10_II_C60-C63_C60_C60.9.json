@@ -1,0 +1,17 @@
+{
+  "type": "subcategory",
+  "chapterCode": "II",
+  "chapter": "Neoplasms",
+  "blockCode": "C60-C63",
+  "block": "Malignant neoplasms of male genital organs",
+  "categoryCode": "C60",
+  "category": "Malignant neoplasm of penis",
+  "subcategory": "C60.9",
+  "title": "Malignant neoplasm: Penis, unspecified",
+  "inclusion": [
+    "skin of male genital organs",
+    "Skin of penis NOS"
+  ],
+  "exclusion": null,
+  "children": null
+}

@@ -1,0 +1,35 @@
+{
+  "type": "subcategory",
+  "chapterCode": "III",
+  "chapter": "Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism",
+  "blockCode": "D65-D69",
+  "block": "Coagulation defects, purpura and other haemorrhagic conditions",
+  "categoryCode": "D68",
+  "category": "Other coagulation defects",
+  "subcategory": "D68.3",
+  "title": "Haemorrhagic disorder due to circulating anticoagulants",
+  "inclusion": [
+    "Haemorrhage during long-term use of anticoagulants",
+    "Hyperheparinaemia",
+    "Increase in: antithrombin",
+    "Increase in: anti-VIIIa",
+    "Increase in: anti-IXa",
+    "Increase in: anti-Xa",
+    "Increase in: anti-XIa"
+  ],
+  "exclusion": [
+    "autoimmune disease (systemic) NOS",
+    "certain conditions originating in the perinatal period",
+    "complications of pregnancy, childbirth and the puerperium",
+    "congenital malformations, deformations and chromosomal abnormalities",
+    "endocrine, nutritional and metabolic diseases",
+    "human immunodeficiency virus [HIV] disease",
+    "injury, poisoning and certain other consequences of external causes",
+    "neoplasms",
+    "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+    "traumatic rupture of spleen",
+    "splenomegaly: congenital",
+    "long-term use of anticoagulants without haemorrhage"
+  ],
+  "children": null
+}

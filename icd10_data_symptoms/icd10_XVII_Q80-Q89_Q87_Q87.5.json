@@ -1,0 +1,23 @@
+{
+    "icd10code": "Q87.5",
+    "type": "subcategory",
+    "title": "Other congenital malformation syndromes with other skeletal changes",
+    "chapter": "Congenital malformations, deformations and chromosomal abnormalities",
+    "chapterCode": "XVII",
+    "block": "Other congenital malformations",
+    "blockCode": "Q80-Q89",
+    "category": "Other specified congenital malformation syndromes affecting multiple systems",
+    "categoryCode": "Q87",
+    "subcategory": "Q87.5",
+    "inclusion": null,
+    "exclusion": [
+        "inborn errors of metabolism"
+    ],
+    "symptoms": [
+        "short stature",
+        "intellectual disability",
+        "distinctive facial features",
+        "heart defects",
+        "skeletal abnormalities"
+    ]
+}

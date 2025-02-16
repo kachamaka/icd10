@@ -1,0 +1,27 @@
+{
+    "icd10code": "Q61.9",
+    "type": "subcategory",
+    "title": "Cystic kidney disease, unspecified",
+    "chapter": "Congenital malformations, deformations and chromosomal abnormalities",
+    "chapterCode": "XVII",
+    "block": "Congenital malformations of the urinary system",
+    "blockCode": "Q60-Q64",
+    "category": "Cystic kidney disease",
+    "categoryCode": "Q61",
+    "subcategory": "Q61.9",
+    "inclusion": [
+        "Meckel-Gruber syndrome"
+    ],
+    "exclusion": [
+        "inborn errors of metabolism",
+        "cyst of kidney (acquired)",
+        "Potter syndrome"
+    ],
+    "symptoms": [
+        "kidney cysts",
+        "abdominal pain",
+        "blood in urine",
+        "high blood pressure",
+        "frequent urinary tract infections"
+    ]
+}

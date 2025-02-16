@@ -1,0 +1,32 @@
+{
+  "type": "subcategory",
+  "chapterCode": "IX",
+  "chapter": "Diseases of the circulatory system",
+  "blockCode": "I30-I52",
+  "block": "Other forms of heart disease",
+  "categoryCode": "I34",
+  "category": "Nonrheumatic mitral valve disorders",
+  "subcategory": "I34.2",
+  "title": "Nonrheumatic mitral (valve) stenosis",
+  "inclusion": null,
+  "exclusion": [
+    "certain conditions originating in the perinatal period",
+    "certain infectious and parasitic diseases",
+    "complications of pregnancy, childbirth and the puerperium",
+    "congenital malformations, deformations and chromosomal abnormalities",
+    "endocrine, nutritional and metabolic diseases",
+    "injury, poisoning and certain other consequences of external causes",
+    "neoplasms",
+    "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+    "systemic connective tissue disorders",
+    "transient cerebral ischaemic attacks and related syndromes",
+    "mitral (valve): disease",
+    "mitral (valve): failure",
+    "mitral (valve): stenosis",
+    "when of unspecified cause but with mention of: diseases of aortic valve",
+    "when of unspecified cause but with mention of: mitral stenosis or obstruction",
+    "when specified as congenital",
+    "when specified as rheumatic"
+  ],
+  "children": null
+}

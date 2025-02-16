@@ -1,0 +1,35 @@
+{
+    "icd10code": "I88.8",
+    "type": "subcategory",
+    "title": "Other nonspecific lymphadenitis",
+    "chapter": "Diseases of the circulatory system",
+    "chapterCode": "IX",
+    "block": "Diseases of veins, lymphatic vessels and lymph nodes, not elsewhere classified",
+    "blockCode": "I80-I89",
+    "category": "Nonspecific lymphadenitis",
+    "categoryCode": "I88",
+    "subcategory": "I88.8",
+    "inclusion": null,
+    "exclusion": [
+        "certain conditions originating in the perinatal period",
+        "certain infectious and parasitic diseases",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "systemic connective tissue disorders",
+        "transient cerebral ischaemic attacks and related syndromes",
+        "pulmonary",
+        "naevus: blue",
+        "complicating: childbirth and the puerperium"
+    ],
+    "symptoms": [
+        "enlarged lymph nodes",
+        "fever",
+        "weight loss",
+        "night sweats",
+        "fatigue"
+    ]
+}

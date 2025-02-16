@@ -1,0 +1,22 @@
+{
+    "icd10code": "Z99.0",
+    "type": "subcategory",
+    "title": "Dependence on aspirator",
+    "chapter": "Factors influencing health status and contact with health services",
+    "chapterCode": "XXI",
+    "block": "Persons with potential health hazards related to family and personal history and certain conditions influencing health status",
+    "blockCode": "Z80-Z99",
+    "category": "Dependence on enabling machines and devices, not elsewhere classified",
+    "categoryCode": "Z99",
+    "subcategory": "Z99.0",
+    "inclusion": null,
+    "exclusion": [
+        "follow-up examination",
+        "follow-up medical care and convalescence",
+        "when family or personal history is the reason for special screening or other examination or investigation",
+        "when the possibility that the fetus might be affected is the reason for observation or action during pregnancy"
+    ],
+    "symptoms": [
+        "asymptomatic"
+    ]
+}

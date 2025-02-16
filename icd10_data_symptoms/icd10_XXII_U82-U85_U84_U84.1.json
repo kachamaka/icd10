@@ -1,0 +1,23 @@
+{
+    "icd10code": "U84.1",
+    "type": "subcategory",
+    "title": "Resistance to antifungal drug(s)",
+    "chapter": "Codes for special purposes",
+    "chapterCode": "XXII",
+    "block": "Resistance to antimicrobial and antineoplastic drugs",
+    "blockCode": "U82-U85",
+    "category": "Resistance to other antimicrobial drugs",
+    "categoryCode": "U84",
+    "subcategory": "U84.1",
+    "inclusion": null,
+    "exclusion": [
+        "Resistance to antibiotics"
+    ],
+    "symptoms": [
+        "persistent cough",
+        "shortness of breath",
+        "fever",
+        "fatigue",
+        "chest pain"
+    ]
+}

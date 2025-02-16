@@ -1,0 +1,21 @@
+{
+    "icd10code": "Z72.1",
+    "type": "subcategory",
+    "title": "Alcohol use",
+    "chapter": "Factors influencing health status and contact with health services",
+    "chapterCode": "XXI",
+    "block": "Persons encountering health services in other circumstances",
+    "blockCode": "Z70-Z76",
+    "category": "Problems related to lifestyle",
+    "categoryCode": "Z72",
+    "subcategory": "Z72.1",
+    "inclusion": null,
+    "exclusion": [
+        "problems related to: life-management difficulty",
+        "problems related to: socioeconomic and psychosocial circumstances",
+        "alcohol dependence"
+    ],
+    "symptoms": [
+        "asymptomatic"
+    ]
+}

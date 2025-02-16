@@ -1,0 +1,27 @@
+{
+  "type": "subcategory",
+  "chapterCode": "XV",
+  "chapter": "Pregnancy, childbirth and the puerperium",
+  "blockCode": "O60-O75",
+  "block": "Complications of labour and delivery",
+  "categoryCode": "O69",
+  "category": "Labour and delivery complicated by umbilical cord complications",
+  "subcategory": "O69.5",
+  "title": "Labour and delivery complicated by vascular lesion of cord",
+  "inclusion": [
+    "Cord: bruising",
+    "Cord: haematoma",
+    "Thrombosis of umbilical vessels"
+  ],
+  "exclusion": [
+    "Certain diseases or injuries complicating pregnancy, childbirth and the puerperium classified elsewhere: external causes (for mortality)",
+    "Certain diseases or injuries complicating pregnancy, childbirth and the puerperium classified elsewhere: injury, poisoning and certain other consequences of external cause",
+    "Certain diseases or injuries complicating pregnancy, childbirth and the puerperium classified elsewhere: mental and behavioural disorders associated with the puerperium",
+    "Certain diseases or injuries complicating pregnancy, childbirth and the puerperium classified elsewhere: obstetrical tetanus",
+    "Certain diseases or injuries complicating pregnancy, childbirth and the puerperium classified elsewhere: postpartum necrosis of pituitary gland",
+    "Certain diseases or injuries complicating pregnancy, childbirth and the puerperium classified elsewhere: puerperal osteomalacia",
+    "supervision of: high-risk pregnancy",
+    "supervision of: normal pregnancy"
+  ],
+  "children": null
+}

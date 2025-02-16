@@ -1,0 +1,23 @@
+{
+    "icd10code": "D43.2",
+    "type": "subcategory",
+    "title": "Neoplasm of uncertain or unknown behaviour: Brain, unspecified",
+    "chapter": "Neoplasms",
+    "chapterCode": "II",
+    "block": "Neoplasms of uncertain or unknown behaviour",
+    "blockCode": "D37-D48",
+    "category": "Neoplasm of uncertain or unknown behaviour of brain and central nervous system",
+    "categoryCode": "D43",
+    "subcategory": "D43.2",
+    "inclusion": null,
+    "exclusion": [
+        "peripheral nerves and autonomic nervous system"
+    ],
+    "symptoms": [
+        "headache",
+        "seizures",
+        "cognitive changes",
+        "motor weakness",
+        "speech difficulties"
+    ]
+}

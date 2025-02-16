@@ -1,0 +1,23 @@
+{
+    "icd10code": "C60.1",
+    "type": "subcategory",
+    "title": "Malignant neoplasm: Glans penis",
+    "chapter": "Neoplasms",
+    "chapterCode": "II",
+    "block": "Malignant neoplasms of male genital organs",
+    "blockCode": "C60-C63",
+    "category": "Malignant neoplasm of penis",
+    "categoryCode": "C60",
+    "subcategory": "C60.1",
+    "inclusion": [
+        "skin of male genital organs"
+    ],
+    "exclusion": null,
+    "symptoms": [
+        "painful urination",
+        "blood in urine",
+        "lump in the penis",
+        "abnormal penile discharge",
+        "erectile dysfunction"
+    ]
+}

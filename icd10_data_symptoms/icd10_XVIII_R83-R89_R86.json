@@ -1,0 +1,34 @@
+{
+    "icd10code": "R86",
+    "type": "modifiedcategory",
+    "title": "Abnormal findings in specimens from male genital organs : abnormal level of hormones",
+    "chapter": "Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+    "chapterCode": "XVIII",
+    "block": "Abnormal findings on examination of other body fluids, substances and tissues, without diagnosis",
+    "blockCode": "R83-R89",
+    "category": "Abnormal findings in specimens from male genital organs",
+    "categoryCode": "R86",
+    "subcategory": "",
+    "inclusion": [
+        "Abnormal findings in: prostatic secretions",
+        "Abnormal findings in: semen, seminal fluid",
+        "Abnormal spermatozoa"
+    ],
+    "exclusion": [
+        "abnormal findings on antenatal screening of mother",
+        "certain conditions originating in the perinatal period",
+        "abnormal findings on: antenatal screening of mother",
+        "abnormal findings on: examination of: blood, without diagnosis",
+        "abnormal findings on: examination of: urine, without diagnosis",
+        "diagnostic abnormal findings classified elsewhere - see Alphabetical Index",
+        "carcinoma in situ",
+        "dysplasia of: cervix uteri"
+    ],
+    "symptoms": [
+        "abnormal odor of urine",
+        "abnormal urine findings",
+        "presence of cells in urine",
+        "presence of casts in urine",
+        "abnormal urine color"
+    ]
+}

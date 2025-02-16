@@ -1,0 +1,31 @@
+{
+    "icd10code": "T92.8",
+    "type": "subcategory",
+    "title": "Sequelae of other specified injuries of upper limb",
+    "chapter": "Injury, poisoning and certain other consequences of external causes",
+    "chapterCode": "XIX",
+    "block": "Sequelae of injuries, of poisoning and of other consequences of external causes",
+    "blockCode": "T90-T98",
+    "category": "Sequelae of injuries of upper limb",
+    "categoryCode": "T92",
+    "subcategory": "T92.8",
+    "inclusion": [
+        "Sequelae of injury classifiable to S40.-, S45.-, S49.7-S49.8, S50.-,S55.-, S59.7-S59.8, S60.-, S65.-, S69.7-S69.8, T11.0, T11.4 and T11.8"
+    ],
+    "exclusion": [
+        "birth trauma",
+        "obstetric trauma",
+        "malunion of fracture",
+        "nonunion of fracture [pseudarthrosis]",
+        "pathological fracture",
+        "pathological fracture with osteoporosis",
+        "stress fracture"
+    ],
+    "symptoms": [
+        "scarring",
+        "chronic pain",
+        "limited mobility",
+        "tissue damage",
+        "persistent inflammation"
+    ]
+}

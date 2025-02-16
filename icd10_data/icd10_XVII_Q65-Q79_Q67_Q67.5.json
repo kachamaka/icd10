@@ -1,0 +1,23 @@
+{
+  "type": "subcategory",
+  "chapterCode": "XVII",
+  "chapter": "Congenital malformations, deformations and chromosomal abnormalities",
+  "blockCode": "Q65-Q79",
+  "block": "Congenital malformations and deformations of the musculoskeletal system",
+  "categoryCode": "Q67",
+  "category": "Congenital musculoskeletal deformities of head, face, spine and chest",
+  "subcategory": "Q67.5",
+  "title": "Congenital deformity of spine",
+  "inclusion": [
+    "Congenital scoliosis: NOS",
+    "Congenital scoliosis: postural"
+  ],
+  "exclusion": [
+    "inborn errors of metabolism",
+    "congenital malformation syndromes classified to Q87.-",
+    "Potter syndrome",
+    "infantile idiopathic scoliosis",
+    "scoliosis due to congenital bony malformation"
+  ],
+  "children": null
+}

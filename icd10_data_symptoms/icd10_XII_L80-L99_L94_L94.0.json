@@ -1,0 +1,35 @@
+{
+    "icd10code": "L94.0",
+    "type": "subcategory",
+    "title": "Localized scleroderma [morphea]",
+    "chapter": "Diseases of the skin and subcutaneous tissue",
+    "chapterCode": "XII",
+    "block": "Other disorders of the skin and subcutaneous tissue",
+    "blockCode": "L80-L99",
+    "category": "Other localized connective tissue disorders",
+    "categoryCode": "L94",
+    "subcategory": "L94.0",
+    "inclusion": [
+        "Circumscribed scleroderma"
+    ],
+    "exclusion": [
+        "certain conditions originating in the perinatal period",
+        "certain infectious and parasitic diseases",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "lipomelanotic reticulosis",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "systemic connective tissue disorders",
+        "acne keloid"
+    ],
+    "symptoms": [
+        "rash",
+        "erythema",
+        "photosensitivity",
+        "muscle weakness",
+        "fatigue"
+    ]
+}

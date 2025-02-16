@@ -1,0 +1,29 @@
+{
+    "icd10code": "D23.7",
+    "type": "subcategory",
+    "title": "Benign neoplasm: Skin of lower limb, including hip",
+    "chapter": "Neoplasms",
+    "chapterCode": "II",
+    "block": "Benign neoplasms",
+    "blockCode": "D10-D36",
+    "category": "Other benign neoplasms of skin",
+    "categoryCode": "D23",
+    "subcategory": "D23.7",
+    "inclusion": [
+        "morphology codes with behaviour code /0",
+        "benign neoplasm of: hair follicles",
+        "benign neoplasm of: sebaceous glands",
+        "benign neoplasm of: sweat glands"
+    ],
+    "exclusion": [
+        "benign lipomatous neoplasms",
+        "melanocytic naevi"
+    ],
+    "symptoms": [
+        "skin rash",
+        "persistent itching",
+        "skin redness",
+        "lump or bump on the skin",
+        "changes in skin color"
+    ]
+}

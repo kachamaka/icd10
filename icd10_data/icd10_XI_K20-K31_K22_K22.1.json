@@ -1,0 +1,33 @@
+{
+  "type": "subcategory",
+  "chapterCode": "XI",
+  "chapter": "Diseases of the digestive system",
+  "blockCode": "K20-K31",
+  "block": "Diseases of oesophagus, stomach and duodenum",
+  "categoryCode": "K22",
+  "category": "Other diseases of oesophagus",
+  "subcategory": "K22.1",
+  "title": "Ulcer of oesophagus",
+  "inclusion": [
+    "Erosion of oesophagus",
+    "Ulcer of oesophagus: NOS",
+    "Ulcer of oesophagus: due to ingestion of: chemicals",
+    "Ulcer of oesophagus: due to ingestion of: drugs and medicaments",
+    "Ulcer of oesophagus: fungal",
+    "Ulcer of oesophagus: peptic",
+    "Ulcerative oesophagitis"
+  ],
+  "exclusion": [
+    "certain conditions originating in the perinatal period",
+    "certain infectious and parasitic diseases",
+    "complications of pregnancy, childbirth and the puerperium",
+    "congenital malformations, deformations and chromosomal abnormalities",
+    "endocrine, nutritional and metabolic diseases",
+    "injury, poisoning and certain other consequences of external causes",
+    "neoplasms",
+    "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+    "hiatus hernia",
+    "primary ulcer of small intestine"
+  ],
+  "children": null
+}

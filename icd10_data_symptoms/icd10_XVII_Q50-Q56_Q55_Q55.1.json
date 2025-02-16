@@ -1,0 +1,30 @@
+{
+    "icd10code": "Q55.1",
+    "type": "subcategory",
+    "title": "Hypoplasia of testis and scrotum",
+    "chapter": "Congenital malformations, deformations and chromosomal abnormalities",
+    "chapterCode": "XVII",
+    "block": "Congenital malformations of genital organs",
+    "blockCode": "Q50-Q56",
+    "category": "Other congenital malformations of male genital organs",
+    "categoryCode": "Q55",
+    "subcategory": "Q55.1",
+    "inclusion": [
+        "Fusion of testes"
+    ],
+    "exclusion": [
+        "inborn errors of metabolism",
+        "androgen resistance syndrome",
+        "syndromes associated with anomalies in the number and form of chromosomes",
+        "testicular feminization syndrome",
+        "congenital hydrocele",
+        "hypospadias"
+    ],
+    "symptoms": [
+        "undescended testis",
+        "absent testis",
+        "underdeveloped testis",
+        "groin discomfort",
+        "reduced fertility"
+    ]
+}

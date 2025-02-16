@@ -1,0 +1,25 @@
+{
+    "icd10code": "Q20.2",
+    "type": "subcategory",
+    "title": "Double outlet left ventricle",
+    "chapter": "Congenital malformations, deformations and chromosomal abnormalities",
+    "chapterCode": "XVII",
+    "block": "Congenital malformations of the circulatory system",
+    "blockCode": "Q20-Q28",
+    "category": "Congenital malformations of cardiac chambers and connections",
+    "categoryCode": "Q20",
+    "subcategory": "Q20.2",
+    "inclusion": null,
+    "exclusion": [
+        "inborn errors of metabolism",
+        "dextrocardia with situs inversus",
+        "mirror-image atrial arrangement with situs inversus"
+    ],
+    "symptoms": [
+        "abnormal heart position",
+        "cyanosis",
+        "difficulty breathing",
+        "failure to thrive",
+        "heart murmur"
+    ]
+}

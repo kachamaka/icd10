@@ -1,0 +1,35 @@
+{
+    "icd10code": "I52.0",
+    "type": "subcategory",
+    "title": "Other heart disorders in bacterial diseases classified elsewhere",
+    "chapter": "Diseases of the circulatory system",
+    "chapterCode": "IX",
+    "block": "Other forms of heart disease",
+    "blockCode": "I30-I52",
+    "category": "Other heart disorders in diseases classified elsewhere",
+    "categoryCode": "I52",
+    "subcategory": "I52.0",
+    "inclusion": [
+        "Meningococcal carditis NEC"
+    ],
+    "exclusion": [
+        "certain conditions originating in the perinatal period",
+        "certain infectious and parasitic diseases",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "systemic connective tissue disorders",
+        "transient cerebral ischaemic attacks and related syndromes",
+        "prolongation of QT interval"
+    ],
+    "symptoms": [
+        "swelling in legs and abdomen",
+        "rapid weight gain",
+        "fatigue",
+        "shortness of breath",
+        "irregular heartbeat"
+    ]
+}

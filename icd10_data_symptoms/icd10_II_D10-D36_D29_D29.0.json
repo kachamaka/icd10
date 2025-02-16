@@ -1,0 +1,24 @@
+{
+    "icd10code": "D29.0",
+    "type": "subcategory",
+    "title": "Benign neoplasm: Penis",
+    "chapter": "Neoplasms",
+    "chapterCode": "II",
+    "block": "Benign neoplasms",
+    "blockCode": "D10-D36",
+    "category": "Benign neoplasm of male genital organs",
+    "categoryCode": "D29",
+    "subcategory": "D29.0",
+    "inclusion": [
+        "morphology codes with behaviour code /0",
+        "skin of male genital organs"
+    ],
+    "exclusion": null,
+    "symptoms": [
+        "urinary frequency",
+        "hematuria (blood in urine)",
+        "pelvic pain",
+        "frequent urinary tract infections",
+        "bladder discomfort"
+    ]
+}

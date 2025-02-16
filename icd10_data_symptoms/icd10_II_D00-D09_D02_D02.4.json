@@ -1,0 +1,28 @@
+{
+    "icd10code": "D02.4",
+    "type": "subcategory",
+    "title": "Carcinoma in situ: Respiratory system, unspecified",
+    "chapter": "Neoplasms",
+    "chapterCode": "II",
+    "block": "In situ neoplasms",
+    "blockCode": "D00-D09",
+    "category": "Carcinoma in situ of middle ear and respiratory system",
+    "categoryCode": "D02",
+    "subcategory": "D02.4",
+    "inclusion": [
+        "Bowen disease",
+        "erythroplasia",
+        "morphology codes with behaviour code /2",
+        "Queyrat erythroplasia"
+    ],
+    "exclusion": [
+        "melanoma in situ"
+    ],
+    "symptoms": [
+        "difficulty swallowing",
+        "hoarseness or voice changes",
+        "persistent cough",
+        "unexplained weight loss",
+        "neck or throat pain"
+    ]
+}

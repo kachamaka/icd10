@@ -1,0 +1,36 @@
+{
+    "icd10code": "A40.2",
+    "type": "subcategory",
+    "title": "Sepsis due to streptococcus, group D and enterococcus",
+    "chapter": "Certain infectious and parasitic diseases",
+    "chapterCode": "I",
+    "block": "Other bacterial diseases",
+    "blockCode": "A30-A49",
+    "category": "Streptococcal sepsis",
+    "categoryCode": "A40",
+    "subcategory": "A40.2",
+    "inclusion": [
+        "diseases generally recognized as communicable or transmissible"
+    ],
+    "exclusion": [
+        "carrier or suspected carrier of infectious disease",
+        "certain localized infections - see body system-related chapters",
+        "infectious and parasitic diseases complicating pregnancy, childbirth and the puerperium [except obstetrical tetanus]",
+        "infectious and parasitic diseases specific to the perinatal period [except tetanus neonatorum, whooping cough, congenital syphilis, perinatal gonococcal infection and perinatal human immunodeficiency virus [HIV] disease]",
+        "influenza and other acute respiratory infections",
+        "during labour",
+        "following: abortion or ectopic or molar pregnancy",
+        "following: immunization",
+        "following: infusion, transfusion or therapeutic injection",
+        "neonatal",
+        "postprocedural",
+        "puerperal"
+    ],
+    "symptoms": [
+        "fever",
+        "rapid breathing",
+        "confusion",
+        "low blood pressure",
+        "chills"
+    ]
+}

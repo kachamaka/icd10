@@ -1,0 +1,27 @@
+{
+    "icd10code": "Y02",
+    "type": "category",
+    "title": "Assault by pushing or placing victim before moving object",
+    "chapter": "External causes of morbidity and mortality",
+    "chapterCode": "XX",
+    "block": "Assault",
+    "blockCode": "X85-Y09",
+    "category": "Assault by pushing or placing victim before moving object",
+    "categoryCode": "Y02",
+    "subcategory": "",
+    "inclusion": [
+        "homicide",
+        "injuries inflicted by another person with intent to injure or kill, by any means"
+    ],
+    "exclusion": [
+        "injuries due to: legal intervention",
+        "injuries due to: operations of war"
+    ],
+    "symptoms": [
+        "pain",
+        "swelling",
+        "bruising",
+        "tenderness",
+        "lacerations"
+    ]
+}

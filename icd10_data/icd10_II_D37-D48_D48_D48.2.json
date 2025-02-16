@@ -1,0 +1,17 @@
+{
+  "type": "subcategory",
+  "chapterCode": "II",
+  "chapter": "Neoplasms",
+  "blockCode": "D37-D48",
+  "block": "Neoplasms of uncertain or unknown behaviour",
+  "categoryCode": "D48",
+  "category": "Neoplasm of uncertain or unknown behaviour of other and unspecified sites",
+  "subcategory": "D48.2",
+  "title": "Neoplasm of uncertain or unknown behaviour: Peripheral nerves and autonomic nervous system",
+  "inclusion": null,
+  "exclusion": [
+    "neurofibromatosis (nonmalignant)",
+    "peripheral nerves of orbit"
+  ],
+  "children": null
+}

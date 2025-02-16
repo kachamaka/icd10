@@ -1,0 +1,26 @@
+{
+  "type": "subcategory",
+  "chapterCode": "XVI",
+  "chapter": "Certain conditions originating in the perinatal period",
+  "blockCode": "P20-P29",
+  "block": "Respiratory and cardiovascular disorders specific to the perinatal period",
+  "categoryCode": "P21",
+  "category": "Birth asphyxia",
+  "subcategory": "P21.1",
+  "title": "Mild and moderate birth asphyxia",
+  "inclusion": [
+    "conditions that have their origin in the perinatal period even though death or morbidity occurs later",
+    "Asphyxia with 1-minute Apgar score 4-7",
+    "Blue asphyxia"
+  ],
+  "exclusion": [
+    "congenital malformations, deformations and chromosomal abnormalities",
+    "endocrine, nutritional and metabolic diseases",
+    "injury, poisoning and certain other consequences of external causes",
+    "neoplasms",
+    "tetanus neonatorum",
+    "whooping cough",
+    "single umbilical artery"
+  ],
+  "children": null
+}

@@ -1,0 +1,25 @@
+{
+    "icd10code": "C90.1",
+    "type": "subcategory",
+    "title": "Plasma cell leukaemia",
+    "chapter": "Neoplasms",
+    "chapterCode": "II",
+    "block": "Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",
+    "blockCode": "C81-C96",
+    "category": "Multiple myeloma and malignant plasma cell neoplasms",
+    "categoryCode": "C90",
+    "subcategory": "C90.1",
+    "inclusion": [
+        "Plasmacytic leukaemia"
+    ],
+    "exclusion": [
+        "secondary and unspecified neoplasm of lymph nodes"
+    ],
+    "symptoms": [
+        "bone pain",
+        "fatigue",
+        "frequent infections",
+        "nausea",
+        "weight loss"
+    ]
+}

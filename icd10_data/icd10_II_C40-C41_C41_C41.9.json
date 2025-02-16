@@ -1,0 +1,22 @@
+{
+  "type": "subcategory",
+  "chapterCode": "II",
+  "chapter": "Neoplasms",
+  "blockCode": "C40-C41",
+  "block": "Malignant neoplasms of bone and articular cartilage",
+  "categoryCode": "C41",
+  "category": "Malignant neoplasm of bone and articular cartilage of other and unspecified sites",
+  "subcategory": "C41.9",
+  "title": "Malignant neoplasm: Bone and articular cartilage, unspecified",
+  "inclusion": null,
+  "exclusion": [
+    "bone marrow NOS",
+    "synovia",
+    "bones of limbs",
+    "cartilage of: ear",
+    "cartilage of: larynx",
+    "cartilage of: limbs",
+    "cartilage of: nose"
+  ],
+  "children": null
+}

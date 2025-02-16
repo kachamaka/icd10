@@ -1,0 +1,19 @@
+{
+  "type": "subcategory",
+  "chapterCode": "XVII",
+  "chapter": "Congenital malformations, deformations and chromosomal abnormalities",
+  "blockCode": "Q38-Q45",
+  "block": "Other congenital malformations of the digestive system",
+  "categoryCode": "Q40",
+  "category": "Other congenital malformations of upper alimentary tract",
+  "subcategory": "Q40.1",
+  "title": "Congenital hiatus hernia",
+  "inclusion": [
+    "Displacement of cardia through oesophageal hiatus"
+  ],
+  "exclusion": [
+    "inborn errors of metabolism",
+    "congenital diaphragmatic hernia"
+  ],
+  "children": null
+}

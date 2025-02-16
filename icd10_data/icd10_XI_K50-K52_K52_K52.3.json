@@ -1,0 +1,28 @@
+{
+  "type": "subcategory",
+  "chapterCode": "XI",
+  "chapter": "Diseases of the digestive system",
+  "blockCode": "K50-K52",
+  "block": "Noninfective enteritis and colitis",
+  "categoryCode": "K52",
+  "category": "Other noninfective gastroenteritis and colitis",
+  "subcategory": "K52.3",
+  "title": "Indeterminate colitis",
+  "inclusion": [
+    "noninfective inflammatory bowel disease"
+  ],
+  "exclusion": [
+    "certain conditions originating in the perinatal period",
+    "certain infectious and parasitic diseases",
+    "complications of pregnancy, childbirth and the puerperium",
+    "congenital malformations, deformations and chromosomal abnormalities",
+    "endocrine, nutritional and metabolic diseases",
+    "injury, poisoning and certain other consequences of external causes",
+    "neoplasms",
+    "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+    "irritable bowel syndrome",
+    "megacolon",
+    "colitis of unspecified origin"
+  ],
+  "children": null
+}

@@ -1,0 +1,48 @@
+{
+    "icd10code": "T50.9",
+    "type": "subcategory",
+    "title": "Poisoning: Other and unspecified drugs, medicaments and biological substances",
+    "chapter": "Injury, poisoning and certain other consequences of external causes",
+    "chapterCode": "XIX",
+    "block": "Poisoning by drugs, medicaments and biological substances",
+    "blockCode": "T36-T50",
+    "category": "Poisoning by diuretics and other and unspecified drugs, medicaments and biological substances",
+    "categoryCode": "T50",
+    "subcategory": "T50.9",
+    "inclusion": [
+        "overdose of these substances",
+        "wrong substance given or taken in error",
+        "Acidifying agents",
+        "Alkalizing agents",
+        "Immunoglobulin",
+        "Immunologicals",
+        "Lipotropic drugs",
+        "Parathyroid hormones and derivatives"
+    ],
+    "exclusion": [
+        "birth trauma",
+        "obstetric trauma",
+        "malunion of fracture",
+        "nonunion of fracture [pseudarthrosis]",
+        "pathological fracture",
+        "pathological fracture with osteoporosis",
+        "stress fracture",
+        "abuse of non-dependence-producing substances",
+        "adverse effects [\"hypersensitivity\", \"reaction\", etc.] of correct substance properly administered; such cases are to be classified according to the nature of the adverse effect, such as: aspirin gastritis",
+        "adverse effects [\"hypersensitivity\", \"reaction\", etc.] of correct substance properly administered; such cases are to be classified according to the nature of the adverse effect, such as: blood disorders",
+        "adverse effects [\"hypersensitivity\", \"reaction\", etc.] of correct substance properly administered; such cases are to be classified according to the nature of the adverse effect, such as: dermatitis: contact",
+        "adverse effects [\"hypersensitivity\", \"reaction\", etc.] of correct substance properly administered; such cases are to be classified according to the nature of the adverse effect, such as: dermatitis: due to substances taken internally",
+        "adverse effects [\"hypersensitivity\", \"reaction\", etc.] of correct substance properly administered; such cases are to be classified according to the nature of the adverse effect, such as: nephropathy",
+        "adverse effects [\"hypersensitivity\", \"reaction\", etc.] of correct substance properly administered; such cases are to be classified according to the nature of the adverse effect, such as: unspecified adverse effect of drug",
+        "intoxication meaning inebriation",
+        "drug reaction and poisoning affecting the fetus and newborn",
+        "pathological drug intoxication"
+    ],
+    "symptoms": [
+        "nausea",
+        "vomiting",
+        "dizziness",
+        "abdominal pain",
+        "confusion"
+    ]
+}

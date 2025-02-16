@@ -1,0 +1,26 @@
+{
+  "type": "category",
+  "chapterCode": "XX",
+  "chapter": "External causes of morbidity and mortality",
+  "blockCode": "W00-W19",
+  "block": "Falls",
+  "categoryCode": "W00",
+  "category": "Fall on same level involving ice and snow",
+  "subcategory": "",
+  "title": "Fall on same level involving ice and snow",
+  "inclusion": null,
+  "exclusion": [
+    "assault",
+    "fall (in)(from): animal",
+    "fall (in)(from): burning building",
+    "fall (in)(from): into fire",
+    "fall (in)(from): into water (with drowning or submersion)",
+    "fall (in)(from): machinery (in operation)",
+    "fall (in)(from): repeated falls not resulting from accident",
+    "fall (in)(from): transport vehicle",
+    "intentional self-harm",
+    "fall with mention of: ice-skates and skis",
+    "fall with mention of: stairs and steps"
+  ],
+  "children": null
+}

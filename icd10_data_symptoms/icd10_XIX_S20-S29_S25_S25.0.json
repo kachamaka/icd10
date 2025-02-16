@@ -1,0 +1,48 @@
+{
+    "icd10code": "S25.0",
+    "type": "subcategory",
+    "title": "Injury of thoracic aorta",
+    "chapter": "Injury, poisoning and certain other consequences of external causes",
+    "chapterCode": "XIX",
+    "block": "Injuries to the thorax",
+    "blockCode": "S20-S29",
+    "category": "Injury of blood vessels of thorax",
+    "categoryCode": "S25",
+    "subcategory": "S25.0",
+    "inclusion": [
+        "injuries of: breast",
+        "injuries of: chest (wall)",
+        "injuries of: interscapular area",
+        "Aorta NOS"
+    ],
+    "exclusion": [
+        "birth trauma",
+        "obstetric trauma",
+        "malunion of fracture",
+        "nonunion of fracture [pseudarthrosis]",
+        "pathological fracture",
+        "pathological fracture with osteoporosis",
+        "stress fracture",
+        "burns and corrosions",
+        "effects of foreign body in: bronchus",
+        "effects of foreign body in: lung",
+        "effects of foreign body in: oesophagus",
+        "effects of foreign body in: trachea",
+        "fracture of spine NOS",
+        "frostbite",
+        "injuries of: axilla",
+        "injuries of: clavicle",
+        "injuries of: scapular region",
+        "injuries of: shoulder",
+        "injuries of: spinal cord NOS",
+        "injuries of: trunk NOS",
+        "insect bite or sting, venomous"
+    ],
+    "symptoms": [
+        "chest pain",
+        "difficulty breathing",
+        "hypotension",
+        "tachycardia",
+        "anxiety"
+    ]
+}

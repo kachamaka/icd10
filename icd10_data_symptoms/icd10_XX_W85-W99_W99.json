@@ -1,0 +1,25 @@
+{
+    "icd10code": "W99",
+    "type": "category",
+    "title": "Exposure to other and unspecified man-made environmental factors",
+    "chapter": "External causes of morbidity and mortality",
+    "chapterCode": "XX",
+    "block": "Exposure to electric current, radiation and extreme ambient air temperature and pressure",
+    "blockCode": "W85-W99",
+    "category": "Exposure to other and unspecified man-made environmental factors",
+    "categoryCode": "W99",
+    "subcategory": "",
+    "inclusion": null,
+    "exclusion": [
+        "abnormal reaction to a complication of treatment, without mention of misadventure",
+        "misadventure to patient in surgical and medical procedures",
+        "exposure to: natural: cold",
+        "exposure to: natural: heat",
+        "exposure to: radiation NOS",
+        "exposure to: sunlight",
+        "victim of lightning"
+    ],
+    "symptoms": [
+        "asymptomatic"
+    ]
+}

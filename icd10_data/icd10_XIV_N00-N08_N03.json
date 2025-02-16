@@ -1,0 +1,34 @@
+{
+  "type": "modifiedcategory",
+  "chapterCode": "XIV",
+  "chapter": "Diseases of the genitourinary system",
+  "blockCode": "N00-N08",
+  "block": "Glomerular diseases",
+  "categoryCode": "N03",
+  "category": "Chronic nephritic syndrome",
+  "subcategory": "",
+  "title": "Chronic nephritic syndrome : focal and segmental glomerular lesions",
+  "inclusion": [
+    "chronic: glomerular disease",
+    "chronic: glomerulonephritis",
+    "chronic: nephritis",
+    "Focal and segmental: hyalinosis",
+    "Focal and segmental: sclerosis",
+    "Focal glomerulonephritis"
+  ],
+  "exclusion": [
+    "certain conditions originating in the perinatal period",
+    "certain infectious and parasitic diseases",
+    "complications of pregnancy, childbirth and the puerperium",
+    "congenital malformations, deformations and chromosomal abnormalities",
+    "endocrine, nutritional and metabolic diseases",
+    "injury, poisoning and certain other consequences of external causes",
+    "neoplasms",
+    "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+    "hypertensive renal disease",
+    "renal tubulo-interstitial disorders in diseases classified elsewhere",
+    "hereditary amyloid nephropathy",
+    "nail patella syndrome"
+  ],
+  "children": null
+}

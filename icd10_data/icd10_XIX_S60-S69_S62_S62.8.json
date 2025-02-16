@@ -1,0 +1,28 @@
+{
+  "type": "subcategory",
+  "chapterCode": "XIX",
+  "chapter": "Injury, poisoning and certain other consequences of external causes",
+  "blockCode": "S60-S69",
+  "block": "Injuries to the wrist and hand",
+  "categoryCode": "S62",
+  "category": "Fracture at wrist and hand level",
+  "subcategory": "S62.8",
+  "title": "Fracture of other and unspecified parts of wrist and hand",
+  "inclusion": null,
+  "exclusion": [
+    "birth trauma",
+    "obstetric trauma",
+    "malunion of fracture",
+    "nonunion of fracture [pseudarthrosis]",
+    "pathological fracture",
+    "pathological fracture with osteoporosis",
+    "stress fracture",
+    "bilateral involvement of wrist and hand",
+    "burns and corrosions",
+    "frostbite",
+    "injuries of arm, level unspecified",
+    "insect bite or sting, venomous",
+    "contusion involving nail (matrix)"
+  ],
+  "children": null
+}

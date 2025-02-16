@@ -1,0 +1,40 @@
+{
+    "icd10code": "N89.8",
+    "type": "subcategory",
+    "title": "Other specified noninflammatory disorders of vagina",
+    "chapter": "Diseases of the genitourinary system",
+    "chapterCode": "XIV",
+    "block": "Noninflammatory disorders of female genital tract",
+    "blockCode": "N80-N98",
+    "category": "Other noninflammatory disorders of vagina",
+    "categoryCode": "N89",
+    "subcategory": "N89.8",
+    "inclusion": [
+        "Leukorrhoea NOS",
+        "Old vaginal laceration",
+        "Pessary ulcer of vagina"
+    ],
+    "exclusion": [
+        "certain conditions originating in the perinatal period",
+        "certain infectious and parasitic diseases",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "carcinoma in situ of vagina",
+        "inflammation of vagina",
+        "senile (atrophic) vaginitis",
+        "trichomonal leukorrhoea",
+        "current obstetric trauma",
+        "old laceration involving muscles of pelvic floor"
+    ],
+    "symptoms": [
+        "abnormal vaginal discharge",
+        "itching",
+        "pelvic pain",
+        "burning sensation",
+        "irritation"
+    ]
+}

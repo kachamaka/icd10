@@ -1,0 +1,27 @@
+{
+    "icd10code": "Q84.6",
+    "type": "subcategory",
+    "title": "Other congenital malformations of nails",
+    "chapter": "Congenital malformations, deformations and chromosomal abnormalities",
+    "chapterCode": "XVII",
+    "block": "Other congenital malformations",
+    "blockCode": "Q80-Q89",
+    "category": "Other congenital malformations of integument",
+    "categoryCode": "Q84",
+    "subcategory": "Q84.6",
+    "inclusion": [
+        "Congenital: clubnail",
+        "Congenital: koilonychia",
+        "Congenital: malformation of nail NOS"
+    ],
+    "exclusion": [
+        "inborn errors of metabolism"
+    ],
+    "symptoms": [
+        "abnormal hair follicle development",
+        "sparse hair",
+        "brittle hair",
+        "slow hair growth",
+        "hair shaft abnormalities"
+    ]
+}

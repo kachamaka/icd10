@@ -1,0 +1,21 @@
+{
+    "icd10code": "C15.4",
+    "type": "subcategory",
+    "title": "Malignant neoplasm: Middle third of oesophagus",
+    "chapter": "Neoplasms",
+    "chapterCode": "II",
+    "block": "Malignant neoplasms of digestive organs",
+    "blockCode": "C15-C26",
+    "category": "Malignant neoplasm of oesophagus",
+    "categoryCode": "C15",
+    "subcategory": "C15.4",
+    "inclusion": null,
+    "exclusion": null,
+    "symptoms": [
+        "difficulty swallowing",
+        "pain in the chest or back",
+        "weight loss",
+        "fatigue",
+        "frequent vomiting"
+    ]
+}

@@ -1,0 +1,23 @@
+{
+  "type": "subcategory",
+  "chapterCode": "XVII",
+  "chapter": "Congenital malformations, deformations and chromosomal abnormalities",
+  "blockCode": "Q50-Q56",
+  "block": "Congenital malformations of genital organs",
+  "categoryCode": "Q52",
+  "category": "Other congenital malformations of female genitalia",
+  "subcategory": "Q52.4",
+  "title": "Other congenital malformations of vagina",
+  "inclusion": [
+    "Congenital malformation of vagina NOS",
+    "Cyst: canal of Nuck, congenital",
+    "Cyst: embryonic vaginal"
+  ],
+  "exclusion": [
+    "inborn errors of metabolism",
+    "androgen resistance syndrome",
+    "syndromes associated with anomalies in the number and form of chromosomes",
+    "testicular feminization syndrome"
+  ],
+  "children": null
+}

@@ -1,0 +1,26 @@
+{
+    "icd10code": "C82.7",
+    "type": "subcategory",
+    "title": "Other types of follicular lymphoma",
+    "chapter": "Neoplasms",
+    "chapterCode": "II",
+    "block": "Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",
+    "blockCode": "C81-C96",
+    "category": "Follicular lymphoma",
+    "categoryCode": "C82",
+    "subcategory": "C82.7",
+    "inclusion": [
+        "follicular lymphoma with or without diffuse areas"
+    ],
+    "exclusion": [
+        "secondary and unspecified neoplasm of lymph nodes",
+        "mature T/NK-cell lymphoma"
+    ],
+    "symptoms": [
+        "night sweats",
+        "unexplained weight loss",
+        "persistent fatigue",
+        "enlarged lymph nodes",
+        "fever"
+    ]
+}

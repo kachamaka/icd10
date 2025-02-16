@@ -1,0 +1,31 @@
+{
+  "type": "modifiedcategory",
+  "chapterCode": "IV",
+  "chapter": "Endocrine, nutritional and metabolic diseases",
+  "blockCode": "E10-E14",
+  "block": "Diabetes mellitus",
+  "categoryCode": "E12",
+  "category": "Malnutrition-related diabetes mellitus",
+  "subcategory": "",
+  "title": "Malnutrition-related diabetes mellitus with coma",
+  "inclusion": [
+    "malnutrition-related diabetes mellitus: type 1",
+    "malnutrition-related diabetes mellitus: type 2",
+    "Diabetic: coma with or without ketoacidosis",
+    "Diabetic: hyperosmolar coma",
+    "Diabetic: hypoglycaemic coma",
+    "Hyperglycaemic coma NOS"
+  ],
+  "exclusion": [
+    "complications of pregnancy, childbirth and the puerperium",
+    "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+    "transitory endocrine and metabolic disorders specific to fetus and newborn",
+    "diabetes mellitus in pregnancy, childbirth and the puerperium",
+    "glycosuria: NOS",
+    "glycosuria: renal",
+    "impaired glucose tolerance",
+    "neonatal diabetes mellitus",
+    "postsurgical hypoinsulinaemia"
+  ],
+  "children": null
+}

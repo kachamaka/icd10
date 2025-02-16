@@ -1,0 +1,26 @@
+{
+    "icd10code": "F25.9",
+    "type": "subcategory",
+    "title": "Schizoaffective disorder, unspecified",
+    "chapter": "Mental and behavioural disorders",
+    "chapterCode": "V",
+    "block": "Schizophrenia, schizotypal and delusional disorders",
+    "blockCode": "F20-F29",
+    "category": "Schizoaffective disorders",
+    "categoryCode": "F25",
+    "subcategory": "F25.9",
+    "inclusion": [
+        "disorders of psychological development",
+        "Schizoaffective psychosis NOS"
+    ],
+    "exclusion": [
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified"
+    ],
+    "symptoms": [
+        "hallucinations",
+        "delusions",
+        "disorganized thinking",
+        "emotional dysfunction",
+        "impaired daily functioning"
+    ]
+}

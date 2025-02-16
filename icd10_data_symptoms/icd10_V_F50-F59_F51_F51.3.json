@@ -1,0 +1,26 @@
+{
+    "icd10code": "F51.3",
+    "type": "subcategory",
+    "title": "Sleepwalking [somnambulism]",
+    "chapter": "Mental and behavioural disorders",
+    "chapterCode": "V",
+    "block": "Behavioural syndromes associated with physiological disturbances and physical factors",
+    "blockCode": "F50-F59",
+    "category": "Nonorganic sleep disorders",
+    "categoryCode": "F51",
+    "subcategory": "F51.3",
+    "inclusion": [
+        "disorders of psychological development"
+    ],
+    "exclusion": [
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "sleep disorders (organic)"
+    ],
+    "symptoms": [
+        "difficulty initiating sleep",
+        "frequent awakenings during the night",
+        "non-restorative sleep",
+        "daytime fatigue",
+        "irritability"
+    ]
+}

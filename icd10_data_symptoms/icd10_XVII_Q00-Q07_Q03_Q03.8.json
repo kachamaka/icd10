@@ -1,0 +1,30 @@
+{
+    "icd10code": "Q03.8",
+    "type": "subcategory",
+    "title": "Other congenital hydrocephalus",
+    "chapter": "Congenital malformations, deformations and chromosomal abnormalities",
+    "chapterCode": "XVII",
+    "block": "Congenital malformations of the nervous system",
+    "blockCode": "Q00-Q07",
+    "category": "Congenital hydrocephalus",
+    "categoryCode": "Q03",
+    "subcategory": "Q03.8",
+    "inclusion": [
+        "hydrocephalus in newborn"
+    ],
+    "exclusion": [
+        "inborn errors of metabolism",
+        "Arnold-Chiari syndrome",
+        "hydrocephalus: acquired NOS",
+        "hydrocephalus: acquired, of newborn",
+        "hydrocephalus: due to congenital toxoplasmosis",
+        "hydrocephalus: with spina bifida"
+    ],
+    "symptoms": [
+        "delayed development",
+        "headaches",
+        "irritability",
+        "nausea",
+        "problems with balance"
+    ]
+}

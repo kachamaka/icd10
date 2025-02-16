@@ -1,0 +1,21 @@
+{
+  "type": "subcategory",
+  "chapterCode": "XVII",
+  "chapter": "Congenital malformations, deformations and chromosomal abnormalities",
+  "blockCode": "Q38-Q45",
+  "block": "Other congenital malformations of the digestive system",
+  "categoryCode": "Q45",
+  "category": "Other congenital malformations of digestive system",
+  "subcategory": "Q45.9",
+  "title": "Congenital malformation of digestive system, unspecified",
+  "inclusion": [
+    "Congenital: anomaly NOS of digestive system",
+    "Congenital: deformity NOS of digestive system"
+  ],
+  "exclusion": [
+    "inborn errors of metabolism",
+    "congenital: diaphragmatic hernia",
+    "congenital: hiatus hernia"
+  ],
+  "children": null
+}

@@ -1,0 +1,39 @@
+{
+    "icd10code": "I34.9",
+    "type": "subcategory",
+    "title": "Nonrheumatic mitral valve disorder, unspecified",
+    "chapter": "Diseases of the circulatory system",
+    "chapterCode": "IX",
+    "block": "Other forms of heart disease",
+    "blockCode": "I30-I52",
+    "category": "Nonrheumatic mitral valve disorders",
+    "categoryCode": "I34",
+    "subcategory": "I34.9",
+    "inclusion": null,
+    "exclusion": [
+        "certain conditions originating in the perinatal period",
+        "certain infectious and parasitic diseases",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "systemic connective tissue disorders",
+        "transient cerebral ischaemic attacks and related syndromes",
+        "mitral (valve): disease",
+        "mitral (valve): failure",
+        "mitral (valve): stenosis",
+        "when of unspecified cause but with mention of: diseases of aortic valve",
+        "when of unspecified cause but with mention of: mitral stenosis or obstruction",
+        "when specified as congenital",
+        "when specified as rheumatic"
+    ],
+    "symptoms": [
+        "chest pain",
+        "difficulty breathing",
+        "irregular heartbeat",
+        "fainting",
+        "fatigue"
+    ]
+}

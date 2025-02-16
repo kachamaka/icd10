@@ -1,0 +1,27 @@
+{
+    "icd10code": "Y12",
+    "type": "category",
+    "title": "Poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified, undetermined intent",
+    "chapter": "External causes of morbidity and mortality",
+    "chapterCode": "XX",
+    "block": "Event of undetermined intent",
+    "blockCode": "Y10-Y34",
+    "category": "Poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified, undetermined intent",
+    "categoryCode": "Y12",
+    "subcategory": "",
+    "inclusion": [
+        "cannabis (derivatives)",
+        "cocaine",
+        "codeine",
+        "heroin",
+        "lysergide [LSD]",
+        "mescaline",
+        "methadone",
+        "morphine",
+        "opium (alkaloids)"
+    ],
+    "exclusion": null,
+    "symptoms": [
+        "asymptomatic"
+    ]
+}

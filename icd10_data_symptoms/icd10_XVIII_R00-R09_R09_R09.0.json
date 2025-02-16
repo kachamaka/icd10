@@ -1,0 +1,33 @@
+{
+    "icd10code": "R09.0",
+    "type": "subcategory",
+    "title": "Asphyxia",
+    "chapter": "Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+    "chapterCode": "XVIII",
+    "block": "Symptoms and signs involving the circulatory and respiratory systems",
+    "blockCode": "R00-R09",
+    "category": "Other symptoms and signs involving the circulatory and respiratory systems",
+    "categoryCode": "R09",
+    "subcategory": "R09.0",
+    "inclusion": null,
+    "exclusion": [
+        "abnormal findings on antenatal screening of mother",
+        "certain conditions originating in the perinatal period",
+        "respiratory: distress (syndrome)(of): adult",
+        "respiratory: distress (syndrome)(of): newborn",
+        "respiratory: failure",
+        "respiratory: failure newborn",
+        "asphyxia (due to): birth",
+        "asphyxia (due to): carbon monoxide",
+        "asphyxia (due to): foreign body in respiratory tract",
+        "asphyxia (due to): intrauterine",
+        "asphyxia (due to): traumatic"
+    ],
+    "symptoms": [
+        "chest pain",
+        "tightness in chest",
+        "discomfort in chest",
+        "chest pressure",
+        "burning sensation in chest"
+    ]
+}

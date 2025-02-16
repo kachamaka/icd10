@@ -1,0 +1,28 @@
+{
+    "icd10code": "C75.2",
+    "type": "subcategory",
+    "title": "Malignant neoplasm: Craniopharyngeal duct",
+    "chapter": "Neoplasms",
+    "chapterCode": "II",
+    "block": "Malignant neoplasms of thyroid and other endocrine glands",
+    "blockCode": "C73-C75",
+    "category": "Malignant neoplasm of other endocrine glands and related structures",
+    "categoryCode": "C75",
+    "subcategory": "C75.2",
+    "inclusion": null,
+    "exclusion": [
+        "adrenal gland",
+        "endocrine pancreas",
+        "ovary",
+        "testis",
+        "thymus",
+        "thyroid gland"
+    ],
+    "symptoms": [
+        "persistent headache",
+        "changes in vision",
+        "constant facial pain",
+        "unexplained weight loss",
+        "behavioral changes"
+    ]
+}

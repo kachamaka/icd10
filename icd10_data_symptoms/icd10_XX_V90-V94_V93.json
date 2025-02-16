@@ -1,0 +1,44 @@
+{
+    "icd10code": "V93",
+    "type": "modifiedcategory",
+    "title": "Accident on board watercraft without accident to watercraft, not causing drowning and submersion : passenger ship",
+    "chapter": "External causes of morbidity and mortality",
+    "chapterCode": "XX",
+    "block": "Water transport accidents",
+    "blockCode": "V90-V94",
+    "category": "Accident on board watercraft without accident to watercraft, not causing drowning and submersion",
+    "categoryCode": "V93",
+    "subcategory": "",
+    "inclusion": [
+        "watercraft accidents in the course of recreational activities",
+        "accidental poisoning by gases or fumes on ship",
+        "atomic reactor malfunction in watercraft",
+        "crushed by falling object on ship",
+        "excessive heat in: boiler room",
+        "excessive heat in: engine room",
+        "excessive heat in: evaporator room",
+        "excessive heat in: fire room",
+        "explosion of boiler on steamship",
+        "fall from one level to another in watercraft",
+        "fall on stairs or ladders in watercraft",
+        "injuries in watercraft caused by: deck machinery",
+        "injuries in watercraft caused by: engine room machinery",
+        "injuries in watercraft caused by: galley machinery",
+        "injuries in watercraft caused by: laundry machinery",
+        "injuries in watercraft caused by: loading machinery",
+        "localized fire on ship",
+        "machinery accident in watercraft",
+        "Ferry-boat",
+        "Liner"
+    ],
+    "exclusion": [
+        "accidents to persons engaged in the maintenance or repair of transport equipment or vehicle (not in motion) unless injured by another vehicle in motion",
+        "accidents involving vehicles, but unrelated to the hazards associated with the means of transportation, e.g., injuries received in a fight on board ship; transport vehicle involved in a cataclysm; finger crushed when shutting car door",
+        "assault by crashing of motor vehicle",
+        "event of undetermined intent",
+        "intentional self-harm"
+    ],
+    "symptoms": [
+        "asymptomatic"
+    ]
+}

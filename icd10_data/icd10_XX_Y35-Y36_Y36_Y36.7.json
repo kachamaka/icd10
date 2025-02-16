@@ -1,0 +1,18 @@
+{
+  "type": "subcategory",
+  "chapterCode": "XX",
+  "chapter": "External causes of morbidity and mortality",
+  "blockCode": "Y35-Y36",
+  "block": "Legal intervention and operations of war",
+  "categoryCode": "Y36",
+  "category": "Operations of war",
+  "subcategory": "Y36.7",
+  "title": "War operations involving chemical weapons and other forms of unconventional warfare",
+  "inclusion": [
+    "injuries to military personnel and civilians caused by war and civil insurrection",
+    "Gases, fumes and chemicals",
+    "Lasers"
+  ],
+  "exclusion": null,
+  "children": null
+}

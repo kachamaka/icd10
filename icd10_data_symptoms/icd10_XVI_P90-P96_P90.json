@@ -1,0 +1,31 @@
+{
+    "icd10code": "P90",
+    "type": "category",
+    "title": "Convulsions of newborn",
+    "chapter": "Certain conditions originating in the perinatal period",
+    "chapterCode": "XVI",
+    "block": "Other disorders originating in the perinatal period",
+    "blockCode": "P90-P96",
+    "category": "Convulsions of newborn",
+    "categoryCode": "P90",
+    "subcategory": "",
+    "inclusion": [
+        "conditions that have their origin in the perinatal period even though death or morbidity occurs later"
+    ],
+    "exclusion": [
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "tetanus neonatorum",
+        "whooping cough",
+        "benign neonatal convulsions (familial)"
+    ],
+    "symptoms": [
+        "seizures",
+        "irritability",
+        "feeding difficulties",
+        "jitteriness",
+        "altered consciousness"
+    ]
+}

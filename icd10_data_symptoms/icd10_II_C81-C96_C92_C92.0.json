@@ -1,0 +1,36 @@
+{
+    "icd10code": "C92.0",
+    "type": "subcategory",
+    "title": "Acute myeloblastic leukaemia [AML]",
+    "chapter": "Neoplasms",
+    "chapterCode": "II",
+    "block": "Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",
+    "blockCode": "C81-C96",
+    "category": "Myeloid leukaemia",
+    "categoryCode": "C92",
+    "subcategory": "C92.0",
+    "inclusion": [
+        "leukaemia: granulocytic",
+        "leukaemia: myelogenous",
+        "Acute myeloblastic leukaemia, minimal differentiation",
+        "Acute myeloblastic leukaemia (with maturation)",
+        "AML1/ETO",
+        "AML M0",
+        "AML M1",
+        "AML M2",
+        "AML with t(8;21)",
+        "AML (without a FAB classification) NOS",
+        "Refractory anaemia with excess blasts in transformation"
+    ],
+    "exclusion": [
+        "secondary and unspecified neoplasm of lymph nodes",
+        "acute exacerbation of chronic myeloid leukaemia"
+    ],
+    "symptoms": [
+        "fatigue",
+        "fever",
+        "bone pain",
+        "bruising or bleeding easily",
+        "shortness of breath"
+    ]
+}

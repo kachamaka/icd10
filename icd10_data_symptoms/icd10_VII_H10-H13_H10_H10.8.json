@@ -1,0 +1,31 @@
+{
+    "icd10code": "H10.8",
+    "type": "subcategory",
+    "title": "Other conjunctivitis",
+    "chapter": "Diseases of the eye and adnexa",
+    "chapterCode": "VII",
+    "block": "Disorders of conjunctiva",
+    "blockCode": "H10-H13",
+    "category": "Conjunctivitis",
+    "categoryCode": "H10",
+    "subcategory": "H10.8",
+    "inclusion": null,
+    "exclusion": [
+        "certain conditions originating in the perinatal period",
+        "certain infectious and parasitic diseases",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "keratoconjunctivitis"
+    ],
+    "symptoms": [
+        "redness",
+        "itching",
+        "tearing",
+        "discharge",
+        "irritation"
+    ]
+}

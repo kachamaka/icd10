@@ -1,0 +1,24 @@
+{
+  "type": "subcategory",
+  "chapterCode": "XIV",
+  "chapter": "Diseases of the genitourinary system",
+  "blockCode": "N40-N51",
+  "block": "Diseases of male genital organs",
+  "categoryCode": "N50",
+  "category": "Other disorders of male genital organs",
+  "subcategory": "N50.9",
+  "title": "Disorder of male genital organs, unspecified",
+  "inclusion": null,
+  "exclusion": [
+    "certain conditions originating in the perinatal period",
+    "certain infectious and parasitic diseases",
+    "complications of pregnancy, childbirth and the puerperium",
+    "congenital malformations, deformations and chromosomal abnormalities",
+    "endocrine, nutritional and metabolic diseases",
+    "injury, poisoning and certain other consequences of external causes",
+    "neoplasms",
+    "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+    "torsion of testis"
+  ],
+  "children": null
+}

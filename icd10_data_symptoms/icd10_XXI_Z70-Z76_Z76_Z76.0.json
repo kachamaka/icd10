@@ -1,0 +1,24 @@
+{
+    "icd10code": "Z76.0",
+    "type": "subcategory",
+    "title": "Issue of repeat prescription",
+    "chapter": "Factors influencing health status and contact with health services",
+    "chapterCode": "XXI",
+    "block": "Persons encountering health services in other circumstances",
+    "blockCode": "Z70-Z76",
+    "category": "Persons encountering health services in other circumstances",
+    "categoryCode": "Z76",
+    "subcategory": "Z76.0",
+    "inclusion": [
+        "Issue of repeat prescription for: appliance",
+        "Issue of repeat prescription for: medicaments",
+        "Issue of repeat prescription for: spectacles"
+    ],
+    "exclusion": [
+        "issue of medical certificate",
+        "repeat prescription for contraceptive"
+    ],
+    "symptoms": [
+        "asymptomatic"
+    ]
+}

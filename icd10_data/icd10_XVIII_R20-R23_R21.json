@@ -1,0 +1,17 @@
+{
+  "type": "category",
+  "chapterCode": "XVIII",
+  "chapter": "Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+  "blockCode": "R20-R23",
+  "block": "Symptoms and signs involving the skin and subcutaneous tissue",
+  "categoryCode": "R21",
+  "category": "Rash and other nonspecific skin eruption",
+  "subcategory": "",
+  "title": "Rash and other nonspecific skin eruption",
+  "inclusion": null,
+  "exclusion": [
+    "abnormal findings on antenatal screening of mother",
+    "certain conditions originating in the perinatal period"
+  ],
+  "children": null
+}

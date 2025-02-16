@@ -1,0 +1,23 @@
+{
+  "type": "subcategory",
+  "chapterCode": "XI",
+  "chapter": "Diseases of the digestive system",
+  "blockCode": "K65-K67",
+  "block": "Diseases of peritoneum",
+  "categoryCode": "K67",
+  "category": "Disorders of peritoneum in infectious diseases classified elsewhere",
+  "subcategory": "K67.8",
+  "title": "Other disorders of peritoneum in infectious diseases classified elsewhere",
+  "inclusion": null,
+  "exclusion": [
+    "certain conditions originating in the perinatal period",
+    "certain infectious and parasitic diseases",
+    "complications of pregnancy, childbirth and the puerperium",
+    "congenital malformations, deformations and chromosomal abnormalities",
+    "endocrine, nutritional and metabolic diseases",
+    "injury, poisoning and certain other consequences of external causes",
+    "neoplasms",
+    "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified"
+  ],
+  "children": null
+}

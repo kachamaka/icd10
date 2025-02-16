@@ -1,0 +1,29 @@
+{
+    "icd10code": "F30.2",
+    "type": "subcategory",
+    "title": "Mania with psychotic symptoms",
+    "chapter": "Mental and behavioural disorders",
+    "chapterCode": "V",
+    "block": "Mood [affective] disorders",
+    "blockCode": "F30-F39",
+    "category": "Manic episode",
+    "categoryCode": "F30",
+    "subcategory": "F30.2",
+    "inclusion": [
+        "disorders of psychological development",
+        "bipolar disorder, single manic episode",
+        "Mania with: mood-congruent psychotic symptoms",
+        "Mania with: mood-incongruent psychotic symptoms",
+        "Manic stupor"
+    ],
+    "exclusion": [
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified"
+    ],
+    "symptoms": [
+        "elevated mood",
+        "increased energy",
+        "decreased need for sleep",
+        "pressured speech",
+        "grandiosity"
+    ]
+}

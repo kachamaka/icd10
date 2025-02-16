@@ -1,0 +1,23 @@
+{
+    "icd10code": "C81.3",
+    "type": "subcategory",
+    "title": "Lymphocyte depleted classical Hodgkin lymphoma",
+    "chapter": "Neoplasms",
+    "chapterCode": "II",
+    "block": "Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",
+    "blockCode": "C81-C96",
+    "category": "Hodgkin lymphoma",
+    "categoryCode": "C81",
+    "subcategory": "C81.3",
+    "inclusion": null,
+    "exclusion": [
+        "secondary and unspecified neoplasm of lymph nodes"
+    ],
+    "symptoms": [
+        "enlarged lymph nodes",
+        "night sweats",
+        "unexplained weight loss",
+        "itching",
+        "persistent fatigue"
+    ]
+}

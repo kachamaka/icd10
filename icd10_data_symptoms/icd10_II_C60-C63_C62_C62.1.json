@@ -1,0 +1,24 @@
+{
+    "icd10code": "C62.1",
+    "type": "subcategory",
+    "title": "Malignant neoplasm: Descended testis",
+    "chapter": "Neoplasms",
+    "chapterCode": "II",
+    "block": "Malignant neoplasms of male genital organs",
+    "blockCode": "C60-C63",
+    "category": "Malignant neoplasm of testis",
+    "categoryCode": "C62",
+    "subcategory": "C62.1",
+    "inclusion": [
+        "skin of male genital organs",
+        "Scrotal testis"
+    ],
+    "exclusion": null,
+    "symptoms": [
+        "blood in semen",
+        "pain during ejaculation",
+        "hard lump on testicle",
+        "testicular pain",
+        "testicular swelling"
+    ]
+}

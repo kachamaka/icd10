@@ -1,0 +1,25 @@
+{
+    "icd10code": "Q73.0",
+    "type": "subcategory",
+    "title": "Congenital absence of unspecified limb(s)",
+    "chapter": "Congenital malformations, deformations and chromosomal abnormalities",
+    "chapterCode": "XVII",
+    "block": "Congenital malformations and deformations of the musculoskeletal system",
+    "blockCode": "Q65-Q79",
+    "category": "Reduction defects of unspecified limb",
+    "categoryCode": "Q73",
+    "subcategory": "Q73.0",
+    "inclusion": [
+        "Amelia NOS"
+    ],
+    "exclusion": [
+        "inborn errors of metabolism"
+    ],
+    "symptoms": [
+        "limb deformity",
+        "absent limb",
+        "underdeveloped limb",
+        "asymmetrical limb",
+        "malformed limb"
+    ]
+}

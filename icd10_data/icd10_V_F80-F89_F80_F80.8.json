@@ -1,0 +1,19 @@
+{
+  "type": "subcategory",
+  "chapterCode": "V",
+  "chapter": "Mental and behavioural disorders",
+  "blockCode": "F80-F89",
+  "block": "Disorders of psychological development",
+  "categoryCode": "F80",
+  "category": "Specific developmental disorders of speech and language",
+  "subcategory": "F80.8",
+  "title": "Other developmental disorders of speech and language",
+  "inclusion": [
+    "disorders of psychological development",
+    "Lisping"
+  ],
+  "exclusion": [
+    "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified"
+  ],
+  "children": null
+}

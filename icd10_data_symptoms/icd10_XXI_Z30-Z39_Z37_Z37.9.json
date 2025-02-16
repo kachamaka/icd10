@@ -1,0 +1,20 @@
+{
+    "icd10code": "Z37.9",
+    "type": "subcategory",
+    "title": "Outcome of delivery, unspecified",
+    "chapter": "Factors influencing health status and contact with health services",
+    "chapterCode": "XXI",
+    "block": "Persons encountering health services in circumstances related to reproduction",
+    "blockCode": "Z30-Z39",
+    "category": "Outcome of delivery",
+    "categoryCode": "Z37",
+    "subcategory": "Z37.9",
+    "inclusion": [
+        "Multiple birth NOS",
+        "Single birth NOS"
+    ],
+    "exclusion": null,
+    "symptoms": [
+        "asymptomatic"
+    ]
+}

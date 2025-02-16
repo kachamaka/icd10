@@ -1,0 +1,30 @@
+{
+    "icd10code": "H67.8",
+    "type": "subcategory",
+    "title": "Otitis media in other diseases classified elsewhere",
+    "chapter": "Diseases of the ear and mastoid process",
+    "chapterCode": "VIII",
+    "block": "Diseases of middle ear and mastoid",
+    "blockCode": "H65-H75",
+    "category": "Otitis media in diseases classified elsewhere",
+    "categoryCode": "H67",
+    "subcategory": "H67.8",
+    "inclusion": null,
+    "exclusion": [
+        "certain conditions originating in the perinatal period",
+        "certain infectious and parasitic diseases",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified"
+    ],
+    "symptoms": [
+        "ear pain",
+        "reduced hearing",
+        "ear discharge",
+        "dizziness",
+        "fever"
+    ]
+}

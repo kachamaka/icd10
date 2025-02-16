@@ -1,0 +1,29 @@
+{
+    "icd10code": "E35.0",
+    "type": "subcategory",
+    "title": "Disorders of thyroid gland in diseases classified elsewhere",
+    "chapter": "Endocrine, nutritional and metabolic diseases",
+    "chapterCode": "IV",
+    "block": "Disorders of other endocrine glands",
+    "blockCode": "E20-E35",
+    "category": "Disorders of endocrine glands in diseases classified elsewhere",
+    "categoryCode": "E35",
+    "subcategory": "E35.0",
+    "inclusion": [
+        "Tuberculosis of thyroid gland"
+    ],
+    "exclusion": [
+        "complications of pregnancy, childbirth and the puerperium",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "transitory endocrine and metabolic disorders specific to fetus and newborn",
+        "galactorrhoea",
+        "gynaecomastia"
+    ],
+    "symptoms": [
+        "short stature",
+        "delayed physical development",
+        "sexual immaturity",
+        "decreased muscle mass",
+        "failure to thrive"
+    ]
+}

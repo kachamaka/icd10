@@ -1,0 +1,25 @@
+{
+    "icd10code": "Q39.2",
+    "type": "subcategory",
+    "title": "Congenital tracheo-oesophageal fistula without atresia",
+    "chapter": "Congenital malformations, deformations and chromosomal abnormalities",
+    "chapterCode": "XVII",
+    "block": "Other congenital malformations of the digestive system",
+    "blockCode": "Q38-Q45",
+    "category": "Congenital malformations of oesophagus",
+    "categoryCode": "Q39",
+    "subcategory": "Q39.2",
+    "inclusion": [
+        "Congenital tracheo-oesophageal fistula NOS"
+    ],
+    "exclusion": [
+        "inborn errors of metabolism"
+    ],
+    "symptoms": [
+        "difficulty swallowing",
+        "choking",
+        "respiratory infections",
+        "poor weight gain",
+        "reflux"
+    ]
+}

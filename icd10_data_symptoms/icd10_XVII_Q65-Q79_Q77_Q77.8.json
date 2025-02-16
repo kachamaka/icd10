@@ -1,0 +1,24 @@
+{
+    "icd10code": "Q77.8",
+    "type": "subcategory",
+    "title": "Other osteochondrodysplasia with defects of growth of tubular bones and spine",
+    "chapter": "Congenital malformations, deformations and chromosomal abnormalities",
+    "chapterCode": "XVII",
+    "block": "Congenital malformations and deformations of the musculoskeletal system",
+    "blockCode": "Q65-Q79",
+    "category": "Osteochondrodysplasia with defects of growth of tubular bones and spine",
+    "categoryCode": "Q77",
+    "subcategory": "Q77.8",
+    "inclusion": null,
+    "exclusion": [
+        "inborn errors of metabolism",
+        "mucopolysaccharidosis"
+    ],
+    "symptoms": [
+        "short stature",
+        "skeletal abnormalities",
+        "joint pain",
+        "delayed growth",
+        "restricted mobility"
+    ]
+}

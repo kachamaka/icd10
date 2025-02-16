@@ -1,0 +1,21 @@
+{
+  "type": "subcategory",
+  "chapterCode": "V",
+  "chapter": "Mental and behavioural disorders",
+  "blockCode": "F30-F39",
+  "block": "Mood [affective] disorders",
+  "categoryCode": "F34",
+  "category": "Persistent mood [affective] disorders",
+  "subcategory": "F34.0",
+  "title": "Cyclothymia",
+  "inclusion": [
+    "disorders of psychological development",
+    "Affective personality disorder",
+    "Cycloid personality",
+    "Cyclothymic personality"
+  ],
+  "exclusion": [
+    "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified"
+  ],
+  "children": null
+}

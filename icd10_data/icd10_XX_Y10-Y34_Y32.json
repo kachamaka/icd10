@@ -1,0 +1,14 @@
+{
+  "type": "category",
+  "chapterCode": "XX",
+  "chapter": "External causes of morbidity and mortality",
+  "blockCode": "Y10-Y34",
+  "block": "Event of undetermined intent",
+  "categoryCode": "Y32",
+  "category": "Crashing of motor vehicle, undetermined intent",
+  "subcategory": "",
+  "title": "Crashing of motor vehicle, undetermined intent",
+  "inclusion": null,
+  "exclusion": null,
+  "children": null
+}

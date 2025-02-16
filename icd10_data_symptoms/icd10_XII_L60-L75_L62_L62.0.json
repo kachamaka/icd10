@@ -1,0 +1,33 @@
+{
+    "icd10code": "L62.0",
+    "type": "subcategory",
+    "title": "Clubbed nail pachydermoperiostosis",
+    "chapter": "Diseases of the skin and subcutaneous tissue",
+    "chapterCode": "XII",
+    "block": "Disorders of skin appendages",
+    "blockCode": "L60-L75",
+    "category": "Nail disorders in diseases classified elsewhere",
+    "categoryCode": "L62",
+    "subcategory": "L62.0",
+    "inclusion": null,
+    "exclusion": [
+        "certain conditions originating in the perinatal period",
+        "certain infectious and parasitic diseases",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "lipomelanotic reticulosis",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "systemic connective tissue disorders",
+        "decubitus [pressure] ulcer and pressure area"
+    ],
+    "symptoms": [
+        "alopecia",
+        "broken hair shafts",
+        "scalp redness",
+        "itching",
+        "inflammation"
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "icd10code": "C83.8",
+    "type": "subcategory",
+    "title": "Other non-follicular lymphoma",
+    "chapter": "Neoplasms",
+    "chapterCode": "II",
+    "block": "Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",
+    "blockCode": "C81-C96",
+    "category": "Non-follicular lymphoma",
+    "categoryCode": "C83",
+    "subcategory": "C83.8",
+    "inclusion": [
+        "Primary effusion B-cell lymphoma",
+        "Intravascular large B-cell lymphoma",
+        "Lymphoid granulomatosis"
+    ],
+    "exclusion": [
+        "secondary and unspecified neoplasm of lymph nodes",
+        "mediastinal (thymic) large B-cell lymphoma",
+        "T-cell rich B-cell lymphoma"
+    ],
+    "symptoms": [
+        "unexplained fever",
+        "night sweats",
+        "weight loss",
+        "enlarged lymph nodes",
+        "fatigue"
+    ]
+}

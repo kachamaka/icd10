@@ -1,0 +1,26 @@
+{
+    "icd10code": "Z04.9",
+    "type": "subcategory",
+    "title": "Examination and observation for unspecified reason",
+    "chapter": "Factors influencing health status and contact with health services",
+    "chapterCode": "XXI",
+    "block": "Persons encountering health services for examination and investigation",
+    "blockCode": "Z00-Z13",
+    "category": "Examination and observation for other reasons",
+    "categoryCode": "Z04",
+    "subcategory": "Z04.9",
+    "inclusion": [
+        "examination for medicolegal reasons",
+        "Observation NOS"
+    ],
+    "exclusion": [
+        "examinations related to pregnancy and reproduction"
+    ],
+    "symptoms": [
+        "evaluation requested",
+        "observation signs",
+        "general worry",
+        "screening concerns",
+        "nonspecific findings"
+    ]
+}

@@ -1,0 +1,32 @@
+{
+  "type": "category",
+  "chapterCode": "IV",
+  "chapter": "Endocrine, nutritional and metabolic diseases",
+  "blockCode": "E70-E90",
+  "block": "Metabolic disorders",
+  "categoryCode": "E86",
+  "category": "Volume depletion",
+  "subcategory": "",
+  "title": "Volume depletion",
+  "inclusion": [
+    "Dehydration",
+    "Depletion of volume of plasma or extracellular fluid",
+    "Hypovolaemia"
+  ],
+  "exclusion": [
+    "complications of pregnancy, childbirth and the puerperium",
+    "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+    "transitory endocrine and metabolic disorders specific to fetus and newborn",
+    "androgen resistance syndrome",
+    "congenital adrenal hyperplasia",
+    "Ehlers-Danlos syndrome",
+    "haemolytic anaemias due to enzyme disorders",
+    "Marfan syndrome",
+    "5-alpha-reductase deficiency",
+    "dehydration of newborn",
+    "hypovolaemic shock: NOS",
+    "hypovolaemic shock: postoperative",
+    "hypovolaemic shock: traumatic"
+  ],
+  "children": null
+}

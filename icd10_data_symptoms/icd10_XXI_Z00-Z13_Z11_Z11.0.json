@@ -1,0 +1,19 @@
+{
+    "icd10code": "Z11.0",
+    "type": "subcategory",
+    "title": "Special screening examination for intestinal infectious diseases",
+    "chapter": "Factors influencing health status and contact with health services",
+    "chapterCode": "XXI",
+    "block": "Persons encountering health services for examination and investigation",
+    "blockCode": "Z00-Z13",
+    "category": "Special screening examination for infectious and parasitic diseases",
+    "categoryCode": "Z11",
+    "subcategory": "Z11.0",
+    "inclusion": null,
+    "exclusion": [
+        "examinations related to pregnancy and reproduction"
+    ],
+    "symptoms": [
+        "asymptomatic"
+    ]
+}

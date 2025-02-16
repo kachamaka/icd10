@@ -1,0 +1,32 @@
+{
+    "icd10code": "P78.1",
+    "type": "subcategory",
+    "title": "Other neonatal peritonitis",
+    "chapter": "Certain conditions originating in the perinatal period",
+    "chapterCode": "XVI",
+    "block": "Digestive system disorders of fetus and newborn",
+    "blockCode": "P75-P78",
+    "category": "Other perinatal digestive system disorders",
+    "categoryCode": "P78",
+    "subcategory": "P78.1",
+    "inclusion": [
+        "conditions that have their origin in the perinatal period even though death or morbidity occurs later",
+        "Neonatal peritonitis NOS"
+    ],
+    "exclusion": [
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "tetanus neonatorum",
+        "whooping cough",
+        "neonatal hypoparathyroidism"
+    ],
+    "symptoms": [
+        "abdominal distension",
+        "vomiting",
+        "feeding intolerance",
+        "lethargy",
+        "bloody stools"
+    ]
+}

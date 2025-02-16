@@ -1,0 +1,32 @@
+{
+    "icd10code": "H47.2",
+    "type": "subcategory",
+    "title": "Optic atrophy",
+    "chapter": "Diseases of the eye and adnexa",
+    "chapterCode": "VII",
+    "block": "Disorders of optic nerve and visual pathways",
+    "blockCode": "H46-H48",
+    "category": "Other disorders of optic [2nd] nerve and visual pathways",
+    "categoryCode": "H47",
+    "subcategory": "H47.2",
+    "inclusion": [
+        "Temporal pallor of optic disc"
+    ],
+    "exclusion": [
+        "certain conditions originating in the perinatal period",
+        "certain infectious and parasitic diseases",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified"
+    ],
+    "symptoms": [
+        "visual disturbances",
+        "blurred vision",
+        "eye pain",
+        "optic disc abnormalities",
+        "visual field defects"
+    ]
+}

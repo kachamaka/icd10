@@ -1,0 +1,17 @@
+{
+  "type": "subcategory",
+  "chapterCode": "XVII",
+  "chapter": "Congenital malformations, deformations and chromosomal abnormalities",
+  "blockCode": "Q30-Q34",
+  "block": "Congenital malformations of the respiratory system",
+  "categoryCode": "Q30",
+  "category": "Congenital malformations of nose",
+  "subcategory": "Q30.3",
+  "title": "Congenital perforated nasal septum",
+  "inclusion": null,
+  "exclusion": [
+    "inborn errors of metabolism",
+    "congenital deviation of nasal septum"
+  ],
+  "children": null
+}

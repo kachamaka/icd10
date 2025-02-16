@@ -1,0 +1,25 @@
+{
+  "type": "subcategory",
+  "chapterCode": "XXI",
+  "chapter": "Factors influencing health status and contact with health services",
+  "blockCode": "Z80-Z99",
+  "block": "Persons with potential health hazards related to family and personal history and certain conditions influencing health status",
+  "categoryCode": "Z91",
+  "category": "Personal history of risk-factors, not elsewhere classified",
+  "subcategory": "Z91.8",
+  "title": "Personal history of other specified risk-factors, not elsewhere classified",
+  "inclusion": [
+    "Abuse NOS",
+    "Maltreatment NOS"
+  ],
+  "exclusion": [
+    "follow-up examination",
+    "follow-up medical care and convalescence",
+    "when family or personal history is the reason for special screening or other examination or investigation",
+    "when the possibility that the fetus might be affected is the reason for observation or action during pregnancy",
+    "exposure to pollution and other problems related to physical environment",
+    "occupational exposure to risk-factors",
+    "personal history of psychoactive substance abuse"
+  ],
+  "children": null
+}

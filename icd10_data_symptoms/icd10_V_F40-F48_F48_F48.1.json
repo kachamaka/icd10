@@ -1,0 +1,26 @@
+{
+    "icd10code": "F48.1",
+    "type": "subcategory",
+    "title": "Depersonalization-derealization syndrome",
+    "chapter": "Mental and behavioural disorders",
+    "chapterCode": "V",
+    "block": "Neurotic, stress-related and somatoform disorders",
+    "blockCode": "F40-F48",
+    "category": "Other neurotic disorders",
+    "categoryCode": "F48",
+    "subcategory": "F48.1",
+    "inclusion": [
+        "disorders of psychological development"
+    ],
+    "exclusion": [
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "when associated with conduct disorder in F91.-"
+    ],
+    "symptoms": [
+        "fatigue",
+        "muscle pain",
+        "cognitive difficulties",
+        "headaches",
+        "unrefreshing sleep"
+    ]
+}

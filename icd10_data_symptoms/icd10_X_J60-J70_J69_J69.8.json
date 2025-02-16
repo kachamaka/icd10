@@ -1,0 +1,34 @@
+{
+    "icd10code": "J69.8",
+    "type": "subcategory",
+    "title": "Pneumonitis due to other solids and liquids",
+    "chapter": "Diseases of the respiratory system",
+    "chapterCode": "X",
+    "block": "Lung diseases due to external agents",
+    "blockCode": "J60-J70",
+    "category": "Pneumonitis due to solids and liquids",
+    "categoryCode": "J69",
+    "subcategory": "J69.8",
+    "inclusion": [
+        "Pneumonitis due to aspiration of blood"
+    ],
+    "exclusion": [
+        "certain conditions originating in the perinatal period",
+        "certain infectious and parasitic diseases",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "asthma classified to J45.-",
+        "neonatal aspiration syndromes"
+    ],
+    "symptoms": [
+        "cough",
+        "dyspnea",
+        "fever",
+        "chest pain",
+        "hypoxia"
+    ]
+}

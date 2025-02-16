@@ -1,0 +1,31 @@
+{
+    "icd10code": "T95.1",
+    "type": "subcategory",
+    "title": "Sequelae of burn, corrosion and frostbite of trunk",
+    "chapter": "Injury, poisoning and certain other consequences of external causes",
+    "chapterCode": "XIX",
+    "block": "Sequelae of injuries, of poisoning and of other consequences of external causes",
+    "blockCode": "T90-T98",
+    "category": "Sequelae of burns, corrosions and frostbite",
+    "categoryCode": "T95",
+    "subcategory": "T95.1",
+    "inclusion": [
+        "Sequelae of injury classifiable to T21.-, T33.2-T33.3, T34.2-T34.3 and T35.3"
+    ],
+    "exclusion": [
+        "birth trauma",
+        "obstetric trauma",
+        "malunion of fracture",
+        "nonunion of fracture [pseudarthrosis]",
+        "pathological fracture",
+        "pathological fracture with osteoporosis",
+        "stress fracture"
+    ],
+    "symptoms": [
+        "scarring",
+        "stiffness",
+        "pain",
+        "restricted movement",
+        "discoloration"
+    ]
+}

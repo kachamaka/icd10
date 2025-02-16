@@ -1,0 +1,31 @@
+{
+    "icd10code": "P27.0",
+    "type": "subcategory",
+    "title": "Wilson-Mikity syndrome",
+    "chapter": "Certain conditions originating in the perinatal period",
+    "chapterCode": "XVI",
+    "block": "Respiratory and cardiovascular disorders specific to the perinatal period",
+    "blockCode": "P20-P29",
+    "category": "Chronic respiratory disease originating in the perinatal period",
+    "categoryCode": "P27",
+    "subcategory": "P27.0",
+    "inclusion": [
+        "conditions that have their origin in the perinatal period even though death or morbidity occurs later",
+        "Pulmonary dysmaturity"
+    ],
+    "exclusion": [
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "tetanus neonatorum",
+        "whooping cough"
+    ],
+    "symptoms": [
+        "respiratory distress",
+        "rapid breathing",
+        "grunting",
+        "nasal flaring",
+        "cyanosis"
+    ]
+}

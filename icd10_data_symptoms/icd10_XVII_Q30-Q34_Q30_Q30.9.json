@@ -1,0 +1,24 @@
+{
+    "icd10code": "Q30.9",
+    "type": "subcategory",
+    "title": "Congenital malformation of nose, unspecified",
+    "chapter": "Congenital malformations, deformations and chromosomal abnormalities",
+    "chapterCode": "XVII",
+    "block": "Congenital malformations of the respiratory system",
+    "blockCode": "Q30-Q34",
+    "category": "Congenital malformations of nose",
+    "categoryCode": "Q30",
+    "subcategory": "Q30.9",
+    "inclusion": null,
+    "exclusion": [
+        "inborn errors of metabolism",
+        "congenital deviation of nasal septum"
+    ],
+    "symptoms": [
+        "nasal blockage",
+        "nasal discharge",
+        "facial pain",
+        "difficulty breathing",
+        "reduced sense of smell"
+    ]
+}

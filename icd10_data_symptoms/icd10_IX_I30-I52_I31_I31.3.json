@@ -1,0 +1,38 @@
+{
+    "icd10code": "I31.3",
+    "type": "subcategory",
+    "title": "Pericardial effusion (noninflammatory)",
+    "chapter": "Diseases of the circulatory system",
+    "chapterCode": "IX",
+    "block": "Other forms of heart disease",
+    "blockCode": "I30-I52",
+    "category": "Other diseases of pericardium",
+    "categoryCode": "I31",
+    "subcategory": "I31.3",
+    "inclusion": [
+        "Chylopericardium"
+    ],
+    "exclusion": [
+        "certain conditions originating in the perinatal period",
+        "certain infectious and parasitic diseases",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "systemic connective tissue disorders",
+        "transient cerebral ischaemic attacks and related syndromes",
+        "rheumatoid carditis",
+        "when not specified as rheumatic",
+        "nonspecific low blood pressure reading NOS",
+        "sequelae of the listed conditions"
+    ],
+    "symptoms": [
+        "chest discomfort",
+        "difficulty breathing",
+        "irregular heartbeat",
+        "fainting",
+        "fatigue"
+    ]
+}

@@ -1,0 +1,37 @@
+{
+    "icd10code": "J11.0",
+    "type": "subcategory",
+    "title": "Influenza with pneumonia, virus not identified",
+    "chapter": "Diseases of the respiratory system",
+    "chapterCode": "X",
+    "block": "Influenza and pneumonia",
+    "blockCode": "J09-J18",
+    "category": "Influenza, virus not identified",
+    "categoryCode": "J11",
+    "subcategory": "J11.0",
+    "inclusion": [
+        "influenza specific virus not stated to have been identified",
+        "viral influenza specific virus not stated to have been identified",
+        "Influenzal (broncho)pneumonia, unspecified or specific virus not identified"
+    ],
+    "exclusion": [
+        "certain conditions originating in the perinatal period",
+        "certain infectious and parasitic diseases",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "Haemophilus influenzae [H. influenzae]: infection NOS",
+        "Haemophilus influenzae [H. influenzae]: meningitis",
+        "Haemophilus influenzae [H. influenzae]: pneumonia"
+    ],
+    "symptoms": [
+        "fever",
+        "cough",
+        "sore throat",
+        "fatigue",
+        "nasal congestion"
+    ]
+}

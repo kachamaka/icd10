@@ -1,0 +1,37 @@
+{
+    "icd10code": "T78.2",
+    "type": "subcategory",
+    "title": "Anaphylactic shock, unspecified",
+    "chapter": "Injury, poisoning and certain other consequences of external causes",
+    "chapterCode": "XIX",
+    "block": "Other and unspecified effects of external causes",
+    "blockCode": "T66-T78",
+    "category": "Adverse effects, not elsewhere classified",
+    "categoryCode": "T78",
+    "subcategory": "T78.2",
+    "inclusion": [
+        "Allergic shock NOS",
+        "Anaphylactic reaction NOS",
+        "Anaphylaxis NOS"
+    ],
+    "exclusion": [
+        "birth trauma",
+        "obstetric trauma",
+        "malunion of fracture",
+        "nonunion of fracture [pseudarthrosis]",
+        "pathological fracture",
+        "pathological fracture with osteoporosis",
+        "stress fracture",
+        "polycythaemia due to high altitude",
+        "anaphylactic shock due to: adverse effect of correct medicinal substance properly administered",
+        "anaphylactic shock due to: adverse food reaction",
+        "anaphylactic shock due to: serum"
+    ],
+    "symptoms": [
+        "allergic reaction",
+        "skin rash",
+        "hives",
+        "shortness of breath",
+        "swelling"
+    ]
+}

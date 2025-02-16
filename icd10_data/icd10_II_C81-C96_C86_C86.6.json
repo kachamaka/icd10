@@ -1,0 +1,22 @@
+{
+  "type": "subcategory",
+  "chapterCode": "II",
+  "chapter": "Neoplasms",
+  "blockCode": "C81-C96",
+  "block": "Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",
+  "categoryCode": "C86",
+  "category": "Other specified types of T/NK-cell lymphoma",
+  "subcategory": "C86.6",
+  "title": "Primary cutaneous CD30-positive T-cell proliferations",
+  "inclusion": [
+    "Lymphomatoid papulosis",
+    "Primary cutaneous anaplastic large-cell lymphoma",
+    "Primary cutaneous CD30-positive large T-cell lymphoma"
+  ],
+  "exclusion": [
+    "secondary and unspecified neoplasm of lymph nodes",
+    "anaplastic large cell lymphoma, ALK negative",
+    "anaplastic large cell lymphoma, ALK positive"
+  ],
+  "children": null
+}

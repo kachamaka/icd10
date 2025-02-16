@@ -1,0 +1,33 @@
+{
+    "icd10code": "N51.2",
+    "type": "subcategory",
+    "title": "Balanitis in diseases classified elsewhere",
+    "chapter": "Diseases of the genitourinary system",
+    "chapterCode": "XIV",
+    "block": "Diseases of male genital organs",
+    "blockCode": "N40-N51",
+    "category": "Disorders of male genital organs in diseases classified elsewhere",
+    "categoryCode": "N51",
+    "subcategory": "N51.2",
+    "inclusion": [
+        "Balanitis: amoebic",
+        "Balanitis: candidal"
+    ],
+    "exclusion": [
+        "certain conditions originating in the perinatal period",
+        "certain infectious and parasitic diseases",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified"
+    ],
+    "symptoms": [
+        "painful urination",
+        "pelvic pain",
+        "fever",
+        "urinary frequency",
+        "discharge"
+    ]
+}

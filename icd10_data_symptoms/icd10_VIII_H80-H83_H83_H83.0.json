@@ -1,0 +1,30 @@
+{
+    "icd10code": "H83.0",
+    "type": "subcategory",
+    "title": "Labyrinthitis",
+    "chapter": "Diseases of the ear and mastoid process",
+    "chapterCode": "VIII",
+    "block": "Diseases of inner ear",
+    "blockCode": "H80-H83",
+    "category": "Other diseases of inner ear",
+    "categoryCode": "H83",
+    "subcategory": "H83.0",
+    "inclusion": null,
+    "exclusion": [
+        "certain conditions originating in the perinatal period",
+        "certain infectious and parasitic diseases",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified"
+    ],
+    "symptoms": [
+        "dizziness",
+        "vertigo",
+        "hearing loss",
+        "tinnitus",
+        "balance disturbances"
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "icd10code": "F90.8",
+    "type": "subcategory",
+    "title": "Other hyperkinetic disorders",
+    "chapter": "Mental and behavioural disorders",
+    "chapterCode": "V",
+    "block": "Behavioural and emotional disorders with onset usually occurring in childhood and adolescence",
+    "blockCode": "F90-F98",
+    "category": "Hyperkinetic disorders",
+    "categoryCode": "F90",
+    "subcategory": "F90.8",
+    "inclusion": [
+        "disorders of psychological development"
+    ],
+    "exclusion": [
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "anxiety disorders",
+        "mood [affective] disorders",
+        "pervasive developmental disorders",
+        "schizophrenia"
+    ],
+    "symptoms": [
+        "impulsivity",
+        "hyperactivity",
+        "difficulty organizing tasks",
+        "inattentiveness",
+        "restlessness"
+    ]
+}

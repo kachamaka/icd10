@@ -1,0 +1,36 @@
+{
+    "icd10code": "Q82.8",
+    "type": "subcategory",
+    "title": "Other specified congenital malformations of skin",
+    "chapter": "Congenital malformations, deformations and chromosomal abnormalities",
+    "chapterCode": "XVII",
+    "block": "Other congenital malformations",
+    "blockCode": "Q80-Q89",
+    "category": "Other congenital malformations of skin",
+    "categoryCode": "Q82",
+    "subcategory": "Q82.8",
+    "inclusion": [
+        "Abnormal palmar creases",
+        "Accessory skin tags",
+        "Benign familial pemphigus [Hailey-Hailey]",
+        "Cutis laxa (hyperelastica)",
+        "Dermatoglyphic anomalies",
+        "Inherited keratosis palmaris et plantaris",
+        "Keratosis follicularis [Darier-White]"
+    ],
+    "exclusion": [
+        "inborn errors of metabolism",
+        "acrodermatitis enteropathica",
+        "congenital erythropoietic porphyria",
+        "pilonidal cyst or sinus",
+        "Sturge-Weber(-Dimitri) syndrome",
+        "Ehlers-Danlos syndrome"
+    ],
+    "symptoms": [
+        "skin fragility",
+        "hyperpigmentation",
+        "blistering",
+        "scarring",
+        "abnormal skin texture"
+    ]
+}

@@ -1,0 +1,23 @@
+{
+  "type": "subcategory",
+  "chapterCode": "II",
+  "chapter": "Neoplasms",
+  "blockCode": "D10-D36",
+  "block": "Benign neoplasms",
+  "categoryCode": "D16",
+  "category": "Benign neoplasm of bone and articular cartilage",
+  "subcategory": "D16.6",
+  "title": "Benign neoplasm: Vertebral column",
+  "inclusion": [
+    "morphology codes with behaviour code /0"
+  ],
+  "exclusion": [
+    "connective tissue of: ear",
+    "connective tissue of: eyelid",
+    "connective tissue of: larynx",
+    "connective tissue of: nose",
+    "synovia",
+    "sacrum and coccyx"
+  ],
+  "children": null
+}

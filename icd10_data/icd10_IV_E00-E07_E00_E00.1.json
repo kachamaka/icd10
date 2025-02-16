@@ -1,0 +1,23 @@
+{
+  "type": "subcategory",
+  "chapterCode": "IV",
+  "chapter": "Endocrine, nutritional and metabolic diseases",
+  "blockCode": "E00-E07",
+  "block": "Disorders of thyroid gland",
+  "categoryCode": "E00",
+  "category": "Congenital iodine-deficiency syndrome",
+  "subcategory": "E00.1",
+  "title": "Congenital iodine-deficiency syndrome, myxoedematous type",
+  "inclusion": [
+    "endemic conditions associated with environmental iodine deficiency either directly or as a consequence of maternal iodine deficiency. Some of the conditions have no current hypothyroidism but are the consequence of inadequate thyroid hormone secretion in the developing fetus. Environmental goitrogens may be associated.",
+    "Endemic cretinism: hypothyroid",
+    "Endemic cretinism: myxoedematous type"
+  ],
+  "exclusion": [
+    "complications of pregnancy, childbirth and the puerperium",
+    "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+    "transitory endocrine and metabolic disorders specific to fetus and newborn",
+    "adiposogenital dystrophy"
+  ],
+  "children": null
+}

@@ -1,0 +1,34 @@
+{
+    "icd10code": "G83.4",
+    "type": "subcategory",
+    "title": "Cauda equina syndrome",
+    "chapter": "Diseases of the nervous system",
+    "chapterCode": "VI",
+    "block": "Cerebral palsy and other paralytic syndromes",
+    "blockCode": "G80-G83",
+    "category": "Other paralytic syndromes",
+    "categoryCode": "G83",
+    "subcategory": "G83.4",
+    "inclusion": [
+        "paralysis (complete)(incomplete), except as in G80-G82",
+        "Neurogenic bladder due to cauda equina syndrome"
+    ],
+    "exclusion": [
+        "certain conditions originating in the perinatal period",
+        "certain infectious and parasitic diseases",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "cord bladder NOS"
+    ],
+    "symptoms": [
+        "muscle weakness",
+        "decreased coordination",
+        "difficulty walking",
+        "limb numbness",
+        "spasticity"
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "icd10code": "C04.1",
+    "type": "subcategory",
+    "title": "Malignant neoplasm: Lateral floor of mouth",
+    "chapter": "Neoplasms",
+    "chapterCode": "II",
+    "block": "Malignant neoplasms of lip, oral cavity and pharynx",
+    "blockCode": "C00-C14",
+    "category": "Malignant neoplasm of floor of mouth",
+    "categoryCode": "C04",
+    "subcategory": "C04.1",
+    "inclusion": null,
+    "exclusion": null,
+    "symptoms": [
+        "difficulty chewing",
+        "mouth pain",
+        "persistent mouth sore",
+        "loose teeth",
+        "unexplained weight loss"
+    ]
+}

@@ -1,0 +1,19 @@
+{
+  "type": "subcategory",
+  "chapterCode": "XXI",
+  "chapter": "Factors influencing health status and contact with health services",
+  "blockCode": "Z40-Z54",
+  "block": "Persons encountering health services for specific procedures and health care",
+  "categoryCode": "Z47",
+  "category": "Other orthopaedic follow-up care",
+  "subcategory": "Z47.9",
+  "title": "Orthopaedic follow-up care, unspecified",
+  "inclusion": null,
+  "exclusion": [
+    "follow-up examination for medical surveillance after treatment",
+    "care involving rehabilitation procedures",
+    "complication of internal orthopaedic devices, implants and grafts",
+    "follow-up examination after treatment of fracture"
+  ],
+  "children": null
+}

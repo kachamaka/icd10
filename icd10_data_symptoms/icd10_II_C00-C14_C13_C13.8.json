@@ -1,0 +1,23 @@
+{
+    "icd10code": "C13.8",
+    "type": "subcategory",
+    "title": "Malignant neoplasm: Overlapping lesion of hypopharynx",
+    "chapter": "Neoplasms",
+    "chapterCode": "II",
+    "block": "Malignant neoplasms of lip, oral cavity and pharynx",
+    "blockCode": "C00-C14",
+    "category": "Malignant neoplasm of hypopharynx",
+    "categoryCode": "C13",
+    "subcategory": "C13.8",
+    "inclusion": null,
+    "exclusion": [
+        "piriform sinus"
+    ],
+    "symptoms": [
+        "difficulty swallowing",
+        "sore throat",
+        "unintentional weight loss",
+        "ear pain",
+        "presence of neck mass"
+    ]
+}

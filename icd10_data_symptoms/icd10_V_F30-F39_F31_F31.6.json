@@ -1,0 +1,32 @@
+{
+    "icd10code": "F31.6",
+    "type": "subcategory",
+    "title": "Bipolar affective disorder, current episode mixed",
+    "chapter": "Mental and behavioural disorders",
+    "chapterCode": "V",
+    "block": "Mood [affective] disorders",
+    "blockCode": "F30-F39",
+    "category": "Bipolar affective disorder",
+    "categoryCode": "F31",
+    "subcategory": "F31.6",
+    "inclusion": [
+        "disorders of psychological development",
+        "manic depression",
+        "manic-depressive: illness",
+        "manic-depressive: psychosis",
+        "manic-depressive: reaction"
+    ],
+    "exclusion": [
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "bipolar disorder, single manic episode",
+        "cyclothymia",
+        "single mixed affective episode"
+    ],
+    "symptoms": [
+        "increased energy",
+        "decreased need for sleep",
+        "distractibility",
+        "inflated self-esteem",
+        "excessive involvement in risky activities"
+    ]
+}

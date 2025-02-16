@@ -1,0 +1,32 @@
+{
+    "icd10code": "E31.0",
+    "type": "subcategory",
+    "title": "Autoimmune polyglandular failure",
+    "chapter": "Endocrine, nutritional and metabolic diseases",
+    "chapterCode": "IV",
+    "block": "Disorders of other endocrine glands",
+    "blockCode": "E20-E35",
+    "category": "Polyglandular dysfunction",
+    "categoryCode": "E31",
+    "subcategory": "E31.0",
+    "inclusion": [
+        "Schmidt syndrome"
+    ],
+    "exclusion": [
+        "complications of pregnancy, childbirth and the puerperium",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "transitory endocrine and metabolic disorders specific to fetus and newborn",
+        "galactorrhoea",
+        "gynaecomastia",
+        "adrenoleukodystrophy [Addison-Schilder]",
+        "Waterhouse-Friderichsen syndrome",
+        "menopausal and female climacteric states"
+    ],
+    "symptoms": [
+        "fatigue",
+        "muscle weakness",
+        "low blood pressure",
+        "sugar cravings",
+        "unexplained weight loss"
+    ]
+}

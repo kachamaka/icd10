@@ -1,0 +1,25 @@
+{
+    "icd10code": "D19.9",
+    "type": "subcategory",
+    "title": "Benign neoplasm: Mesothelial tissue, unspecified",
+    "chapter": "Neoplasms",
+    "chapterCode": "II",
+    "block": "Benign neoplasms",
+    "blockCode": "D10-D36",
+    "category": "Benign neoplasm of mesothelial tissue",
+    "categoryCode": "D19",
+    "subcategory": "D19.9",
+    "inclusion": [
+        "morphology codes with behaviour code /0",
+        "morphology code M905 with behaviour code /0",
+        "Benign mesothelioma NOS"
+    ],
+    "exclusion": null,
+    "symptoms": [
+        "abdominal pain",
+        "loss of appetite",
+        "nausea",
+        "weight loss",
+        "fatigue"
+    ]
+}

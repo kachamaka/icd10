@@ -1,0 +1,29 @@
+{
+    "icd10code": "D10.4",
+    "type": "subcategory",
+    "title": "Benign neoplasm: Tonsil",
+    "chapter": "Neoplasms",
+    "chapterCode": "II",
+    "block": "Benign neoplasms",
+    "blockCode": "D10-D36",
+    "category": "Benign neoplasm of mouth and pharynx",
+    "categoryCode": "D10",
+    "subcategory": "D10.4",
+    "inclusion": [
+        "morphology codes with behaviour code /0",
+        "Tonsil (faucial)(palatine)"
+    ],
+    "exclusion": [
+        "lingual tonsil",
+        "pharyngeal tonsil",
+        "tonsillar: fossa",
+        "tonsillar: pillars"
+    ],
+    "symptoms": [
+        "difficulty swallowing",
+        "sore throat",
+        "voice changes",
+        "persistent cough",
+        "lump in the neck"
+    ]
+}

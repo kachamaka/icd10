@@ -1,0 +1,36 @@
+{
+    "icd10code": "N16.3",
+    "type": "subcategory",
+    "title": "Renal tubulo-interstitial disorders in metabolic diseases",
+    "chapter": "Diseases of the genitourinary system",
+    "chapterCode": "XIV",
+    "block": "Renal tubulo-interstitial diseases",
+    "blockCode": "N10-N16",
+    "category": "Renal tubulo-interstitial disorders in diseases classified elsewhere",
+    "categoryCode": "N16",
+    "subcategory": "N16.3",
+    "inclusion": [
+        "pyelonephritis",
+        "Renal tubulo-interstitial disorders in: cystinosis",
+        "Renal tubulo-interstitial disorders in: glycogen storage disease",
+        "Renal tubulo-interstitial disorders in: Wilson disease"
+    ],
+    "exclusion": [
+        "certain conditions originating in the perinatal period",
+        "certain infectious and parasitic diseases",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "pyeloureteritis cystica"
+    ],
+    "symptoms": [
+        "fatigue",
+        "high blood pressure",
+        "proteinuria",
+        "hematuria",
+        "fluid retention"
+    ]
+}

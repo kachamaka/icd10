@@ -1,0 +1,25 @@
+{
+    "icd10code": "R43.0",
+    "type": "subcategory",
+    "title": "Anosmia",
+    "chapter": "Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+    "chapterCode": "XVIII",
+    "block": "Symptoms and signs involving cognition, perception, emotional state and behaviour",
+    "blockCode": "R40-R46",
+    "category": "Disturbances of smell and taste",
+    "categoryCode": "R43",
+    "subcategory": "R43.0",
+    "inclusion": null,
+    "exclusion": [
+        "abnormal findings on antenatal screening of mother",
+        "certain conditions originating in the perinatal period",
+        "those constituting part of a pattern of mental disorder"
+    ],
+    "symptoms": [
+        "loss of taste",
+        "impaired taste perception",
+        "abnormal taste",
+        "diminished taste sensitivity",
+        "distortion of taste sensation"
+    ]
+}

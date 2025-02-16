@@ -1,0 +1,18 @@
+{
+  "type": "subcategory",
+  "chapterCode": "II",
+  "chapter": "Neoplasms",
+  "blockCode": "C60-C63",
+  "block": "Malignant neoplasms of male genital organs",
+  "categoryCode": "C62",
+  "category": "Malignant neoplasm of testis",
+  "subcategory": "C62.0",
+  "title": "Malignant neoplasm: Undescended testis",
+  "inclusion": [
+    "skin of male genital organs",
+    "Ectopic testis [site of neoplasm]",
+    "Retained testis [site of neoplasm]"
+  ],
+  "exclusion": null,
+  "children": null
+}

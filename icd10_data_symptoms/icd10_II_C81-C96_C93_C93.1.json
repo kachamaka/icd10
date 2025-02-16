@@ -1,0 +1,29 @@
+{
+    "icd10code": "C93.1",
+    "type": "subcategory",
+    "title": "Chronic myelomonocytic leukaemia",
+    "chapter": "Neoplasms",
+    "chapterCode": "II",
+    "block": "Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",
+    "blockCode": "C81-C96",
+    "category": "Monocytic leukaemia",
+    "categoryCode": "C93",
+    "subcategory": "C93.1",
+    "inclusion": [
+        "monocytoid leukaemia",
+        "Chronic monocytic leukaemia",
+        "CMML-1",
+        "CMML-2",
+        "CMML with eosinophilia"
+    ],
+    "exclusion": [
+        "secondary and unspecified neoplasm of lymph nodes"
+    ],
+    "symptoms": [
+        "fatigue",
+        "fevers and chills",
+        "body aches",
+        "poor appetite",
+        "weight loss"
+    ]
+}

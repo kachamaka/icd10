@@ -1,0 +1,29 @@
+{
+    "icd10code": "D48.7",
+    "type": "subcategory",
+    "title": "Neoplasm of uncertain or unknown behaviour: Other specified sites",
+    "chapter": "Neoplasms",
+    "chapterCode": "II",
+    "block": "Neoplasms of uncertain or unknown behaviour",
+    "blockCode": "D37-D48",
+    "category": "Neoplasm of uncertain or unknown behaviour of other and unspecified sites",
+    "categoryCode": "D48",
+    "subcategory": "D48.7",
+    "inclusion": [
+        "Eye",
+        "Heart",
+        "Peripheral nerves of orbit"
+    ],
+    "exclusion": [
+        "neurofibromatosis (nonmalignant)",
+        "connective tissue",
+        "skin of eyelid"
+    ],
+    "symptoms": [
+        "unexplained weight loss",
+        "chronic fatigue",
+        "persistent chest pain",
+        "shortness of breath",
+        "difficulty swallowing"
+    ]
+}

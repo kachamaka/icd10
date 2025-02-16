@@ -1,0 +1,31 @@
+{
+    "icd10code": "F31.4",
+    "type": "subcategory",
+    "title": "Bipolar affective disorder, current episode severe depression without psychotic symptoms",
+    "chapter": "Mental and behavioural disorders",
+    "chapterCode": "V",
+    "block": "Mood [affective] disorders",
+    "blockCode": "F30-F39",
+    "category": "Bipolar affective disorder",
+    "categoryCode": "F31",
+    "subcategory": "F31.4",
+    "inclusion": [
+        "disorders of psychological development",
+        "manic depression",
+        "manic-depressive: illness",
+        "manic-depressive: psychosis",
+        "manic-depressive: reaction"
+    ],
+    "exclusion": [
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "bipolar disorder, single manic episode",
+        "cyclothymia"
+    ],
+    "symptoms": [
+        "elevated mood",
+        "decreased need for sleep",
+        "distractibility",
+        "hyperactivity",
+        "impaired judgment"
+    ]
+}

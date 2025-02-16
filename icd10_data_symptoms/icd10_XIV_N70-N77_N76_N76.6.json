@@ -1,0 +1,33 @@
+{
+    "icd10code": "N76.6",
+    "type": "subcategory",
+    "title": "Ulceration of vulva",
+    "chapter": "Diseases of the genitourinary system",
+    "chapterCode": "XIV",
+    "block": "Inflammatory diseases of female pelvic organs",
+    "blockCode": "N70-N77",
+    "category": "Other inflammation of vagina and vulva",
+    "categoryCode": "N76",
+    "subcategory": "N76.6",
+    "inclusion": null,
+    "exclusion": [
+        "certain conditions originating in the perinatal period",
+        "certain infectious and parasitic diseases",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "those complicating: abortion or ectopic or molar pregnancy",
+        "those complicating: pregnancy, childbirth and the puerperium",
+        "postprocedural pelvic peritoneal adhesions"
+    ],
+    "symptoms": [
+        "vaginal discharge",
+        "vaginal itching",
+        "burning sensation",
+        "redness or swelling",
+        "odor"
+    ]
+}

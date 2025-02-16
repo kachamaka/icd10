@@ -1,0 +1,21 @@
+{
+  "type": "category",
+  "chapterCode": "V",
+  "chapter": "Mental and behavioural disorders",
+  "blockCode": "F00-F09",
+  "block": "Organic, including symptomatic, mental disorders",
+  "categoryCode": "F09",
+  "category": "Unspecified organic or symptomatic mental disorder",
+  "subcategory": "",
+  "title": "Unspecified organic or symptomatic mental disorder",
+  "inclusion": [
+    "disorders of psychological development",
+    "Psychosis: organic NOS",
+    "Psychosis: symptomatic NOS"
+  ],
+  "exclusion": [
+    "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+    "psychosis NOS"
+  ],
+  "children": null
+}

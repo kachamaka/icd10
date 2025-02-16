@@ -1,0 +1,26 @@
+{
+    "icd10code": "F93.9",
+    "type": "subcategory",
+    "title": "Childhood emotional disorder, unspecified",
+    "chapter": "Mental and behavioural disorders",
+    "chapterCode": "V",
+    "block": "Behavioural and emotional disorders with onset usually occurring in childhood and adolescence",
+    "blockCode": "F90-F98",
+    "category": "Emotional disorders with onset specific to childhood",
+    "categoryCode": "F93",
+    "subcategory": "F93.9",
+    "inclusion": [
+        "disorders of psychological development"
+    ],
+    "exclusion": [
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "when associated with conduct disorder"
+    ],
+    "symptoms": [
+        "anxiety",
+        "distress",
+        "fearfulness",
+        "excessive worry",
+        "restlessness"
+    ]
+}

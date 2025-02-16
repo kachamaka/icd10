@@ -1,0 +1,32 @@
+{
+    "icd10code": "P05.2",
+    "type": "subcategory",
+    "title": "Fetal malnutrition without mention of light or small for gestational age",
+    "chapter": "Certain conditions originating in the perinatal period",
+    "chapterCode": "XVI",
+    "block": "Disorders related to length of gestation and fetal growth",
+    "blockCode": "P05-P08",
+    "category": "Slow fetal growth and fetal malnutrition",
+    "categoryCode": "P05",
+    "subcategory": "P05.2",
+    "inclusion": [
+        "conditions that have their origin in the perinatal period even though death or morbidity occurs later"
+    ],
+    "exclusion": [
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "tetanus neonatorum",
+        "whooping cough",
+        "fetal malnutrition with mention of: light for gestational age",
+        "fetal malnutrition with mention of: small for gestational age"
+    ],
+    "symptoms": [
+        "low birth weight",
+        "small head circumference",
+        "reduced body fat",
+        "fragile skin",
+        "poor feeding ability"
+    ]
+}

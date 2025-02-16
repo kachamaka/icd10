@@ -1,0 +1,28 @@
+{
+    "icd10code": "Q55.5",
+    "type": "subcategory",
+    "title": "Congenital absence and aplasia of penis",
+    "chapter": "Congenital malformations, deformations and chromosomal abnormalities",
+    "chapterCode": "XVII",
+    "block": "Congenital malformations of genital organs",
+    "blockCode": "Q50-Q56",
+    "category": "Other congenital malformations of male genital organs",
+    "categoryCode": "Q55",
+    "subcategory": "Q55.5",
+    "inclusion": null,
+    "exclusion": [
+        "inborn errors of metabolism",
+        "androgen resistance syndrome",
+        "syndromes associated with anomalies in the number and form of chromosomes",
+        "testicular feminization syndrome",
+        "congenital hydrocele",
+        "hypospadias"
+    ],
+    "symptoms": [
+        "underdeveloped testes",
+        "hormonal imbalances",
+        "infertility",
+        "delayed puberty",
+        "ambiguous genitalia"
+    ]
+}

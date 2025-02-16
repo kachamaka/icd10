@@ -1,0 +1,21 @@
+{
+    "icd10code": "C97",
+    "type": "category",
+    "title": "Malignant neoplasms of independent (primary) multiple sites",
+    "chapter": "Neoplasms",
+    "chapterCode": "II",
+    "block": "Malignant neoplasms of independent (primary) multiple sites",
+    "blockCode": "C97-C97",
+    "category": "Malignant neoplasms of independent (primary) multiple sites",
+    "categoryCode": "C97",
+    "subcategory": "",
+    "inclusion": null,
+    "exclusion": null,
+    "symptoms": [
+        "fatigue",
+        "unexplained weight loss",
+        "loss of appetite",
+        "pain at cancer site",
+        "general decline in health"
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "icd10code": "E64.9",
+    "type": "subcategory",
+    "title": "Sequelae of unspecified nutritional deficiency",
+    "chapter": "Endocrine, nutritional and metabolic diseases",
+    "chapterCode": "IV",
+    "block": "Other nutritional deficiencies",
+    "blockCode": "E50-E64",
+    "category": "Sequelae of malnutrition and other nutritional deficiencies",
+    "categoryCode": "E64",
+    "subcategory": "E64.9",
+    "inclusion": null,
+    "exclusion": [
+        "complications of pregnancy, childbirth and the puerperium",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "transitory endocrine and metabolic disorders specific to fetus and newborn",
+        "transitory congenital goitre with normal function"
+    ],
+    "symptoms": [
+        "unexplained weight loss",
+        "excessive thirst",
+        "frequent urination",
+        "constant hunger",
+        "fatigue"
+    ]
+}

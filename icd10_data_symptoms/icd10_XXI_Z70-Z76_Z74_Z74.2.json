@@ -1,0 +1,23 @@
+{
+    "icd10code": "Z74.2",
+    "type": "subcategory",
+    "title": "Need for assistance at home and no other household member able to render care",
+    "chapter": "Factors influencing health status and contact with health services",
+    "chapterCode": "XXI",
+    "block": "Persons encountering health services in other circumstances",
+    "blockCode": "Z70-Z76",
+    "category": "Problems related to care-provider dependency",
+    "categoryCode": "Z74",
+    "subcategory": "Z74.2",
+    "inclusion": null,
+    "exclusion": [
+        "dependence on enabling machines or devices NEC"
+    ],
+    "symptoms": [
+        "difficulty walking",
+        "impaired mobility",
+        "reduced physical strength",
+        "need for assistance with activities",
+        "limited range of motion"
+    ]
+}

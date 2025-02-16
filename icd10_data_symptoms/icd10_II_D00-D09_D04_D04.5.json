@@ -1,0 +1,35 @@
+{
+    "icd10code": "D04.5",
+    "type": "subcategory",
+    "title": "Carcinoma in situ: Skin of trunk",
+    "chapter": "Neoplasms",
+    "chapterCode": "II",
+    "block": "In situ neoplasms",
+    "blockCode": "D00-D09",
+    "category": "Carcinoma in situ of skin",
+    "categoryCode": "D04",
+    "subcategory": "D04.5",
+    "inclusion": [
+        "Bowen disease",
+        "erythroplasia",
+        "morphology codes with behaviour code /2",
+        "Queyrat erythroplasia",
+        "Anal: margin",
+        "Anal: skin",
+        "Perianal skin",
+        "Skin of breast"
+    ],
+    "exclusion": [
+        "erythroplasia of Queyrat (penis) NOS",
+        "melanoma in situ",
+        "anus NOS",
+        "skin of genital organs"
+    ],
+    "symptoms": [
+        "change in skin color",
+        "skin redness or soreness",
+        "growth of a lump or mass",
+        "skin irritation or rash",
+        "itching"
+    ]
+}

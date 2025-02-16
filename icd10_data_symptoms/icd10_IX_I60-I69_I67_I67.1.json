@@ -1,0 +1,42 @@
+{
+    "icd10code": "I67.1",
+    "type": "subcategory",
+    "title": "Cerebral aneurysm, nonruptured",
+    "chapter": "Diseases of the circulatory system",
+    "chapterCode": "IX",
+    "block": "Cerebrovascular diseases",
+    "blockCode": "I60-I69",
+    "category": "Other cerebrovascular diseases",
+    "categoryCode": "I67",
+    "subcategory": "I67.1",
+    "inclusion": [
+        "with mention of hypertension (conditions in I10 and I15.-)",
+        "Cerebral: aneurysm NOS",
+        "Cerebral: arteriovenous fistula, acquired"
+    ],
+    "exclusion": [
+        "certain conditions originating in the perinatal period",
+        "certain infectious and parasitic diseases",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "systemic connective tissue disorders",
+        "transient cerebral ischaemic attacks and related syndromes",
+        "pulmonary",
+        "naevus: blue",
+        "complicating: childbirth and the puerperium",
+        "complicating: pregnancy",
+        "congenital cerebral aneurysm, nonruptured",
+        "ruptured cerebral aneurysm"
+    ],
+    "symptoms": [
+        "headache",
+        "dizziness",
+        "seizures",
+        "visual disturbances",
+        "cognitive deficits"
+    ]
+}

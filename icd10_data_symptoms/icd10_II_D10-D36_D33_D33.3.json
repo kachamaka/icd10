@@ -1,0 +1,29 @@
+{
+    "icd10code": "D33.3",
+    "type": "subcategory",
+    "title": "Benign neoplasm: Cranial nerves",
+    "chapter": "Neoplasms",
+    "chapterCode": "II",
+    "block": "Benign neoplasms",
+    "blockCode": "D10-D36",
+    "category": "Benign neoplasm of brain and other parts of central nervous system",
+    "categoryCode": "D33",
+    "subcategory": "D33.3",
+    "inclusion": [
+        "morphology codes with behaviour code /0",
+        "Olfactory bulb"
+    ],
+    "exclusion": [
+        "angioma",
+        "meninges",
+        "peripheral nerves and autonomic nervous system",
+        "retro-ocular tissue"
+    ],
+    "symptoms": [
+        "headaches",
+        "seizures",
+        "blurred or double vision",
+        "loss of balance or coordination",
+        "personality or behavior changes"
+    ]
+}

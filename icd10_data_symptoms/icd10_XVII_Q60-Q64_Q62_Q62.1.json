@@ -1,0 +1,28 @@
+{
+    "icd10code": "Q62.1",
+    "type": "subcategory",
+    "title": "Atresia and stenosis of ureter",
+    "chapter": "Congenital malformations, deformations and chromosomal abnormalities",
+    "chapterCode": "XVII",
+    "block": "Congenital malformations of the urinary system",
+    "blockCode": "Q60-Q64",
+    "category": "Congenital obstructive defects of renal pelvis and congenital malformations of ureter",
+    "categoryCode": "Q62",
+    "subcategory": "Q62.1",
+    "inclusion": [
+        "Congenital occlusion of: ureter",
+        "Congenital occlusion of: ureteropelvic junction",
+        "Congenital occlusion of: ureterovesical orifice",
+        "Impervious ureter"
+    ],
+    "exclusion": [
+        "inborn errors of metabolism"
+    ],
+    "symptoms": [
+        "hydronephrosis",
+        "flank pain",
+        "urinary tract infection",
+        "hematuria",
+        "abdominal mass"
+    ]
+}

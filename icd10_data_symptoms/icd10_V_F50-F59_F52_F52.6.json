@@ -1,0 +1,28 @@
+{
+    "icd10code": "F52.6",
+    "type": "subcategory",
+    "title": "Nonorganic dyspareunia",
+    "chapter": "Mental and behavioural disorders",
+    "chapterCode": "V",
+    "block": "Behavioural syndromes associated with physiological disturbances and physical factors",
+    "blockCode": "F50-F59",
+    "category": "Sexual dysfunction, not caused by organic disorder or disease",
+    "categoryCode": "F52",
+    "subcategory": "F52.6",
+    "inclusion": [
+        "disorders of psychological development",
+        "Psychogenic dyspareunia"
+    ],
+    "exclusion": [
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "Dhat syndrome",
+        "dyspareunia (organic)"
+    ],
+    "symptoms": [
+        "difficulty reaching orgasm",
+        "reduced sexual satisfaction",
+        "distress regarding sexual function",
+        "lack of sexual enjoyment",
+        "impaired sexual relationships"
+    ]
+}

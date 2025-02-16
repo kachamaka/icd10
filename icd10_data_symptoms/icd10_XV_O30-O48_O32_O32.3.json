@@ -1,0 +1,33 @@
+{
+    "icd10code": "O32.3",
+    "type": "subcategory",
+    "title": "Maternal care for face, brow and chin presentation",
+    "chapter": "Pregnancy, childbirth and the puerperium",
+    "chapterCode": "XV",
+    "block": "Maternal care related to the fetus and amniotic cavity and possible delivery problems",
+    "blockCode": "O30-O48",
+    "category": "Maternal care for known or suspected malpresentation of fetus",
+    "categoryCode": "O32",
+    "subcategory": "O32.3",
+    "inclusion": [
+        "the listed conditions as a reason for observation, hospitalization or other obstetric care of the mother, or for caesarean section before onset of labour"
+    ],
+    "exclusion": [
+        "Certain diseases or injuries complicating pregnancy, childbirth and the puerperium classified elsewhere: external causes (for mortality)",
+        "Certain diseases or injuries complicating pregnancy, childbirth and the puerperium classified elsewhere: injury, poisoning and certain other consequences of external cause",
+        "Certain diseases or injuries complicating pregnancy, childbirth and the puerperium classified elsewhere: mental and behavioural disorders associated with the puerperium",
+        "Certain diseases or injuries complicating pregnancy, childbirth and the puerperium classified elsewhere: obstetrical tetanus",
+        "Certain diseases or injuries complicating pregnancy, childbirth and the puerperium classified elsewhere: postpartum necrosis of pituitary gland",
+        "Certain diseases or injuries complicating pregnancy, childbirth and the puerperium classified elsewhere: puerperal osteomalacia",
+        "supervision of: high-risk pregnancy",
+        "supervision of: normal pregnancy",
+        "the listed conditions with obstructed labour"
+    ],
+    "symptoms": [
+        "abdominal pain",
+        "reduced fetal movement",
+        "abnormal uterine contractions",
+        "vaginal bleeding",
+        "pelvic discomfort"
+    ]
+}

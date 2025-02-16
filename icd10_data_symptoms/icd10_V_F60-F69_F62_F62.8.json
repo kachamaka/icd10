@@ -1,0 +1,27 @@
+{
+    "icd10code": "F62.8",
+    "type": "subcategory",
+    "title": "Other enduring personality changes",
+    "chapter": "Mental and behavioural disorders",
+    "chapterCode": "V",
+    "block": "Disorders of adult personality and behaviour",
+    "blockCode": "F60-F69",
+    "category": "Enduring personality changes, not attributable to brain damage and disease",
+    "categoryCode": "F62",
+    "subcategory": "F62.8",
+    "inclusion": [
+        "disorders of psychological development",
+        "Chronic pain personality syndrome"
+    ],
+    "exclusion": [
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "personality and behavioural disorder due to brain disease, damage and dysfunction"
+    ],
+    "symptoms": [
+        "chronic disturbances",
+        "mood instability",
+        "anxiety",
+        "difficulty forming relationships",
+        "impulsivity"
+    ]
+}

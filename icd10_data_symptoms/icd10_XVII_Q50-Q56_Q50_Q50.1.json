@@ -1,0 +1,26 @@
+{
+    "icd10code": "Q50.1",
+    "type": "subcategory",
+    "title": "Developmental ovarian cyst",
+    "chapter": "Congenital malformations, deformations and chromosomal abnormalities",
+    "chapterCode": "XVII",
+    "block": "Congenital malformations of genital organs",
+    "blockCode": "Q50-Q56",
+    "category": "Congenital malformations of ovaries, fallopian tubes and broad ligaments",
+    "categoryCode": "Q50",
+    "subcategory": "Q50.1",
+    "inclusion": null,
+    "exclusion": [
+        "inborn errors of metabolism",
+        "androgen resistance syndrome",
+        "syndromes associated with anomalies in the number and form of chromosomes",
+        "testicular feminization syndrome"
+    ],
+    "symptoms": [
+        "absent menstruation",
+        "pelvic pain",
+        "infertility",
+        "abnormal vaginal bleeding",
+        "delayed puberty"
+    ]
+}

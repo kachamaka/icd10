@@ -1,0 +1,28 @@
+{
+    "icd10code": "R46.8",
+    "type": "subcategory",
+    "title": "Other symptoms and signs involving appearance and behaviour",
+    "chapter": "Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+    "chapterCode": "XVIII",
+    "block": "Symptoms and signs involving cognition, perception, emotional state and behaviour",
+    "blockCode": "R40-R46",
+    "category": "Symptoms and signs involving appearance and behaviour",
+    "categoryCode": "R46",
+    "subcategory": "R46.8",
+    "inclusion": [
+        "Self neglect NOS"
+    ],
+    "exclusion": [
+        "abnormal findings on antenatal screening of mother",
+        "certain conditions originating in the perinatal period",
+        "those constituting part of a pattern of mental disorder",
+        "insufficient intake of food and water (due to self neglect)"
+    ],
+    "symptoms": [
+        "confused behavior",
+        "inappropriate emotional responses",
+        "eccentric speech",
+        "unusual mannerisms",
+        "bizarre social interactions"
+    ]
+}

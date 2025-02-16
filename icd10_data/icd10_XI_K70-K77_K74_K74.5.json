@@ -1,0 +1,33 @@
+{
+  "type": "subcategory",
+  "chapterCode": "XI",
+  "chapter": "Diseases of the digestive system",
+  "blockCode": "K70-K77",
+  "block": "Diseases of liver",
+  "categoryCode": "K74",
+  "category": "Fibrosis and cirrhosis of liver",
+  "subcategory": "K74.5",
+  "title": "Biliary cirrhosis, unspecified",
+  "inclusion": null,
+  "exclusion": [
+    "certain conditions originating in the perinatal period",
+    "certain infectious and parasitic diseases",
+    "complications of pregnancy, childbirth and the puerperium",
+    "congenital malformations, deformations and chromosomal abnormalities",
+    "endocrine, nutritional and metabolic diseases",
+    "injury, poisoning and certain other consequences of external causes",
+    "neoplasms",
+    "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+    "haemochromatosis",
+    "jaundice NOS",
+    "Reye syndrome",
+    "viral hepatitis",
+    "Wilson disease",
+    "alcoholic fibrosis of liver",
+    "cardiac sclerosis of liver",
+    "cirrhosis (of liver): alcoholic",
+    "cirrhosis (of liver): congenital",
+    "with toxic liver disease"
+  ],
+  "children": null
+}

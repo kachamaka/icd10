@@ -1,0 +1,39 @@
+{
+    "icd10code": "A16.0",
+    "type": "subcategory",
+    "title": "Tuberculosis of lung, bacteriologically and histologically negative",
+    "chapter": "Certain infectious and parasitic diseases",
+    "chapterCode": "I",
+    "block": "Tuberculosis",
+    "blockCode": "A15-A19",
+    "category": "Respiratory tuberculosis, not confirmed bacteriologically or histologically",
+    "categoryCode": "A16",
+    "subcategory": "A16.0",
+    "inclusion": [
+        "diseases generally recognized as communicable or transmissible",
+        "infections due to Mycobacterium tuberculosis and Mycobacterium bovis",
+        "Tuberculous: bronchiectasis bacteriologically and histologically negative",
+        "Tuberculous: fibrosis of lung bacteriologically and histologically negative",
+        "Tuberculous: pneumonia bacteriologically and histologically negative",
+        "Tuberculous: pneumothorax bacteriologically and histologically negative"
+    ],
+    "exclusion": [
+        "carrier or suspected carrier of infectious disease",
+        "certain localized infections - see body system-related chapters",
+        "infectious and parasitic diseases complicating pregnancy, childbirth and the puerperium [except obstetrical tetanus]",
+        "infectious and parasitic diseases specific to the perinatal period [except tetanus neonatorum, whooping cough, congenital syphilis, perinatal gonococcal infection and perinatal human immunodeficiency virus [HIV] disease]",
+        "influenza and other acute respiratory infections",
+        "congenital tuberculosis",
+        "human immunodeficieny [HIV] disease resulting in tuberculosis",
+        "pneumoconiosis associated with tuberculosis",
+        "sequelae of tuberculosis",
+        "silicotuberculosis"
+    ],
+    "symptoms": [
+        "cough with blood (hemoptysis)",
+        "chest pain",
+        "unintentional weight loss",
+        "fatigue",
+        "night sweats"
+    ]
+}

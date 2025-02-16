@@ -1,0 +1,17 @@
+{
+  "type": "subcategory",
+  "chapterCode": "XVIII",
+  "chapter": "Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+  "blockCode": "R25-R29",
+  "block": "Symptoms and signs involving the nervous and musculoskeletal systems",
+  "categoryCode": "R29",
+  "category": "Other symptoms and signs involving the nervous and musculoskeletal systems",
+  "subcategory": "R29.1",
+  "title": "Meningismus",
+  "inclusion": null,
+  "exclusion": [
+    "abnormal findings on antenatal screening of mother",
+    "certain conditions originating in the perinatal period"
+  ],
+  "children": null
+}

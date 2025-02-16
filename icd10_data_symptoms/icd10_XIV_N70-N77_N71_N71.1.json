@@ -1,0 +1,38 @@
+{
+    "icd10code": "N71.1",
+    "type": "subcategory",
+    "title": "Chronic inflammatory disease of uterus",
+    "chapter": "Diseases of the genitourinary system",
+    "chapterCode": "XIV",
+    "block": "Inflammatory diseases of female pelvic organs",
+    "blockCode": "N70-N77",
+    "category": "Inflammatory disease of uterus, except cervix",
+    "categoryCode": "N71",
+    "subcategory": "N71.1",
+    "inclusion": [
+        "endo(myo)metritis",
+        "metritis",
+        "myometritis",
+        "pyometra",
+        "uterine abscess"
+    ],
+    "exclusion": [
+        "certain conditions originating in the perinatal period",
+        "certain infectious and parasitic diseases",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "those complicating: abortion or ectopic or molar pregnancy",
+        "those complicating: pregnancy, childbirth and the puerperium"
+    ],
+    "symptoms": [
+        "pelvic pain",
+        "abnormal vaginal discharge",
+        "fever",
+        "irregular menstrual bleeding",
+        "lower abdominal tenderness"
+    ]
+}

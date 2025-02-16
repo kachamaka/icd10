@@ -1,0 +1,30 @@
+{
+    "icd10code": "H28.0",
+    "type": "subcategory",
+    "title": "Diabetic cataract",
+    "chapter": "Diseases of the eye and adnexa",
+    "chapterCode": "VII",
+    "block": "Disorders of lens",
+    "blockCode": "H25-H28",
+    "category": "Cataract and other disorders of lens in diseases classified elsewhere",
+    "categoryCode": "H28",
+    "subcategory": "H28.0",
+    "inclusion": null,
+    "exclusion": [
+        "certain conditions originating in the perinatal period",
+        "certain infectious and parasitic diseases",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified"
+    ],
+    "symptoms": [
+        "blurred vision",
+        "difficulty seeing at night",
+        "halos around lights",
+        "increased sensitivity to glare",
+        "decreased color vision"
+    ]
+}

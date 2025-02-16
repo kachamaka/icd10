@@ -1,0 +1,26 @@
+{
+    "icd10code": "W33",
+    "type": "category",
+    "title": "Rifle, shotgun and larger firearm discharge",
+    "chapter": "External causes of morbidity and mortality",
+    "chapterCode": "XX",
+    "block": "Exposure to inanimate mechanical forces",
+    "blockCode": "W20-W49",
+    "category": "Rifle, shotgun and larger firearm discharge",
+    "categoryCode": "W33",
+    "subcategory": "",
+    "inclusion": [
+        "army rifle",
+        "hunting rifle",
+        "machine gun"
+    ],
+    "exclusion": [
+        "assault",
+        "contact or collision with animals or persons",
+        "intentional self-harm",
+        "airgun"
+    ],
+    "symptoms": [
+        "asymptomatic"
+    ]
+}

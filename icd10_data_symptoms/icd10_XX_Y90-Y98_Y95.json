@@ -1,0 +1,17 @@
+{
+    "icd10code": "Y95",
+    "type": "category",
+    "title": "Nosocomial condition",
+    "chapter": "External causes of morbidity and mortality",
+    "chapterCode": "XX",
+    "block": "Supplementary factors related to causes of morbidity and mortality classified elsewhere",
+    "blockCode": "Y90-Y98",
+    "category": "Nosocomial condition",
+    "categoryCode": "Y95",
+    "subcategory": "",
+    "inclusion": null,
+    "exclusion": null,
+    "symptoms": [
+        "asymptomatic"
+    ]
+}

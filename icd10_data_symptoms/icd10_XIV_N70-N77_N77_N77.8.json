@@ -1,0 +1,34 @@
+{
+    "icd10code": "N77.8",
+    "type": "subcategory",
+    "title": "Vulvovaginal ulceration and inflammation in other diseases classified elsewhere",
+    "chapter": "Diseases of the genitourinary system",
+    "chapterCode": "XIV",
+    "block": "Inflammatory diseases of female pelvic organs",
+    "blockCode": "N70-N77",
+    "category": "Vulvovaginal ulceration and inflammation in diseases classified elsewhere",
+    "categoryCode": "N77",
+    "subcategory": "N77.8",
+    "inclusion": [
+        "Ulceration of vulva in Behçet disease"
+    ],
+    "exclusion": [
+        "certain conditions originating in the perinatal period",
+        "certain infectious and parasitic diseases",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "those complicating: abortion or ectopic or molar pregnancy",
+        "those complicating: pregnancy, childbirth and the puerperium"
+    ],
+    "symptoms": [
+        "pain",
+        "redness",
+        "swelling",
+        "itching",
+        "discharge"
+    ]
+}

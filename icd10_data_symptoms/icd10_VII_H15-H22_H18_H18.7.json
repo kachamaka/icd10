@@ -1,0 +1,35 @@
+{
+    "icd10code": "H18.7",
+    "type": "subcategory",
+    "title": "Other corneal deformities",
+    "chapter": "Diseases of the eye and adnexa",
+    "chapterCode": "VII",
+    "block": "Disorders of sclera, cornea, iris and ciliary body",
+    "blockCode": "H15-H22",
+    "category": "Other disorders of cornea",
+    "categoryCode": "H18",
+    "subcategory": "H18.7",
+    "inclusion": [
+        "Corneal: ectasia",
+        "Corneal: staphyloma",
+        "Descemetocele"
+    ],
+    "exclusion": [
+        "certain conditions originating in the perinatal period",
+        "certain infectious and parasitic diseases",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "congenital malformations of cornea"
+    ],
+    "symptoms": [
+        "eye pain",
+        "redness",
+        "blurred vision",
+        "photophobia",
+        "tearing"
+    ]
+}

@@ -1,0 +1,37 @@
+{
+    "icd10code": "E76.2",
+    "type": "subcategory",
+    "title": "Other mucopolysaccharidoses",
+    "chapter": "Endocrine, nutritional and metabolic diseases",
+    "chapterCode": "IV",
+    "block": "Metabolic disorders",
+    "blockCode": "E70-E90",
+    "category": "Disorders of glycosaminoglycan metabolism",
+    "categoryCode": "E76",
+    "subcategory": "E76.2",
+    "inclusion": [
+        "Beta-glucuronidase deficiency",
+        "Mucopolysaccharidosis, types III, IV, VI, VII",
+        "Syndrome: Maroteaux-Lamy (mild)(severe)",
+        "Syndrome: Morquio(-like)(classic)",
+        "Syndrome: Sanfilippo (type B)(type C)(type D)"
+    ],
+    "exclusion": [
+        "complications of pregnancy, childbirth and the puerperium",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "transitory endocrine and metabolic disorders specific to fetus and newborn",
+        "androgen resistance syndrome",
+        "congenital adrenal hyperplasia",
+        "Ehlers-Danlos syndrome",
+        "haemolytic anaemias due to enzyme disorders",
+        "Marfan syndrome",
+        "5-alpha-reductase deficiency"
+    ],
+    "symptoms": [
+        "facial abnormalities",
+        "skeletal abnormalities",
+        "intellectual disability",
+        "growth retardation",
+        "enlarged liver and spleen"
+    ]
+}

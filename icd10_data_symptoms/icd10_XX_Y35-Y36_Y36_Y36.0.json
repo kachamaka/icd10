@@ -1,0 +1,25 @@
+{
+    "icd10code": "Y36.0",
+    "type": "subcategory",
+    "title": "War operations involving explosion of marine weapons",
+    "chapter": "External causes of morbidity and mortality",
+    "chapterCode": "XX",
+    "block": "Legal intervention and operations of war",
+    "blockCode": "Y35-Y36",
+    "category": "Operations of war",
+    "categoryCode": "Y36",
+    "subcategory": "Y36.0",
+    "inclusion": [
+        "injuries to military personnel and civilians caused by war and civil insurrection",
+        "Depth-charge",
+        "Marine mine",
+        "Mine NOS, at sea or in harbour",
+        "Sea-based artillery shell",
+        "Torpedo",
+        "Underwater blast"
+    ],
+    "exclusion": null,
+    "symptoms": [
+        "asymptomatic"
+    ]
+}

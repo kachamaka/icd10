@@ -1,0 +1,23 @@
+{
+    "icd10code": "C18.0",
+    "type": "subcategory",
+    "title": "Malignant neoplasm: Caecum",
+    "chapter": "Neoplasms",
+    "chapterCode": "II",
+    "block": "Malignant neoplasms of digestive organs",
+    "blockCode": "C15-C26",
+    "category": "Malignant neoplasm of colon",
+    "categoryCode": "C18",
+    "subcategory": "C18.0",
+    "inclusion": [
+        "Ileocaecal valve"
+    ],
+    "exclusion": null,
+    "symptoms": [
+        "abdominal pain",
+        "change in bowel habits",
+        "blood in the stool",
+        "unexplained weight loss",
+        "fatigue"
+    ]
+}

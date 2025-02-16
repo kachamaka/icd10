@@ -1,0 +1,34 @@
+{
+    "icd10code": "H44.1",
+    "type": "subcategory",
+    "title": "Other endophthalmitis",
+    "chapter": "Diseases of the eye and adnexa",
+    "chapterCode": "VII",
+    "block": "Disorders of vitreous body and globe",
+    "blockCode": "H43-H45",
+    "category": "Disorders of globe",
+    "categoryCode": "H44",
+    "subcategory": "H44.1",
+    "inclusion": [
+        "disorders affecting multiple structures of eye",
+        "Parasitic endophthalmitis NOS",
+        "Sympathetic uveitis"
+    ],
+    "exclusion": [
+        "certain conditions originating in the perinatal period",
+        "certain infectious and parasitic diseases",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified"
+    ],
+    "symptoms": [
+        "vitreous floaters",
+        "blurred vision",
+        "vision distortion",
+        "shadows in vision",
+        "flashes of light"
+    ]
+}

@@ -1,0 +1,19 @@
+{
+  "type": "category",
+  "chapterCode": "XX",
+  "chapter": "External causes of morbidity and mortality",
+  "blockCode": "X50-X57",
+  "block": "Overexertion, travel and privation",
+  "categoryCode": "X57",
+  "category": "Unspecified privation",
+  "subcategory": "",
+  "title": "Unspecified privation",
+  "inclusion": [
+    "destitution"
+  ],
+  "exclusion": [
+    "assault",
+    "transport accidents"
+  ],
+  "children": null
+}

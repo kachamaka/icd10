@@ -1,0 +1,34 @@
+{
+    "icd10code": "B00.0",
+    "type": "subcategory",
+    "title": "Eczema herpeticum",
+    "chapter": "Certain infectious and parasitic diseases",
+    "chapterCode": "I",
+    "block": "Viral infections characterized by skin and mucous membrane lesions",
+    "blockCode": "B00-B09",
+    "category": "Herpesviral [herpes simplex] infections",
+    "categoryCode": "B00",
+    "subcategory": "B00.0",
+    "inclusion": [
+        "diseases generally recognized as communicable or transmissible",
+        "Kaposi varicelliform eruption"
+    ],
+    "exclusion": [
+        "carrier or suspected carrier of infectious disease",
+        "certain localized infections - see body system-related chapters",
+        "infectious and parasitic diseases complicating pregnancy, childbirth and the puerperium [except obstetrical tetanus]",
+        "infectious and parasitic diseases specific to the perinatal period [except tetanus neonatorum, whooping cough, congenital syphilis, perinatal gonococcal infection and perinatal human immunodeficiency virus [HIV] disease]",
+        "influenza and other acute respiratory infections",
+        "anogenital herpesviral infection",
+        "congenital herpesviral infection",
+        "gammaherpesviral mononucleosis",
+        "herpangina"
+    ],
+    "symptoms": [
+        "fever",
+        "fatigue",
+        "vesicular rash",
+        "swollen lymph nodes",
+        "sore throat"
+    ]
+}

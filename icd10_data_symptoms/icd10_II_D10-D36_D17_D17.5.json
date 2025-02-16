@@ -1,0 +1,26 @@
+{
+    "icd10code": "D17.5",
+    "type": "subcategory",
+    "title": "Benign lipomatous neoplasm of intra-abdominal organs",
+    "chapter": "Neoplasms",
+    "chapterCode": "II",
+    "block": "Benign neoplasms",
+    "blockCode": "D10-D36",
+    "category": "Benign lipomatous neoplasm",
+    "categoryCode": "D17",
+    "subcategory": "D17.5",
+    "inclusion": [
+        "morphology codes with behaviour code /0",
+        "morphology codes M885-M888 with behaviour code /0"
+    ],
+    "exclusion": [
+        "peritoneum and retroperitoneum"
+    ],
+    "symptoms": [
+        "painless mass",
+        "skin changes over the lump",
+        "limited limb movement",
+        "numbness or tingling sensation",
+        "limb weakness"
+    ]
+}

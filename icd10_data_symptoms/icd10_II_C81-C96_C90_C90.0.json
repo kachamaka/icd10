@@ -1,0 +1,29 @@
+{
+    "icd10code": "C90.0",
+    "type": "subcategory",
+    "title": "Multiple myeloma",
+    "chapter": "Neoplasms",
+    "chapterCode": "II",
+    "block": "Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",
+    "blockCode": "C81-C96",
+    "category": "Multiple myeloma and malignant plasma cell neoplasms",
+    "categoryCode": "C90",
+    "subcategory": "C90.0",
+    "inclusion": [
+        "Kahler disease",
+        "Medullary plasmacytoma",
+        "Myelomatosis",
+        "Plasma cell myeloma"
+    ],
+    "exclusion": [
+        "secondary and unspecified neoplasm of lymph nodes",
+        "solitary plasmacytoma"
+    ],
+    "symptoms": [
+        "fatigue",
+        "bone pain",
+        "unexplained weight loss",
+        "recurrent infections",
+        "kidney problems"
+    ]
+}

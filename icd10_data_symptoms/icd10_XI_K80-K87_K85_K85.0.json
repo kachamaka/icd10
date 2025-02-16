@@ -1,0 +1,39 @@
+{
+    "icd10code": "K85.0",
+    "type": "subcategory",
+    "title": "Idiopathic acute pancreatitis",
+    "chapter": "Diseases of the digestive system",
+    "chapterCode": "XI",
+    "block": "Disorders of gallbladder, biliary tract and pancreas",
+    "blockCode": "K80-K87",
+    "category": "Acute pancreatitis",
+    "categoryCode": "K85",
+    "subcategory": "K85.0",
+    "inclusion": [
+        "Abscess of pancreas",
+        "Necrosis of pancreas: acute",
+        "Necrosis of pancreas: infective",
+        "Pancreatitis: NOS",
+        "Pancreatitis: acute (recurrent)",
+        "Pancreatitis: haemorrhagic",
+        "Pancreatitis: subacute",
+        "Pancreatitis: suppurative"
+    ],
+    "exclusion": [
+        "certain conditions originating in the perinatal period",
+        "certain infectious and parasitic diseases",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified"
+    ],
+    "symptoms": [
+        "acute abdominal pain",
+        "nausea",
+        "vomiting",
+        "fever",
+        "elevated pancreatic enzymes"
+    ]
+}

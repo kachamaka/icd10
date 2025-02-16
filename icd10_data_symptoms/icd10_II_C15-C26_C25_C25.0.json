@@ -1,0 +1,21 @@
+{
+    "icd10code": "C25.0",
+    "type": "subcategory",
+    "title": "Malignant neoplasm: Head of pancreas",
+    "chapter": "Neoplasms",
+    "chapterCode": "II",
+    "block": "Malignant neoplasms of digestive organs",
+    "blockCode": "C15-C26",
+    "category": "Malignant neoplasm of pancreas",
+    "categoryCode": "C25",
+    "subcategory": "C25.0",
+    "inclusion": null,
+    "exclusion": null,
+    "symptoms": [
+        "abdominal pain",
+        "loss of appetite",
+        "jaundice",
+        "dark urine",
+        "unexplained weight loss"
+    ]
+}

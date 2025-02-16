@@ -1,0 +1,26 @@
+{
+    "icd10code": "F52.4",
+    "type": "subcategory",
+    "title": "Premature ejaculation",
+    "chapter": "Mental and behavioural disorders",
+    "chapterCode": "V",
+    "block": "Behavioural syndromes associated with physiological disturbances and physical factors",
+    "blockCode": "F50-F59",
+    "category": "Sexual dysfunction, not caused by organic disorder or disease",
+    "categoryCode": "F52",
+    "subcategory": "F52.4",
+    "inclusion": [
+        "disorders of psychological development"
+    ],
+    "exclusion": [
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "Dhat syndrome"
+    ],
+    "symptoms": [
+        "lack of sexual desire",
+        "distress regarding low libido",
+        "reduced interest in sexual activity",
+        "frustration in intimate relationships",
+        "decreased sexual fantasies"
+    ]
+}

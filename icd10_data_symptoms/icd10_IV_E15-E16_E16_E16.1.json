@@ -1,0 +1,32 @@
+{
+    "icd10code": "E16.1",
+    "type": "subcategory",
+    "title": "Other hypoglycaemia",
+    "chapter": "Endocrine, nutritional and metabolic diseases",
+    "chapterCode": "IV",
+    "block": "Other disorders of glucose regulation and pancreatic internal secretion",
+    "blockCode": "E15-E16",
+    "category": "Other disorders of pancreatic internal secretion",
+    "categoryCode": "E16",
+    "subcategory": "E16.1",
+    "inclusion": [
+        "Functional nonhyperinsulinaemic hypoglycaemia",
+        "Hyperinsulinism: congenital",
+        "Hyperinsulinism: functional",
+        "Hyperinsulinism: NOS",
+        "Hyperplasia of pancreatic islet beta cells NOS",
+        "Posthypoglycaemic coma encephalopathy"
+    ],
+    "exclusion": [
+        "complications of pregnancy, childbirth and the puerperium",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "transitory endocrine and metabolic disorders specific to fetus and newborn"
+    ],
+    "symptoms": [
+        "hypoglycemia",
+        "palpitations",
+        "tremors",
+        "excessive sweating",
+        "confusion"
+    ]
+}

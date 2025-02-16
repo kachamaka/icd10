@@ -1,0 +1,14 @@
+{
+  "type": "category",
+  "chapterCode": "XX",
+  "chapter": "External causes of morbidity and mortality",
+  "blockCode": "Y10-Y34",
+  "block": "Event of undetermined intent",
+  "categoryCode": "Y22",
+  "category": "Handgun discharge, undetermined intent",
+  "subcategory": "",
+  "title": "Handgun discharge, undetermined intent",
+  "inclusion": null,
+  "exclusion": null,
+  "children": null
+}

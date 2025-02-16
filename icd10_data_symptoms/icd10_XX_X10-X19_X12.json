@@ -1,0 +1,27 @@
+{
+    "icd10code": "X12",
+    "type": "category",
+    "title": "Contact with other hot fluids",
+    "chapter": "External causes of morbidity and mortality",
+    "chapterCode": "XX",
+    "block": "Contact with heat and hot substances",
+    "blockCode": "X10-X19",
+    "category": "Contact with other hot fluids",
+    "categoryCode": "X12",
+    "subcategory": "",
+    "inclusion": [
+        "water heated on stove"
+    ],
+    "exclusion": [
+        "exposure to: excessive natural heat",
+        "exposure to: fire and flames",
+        "hot (liquid) metals"
+    ],
+    "symptoms": [
+        "skin redness",
+        "itching",
+        "burning sensation",
+        "hives",
+        "swelling"
+    ]
+}

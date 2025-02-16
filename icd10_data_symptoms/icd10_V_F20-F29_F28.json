@@ -1,0 +1,26 @@
+{
+    "icd10code": "F28",
+    "type": "category",
+    "title": "Other nonorganic psychotic disorders",
+    "chapter": "Mental and behavioural disorders",
+    "chapterCode": "V",
+    "block": "Schizophrenia, schizotypal and delusional disorders",
+    "blockCode": "F20-F29",
+    "category": "Other nonorganic psychotic disorders",
+    "categoryCode": "F28",
+    "subcategory": "",
+    "inclusion": [
+        "disorders of psychological development",
+        "Chronic hallucinatory psychosis"
+    ],
+    "exclusion": [
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified"
+    ],
+    "symptoms": [
+        "hallucinations",
+        "delusions",
+        "disorganized speech",
+        "erratic behavior",
+        "cognitive disturbances"
+    ]
+}

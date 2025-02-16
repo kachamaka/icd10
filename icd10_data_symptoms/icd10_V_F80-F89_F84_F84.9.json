@@ -1,0 +1,25 @@
+{
+    "icd10code": "F84.9",
+    "type": "subcategory",
+    "title": "Pervasive developmental disorder, unspecified",
+    "chapter": "Mental and behavioural disorders",
+    "chapterCode": "V",
+    "block": "Disorders of psychological development",
+    "blockCode": "F80-F89",
+    "category": "Pervasive developmental disorders",
+    "categoryCode": "F84",
+    "subcategory": "F84.9",
+    "inclusion": [
+        "disorders of psychological development"
+    ],
+    "exclusion": [
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified"
+    ],
+    "symptoms": [
+        "impaired social interaction",
+        "repetitive behaviors",
+        "communication difficulties",
+        "limited interests",
+        "sensory sensitivities"
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "icd10code": "A15.0",
+    "type": "subcategory",
+    "title": "Tuberculosis of lung, confirmed by sputum microscopy with or without culture",
+    "chapter": "Certain infectious and parasitic diseases",
+    "chapterCode": "I",
+    "block": "Tuberculosis",
+    "blockCode": "A15-A19",
+    "category": "Respiratory tuberculosis, bacteriologically and histologically confirmed",
+    "categoryCode": "A15",
+    "subcategory": "A15.0",
+    "inclusion": [
+        "diseases generally recognized as communicable or transmissible",
+        "infections due to Mycobacterium tuberculosis and Mycobacterium bovis",
+        "Tuberculosis of lung, bacteriologically confirmed",
+        "Tuberculous: bronchiectasis confirmed bacteriologically with or without culture",
+        "Tuberculous: fibrosis of lung confirmed bacteriologically with or without culture",
+        "Tuberculous: pneumonia confirmed bacteriologically with or without culture",
+        "Tuberculous: pneumothorax confirmed bacteriologically with or without culture"
+    ],
+    "exclusion": [
+        "carrier or suspected carrier of infectious disease",
+        "certain localized infections - see body system-related chapters",
+        "infectious and parasitic diseases complicating pregnancy, childbirth and the puerperium [except obstetrical tetanus]",
+        "infectious and parasitic diseases specific to the perinatal period [except tetanus neonatorum, whooping cough, congenital syphilis, perinatal gonococcal infection and perinatal human immunodeficiency virus [HIV] disease]",
+        "influenza and other acute respiratory infections",
+        "congenital tuberculosis",
+        "human immunodeficieny [HIV] disease resulting in tuberculosis",
+        "pneumoconiosis associated with tuberculosis",
+        "sequelae of tuberculosis",
+        "silicotuberculosis",
+        "confirmed by culture only"
+    ],
+    "symptoms": [
+        "persistent cough",
+        "chest pain",
+        "weight loss",
+        "fever",
+        "fatigue"
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "icd10code": "F52.3",
+    "type": "subcategory",
+    "title": "Orgasmic dysfunction",
+    "chapter": "Mental and behavioural disorders",
+    "chapterCode": "V",
+    "block": "Behavioural syndromes associated with physiological disturbances and physical factors",
+    "blockCode": "F50-F59",
+    "category": "Sexual dysfunction, not caused by organic disorder or disease",
+    "categoryCode": "F52",
+    "subcategory": "F52.3",
+    "inclusion": [
+        "disorders of psychological development",
+        "Inhibited orgasm (male)(female)",
+        "Psychogenic anorgasmy"
+    ],
+    "exclusion": [
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "Dhat syndrome"
+    ],
+    "symptoms": [
+        "difficulty achieving orgasm",
+        "reduced sexual interest",
+        "distress about sexual performance",
+        "lack of sexual arousal",
+        "frustration with sexual activity"
+    ]
+}

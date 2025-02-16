@@ -1,0 +1,21 @@
+{
+  "type": "subcategory",
+  "chapterCode": "II",
+  "chapter": "Neoplasms",
+  "blockCode": "C81-C96",
+  "block": "Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",
+  "categoryCode": "C92",
+  "category": "Myeloid leukaemia",
+  "subcategory": "C92.3",
+  "title": "Myeloid sarcoma",
+  "inclusion": [
+    "leukaemia: granulocytic",
+    "leukaemia: myelogenous",
+    "Chloroma",
+    "Granulocytic sarcoma"
+  ],
+  "exclusion": [
+    "secondary and unspecified neoplasm of lymph nodes"
+  ],
+  "children": null
+}

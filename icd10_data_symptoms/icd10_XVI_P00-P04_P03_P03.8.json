@@ -1,0 +1,35 @@
+{
+    "icd10code": "P03.8",
+    "type": "subcategory",
+    "title": "Fetus and newborn affected by other specified complications of labour and delivery",
+    "chapter": "Certain conditions originating in the perinatal period",
+    "chapterCode": "XVI",
+    "block": "Fetus and newborn affected by maternal factors and by complications of pregnancy, labour and delivery",
+    "blockCode": "P00-P04",
+    "category": "Fetus and newborn affected by other complications of labour and delivery",
+    "categoryCode": "P03",
+    "subcategory": "P03.8",
+    "inclusion": [
+        "conditions that have their origin in the perinatal period even though death or morbidity occurs later",
+        "the listed maternal conditions only when specified as a cause of mortality or morbidity in fetus or newborn",
+        "Abnormality of maternal soft tissues",
+        "Destructive operation to facilitate delivery",
+        "Fetus or newborn affected by conditions classifiable to O60-O75 and by procedures used in labour and delivery not included in P02.- and P03.0-P03.6",
+        "Induction of labour"
+    ],
+    "exclusion": [
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "tetanus neonatorum",
+        "whooping cough"
+    ],
+    "symptoms": [
+        "low birth weight",
+        "bruising",
+        "fractures",
+        "respiratory distress",
+        "poor feeding"
+    ]
+}

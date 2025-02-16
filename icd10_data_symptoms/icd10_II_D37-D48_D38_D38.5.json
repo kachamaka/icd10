@@ -1,0 +1,31 @@
+{
+    "icd10code": "D38.5",
+    "type": "subcategory",
+    "title": "Neoplasm of uncertain or unknown behaviour: Other respiratory organs",
+    "chapter": "Neoplasms",
+    "chapterCode": "II",
+    "block": "Neoplasms of uncertain or unknown behaviour",
+    "blockCode": "D37-D48",
+    "category": "Neoplasm of uncertain or unknown behaviour of middle ear and respiratory and intrathoracic organs",
+    "categoryCode": "D38",
+    "subcategory": "D38.5",
+    "inclusion": [
+        "Accessory sinuses",
+        "Cartilage of nose",
+        "Middle ear",
+        "Nasal cavities"
+    ],
+    "exclusion": [
+        "heart",
+        "ear (external)(skin)",
+        "nose: NOS",
+        "nose: skin"
+    ],
+    "symptoms": [
+        "ear discomfort",
+        "hearing loss",
+        "tinnitus",
+        "discharge from the ear",
+        "blocked sensation in the ear"
+    ]
+}

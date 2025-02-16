@@ -1,0 +1,28 @@
+{
+    "icd10code": "D35.4",
+    "type": "subcategory",
+    "title": "Benign neoplasm: Pineal gland",
+    "chapter": "Neoplasms",
+    "chapterCode": "II",
+    "block": "Benign neoplasms",
+    "blockCode": "D10-D36",
+    "category": "Benign neoplasm of other and unspecified endocrine glands",
+    "categoryCode": "D35",
+    "subcategory": "D35.4",
+    "inclusion": [
+        "morphology codes with behaviour code /0"
+    ],
+    "exclusion": [
+        "endocrine pancreas",
+        "ovary",
+        "testis",
+        "thymus"
+    ],
+    "symptoms": [
+        "abdominal pain",
+        "weight loss",
+        "nausea",
+        "vomiting",
+        "general fatigue"
+    ]
+}

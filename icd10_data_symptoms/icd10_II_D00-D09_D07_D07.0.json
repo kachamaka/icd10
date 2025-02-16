@@ -1,0 +1,28 @@
+{
+    "icd10code": "D07.0",
+    "type": "subcategory",
+    "title": "Carcinoma in situ: Endometrium",
+    "chapter": "Neoplasms",
+    "chapterCode": "II",
+    "block": "In situ neoplasms",
+    "blockCode": "D00-D09",
+    "category": "Carcinoma in situ of other and unspecified genital organs",
+    "categoryCode": "D07",
+    "subcategory": "D07.0",
+    "inclusion": [
+        "Bowen disease",
+        "erythroplasia",
+        "morphology codes with behaviour code /2",
+        "Queyrat erythroplasia"
+    ],
+    "exclusion": [
+        "melanoma in situ"
+    ],
+    "symptoms": [
+        "abnormal menstrual bleeding",
+        "pelvic pain",
+        "changes in menstrual cycles",
+        "fatigue",
+        "pelvic mass"
+    ]
+}

@@ -1,0 +1,47 @@
+{
+    "icd10code": "T80.8",
+    "type": "subcategory",
+    "title": "Other complications following infusion, transfusion and therapeutic injection",
+    "chapter": "Injury, poisoning and certain other consequences of external causes",
+    "chapterCode": "XIX",
+    "block": "Complications of surgical and medical care, not elsewhere classified",
+    "blockCode": "T80-T88",
+    "category": "Complications following infusion, transfusion and therapeutic injection",
+    "categoryCode": "T80",
+    "subcategory": "T80.8",
+    "inclusion": [
+        "perfusion"
+    ],
+    "exclusion": [
+        "birth trauma",
+        "obstetric trauma",
+        "malunion of fracture",
+        "nonunion of fracture [pseudarthrosis]",
+        "pathological fracture",
+        "pathological fracture with osteoporosis",
+        "stress fracture",
+        "adverse effects of drugs and medicaments",
+        "any encounters with medical care for postoperative conditions in which no complications are present, such as: artificial opening status",
+        "any encounters with medical care for postoperative conditions in which no complications are present, such as: closure of external stoma",
+        "any encounters with medical care for postoperative conditions in which no complications are present, such as: fitting and adjustment of external prosthetic device",
+        "burns and corrosions from local applications and irradiation",
+        "complications of surgical procedures during pregnancy, childbirth and the puerperium",
+        "poisoning and toxic effects of drugs and chemicals",
+        "specified complications classified elsewhere, such as: cerebrospinal fluid leak from spinal puncture",
+        "specified complications classified elsewhere, such as: colostomy malfunction",
+        "specified complications classified elsewhere, such as: disorders of fluid and electrolyte balance",
+        "specified complications classified elsewhere, such as: functional disturbances following cardiac surgery",
+        "specified complications classified elsewhere, such as: postgastric surgery syndromes",
+        "specified complications classified elsewhere, such as: postlaminectomy syndrome NEC",
+        "specified complications classified elsewhere, such as: postmastectomy lymphoedema syndrome",
+        "specified complications classified elsewhere, such as: postsurgical blind-loop syndrome",
+        "accidental puncture or laceration during a procedure"
+    ],
+    "symptoms": [
+        "fever",
+        "swelling at injection site",
+        "rash",
+        "difficulty breathing",
+        "low blood pressure"
+    ]
+}

@@ -1,0 +1,24 @@
+{
+    "icd10code": "Q65.2",
+    "type": "subcategory",
+    "title": "Congenital dislocation of hip, unspecified",
+    "chapter": "Congenital malformations, deformations and chromosomal abnormalities",
+    "chapterCode": "XVII",
+    "block": "Congenital malformations and deformations of the musculoskeletal system",
+    "blockCode": "Q65-Q79",
+    "category": "Congenital deformities of hip",
+    "categoryCode": "Q65",
+    "subcategory": "Q65.2",
+    "inclusion": null,
+    "exclusion": [
+        "inborn errors of metabolism",
+        "clicking hip"
+    ],
+    "symptoms": [
+        "hip instability",
+        "uneven leg lengths",
+        "limited hip motion",
+        "asymmetric skin folds",
+        "hip clicking sound"
+    ]
+}

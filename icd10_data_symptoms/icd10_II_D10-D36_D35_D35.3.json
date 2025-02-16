@@ -1,0 +1,28 @@
+{
+    "icd10code": "D35.3",
+    "type": "subcategory",
+    "title": "Benign neoplasm: Craniopharyngeal duct",
+    "chapter": "Neoplasms",
+    "chapterCode": "II",
+    "block": "Benign neoplasms",
+    "blockCode": "D10-D36",
+    "category": "Benign neoplasm of other and unspecified endocrine glands",
+    "categoryCode": "D35",
+    "subcategory": "D35.3",
+    "inclusion": [
+        "morphology codes with behaviour code /0"
+    ],
+    "exclusion": [
+        "endocrine pancreas",
+        "ovary",
+        "testis",
+        "thymus"
+    ],
+    "symptoms": [
+        "pituitary gland enlargement",
+        "headache",
+        "vision changes",
+        "unexplained weight loss",
+        "irregular periods"
+    ]
+}

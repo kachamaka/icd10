@@ -1,0 +1,35 @@
+{
+    "icd10code": "P28.1",
+    "type": "subcategory",
+    "title": "Other and unspecified atelectasis of newborn",
+    "chapter": "Certain conditions originating in the perinatal period",
+    "chapterCode": "XVI",
+    "block": "Respiratory and cardiovascular disorders specific to the perinatal period",
+    "blockCode": "P20-P29",
+    "category": "Other respiratory conditions originating in the perinatal period",
+    "categoryCode": "P28",
+    "subcategory": "P28.1",
+    "inclusion": [
+        "conditions that have their origin in the perinatal period even though death or morbidity occurs later",
+        "Atelectasis: NOS",
+        "Atelectasis: partial",
+        "Atelectasis: secondary",
+        "Resorption atelectasis without respiratory distress syndrome"
+    ],
+    "exclusion": [
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "tetanus neonatorum",
+        "whooping cough",
+        "single umbilical artery"
+    ],
+    "symptoms": [
+        "rapid breathing",
+        "respiratory distress",
+        "chest retractions",
+        "cyanosis",
+        "nasal flaring"
+    ]
+}

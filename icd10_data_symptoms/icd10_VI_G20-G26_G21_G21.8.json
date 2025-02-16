@@ -1,0 +1,30 @@
+{
+    "icd10code": "G21.8",
+    "type": "subcategory",
+    "title": "Other secondary parkinsonism",
+    "chapter": "Diseases of the nervous system",
+    "chapterCode": "VI",
+    "block": "Extrapyramidal and movement disorders",
+    "blockCode": "G20-G26",
+    "category": "Secondary parkinsonism",
+    "categoryCode": "G21",
+    "subcategory": "G21.8",
+    "inclusion": null,
+    "exclusion": [
+        "certain conditions originating in the perinatal period",
+        "certain infectious and parasitic diseases",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified"
+    ],
+    "symptoms": [
+        "tremor",
+        "muscle rigidity",
+        "bradykinesia",
+        "postural instability",
+        "autonomic dysfunction"
+    ]
+}

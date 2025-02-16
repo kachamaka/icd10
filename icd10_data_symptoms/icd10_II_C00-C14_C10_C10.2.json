@@ -1,0 +1,23 @@
+{
+    "icd10code": "C10.2",
+    "type": "subcategory",
+    "title": "Malignant neoplasm: Lateral wall of oropharynx",
+    "chapter": "Neoplasms",
+    "chapterCode": "II",
+    "block": "Malignant neoplasms of lip, oral cavity and pharynx",
+    "blockCode": "C00-C14",
+    "category": "Malignant neoplasm of oropharynx",
+    "categoryCode": "C10",
+    "subcategory": "C10.2",
+    "inclusion": null,
+    "exclusion": [
+        "tonsil"
+    ],
+    "symptoms": [
+        "difficulty in swallowing",
+        "lump in neck",
+        "bad breath",
+        "throat pain",
+        "unexplained weight loss"
+    ]
+}

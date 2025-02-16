@@ -1,0 +1,16 @@
+{
+  "type": "subcategory",
+  "chapterCode": "II",
+  "chapter": "Neoplasms",
+  "blockCode": "C00-C14",
+  "block": "Malignant neoplasms of lip, oral cavity and pharynx",
+  "categoryCode": "C13",
+  "category": "Malignant neoplasm of hypopharynx",
+  "subcategory": "C13.8",
+  "title": "Malignant neoplasm: Overlapping lesion of hypopharynx",
+  "inclusion": null,
+  "exclusion": [
+    "piriform sinus"
+  ],
+  "children": null
+}

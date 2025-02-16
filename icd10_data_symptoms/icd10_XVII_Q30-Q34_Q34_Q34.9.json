@@ -1,0 +1,26 @@
+{
+    "icd10code": "Q34.9",
+    "type": "subcategory",
+    "title": "Congenital malformation of respiratory system, unspecified",
+    "chapter": "Congenital malformations, deformations and chromosomal abnormalities",
+    "chapterCode": "XVII",
+    "block": "Congenital malformations of the respiratory system",
+    "blockCode": "Q30-Q34",
+    "category": "Other congenital malformations of respiratory system",
+    "categoryCode": "Q34",
+    "subcategory": "Q34.9",
+    "inclusion": [
+        "Congenital: absence of respiratory organ",
+        "Congenital: anomaly NOS of respiratory organ"
+    ],
+    "exclusion": [
+        "inborn errors of metabolism"
+    ],
+    "symptoms": [
+        "difficulty breathing",
+        "recurrent respiratory infections",
+        "nasal congestion",
+        "chronic cough",
+        "abnormal lung sounds"
+    ]
+}

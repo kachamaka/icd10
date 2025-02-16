@@ -1,0 +1,33 @@
+{
+    "icd10code": "F90.0",
+    "type": "subcategory",
+    "title": "Disturbance of activity and attention",
+    "chapter": "Mental and behavioural disorders",
+    "chapterCode": "V",
+    "block": "Behavioural and emotional disorders with onset usually occurring in childhood and adolescence",
+    "blockCode": "F90-F98",
+    "category": "Hyperkinetic disorders",
+    "categoryCode": "F90",
+    "subcategory": "F90.0",
+    "inclusion": [
+        "disorders of psychological development",
+        "Attention deficit: disorder with hyperactivity",
+        "Attention deficit: hyperactivity disorder",
+        "Attention deficit: syndrome with hyperactivity"
+    ],
+    "exclusion": [
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "anxiety disorders",
+        "mood [affective] disorders",
+        "pervasive developmental disorders",
+        "schizophrenia",
+        "hyperkinetic disorder associated with conduct disorder"
+    ],
+    "symptoms": [
+        "inattention",
+        "hyperactivity",
+        "impulsiveness",
+        "difficulty organizing tasks",
+        "frequent fidgeting"
+    ]
+}

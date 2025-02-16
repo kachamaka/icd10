@@ -1,0 +1,16 @@
+{
+  "type": "subcategory",
+  "chapterCode": "XXI",
+  "chapter": "Factors influencing health status and contact with health services",
+  "blockCode": "Z55-Z65",
+  "block": "Persons with potential health hazards related to socioeconomic and psychosocial circumstances",
+  "categoryCode": "Z58",
+  "category": "Problems related to physical environment",
+  "subcategory": "Z58.8",
+  "title": "Other problems related to physical environment",
+  "inclusion": null,
+  "exclusion": [
+    "occupational exposure"
+  ],
+  "children": null
+}

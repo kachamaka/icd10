@@ -1,0 +1,17 @@
+{
+    "icd10code": "X58",
+    "type": "category",
+    "title": "Exposure to other specified factors",
+    "chapter": "External causes of morbidity and mortality",
+    "chapterCode": "XX",
+    "block": "Accidental exposure to other and unspecified factors",
+    "blockCode": "X58-X59",
+    "category": "Exposure to other specified factors",
+    "categoryCode": "X58",
+    "subcategory": "",
+    "inclusion": null,
+    "exclusion": null,
+    "symptoms": [
+        "asymptomatic"
+    ]
+}

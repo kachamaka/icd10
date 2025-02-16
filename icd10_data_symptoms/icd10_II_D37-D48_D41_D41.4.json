@@ -1,0 +1,21 @@
+{
+    "icd10code": "D41.4",
+    "type": "subcategory",
+    "title": "Neoplasm of uncertain or unknown behaviour: Bladder",
+    "chapter": "Neoplasms",
+    "chapterCode": "II",
+    "block": "Neoplasms of uncertain or unknown behaviour",
+    "blockCode": "D37-D48",
+    "category": "Neoplasm of uncertain or unknown behaviour of urinary organs",
+    "categoryCode": "D41",
+    "subcategory": "D41.4",
+    "inclusion": null,
+    "exclusion": null,
+    "symptoms": [
+        "abdominal pain",
+        "blood in urine",
+        "frequent urination",
+        "lower back pain",
+        "urinary urgency"
+    ]
+}

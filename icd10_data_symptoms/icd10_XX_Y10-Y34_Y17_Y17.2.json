@@ -1,0 +1,26 @@
+{
+    "icd10code": "Y17.2",
+    "type": "subcategory",
+    "title": "Poisoning by and exposure to carbon monoxide from other domestic fuels, undetermined intent",
+    "chapter": "External causes of morbidity and mortality",
+    "chapterCode": "XX",
+    "block": "Event of undetermined intent",
+    "blockCode": "Y10-Y34",
+    "category": "Poisoning by and exposure to carbon monoxide and other gases and vapours, undetermined intent",
+    "categoryCode": "Y17",
+    "subcategory": "Y17.2",
+    "inclusion": [
+        "Carbon monoxide from: charcoal in domestic stove, portable grill, barbecue or fireplace (free-standing)",
+        "Carbon monoxide from: coal in domestic stove, portable grill, barbecue or fireplace (free-standing)",
+        "Carbon monoxide from: coke in domestic stove, portable grill, barbecue or fireplace (free-standing)",
+        "Carbon monoxide from: kerosine or paraffin in domestic stove, portable grill, barbecue or fireplace (free-standing)",
+        "Carbon monoxide from: wood in domestic stove, portable grill, barbecue or fireplace (free-standing)"
+    ],
+    "exclusion": [
+        "carbon monoxide from smoke, fire and flames, undetermined intent",
+        "metal fumes and vapours"
+    ],
+    "symptoms": [
+        "asymptomatic"
+    ]
+}

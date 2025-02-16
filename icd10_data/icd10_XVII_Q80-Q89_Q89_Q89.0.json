@@ -1,0 +1,20 @@
+{
+  "type": "subcategory",
+  "chapterCode": "XVII",
+  "chapter": "Congenital malformations, deformations and chromosomal abnormalities",
+  "blockCode": "Q80-Q89",
+  "block": "Other congenital malformations",
+  "categoryCode": "Q89",
+  "category": "Other congenital malformations, not elsewhere classified",
+  "subcategory": "Q89.0",
+  "title": "Congenital malformations of spleen",
+  "inclusion": [
+    "Asplenia (congenital)",
+    "Congenital splenomegaly"
+  ],
+  "exclusion": [
+    "inborn errors of metabolism",
+    "isomerism of atrial appendages (with asplenia or polysplenia)"
+  ],
+  "children": null
+}

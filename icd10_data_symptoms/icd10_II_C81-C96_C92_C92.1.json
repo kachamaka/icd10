@@ -1,0 +1,32 @@
+{
+    "icd10code": "C92.1",
+    "type": "subcategory",
+    "title": "Chronic myeloid leukaemia [CML], BCR/ABL-positive",
+    "chapter": "Neoplasms",
+    "chapterCode": "II",
+    "block": "Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",
+    "blockCode": "C81-C96",
+    "category": "Myeloid leukaemia",
+    "categoryCode": "C92",
+    "subcategory": "C92.1",
+    "inclusion": [
+        "leukaemia: granulocytic",
+        "leukaemia: myelogenous",
+        "Chronic myelogenous leukaemia: Philadelphia chromosome (Ph1) positive",
+        "Chronic myelogenous leukaemia: t(9:22)(q34; q11)",
+        "Chronic myelogenous leukaemia: with crisis of blast cells"
+    ],
+    "exclusion": [
+        "secondary and unspecified neoplasm of lymph nodes",
+        "atypical chronic myeloid leukaemia, BCR/ABL-negative",
+        "chronic myelomonocytic leukaemia",
+        "unclassified myeloproliferative disease"
+    ],
+    "symptoms": [
+        "fever",
+        "fatigue",
+        "weight loss",
+        "frequent infections",
+        "bone pain"
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "icd10code": "W52",
+    "type": "category",
+    "title": "Crushed, pushed or stepped on by crowd or human stampede",
+    "chapter": "External causes of morbidity and mortality",
+    "chapterCode": "XX",
+    "block": "Exposure to animate mechanical forces",
+    "blockCode": "W50-W64",
+    "category": "Crushed, pushed or stepped on by crowd or human stampede",
+    "categoryCode": "W52",
+    "subcategory": "",
+    "inclusion": null,
+    "exclusion": [
+        "bites, venomous",
+        "stings (venomous)"
+    ],
+    "symptoms": [
+        "asymptomatic"
+    ]
+}

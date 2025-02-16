@@ -1,0 +1,38 @@
+{
+    "icd10code": "T78.4",
+    "type": "subcategory",
+    "title": "Allergy, unspecified",
+    "chapter": "Injury, poisoning and certain other consequences of external causes",
+    "chapterCode": "XIX",
+    "block": "Other and unspecified effects of external causes",
+    "blockCode": "T66-T78",
+    "category": "Adverse effects, not elsewhere classified",
+    "categoryCode": "T78",
+    "subcategory": "T78.4",
+    "inclusion": [
+        "Allergic reaction NOS",
+        "Hypersensitivity NOS",
+        "Idiosyncracy NOS"
+    ],
+    "exclusion": [
+        "birth trauma",
+        "obstetric trauma",
+        "malunion of fracture",
+        "nonunion of fracture [pseudarthrosis]",
+        "pathological fracture",
+        "pathological fracture with osteoporosis",
+        "stress fracture",
+        "polycythaemia due to high altitude",
+        "allergic reaction NOS to correct medicinal substance properly administered",
+        "specified types of allergic reaction such as: allergic gastroenteritis and colitis",
+        "specified types of allergic reaction such as: dermatitis",
+        "specified types of allergic reaction such as: hay fever"
+    ],
+    "symptoms": [
+        "allergic reaction",
+        "rash",
+        "swelling",
+        "difficulty breathing",
+        "anaphylaxis"
+    ]
+}

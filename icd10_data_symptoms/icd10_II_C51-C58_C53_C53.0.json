@@ -1,0 +1,23 @@
+{
+    "icd10code": "C53.0",
+    "type": "subcategory",
+    "title": "Malignant neoplasm: Endocervix",
+    "chapter": "Neoplasms",
+    "chapterCode": "II",
+    "block": "Malignant neoplasms of female genital organs",
+    "blockCode": "C51-C58",
+    "category": "Malignant neoplasm of cervix uteri",
+    "categoryCode": "C53",
+    "subcategory": "C53.0",
+    "inclusion": [
+        "skin of female genital organs"
+    ],
+    "exclusion": null,
+    "symptoms": [
+        "abnormal vaginal bleeding",
+        "vaginal discharge with a foul smell",
+        "pelvic pain",
+        "pain during intercourse",
+        "unexplained weight loss"
+    ]
+}

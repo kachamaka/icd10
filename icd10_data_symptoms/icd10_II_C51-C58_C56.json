@@ -1,0 +1,23 @@
+{
+    "icd10code": "C56",
+    "type": "category",
+    "title": "Malignant neoplasm of ovary",
+    "chapter": "Neoplasms",
+    "chapterCode": "II",
+    "block": "Malignant neoplasms of female genital organs",
+    "blockCode": "C51-C58",
+    "category": "Malignant neoplasm of ovary",
+    "categoryCode": "C56",
+    "subcategory": "",
+    "inclusion": [
+        "skin of female genital organs"
+    ],
+    "exclusion": null,
+    "symptoms": [
+        "abdominal pain",
+        "bloating",
+        "irregular menstruation",
+        "urinary frequency",
+        "unexplained weight loss"
+    ]
+}

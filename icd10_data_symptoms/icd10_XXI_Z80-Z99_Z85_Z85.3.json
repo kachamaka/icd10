@@ -1,0 +1,26 @@
+{
+    "icd10code": "Z85.3",
+    "type": "subcategory",
+    "title": "Personal history of malignant neoplasm of breast",
+    "chapter": "Factors influencing health status and contact with health services",
+    "chapterCode": "XXI",
+    "block": "Persons with potential health hazards related to family and personal history and certain conditions influencing health status",
+    "blockCode": "Z80-Z99",
+    "category": "Personal history of malignant neoplasm",
+    "categoryCode": "Z85",
+    "subcategory": "Z85.3",
+    "inclusion": [
+        "Conditions classifiable to C50.-"
+    ],
+    "exclusion": [
+        "follow-up examination",
+        "follow-up medical care and convalescence",
+        "when family or personal history is the reason for special screening or other examination or investigation",
+        "when the possibility that the fetus might be affected is the reason for observation or action during pregnancy",
+        "follow-up medical care and convalescence",
+        "follow-up examination after treatment of malignant neoplasm"
+    ],
+    "symptoms": [
+        "asymptomatic"
+    ]
+}

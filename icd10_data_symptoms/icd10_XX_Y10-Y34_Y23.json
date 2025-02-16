@@ -1,0 +1,17 @@
+{
+    "icd10code": "Y23",
+    "type": "category",
+    "title": "Rifle, shotgun and larger firearm discharge, undetermined intent",
+    "chapter": "External causes of morbidity and mortality",
+    "chapterCode": "XX",
+    "block": "Event of undetermined intent",
+    "blockCode": "Y10-Y34",
+    "category": "Rifle, shotgun and larger firearm discharge, undetermined intent",
+    "categoryCode": "Y23",
+    "subcategory": "",
+    "inclusion": null,
+    "exclusion": null,
+    "symptoms": [
+        "asymptomatic"
+    ]
+}

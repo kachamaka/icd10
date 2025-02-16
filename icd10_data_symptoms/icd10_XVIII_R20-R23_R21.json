@@ -1,0 +1,24 @@
+{
+    "icd10code": "R21",
+    "type": "category",
+    "title": "Rash and other nonspecific skin eruption",
+    "chapter": "Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+    "chapterCode": "XVIII",
+    "block": "Symptoms and signs involving the skin and subcutaneous tissue",
+    "blockCode": "R20-R23",
+    "category": "Rash and other nonspecific skin eruption",
+    "categoryCode": "R21",
+    "subcategory": "",
+    "inclusion": null,
+    "exclusion": [
+        "abnormal findings on antenatal screening of mother",
+        "certain conditions originating in the perinatal period"
+    ],
+    "symptoms": [
+        "skin rash",
+        "redness",
+        "itching",
+        "inflammation",
+        "discoloration"
+    ]
+}

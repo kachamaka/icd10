@@ -1,0 +1,31 @@
+{
+    "icd10code": "C83.0",
+    "type": "subcategory",
+    "title": "Small cell B-cell lymphoma",
+    "chapter": "Neoplasms",
+    "chapterCode": "II",
+    "block": "Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",
+    "blockCode": "C81-C96",
+    "category": "Non-follicular lymphoma",
+    "categoryCode": "C83",
+    "subcategory": "C83.0",
+    "inclusion": [
+        "Lymphoplasmacytic lymphoma",
+        "Nodal marginal zone lymphoma",
+        "Non-leukaemic variant of B-CLL",
+        "Splenic marginal zone lymphoma"
+    ],
+    "exclusion": [
+        "secondary and unspecified neoplasm of lymph nodes",
+        "Chronic lymphocytic leukaemia",
+        "Waldenström macroglobulinaemia",
+        "mature T/NK-cell lymphomas"
+    ],
+    "symptoms": [
+        "swollen lymph nodes",
+        "fatigue",
+        "night sweats",
+        "unexplained weight loss",
+        "fever"
+    ]
+}

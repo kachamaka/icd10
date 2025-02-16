@@ -1,0 +1,23 @@
+{
+    "icd10code": "Z49.1",
+    "type": "subcategory",
+    "title": "Extracorporeal dialysis",
+    "chapter": "Factors influencing health status and contact with health services",
+    "chapterCode": "XXI",
+    "block": "Persons encountering health services for specific procedures and health care",
+    "blockCode": "Z40-Z54",
+    "category": "Care involving dialysis",
+    "categoryCode": "Z49",
+    "subcategory": "Z49.1",
+    "inclusion": [
+        "dialysis preparation and treatment",
+        "Dialysis (renal) NOS"
+    ],
+    "exclusion": [
+        "follow-up examination for medical surveillance after treatment",
+        "renal dialysis status"
+    ],
+    "symptoms": [
+        "asymptomatic"
+    ]
+}

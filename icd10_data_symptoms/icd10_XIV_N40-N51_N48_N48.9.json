@@ -1,0 +1,30 @@
+{
+    "icd10code": "N48.9",
+    "type": "subcategory",
+    "title": "Disorder of penis, unspecified",
+    "chapter": "Diseases of the genitourinary system",
+    "chapterCode": "XIV",
+    "block": "Diseases of male genital organs",
+    "blockCode": "N40-N51",
+    "category": "Other disorders of penis",
+    "categoryCode": "N48",
+    "subcategory": "N48.9",
+    "inclusion": null,
+    "exclusion": [
+        "certain conditions originating in the perinatal period",
+        "certain infectious and parasitic diseases",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified"
+    ],
+    "symptoms": [
+        "painful urination",
+        "penile discharge",
+        "redness or swelling",
+        "difficulty with erection",
+        "itching on the penis"
+    ]
+}

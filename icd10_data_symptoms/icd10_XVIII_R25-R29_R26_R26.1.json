@@ -1,0 +1,30 @@
+{
+    "icd10code": "R26.1",
+    "type": "subcategory",
+    "title": "Paralytic gait",
+    "chapter": "Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+    "chapterCode": "XVIII",
+    "block": "Symptoms and signs involving the nervous and musculoskeletal systems",
+    "blockCode": "R25-R29",
+    "category": "Abnormalities of gait and mobility",
+    "categoryCode": "R26",
+    "subcategory": "R26.1",
+    "inclusion": [
+        "Spastic gait"
+    ],
+    "exclusion": [
+        "abnormal findings on antenatal screening of mother",
+        "certain conditions originating in the perinatal period",
+        "ataxia: NOS",
+        "ataxia: hereditary",
+        "ataxia: locomotor (syphilitic)",
+        "immobility syndrome (paraplegic)"
+    ],
+    "symptoms": [
+        "difficulty walking",
+        "unsteady gait",
+        "imbalance",
+        "swaying while walking",
+        "frequent tripping"
+    ]
+}

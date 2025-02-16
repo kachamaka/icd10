@@ -1,0 +1,27 @@
+{
+    "icd10code": "E01.0",
+    "type": "subcategory",
+    "title": "Iodine-deficiency-related diffuse (endemic) goitre",
+    "chapter": "Endocrine, nutritional and metabolic diseases",
+    "chapterCode": "IV",
+    "block": "Disorders of thyroid gland",
+    "blockCode": "E00-E07",
+    "category": "Iodine-deficiency-related thyroid disorders and allied conditions",
+    "categoryCode": "E01",
+    "subcategory": "E01.0",
+    "inclusion": null,
+    "exclusion": [
+        "complications of pregnancy, childbirth and the puerperium",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "transitory endocrine and metabolic disorders specific to fetus and newborn",
+        "congenital iodine-deficiency syndrome",
+        "subclinical iodine-deficiency hypothyroidism"
+    ],
+    "symptoms": [
+        "enlargement of thyroid",
+        "hyperactivity",
+        "rapid heart rate",
+        "swelling around the eyes",
+        "unexplained weight loss"
+    ]
+}

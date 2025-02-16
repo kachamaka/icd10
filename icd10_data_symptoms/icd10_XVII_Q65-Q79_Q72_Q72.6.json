@@ -1,0 +1,23 @@
+{
+    "icd10code": "Q72.6",
+    "type": "subcategory",
+    "title": "Longitudinal reduction defect of fibula",
+    "chapter": "Congenital malformations, deformations and chromosomal abnormalities",
+    "chapterCode": "XVII",
+    "block": "Congenital malformations and deformations of the musculoskeletal system",
+    "blockCode": "Q65-Q79",
+    "category": "Reduction defects of lower limb",
+    "categoryCode": "Q72",
+    "subcategory": "Q72.6",
+    "inclusion": null,
+    "exclusion": [
+        "inborn errors of metabolism"
+    ],
+    "symptoms": [
+        "partial absence of lower limb",
+        "shortened lower limb",
+        "malformed lower limb",
+        "underdeveloped bones",
+        "limb asymmetry"
+    ]
+}

@@ -1,0 +1,14 @@
+{
+  "type": "subcategory",
+  "chapterCode": "II",
+  "chapter": "Neoplasms",
+  "blockCode": "C76-C80",
+  "block": "Malignant neoplasms of ill-defined, secondary and unspecified sites",
+  "categoryCode": "C78",
+  "category": "Secondary malignant neoplasm of respiratory and digestive organs",
+  "subcategory": "C78.1",
+  "title": "Secondary malignant neoplasm of mediastinum",
+  "inclusion": null,
+  "exclusion": null,
+  "children": null
+}

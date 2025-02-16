@@ -1,0 +1,33 @@
+{
+    "icd10code": "N87.1",
+    "type": "subcategory",
+    "title": "Moderate cervical dysplasia",
+    "chapter": "Diseases of the genitourinary system",
+    "chapterCode": "XIV",
+    "block": "Noninflammatory disorders of female genital tract",
+    "blockCode": "N80-N98",
+    "category": "Dysplasia of cervix uteri",
+    "categoryCode": "N87",
+    "subcategory": "N87.1",
+    "inclusion": [
+        "Cervical intraepithelial neoplasia [CIN], grade II"
+    ],
+    "exclusion": [
+        "certain conditions originating in the perinatal period",
+        "certain infectious and parasitic diseases",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "carcinoma in situ of cervix"
+    ],
+    "symptoms": [
+        "abnormal vaginal bleeding",
+        "pelvic pain",
+        "vaginal discharge",
+        "postcoital bleeding",
+        "cervical inflammation"
+    ]
+}

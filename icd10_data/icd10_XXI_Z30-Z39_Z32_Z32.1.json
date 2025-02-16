@@ -1,0 +1,14 @@
+{
+  "type": "subcategory",
+  "chapterCode": "XXI",
+  "chapter": "Factors influencing health status and contact with health services",
+  "blockCode": "Z30-Z39",
+  "block": "Persons encountering health services in circumstances related to reproduction",
+  "categoryCode": "Z32",
+  "category": "Pregnancy examination and test",
+  "subcategory": "Z32.1",
+  "title": "Pregnancy confirmed",
+  "inclusion": null,
+  "exclusion": null,
+  "children": null
+}

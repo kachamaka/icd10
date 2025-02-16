@@ -1,0 +1,23 @@
+{
+    "icd10code": "D26.0",
+    "type": "subcategory",
+    "title": "Other benign neoplasm: Cervix uteri",
+    "chapter": "Neoplasms",
+    "chapterCode": "II",
+    "block": "Benign neoplasms",
+    "blockCode": "D10-D36",
+    "category": "Other benign neoplasms of uterus",
+    "categoryCode": "D26",
+    "subcategory": "D26.0",
+    "inclusion": [
+        "morphology codes with behaviour code /0"
+    ],
+    "exclusion": null,
+    "symptoms": [
+        "abdominal pain",
+        "menstrual irregularities",
+        "postmenopausal bleeding",
+        "pelvic discomfort",
+        "excessive uterine bleeding"
+    ]
+}

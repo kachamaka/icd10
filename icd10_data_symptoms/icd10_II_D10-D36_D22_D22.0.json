@@ -1,0 +1,28 @@
+{
+    "icd10code": "D22.0",
+    "type": "subcategory",
+    "title": "Melanocytic naevi of lip",
+    "chapter": "Neoplasms",
+    "chapterCode": "II",
+    "block": "Benign neoplasms",
+    "blockCode": "D10-D36",
+    "category": "Melanocytic naevi",
+    "categoryCode": "D22",
+    "subcategory": "D22.0",
+    "inclusion": [
+        "morphology codes with behaviour code /0",
+        "morphology codes M872-M879 with behaviour code /0",
+        "naevus: NOS",
+        "naevus: blue",
+        "naevus: hairy",
+        "naevus: pigmented"
+    ],
+    "exclusion": null,
+    "symptoms": [
+        "darkening skin",
+        "skin lesion",
+        "local pain",
+        "itching",
+        "changes in skin texture"
+    ]
+}

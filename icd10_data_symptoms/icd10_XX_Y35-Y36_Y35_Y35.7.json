@@ -1,0 +1,19 @@
+{
+    "icd10code": "Y35.7",
+    "type": "subcategory",
+    "title": "Legal intervention, means unspecified",
+    "chapter": "External causes of morbidity and mortality",
+    "chapterCode": "XX",
+    "block": "Legal intervention and operations of war",
+    "blockCode": "Y35-Y36",
+    "category": "Legal intervention",
+    "categoryCode": "Y35",
+    "subcategory": "Y35.7",
+    "inclusion": [
+        "injuries inflicted by the police or other law-enforcing agents, including military on duty, in the course of arresting or attempting to arrest lawbreakers, suppressing disturbances, maintaining order, and other legal action"
+    ],
+    "exclusion": null,
+    "symptoms": [
+        "asymptomatic"
+    ]
+}

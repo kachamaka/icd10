@@ -1,0 +1,26 @@
+{
+    "icd10code": "C88.3",
+    "type": "subcategory",
+    "title": "Immunoproliferative small intestinal disease",
+    "chapter": "Neoplasms",
+    "chapterCode": "II",
+    "block": "Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",
+    "blockCode": "C81-C96",
+    "category": "Malignant immunoproliferative diseases",
+    "categoryCode": "C88",
+    "subcategory": "C88.3",
+    "inclusion": [
+        "Alpha heavy chain disease",
+        "Mediterranean lymphoma"
+    ],
+    "exclusion": [
+        "secondary and unspecified neoplasm of lymph nodes"
+    ],
+    "symptoms": [
+        "night sweats",
+        "unexplained weight loss",
+        "fever",
+        "fatigue",
+        "swollen lymph nodes"
+    ]
+}

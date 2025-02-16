@@ -1,0 +1,31 @@
+{
+    "icd10code": "H25.9",
+    "type": "subcategory",
+    "title": "Senile cataract, unspecified",
+    "chapter": "Diseases of the eye and adnexa",
+    "chapterCode": "VII",
+    "block": "Disorders of lens",
+    "blockCode": "H25-H28",
+    "category": "Senile cataract",
+    "categoryCode": "H25",
+    "subcategory": "H25.9",
+    "inclusion": null,
+    "exclusion": [
+        "certain conditions originating in the perinatal period",
+        "certain infectious and parasitic diseases",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "capsular glaucoma with pseudoexfoliation of lens"
+    ],
+    "symptoms": [
+        "blurred vision",
+        "double vision",
+        "sensitivity to light",
+        "difficulty seeing at night",
+        "need for brighter light when reading"
+    ]
+}

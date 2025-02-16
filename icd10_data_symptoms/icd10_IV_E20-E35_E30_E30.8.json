@@ -1,0 +1,29 @@
+{
+    "icd10code": "E30.8",
+    "type": "subcategory",
+    "title": "Other disorders of puberty",
+    "chapter": "Endocrine, nutritional and metabolic diseases",
+    "chapterCode": "IV",
+    "block": "Disorders of other endocrine glands",
+    "blockCode": "E20-E35",
+    "category": "Disorders of puberty, not elsewhere classified",
+    "categoryCode": "E30",
+    "subcategory": "E30.8",
+    "inclusion": [
+        "Premature thelarche"
+    ],
+    "exclusion": [
+        "complications of pregnancy, childbirth and the puerperium",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "transitory endocrine and metabolic disorders specific to fetus and newborn",
+        "galactorrhoea",
+        "gynaecomastia"
+    ],
+    "symptoms": [
+        "abnormal menstruation",
+        "delayed puberty",
+        "excessive hair growth",
+        "breast development failure",
+        "other specific disorders of puberty"
+    ]
+}

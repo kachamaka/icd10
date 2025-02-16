@@ -1,0 +1,30 @@
+{
+    "icd10code": "E31.8",
+    "type": "subcategory",
+    "title": "Other polyglandular dysfunction",
+    "chapter": "Endocrine, nutritional and metabolic diseases",
+    "chapterCode": "IV",
+    "block": "Disorders of other endocrine glands",
+    "blockCode": "E20-E35",
+    "category": "Polyglandular dysfunction",
+    "categoryCode": "E31",
+    "subcategory": "E31.8",
+    "inclusion": null,
+    "exclusion": [
+        "complications of pregnancy, childbirth and the puerperium",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "transitory endocrine and metabolic disorders specific to fetus and newborn",
+        "galactorrhoea",
+        "gynaecomastia",
+        "adrenoleukodystrophy [Addison-Schilder]",
+        "Waterhouse-Friderichsen syndrome",
+        "menopausal and female climacteric states"
+    ],
+    "symptoms": [
+        "abnormal fatigue",
+        "unintended weight loss",
+        "muscle weakness",
+        "low blood pressure",
+        "changes in skin coloration"
+    ]
+}

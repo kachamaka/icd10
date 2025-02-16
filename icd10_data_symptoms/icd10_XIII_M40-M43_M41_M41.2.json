@@ -1,0 +1,39 @@
+{
+    "icd10code": "M41.2",
+    "type": "subcategory",
+    "title": "Other idiopathic scoliosis",
+    "chapter": "Diseases of the musculoskeletal system and connective tissue",
+    "chapterCode": "XIII",
+    "block": "Deforming dorsopathies",
+    "blockCode": "M40-M43",
+    "category": "Scoliosis",
+    "categoryCode": "M41",
+    "subcategory": "M41.2",
+    "inclusion": [
+        "kyphoscoliosis"
+    ],
+    "exclusion": [
+        "certain conditions originating in the perinatal period",
+        "certain disorders of the temporomandibular joint",
+        "certain infectious and parasitic diseases",
+        "compartment syndrome",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "collapsed vertebra in osteoporosis",
+        "neuropathic spondylopathy in tabes dorsalis",
+        "adult-onset Still disease",
+        "post-traumatic arthrosis (of): NOS",
+        "clubbing of fingers"
+    ],
+    "symptoms": [
+        "spinal curvature",
+        "back pain",
+        "uneven shoulders",
+        "fatigue",
+        "reduced range of motion"
+    ]
+}

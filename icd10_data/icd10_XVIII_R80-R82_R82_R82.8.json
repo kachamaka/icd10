@@ -1,0 +1,22 @@
+{
+  "type": "subcategory",
+  "chapterCode": "XVIII",
+  "chapter": "Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+  "blockCode": "R80-R82",
+  "block": "Abnormal findings on examination of urine, without diagnosis",
+  "categoryCode": "R82",
+  "category": "Other abnormal findings in urine",
+  "subcategory": "R82.8",
+  "title": "Abnormal findings on cytological and histological examination of urine",
+  "inclusion": null,
+  "exclusion": [
+    "abnormal findings on antenatal screening of mother",
+    "certain conditions originating in the perinatal period",
+    "abnormal findings on antenatal screening of mother",
+    "diagnostic abnormal findings classified elsewhere - see Alphabetical Index",
+    "specific findings indicating disorder of: amino-acid metabolism",
+    "specific findings indicating disorder of: carbohydrate metabolism",
+    "haematuria"
+  ],
+  "children": null
+}

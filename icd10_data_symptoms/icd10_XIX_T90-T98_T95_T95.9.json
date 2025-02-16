@@ -1,0 +1,31 @@
+{
+    "icd10code": "T95.9",
+    "type": "subcategory",
+    "title": "Sequelae of unspecified burn, corrosion and frostbite",
+    "chapter": "Injury, poisoning and certain other consequences of external causes",
+    "chapterCode": "XIX",
+    "block": "Sequelae of injuries, of poisoning and of other consequences of external causes",
+    "blockCode": "T90-T98",
+    "category": "Sequelae of burns, corrosions and frostbite",
+    "categoryCode": "T95",
+    "subcategory": "T95.9",
+    "inclusion": [
+        "Sequelae of injury classifiable to T30.-, T33.9, T34.9 and T35.7"
+    ],
+    "exclusion": [
+        "birth trauma",
+        "obstetric trauma",
+        "malunion of fracture",
+        "nonunion of fracture [pseudarthrosis]",
+        "pathological fracture",
+        "pathological fracture with osteoporosis",
+        "stress fracture"
+    ],
+    "symptoms": [
+        "pain",
+        "skin discoloration",
+        "delayed healing",
+        "swelling",
+        "tissue scarring"
+    ]
+}

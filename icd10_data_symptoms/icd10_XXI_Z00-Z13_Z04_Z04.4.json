@@ -1,0 +1,26 @@
+{
+    "icd10code": "Z04.4",
+    "type": "subcategory",
+    "title": "Examination and observation following alleged rape and seduction",
+    "chapter": "Factors influencing health status and contact with health services",
+    "chapterCode": "XXI",
+    "block": "Persons encountering health services for examination and investigation",
+    "blockCode": "Z00-Z13",
+    "category": "Examination and observation for other reasons",
+    "categoryCode": "Z04",
+    "subcategory": "Z04.4",
+    "inclusion": [
+        "examination for medicolegal reasons",
+        "Examination of victim or culprit following alleged rape or seduction"
+    ],
+    "exclusion": [
+        "examinations related to pregnancy and reproduction"
+    ],
+    "symptoms": [
+        "headache",
+        "dizziness",
+        "nausea",
+        "confusion",
+        "fatigue"
+    ]
+}

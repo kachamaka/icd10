@@ -1,0 +1,24 @@
+{
+    "icd10code": "Q31.2",
+    "type": "subcategory",
+    "title": "Laryngeal hypoplasia",
+    "chapter": "Congenital malformations, deformations and chromosomal abnormalities",
+    "chapterCode": "XVII",
+    "block": "Congenital malformations of the respiratory system",
+    "blockCode": "Q30-Q34",
+    "category": "Congenital malformations of larynx",
+    "categoryCode": "Q31",
+    "subcategory": "Q31.2",
+    "inclusion": null,
+    "exclusion": [
+        "inborn errors of metabolism",
+        "congenital (laryngeal) stridor NOS"
+    ],
+    "symptoms": [
+        "hoarseness",
+        "difficulty breathing",
+        "stridor",
+        "recurrent respiratory infections",
+        "chronic cough"
+    ]
+}

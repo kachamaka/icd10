@@ -1,0 +1,32 @@
+{
+  "type": "subcategory",
+  "chapterCode": "I",
+  "chapter": "Certain infectious and parasitic diseases",
+  "blockCode": "A15-A19",
+  "block": "Tuberculosis",
+  "categoryCode": "A18",
+  "category": "Tuberculosis of other organs",
+  "subcategory": "A18.2",
+  "title": "Tuberculous peripheral lymphadenopathy",
+  "inclusion": [
+    "diseases generally recognized as communicable or transmissible",
+    "infections due to Mycobacterium tuberculosis and Mycobacterium bovis",
+    "Tuberculous adenitis"
+  ],
+  "exclusion": [
+    "carrier or suspected carrier of infectious disease",
+    "certain localized infections - see body system-related chapters",
+    "infectious and parasitic diseases complicating pregnancy, childbirth and the puerperium [except obstetrical tetanus]",
+    "infectious and parasitic diseases specific to the perinatal period [except tetanus neonatorum, whooping cough, congenital syphilis, perinatal gonococcal infection and perinatal human immunodeficiency virus [HIV] disease]",
+    "influenza and other acute respiratory infections",
+    "congenital tuberculosis",
+    "human immunodeficieny [HIV] disease resulting in tuberculosis",
+    "pneumoconiosis associated with tuberculosis",
+    "sequelae of tuberculosis",
+    "silicotuberculosis",
+    "tuberculosis of lymph nodes: intrathoracic",
+    "tuberculosis of lymph nodes: mesenteric and retroperitoneal",
+    "tuberculous tracheobronchial adenopathy"
+  ],
+  "children": null
+}

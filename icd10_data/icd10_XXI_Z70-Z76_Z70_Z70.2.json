@@ -1,0 +1,20 @@
+{
+  "type": "subcategory",
+  "chapterCode": "XXI",
+  "chapter": "Factors influencing health status and contact with health services",
+  "blockCode": "Z70-Z76",
+  "block": "Persons encountering health services in other circumstances",
+  "categoryCode": "Z70",
+  "category": "Counselling related to sexual attitude, behaviour and orientation",
+  "subcategory": "Z70.2",
+  "title": "Counselling related to sexual behaviour and orientation of third party",
+  "inclusion": [
+    "Advice sought regarding sexual behaviour and orientation of: child",
+    "Advice sought regarding sexual behaviour and orientation of: partner",
+    "Advice sought regarding sexual behaviour and orientation of: spouse"
+  ],
+  "exclusion": [
+    "contraceptive or procreative counselling"
+  ],
+  "children": null
+}

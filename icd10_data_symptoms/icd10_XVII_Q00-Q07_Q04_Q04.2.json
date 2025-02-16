@@ -1,0 +1,25 @@
+{
+    "icd10code": "Q04.2",
+    "type": "subcategory",
+    "title": "Holoprosencephaly",
+    "chapter": "Congenital malformations, deformations and chromosomal abnormalities",
+    "chapterCode": "XVII",
+    "block": "Congenital malformations of the nervous system",
+    "blockCode": "Q00-Q07",
+    "category": "Other congenital malformations of brain",
+    "categoryCode": "Q04",
+    "subcategory": "Q04.2",
+    "inclusion": null,
+    "exclusion": [
+        "inborn errors of metabolism",
+        "cyclopia",
+        "macrocephaly"
+    ],
+    "symptoms": [
+        "developmental delay",
+        "seizures",
+        "intellectual disability",
+        "hypotonia",
+        "motor skill impairment"
+    ]
+}

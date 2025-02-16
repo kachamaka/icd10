@@ -1,0 +1,18 @@
+{
+  "type": "subcategory",
+  "chapterCode": "XVII",
+  "chapter": "Congenital malformations, deformations and chromosomal abnormalities",
+  "blockCode": "Q20-Q28",
+  "block": "Congenital malformations of the circulatory system",
+  "categoryCode": "Q23",
+  "category": "Congenital malformations of aortic and mitral valves",
+  "subcategory": "Q23.2",
+  "title": "Congenital mitral stenosis",
+  "inclusion": [
+    "Congenital mitral atresia"
+  ],
+  "exclusion": [
+    "inborn errors of metabolism"
+  ],
+  "children": null
+}

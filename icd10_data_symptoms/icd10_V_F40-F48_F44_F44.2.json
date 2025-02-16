@@ -1,0 +1,36 @@
+{
+    "icd10code": "F44.2",
+    "type": "subcategory",
+    "title": "Dissociative stupor",
+    "chapter": "Mental and behavioural disorders",
+    "chapterCode": "V",
+    "block": "Neurotic, stress-related and somatoform disorders",
+    "blockCode": "F40-F48",
+    "category": "Dissociative [conversion] disorders",
+    "categoryCode": "F44",
+    "subcategory": "F44.2",
+    "inclusion": [
+        "disorders of psychological development",
+        "conversion: hysteria",
+        "conversion: reaction",
+        "hysteria",
+        "hysterical psychosis"
+    ],
+    "exclusion": [
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "when associated with conduct disorder in F91.-",
+        "malingering [conscious simulation]",
+        "organic catatonic disorder",
+        "stupor: NOS",
+        "stupor: catatonic",
+        "stupor: depressive",
+        "stupor: manic"
+    ],
+    "symptoms": [
+        "amnesia",
+        "confusion",
+        "anxiety",
+        "difficulty with personal identity",
+        "gaps in memory"
+    ]
+}

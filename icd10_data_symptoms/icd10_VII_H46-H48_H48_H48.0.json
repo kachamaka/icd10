@@ -1,0 +1,32 @@
+{
+    "icd10code": "H48.0",
+    "type": "subcategory",
+    "title": "Optic atrophy in diseases classified elsewhere",
+    "chapter": "Diseases of the eye and adnexa",
+    "chapterCode": "VII",
+    "block": "Disorders of optic nerve and visual pathways",
+    "blockCode": "H46-H48",
+    "category": "Disorders of optic [2nd] nerve and visual pathways in diseases classified elsewhere",
+    "categoryCode": "H48",
+    "subcategory": "H48.0",
+    "inclusion": [
+        "Optic atrophy in late syphilis"
+    ],
+    "exclusion": [
+        "certain conditions originating in the perinatal period",
+        "certain infectious and parasitic diseases",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified"
+    ],
+    "symptoms": [
+        "visual disturbances",
+        "eye strain",
+        "blurred vision",
+        "headaches",
+        "difficulty focusing"
+    ]
+}

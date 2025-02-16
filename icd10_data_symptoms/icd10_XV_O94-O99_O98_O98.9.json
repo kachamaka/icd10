@@ -1,0 +1,38 @@
+{
+    "icd10code": "O98.9",
+    "type": "subcategory",
+    "title": "Unspecified maternal infectious or parasitic disease complicating pregnancy, childbirth and the puerperium",
+    "chapter": "Pregnancy, childbirth and the puerperium",
+    "chapterCode": "XV",
+    "block": "Other obstetric conditions, not elsewhere classified",
+    "blockCode": "O94-O99",
+    "category": "Maternal infectious and parasitic diseases classifiable elsewhere but complicating pregnancy, childbirth and the puerperium",
+    "categoryCode": "O98",
+    "subcategory": "O98.9",
+    "inclusion": [
+        "the listed conditions when complicating the pregnant state, when aggravated by the pregnancy, or as a reason for obstetric care"
+    ],
+    "exclusion": [
+        "Certain diseases or injuries complicating pregnancy, childbirth and the puerperium classified elsewhere: external causes (for mortality)",
+        "Certain diseases or injuries complicating pregnancy, childbirth and the puerperium classified elsewhere: injury, poisoning and certain other consequences of external cause",
+        "Certain diseases or injuries complicating pregnancy, childbirth and the puerperium classified elsewhere: mental and behavioural disorders associated with the puerperium",
+        "Certain diseases or injuries complicating pregnancy, childbirth and the puerperium classified elsewhere: obstetrical tetanus",
+        "Certain diseases or injuries complicating pregnancy, childbirth and the puerperium classified elsewhere: postpartum necrosis of pituitary gland",
+        "Certain diseases or injuries complicating pregnancy, childbirth and the puerperium classified elsewhere: puerperal osteomalacia",
+        "supervision of: high-risk pregnancy",
+        "supervision of: normal pregnancy",
+        "asymptomatic human immunodeficiency virus [HIV] infection status",
+        "laboratory evidence of human immunodeficiency virus [HIV]",
+        "obstetrical tetanus",
+        "puerperal: infection",
+        "puerperal: sepsis",
+        "when the reason for maternal care is that the disease is known or suspected to have affected the fetus"
+    ],
+    "symptoms": [
+        "fever",
+        "fatigue",
+        "weight loss",
+        "night sweats",
+        "general malaise"
+    ]
+}

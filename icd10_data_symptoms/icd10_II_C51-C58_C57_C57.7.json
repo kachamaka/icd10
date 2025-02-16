@@ -1,0 +1,24 @@
+{
+    "icd10code": "C57.7",
+    "type": "subcategory",
+    "title": "Malignant neoplasm: Other specified female genital organs",
+    "chapter": "Neoplasms",
+    "chapterCode": "II",
+    "block": "Malignant neoplasms of female genital organs",
+    "blockCode": "C51-C58",
+    "category": "Malignant neoplasm of other and unspecified female genital organs",
+    "categoryCode": "C57",
+    "subcategory": "C57.7",
+    "inclusion": [
+        "skin of female genital organs",
+        "Wolffian body or duct"
+    ],
+    "exclusion": null,
+    "symptoms": [
+        "abdominal pain",
+        "irregular menstrual cycles",
+        "pelvic discomfort",
+        "unusual vaginal bleeding",
+        "loss of appetite"
+    ]
+}

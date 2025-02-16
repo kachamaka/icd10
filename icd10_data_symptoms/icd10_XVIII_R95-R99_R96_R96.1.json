@@ -1,0 +1,31 @@
+{
+    "icd10code": "R96.1",
+    "type": "subcategory",
+    "title": "Death occurring less than 24 hours from onset of symptoms, not otherwise explained",
+    "chapter": "Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+    "chapterCode": "XVIII",
+    "block": "Ill-defined and unknown causes of mortality",
+    "blockCode": "R95-R99",
+    "category": "Other sudden death, cause unknown",
+    "categoryCode": "R96",
+    "subcategory": "R96.1",
+    "inclusion": [
+        "Death known not to be violent or instantaneous for which no cause can be discovered",
+        "Death without sign of disease"
+    ],
+    "exclusion": [
+        "abnormal findings on antenatal screening of mother",
+        "certain conditions originating in the perinatal period",
+        "fetal death of unspecified cause",
+        "obstetric death NOS",
+        "sudden: cardiac death, so described",
+        "sudden: infant death syndrome"
+    ],
+    "symptoms": [
+        "sudden collapse",
+        "unresponsiveness",
+        "cessation of breathing",
+        "absence of pulse",
+        "loss of consciousness"
+    ]
+}

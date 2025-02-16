@@ -1,0 +1,23 @@
+{
+    "icd10code": "D47.3",
+    "type": "subcategory",
+    "title": "Essential (haemorrhagic) thrombocythaemia",
+    "chapter": "Neoplasms",
+    "chapterCode": "II",
+    "block": "Neoplasms of uncertain or unknown behaviour",
+    "blockCode": "D37-D48",
+    "category": "Other neoplasms of uncertain or unknown behaviour of lymphoid, haematopoietic and related tissue",
+    "categoryCode": "D47",
+    "subcategory": "D47.3",
+    "inclusion": [
+        "Idiopathic haemorrhagic thrombocythaemia"
+    ],
+    "exclusion": null,
+    "symptoms": [
+        "unintentional weight loss",
+        "night sweats",
+        "enlarged lymph nodes",
+        "fever",
+        "fatigue"
+    ]
+}

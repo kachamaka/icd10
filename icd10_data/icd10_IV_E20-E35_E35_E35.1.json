@@ -1,0 +1,23 @@
+{
+  "type": "subcategory",
+  "chapterCode": "IV",
+  "chapter": "Endocrine, nutritional and metabolic diseases",
+  "blockCode": "E20-E35",
+  "block": "Disorders of other endocrine glands",
+  "categoryCode": "E35",
+  "category": "Disorders of endocrine glands in diseases classified elsewhere",
+  "subcategory": "E35.1",
+  "title": "Disorders of adrenal glands in diseases classified elsewhere",
+  "inclusion": [
+    "Tuberculous Addison disease",
+    "Waterhouse-Friderichsen syndrome (meningococcal)"
+  ],
+  "exclusion": [
+    "complications of pregnancy, childbirth and the puerperium",
+    "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+    "transitory endocrine and metabolic disorders specific to fetus and newborn",
+    "galactorrhoea",
+    "gynaecomastia"
+  ],
+  "children": null
+}

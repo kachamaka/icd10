@@ -1,0 +1,26 @@
+{
+  "type": "category",
+  "chapterCode": "IV",
+  "chapter": "Endocrine, nutritional and metabolic diseases",
+  "blockCode": "E40-E46",
+  "block": "Malnutrition",
+  "categoryCode": "E42",
+  "category": "Marasmic kwashiorkor",
+  "subcategory": "",
+  "title": "Marasmic kwashiorkor",
+  "inclusion": [
+    "Severe protein-energy malnutrition [as in E43]: intermediate form",
+    "Severe protein-energy malnutrition [as in E43]: with signs of both kwashiorkor and marasmus"
+  ],
+  "exclusion": [
+    "complications of pregnancy, childbirth and the puerperium",
+    "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+    "transitory endocrine and metabolic disorders specific to fetus and newborn",
+    "intestinal malabsorption",
+    "nutritional anaemias",
+    "sequelae of protein-energy malnutrition",
+    "slim disease",
+    "starvation"
+  ],
+  "children": null
+}

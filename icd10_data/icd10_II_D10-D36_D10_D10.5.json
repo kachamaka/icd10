@@ -1,0 +1,23 @@
+{
+  "type": "subcategory",
+  "chapterCode": "II",
+  "chapter": "Neoplasms",
+  "blockCode": "D10-D36",
+  "block": "Benign neoplasms",
+  "categoryCode": "D10",
+  "category": "Benign neoplasm of mouth and pharynx",
+  "subcategory": "D10.5",
+  "title": "Benign neoplasm: Other parts of oropharynx",
+  "inclusion": [
+    "morphology codes with behaviour code /0",
+    "Epiglottis, anterior aspect",
+    "Tonsillar: fossa",
+    "Tonsillar: pillars",
+    "Vallecula"
+  ],
+  "exclusion": [
+    "epiglottis: NOS",
+    "epiglottis: suprahyoid portion"
+  ],
+  "children": null
+}

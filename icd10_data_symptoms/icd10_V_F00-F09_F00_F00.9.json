@@ -1,0 +1,25 @@
+{
+    "icd10code": "F00.9",
+    "type": "subcategory",
+    "title": "Dementia in Alzheimer disease, unspecified",
+    "chapter": "Mental and behavioural disorders",
+    "chapterCode": "V",
+    "block": "Organic, including symptomatic, mental disorders",
+    "blockCode": "F00-F09",
+    "category": "Dementia in Alzheimer disease",
+    "categoryCode": "F00",
+    "subcategory": "F00.9",
+    "inclusion": [
+        "disorders of psychological development"
+    ],
+    "exclusion": [
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified"
+    ],
+    "symptoms": [
+        "memory loss",
+        "confusion",
+        "difficulty with language",
+        "impaired judgment",
+        "and personality changes"
+    ]
+}

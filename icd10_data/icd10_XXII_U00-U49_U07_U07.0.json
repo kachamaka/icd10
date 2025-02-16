@@ -1,0 +1,22 @@
+{
+  "type": "subcategory",
+  "chapterCode": "XXII",
+  "chapter": "Codes for special purposes",
+  "blockCode": "U00-U49",
+  "block": "Provisional assignment of new diseases of uncertain etiology or emergency use",
+  "categoryCode": "U07",
+  "category": "Emergency use of U07",
+  "subcategory": "U07.0",
+  "title": "Vaping-related disorder",
+  "inclusion": [
+    "dabbing related lung damage",
+    "dabbing related disorde",
+    "electronic cigarette related lung damage",
+    "electronic cigarette related lung injury",
+    "dabbing related lung injury",
+    "e-cigarette - [electronic] cigarette related disorder",
+    "EVALI - [e-cigarette, or vaping, product use associated lung injury]"
+  ],
+  "exclusion": null,
+  "children": null
+}

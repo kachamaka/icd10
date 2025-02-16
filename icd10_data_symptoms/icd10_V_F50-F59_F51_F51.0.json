@@ -1,0 +1,27 @@
+{
+    "icd10code": "F51.0",
+    "type": "subcategory",
+    "title": "Nonorganic insomnia",
+    "chapter": "Mental and behavioural disorders",
+    "chapterCode": "V",
+    "block": "Behavioural syndromes associated with physiological disturbances and physical factors",
+    "blockCode": "F50-F59",
+    "category": "Nonorganic sleep disorders",
+    "categoryCode": "F51",
+    "subcategory": "F51.0",
+    "inclusion": [
+        "disorders of psychological development"
+    ],
+    "exclusion": [
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "sleep disorders (organic)",
+        "insomnia (organic)"
+    ],
+    "symptoms": [
+        "difficulty falling asleep",
+        "maintaining sleep",
+        "waking up frequently",
+        "poor sleep quality",
+        "daytime fatigue"
+    ]
+}

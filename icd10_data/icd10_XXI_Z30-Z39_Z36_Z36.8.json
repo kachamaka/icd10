@@ -1,0 +1,19 @@
+{
+  "type": "subcategory",
+  "chapterCode": "XXI",
+  "chapter": "Factors influencing health status and contact with health services",
+  "blockCode": "Z30-Z39",
+  "block": "Persons encountering health services in circumstances related to reproduction",
+  "categoryCode": "Z36",
+  "category": "Antenatal screening",
+  "subcategory": "Z36.8",
+  "title": "Other antenatal screening",
+  "inclusion": [
+    "Screening for haemoglobinopathy"
+  ],
+  "exclusion": [
+    "abnormal findings on antenatal screening of mother",
+    "routine prenatal care"
+  ],
+  "children": null
+}

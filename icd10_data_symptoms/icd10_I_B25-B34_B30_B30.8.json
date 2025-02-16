@@ -1,0 +1,32 @@
+{
+    "icd10code": "B30.8",
+    "type": "subcategory",
+    "title": "Other viral conjunctivitis",
+    "chapter": "Certain infectious and parasitic diseases",
+    "chapterCode": "I",
+    "block": "Other viral diseases",
+    "blockCode": "B25-B34",
+    "category": "Viral conjunctivitis",
+    "categoryCode": "B30",
+    "subcategory": "B30.8",
+    "inclusion": [
+        "diseases generally recognized as communicable or transmissible",
+        "Newcastle conjunctivitis"
+    ],
+    "exclusion": [
+        "carrier or suspected carrier of infectious disease",
+        "certain localized infections - see body system-related chapters",
+        "infectious and parasitic diseases complicating pregnancy, childbirth and the puerperium [except obstetrical tetanus]",
+        "infectious and parasitic diseases specific to the perinatal period [except tetanus neonatorum, whooping cough, congenital syphilis, perinatal gonococcal infection and perinatal human immunodeficiency virus [HIV] disease]",
+        "influenza and other acute respiratory infections",
+        "haemorrhagic fever with renal manifestations",
+        "monkeypox"
+    ],
+    "symptoms": [
+        "conjunctival redness",
+        "eye discomfort",
+        "tearing",
+        "blurry vision",
+        "eyelid swelling"
+    ]
+}

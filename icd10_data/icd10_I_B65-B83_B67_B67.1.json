@@ -1,0 +1,23 @@
+{
+  "type": "subcategory",
+  "chapterCode": "I",
+  "chapter": "Certain infectious and parasitic diseases",
+  "blockCode": "B65-B83",
+  "block": "Helminthiases",
+  "categoryCode": "B67",
+  "category": "Echinococcosis",
+  "subcategory": "B67.1",
+  "title": "Echinococcus granulosus infection of lung",
+  "inclusion": [
+    "diseases generally recognized as communicable or transmissible",
+    "hydatidosis"
+  ],
+  "exclusion": [
+    "carrier or suspected carrier of infectious disease",
+    "certain localized infections - see body system-related chapters",
+    "infectious and parasitic diseases complicating pregnancy, childbirth and the puerperium [except obstetrical tetanus]",
+    "infectious and parasitic diseases specific to the perinatal period [except tetanus neonatorum, whooping cough, congenital syphilis, perinatal gonococcal infection and perinatal human immunodeficiency virus [HIV] disease]",
+    "influenza and other acute respiratory infections"
+  ],
+  "children": null
+}

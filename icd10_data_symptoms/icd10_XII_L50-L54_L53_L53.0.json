@@ -1,0 +1,38 @@
+{
+    "icd10code": "L53.0",
+    "type": "subcategory",
+    "title": "Toxic erythema",
+    "chapter": "Diseases of the skin and subcutaneous tissue",
+    "chapterCode": "XII",
+    "block": "Urticaria and erythema",
+    "blockCode": "L50-L54",
+    "category": "Other erythematous conditions",
+    "categoryCode": "L53",
+    "subcategory": "L53.0",
+    "inclusion": null,
+    "exclusion": [
+        "certain conditions originating in the perinatal period",
+        "certain infectious and parasitic diseases",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "lipomelanotic reticulosis",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "systemic connective tissue disorders",
+        "decubitus [pressure] ulcer and pressure area",
+        "gangrene",
+        "skin infections",
+        "keratosis follicularis (congenital) [Darier-White]",
+        "varicose ulcer",
+        "neonatal erythema toxicum"
+    ],
+    "symptoms": [
+        "rash",
+        "facial flushing",
+        "itching",
+        "feeling of warmth",
+        "headache"
+    ]
+}

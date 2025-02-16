@@ -1,0 +1,24 @@
+{
+    "icd10code": "C40.1",
+    "type": "subcategory",
+    "title": "Malignant neoplasm: Short bones of upper limb",
+    "chapter": "Neoplasms",
+    "chapterCode": "II",
+    "block": "Malignant neoplasms of bone and articular cartilage",
+    "blockCode": "C40-C41",
+    "category": "Malignant neoplasm of bone and articular cartilage of limbs",
+    "categoryCode": "C40",
+    "subcategory": "C40.1",
+    "inclusion": null,
+    "exclusion": [
+        "bone marrow NOS",
+        "synovia"
+    ],
+    "symptoms": [
+        "bone pain",
+        "swelling in affected area",
+        "decreased mobility",
+        "noticeable lump or mass",
+        "unexplained fatigue"
+    ]
+}

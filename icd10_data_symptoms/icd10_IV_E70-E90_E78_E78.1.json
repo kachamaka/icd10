@@ -1,0 +1,38 @@
+{
+    "icd10code": "E78.1",
+    "type": "subcategory",
+    "title": "Pure hyperglyceridaemia",
+    "chapter": "Endocrine, nutritional and metabolic diseases",
+    "chapterCode": "IV",
+    "block": "Metabolic disorders",
+    "blockCode": "E70-E90",
+    "category": "Disorders of lipoprotein metabolism and other lipidaemias",
+    "categoryCode": "E78",
+    "subcategory": "E78.1",
+    "inclusion": [
+        "Endogenous hyperglyceridaemia",
+        "Fredrickson hyperlipoproteinaemia, type IV",
+        "Hyperlipidaemia, group B",
+        "Hyperprebetalipoproteinaemia",
+        "Very-low-density-lipoprotein-type [VLDL] hyperlipoproteinaemia"
+    ],
+    "exclusion": [
+        "complications of pregnancy, childbirth and the puerperium",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "transitory endocrine and metabolic disorders specific to fetus and newborn",
+        "androgen resistance syndrome",
+        "congenital adrenal hyperplasia",
+        "Ehlers-Danlos syndrome",
+        "haemolytic anaemias due to enzyme disorders",
+        "Marfan syndrome",
+        "5-alpha-reductase deficiency",
+        "Schilder disease"
+    ],
+    "symptoms": [
+        "chest pain",
+        "fatigue",
+        "shortness of breath",
+        "visible fatty lumps under the skin",
+        "swelling in hands or feet"
+    ]
+}

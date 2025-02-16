@@ -1,0 +1,36 @@
+{
+    "icd10code": "T33.9",
+    "type": "subcategory",
+    "title": "Superficial frostbite of other and unspecified sites",
+    "chapter": "Injury, poisoning and certain other consequences of external causes",
+    "chapterCode": "XIX",
+    "block": "Frostbite",
+    "blockCode": "T33-T35",
+    "category": "Superficial frostbite",
+    "categoryCode": "T33",
+    "subcategory": "T33.9",
+    "inclusion": [
+        "frostbite with partial-thickness skin loss",
+        "Superficial frostbite (of): NOS",
+        "Superficial frostbite (of): leg NOS",
+        "Superficial frostbite (of): trunk NOS"
+    ],
+    "exclusion": [
+        "birth trauma",
+        "obstetric trauma",
+        "malunion of fracture",
+        "nonunion of fracture [pseudarthrosis]",
+        "pathological fracture",
+        "pathological fracture with osteoporosis",
+        "stress fracture",
+        "adverse effects of drugs and medicaments",
+        "superficial frostbite involving multiple body regions"
+    ],
+    "symptoms": [
+        "cold skin",
+        "numbness",
+        "tingling",
+        "pale skin",
+        "reduced sensation"
+    ]
+}

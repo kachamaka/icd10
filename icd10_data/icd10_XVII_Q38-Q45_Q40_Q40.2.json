@@ -1,0 +1,23 @@
+{
+  "type": "subcategory",
+  "chapterCode": "XVII",
+  "chapter": "Congenital malformations, deformations and chromosomal abnormalities",
+  "blockCode": "Q38-Q45",
+  "block": "Other congenital malformations of the digestive system",
+  "categoryCode": "Q40",
+  "category": "Other congenital malformations of upper alimentary tract",
+  "subcategory": "Q40.2",
+  "title": "Other specified congenital malformations of stomach",
+  "inclusion": [
+    "Congenital: displacement of stomach",
+    "Congenital: diverticulum of stomach",
+    "Congenital: hourglass stomach",
+    "Duplication of stomach",
+    "Megalogastria",
+    "Microgastria"
+  ],
+  "exclusion": [
+    "inborn errors of metabolism"
+  ],
+  "children": null
+}

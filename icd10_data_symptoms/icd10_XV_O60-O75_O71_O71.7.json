@@ -1,0 +1,35 @@
+{
+    "icd10code": "O71.7",
+    "type": "subcategory",
+    "title": "Obstetric haematoma of pelvis",
+    "chapter": "Pregnancy, childbirth and the puerperium",
+    "chapterCode": "XV",
+    "block": "Complications of labour and delivery",
+    "blockCode": "O60-O75",
+    "category": "Other obstetric trauma",
+    "categoryCode": "O71",
+    "subcategory": "O71.7",
+    "inclusion": [
+        "damage from instruments",
+        "Obstetric haematoma of: perineum",
+        "Obstetric haematoma of: vagina",
+        "Obstetric haematoma of: vulva"
+    ],
+    "exclusion": [
+        "Certain diseases or injuries complicating pregnancy, childbirth and the puerperium classified elsewhere: external causes (for mortality)",
+        "Certain diseases or injuries complicating pregnancy, childbirth and the puerperium classified elsewhere: injury, poisoning and certain other consequences of external cause",
+        "Certain diseases or injuries complicating pregnancy, childbirth and the puerperium classified elsewhere: mental and behavioural disorders associated with the puerperium",
+        "Certain diseases or injuries complicating pregnancy, childbirth and the puerperium classified elsewhere: obstetrical tetanus",
+        "Certain diseases or injuries complicating pregnancy, childbirth and the puerperium classified elsewhere: postpartum necrosis of pituitary gland",
+        "Certain diseases or injuries complicating pregnancy, childbirth and the puerperium classified elsewhere: puerperal osteomalacia",
+        "supervision of: high-risk pregnancy",
+        "supervision of: normal pregnancy"
+    ],
+    "symptoms": [
+        "pelvic pain",
+        "vaginal bleeding",
+        "abdominal tenderness",
+        "uterine rupture",
+        "fetal distress"
+    ]
+}

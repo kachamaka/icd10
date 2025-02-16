@@ -1,0 +1,27 @@
+{
+    "icd10code": "Q50.0",
+    "type": "subcategory",
+    "title": "Congenital absence of ovary",
+    "chapter": "Congenital malformations, deformations and chromosomal abnormalities",
+    "chapterCode": "XVII",
+    "block": "Congenital malformations of genital organs",
+    "blockCode": "Q50-Q56",
+    "category": "Congenital malformations of ovaries, fallopian tubes and broad ligaments",
+    "categoryCode": "Q50",
+    "subcategory": "Q50.0",
+    "inclusion": null,
+    "exclusion": [
+        "inborn errors of metabolism",
+        "androgen resistance syndrome",
+        "syndromes associated with anomalies in the number and form of chromosomes",
+        "testicular feminization syndrome",
+        "Turner syndrome"
+    ],
+    "symptoms": [
+        "absent ovaries",
+        "primary amenorrhea",
+        "infertility",
+        "delayed puberty",
+        "irregular menstruation"
+    ]
+}

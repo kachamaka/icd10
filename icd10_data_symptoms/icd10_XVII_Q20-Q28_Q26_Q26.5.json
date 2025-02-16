@@ -1,0 +1,23 @@
+{
+    "icd10code": "Q26.5",
+    "type": "subcategory",
+    "title": "Anomalous portal venous connection",
+    "chapter": "Congenital malformations, deformations and chromosomal abnormalities",
+    "chapterCode": "XVII",
+    "block": "Congenital malformations of the circulatory system",
+    "blockCode": "Q20-Q28",
+    "category": "Congenital malformations of great veins",
+    "categoryCode": "Q26",
+    "subcategory": "Q26.5",
+    "inclusion": null,
+    "exclusion": [
+        "inborn errors of metabolism"
+    ],
+    "symptoms": [
+        "abnormal blood flow",
+        "visible vascular anomaly",
+        "swelling",
+        "cyanosis",
+        "reduced oxygenation"
+    ]
+}

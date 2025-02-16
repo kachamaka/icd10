@@ -1,0 +1,45 @@
+{
+    "icd10code": "A09.0",
+    "type": "subcategory",
+    "title": "Other and unspecified gastroenteritis and colitis of infectious origin",
+    "chapter": "Certain infectious and parasitic diseases",
+    "chapterCode": "I",
+    "block": "Intestinal infectious diseases",
+    "blockCode": "A00-A09",
+    "category": "Other gastroenteritis and colitis of infectious and unspecified origin",
+    "categoryCode": "A09",
+    "subcategory": "A09.0",
+    "inclusion": [
+        "diseases generally recognized as communicable or transmissible",
+        "Catarrh, enteric or intestinal",
+        "Diarrhoea: acute bloody",
+        "Diarrhoea: acute haemorrhagic",
+        "Diarrhoea: acute watery",
+        "Diarrhoea: dysenteric",
+        "Diarrhoea: epidemic",
+        "Infectious or septic colitis NOS",
+        "Infectious or septic colitis haemorrhagic",
+        "Infectious or septic enteritis NOS",
+        "Infectious or septic enteritis haemorrhagic",
+        "Infectious or septic gastroenteritis NOS",
+        "Infectious or septic gastroenteritis haemorrhagic",
+        "Infectious (neonatal) diarrhoea NOS"
+    ],
+    "exclusion": [
+        "carrier or suspected carrier of infectious disease",
+        "certain localized infections - see body system-related chapters",
+        "infectious and parasitic diseases complicating pregnancy, childbirth and the puerperium [except obstetrical tetanus]",
+        "infectious and parasitic diseases specific to the perinatal period [except tetanus neonatorum, whooping cough, congenital syphilis, perinatal gonococcal infection and perinatal human immunodeficiency virus [HIV] disease]",
+        "influenza and other acute respiratory infections",
+        "postpolio syndrome",
+        "capillariasis: intestinal",
+        "extraintestinal yersiniosis"
+    ],
+    "symptoms": [
+        "diarrhea",
+        "stomach pain",
+        "nausea or vomiting",
+        "fever",
+        "loss of appetite"
+    ]
+}

@@ -1,0 +1,14 @@
+{
+  "type": "subcategory",
+  "chapterCode": "XX",
+  "chapter": "External causes of morbidity and mortality",
+  "blockCode": "Y85-Y89",
+  "block": "Sequelae of external causes of morbidity and mortality",
+  "categoryCode": "Y88",
+  "category": "Sequelae with surgical and medical care as external cause",
+  "subcategory": "Y88.1",
+  "title": "Sequelae of misadventures to patients during surgical and medical procedures",
+  "inclusion": null,
+  "exclusion": null,
+  "children": null
+}

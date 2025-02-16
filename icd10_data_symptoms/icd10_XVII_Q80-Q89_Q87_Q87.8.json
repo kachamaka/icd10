@@ -1,0 +1,27 @@
+{
+    "icd10code": "Q87.8",
+    "type": "subcategory",
+    "title": "Other specified congenital malformation syndromes, not elsewhere classified",
+    "chapter": "Congenital malformations, deformations and chromosomal abnormalities",
+    "chapterCode": "XVII",
+    "block": "Other congenital malformations",
+    "blockCode": "Q80-Q89",
+    "category": "Other specified congenital malformation syndromes affecting multiple systems",
+    "categoryCode": "Q87",
+    "subcategory": "Q87.8",
+    "inclusion": [
+        "Syndrome: Alport",
+        "Syndrome: Laurence-Moon(-Bardet)-Biedl",
+        "Syndrome: Zellweger"
+    ],
+    "exclusion": [
+        "inborn errors of metabolism"
+    ],
+    "symptoms": [
+        "facial dysmorphism",
+        "growth delay",
+        "congenital anomalies",
+        "developmental delay",
+        "intellectual disability"
+    ]
+}

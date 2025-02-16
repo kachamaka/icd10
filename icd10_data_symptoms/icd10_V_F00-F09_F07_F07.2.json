@@ -1,0 +1,28 @@
+{
+    "icd10code": "F07.2",
+    "type": "subcategory",
+    "title": "Postconcussional syndrome",
+    "chapter": "Mental and behavioural disorders",
+    "chapterCode": "V",
+    "block": "Organic, including symptomatic, mental disorders",
+    "blockCode": "F00-F09",
+    "category": "Personality and behavioural disorders due to brain disease, damage and dysfunction",
+    "categoryCode": "F07",
+    "subcategory": "F07.2",
+    "inclusion": [
+        "disorders of psychological development",
+        "Postcontusional syndrome (encephalopathy)",
+        "Post-traumatic brain syndrome, nonpsychotic"
+    ],
+    "exclusion": [
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "current concussion, brain"
+    ],
+    "symptoms": [
+        "mood swings",
+        "impulsivity",
+        "short-term memory loss",
+        "difficulty planning",
+        "socially inappropriate behavior"
+    ]
+}

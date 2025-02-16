@@ -1,0 +1,19 @@
+{
+  "type": "subcategory",
+  "chapterCode": "V",
+  "chapter": "Mental and behavioural disorders",
+  "blockCode": "F00-F09",
+  "block": "Organic, including symptomatic, mental disorders",
+  "categoryCode": "F01",
+  "category": "Vascular dementia",
+  "subcategory": "F01.0",
+  "title": "Vascular dementia of acute onset",
+  "inclusion": [
+    "disorders of psychological development",
+    "arteriosclerotic dementia"
+  ],
+  "exclusion": [
+    "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified"
+  ],
+  "children": null
+}

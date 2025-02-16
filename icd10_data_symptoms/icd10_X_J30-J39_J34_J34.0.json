@@ -1,0 +1,35 @@
+{
+    "icd10code": "J34.0",
+    "type": "subcategory",
+    "title": "Abscess, furuncle and carbuncle of nose",
+    "chapter": "Diseases of the respiratory system",
+    "chapterCode": "X",
+    "block": "Other diseases of upper respiratory tract",
+    "blockCode": "J30-J39",
+    "category": "Other disorders of nose and nasal sinuses",
+    "categoryCode": "J34",
+    "subcategory": "J34.0",
+    "inclusion": [
+        "Cellulitis of nose (septum)",
+        "Necrosis of nose (septum)",
+        "Ulceration of nose (septum)"
+    ],
+    "exclusion": [
+        "certain conditions originating in the perinatal period",
+        "certain infectious and parasitic diseases",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "varicose ulcer of nasal septum"
+    ],
+    "symptoms": [
+        "nasal congestion",
+        "nasal discharge",
+        "facial pain",
+        "headache",
+        "reduced sense of smell"
+    ]
+}

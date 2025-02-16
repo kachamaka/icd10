@@ -1,0 +1,21 @@
+{
+  "type": "subcategory",
+  "chapterCode": "IV",
+  "chapter": "Endocrine, nutritional and metabolic diseases",
+  "blockCode": "E00-E07",
+  "block": "Disorders of thyroid gland",
+  "categoryCode": "E07",
+  "category": "Other disorders of thyroid",
+  "subcategory": "E07.0",
+  "title": "Hypersecretion of calcitonin",
+  "inclusion": [
+    "C-cell hyperplasia of thyroid",
+    "Hypersecretion of thyrocalcitonin"
+  ],
+  "exclusion": [
+    "complications of pregnancy, childbirth and the puerperium",
+    "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+    "transitory endocrine and metabolic disorders specific to fetus and newborn"
+  ],
+  "children": null
+}

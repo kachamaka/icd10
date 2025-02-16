@@ -1,0 +1,32 @@
+{
+    "icd10code": "A22.0",
+    "type": "subcategory",
+    "title": "Cutaneous anthrax",
+    "chapter": "Certain infectious and parasitic diseases",
+    "chapterCode": "I",
+    "block": "Certain zoonotic bacterial diseases",
+    "blockCode": "A20-A28",
+    "category": "Anthrax",
+    "categoryCode": "A22",
+    "subcategory": "A22.0",
+    "inclusion": [
+        "diseases generally recognized as communicable or transmissible",
+        "infection due to Bacillus anthracis",
+        "Malignant: carbuncle",
+        "Malignant: pustule"
+    ],
+    "exclusion": [
+        "carrier or suspected carrier of infectious disease",
+        "certain localized infections - see body system-related chapters",
+        "infectious and parasitic diseases complicating pregnancy, childbirth and the puerperium [except obstetrical tetanus]",
+        "infectious and parasitic diseases specific to the perinatal period [except tetanus neonatorum, whooping cough, congenital syphilis, perinatal gonococcal infection and perinatal human immunodeficiency virus [HIV] disease]",
+        "influenza and other acute respiratory infections"
+    ],
+    "symptoms": [
+        "fever",
+        "chills",
+        "fatigue",
+        "headache",
+        "chest pain"
+    ]
+}

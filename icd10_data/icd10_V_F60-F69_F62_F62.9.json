@@ -1,0 +1,19 @@
+{
+  "type": "subcategory",
+  "chapterCode": "V",
+  "chapter": "Mental and behavioural disorders",
+  "blockCode": "F60-F69",
+  "block": "Disorders of adult personality and behaviour",
+  "categoryCode": "F62",
+  "category": "Enduring personality changes, not attributable to brain damage and disease",
+  "subcategory": "F62.9",
+  "title": "Enduring personality change, unspecified",
+  "inclusion": [
+    "disorders of psychological development"
+  ],
+  "exclusion": [
+    "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+    "personality and behavioural disorder due to brain disease, damage and dysfunction"
+  ],
+  "children": null
+}

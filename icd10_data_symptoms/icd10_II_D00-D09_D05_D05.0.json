@@ -1,0 +1,29 @@
+{
+    "icd10code": "D05.0",
+    "type": "subcategory",
+    "title": "Lobular carcinoma in situ",
+    "chapter": "Neoplasms",
+    "chapterCode": "II",
+    "block": "In situ neoplasms",
+    "blockCode": "D00-D09",
+    "category": "Carcinoma in situ of breast",
+    "categoryCode": "D05",
+    "subcategory": "D05.0",
+    "inclusion": [
+        "Bowen disease",
+        "erythroplasia",
+        "morphology codes with behaviour code /2",
+        "Queyrat erythroplasia"
+    ],
+    "exclusion": [
+        "carcinoma in situ of skin of breast",
+        "melanoma in situ of breast (skin)"
+    ],
+    "symptoms": [
+        "lump in breast",
+        "pain in affected breast",
+        "nipple discharge",
+        "changes in the size or shape of the breast",
+        "skin changes on the breast"
+    ]
+}

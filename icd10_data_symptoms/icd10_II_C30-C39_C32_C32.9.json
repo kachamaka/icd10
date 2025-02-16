@@ -1,0 +1,25 @@
+{
+    "icd10code": "C32.9",
+    "type": "subcategory",
+    "title": "Malignant neoplasm: Larynx, unspecified",
+    "chapter": "Neoplasms",
+    "chapterCode": "II",
+    "block": "Malignant neoplasms of respiratory and intrathoracic organs",
+    "blockCode": "C30-C39",
+    "category": "Malignant neoplasm of larynx",
+    "categoryCode": "C32",
+    "subcategory": "C32.9",
+    "inclusion": [
+        "middle ear"
+    ],
+    "exclusion": [
+        "mesothelioma"
+    ],
+    "symptoms": [
+        "hoarseness or voice changes",
+        "persistent cough",
+        "difficulty swallowing",
+        "unexplained weight loss",
+        "chronic fatigue"
+    ]
+}

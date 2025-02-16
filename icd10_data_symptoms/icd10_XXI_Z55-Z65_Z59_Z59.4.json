@@ -1,0 +1,22 @@
+{
+    "icd10code": "Z59.4",
+    "type": "subcategory",
+    "title": "Lack of adequate food",
+    "chapter": "Factors influencing health status and contact with health services",
+    "chapterCode": "XXI",
+    "block": "Persons with potential health hazards related to socioeconomic and psychosocial circumstances",
+    "blockCode": "Z55-Z65",
+    "category": "Problems related to housing and economic circumstances",
+    "categoryCode": "Z59",
+    "subcategory": "Z59.4",
+    "inclusion": null,
+    "exclusion": [
+        "inadequate drinking-water supply",
+        "effects of hunger",
+        "inappropriate diet or eating habits",
+        "malnutrition"
+    ],
+    "symptoms": [
+        "asymptomatic"
+    ]
+}

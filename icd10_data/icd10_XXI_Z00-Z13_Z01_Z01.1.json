@@ -1,0 +1,21 @@
+{
+  "type": "subcategory",
+  "chapterCode": "XXI",
+  "chapter": "Factors influencing health status and contact with health services",
+  "blockCode": "Z00-Z13",
+  "block": "Persons encountering health services for examination and investigation",
+  "categoryCode": "Z01",
+  "category": "Other special examinations and investigations of persons without complaint or reported diagnosis",
+  "subcategory": "Z01.1",
+  "title": "Examination of ears and hearing",
+  "inclusion": [
+    "routine examination of specific system"
+  ],
+  "exclusion": [
+    "examinations related to pregnancy and reproduction",
+    "examination for: administrative purposes",
+    "examination for: suspected conditions, ruled out",
+    "special screening examinations"
+  ],
+  "children": null
+}

@@ -1,0 +1,38 @@
+{
+    "icd10code": "K43.0",
+    "type": "subcategory",
+    "title": "Incisional hernia with obstruction, without gangrene",
+    "chapter": "Diseases of the digestive system",
+    "chapterCode": "XI",
+    "block": "Hernia",
+    "blockCode": "K40-K46",
+    "category": "Ventral hernia",
+    "categoryCode": "K43",
+    "subcategory": "K43.0",
+    "inclusion": [
+        "hernia: acquired",
+        "hernia: congenital [except diaphragmatic or hiatus]",
+        "hernia: recurrent",
+        "Incisional hernia: causing obstruction without gangrene",
+        "Incisional hernia: incarcerated without gangrene",
+        "Incisional hernia: irreducible without gangrene",
+        "Incisional hernia: strangulated without gangrene"
+    ],
+    "exclusion": [
+        "certain conditions originating in the perinatal period",
+        "certain infectious and parasitic diseases",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified"
+    ],
+    "symptoms": [
+        "abdominal swelling",
+        "pain at hernia site",
+        "nausea",
+        "vomiting",
+        "palpable bulge"
+    ]
+}

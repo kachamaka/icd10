@@ -1,0 +1,37 @@
+{
+    "icd10code": "N82.1",
+    "type": "subcategory",
+    "title": "Other female urinary-genital tract fistulae",
+    "chapter": "Diseases of the genitourinary system",
+    "chapterCode": "XIV",
+    "block": "Noninflammatory disorders of female genital tract",
+    "blockCode": "N80-N98",
+    "category": "Fistulae involving female genital tract",
+    "categoryCode": "N82",
+    "subcategory": "N82.1",
+    "inclusion": [
+        "Fistula: cervicovesical",
+        "Fistula: ureterovaginal",
+        "Fistula: urethrovaginal",
+        "Fistula: uteroureteric",
+        "Fistula: uterovesical"
+    ],
+    "exclusion": [
+        "certain conditions originating in the perinatal period",
+        "certain infectious and parasitic diseases",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "vesicointestinal fistulae"
+    ],
+    "symptoms": [
+        "urinary incontinence",
+        "pelvic discomfort",
+        "visible bulge in the vagina",
+        "difficulty with urination",
+        "recurrent urinary tract infections"
+    ]
+}

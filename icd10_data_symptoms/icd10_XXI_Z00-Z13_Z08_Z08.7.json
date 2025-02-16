@@ -1,0 +1,24 @@
+{
+    "icd10code": "Z08.7",
+    "type": "subcategory",
+    "title": "Follow-up examination after combined treatment for malignant neoplasm",
+    "chapter": "Factors influencing health status and contact with health services",
+    "chapterCode": "XXI",
+    "block": "Persons encountering health services for examination and investigation",
+    "blockCode": "Z00-Z13",
+    "category": "Follow-up examination after treatment for malignant neoplasms",
+    "categoryCode": "Z08",
+    "subcategory": "Z08.7",
+    "inclusion": [
+        "medical surveillance following treatment"
+    ],
+    "exclusion": [
+        "examinations related to pregnancy and reproduction",
+        "follow-up medical care and convalescence"
+    ],
+    "symptoms": [
+        "fatigue",
+        "anxiety",
+        "routine surveillance"
+    ]
+}

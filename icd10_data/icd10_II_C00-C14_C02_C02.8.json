@@ -1,0 +1,16 @@
+{
+  "type": "subcategory",
+  "chapterCode": "II",
+  "chapter": "Neoplasms",
+  "blockCode": "C00-C14",
+  "block": "Malignant neoplasms of lip, oral cavity and pharynx",
+  "categoryCode": "C02",
+  "category": "Malignant neoplasm of other and unspecified parts of tongue",
+  "subcategory": "C02.8",
+  "title": "Malignant neoplasm: Overlapping lesion of tongue",
+  "inclusion": [
+    "Malignant neoplasm of tongue whose point of origin cannot be classified to any one of the categories C01-C02.4"
+  ],
+  "exclusion": null,
+  "children": null
+}

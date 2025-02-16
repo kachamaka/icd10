@@ -1,0 +1,39 @@
+{
+    "icd10code": "T00.6",
+    "type": "subcategory",
+    "title": "Superficial injuries involving multiple regions of upper limb(s) with lower limb(s)",
+    "chapter": "Injury, poisoning and certain other consequences of external causes",
+    "chapterCode": "XIX",
+    "block": "Injuries involving multiple body regions",
+    "blockCode": "T00-T07",
+    "category": "Superficial injuries involving multiple body regions",
+    "categoryCode": "T00",
+    "subcategory": "T00.6",
+    "inclusion": [
+        "bilateral involvement of limbs of the same body region",
+        "Injuries by type involving two or more body regions classifiable within S00-S99",
+        "Superficial injuries of sites classifiable to T00.2 and T00.3"
+    ],
+    "exclusion": [
+        "birth trauma",
+        "obstetric trauma",
+        "malunion of fracture",
+        "nonunion of fracture [pseudarthrosis]",
+        "pathological fracture",
+        "pathological fracture with osteoporosis",
+        "stress fracture",
+        "burns and corrosions",
+        "frostbite",
+        "insect bite or sting, venomous",
+        "multiple injuries involving only one body region - see S-section",
+        "sunburn",
+        "with involvement of thorax, abdomen, lower back and pelvis"
+    ],
+    "symptoms": [
+        "bruising",
+        "swelling",
+        "pain",
+        "abrasions",
+        "lacerations"
+    ]
+}

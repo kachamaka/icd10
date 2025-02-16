@@ -1,0 +1,19 @@
+{
+  "type": "subcategory",
+  "chapterCode": "XXI",
+  "chapter": "Factors influencing health status and contact with health services",
+  "blockCode": "Z40-Z54",
+  "block": "Persons encountering health services for specific procedures and health care",
+  "categoryCode": "Z46",
+  "category": "Fitting and adjustment of other devices",
+  "subcategory": "Z46.9",
+  "title": "Fitting and adjustment of unspecified device",
+  "inclusion": null,
+  "exclusion": [
+    "follow-up examination for medical surveillance after treatment",
+    "issue of repeat prescription only",
+    "malfunction or other complications of device - see Alphabetical Index",
+    "presence of prosthetic and other devices"
+  ],
+  "children": null
+}

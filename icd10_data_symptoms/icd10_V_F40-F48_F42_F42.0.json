@@ -1,0 +1,29 @@
+{
+    "icd10code": "F42.0",
+    "type": "subcategory",
+    "title": "Predominantly obsessional thoughts or ruminations",
+    "chapter": "Mental and behavioural disorders",
+    "chapterCode": "V",
+    "block": "Neurotic, stress-related and somatoform disorders",
+    "blockCode": "F40-F48",
+    "category": "Obsessive-compulsive disorder",
+    "categoryCode": "F42",
+    "subcategory": "F42.0",
+    "inclusion": [
+        "disorders of psychological development",
+        "anankastic neurosis",
+        "obsessive-compulsive neurosis"
+    ],
+    "exclusion": [
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "when associated with conduct disorder in F91.-",
+        "obsessive-compulsive personality (disorder)"
+    ],
+    "symptoms": [
+        "obsessive thoughts",
+        "repetitive behaviors",
+        "anxiety",
+        "compulsion to check",
+        "need for symmetry"
+    ]
+}

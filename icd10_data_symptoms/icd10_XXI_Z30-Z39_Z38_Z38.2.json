@@ -1,0 +1,19 @@
+{
+    "icd10code": "Z38.2",
+    "type": "subcategory",
+    "title": "Singleton, unspecified as to place of birth",
+    "chapter": "Factors influencing health status and contact with health services",
+    "chapterCode": "XXI",
+    "block": "Persons encountering health services in circumstances related to reproduction",
+    "blockCode": "Z30-Z39",
+    "category": "Liveborn infants according to place of birth",
+    "categoryCode": "Z38",
+    "subcategory": "Z38.2",
+    "inclusion": [
+        "Liveborn infant NOS"
+    ],
+    "exclusion": null,
+    "symptoms": [
+        "asymptomatic"
+    ]
+}

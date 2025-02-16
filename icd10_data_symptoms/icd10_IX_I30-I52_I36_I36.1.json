@@ -1,0 +1,38 @@
+{
+    "icd10code": "I36.1",
+    "type": "subcategory",
+    "title": "Nonrheumatic tricuspid (valve) insufficiency",
+    "chapter": "Diseases of the circulatory system",
+    "chapterCode": "IX",
+    "block": "Other forms of heart disease",
+    "blockCode": "I30-I52",
+    "category": "Nonrheumatic tricuspid valve disorders",
+    "categoryCode": "I36",
+    "subcategory": "I36.1",
+    "inclusion": [
+        "Tricuspid (valve): incompetence of specified cause, except rheumatic",
+        "Tricuspid (valve): regurgitation of specified cause, except rheumatic"
+    ],
+    "exclusion": [
+        "certain conditions originating in the perinatal period",
+        "certain infectious and parasitic diseases",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "systemic connective tissue disorders",
+        "transient cerebral ischaemic attacks and related syndromes",
+        "rheumatoid carditis",
+        "when not specified as rheumatic",
+        "nonspecific low blood pressure reading NOS"
+    ],
+    "symptoms": [
+        "chest pain",
+        "shortness of breath",
+        "fatigue",
+        "irregular heartbeats",
+        "fainting or near fainting"
+    ]
+}

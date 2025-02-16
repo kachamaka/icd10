@@ -1,0 +1,23 @@
+{
+    "icd10code": "Q90.1",
+    "type": "subcategory",
+    "title": "Trisomy 21, mosaicism (mitotic nondisjunction)",
+    "chapter": "Congenital malformations, deformations and chromosomal abnormalities",
+    "chapterCode": "XVII",
+    "block": "Chromosomal abnormalities, not elsewhere classified",
+    "blockCode": "Q90-Q99",
+    "category": "Down syndrome",
+    "categoryCode": "Q90",
+    "subcategory": "Q90.1",
+    "inclusion": null,
+    "exclusion": [
+        "inborn errors of metabolism"
+    ],
+    "symptoms": [
+        "mild to moderate intellectual disability",
+        "delayed development",
+        "distinct facial features",
+        "low muscle tone",
+        "short stature"
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "icd10code": "E15",
+    "type": "category",
+    "title": "Nondiabetic hypoglycaemic coma",
+    "chapter": "Endocrine, nutritional and metabolic diseases",
+    "chapterCode": "IV",
+    "block": "Other disorders of glucose regulation and pancreatic internal secretion",
+    "blockCode": "E15-E16",
+    "category": "Nondiabetic hypoglycaemic coma",
+    "categoryCode": "E15",
+    "subcategory": "",
+    "inclusion": [
+        "Drug-induced insulin coma in nondiabetic",
+        "Hyperinsulinism with hypoglycaemic coma",
+        "Hypoglycaemic coma NOS"
+    ],
+    "exclusion": [
+        "complications of pregnancy, childbirth and the puerperium",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "transitory endocrine and metabolic disorders specific to fetus and newborn"
+    ],
+    "symptoms": [
+        "altered mental status",
+        "seizures",
+        "rapid heartbeat",
+        "loss of consciousness",
+        "muscle twitching"
+    ]
+}

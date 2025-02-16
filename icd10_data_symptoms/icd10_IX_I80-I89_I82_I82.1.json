@@ -1,0 +1,42 @@
+{
+    "icd10code": "I82.1",
+    "type": "subcategory",
+    "title": "Thrombophlebitis migrans",
+    "chapter": "Diseases of the circulatory system",
+    "chapterCode": "IX",
+    "block": "Diseases of veins, lymphatic vessels and lymph nodes, not elsewhere classified",
+    "blockCode": "I80-I89",
+    "category": "Other venous embolism and thrombosis",
+    "categoryCode": "I82",
+    "subcategory": "I82.1",
+    "inclusion": null,
+    "exclusion": [
+        "certain conditions originating in the perinatal period",
+        "certain infectious and parasitic diseases",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "systemic connective tissue disorders",
+        "transient cerebral ischaemic attacks and related syndromes",
+        "venous embolism and thrombosis (of): cerebral",
+        "venous embolism and thrombosis (of): complicating: abortion or ectopic or molar pregnancy",
+        "venous embolism and thrombosis (of): complicating: pregnancy, childbirth and the puerperium",
+        "venous embolism and thrombosis (of): coronary",
+        "venous embolism and thrombosis (of): intracranial and intraspinal, septic or NOS",
+        "venous embolism and thrombosis (of): intracranial, nonpyogenic",
+        "venous embolism and thrombosis (of): intraspinal, nonpyogenic",
+        "venous embolism and thrombosis (of): lower extremities",
+        "venous embolism and thrombosis (of): mesenteric",
+        "venous embolism and thrombosis (of): portal",
+        "venous embolism and thrombosis (of): pulmonary"
+    ],
+    "symptoms": [
+        "swelling in lower extremities",
+        "pain or tenderness in leg",
+        "red or discolored skin on the leg",
+        "feeling of warmth in the affected"
+    ]
+}

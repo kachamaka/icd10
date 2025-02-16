@@ -1,0 +1,22 @@
+{
+  "type": "subcategory",
+  "chapterCode": "XVII",
+  "chapter": "Congenital malformations, deformations and chromosomal abnormalities",
+  "blockCode": "Q80-Q89",
+  "block": "Other congenital malformations",
+  "categoryCode": "Q89",
+  "category": "Other congenital malformations, not elsewhere classified",
+  "subcategory": "Q89.4",
+  "title": "Conjoined twins",
+  "inclusion": [
+    "Craniopagus",
+    "Dicephaly",
+    "Double monster",
+    "Pygopagus",
+    "Thoracopagus"
+  ],
+  "exclusion": [
+    "inborn errors of metabolism"
+  ],
+  "children": null
+}

@@ -1,0 +1,35 @@
+{
+    "icd10code": "R12",
+    "type": "category",
+    "title": "Heartburn",
+    "chapter": "Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+    "chapterCode": "XVIII",
+    "block": "Symptoms and signs involving the digestive system and abdomen",
+    "blockCode": "R10-R19",
+    "category": "Heartburn",
+    "categoryCode": "R12",
+    "subcategory": "",
+    "inclusion": null,
+    "exclusion": [
+        "abnormal findings on antenatal screening of mother",
+        "certain conditions originating in the perinatal period",
+        "gastrointestinal haemorrhage",
+        "gastrointestinal haemorrhage newborn",
+        "intestinal obstruction",
+        "intestinal obstruction newborn",
+        "pylorospasm",
+        "pylorospasm congenital or infantile",
+        "symptoms and signs involving the urinary system",
+        "symptoms referable to genital organs: female",
+        "symptoms referable to genital organs: male",
+        "dyspepsia: NOS",
+        "dyspepsia: functional"
+    ],
+    "symptoms": [
+        "heartburn",
+        "burning sensation in the chest",
+        "acid regurgitation",
+        "indigestion",
+        "chest discomfort"
+    ]
+}

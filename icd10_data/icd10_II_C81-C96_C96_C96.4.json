@@ -1,0 +1,20 @@
+{
+  "type": "subcategory",
+  "chapterCode": "II",
+  "chapter": "Neoplasms",
+  "blockCode": "C81-C96",
+  "block": "Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",
+  "categoryCode": "C96",
+  "category": "Other and unspecified malignant neoplasms of lymphoid, haematopoietic and related tissue",
+  "subcategory": "C96.4",
+  "title": "Sarcoma of dendritic cells (accessory cells)",
+  "inclusion": [
+    "Interdigiting dendritic cell sarcoma",
+    "Langerhans-cell sarcoma",
+    "Sarcoma of follicular dendritic cells"
+  ],
+  "exclusion": [
+    "secondary and unspecified neoplasm of lymph nodes"
+  ],
+  "children": null
+}

@@ -1,0 +1,18 @@
+{
+  "type": "subcategory",
+  "chapterCode": "II",
+  "chapter": "Neoplasms",
+  "blockCode": "C50-C50",
+  "block": "Malignant neoplasm of breast",
+  "categoryCode": "C50",
+  "category": "Malignant neoplasm of breast",
+  "subcategory": "C50.1",
+  "title": "Malignant neoplasm: Central portion of breast",
+  "inclusion": [
+    "connective tissue of breast"
+  ],
+  "exclusion": [
+    "skin of breast"
+  ],
+  "children": null
+}

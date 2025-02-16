@@ -1,0 +1,25 @@
+{
+    "icd10code": "C45.0",
+    "type": "subcategory",
+    "title": "Mesothelioma of pleura",
+    "chapter": "Neoplasms",
+    "chapterCode": "II",
+    "block": "Malignant neoplasms of mesothelial and soft tissue",
+    "blockCode": "C45-C49",
+    "category": "Mesothelioma",
+    "categoryCode": "C45",
+    "subcategory": "C45.0",
+    "inclusion": [
+        "morphology code M905 with behaviour code /3"
+    ],
+    "exclusion": [
+        "other malignant neoplasms of pleura"
+    ],
+    "symptoms": [
+        "difficulty in breathing",
+        "persistent dry cough",
+        "chest pain",
+        "unintentional weight loss",
+        "fatigue"
+    ]
+}

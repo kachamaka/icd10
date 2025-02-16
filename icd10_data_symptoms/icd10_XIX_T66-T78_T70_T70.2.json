@@ -1,0 +1,36 @@
+{
+    "icd10code": "T70.2",
+    "type": "subcategory",
+    "title": "Other and unspecified effects of high altitude",
+    "chapter": "Injury, poisoning and certain other consequences of external causes",
+    "chapterCode": "XIX",
+    "block": "Other and unspecified effects of external causes",
+    "blockCode": "T66-T78",
+    "category": "Effects of air pressure and water pressure",
+    "categoryCode": "T70",
+    "subcategory": "T70.2",
+    "inclusion": [
+        "Alpine sickness",
+        "Anoxia due to high altitude",
+        "Barotrauma NOS",
+        "Hypobaropathy",
+        "Mountain sickness"
+    ],
+    "exclusion": [
+        "birth trauma",
+        "obstetric trauma",
+        "malunion of fracture",
+        "nonunion of fracture [pseudarthrosis]",
+        "pathological fracture",
+        "pathological fracture with osteoporosis",
+        "stress fracture",
+        "polycythaemia due to high altitude"
+    ],
+    "symptoms": [
+        "dizziness",
+        "headache",
+        "nausea",
+        "fatigue",
+        "difficulty concentrating"
+    ]
+}

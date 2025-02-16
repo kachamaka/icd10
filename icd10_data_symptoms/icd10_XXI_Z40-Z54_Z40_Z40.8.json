@@ -1,0 +1,19 @@
+{
+    "icd10code": "Z40.8",
+    "type": "subcategory",
+    "title": "Other prophylactic surgery",
+    "chapter": "Factors influencing health status and contact with health services",
+    "chapterCode": "XXI",
+    "block": "Persons encountering health services for specific procedures and health care",
+    "blockCode": "Z40-Z54",
+    "category": "Prophylactic surgery",
+    "categoryCode": "Z40",
+    "subcategory": "Z40.8",
+    "inclusion": null,
+    "exclusion": [
+        "follow-up examination for medical surveillance after treatment"
+    ],
+    "symptoms": [
+        "asymptomatic"
+    ]
+}

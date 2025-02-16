@@ -1,0 +1,28 @@
+{
+    "icd10code": "C39.9",
+    "type": "subcategory",
+    "title": "Malignant neoplasm: Ill-defined sites within the respiratory system",
+    "chapter": "Neoplasms",
+    "chapterCode": "II",
+    "block": "Malignant neoplasms of respiratory and intrathoracic organs",
+    "blockCode": "C30-C39",
+    "category": "Malignant neoplasm of other and ill-defined sites in the respiratory system and intrathoracic organs",
+    "categoryCode": "C39",
+    "subcategory": "C39.9",
+    "inclusion": [
+        "middle ear",
+        "Respiratory tract NOS"
+    ],
+    "exclusion": [
+        "mesothelioma",
+        "intrathoracic NOS",
+        "thoracic NOS"
+    ],
+    "symptoms": [
+        "persistent cough",
+        "hoarseness",
+        "difficulty swallowing",
+        "unexplained weight loss",
+        "chest pain"
+    ]
+}

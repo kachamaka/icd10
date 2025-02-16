@@ -1,0 +1,23 @@
+{
+    "icd10code": "D38.6",
+    "type": "subcategory",
+    "title": "Neoplasm of uncertain or unknown behaviour: Respiratory organ, unspecified",
+    "chapter": "Neoplasms",
+    "chapterCode": "II",
+    "block": "Neoplasms of uncertain or unknown behaviour",
+    "blockCode": "D37-D48",
+    "category": "Neoplasm of uncertain or unknown behaviour of middle ear and respiratory and intrathoracic organs",
+    "categoryCode": "D38",
+    "subcategory": "D38.6",
+    "inclusion": null,
+    "exclusion": [
+        "heart"
+    ],
+    "symptoms": [
+        "painful swallowing",
+        "lump in the neck",
+        "voice changes",
+        "persistent cough",
+        "unexplained weight loss"
+    ]
+}

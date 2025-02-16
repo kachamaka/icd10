@@ -1,0 +1,26 @@
+{
+    "icd10code": "C38.1",
+    "type": "subcategory",
+    "title": "Malignant neoplasm: Anterior mediastinum",
+    "chapter": "Neoplasms",
+    "chapterCode": "II",
+    "block": "Malignant neoplasms of respiratory and intrathoracic organs",
+    "blockCode": "C30-C39",
+    "category": "Malignant neoplasm of heart, mediastinum and pleura",
+    "categoryCode": "C38",
+    "subcategory": "C38.1",
+    "inclusion": [
+        "middle ear"
+    ],
+    "exclusion": [
+        "mesothelioma",
+        "mesothelioma"
+    ],
+    "symptoms": [
+        "cough",
+        "difficulty swallowing",
+        "chest pain or discomfort",
+        "unexpected weight loss",
+        "lumps in the chest"
+    ]
+}

@@ -1,0 +1,33 @@
+{
+    "icd10code": "O74.3",
+    "type": "subcategory",
+    "title": "Central nervous system complications of anaesthesia during labour and delivery",
+    "chapter": "Pregnancy, childbirth and the puerperium",
+    "chapterCode": "XV",
+    "block": "Complications of labour and delivery",
+    "blockCode": "O60-O75",
+    "category": "Complications of anaesthesia during labour and delivery",
+    "categoryCode": "O74",
+    "subcategory": "O74.3",
+    "inclusion": [
+        "maternal complications arising from the administration of a general or local anaesthetic, analgesic or other sedation during labour and delivery",
+        "Cerebral anoxia due to anaesthesia during labour and delivery"
+    ],
+    "exclusion": [
+        "Certain diseases or injuries complicating pregnancy, childbirth and the puerperium classified elsewhere: external causes (for mortality)",
+        "Certain diseases or injuries complicating pregnancy, childbirth and the puerperium classified elsewhere: injury, poisoning and certain other consequences of external cause",
+        "Certain diseases or injuries complicating pregnancy, childbirth and the puerperium classified elsewhere: mental and behavioural disorders associated with the puerperium",
+        "Certain diseases or injuries complicating pregnancy, childbirth and the puerperium classified elsewhere: obstetrical tetanus",
+        "Certain diseases or injuries complicating pregnancy, childbirth and the puerperium classified elsewhere: postpartum necrosis of pituitary gland",
+        "Certain diseases or injuries complicating pregnancy, childbirth and the puerperium classified elsewhere: puerperal osteomalacia",
+        "supervision of: high-risk pregnancy",
+        "supervision of: normal pregnancy"
+    ],
+    "symptoms": [
+        "nausea",
+        "vomiting",
+        "shortness of breath",
+        "chest pain",
+        "altered consciousness"
+    ]
+}

@@ -1,0 +1,19 @@
+{
+  "type": "subcategory",
+  "chapterCode": "II",
+  "chapter": "Neoplasms",
+  "blockCode": "C81-C96",
+  "block": "Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",
+  "categoryCode": "C82",
+  "category": "Follicular lymphoma",
+  "subcategory": "C82.0",
+  "title": "Follicular lymphoma grade I",
+  "inclusion": [
+    "follicular lymphoma with or without diffuse areas"
+  ],
+  "exclusion": [
+    "secondary and unspecified neoplasm of lymph nodes",
+    "mature T/NK-cell lymphoma"
+  ],
+  "children": null
+}

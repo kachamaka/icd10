@@ -1,0 +1,29 @@
+{
+  "type": "subcategory",
+  "chapterCode": "XVIII",
+  "chapter": "Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+  "blockCode": "R40-R46",
+  "block": "Symptoms and signs involving cognition, perception, emotional state and behaviour",
+  "categoryCode": "R40",
+  "category": "Somnolence, stupor and coma",
+  "subcategory": "R40.1",
+  "title": "Stupor",
+  "inclusion": [
+    "Semicoma"
+  ],
+  "exclusion": [
+    "abnormal findings on antenatal screening of mother",
+    "certain conditions originating in the perinatal period",
+    "those constituting part of a pattern of mental disorder",
+    "coma: diabetic",
+    "coma: hepatic",
+    "coma: hypoglycaemic (nondiabetic)",
+    "coma: neonatal",
+    "coma: uraemic",
+    "stupor: catatonic",
+    "stupor: depressive",
+    "stupor: dissociative",
+    "stupor: manic"
+  ],
+  "children": null
+}

@@ -1,0 +1,24 @@
+{
+    "icd10code": "Z98.8",
+    "type": "subcategory",
+    "title": "Other specified postsurgical states",
+    "chapter": "Factors influencing health status and contact with health services",
+    "chapterCode": "XXI",
+    "block": "Persons with potential health hazards related to family and personal history and certain conditions influencing health status",
+    "blockCode": "Z80-Z99",
+    "category": "Other postsurgical states",
+    "categoryCode": "Z98",
+    "subcategory": "Z98.8",
+    "inclusion": null,
+    "exclusion": [
+        "follow-up examination",
+        "follow-up medical care and convalescence",
+        "when family or personal history is the reason for special screening or other examination or investigation",
+        "when the possibility that the fetus might be affected is the reason for observation or action during pregnancy",
+        "follow-up medical care and convalescence",
+        "postprocedural or postoperative complication - see Alphabetical Index"
+    ],
+    "symptoms": [
+        "asymptomatic"
+    ]
+}

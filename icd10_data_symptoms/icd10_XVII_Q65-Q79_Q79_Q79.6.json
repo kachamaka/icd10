@@ -1,0 +1,24 @@
+{
+    "icd10code": "Q79.6",
+    "type": "subcategory",
+    "title": "Ehlers-Danlos syndrome",
+    "chapter": "Congenital malformations, deformations and chromosomal abnormalities",
+    "chapterCode": "XVII",
+    "block": "Congenital malformations and deformations of the musculoskeletal system",
+    "blockCode": "Q65-Q79",
+    "category": "Congenital malformations of the musculoskeletal system, not elsewhere classified",
+    "categoryCode": "Q79",
+    "subcategory": "Q79.6",
+    "inclusion": null,
+    "exclusion": [
+        "inborn errors of metabolism",
+        "congenital (sternomastoid) torticollis"
+    ],
+    "symptoms": [
+        "abdominal wall defect",
+        "protruding abdominal organs",
+        "thin membranous sac",
+        "visible umbilical cord vessels",
+        "risk of organ damage"
+    ]
+}

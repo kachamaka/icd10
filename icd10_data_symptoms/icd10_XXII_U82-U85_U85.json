@@ -1,0 +1,24 @@
+{
+    "icd10code": "U85",
+    "type": "category",
+    "title": "Resistance to antineoplastic drugs",
+    "chapter": "Codes for special purposes",
+    "chapterCode": "XXII",
+    "block": "Resistance to antimicrobial and antineoplastic drugs",
+    "blockCode": "U82-U85",
+    "category": "Resistance to antineoplastic drugs",
+    "categoryCode": "U85",
+    "subcategory": "",
+    "inclusion": [
+        "Non-responsiveness to antineoplastic drugs",
+        "Refractory cancer"
+    ],
+    "exclusion": null,
+    "symptoms": [
+        "fever",
+        "fatigue",
+        "rash",
+        "headache",
+        "swollen lymph nodes"
+    ]
+}

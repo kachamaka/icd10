@@ -1,0 +1,25 @@
+{
+    "icd10code": "Q45.1",
+    "type": "subcategory",
+    "title": "Annular pancreas",
+    "chapter": "Congenital malformations, deformations and chromosomal abnormalities",
+    "chapterCode": "XVII",
+    "block": "Other congenital malformations of the digestive system",
+    "blockCode": "Q38-Q45",
+    "category": "Other congenital malformations of digestive system",
+    "categoryCode": "Q45",
+    "subcategory": "Q45.1",
+    "inclusion": null,
+    "exclusion": [
+        "inborn errors of metabolism",
+        "congenital: diaphragmatic hernia",
+        "congenital: hiatus hernia"
+    ],
+    "symptoms": [
+        "congenital heart murmur",
+        "irregular heartbeat",
+        "fatigue",
+        "poor growth",
+        "difficulty feeding"
+    ]
+}

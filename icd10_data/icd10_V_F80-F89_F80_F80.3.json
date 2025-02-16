@@ -1,0 +1,21 @@
+{
+  "type": "subcategory",
+  "chapterCode": "V",
+  "chapter": "Mental and behavioural disorders",
+  "blockCode": "F80-F89",
+  "block": "Disorders of psychological development",
+  "categoryCode": "F80",
+  "category": "Specific developmental disorders of speech and language",
+  "subcategory": "F80.3",
+  "title": "Acquired aphasia with epilepsy [Landau-Kleffner]",
+  "inclusion": [
+    "disorders of psychological development"
+  ],
+  "exclusion": [
+    "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+    "aphasia (due to): NOS",
+    "aphasia (due to): autism",
+    "aphasia (due to): disintegrative disorders of childhood"
+  ],
+  "children": null
+}

@@ -1,0 +1,22 @@
+{
+    "icd10code": "Z22.3",
+    "type": "subcategory",
+    "title": "Carrier of other specified bacterial diseases",
+    "chapter": "Factors influencing health status and contact with health services",
+    "chapterCode": "XXI",
+    "block": "Persons with potential health hazards related to communicable diseases",
+    "blockCode": "Z20-Z29",
+    "category": "Carrier of infectious disease",
+    "categoryCode": "Z22",
+    "subcategory": "Z22.3",
+    "inclusion": [
+        "suspected carrier",
+        "Carrier of bacterial disease due to: meningococci",
+        "Carrier of bacterial disease due to: staphylococci",
+        "Carrier of bacterial disease due to: streptococci"
+    ],
+    "exclusion": null,
+    "symptoms": [
+        "asymptomatic"
+    ]
+}

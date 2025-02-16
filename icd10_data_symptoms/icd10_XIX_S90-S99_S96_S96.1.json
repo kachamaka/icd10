@@ -1,0 +1,36 @@
+{
+    "icd10code": "S96.1",
+    "type": "subcategory",
+    "title": "Injury of muscle and tendon of long extensor muscle of toe at ankle and foot level",
+    "chapter": "Injury, poisoning and certain other consequences of external causes",
+    "chapterCode": "XIX",
+    "block": "Injuries to the ankle and foot",
+    "blockCode": "S90-S99",
+    "category": "Injury of muscle and tendon at ankle and foot level",
+    "categoryCode": "S96",
+    "subcategory": "S96.1",
+    "inclusion": null,
+    "exclusion": [
+        "birth trauma",
+        "obstetric trauma",
+        "malunion of fracture",
+        "nonunion of fracture [pseudarthrosis]",
+        "pathological fracture",
+        "pathological fracture with osteoporosis",
+        "stress fracture",
+        "bilateral involvement of ankle and foot",
+        "burns and corrosions",
+        "fracture of ankle and malleolus",
+        "frostbite",
+        "injuries of leg, level unspecified",
+        "insect bite or sting, venomous",
+        "injury of Achilles tendon"
+    ],
+    "symptoms": [
+        "pain in lower leg",
+        "swelling",
+        "difficulty walking",
+        "tenderness",
+        "bruising"
+    ]
+}

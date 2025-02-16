@@ -1,0 +1,32 @@
+{
+  "type": "subcategory",
+  "chapterCode": "XI",
+  "chapter": "Diseases of the digestive system",
+  "blockCode": "K80-K87",
+  "block": "Disorders of gallbladder, biliary tract and pancreas",
+  "categoryCode": "K85",
+  "category": "Acute pancreatitis",
+  "subcategory": "K85.3",
+  "title": "Drug-induced acute pancreatitis",
+  "inclusion": [
+    "Abscess of pancreas",
+    "Necrosis of pancreas: acute",
+    "Necrosis of pancreas: infective",
+    "Pancreatitis: NOS",
+    "Pancreatitis: acute (recurrent)",
+    "Pancreatitis: haemorrhagic",
+    "Pancreatitis: subacute",
+    "Pancreatitis: suppurative"
+  ],
+  "exclusion": [
+    "certain conditions originating in the perinatal period",
+    "certain infectious and parasitic diseases",
+    "complications of pregnancy, childbirth and the puerperium",
+    "congenital malformations, deformations and chromosomal abnormalities",
+    "endocrine, nutritional and metabolic diseases",
+    "injury, poisoning and certain other consequences of external causes",
+    "neoplasms",
+    "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified"
+  ],
+  "children": null
+}

@@ -1,0 +1,39 @@
+{
+    "icd10code": "P20.0",
+    "type": "subcategory",
+    "title": "Intrauterine hypoxia first noted before onset of labour",
+    "chapter": "Certain conditions originating in the perinatal period",
+    "chapterCode": "XVI",
+    "block": "Respiratory and cardiovascular disorders specific to the perinatal period",
+    "blockCode": "P20-P29",
+    "category": "Intrauterine hypoxia",
+    "categoryCode": "P20",
+    "subcategory": "P20.0",
+    "inclusion": [
+        "conditions that have their origin in the perinatal period even though death or morbidity occurs later",
+        "abnormal fetal heart rate",
+        "fetal or intrauterine: acidosis",
+        "fetal or intrauterine: anoxia",
+        "fetal or intrauterine: asphyxia",
+        "fetal or intrauterine: distress",
+        "fetal or intrauterine: hypoxia",
+        "meconium in liquor",
+        "passage of meconium"
+    ],
+    "exclusion": [
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "tetanus neonatorum",
+        "whooping cough",
+        "single umbilical artery"
+    ],
+    "symptoms": [
+        "pallor",
+        "shallow breathing",
+        "weak pulse",
+        "poor feeding",
+        "bluish skin"
+    ]
+}

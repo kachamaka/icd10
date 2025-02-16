@@ -1,0 +1,16 @@
+{
+  "type": "category",
+  "chapterCode": "II",
+  "chapter": "Neoplasms",
+  "blockCode": "C60-C63",
+  "block": "Malignant neoplasms of male genital organs",
+  "categoryCode": "C61",
+  "category": "Malignant neoplasm of prostate",
+  "subcategory": "",
+  "title": "Malignant neoplasm of prostate",
+  "inclusion": [
+    "skin of male genital organs"
+  ],
+  "exclusion": null,
+  "children": null
+}

@@ -1,0 +1,17 @@
+{
+  "type": "category",
+  "chapterCode": "XX",
+  "chapter": "External causes of morbidity and mortality",
+  "blockCode": "X60-X84",
+  "block": "Intentional self-harm",
+  "categoryCode": "X74",
+  "category": "Intentional self-harm by other and unspecified firearm discharge",
+  "subcategory": "",
+  "title": "Intentional self-harm by other and unspecified firearm discharge",
+  "inclusion": [
+    "purposely self-inflicted poisoning or injury",
+    "suicide (attempted)"
+  ],
+  "exclusion": null,
+  "children": null
+}

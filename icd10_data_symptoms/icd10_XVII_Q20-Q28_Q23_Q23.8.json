@@ -1,0 +1,23 @@
+{
+    "icd10code": "Q23.8",
+    "type": "subcategory",
+    "title": "Other congenital malformations of aortic and mitral valves",
+    "chapter": "Congenital malformations, deformations and chromosomal abnormalities",
+    "chapterCode": "XVII",
+    "block": "Congenital malformations of the circulatory system",
+    "blockCode": "Q20-Q28",
+    "category": "Congenital malformations of aortic and mitral valves",
+    "categoryCode": "Q23",
+    "subcategory": "Q23.8",
+    "inclusion": null,
+    "exclusion": [
+        "inborn errors of metabolism"
+    ],
+    "symptoms": [
+        "heart murmur",
+        "cyanosis",
+        "shortness of breath",
+        "fatigue",
+        "poor growth"
+    ]
+}

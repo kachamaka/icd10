@@ -1,0 +1,26 @@
+{
+    "icd10code": "F11",
+    "type": "modifiedcategory",
+    "title": "Mental and behavioural disorders due to use of opioids withdrawal state",
+    "chapter": "Mental and behavioural disorders",
+    "chapterCode": "V",
+    "block": "Mental and behavioural disorders due to psychoactive substance use",
+    "blockCode": "F10-F19",
+    "category": "Mental and behavioural disorders due to use of opioids",
+    "categoryCode": "F11",
+    "subcategory": "",
+    "inclusion": [
+        "disorders of psychological development"
+    ],
+    "exclusion": [
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "abuse of non-dependence-producing substances"
+    ],
+    "symptoms": [
+        "nausea",
+        "drowsiness",
+        "respiratory depression",
+        "confusion",
+        "constipation"
+    ]
+}

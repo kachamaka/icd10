@@ -1,0 +1,37 @@
+{
+    "icd10code": "T66",
+    "type": "category",
+    "title": "Unspecified effects of radiation",
+    "chapter": "Injury, poisoning and certain other consequences of external causes",
+    "chapterCode": "XIX",
+    "block": "Other and unspecified effects of external causes",
+    "blockCode": "T66-T78",
+    "category": "Unspecified effects of radiation",
+    "categoryCode": "T66",
+    "subcategory": "",
+    "inclusion": [
+        "Radiation sickness"
+    ],
+    "exclusion": [
+        "birth trauma",
+        "obstetric trauma",
+        "malunion of fracture",
+        "nonunion of fracture [pseudarthrosis]",
+        "pathological fracture",
+        "pathological fracture with osteoporosis",
+        "stress fracture",
+        "specified adverse effects of radiation, such as: burns",
+        "specified adverse effects of radiation, such as: leukaemia",
+        "specified adverse effects of radiation, such as: radiation: gastroenteritis and colitis",
+        "specified adverse effects of radiation, such as: radiation: pneumonitis",
+        "specified adverse effects of radiation, such as: radiation: related disorders of the skin and subcutaneous tissue",
+        "specified adverse effects of radiation, such as: sunburn"
+    ],
+    "symptoms": [
+        "fatigue",
+        "nausea",
+        "vomiting",
+        "dizziness",
+        "headache"
+    ]
+}

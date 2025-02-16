@@ -1,0 +1,40 @@
+{
+    "icd10code": "N05",
+    "type": "modifiedcategory",
+    "title": "Unspecified nephritic syndrome : minor glomerular abnormality",
+    "chapter": "Diseases of the genitourinary system",
+    "chapterCode": "XIV",
+    "block": "Glomerular diseases",
+    "blockCode": "N00-N08",
+    "category": "Unspecified nephritic syndrome",
+    "categoryCode": "N05",
+    "subcategory": "",
+    "inclusion": [
+        "glomerular disease NOS",
+        "glomerulonephritis NOS",
+        "nephritis NOS",
+        "nephropathy NOS and renal disease NOS with morphological lesion specified in .0-.8 before N00.-",
+        "Minimal change lesion"
+    ],
+    "exclusion": [
+        "certain conditions originating in the perinatal period",
+        "certain infectious and parasitic diseases",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "hypertensive renal disease",
+        "renal tubulo-interstitial disorders in diseases classified elsewhere",
+        "hereditary amyloid nephropathy",
+        "nail patella syndrome"
+    ],
+    "symptoms": [
+        "hematuria",
+        "proteinuria",
+        "hypertension",
+        "edema",
+        "renal insufficiency"
+    ]
+}

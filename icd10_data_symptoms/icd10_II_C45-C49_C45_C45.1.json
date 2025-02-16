@@ -1,0 +1,29 @@
+{
+    "icd10code": "C45.1",
+    "type": "subcategory",
+    "title": "Mesothelioma of peritoneum",
+    "chapter": "Neoplasms",
+    "chapterCode": "II",
+    "block": "Malignant neoplasms of mesothelial and soft tissue",
+    "blockCode": "C45-C49",
+    "category": "Mesothelioma",
+    "categoryCode": "C45",
+    "subcategory": "C45.1",
+    "inclusion": [
+        "morphology code M905 with behaviour code /3",
+        "Mesentery",
+        "Mesocolon",
+        "Omentum",
+        "Peritoneum (parietal)(pelvic)"
+    ],
+    "exclusion": [
+        "other malignant neoplasms of peritoneum"
+    ],
+    "symptoms": [
+        "shortness of breath",
+        "persistent cough",
+        "chest pain",
+        "fatigue",
+        "unintentional weight loss"
+    ]
+}

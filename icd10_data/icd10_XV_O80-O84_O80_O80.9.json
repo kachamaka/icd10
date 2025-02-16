@@ -1,0 +1,27 @@
+{
+  "type": "subcategory",
+  "chapterCode": "XV",
+  "chapter": "Pregnancy, childbirth and the puerperium",
+  "blockCode": "O80-O84",
+  "block": "Delivery",
+  "categoryCode": "O80",
+  "category": "Single spontaneous delivery",
+  "subcategory": "O80.9",
+  "title": "Single spontaneous delivery, unspecified",
+  "inclusion": [
+    "cases with minimal or no assistance, with or without episiotomy",
+    "delivery in a completely normal case",
+    "Spontaneous delivery NOS"
+  ],
+  "exclusion": [
+    "Certain diseases or injuries complicating pregnancy, childbirth and the puerperium classified elsewhere: external causes (for mortality)",
+    "Certain diseases or injuries complicating pregnancy, childbirth and the puerperium classified elsewhere: injury, poisoning and certain other consequences of external cause",
+    "Certain diseases or injuries complicating pregnancy, childbirth and the puerperium classified elsewhere: mental and behavioural disorders associated with the puerperium",
+    "Certain diseases or injuries complicating pregnancy, childbirth and the puerperium classified elsewhere: obstetrical tetanus",
+    "Certain diseases or injuries complicating pregnancy, childbirth and the puerperium classified elsewhere: postpartum necrosis of pituitary gland",
+    "Certain diseases or injuries complicating pregnancy, childbirth and the puerperium classified elsewhere: puerperal osteomalacia",
+    "supervision of: high-risk pregnancy",
+    "supervision of: normal pregnancy"
+  ],
+  "children": null
+}

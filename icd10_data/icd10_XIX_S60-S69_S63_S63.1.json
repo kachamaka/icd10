@@ -1,0 +1,33 @@
+{
+  "type": "subcategory",
+  "chapterCode": "XIX",
+  "chapter": "Injury, poisoning and certain other consequences of external causes",
+  "blockCode": "S60-S69",
+  "block": "Injuries to the wrist and hand",
+  "categoryCode": "S63",
+  "category": "Dislocation, sprain and strain of joints and ligaments at wrist and hand level",
+  "subcategory": "S63.1",
+  "title": "Dislocation of finger",
+  "inclusion": [
+    "Interphalangeal (joint), hand",
+    "Metacarpal (bone), distal end",
+    "Metacarpophalangeal (joint)",
+    "Phalanx, hand",
+    "Thumb"
+  ],
+  "exclusion": [
+    "birth trauma",
+    "obstetric trauma",
+    "malunion of fracture",
+    "nonunion of fracture [pseudarthrosis]",
+    "pathological fracture",
+    "pathological fracture with osteoporosis",
+    "stress fracture",
+    "bilateral involvement of wrist and hand",
+    "burns and corrosions",
+    "frostbite",
+    "injuries of arm, level unspecified",
+    "insect bite or sting, venomous"
+  ],
+  "children": null
+}

@@ -1,0 +1,23 @@
+{
+    "icd10code": "C11.9",
+    "type": "subcategory",
+    "title": "Malignant neoplasm: Nasopharynx, unspecified",
+    "chapter": "Neoplasms",
+    "chapterCode": "II",
+    "block": "Malignant neoplasms of lip, oral cavity and pharynx",
+    "blockCode": "C00-C14",
+    "category": "Malignant neoplasm of nasopharynx",
+    "categoryCode": "C11",
+    "subcategory": "C11.9",
+    "inclusion": [
+        "Nasopharyngeal wall NOS"
+    ],
+    "exclusion": null,
+    "symptoms": [
+        "nasal congestion",
+        "nosebleeds",
+        "runny nose",
+        "loss of smell",
+        "difficulty breathing"
+    ]
+}

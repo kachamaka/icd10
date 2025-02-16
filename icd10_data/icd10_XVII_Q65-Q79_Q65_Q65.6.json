@@ -1,0 +1,20 @@
+{
+  "type": "subcategory",
+  "chapterCode": "XVII",
+  "chapter": "Congenital malformations, deformations and chromosomal abnormalities",
+  "blockCode": "Q65-Q79",
+  "block": "Congenital malformations and deformations of the musculoskeletal system",
+  "categoryCode": "Q65",
+  "category": "Congenital deformities of hip",
+  "subcategory": "Q65.6",
+  "title": "Unstable hip",
+  "inclusion": [
+    "Dislocatable hip",
+    "Subluxatable hip"
+  ],
+  "exclusion": [
+    "inborn errors of metabolism",
+    "clicking hip"
+  ],
+  "children": null
+}

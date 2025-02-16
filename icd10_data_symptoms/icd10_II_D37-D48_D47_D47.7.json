@@ -1,0 +1,23 @@
+{
+    "icd10code": "D47.7",
+    "type": "subcategory",
+    "title": "Other specified neoplasms of uncertain or unknown behaviour of lymphoid, haematopoietic and related tissue",
+    "chapter": "Neoplasms",
+    "chapterCode": "II",
+    "block": "Neoplasms of uncertain or unknown behaviour",
+    "blockCode": "D37-D48",
+    "category": "Other neoplasms of uncertain or unknown behaviour of lymphoid, haematopoietic and related tissue",
+    "categoryCode": "D47",
+    "subcategory": "D47.7",
+    "inclusion": [
+        "Histiocytic tumours of uncertain and unknown behaviour"
+    ],
+    "exclusion": null,
+    "symptoms": [
+        "unexplained fatigue",
+        "recurring infections",
+        "enlarged lymph nodes",
+        "night sweats",
+        "unintentional weight loss"
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "icd10code": "Q20.1",
+    "type": "subcategory",
+    "title": "Double outlet right ventricle",
+    "chapter": "Congenital malformations, deformations and chromosomal abnormalities",
+    "chapterCode": "XVII",
+    "block": "Congenital malformations of the circulatory system",
+    "blockCode": "Q20-Q28",
+    "category": "Congenital malformations of cardiac chambers and connections",
+    "categoryCode": "Q20",
+    "subcategory": "Q20.1",
+    "inclusion": [
+        "Taussig-Bing syndrome"
+    ],
+    "exclusion": [
+        "inborn errors of metabolism",
+        "dextrocardia with situs inversus",
+        "mirror-image atrial arrangement with situs inversus"
+    ],
+    "symptoms": [
+        "ventricular septal defects",
+        "shortness of breath",
+        "heart murmur",
+        "fatigue",
+        "poor weight gain"
+    ]
+}

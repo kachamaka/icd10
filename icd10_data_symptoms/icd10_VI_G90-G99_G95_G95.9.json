@@ -1,0 +1,33 @@
+{
+    "icd10code": "G95.9",
+    "type": "subcategory",
+    "title": "Disease of spinal cord, unspecified",
+    "chapter": "Diseases of the nervous system",
+    "chapterCode": "VI",
+    "block": "Other disorders of the nervous system",
+    "blockCode": "G90-G99",
+    "category": "Other diseases of spinal cord",
+    "categoryCode": "G95",
+    "subcategory": "G95.9",
+    "inclusion": [
+        "Myelopathy NOS"
+    ],
+    "exclusion": [
+        "certain conditions originating in the perinatal period",
+        "certain infectious and parasitic diseases",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "myelitis"
+    ],
+    "symptoms": [
+        "pain",
+        "numbness",
+        "weakness",
+        "tingling",
+        "loss of coordination"
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "icd10code": "F60.1",
+    "type": "subcategory",
+    "title": "Schizoid personality disorder",
+    "chapter": "Mental and behavioural disorders",
+    "chapterCode": "V",
+    "block": "Disorders of adult personality and behaviour",
+    "blockCode": "F60-F69",
+    "category": "Specific personality disorders",
+    "categoryCode": "F60",
+    "subcategory": "F60.1",
+    "inclusion": [
+        "disorders of psychological development"
+    ],
+    "exclusion": [
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "Asperger syndrome",
+        "delusional disorder",
+        "schizoid disorder of childhood",
+        "schizophrenia",
+        "schizotypal disorder"
+    ],
+    "symptoms": [
+        "fear of abandonment",
+        "unstable relationships",
+        "identity disturbance",
+        "impulsivity",
+        "emotional instability"
+    ]
+}

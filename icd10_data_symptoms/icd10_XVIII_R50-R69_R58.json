@@ -1,0 +1,26 @@
+{
+    "icd10code": "R58",
+    "type": "category",
+    "title": "Haemorrhage, not elsewhere classified",
+    "chapter": "Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+    "chapterCode": "XVIII",
+    "block": "General symptoms and signs",
+    "blockCode": "R50-R69",
+    "category": "Haemorrhage, not elsewhere classified",
+    "categoryCode": "R58",
+    "subcategory": "",
+    "inclusion": [
+        "Haemorrhage NOS"
+    ],
+    "exclusion": [
+        "abnormal findings on antenatal screening of mother",
+        "certain conditions originating in the perinatal period"
+    ],
+    "symptoms": [
+        "bruising",
+        "prolonged bleeding",
+        "spontaneous bleeding",
+        "nosebleeds",
+        "blood in urine"
+    ]
+}

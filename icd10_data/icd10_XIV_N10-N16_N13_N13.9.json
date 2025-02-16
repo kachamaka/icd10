@@ -1,0 +1,30 @@
+{
+  "type": "subcategory",
+  "chapterCode": "XIV",
+  "chapter": "Diseases of the genitourinary system",
+  "blockCode": "N10-N16",
+  "block": "Renal tubulo-interstitial diseases",
+  "categoryCode": "N13",
+  "category": "Obstructive and reflux uropathy",
+  "subcategory": "N13.9",
+  "title": "Obstructive and reflux uropathy, unspecified",
+  "inclusion": [
+    "pyelonephritis",
+    "Urinary tract obstruction NOS"
+  ],
+  "exclusion": [
+    "certain conditions originating in the perinatal period",
+    "certain infectious and parasitic diseases",
+    "complications of pregnancy, childbirth and the puerperium",
+    "congenital malformations, deformations and chromosomal abnormalities",
+    "endocrine, nutritional and metabolic diseases",
+    "injury, poisoning and certain other consequences of external causes",
+    "neoplasms",
+    "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+    "pyeloureteritis cystica",
+    "calculous pyelonephritis",
+    "congenital obstructive defects of renal pelvis and ureter",
+    "obstructive pyelonephritis"
+  ],
+  "children": null
+}

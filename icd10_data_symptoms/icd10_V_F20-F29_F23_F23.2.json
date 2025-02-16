@@ -1,0 +1,32 @@
+{
+    "icd10code": "F23.2",
+    "type": "subcategory",
+    "title": "Acute schizophrenia-like psychotic disorder",
+    "chapter": "Mental and behavioural disorders",
+    "chapterCode": "V",
+    "block": "Schizophrenia, schizotypal and delusional disorders",
+    "blockCode": "F20-F29",
+    "category": "Acute and transient psychotic disorders",
+    "categoryCode": "F23",
+    "subcategory": "F23.2",
+    "inclusion": [
+        "disorders of psychological development",
+        "Acute (undifferentiated) schizophrenia",
+        "Brief schizophreniform: disorder",
+        "Brief schizophreniform: psychosis",
+        "Oneirophrenia",
+        "Schizophrenic reaction"
+    ],
+    "exclusion": [
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "organic delusional [schizophrenia-like] disorder",
+        "schizophreniform disorders NOS"
+    ],
+    "symptoms": [
+        "confusion",
+        "hallucinations",
+        "delusions",
+        "agitation",
+        "rapid mood changes"
+    ]
+}

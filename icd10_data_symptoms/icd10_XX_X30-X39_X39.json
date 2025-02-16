@@ -1,0 +1,23 @@
+{
+    "icd10code": "X39",
+    "type": "category",
+    "title": "Exposure to other and unspecified forces of nature",
+    "chapter": "External causes of morbidity and mortality",
+    "chapterCode": "XX",
+    "block": "Exposure to forces of nature",
+    "blockCode": "X30-X39",
+    "category": "Exposure to other and unspecified forces of nature",
+    "categoryCode": "X39",
+    "subcategory": "",
+    "inclusion": [
+        "natural radiation NOS",
+        "tidal wave NOS"
+    ],
+    "exclusion": [
+        "exposure NOS",
+        "tsunami"
+    ],
+    "symptoms": [
+        "asymptomatic"
+    ]
+}

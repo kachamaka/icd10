@@ -1,0 +1,25 @@
+{
+  "type": "subcategory",
+  "chapterCode": "XXI",
+  "chapter": "Factors influencing health status and contact with health services",
+  "blockCode": "Z00-Z13",
+  "block": "Persons encountering health services for examination and investigation",
+  "categoryCode": "Z01",
+  "category": "Other special examinations and investigations of persons without complaint or reported diagnosis",
+  "subcategory": "Z01.4",
+  "title": "Gynaecological examination (general)(routine)",
+  "inclusion": [
+    "routine examination of specific system",
+    "Papanicolaou smear of cervix",
+    "Pelvic examination (annual)(periodic)"
+  ],
+  "exclusion": [
+    "examinations related to pregnancy and reproduction",
+    "examination for: administrative purposes",
+    "examination for: suspected conditions, ruled out",
+    "special screening examinations",
+    "pregnancy examination or test",
+    "routine examination for contraceptive maintenance"
+  ],
+  "children": null
+}

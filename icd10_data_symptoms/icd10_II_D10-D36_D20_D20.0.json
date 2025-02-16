@@ -1,0 +1,26 @@
+{
+    "icd10code": "D20.0",
+    "type": "subcategory",
+    "title": "Benign neoplasm: Retroperitoneum",
+    "chapter": "Neoplasms",
+    "chapterCode": "II",
+    "block": "Benign neoplasms",
+    "blockCode": "D10-D36",
+    "category": "Benign neoplasm of soft tissue of retroperitoneum and peritoneum",
+    "categoryCode": "D20",
+    "subcategory": "D20.0",
+    "inclusion": [
+        "morphology codes with behaviour code /0"
+    ],
+    "exclusion": [
+        "benign lipomatous neoplasm of peritoneum and retroperitoneum",
+        "mesothelial tissue"
+    ],
+    "symptoms": [
+        "abdominal pain",
+        "change in bowel habits",
+        "presence of blood in stool",
+        "unintentional weight loss",
+        "fatigue"
+    ]
+}

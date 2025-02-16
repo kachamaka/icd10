@@ -1,0 +1,32 @@
+{
+    "icd10code": "K35.8",
+    "type": "subcategory",
+    "title": "Acute appendicitis, other and unspecified",
+    "chapter": "Diseases of the digestive system",
+    "chapterCode": "XI",
+    "block": "Diseases of appendix",
+    "blockCode": "K35-K38",
+    "category": "Acute appendicitis",
+    "categoryCode": "K35",
+    "subcategory": "K35.8",
+    "inclusion": [
+        "Acute appendicitis without mention of localized or generalized peritonitis"
+    ],
+    "exclusion": [
+        "certain conditions originating in the perinatal period",
+        "certain infectious and parasitic diseases",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified"
+    ],
+    "symptoms": [
+        "abdominal pain",
+        "nausea",
+        "vomiting",
+        "fever",
+        "loss of appetite"
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "icd10code": "M13.9",
+    "type": "subcategory",
+    "title": "Arthritis, unspecified",
+    "chapter": "Diseases of the musculoskeletal system and connective tissue",
+    "chapterCode": "XIII",
+    "block": "Inflammatory polyarthropathies",
+    "blockCode": "M05-M14",
+    "category": "Other arthritis",
+    "categoryCode": "M13",
+    "subcategory": "M13.9",
+    "inclusion": [
+        "Disorders affecting predominantly peripheral (limb) joints"
+    ],
+    "exclusion": [
+        "certain conditions originating in the perinatal period",
+        "certain disorders of the temporomandibular joint",
+        "certain infectious and parasitic diseases",
+        "compartment syndrome",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "polyarthritis NOS"
+    ],
+    "symptoms": [
+        "joint pain",
+        "stiffness",
+        "swelling",
+        "tenderness",
+        "reduced range of motion"
+    ]
+}

@@ -1,0 +1,31 @@
+{
+  "type": "subcategory",
+  "chapterCode": "XIX",
+  "chapter": "Injury, poisoning and certain other consequences of external causes",
+  "blockCode": "S40-S49",
+  "block": "Injuries to the shoulder and upper arm",
+  "categoryCode": "S43",
+  "category": "Dislocation, sprain and strain of joints and ligaments of shoulder girdle",
+  "subcategory": "S43.2",
+  "title": "Dislocation of sternoclavicular joint",
+  "inclusion": [
+    "injuries of: axilla",
+    "injuries of: scapular region"
+  ],
+  "exclusion": [
+    "birth trauma",
+    "obstetric trauma",
+    "malunion of fracture",
+    "nonunion of fracture [pseudarthrosis]",
+    "pathological fracture",
+    "pathological fracture with osteoporosis",
+    "stress fracture",
+    "bilateral involvement of shoulder and upper arm",
+    "burns and corrosions",
+    "frostbite",
+    "injuries of: arm, level unspecified",
+    "injuries of: elbow",
+    "insect bite or sting, venomous"
+  ],
+  "children": null
+}

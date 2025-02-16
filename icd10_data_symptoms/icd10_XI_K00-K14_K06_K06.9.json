@@ -1,0 +1,34 @@
+{
+    "icd10code": "K06.9",
+    "type": "subcategory",
+    "title": "Disorder of gingiva and edentulous alveolar ridge, unspecified",
+    "chapter": "Diseases of the digestive system",
+    "chapterCode": "XI",
+    "block": "Diseases of oral cavity, salivary glands and jaws",
+    "blockCode": "K00-K14",
+    "category": "Other disorders of gingiva and edentulous alveolar ridge",
+    "categoryCode": "K06",
+    "subcategory": "K06.9",
+    "inclusion": null,
+    "exclusion": [
+        "certain conditions originating in the perinatal period",
+        "certain infectious and parasitic diseases",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "atrophy of edentulous alveolar ridge",
+        "gingivitis: NOS",
+        "gingivitis: acute",
+        "gingivitis: chronic"
+    ],
+    "symptoms": [
+        "swelling in gums",
+        "pain in gums",
+        "bleeding gums",
+        "redness in gums",
+        "gum tenderness"
+    ]
+}

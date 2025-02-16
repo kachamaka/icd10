@@ -1,0 +1,20 @@
+{
+  "type": "subcategory",
+  "chapterCode": "II",
+  "chapter": "Neoplasms",
+  "blockCode": "D37-D48",
+  "block": "Neoplasms of uncertain or unknown behaviour",
+  "categoryCode": "D47",
+  "category": "Other neoplasms of uncertain or unknown behaviour of lymphoid, haematopoietic and related tissue",
+  "subcategory": "D47.1",
+  "title": "Chronic myeloproliferative disease",
+  "inclusion": [
+    "Chronic neutrophilic leukaemia",
+    "Myeloproliferative disease, unspecified"
+  ],
+  "exclusion": [
+    "atypical chronic myeloid leukaemia, BCR/ABL-negative",
+    "chronic myeloid leukaemia [CML] BCR/ABL-positive"
+  ],
+  "children": null
+}

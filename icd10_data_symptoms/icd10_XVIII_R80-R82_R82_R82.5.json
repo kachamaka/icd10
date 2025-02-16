@@ -1,0 +1,34 @@
+{
+    "icd10code": "R82.5",
+    "type": "subcategory",
+    "title": "Elevated urine levels of drugs, medicaments and biological substances",
+    "chapter": "Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+    "chapterCode": "XVIII",
+    "block": "Abnormal findings on examination of urine, without diagnosis",
+    "blockCode": "R80-R82",
+    "category": "Other abnormal findings in urine",
+    "categoryCode": "R82",
+    "subcategory": "R82.5",
+    "inclusion": [
+        "Elevated urine levels of: catecholamines",
+        "Elevated urine levels of: indoleacetic acid",
+        "Elevated urine levels of: 17-ketosteroids",
+        "Elevated urine levels of: steroids"
+    ],
+    "exclusion": [
+        "abnormal findings on antenatal screening of mother",
+        "certain conditions originating in the perinatal period",
+        "abnormal findings on antenatal screening of mother",
+        "diagnostic abnormal findings classified elsewhere - see Alphabetical Index",
+        "specific findings indicating disorder of: amino-acid metabolism",
+        "specific findings indicating disorder of: carbohydrate metabolism",
+        "haematuria"
+    ],
+    "symptoms": [
+        "abnormal urine color",
+        "dark urine",
+        "discolored urine",
+        "cloudy urine",
+        "red-tinged urine"
+    ]
+}

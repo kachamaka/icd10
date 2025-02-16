@@ -1,0 +1,24 @@
+{
+    "icd10code": "W41",
+    "type": "category",
+    "title": "Exposure to high-pressure jet",
+    "chapter": "External causes of morbidity and mortality",
+    "chapterCode": "XX",
+    "block": "Exposure to inanimate mechanical forces",
+    "blockCode": "W20-W49",
+    "category": "Exposure to high-pressure jet",
+    "categoryCode": "W41",
+    "subcategory": "",
+    "inclusion": [
+        "hydraulic jet",
+        "pneumatic jet"
+    ],
+    "exclusion": [
+        "assault",
+        "contact or collision with animals or persons",
+        "intentional self-harm"
+    ],
+    "symptoms": [
+        "asymptomatic"
+    ]
+}

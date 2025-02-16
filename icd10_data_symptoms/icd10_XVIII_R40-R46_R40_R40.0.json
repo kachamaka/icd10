@@ -1,0 +1,32 @@
+{
+    "icd10code": "R40.0",
+    "type": "subcategory",
+    "title": "Somnolence",
+    "chapter": "Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+    "chapterCode": "XVIII",
+    "block": "Symptoms and signs involving cognition, perception, emotional state and behaviour",
+    "blockCode": "R40-R46",
+    "category": "Somnolence, stupor and coma",
+    "categoryCode": "R40",
+    "subcategory": "R40.0",
+    "inclusion": [
+        "Drowsiness"
+    ],
+    "exclusion": [
+        "abnormal findings on antenatal screening of mother",
+        "certain conditions originating in the perinatal period",
+        "those constituting part of a pattern of mental disorder",
+        "coma: diabetic",
+        "coma: hepatic",
+        "coma: hypoglycaemic (nondiabetic)",
+        "coma: neonatal",
+        "coma: uraemic"
+    ],
+    "symptoms": [
+        "altered consciousness",
+        "drowsiness",
+        "confusion",
+        "mental fog",
+        "difficulty in concentration"
+    ]
+}

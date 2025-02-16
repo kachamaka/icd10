@@ -1,0 +1,27 @@
+{
+  "type": "subcategory",
+  "chapterCode": "X",
+  "chapter": "Diseases of the respiratory system",
+  "blockCode": "J60-J70",
+  "block": "Lung diseases due to external agents",
+  "categoryCode": "J62",
+  "category": "Pneumoconiosis due to dust containing silica",
+  "subcategory": "J62.0",
+  "title": "Pneumoconiosis due to talc dust",
+  "inclusion": [
+    "silicotic fibrosis (massive) of lung"
+  ],
+  "exclusion": [
+    "certain conditions originating in the perinatal period",
+    "certain infectious and parasitic diseases",
+    "complications of pregnancy, childbirth and the puerperium",
+    "congenital malformations, deformations and chromosomal abnormalities",
+    "endocrine, nutritional and metabolic diseases",
+    "injury, poisoning and certain other consequences of external causes",
+    "neoplasms",
+    "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+    "asthma classified to J45.-",
+    "neonatal aspiration syndromes"
+  ],
+  "children": null
+}

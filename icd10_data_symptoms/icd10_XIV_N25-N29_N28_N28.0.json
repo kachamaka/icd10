@@ -1,0 +1,45 @@
+{
+    "icd10code": "N28.0",
+    "type": "subcategory",
+    "title": "Ischaemia and infarction of kidney",
+    "chapter": "Diseases of the genitourinary system",
+    "chapterCode": "XIV",
+    "block": "Other disorders of kidney and ureter",
+    "blockCode": "N25-N29",
+    "category": "Other disorders of kidney and ureter, not elsewhere classified",
+    "categoryCode": "N28",
+    "subcategory": "N28.0",
+    "inclusion": [
+        "Renal artery: embolism",
+        "Renal artery: obstruction",
+        "Renal artery: occlusion",
+        "Renal artery: thrombosis",
+        "Renal infarct"
+    ],
+    "exclusion": [
+        "certain conditions originating in the perinatal period",
+        "certain infectious and parasitic diseases",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "with urolithiasis",
+        "hydroureter",
+        "renal disease: acute NOS",
+        "renal disease: chronic NOS",
+        "ureteric kinking and stricture: with hydronephrosis",
+        "ureteric kinking and stricture: without hydronephrosis",
+        "Goldblatt kidney",
+        "renal artery (extrarenal part): atherosclerosis",
+        "renal artery (extrarenal part): congenital stenosis"
+    ],
+    "symptoms": [
+        "flank pain",
+        "hematuria",
+        "fever",
+        "dysuria",
+        "proteinuria"
+    ]
+}

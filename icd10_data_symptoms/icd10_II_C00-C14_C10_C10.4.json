@@ -1,0 +1,25 @@
+{
+    "icd10code": "C10.4",
+    "type": "subcategory",
+    "title": "Malignant neoplasm: Branchial cleft",
+    "chapter": "Neoplasms",
+    "chapterCode": "II",
+    "block": "Malignant neoplasms of lip, oral cavity and pharynx",
+    "blockCode": "C00-C14",
+    "category": "Malignant neoplasm of oropharynx",
+    "categoryCode": "C10",
+    "subcategory": "C10.4",
+    "inclusion": [
+        "Branchial cyst [site of neoplasm]"
+    ],
+    "exclusion": [
+        "tonsil"
+    ],
+    "symptoms": [
+        "difficulty swallowing",
+        "lumps in the neck",
+        "sore throat",
+        "voice changes",
+        "unexplained weight loss"
+    ]
+}

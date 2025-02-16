@@ -1,0 +1,24 @@
+{
+    "icd10code": "X73",
+    "type": "category",
+    "title": "Intentional self-harm by rifle, shotgun and larger firearm discharge",
+    "chapter": "External causes of morbidity and mortality",
+    "chapterCode": "XX",
+    "block": "Intentional self-harm",
+    "blockCode": "X60-X84",
+    "category": "Intentional self-harm by rifle, shotgun and larger firearm discharge",
+    "categoryCode": "X73",
+    "subcategory": "",
+    "inclusion": [
+        "purposely self-inflicted poisoning or injury",
+        "suicide (attempted)"
+    ],
+    "exclusion": null,
+    "symptoms": [
+        "pain",
+        "bleeding",
+        "swelling",
+        "bruising",
+        "difficulty breathing"
+    ]
+}

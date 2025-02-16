@@ -1,0 +1,29 @@
+{
+    "icd10code": "V95.4",
+    "type": "subcategory",
+    "title": "Spacecraft accident injuring occupant",
+    "chapter": "External causes of morbidity and mortality",
+    "chapterCode": "XX",
+    "block": "Air and space transport accidents",
+    "blockCode": "V95-V97",
+    "category": "Accident to powered aircraft causing injury to occupant",
+    "categoryCode": "V95",
+    "subcategory": "V95.4",
+    "inclusion": [
+        "collision with any object, fixed, movable or moving of or on (powered) aircraft",
+        "crash of or on (powered) aircraft",
+        "explosion of or on (powered) aircraft",
+        "fire of or on (powered) aircraft",
+        "forced landing of or on (powered) aircraft"
+    ],
+    "exclusion": [
+        "accidents to persons engaged in the maintenance or repair of transport equipment or vehicle (not in motion) unless injured by another vehicle in motion",
+        "accidents involving vehicles, but unrelated to the hazards associated with the means of transportation, e.g., injuries received in a fight on board ship; transport vehicle involved in a cataclysm; finger crushed when shutting car door",
+        "assault by crashing of motor vehicle",
+        "event of undetermined intent",
+        "intentional self-harm"
+    ],
+    "symptoms": [
+        "asymptomatic"
+    ]
+}

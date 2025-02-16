@@ -1,0 +1,27 @@
+{
+  "type": "subcategory",
+  "chapterCode": "XIX",
+  "chapter": "Injury, poisoning and certain other consequences of external causes",
+  "blockCode": "S70-S79",
+  "block": "Injuries to the hip and thigh",
+  "categoryCode": "S73",
+  "category": "Dislocation, sprain and strain of joint and ligaments of hip",
+  "subcategory": "S73.0",
+  "title": "Dislocation of hip",
+  "inclusion": null,
+  "exclusion": [
+    "birth trauma",
+    "obstetric trauma",
+    "malunion of fracture",
+    "nonunion of fracture [pseudarthrosis]",
+    "pathological fracture",
+    "pathological fracture with osteoporosis",
+    "stress fracture",
+    "bilateral involvement of hip and thigh",
+    "burns and corrosions",
+    "frostbite",
+    "injuries of leg, level unspecified",
+    "insect bite or sting, venomous"
+  ],
+  "children": null
+}

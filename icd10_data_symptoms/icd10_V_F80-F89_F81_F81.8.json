@@ -1,0 +1,26 @@
+{
+    "icd10code": "F81.8",
+    "type": "subcategory",
+    "title": "Other developmental disorders of scholastic skills",
+    "chapter": "Mental and behavioural disorders",
+    "chapterCode": "V",
+    "block": "Disorders of psychological development",
+    "blockCode": "F80-F89",
+    "category": "Specific developmental disorders of scholastic skills",
+    "categoryCode": "F81",
+    "subcategory": "F81.8",
+    "inclusion": [
+        "disorders of psychological development",
+        "Developmental expressive writing disorder"
+    ],
+    "exclusion": [
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified"
+    ],
+    "symptoms": [
+        "difficulty reading",
+        "trouble writing",
+        "inconsistent spelling",
+        "slow learning",
+        "struggle with math"
+    ]
+}

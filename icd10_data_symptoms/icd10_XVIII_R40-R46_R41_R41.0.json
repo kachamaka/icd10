@@ -1,0 +1,29 @@
+{
+    "icd10code": "R41.0",
+    "type": "subcategory",
+    "title": "Disorientation, unspecified",
+    "chapter": "Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+    "chapterCode": "XVIII",
+    "block": "Symptoms and signs involving cognition, perception, emotional state and behaviour",
+    "blockCode": "R40-R46",
+    "category": "Other symptoms and signs involving cognitive functions and awareness",
+    "categoryCode": "R41",
+    "subcategory": "R41.0",
+    "inclusion": [
+        "Confusion NOS"
+    ],
+    "exclusion": [
+        "abnormal findings on antenatal screening of mother",
+        "certain conditions originating in the perinatal period",
+        "those constituting part of a pattern of mental disorder",
+        "disturbances of skin sensation",
+        "psychogenic disorientation"
+    ],
+    "symptoms": [
+        "memory loss",
+        "forgetfulness",
+        "difficulty recalling information",
+        "short-term memory impairment",
+        "long-term memory issues"
+    ]
+}

@@ -1,0 +1,38 @@
+{
+    "icd10code": "J39.2",
+    "type": "subcategory",
+    "title": "Other diseases of pharynx",
+    "chapter": "Diseases of the respiratory system",
+    "chapterCode": "X",
+    "block": "Other diseases of upper respiratory tract",
+    "blockCode": "J30-J39",
+    "category": "Other diseases of upper respiratory tract",
+    "categoryCode": "J39",
+    "subcategory": "J39.2",
+    "inclusion": [
+        "Cyst of pharynx or nasopharynx",
+        "Oedema of pharynx or nasopharynx"
+    ],
+    "exclusion": [
+        "certain conditions originating in the perinatal period",
+        "certain infectious and parasitic diseases",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "acute respiratory infection NOS",
+        "acute respiratory infection NOS upper",
+        "upper respiratory inflammation due to chemicals, gases, fumes or vapours",
+        "pharyngitis: chronic",
+        "pharyngitis: ulcerative"
+    ],
+    "symptoms": [
+        "chronic cough",
+        "difficulty swallowing",
+        "hoarseness",
+        "sore throat",
+        "throat pain"
+    ]
+}

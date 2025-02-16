@@ -1,0 +1,20 @@
+{
+  "type": "subcategory",
+  "chapterCode": "XVIII",
+  "chapter": "Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+  "blockCode": "R20-R23",
+  "block": "Symptoms and signs involving the skin and subcutaneous tissue",
+  "categoryCode": "R23",
+  "category": "Other skin changes",
+  "subcategory": "R23.2",
+  "title": "Flushing",
+  "inclusion": [
+    "Excessive blushing"
+  ],
+  "exclusion": [
+    "abnormal findings on antenatal screening of mother",
+    "certain conditions originating in the perinatal period",
+    "menopausal and female climacteric states"
+  ],
+  "children": null
+}

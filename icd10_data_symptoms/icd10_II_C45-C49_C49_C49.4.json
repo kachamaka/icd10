@@ -1,0 +1,44 @@
+{
+    "icd10code": "C49.4",
+    "type": "subcategory",
+    "title": "Malignant neoplasm: Connective and soft tissue of abdomen",
+    "chapter": "Neoplasms",
+    "chapterCode": "II",
+    "block": "Malignant neoplasms of mesothelial and soft tissue",
+    "blockCode": "C45-C49",
+    "category": "Malignant neoplasm of other connective and soft tissue",
+    "categoryCode": "C49",
+    "subcategory": "C49.4",
+    "inclusion": [
+        "blood vessel",
+        "bursa",
+        "cartilage",
+        "fascia",
+        "fat",
+        "ligament, except uterine",
+        "lymphatic vessel",
+        "muscle",
+        "synovia",
+        "tendon (sheath)",
+        "Abdominal wall",
+        "Hypochondrium"
+    ],
+    "exclusion": [
+        "cartilage (of): articular",
+        "cartilage (of): larynx",
+        "cartilage (of): nose",
+        "connective tissue of breast",
+        "Kaposi sarcoma",
+        "mesothelioma",
+        "peripheral nerves and autonomic nervous system",
+        "peritoneum",
+        "retroperitoneum"
+    ],
+    "symptoms": [
+        "pain",
+        "swelling or lump in affected area",
+        "limited movement",
+        "abnormal bleeding",
+        "skin changes"
+    ]
+}

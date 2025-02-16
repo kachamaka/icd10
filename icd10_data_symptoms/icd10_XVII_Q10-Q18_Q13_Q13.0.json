@@ -1,0 +1,32 @@
+{
+    "icd10code": "Q13.0",
+    "type": "subcategory",
+    "title": "Coloboma of iris",
+    "chapter": "Congenital malformations, deformations and chromosomal abnormalities",
+    "chapterCode": "XVII",
+    "block": "Congenital malformations of eye, ear, face and neck",
+    "blockCode": "Q10-Q18",
+    "category": "Congenital malformations of anterior segment of eye",
+    "categoryCode": "Q13",
+    "subcategory": "Q13.0",
+    "inclusion": [
+        "Coloboma NOS"
+    ],
+    "exclusion": [
+        "inborn errors of metabolism",
+        "cleft lip and cleft palate",
+        "congenital malformation of: cervical spine",
+        "congenital malformation of: larynx",
+        "congenital malformation of: lip NEC",
+        "congenital malformation of: nose",
+        "congenital malformation of: parathyroid gland",
+        "congenital malformation of: thyroid gland"
+    ],
+    "symptoms": [
+        "absent or underdeveloped iris",
+        "sensitivity to light",
+        "blurred vision",
+        "nystagmus",
+        "glaucoma risk"
+    ]
+}

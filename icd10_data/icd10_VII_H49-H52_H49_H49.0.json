@@ -1,0 +1,27 @@
+{
+  "type": "subcategory",
+  "chapterCode": "VII",
+  "chapter": "Diseases of the eye and adnexa",
+  "blockCode": "H49-H52",
+  "block": "Disorders of ocular muscles, binocular movement, accommodation and refraction",
+  "categoryCode": "H49",
+  "category": "Paralytic strabismus",
+  "subcategory": "H49.0",
+  "title": "Third [oculomotor] nerve palsy",
+  "inclusion": null,
+  "exclusion": [
+    "certain conditions originating in the perinatal period",
+    "certain infectious and parasitic diseases",
+    "complications of pregnancy, childbirth and the puerperium",
+    "congenital malformations, deformations and chromosomal abnormalities",
+    "endocrine, nutritional and metabolic diseases",
+    "injury, poisoning and certain other consequences of external causes",
+    "neoplasms",
+    "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+    "nystagmus and other irregular eye movements",
+    "ophthalmoplegia: internal",
+    "ophthalmoplegia: internuclear",
+    "ophthalmoplegia: progressive supranuclear"
+  ],
+  "children": null
+}

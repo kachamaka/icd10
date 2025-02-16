@@ -1,0 +1,36 @@
+{
+    "icd10code": "J86.0",
+    "type": "subcategory",
+    "title": "Pyothorax with fistula",
+    "chapter": "Diseases of the respiratory system",
+    "chapterCode": "X",
+    "block": "Suppurative and necrotic conditions of lower respiratory tract",
+    "blockCode": "J85-J86",
+    "category": "Pyothorax",
+    "categoryCode": "J86",
+    "subcategory": "J86.0",
+    "inclusion": [
+        "abscess of: pleura",
+        "abscess of: thorax",
+        "empyema",
+        "pyopneumothorax"
+    ],
+    "exclusion": [
+        "certain conditions originating in the perinatal period",
+        "certain infectious and parasitic diseases",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "due to tuberculosis"
+    ],
+    "symptoms": [
+        "chest pain",
+        "fever",
+        "cough",
+        "difficulty breathing",
+        "fatigue"
+    ]
+}

@@ -1,0 +1,42 @@
+{
+    "icd10code": "N18.4",
+    "type": "subcategory",
+    "title": "Chronic kidney disease, stage 4",
+    "chapter": "Diseases of the genitourinary system",
+    "chapterCode": "XIV",
+    "block": "Renal failure",
+    "blockCode": "N17-N19",
+    "category": "Chronic kidney disease",
+    "categoryCode": "N18",
+    "subcategory": "N18.4",
+    "inclusion": [
+        "chronic renal failure"
+    ],
+    "exclusion": [
+        "certain conditions originating in the perinatal period",
+        "certain infectious and parasitic diseases",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "congenital renal failure",
+        "drug- and heavy-metal-induced tubulo-interstitial and tubular conditions",
+        "extrarenal uraemia",
+        "haemolytic-uraemic syndrome",
+        "hepatorenal syndrome",
+        "hepatorenal syndrome postpartum",
+        "prerenal uraemia",
+        "renal failure: complicating abortion or ectopic or molar pregnancy",
+        "renal failure: following labour and delivery",
+        "renal failure: postprocedural"
+    ],
+    "symptoms": [
+        "fatigue",
+        "swelling",
+        "high blood pressure",
+        "decreased urine output",
+        "shortness of breath"
+    ]
+}

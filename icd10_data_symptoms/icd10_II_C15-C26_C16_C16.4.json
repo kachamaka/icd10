@@ -1,0 +1,26 @@
+{
+    "icd10code": "C16.4",
+    "type": "subcategory",
+    "title": "Malignant neoplasm: Pylorus",
+    "chapter": "Neoplasms",
+    "chapterCode": "II",
+    "block": "Malignant neoplasms of digestive organs",
+    "blockCode": "C15-C26",
+    "category": "Malignant neoplasm of stomach",
+    "categoryCode": "C16",
+    "subcategory": "C16.4",
+    "inclusion": [
+        "Prepylorus",
+        "Pyloric canal"
+    ],
+    "exclusion": null,
+    "symptoms": [
+        "abdominal pain",
+        "discomfort",
+        "or swelling",
+        "unexplained weight loss",
+        "vomiting blood or having blood in stool",
+        "loss of appetite",
+        "difficulty swallowing"
+    ]
+}

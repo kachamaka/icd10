@@ -1,0 +1,23 @@
+{
+    "icd10code": "Z31.4",
+    "type": "subcategory",
+    "title": "Procreative investigation and testing",
+    "chapter": "Factors influencing health status and contact with health services",
+    "chapterCode": "XXI",
+    "block": "Persons encountering health services in circumstances related to reproduction",
+    "blockCode": "Z30-Z39",
+    "category": "Procreative management",
+    "categoryCode": "Z31",
+    "subcategory": "Z31.4",
+    "inclusion": [
+        "Fallopian insufflation",
+        "Sperm count"
+    ],
+    "exclusion": [
+        "complications associated with artificial fertilization",
+        "postvasectomy sperm count"
+    ],
+    "symptoms": [
+        "asymptomatic"
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "icd10code": "J40",
+    "type": "category",
+    "title": "Bronchitis, not specified as acute or chronic",
+    "chapter": "Diseases of the respiratory system",
+    "chapterCode": "X",
+    "block": "Chronic lower respiratory diseases",
+    "blockCode": "J40-J47",
+    "category": "Bronchitis, not specified as acute or chronic",
+    "categoryCode": "J40",
+    "subcategory": "",
+    "inclusion": [
+        "Bronchitis: NOS",
+        "Bronchitis: catarrhal",
+        "Bronchitis: with tracheitis NOS",
+        "Tracheobronchitis NOS"
+    ],
+    "exclusion": [
+        "certain conditions originating in the perinatal period",
+        "certain infectious and parasitic diseases",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "cystic fibrosis",
+        "respiratory infection NOS",
+        "bronchitis: allergic NOS",
+        "bronchitis: asthmatic NOS",
+        "bronchitis: chemical (acute)"
+    ],
+    "symptoms": [
+        "cough",
+        "phlegm production",
+        "chest tightness",
+        "wheezing",
+        "shortness of breath"
+    ]
+}

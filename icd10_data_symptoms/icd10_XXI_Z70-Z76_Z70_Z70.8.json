@@ -1,0 +1,21 @@
+{
+    "icd10code": "Z70.8",
+    "type": "subcategory",
+    "title": "Other sex counselling",
+    "chapter": "Factors influencing health status and contact with health services",
+    "chapterCode": "XXI",
+    "block": "Persons encountering health services in other circumstances",
+    "blockCode": "Z70-Z76",
+    "category": "Counselling related to sexual attitude, behaviour and orientation",
+    "categoryCode": "Z70",
+    "subcategory": "Z70.8",
+    "inclusion": [
+        "Sex education"
+    ],
+    "exclusion": [
+        "contraceptive or procreative counselling"
+    ],
+    "symptoms": [
+        "asymptomatic"
+    ]
+}

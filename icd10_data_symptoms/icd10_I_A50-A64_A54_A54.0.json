@@ -1,0 +1,38 @@
+{
+    "icd10code": "A54.0",
+    "type": "subcategory",
+    "title": "Gonococcal infection of lower genitourinary tract without periurethral or accessory gland abscess",
+    "chapter": "Certain infectious and parasitic diseases",
+    "chapterCode": "I",
+    "block": "Infections with a predominantly sexual mode of transmission",
+    "blockCode": "A50-A64",
+    "category": "Gonococcal infection",
+    "categoryCode": "A54",
+    "subcategory": "A54.0",
+    "inclusion": [
+        "diseases generally recognized as communicable or transmissible",
+        "Gonococcal: cervicitis NOS",
+        "Gonococcal: cystitis NOS",
+        "Gonococcal: urethritis NOS",
+        "Gonococcal: vulvovaginitis NOS"
+    ],
+    "exclusion": [
+        "carrier or suspected carrier of infectious disease",
+        "certain localized infections - see body system-related chapters",
+        "infectious and parasitic diseases complicating pregnancy, childbirth and the puerperium [except obstetrical tetanus]",
+        "infectious and parasitic diseases specific to the perinatal period [except tetanus neonatorum, whooping cough, congenital syphilis, perinatal gonococcal infection and perinatal human immunodeficiency virus [HIV] disease]",
+        "influenza and other acute respiratory infections",
+        "erythrasma",
+        "endotoxic shock NOS",
+        "sepsis NOS",
+        "with: genitourinary gland abscess",
+        "with: periurethral abscess"
+    ],
+    "symptoms": [
+        "dysuria",
+        "purulent urethral discharge",
+        "urethral itching",
+        "urinary frequency",
+        "painful urination"
+    ]
+}

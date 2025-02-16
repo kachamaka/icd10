@@ -1,0 +1,16 @@
+{
+  "type": "subcategory",
+  "chapterCode": "XX",
+  "chapter": "External causes of morbidity and mortality",
+  "blockCode": "X30-X39",
+  "block": "Exposure to forces of nature",
+  "categoryCode": "X34",
+  "category": "Victim of earthquake",
+  "subcategory": "X34.0",
+  "title": "Victim of cataclysmic earth movements caused by earthquake",
+  "inclusion": [
+    "Trapped in or injured by collapsing building or other structure due to earthquake"
+  ],
+  "exclusion": null,
+  "children": null
+}

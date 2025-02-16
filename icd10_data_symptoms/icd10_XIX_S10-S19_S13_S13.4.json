@@ -1,0 +1,48 @@
+{
+    "icd10code": "S13.4",
+    "type": "subcategory",
+    "title": "Sprain and strain of cervical spine",
+    "chapter": "Injury, poisoning and certain other consequences of external causes",
+    "chapterCode": "XIX",
+    "block": "Injuries to the neck",
+    "blockCode": "S10-S19",
+    "category": "Dislocation, sprain and strain of joints and ligaments at neck level",
+    "categoryCode": "S13",
+    "subcategory": "S13.4",
+    "inclusion": [
+        "injuries of: nape",
+        "injuries of: supraclavicular region",
+        "injuries of: throat",
+        "Anterior longitudinal (ligament), cervical",
+        "Atlanto-axial (joints)",
+        "Atlanto-occipital (joints)",
+        "Whiplash injury"
+    ],
+    "exclusion": [
+        "birth trauma",
+        "obstetric trauma",
+        "malunion of fracture",
+        "nonunion of fracture [pseudarthrosis]",
+        "pathological fracture",
+        "pathological fracture with osteoporosis",
+        "stress fracture",
+        "burns and corrosions",
+        "effects of foreign body in: larynx",
+        "effects of foreign body in: oesophagus",
+        "effects of foreign body in: pharynx",
+        "effects of foreign body in: trachea",
+        "fracture of spine NOS",
+        "frostbite",
+        "injury of: spinal cord NOS",
+        "injury of: trunk NOS",
+        "insect bite or sting, venomous",
+        "multiple fractures of cervical spine"
+    ],
+    "symptoms": [
+        "neck pain",
+        "limited neck movement",
+        "muscle spasms",
+        "tenderness",
+        "swelling"
+    ]
+}

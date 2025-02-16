@@ -1,0 +1,47 @@
+{
+    "icd10code": "A52.7",
+    "type": "subcategory",
+    "title": "Other symptomatic late syphilis",
+    "chapter": "Certain infectious and parasitic diseases",
+    "chapterCode": "I",
+    "block": "Infections with a predominantly sexual mode of transmission",
+    "blockCode": "A50-A64",
+    "category": "Late syphilis",
+    "categoryCode": "A52",
+    "subcategory": "A52.7",
+    "inclusion": [
+        "diseases generally recognized as communicable or transmissible",
+        "Glomerular disease in syphilis",
+        "Gumma (syphilitic) any sites, except those classified to A52.0-A52.3",
+        "Late or tertiary syphilis any sites, except those classified to A52.0-A52.3",
+        "Late syphilitic: bursitis",
+        "Late syphilitic: chorioretinitis",
+        "Late syphilitic: episcleritis",
+        "Late syphilitic: female pelvic inflammatory disease",
+        "Late syphilitic: leukoderma",
+        "Late syphilitic: oculopathy NEC",
+        "Late syphilitic: peritonitis",
+        "Syphilis [stage unspecified] of: bone",
+        "Syphilis [stage unspecified] of: liver",
+        "Syphilis [stage unspecified] of: lung",
+        "Syphilis [stage unspecified] of: muscle",
+        "Syphilis [stage unspecified] of: synovium"
+    ],
+    "exclusion": [
+        "carrier or suspected carrier of infectious disease",
+        "certain localized infections - see body system-related chapters",
+        "infectious and parasitic diseases complicating pregnancy, childbirth and the puerperium [except obstetrical tetanus]",
+        "infectious and parasitic diseases specific to the perinatal period [except tetanus neonatorum, whooping cough, congenital syphilis, perinatal gonococcal infection and perinatal human immunodeficiency virus [HIV] disease]",
+        "influenza and other acute respiratory infections",
+        "erythrasma",
+        "endotoxic shock NOS",
+        "sepsis NOS"
+    ],
+    "symptoms": [
+        "nerve pain",
+        "muscle weakness",
+        "coordination problems",
+        "vision changes",
+        "cognitive impairment"
+    ]
+}

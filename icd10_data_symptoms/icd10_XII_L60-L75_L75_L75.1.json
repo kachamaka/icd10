@@ -1,0 +1,35 @@
+{
+    "icd10code": "L75.1",
+    "type": "subcategory",
+    "title": "Chromhidrosis",
+    "chapter": "Diseases of the skin and subcutaneous tissue",
+    "chapterCode": "XII",
+    "block": "Disorders of skin appendages",
+    "blockCode": "L60-L75",
+    "category": "Apocrine sweat disorders",
+    "categoryCode": "L75",
+    "subcategory": "L75.1",
+    "inclusion": null,
+    "exclusion": [
+        "certain conditions originating in the perinatal period",
+        "certain infectious and parasitic diseases",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "lipomelanotic reticulosis",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "systemic connective tissue disorders",
+        "decubitus [pressure] ulcer and pressure area",
+        "gangrene",
+        "skin infections"
+    ],
+    "symptoms": [
+        "excessive sweating",
+        "sweating without triggers",
+        "night sweats",
+        "social anxiety",
+        "skin irritation"
+    ]
+}

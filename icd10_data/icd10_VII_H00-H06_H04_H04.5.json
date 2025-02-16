@@ -1,0 +1,30 @@
+{
+  "type": "subcategory",
+  "chapterCode": "VII",
+  "chapter": "Diseases of the eye and adnexa",
+  "blockCode": "H00-H06",
+  "block": "Disorders of eyelid, lacrimal system and orbit",
+  "categoryCode": "H04",
+  "category": "Disorders of lacrimal system",
+  "subcategory": "H04.5",
+  "title": "Stenosis and insufficiency of lacrimal passages",
+  "inclusion": [
+    "Dacryolith",
+    "Eversion of lacrimal punctum",
+    "Stenosis of lacrimal: canaliculi",
+    "Stenosis of lacrimal: duct",
+    "Stenosis of lacrimal: sac"
+  ],
+  "exclusion": [
+    "certain conditions originating in the perinatal period",
+    "certain infectious and parasitic diseases",
+    "complications of pregnancy, childbirth and the puerperium",
+    "congenital malformations, deformations and chromosomal abnormalities",
+    "endocrine, nutritional and metabolic diseases",
+    "injury, poisoning and certain other consequences of external causes",
+    "neoplasms",
+    "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+    "congenital malformations of lacrimal system"
+  ],
+  "children": null
+}

@@ -1,0 +1,29 @@
+{
+    "icd10code": "Z86.4",
+    "type": "subcategory",
+    "title": "Personal history of psychoactive substance abuse",
+    "chapter": "Factors influencing health status and contact with health services",
+    "chapterCode": "XXI",
+    "block": "Persons with potential health hazards related to family and personal history and certain conditions influencing health status",
+    "blockCode": "Z80-Z99",
+    "category": "Personal history of certain other diseases",
+    "categoryCode": "Z86",
+    "subcategory": "Z86.4",
+    "inclusion": [
+        "Conditions classifiable to F10-F19"
+    ],
+    "exclusion": [
+        "follow-up examination",
+        "follow-up medical care and convalescence",
+        "when family or personal history is the reason for special screening or other examination or investigation",
+        "when the possibility that the fetus might be affected is the reason for observation or action during pregnancy",
+        "follow-up medical care and convalescence",
+        "current dependence",
+        "problems related to use of: alcohol",
+        "problems related to use of: drug",
+        "problems related to use of: tobacco"
+    ],
+    "symptoms": [
+        "asymptomatic"
+    ]
+}

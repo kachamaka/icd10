@@ -1,0 +1,32 @@
+{
+    "icd10code": "B80",
+    "type": "category",
+    "title": "Enterobiasis",
+    "chapter": "Certain infectious and parasitic diseases",
+    "chapterCode": "I",
+    "block": "Helminthiases",
+    "blockCode": "B65-B83",
+    "category": "Enterobiasis",
+    "categoryCode": "B80",
+    "subcategory": "",
+    "inclusion": [
+        "diseases generally recognized as communicable or transmissible",
+        "Oxyuriasis",
+        "Pinworm infection",
+        "Threadworm infection"
+    ],
+    "exclusion": [
+        "carrier or suspected carrier of infectious disease",
+        "certain localized infections - see body system-related chapters",
+        "infectious and parasitic diseases complicating pregnancy, childbirth and the puerperium [except obstetrical tetanus]",
+        "infectious and parasitic diseases specific to the perinatal period [except tetanus neonatorum, whooping cough, congenital syphilis, perinatal gonococcal infection and perinatal human immunodeficiency virus [HIV] disease]",
+        "influenza and other acute respiratory infections"
+    ],
+    "symptoms": [
+        "itching",
+        "diarrhea",
+        "abdominal pain",
+        "irritability",
+        "nausea"
+    ]
+}

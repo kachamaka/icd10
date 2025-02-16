@@ -1,0 +1,38 @@
+{
+    "icd10code": "G57.1",
+    "type": "subcategory",
+    "title": "Meralgia paraesthetica",
+    "chapter": "Diseases of the nervous system",
+    "chapterCode": "VI",
+    "block": "Nerve, nerve root and plexus disorders",
+    "blockCode": "G50-G59",
+    "category": "Mononeuropathies of lower limb",
+    "categoryCode": "G57",
+    "subcategory": "G57.1",
+    "inclusion": [
+        "Lateral cutaneous nerve of thigh syndrome"
+    ],
+    "exclusion": [
+        "certain conditions originating in the perinatal period",
+        "certain infectious and parasitic diseases",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "current traumatic nerve, nerve root and plexus disorders - see nerve injury by body region",
+        "neuralgia NOS",
+        "neuritis NOS",
+        "peripheral neuritis in pregnancy",
+        "radiculitis NOS",
+        "postherpetic geniculate ganglionitis"
+    ],
+    "symptoms": [
+        "pain",
+        "numbness",
+        "tingling",
+        "weakness",
+        "burning sensation"
+    ]
+}

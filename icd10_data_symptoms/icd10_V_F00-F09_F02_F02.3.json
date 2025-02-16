@@ -1,0 +1,27 @@
+{
+    "icd10code": "F02.3",
+    "type": "subcategory",
+    "title": "Dementia in Parkinson disease",
+    "chapter": "Mental and behavioural disorders",
+    "chapterCode": "V",
+    "block": "Organic, including symptomatic, mental disorders",
+    "blockCode": "F00-F09",
+    "category": "Dementia in other diseases classified elsewhere",
+    "categoryCode": "F02",
+    "subcategory": "F02.3",
+    "inclusion": [
+        "disorders of psychological development",
+        "Dementia in: paralysis agitans",
+        "Dementia in: parkinsonism"
+    ],
+    "exclusion": [
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified"
+    ],
+    "symptoms": [
+        "memory loss",
+        "confusion",
+        "language difficulties",
+        "difficulty with coordination",
+        "changes in mood or behavior"
+    ]
+}

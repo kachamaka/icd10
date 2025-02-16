@@ -1,0 +1,30 @@
+{
+    "icd10code": "B85.4",
+    "type": "subcategory",
+    "title": "Mixed pediculosis and phthiriasis",
+    "chapter": "Certain infectious and parasitic diseases",
+    "chapterCode": "I",
+    "block": "Pediculosis, acariasis and other infestations",
+    "blockCode": "B85-B89",
+    "category": "Pediculosis and phthiriasis",
+    "categoryCode": "B85",
+    "subcategory": "B85.4",
+    "inclusion": [
+        "diseases generally recognized as communicable or transmissible",
+        "Infestation classifiable to more than one of the categories B85.0-B85.3"
+    ],
+    "exclusion": [
+        "carrier or suspected carrier of infectious disease",
+        "certain localized infections - see body system-related chapters",
+        "infectious and parasitic diseases complicating pregnancy, childbirth and the puerperium [except obstetrical tetanus]",
+        "infectious and parasitic diseases specific to the perinatal period [except tetanus neonatorum, whooping cough, congenital syphilis, perinatal gonococcal infection and perinatal human immunodeficiency virus [HIV] disease]",
+        "influenza and other acute respiratory infections"
+    ],
+    "symptoms": [
+        "itching",
+        "visible lice",
+        "tickling sensation",
+        "sores from scratching",
+        "irritability"
+    ]
+}

@@ -1,0 +1,25 @@
+{
+  "type": "category",
+  "chapterCode": "V",
+  "chapter": "Mental and behavioural disorders",
+  "blockCode": "F00-F09",
+  "block": "Organic, including symptomatic, mental disorders",
+  "categoryCode": "F03",
+  "category": "Unspecified dementia",
+  "subcategory": "",
+  "title": "Unspecified dementia",
+  "inclusion": [
+    "disorders of psychological development",
+    "Presenile: dementia NOS",
+    "Presenile: psychosis NOS",
+    "Primary degenerative dementia NOS",
+    "Senile: dementia: NOS",
+    "Senile: dementia: depressed or paranoid type",
+    "Senile: psychosis NOS"
+  ],
+  "exclusion": [
+    "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+    "senility NOS"
+  ],
+  "children": null
+}

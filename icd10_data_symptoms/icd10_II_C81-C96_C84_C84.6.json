@@ -1,0 +1,25 @@
+{
+    "icd10code": "C84.6",
+    "type": "subcategory",
+    "title": "Anaplastic large cell lymphoma, ALK-positive",
+    "chapter": "Neoplasms",
+    "chapterCode": "II",
+    "block": "Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",
+    "blockCode": "C81-C96",
+    "category": "Mature T/NK-cell lymphomas",
+    "categoryCode": "C84",
+    "subcategory": "C84.6",
+    "inclusion": [
+        "Anaplastic large cell lymphoma, CD30-positive"
+    ],
+    "exclusion": [
+        "secondary and unspecified neoplasm of lymph nodes"
+    ],
+    "symptoms": [
+        "swollen lymph nodes",
+        "fever",
+        "night sweats",
+        "unexplained weight loss",
+        "fatigue"
+    ]
+}

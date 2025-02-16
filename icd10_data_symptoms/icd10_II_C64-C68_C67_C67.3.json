@@ -1,0 +1,21 @@
+{
+    "icd10code": "C67.3",
+    "type": "subcategory",
+    "title": "Malignant neoplasm: Anterior wall of bladder",
+    "chapter": "Neoplasms",
+    "chapterCode": "II",
+    "block": "Malignant neoplasms of urinary tract",
+    "blockCode": "C64-C68",
+    "category": "Malignant neoplasm of bladder",
+    "categoryCode": "C67",
+    "subcategory": "C67.3",
+    "inclusion": null,
+    "exclusion": null,
+    "symptoms": [
+        "hematuria",
+        "frequent urination",
+        "painful urination",
+        "lower back pain",
+        "unexplained weight loss"
+    ]
+}

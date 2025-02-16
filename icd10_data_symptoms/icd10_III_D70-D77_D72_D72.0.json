@@ -1,0 +1,44 @@
+{
+    "icd10code": "D72.0",
+    "type": "subcategory",
+    "title": "Genetic anomalies of leukocytes",
+    "chapter": "Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism",
+    "chapterCode": "III",
+    "block": "Other diseases of blood and blood-forming organs",
+    "blockCode": "D70-D77",
+    "category": "Other disorders of white blood cells",
+    "categoryCode": "D72",
+    "subcategory": "D72.0",
+    "inclusion": [
+        "Anomaly (granulation)(granulocyte) or syndrome: Alder",
+        "Anomaly (granulation)(granulocyte) or syndrome: May-Hegglin",
+        "Anomaly (granulation)(granulocyte) or syndrome: Pelger-Huët",
+        "Hereditary: leukocytic: hypersegmentation",
+        "Hereditary: leukocytic: hyposegmentation",
+        "Hereditary: leukomelanopathy"
+    ],
+    "exclusion": [
+        "autoimmune disease (systemic) NOS",
+        "certain conditions originating in the perinatal period",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "human immunodeficiency virus [HIV] disease",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "traumatic rupture of spleen",
+        "splenomegaly: congenital",
+        "paroxysmal cold haemoglobinuria",
+        "high-altitude polycythaemia",
+        "methaemoglobinaemia",
+        "Chediak(-Steinbrinck)-Higashi syndrome"
+    ],
+    "symptoms": [
+        "enlarged spleen",
+        "abnormal white blood cell count",
+        "fatigue",
+        "frequent infections",
+        "unexplained weight loss"
+    ]
+}

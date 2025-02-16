@@ -1,0 +1,29 @@
+{
+  "type": "subcategory",
+  "chapterCode": "XI",
+  "chapter": "Diseases of the digestive system",
+  "blockCode": "K55-K64",
+  "block": "Other diseases of intestines",
+  "categoryCode": "K64",
+  "category": "Haemorrhoids and perianal venous thrombosis",
+  "subcategory": "K64.1",
+  "title": "Second degree haemorrhoids",
+  "inclusion": [
+    "piles",
+    "Grade/stage II haemorrhoids",
+    "Haemorrhoids (bleeding) that prolapse with straining, but retract spontaneously"
+  ],
+  "exclusion": [
+    "certain conditions originating in the perinatal period",
+    "certain infectious and parasitic diseases",
+    "complications of pregnancy, childbirth and the puerperium",
+    "congenital malformations, deformations and chromosomal abnormalities",
+    "endocrine, nutritional and metabolic diseases",
+    "injury, poisoning and certain other consequences of external causes",
+    "neoplasms",
+    "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+    "complicating: childbirth and the puerperium",
+    "complicating: pregnancy"
+  ],
+  "children": null
+}

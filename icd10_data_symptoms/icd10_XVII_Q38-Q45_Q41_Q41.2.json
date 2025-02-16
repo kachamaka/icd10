@@ -1,0 +1,26 @@
+{
+    "icd10code": "Q41.2",
+    "type": "subcategory",
+    "title": "Congenital absence, atresia and stenosis of ileum",
+    "chapter": "Congenital malformations, deformations and chromosomal abnormalities",
+    "chapterCode": "XVII",
+    "block": "Other congenital malformations of the digestive system",
+    "blockCode": "Q38-Q45",
+    "category": "Congenital absence, atresia and stenosis of small intestine",
+    "categoryCode": "Q41",
+    "subcategory": "Q41.2",
+    "inclusion": [
+        "congenital obstruction, occlusion and stricture of small intestine or intestine NOS"
+    ],
+    "exclusion": [
+        "inborn errors of metabolism",
+        "meconium ileus"
+    ],
+    "symptoms": [
+        "chronic diarrhea",
+        "abdominal pain",
+        "failure to thrive",
+        "nutrient malabsorption",
+        "weight loss"
+    ]
+}

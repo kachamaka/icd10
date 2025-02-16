@@ -1,0 +1,28 @@
+{
+    "icd10code": "C94.7",
+    "type": "subcategory",
+    "title": "Other specified leukaemias",
+    "chapter": "Neoplasms",
+    "chapterCode": "II",
+    "block": "Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",
+    "blockCode": "C81-C96",
+    "category": "Other leukaemias of specified cell type",
+    "categoryCode": "C94",
+    "subcategory": "C94.7",
+    "inclusion": [
+        "Aggressive NK-cell leukaemia",
+        "Acute basophilic leukaemia"
+    ],
+    "exclusion": [
+        "secondary and unspecified neoplasm of lymph nodes",
+        "leukaemic reticuloendotheliosis",
+        "plasma cell leukaemia"
+    ],
+    "symptoms": [
+        "fever",
+        "fatigue",
+        "shortness of breath",
+        "swollen lymph nodes",
+        "unexpected weight loss"
+    ]
+}

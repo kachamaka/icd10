@@ -1,0 +1,31 @@
+{
+    "icd10code": "T91.2",
+    "type": "subcategory",
+    "title": "Sequelae of other fracture of thorax and pelvis",
+    "chapter": "Injury, poisoning and certain other consequences of external causes",
+    "chapterCode": "XIX",
+    "block": "Sequelae of injuries, of poisoning and of other consequences of external causes",
+    "blockCode": "T90-T98",
+    "category": "Sequelae of injuries of neck and trunk",
+    "categoryCode": "T91",
+    "subcategory": "T91.2",
+    "inclusion": [
+        "Sequelae of injury classifiable to S22.2-S22.9, S32.1-S32.5 and S32.8"
+    ],
+    "exclusion": [
+        "birth trauma",
+        "obstetric trauma",
+        "malunion of fracture",
+        "nonunion of fracture [pseudarthrosis]",
+        "pathological fracture",
+        "pathological fracture with osteoporosis",
+        "stress fracture"
+    ],
+    "symptoms": [
+        "pain",
+        "stiffness",
+        "swelling",
+        "tenderness",
+        "reduced range of motion"
+    ]
+}

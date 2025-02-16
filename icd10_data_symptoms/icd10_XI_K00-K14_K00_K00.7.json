@@ -1,0 +1,31 @@
+{
+    "icd10code": "K00.7",
+    "type": "subcategory",
+    "title": "Teething syndrome",
+    "chapter": "Diseases of the digestive system",
+    "chapterCode": "XI",
+    "block": "Diseases of oral cavity, salivary glands and jaws",
+    "blockCode": "K00-K14",
+    "category": "Disorders of tooth development and eruption",
+    "categoryCode": "K00",
+    "subcategory": "K00.7",
+    "inclusion": null,
+    "exclusion": [
+        "certain conditions originating in the perinatal period",
+        "certain infectious and parasitic diseases",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "embedded and impacted teeth"
+    ],
+    "symptoms": [
+        "tooth enamel hypoplasia symptoms: thin enamel",
+        "yellowish teeth",
+        "sensitivity to temperature",
+        "irregular tooth shape",
+        "increased risk of cavities"
+    ]
+}

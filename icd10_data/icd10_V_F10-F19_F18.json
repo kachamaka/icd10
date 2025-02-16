@@ -1,0 +1,20 @@
+{
+  "type": "modifiedcategory",
+  "chapterCode": "V",
+  "chapter": "Mental and behavioural disorders",
+  "blockCode": "F10-F19",
+  "block": "Mental and behavioural disorders due to psychoactive substance use",
+  "categoryCode": "F18",
+  "category": "Mental and behavioural disorders due to use of volatile solvents",
+  "subcategory": "",
+  "title": "Mental and behavioural disorders due to use of volatile solvents : harmful use",
+  "inclusion": [
+    "disorders of psychological development",
+    "Psychoactive substance abuse"
+  ],
+  "exclusion": [
+    "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+    "abuse of non-dependence-producing substances"
+  ],
+  "children": null
+}

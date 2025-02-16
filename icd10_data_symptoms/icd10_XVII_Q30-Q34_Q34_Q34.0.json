@@ -1,0 +1,23 @@
+{
+    "icd10code": "Q34.0",
+    "type": "subcategory",
+    "title": "Anomaly of pleura",
+    "chapter": "Congenital malformations, deformations and chromosomal abnormalities",
+    "chapterCode": "XVII",
+    "block": "Congenital malformations of the respiratory system",
+    "blockCode": "Q30-Q34",
+    "category": "Other congenital malformations of respiratory system",
+    "categoryCode": "Q34",
+    "subcategory": "Q34.0",
+    "inclusion": null,
+    "exclusion": [
+        "inborn errors of metabolism"
+    ],
+    "symptoms": [
+        "nasal congestion",
+        "difficulty breathing",
+        "noisy breathing",
+        "facial deformity",
+        "chronic sinus infections"
+    ]
+}

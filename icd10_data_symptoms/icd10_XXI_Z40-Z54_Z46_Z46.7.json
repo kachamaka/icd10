@@ -1,0 +1,27 @@
+{
+    "icd10code": "Z46.7",
+    "type": "subcategory",
+    "title": "Fitting and adjustment of orthopaedic device",
+    "chapter": "Factors influencing health status and contact with health services",
+    "chapterCode": "XXI",
+    "block": "Persons encountering health services for specific procedures and health care",
+    "blockCode": "Z40-Z54",
+    "category": "Fitting and adjustment of other devices",
+    "categoryCode": "Z46",
+    "subcategory": "Z46.7",
+    "inclusion": [
+        "Orthopaedic: brace",
+        "Orthopaedic: cast",
+        "Orthopaedic: corset",
+        "Orthopaedic: shoes"
+    ],
+    "exclusion": [
+        "follow-up examination for medical surveillance after treatment",
+        "issue of repeat prescription only",
+        "malfunction or other complications of device - see Alphabetical Index",
+        "presence of prosthetic and other devices"
+    ],
+    "symptoms": [
+        "asymptomatic"
+    ]
+}

@@ -1,0 +1,22 @@
+{
+  "type": "category",
+  "chapterCode": "XX",
+  "chapter": "External causes of morbidity and mortality",
+  "blockCode": "X50-X57",
+  "block": "Overexertion, travel and privation",
+  "categoryCode": "X50",
+  "category": "Overexertion and strenuous or repetitive movements",
+  "subcategory": "",
+  "title": "Overexertion and strenuous or repetitive movements",
+  "inclusion": [
+    "lifting: heavy objects",
+    "lifting: weights",
+    "marathon running",
+    "rowing"
+  ],
+  "exclusion": [
+    "assault",
+    "transport accidents"
+  ],
+  "children": null
+}

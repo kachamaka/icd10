@@ -1,0 +1,19 @@
+{
+  "type": "subcategory",
+  "chapterCode": "II",
+  "chapter": "Neoplasms",
+  "blockCode": "D10-D36",
+  "block": "Benign neoplasms",
+  "categoryCode": "D30",
+  "category": "Benign neoplasm of urinary organs",
+  "subcategory": "D30.0",
+  "title": "Benign neoplasm: Kidney",
+  "inclusion": [
+    "morphology codes with behaviour code /0"
+  ],
+  "exclusion": [
+    "renal: calyces",
+    "renal: pelvis"
+  ],
+  "children": null
+}

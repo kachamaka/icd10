@@ -1,0 +1,35 @@
+{
+    "icd10code": "A54.3",
+    "type": "subcategory",
+    "title": "Gonococcal infection of eye",
+    "chapter": "Certain infectious and parasitic diseases",
+    "chapterCode": "I",
+    "block": "Infections with a predominantly sexual mode of transmission",
+    "blockCode": "A50-A64",
+    "category": "Gonococcal infection",
+    "categoryCode": "A54",
+    "subcategory": "A54.3",
+    "inclusion": [
+        "diseases generally recognized as communicable or transmissible",
+        "Gonococcal: conjunctivitis",
+        "Gonococcal: iridocyclitis",
+        "Ophthalmia neonatorum due to gonococcus"
+    ],
+    "exclusion": [
+        "carrier or suspected carrier of infectious disease",
+        "certain localized infections - see body system-related chapters",
+        "infectious and parasitic diseases complicating pregnancy, childbirth and the puerperium [except obstetrical tetanus]",
+        "infectious and parasitic diseases specific to the perinatal period [except tetanus neonatorum, whooping cough, congenital syphilis, perinatal gonococcal infection and perinatal human immunodeficiency virus [HIV] disease]",
+        "influenza and other acute respiratory infections",
+        "erythrasma",
+        "endotoxic shock NOS",
+        "sepsis NOS"
+    ],
+    "symptoms": [
+        "dysuria",
+        "urinary frequency",
+        "pelvic pain",
+        "mucopurulent discharge",
+        "intermenstrual bleeding"
+    ]
+}

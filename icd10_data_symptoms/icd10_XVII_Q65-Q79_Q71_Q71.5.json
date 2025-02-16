@@ -1,0 +1,23 @@
+{
+    "icd10code": "Q71.5",
+    "type": "subcategory",
+    "title": "Longitudinal reduction defect of ulna",
+    "chapter": "Congenital malformations, deformations and chromosomal abnormalities",
+    "chapterCode": "XVII",
+    "block": "Congenital malformations and deformations of the musculoskeletal system",
+    "blockCode": "Q65-Q79",
+    "category": "Reduction defects of upper limb",
+    "categoryCode": "Q71",
+    "subcategory": "Q71.5",
+    "inclusion": null,
+    "exclusion": [
+        "inborn errors of metabolism"
+    ],
+    "symptoms": [
+        "absent hand",
+        "reduced grip strength",
+        "limited hand mobility",
+        "asymmetry in limb length",
+        "underdeveloped hand structures"
+    ]
+}

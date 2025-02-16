@@ -1,0 +1,23 @@
+{
+    "icd10code": "Q33.5",
+    "type": "subcategory",
+    "title": "Ectopic tissue in lung",
+    "chapter": "Congenital malformations, deformations and chromosomal abnormalities",
+    "chapterCode": "XVII",
+    "block": "Congenital malformations of the respiratory system",
+    "blockCode": "Q30-Q34",
+    "category": "Congenital malformations of lung",
+    "categoryCode": "Q33",
+    "subcategory": "Q33.5",
+    "inclusion": null,
+    "exclusion": [
+        "inborn errors of metabolism"
+    ],
+    "symptoms": [
+        "respiratory distress",
+        "recurrent pneumonia",
+        "chronic cough",
+        "cyanosis",
+        "exercise intolerance"
+    ]
+}

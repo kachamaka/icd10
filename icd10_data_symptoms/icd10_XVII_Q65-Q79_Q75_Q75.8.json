@@ -1,0 +1,35 @@
+{
+    "icd10code": "Q75.8",
+    "type": "subcategory",
+    "title": "Other specified congenital malformations of skull and face bones",
+    "chapter": "Congenital malformations, deformations and chromosomal abnormalities",
+    "chapterCode": "XVII",
+    "block": "Congenital malformations and deformations of the musculoskeletal system",
+    "blockCode": "Q65-Q79",
+    "category": "Other congenital malformations of skull and face bones",
+    "categoryCode": "Q75",
+    "subcategory": "Q75.8",
+    "inclusion": [
+        "Absence of skull bone, congenital",
+        "Congenital deformity of forehead",
+        "Platybasia"
+    ],
+    "exclusion": [
+        "inborn errors of metabolism",
+        "congenital malformation of face NOS",
+        "congenital malformation syndromes classified to Q87.-",
+        "dentofacial anomalies [including malocclusion]",
+        "musculoskeletal deformities of head and face",
+        "skull defects associated with congenital anomalies of brain such as: anencephaly",
+        "skull defects associated with congenital anomalies of brain such as: encephalocele",
+        "skull defects associated with congenital anomalies of brain such as: hydrocephalus",
+        "skull defects associated with congenital anomalies of brain such as: microcephaly"
+    ],
+    "symptoms": [
+        "abnormal skull shape",
+        "craniofacial asymmetry",
+        "hypertelorism",
+        "underdeveloped facial bones",
+        "midface hypoplasia"
+    ]
+}

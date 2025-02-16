@@ -1,0 +1,23 @@
+{
+    "icd10code": "Z59.8",
+    "type": "subcategory",
+    "title": "Other problems related to housing and economic circumstances",
+    "chapter": "Factors influencing health status and contact with health services",
+    "chapterCode": "XXI",
+    "block": "Persons with potential health hazards related to socioeconomic and psychosocial circumstances",
+    "blockCode": "Z55-Z65",
+    "category": "Problems related to housing and economic circumstances",
+    "categoryCode": "Z59",
+    "subcategory": "Z59.8",
+    "inclusion": [
+        "Foreclosure on loan",
+        "Isolated dwelling",
+        "Problems with creditors"
+    ],
+    "exclusion": [
+        "inadequate drinking-water supply"
+    ],
+    "symptoms": [
+        "asymptomatic"
+    ]
+}

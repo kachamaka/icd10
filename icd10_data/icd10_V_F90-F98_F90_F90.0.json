@@ -1,0 +1,26 @@
+{
+  "type": "subcategory",
+  "chapterCode": "V",
+  "chapter": "Mental and behavioural disorders",
+  "blockCode": "F90-F98",
+  "block": "Behavioural and emotional disorders with onset usually occurring in childhood and adolescence",
+  "categoryCode": "F90",
+  "category": "Hyperkinetic disorders",
+  "subcategory": "F90.0",
+  "title": "Disturbance of activity and attention",
+  "inclusion": [
+    "disorders of psychological development",
+    "Attention deficit: disorder with hyperactivity",
+    "Attention deficit: hyperactivity disorder",
+    "Attention deficit: syndrome with hyperactivity"
+  ],
+  "exclusion": [
+    "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+    "anxiety disorders",
+    "mood [affective] disorders",
+    "pervasive developmental disorders",
+    "schizophrenia",
+    "hyperkinetic disorder associated with conduct disorder"
+  ],
+  "children": null
+}

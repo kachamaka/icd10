@@ -1,0 +1,30 @@
+{
+    "icd10code": "Q55.0",
+    "type": "subcategory",
+    "title": "Absence and aplasia of testis",
+    "chapter": "Congenital malformations, deformations and chromosomal abnormalities",
+    "chapterCode": "XVII",
+    "block": "Congenital malformations of genital organs",
+    "blockCode": "Q50-Q56",
+    "category": "Other congenital malformations of male genital organs",
+    "categoryCode": "Q55",
+    "subcategory": "Q55.0",
+    "inclusion": [
+        "Monorchism"
+    ],
+    "exclusion": [
+        "inborn errors of metabolism",
+        "androgen resistance syndrome",
+        "syndromes associated with anomalies in the number and form of chromosomes",
+        "testicular feminization syndrome",
+        "congenital hydrocele",
+        "hypospadias"
+    ],
+    "symptoms": [
+        "undescended testicle",
+        "absent testes",
+        "hypoplastic testes",
+        "underdeveloped scrotum",
+        "infertility"
+    ]
+}

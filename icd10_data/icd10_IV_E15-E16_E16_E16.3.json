@@ -1,0 +1,20 @@
+{
+  "type": "subcategory",
+  "chapterCode": "IV",
+  "chapter": "Endocrine, nutritional and metabolic diseases",
+  "blockCode": "E15-E16",
+  "block": "Other disorders of glucose regulation and pancreatic internal secretion",
+  "categoryCode": "E16",
+  "category": "Other disorders of pancreatic internal secretion",
+  "subcategory": "E16.3",
+  "title": "Increased secretion of glucagon",
+  "inclusion": [
+    "Hyperplasia of pancreatic endocrine cells with glucagon excess"
+  ],
+  "exclusion": [
+    "complications of pregnancy, childbirth and the puerperium",
+    "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+    "transitory endocrine and metabolic disorders specific to fetus and newborn"
+  ],
+  "children": null
+}

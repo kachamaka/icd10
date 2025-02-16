@@ -1,0 +1,27 @@
+{
+    "icd10code": "R30.9",
+    "type": "subcategory",
+    "title": "Painful micturition, unspecified",
+    "chapter": "Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+    "chapterCode": "XVIII",
+    "block": "Symptoms and signs involving the urinary system",
+    "blockCode": "R30-R39",
+    "category": "Pain associated with micturition",
+    "categoryCode": "R30",
+    "subcategory": "R30.9",
+    "inclusion": [
+        "Painful urination NOS"
+    ],
+    "exclusion": [
+        "abnormal findings on antenatal screening of mother",
+        "certain conditions originating in the perinatal period",
+        "psychogenic pain"
+    ],
+    "symptoms": [
+        "painful urination",
+        "urinary discomfort",
+        "burning sensation",
+        "bladder pain",
+        "pelvic pressure"
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "icd10code": "Q62.6",
+    "type": "subcategory",
+    "title": "Malposition of ureter",
+    "chapter": "Congenital malformations, deformations and chromosomal abnormalities",
+    "chapterCode": "XVII",
+    "block": "Congenital malformations of the urinary system",
+    "blockCode": "Q60-Q64",
+    "category": "Congenital obstructive defects of renal pelvis and congenital malformations of ureter",
+    "categoryCode": "Q62",
+    "subcategory": "Q62.6",
+    "inclusion": [
+        "Deviation (of) ureter or ureteric orifice",
+        "Displacement (of) ureter or ureteric orifice",
+        "Ectopic (of) ureter or ureteric orifice",
+        "Implantation, anomalous (of) ureter or ureteric orifice"
+    ],
+    "exclusion": [
+        "inborn errors of metabolism"
+    ],
+    "symptoms": [
+        "urinary tract obstruction",
+        "recurrent urinary tract infections",
+        "abdominal mass",
+        "abnormal renal function",
+        "hydronephrosis"
+    ]
+}

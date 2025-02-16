@@ -1,0 +1,21 @@
+{
+    "icd10code": "W65",
+    "type": "category",
+    "title": "Drowning and submersion while in bath-tub",
+    "chapter": "External causes of morbidity and mortality",
+    "chapterCode": "XX",
+    "block": "Accidental drowning and submersion",
+    "blockCode": "W65-W74",
+    "category": "Drowning and submersion while in bath-tub",
+    "categoryCode": "W65",
+    "subcategory": "",
+    "inclusion": null,
+    "exclusion": [
+        "drowning and submersion due to: cataclysm",
+        "drowning and submersion due to: transport accidents",
+        "drowning and submersion due to: water transport accident"
+    ],
+    "symptoms": [
+        "asymptomatic"
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "icd10code": "D09.9",
+    "type": "subcategory",
+    "title": "Carcinoma in situ, unspecified",
+    "chapter": "Neoplasms",
+    "chapterCode": "II",
+    "block": "In situ neoplasms",
+    "blockCode": "D00-D09",
+    "category": "Carcinoma in situ of other and unspecified sites",
+    "categoryCode": "D09",
+    "subcategory": "D09.9",
+    "inclusion": [
+        "Bowen disease",
+        "erythroplasia",
+        "morphology codes with behaviour code /2",
+        "Queyrat erythroplasia"
+    ],
+    "exclusion": [
+        "melanoma in situ"
+    ],
+    "symptoms": [
+        "unusual bleeding or discharge",
+        "change in bowel or bladder habits",
+        "unexplained weight loss",
+        "persistent fatigue",
+        "difficulty swallowing"
+    ]
+}

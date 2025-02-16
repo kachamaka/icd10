@@ -1,0 +1,31 @@
+{
+    "icd10code": "A80.9",
+    "type": "subcategory",
+    "title": "Acute poliomyelitis, unspecified",
+    "chapter": "Certain infectious and parasitic diseases",
+    "chapterCode": "I",
+    "block": "Viral infections of the central nervous system",
+    "blockCode": "A80-A89",
+    "category": "Acute poliomyelitis",
+    "categoryCode": "A80",
+    "subcategory": "A80.9",
+    "inclusion": [
+        "diseases generally recognized as communicable or transmissible"
+    ],
+    "exclusion": [
+        "carrier or suspected carrier of infectious disease",
+        "certain localized infections - see body system-related chapters",
+        "infectious and parasitic diseases complicating pregnancy, childbirth and the puerperium [except obstetrical tetanus]",
+        "infectious and parasitic diseases specific to the perinatal period [except tetanus neonatorum, whooping cough, congenital syphilis, perinatal gonococcal infection and perinatal human immunodeficiency virus [HIV] disease]",
+        "influenza and other acute respiratory infections",
+        "erythrasma",
+        "endotoxic shock NOS"
+    ],
+    "symptoms": [
+        "fever",
+        "headache",
+        "sore throat",
+        "muscle weakness",
+        "neck stiffness"
+    ]
+}

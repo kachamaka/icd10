@@ -1,0 +1,34 @@
+{
+    "icd10code": "K04.7",
+    "type": "subcategory",
+    "title": "Periapical abscess without sinus",
+    "chapter": "Diseases of the digestive system",
+    "chapterCode": "XI",
+    "block": "Diseases of oral cavity, salivary glands and jaws",
+    "blockCode": "K00-K14",
+    "category": "Diseases of pulp and periapical tissues",
+    "categoryCode": "K04",
+    "subcategory": "K04.7",
+    "inclusion": [
+        "Dental abscess NOS",
+        "Dentoalveolar abscess NOS",
+        "Periapical abscess NOS"
+    ],
+    "exclusion": [
+        "certain conditions originating in the perinatal period",
+        "certain infectious and parasitic diseases",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified"
+    ],
+    "symptoms": [
+        "tooth pain",
+        "gum swelling",
+        "sensitivity to hot or cold",
+        "jaw tenderness",
+        "drainage from the affected area"
+    ]
+}

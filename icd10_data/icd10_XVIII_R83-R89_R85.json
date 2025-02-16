@@ -1,0 +1,25 @@
+{
+  "type": "modifiedcategory",
+  "chapterCode": "XVIII",
+  "chapter": "Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+  "blockCode": "R83-R89",
+  "block": "Abnormal findings on examination of other body fluids, substances and tissues, without diagnosis",
+  "categoryCode": "R85",
+  "category": "Abnormal findings in specimens from digestive organs and abdominal cavity",
+  "subcategory": "",
+  "title": "Abnormal findings in specimens from digestive organs and abdominal cavity : abnormal immunological findings",
+  "inclusion": [
+    "Abnormal findings in: peritoneal fluid",
+    "Abnormal findings in: saliva"
+  ],
+  "exclusion": [
+    "abnormal findings on antenatal screening of mother",
+    "certain conditions originating in the perinatal period",
+    "abnormal findings on: antenatal screening of mother",
+    "abnormal findings on: examination of: blood, without diagnosis",
+    "abnormal findings on: examination of: urine, without diagnosis",
+    "diagnostic abnormal findings classified elsewhere - see Alphabetical Index",
+    "carcinoma in situ"
+  ],
+  "children": null
+}

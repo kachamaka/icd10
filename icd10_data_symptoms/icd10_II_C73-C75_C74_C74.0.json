@@ -1,0 +1,21 @@
+{
+    "icd10code": "C74.0",
+    "type": "subcategory",
+    "title": "Malignant neoplasm: Cortex of adrenal gland",
+    "chapter": "Neoplasms",
+    "chapterCode": "II",
+    "block": "Malignant neoplasms of thyroid and other endocrine glands",
+    "blockCode": "C73-C75",
+    "category": "Malignant neoplasm of adrenal gland",
+    "categoryCode": "C74",
+    "subcategory": "C74.0",
+    "inclusion": null,
+    "exclusion": null,
+    "symptoms": [
+        "abdominal pain",
+        "loss of appetite",
+        "weight loss",
+        "nausea",
+        "vomiting"
+    ]
+}

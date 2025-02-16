@@ -1,0 +1,35 @@
+{
+    "icd10code": "A05.1",
+    "type": "subcategory",
+    "title": "Botulism",
+    "chapter": "Certain infectious and parasitic diseases",
+    "chapterCode": "I",
+    "block": "Intestinal infectious diseases",
+    "blockCode": "A00-A09",
+    "category": "Other bacterial foodborne intoxications, not elsewhere classified",
+    "categoryCode": "A05",
+    "subcategory": "A05.1",
+    "inclusion": [
+        "diseases generally recognized as communicable or transmissible",
+        "Classical foodborne intoxication due to Clostridium botulinum"
+    ],
+    "exclusion": [
+        "carrier or suspected carrier of infectious disease",
+        "certain localized infections - see body system-related chapters",
+        "infectious and parasitic diseases complicating pregnancy, childbirth and the puerperium [except obstetrical tetanus]",
+        "infectious and parasitic diseases specific to the perinatal period [except tetanus neonatorum, whooping cough, congenital syphilis, perinatal gonococcal infection and perinatal human immunodeficiency virus [HIV] disease]",
+        "influenza and other acute respiratory infections",
+        "Clostridium difficile foodborne intoxication and infection",
+        "Escherichia coli infection",
+        "listeriosis",
+        "salmonella foodborne intoxication and infection",
+        "toxic effect of noxious foodstuffs"
+    ],
+    "symptoms": [
+        "fever",
+        "nausea and vomiting",
+        "abdominal pain",
+        "diarrhea",
+        "lack of appetite"
+    ]
+}

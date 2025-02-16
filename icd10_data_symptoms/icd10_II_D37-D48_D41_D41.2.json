@@ -1,0 +1,21 @@
+{
+    "icd10code": "D41.2",
+    "type": "subcategory",
+    "title": "Neoplasm of uncertain or unknown behaviour: Ureter",
+    "chapter": "Neoplasms",
+    "chapterCode": "II",
+    "block": "Neoplasms of uncertain or unknown behaviour",
+    "blockCode": "D37-D48",
+    "category": "Neoplasm of uncertain or unknown behaviour of urinary organs",
+    "categoryCode": "D41",
+    "subcategory": "D41.2",
+    "inclusion": null,
+    "exclusion": null,
+    "symptoms": [
+        "abnormal bleeding",
+        "pelvic pain",
+        "change in bladder habits",
+        "unexplained weight loss",
+        "persistent lower back pain"
+    ]
+}

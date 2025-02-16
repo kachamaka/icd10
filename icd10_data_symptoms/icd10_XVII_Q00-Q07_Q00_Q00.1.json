@@ -1,0 +1,23 @@
+{
+    "icd10code": "Q00.1",
+    "type": "subcategory",
+    "title": "Craniorachischisis",
+    "chapter": "Congenital malformations, deformations and chromosomal abnormalities",
+    "chapterCode": "XVII",
+    "block": "Congenital malformations of the nervous system",
+    "blockCode": "Q00-Q07",
+    "category": "Anencephaly and similar malformations",
+    "categoryCode": "Q00",
+    "subcategory": "Q00.1",
+    "inclusion": null,
+    "exclusion": [
+        "inborn errors of metabolism"
+    ],
+    "symptoms": [
+        "incomplete skull development",
+        "exposed brain tissue",
+        "craniofacial abnormalities",
+        "absence of cranial bones",
+        "neural tube defects"
+    ]
+}

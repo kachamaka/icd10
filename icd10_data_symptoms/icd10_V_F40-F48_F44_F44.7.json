@@ -1,0 +1,32 @@
+{
+    "icd10code": "F44.7",
+    "type": "subcategory",
+    "title": "Mixed dissociative [conversion] disorders",
+    "chapter": "Mental and behavioural disorders",
+    "chapterCode": "V",
+    "block": "Neurotic, stress-related and somatoform disorders",
+    "blockCode": "F40-F48",
+    "category": "Dissociative [conversion] disorders",
+    "categoryCode": "F44",
+    "subcategory": "F44.7",
+    "inclusion": [
+        "disorders of psychological development",
+        "conversion: hysteria",
+        "conversion: reaction",
+        "hysteria",
+        "hysterical psychosis",
+        "Combination of disorders specified in F44.0-F44.6"
+    ],
+    "exclusion": [
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "when associated with conduct disorder in F91.-",
+        "malingering [conscious simulation]"
+    ],
+    "symptoms": [
+        "memory loss",
+        "identity confusion",
+        "altered consciousness",
+        "sudden mood changes",
+        "unexplained behavior changes"
+    ]
+}

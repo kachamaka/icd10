@@ -1,0 +1,23 @@
+{
+    "icd10code": "Y91.0",
+    "type": "subcategory",
+    "title": "Mild alcohol intoxication",
+    "chapter": "External causes of morbidity and mortality",
+    "chapterCode": "XX",
+    "block": "Supplementary factors related to causes of morbidity and mortality classified elsewhere",
+    "blockCode": "Y90-Y98",
+    "category": "Evidence of alcohol involvement determined by level of intoxication",
+    "categoryCode": "Y91",
+    "subcategory": "Y91.0",
+    "inclusion": null,
+    "exclusion": [
+        "evidence of alcohol involvement determined by blood alcohol content"
+    ],
+    "symptoms": [
+        "disorientation",
+        "euphoria",
+        "impaired judgment",
+        "slurred speech",
+        "lack of coordination"
+    ]
+}

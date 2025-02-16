@@ -1,0 +1,24 @@
+{
+  "type": "subcategory",
+  "chapterCode": "XIX",
+  "chapter": "Injury, poisoning and certain other consequences of external causes",
+  "blockCode": "T90-T98",
+  "block": "Sequelae of injuries, of poisoning and of other consequences of external causes",
+  "categoryCode": "T93",
+  "category": "Sequelae of injuries of lower limb",
+  "subcategory": "T93.3",
+  "title": "Sequelae of dislocation, sprain and strain of lower limb",
+  "inclusion": [
+    "Sequelae of injury classifiable to S73.-, S83.-, S93.- and T13.2"
+  ],
+  "exclusion": [
+    "birth trauma",
+    "obstetric trauma",
+    "malunion of fracture",
+    "nonunion of fracture [pseudarthrosis]",
+    "pathological fracture",
+    "pathological fracture with osteoporosis",
+    "stress fracture"
+  ],
+  "children": null
+}

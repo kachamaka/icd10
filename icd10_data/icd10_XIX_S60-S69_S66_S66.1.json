@@ -1,0 +1,27 @@
+{
+  "type": "subcategory",
+  "chapterCode": "XIX",
+  "chapter": "Injury, poisoning and certain other consequences of external causes",
+  "blockCode": "S60-S69",
+  "block": "Injuries to the wrist and hand",
+  "categoryCode": "S66",
+  "category": "Injury of muscle and tendon at wrist and hand level",
+  "subcategory": "S66.1",
+  "title": "Injury of flexor muscle and tendon of other finger at wrist and hand level",
+  "inclusion": null,
+  "exclusion": [
+    "birth trauma",
+    "obstetric trauma",
+    "malunion of fracture",
+    "nonunion of fracture [pseudarthrosis]",
+    "pathological fracture",
+    "pathological fracture with osteoporosis",
+    "stress fracture",
+    "bilateral involvement of wrist and hand",
+    "burns and corrosions",
+    "frostbite",
+    "injuries of arm, level unspecified",
+    "insect bite or sting, venomous"
+  ],
+  "children": null
+}

@@ -1,0 +1,27 @@
+{
+  "type": "subcategory",
+  "chapterCode": "XIV",
+  "chapter": "Diseases of the genitourinary system",
+  "blockCode": "N99-N99",
+  "block": "Other disorders of the genitourinary system",
+  "categoryCode": "N99",
+  "category": "Postprocedural disorders of genitourinary system, not elsewhere classified",
+  "subcategory": "N99.0",
+  "title": "Postprocedural renal failure",
+  "inclusion": null,
+  "exclusion": [
+    "certain conditions originating in the perinatal period",
+    "certain infectious and parasitic diseases",
+    "complications of pregnancy, childbirth and the puerperium",
+    "congenital malformations, deformations and chromosomal abnormalities",
+    "endocrine, nutritional and metabolic diseases",
+    "injury, poisoning and certain other consequences of external causes",
+    "neoplasms",
+    "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+    "irradiation cystitis",
+    "postoophorectomy osteoporosis",
+    "postoophorectomy osteoporosis with pathological fracture",
+    "states associated with artificial menopause"
+  ],
+  "children": null
+}

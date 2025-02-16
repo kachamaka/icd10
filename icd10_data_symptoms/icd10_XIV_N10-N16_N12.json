@@ -1,0 +1,37 @@
+{
+    "icd10code": "N12",
+    "type": "category",
+    "title": "Tubulo-interstitial nephritis, not specified as acute or chronic",
+    "chapter": "Diseases of the genitourinary system",
+    "chapterCode": "XIV",
+    "block": "Renal tubulo-interstitial diseases",
+    "blockCode": "N10-N16",
+    "category": "Tubulo-interstitial nephritis, not specified as acute or chronic",
+    "categoryCode": "N12",
+    "subcategory": "",
+    "inclusion": [
+        "pyelonephritis",
+        "Interstitial nephritis NOS",
+        "Pyelitis NOS",
+        "Pyelonephritis NOS"
+    ],
+    "exclusion": [
+        "certain conditions originating in the perinatal period",
+        "certain infectious and parasitic diseases",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "pyeloureteritis cystica",
+        "calculous pyelonephritis"
+    ],
+    "symptoms": [
+        "flank pain",
+        "fever",
+        "dysuria",
+        "urinary frequency",
+        "hematuria"
+    ]
+}

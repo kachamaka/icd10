@@ -1,0 +1,33 @@
+{
+    "icd10code": "B17.8",
+    "type": "subcategory",
+    "title": "Other specified acute viral hepatitis",
+    "chapter": "Certain infectious and parasitic diseases",
+    "chapterCode": "I",
+    "block": "Viral hepatitis",
+    "blockCode": "B15-B19",
+    "category": "Other acute viral hepatitis",
+    "categoryCode": "B17",
+    "subcategory": "B17.8",
+    "inclusion": [
+        "diseases generally recognized as communicable or transmissible",
+        "Hepatitis non-A non-B (acute)(viral) NEC"
+    ],
+    "exclusion": [
+        "carrier or suspected carrier of infectious disease",
+        "certain localized infections - see body system-related chapters",
+        "infectious and parasitic diseases complicating pregnancy, childbirth and the puerperium [except obstetrical tetanus]",
+        "infectious and parasitic diseases specific to the perinatal period [except tetanus neonatorum, whooping cough, congenital syphilis, perinatal gonococcal infection and perinatal human immunodeficiency virus [HIV] disease]",
+        "influenza and other acute respiratory infections",
+        "erythrasma",
+        "monkeypox",
+        "hantavirus (cardio-)pulmonary syndrome"
+    ],
+    "symptoms": [
+        "fatigue",
+        "nausea",
+        "jaundice",
+        "abdominal pain",
+        "dark urine"
+    ]
+}

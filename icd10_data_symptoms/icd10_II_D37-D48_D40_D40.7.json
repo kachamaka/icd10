@@ -1,0 +1,23 @@
+{
+    "icd10code": "D40.7",
+    "type": "subcategory",
+    "title": "Neoplasm of uncertain or unknown behaviour: Other male genital organs",
+    "chapter": "Neoplasms",
+    "chapterCode": "II",
+    "block": "Neoplasms of uncertain or unknown behaviour",
+    "blockCode": "D37-D48",
+    "category": "Neoplasm of uncertain or unknown behaviour of male genital organs",
+    "categoryCode": "D40",
+    "subcategory": "D40.7",
+    "inclusion": [
+        "Skin of male genital organs"
+    ],
+    "exclusion": null,
+    "symptoms": [
+        "palpable mass in prostate",
+        "discomfort while urinating",
+        "blood in urine",
+        "erectile dysfunction",
+        "frequent urination at night"
+    ]
+}

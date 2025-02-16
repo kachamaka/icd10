@@ -1,0 +1,36 @@
+{
+    "icd10code": "K62.9",
+    "type": "subcategory",
+    "title": "Disease of anus and rectum, unspecified",
+    "chapter": "Diseases of the digestive system",
+    "chapterCode": "XI",
+    "block": "Other diseases of intestines",
+    "blockCode": "K55-K64",
+    "category": "Other diseases of anus and rectum",
+    "categoryCode": "K62",
+    "subcategory": "K62.9",
+    "inclusion": [
+        "anal canal"
+    ],
+    "exclusion": [
+        "certain conditions originating in the perinatal period",
+        "certain infectious and parasitic diseases",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "colostomy and enterostomy malfunction",
+        "faecal incontinence",
+        "haemorrhoids",
+        "ulcerative proctitis"
+    ],
+    "symptoms": [
+        "rectal bleeding",
+        "anal pain",
+        "itching",
+        "swelling",
+        "discharge"
+    ]
+}

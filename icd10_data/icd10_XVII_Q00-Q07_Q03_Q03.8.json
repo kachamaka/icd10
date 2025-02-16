@@ -1,0 +1,23 @@
+{
+  "type": "subcategory",
+  "chapterCode": "XVII",
+  "chapter": "Congenital malformations, deformations and chromosomal abnormalities",
+  "blockCode": "Q00-Q07",
+  "block": "Congenital malformations of the nervous system",
+  "categoryCode": "Q03",
+  "category": "Congenital hydrocephalus",
+  "subcategory": "Q03.8",
+  "title": "Other congenital hydrocephalus",
+  "inclusion": [
+    "hydrocephalus in newborn"
+  ],
+  "exclusion": [
+    "inborn errors of metabolism",
+    "Arnold-Chiari syndrome",
+    "hydrocephalus: acquired NOS",
+    "hydrocephalus: acquired, of newborn",
+    "hydrocephalus: due to congenital toxoplasmosis",
+    "hydrocephalus: with spina bifida"
+  ],
+  "children": null
+}

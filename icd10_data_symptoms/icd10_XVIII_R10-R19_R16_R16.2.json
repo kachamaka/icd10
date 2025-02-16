@@ -1,0 +1,35 @@
+{
+    "icd10code": "R16.2",
+    "type": "subcategory",
+    "title": "Hepatomegaly with splenomegaly, not elsewhere classified",
+    "chapter": "Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+    "chapterCode": "XVIII",
+    "block": "Symptoms and signs involving the digestive system and abdomen",
+    "blockCode": "R10-R19",
+    "category": "Hepatomegaly and splenomegaly, not elsewhere classified",
+    "categoryCode": "R16",
+    "subcategory": "R16.2",
+    "inclusion": [
+        "Hepatosplenomegaly NOS"
+    ],
+    "exclusion": [
+        "abnormal findings on antenatal screening of mother",
+        "certain conditions originating in the perinatal period",
+        "gastrointestinal haemorrhage",
+        "gastrointestinal haemorrhage newborn",
+        "intestinal obstruction",
+        "intestinal obstruction newborn",
+        "pylorospasm",
+        "pylorospasm congenital or infantile",
+        "symptoms and signs involving the urinary system",
+        "symptoms referable to genital organs: female",
+        "symptoms referable to genital organs: male"
+    ],
+    "symptoms": [
+        "abdominal swelling",
+        "hepatomegaly",
+        "liver enlargement",
+        "discomfort in the upper abdomen",
+        "feeling of fullness"
+    ]
+}

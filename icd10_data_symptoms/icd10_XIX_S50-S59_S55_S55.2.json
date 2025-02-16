@@ -1,0 +1,37 @@
+{
+    "icd10code": "S55.2",
+    "type": "subcategory",
+    "title": "Injury of vein at forearm level",
+    "chapter": "Injury, poisoning and certain other consequences of external causes",
+    "chapterCode": "XIX",
+    "block": "Injuries to the elbow and forearm",
+    "blockCode": "S50-S59",
+    "category": "Injury of blood vessels at forearm level",
+    "categoryCode": "S55",
+    "subcategory": "S55.2",
+    "inclusion": null,
+    "exclusion": [
+        "birth trauma",
+        "obstetric trauma",
+        "malunion of fracture",
+        "nonunion of fracture [pseudarthrosis]",
+        "pathological fracture",
+        "pathological fracture with osteoporosis",
+        "stress fracture",
+        "bilateral involvement of elbow and forearm",
+        "burns and corrosions",
+        "frostbite",
+        "injuries of: arm, level unspecified",
+        "injuries of: wrist and hand",
+        "insect bite or sting, venomous",
+        "Monteggia fracture-dislocation",
+        "fractures of both ulna and radius: lower end"
+    ],
+    "symptoms": [
+        "pain",
+        "swelling",
+        "tenderness",
+        "restricted movement",
+        "bruising"
+    ]
+}

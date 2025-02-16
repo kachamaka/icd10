@@ -1,0 +1,35 @@
+{
+  "type": "subcategory",
+  "chapterCode": "VI",
+  "chapter": "Diseases of the nervous system",
+  "blockCode": "G00-G09",
+  "block": "Inflammatory diseases of the central nervous system",
+  "categoryCode": "G04",
+  "category": "Encephalitis, myelitis and encephalomyelitis",
+  "subcategory": "G04.8",
+  "title": "Other encephalitis, myelitis and encephalomyelitis",
+  "inclusion": [
+    "acute ascending myelitis",
+    "meningoencephalitis",
+    "meningomyelitis",
+    "Postinfectious encephalitis and encephalomyelitis NOS"
+  ],
+  "exclusion": [
+    "certain conditions originating in the perinatal period",
+    "certain infectious and parasitic diseases",
+    "complications of pregnancy, childbirth and the puerperium",
+    "congenital malformations, deformations and chromosomal abnormalities",
+    "endocrine, nutritional and metabolic diseases",
+    "injury, poisoning and certain other consequences of external causes",
+    "neoplasms",
+    "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+    "encephalopathy: NOS",
+    "encephalopathy: alcoholic",
+    "encephalopathy: toxic",
+    "multiple sclerosis",
+    "myalgic encephalomyelitis",
+    "myelitis: acute transverse",
+    "myelitis: subacute necrotizing"
+  ],
+  "children": null
+}

@@ -1,0 +1,21 @@
+{
+  "type": "category",
+  "chapterCode": "XX",
+  "chapter": "External causes of morbidity and mortality",
+  "blockCode": "W20-W49",
+  "block": "Exposure to inanimate mechanical forces",
+  "categoryCode": "W21",
+  "category": "Striking against or struck by sports equipment",
+  "subcategory": "",
+  "title": "Striking against or struck by sports equipment",
+  "inclusion": [
+    "struck by: hit or thrown ball",
+    "struck by: hockey stick or puck"
+  ],
+  "exclusion": [
+    "assault",
+    "contact or collision with animals or persons",
+    "intentional self-harm"
+  ],
+  "children": null
+}

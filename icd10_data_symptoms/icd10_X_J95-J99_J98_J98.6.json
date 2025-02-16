@@ -1,0 +1,41 @@
+{
+    "icd10code": "J98.6",
+    "type": "subcategory",
+    "title": "Disorders of diaphragm",
+    "chapter": "Diseases of the respiratory system",
+    "chapterCode": "X",
+    "block": "Other diseases of the respiratory system",
+    "blockCode": "J95-J99",
+    "category": "Other respiratory disorders",
+    "categoryCode": "J98",
+    "subcategory": "J98.6",
+    "inclusion": [
+        "Diaphragmatitis",
+        "Paralysis of diaphragm",
+        "Relaxation of diaphragm"
+    ],
+    "exclusion": [
+        "certain conditions originating in the perinatal period",
+        "certain infectious and parasitic diseases",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "apnoea: NOS",
+        "apnoea: newborn",
+        "apnoea: sleep",
+        "apnoea: sleep newborn",
+        "congenital malformation of diaphragm NEC",
+        "diaphragmatic hernia",
+        "diaphragmatic hernia congenital"
+    ],
+    "symptoms": [
+        "shortness of breath",
+        "chest pain",
+        "cough",
+        "fever",
+        "wheezing"
+    ]
+}

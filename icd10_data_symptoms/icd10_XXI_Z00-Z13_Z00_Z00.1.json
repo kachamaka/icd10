@@ -1,0 +1,28 @@
+{
+    "icd10code": "Z00.1",
+    "type": "subcategory",
+    "title": "Routine child health examination",
+    "chapter": "Factors influencing health status and contact with health services",
+    "chapterCode": "XXI",
+    "block": "Persons encountering health services for examination and investigation",
+    "blockCode": "Z00-Z13",
+    "category": "General examination and investigation of persons without complaint and reported diagnosis",
+    "categoryCode": "Z00",
+    "subcategory": "Z00.1",
+    "inclusion": [
+        "Development testing of infant or child"
+    ],
+    "exclusion": [
+        "examinations related to pregnancy and reproduction",
+        "examination for administrative purposes",
+        "special screening examinations",
+        "health supervision of foundling or other healthy infant or child"
+    ],
+    "symptoms": [
+        "general fatigue",
+        "headaches",
+        "dizziness",
+        "mild anxiety",
+        "decreased appetite"
+    ]
+}

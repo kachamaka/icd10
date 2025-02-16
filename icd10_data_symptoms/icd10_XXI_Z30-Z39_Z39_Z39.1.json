@@ -1,0 +1,21 @@
+{
+    "icd10code": "Z39.1",
+    "type": "subcategory",
+    "title": "Care and examination of lactating mother",
+    "chapter": "Factors influencing health status and contact with health services",
+    "chapterCode": "XXI",
+    "block": "Persons encountering health services in circumstances related to reproduction",
+    "blockCode": "Z30-Z39",
+    "category": "Postpartum care and examination",
+    "categoryCode": "Z39",
+    "subcategory": "Z39.1",
+    "inclusion": [
+        "Supervision of lactation"
+    ],
+    "exclusion": [
+        "disorders of lactation"
+    ],
+    "symptoms": [
+        "asymptomatic"
+    ]
+}

@@ -1,0 +1,19 @@
+{
+  "type": "subcategory",
+  "chapterCode": "XVII",
+  "chapter": "Congenital malformations, deformations and chromosomal abnormalities",
+  "blockCode": "Q65-Q79",
+  "block": "Congenital malformations and deformations of the musculoskeletal system",
+  "categoryCode": "Q74",
+  "category": "Other congenital malformations of limb(s)",
+  "subcategory": "Q74.3",
+  "title": "Arthrogryposis multiplex congenita",
+  "inclusion": null,
+  "exclusion": [
+    "inborn errors of metabolism",
+    "polydactyly",
+    "reduction defect of limb",
+    "syndactyly"
+  ],
+  "children": null
+}

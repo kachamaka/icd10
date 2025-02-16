@@ -1,0 +1,35 @@
+{
+    "icd10code": "D23.5",
+    "type": "subcategory",
+    "title": "Benign neoplasm: Skin of trunk",
+    "chapter": "Neoplasms",
+    "chapterCode": "II",
+    "block": "Benign neoplasms",
+    "blockCode": "D10-D36",
+    "category": "Other benign neoplasms of skin",
+    "categoryCode": "D23",
+    "subcategory": "D23.5",
+    "inclusion": [
+        "morphology codes with behaviour code /0",
+        "benign neoplasm of: hair follicles",
+        "benign neoplasm of: sebaceous glands",
+        "benign neoplasm of: sweat glands",
+        "Anal: margin",
+        "Anal: skin",
+        "Perianal skin",
+        "Skin of breast"
+    ],
+    "exclusion": [
+        "benign lipomatous neoplasms",
+        "melanocytic naevi",
+        "anus NOS",
+        "skin of genital organs"
+    ],
+    "symptoms": [
+        "abnormal growth on skin",
+        "changes in skin color",
+        "itching",
+        "pain",
+        "bleeding from the skin growth"
+    ]
+}

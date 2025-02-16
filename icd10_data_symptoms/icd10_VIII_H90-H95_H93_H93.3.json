@@ -1,0 +1,32 @@
+{
+    "icd10code": "H93.3",
+    "type": "subcategory",
+    "title": "Disorders of acoustic nerve",
+    "chapter": "Diseases of the ear and mastoid process",
+    "chapterCode": "VIII",
+    "block": "Other disorders of ear",
+    "blockCode": "H90-H95",
+    "category": "Other disorders of ear, not elsewhere classified",
+    "categoryCode": "H93",
+    "subcategory": "H93.3",
+    "inclusion": [
+        "Disorder of 8th cranial nerve"
+    ],
+    "exclusion": [
+        "certain conditions originating in the perinatal period",
+        "certain infectious and parasitic diseases",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified"
+    ],
+    "symptoms": [
+        "tinnitus",
+        "hearing ringing",
+        "hearing buzzing",
+        "hearing hissing",
+        "hearing roaring sounds"
+    ]
+}

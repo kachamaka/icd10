@@ -1,0 +1,34 @@
+{
+    "icd10code": "O68.3",
+    "type": "subcategory",
+    "title": "Labour and delivery complicated by biochemical evidence of fetal stress",
+    "chapter": "Pregnancy, childbirth and the puerperium",
+    "chapterCode": "XV",
+    "block": "Complications of labour and delivery",
+    "blockCode": "O60-O75",
+    "category": "Labour and delivery complicated by fetal stress [distress]",
+    "categoryCode": "O68",
+    "subcategory": "O68.3",
+    "inclusion": [
+        "fetal distress in labour or delivery due to drug administration",
+        "Abnormal fetal: acidaemia",
+        "Abnormal fetal: acid-base balance"
+    ],
+    "exclusion": [
+        "Certain diseases or injuries complicating pregnancy, childbirth and the puerperium classified elsewhere: external causes (for mortality)",
+        "Certain diseases or injuries complicating pregnancy, childbirth and the puerperium classified elsewhere: injury, poisoning and certain other consequences of external cause",
+        "Certain diseases or injuries complicating pregnancy, childbirth and the puerperium classified elsewhere: mental and behavioural disorders associated with the puerperium",
+        "Certain diseases or injuries complicating pregnancy, childbirth and the puerperium classified elsewhere: obstetrical tetanus",
+        "Certain diseases or injuries complicating pregnancy, childbirth and the puerperium classified elsewhere: postpartum necrosis of pituitary gland",
+        "Certain diseases or injuries complicating pregnancy, childbirth and the puerperium classified elsewhere: puerperal osteomalacia",
+        "supervision of: high-risk pregnancy",
+        "supervision of: normal pregnancy"
+    ],
+    "symptoms": [
+        "fetal distress",
+        "abnormal fetal heart rate",
+        "decreased fetal movements",
+        "meconium-stained amniotic fluid",
+        "maternal anxiety"
+    ]
+}

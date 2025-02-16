@@ -1,0 +1,32 @@
+{
+    "icd10code": "T74.1",
+    "type": "subcategory",
+    "title": "Physical abuse",
+    "chapter": "Injury, poisoning and certain other consequences of external causes",
+    "chapterCode": "XIX",
+    "block": "Other and unspecified effects of external causes",
+    "blockCode": "T66-T78",
+    "category": "Maltreatment syndromes",
+    "categoryCode": "T74",
+    "subcategory": "T74.1",
+    "inclusion": [
+        "Battered: baby or child syndrome NOS",
+        "Battered: spouse syndrome NOS"
+    ],
+    "exclusion": [
+        "birth trauma",
+        "obstetric trauma",
+        "malunion of fracture",
+        "nonunion of fracture [pseudarthrosis]",
+        "pathological fracture",
+        "pathological fracture with osteoporosis",
+        "stress fracture"
+    ],
+    "symptoms": [
+        "bruising",
+        "fearfulness",
+        "anxiety",
+        "withdrawal",
+        "inconsistent explanations of injuries"
+    ]
+}

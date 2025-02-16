@@ -1,0 +1,18 @@
+{
+  "type": "subcategory",
+  "chapterCode": "II",
+  "chapter": "Neoplasms",
+  "blockCode": "C64-C68",
+  "block": "Malignant neoplasms of urinary tract",
+  "categoryCode": "C68",
+  "category": "Malignant neoplasm of other and unspecified urinary organs",
+  "subcategory": "C68.0",
+  "title": "Malignant neoplasm: Urethra",
+  "inclusion": null,
+  "exclusion": [
+    "genitourinary tract NOS: female",
+    "genitourinary tract NOS: male",
+    "urethral orifice of bladder"
+  ],
+  "children": null
+}

@@ -1,0 +1,25 @@
+{
+    "icd10code": "E68",
+    "type": "category",
+    "title": "Sequelae of hyperalimentation",
+    "chapter": "Endocrine, nutritional and metabolic diseases",
+    "chapterCode": "IV",
+    "block": "Obesity and other hyperalimentation",
+    "blockCode": "E65-E68",
+    "category": "Sequelae of hyperalimentation",
+    "categoryCode": "E68",
+    "subcategory": "",
+    "inclusion": null,
+    "exclusion": [
+        "complications of pregnancy, childbirth and the puerperium",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "transitory endocrine and metabolic disorders specific to fetus and newborn"
+    ],
+    "symptoms": [
+        "unexplained weight gain",
+        "increased appetite",
+        "fatigue",
+        "slow heartbeat",
+        "depression"
+    ]
+}

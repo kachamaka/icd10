@@ -1,0 +1,23 @@
+{
+    "icd10code": "C67.5",
+    "type": "subcategory",
+    "title": "Malignant neoplasm: Bladder neck",
+    "chapter": "Neoplasms",
+    "chapterCode": "II",
+    "block": "Malignant neoplasms of urinary tract",
+    "blockCode": "C64-C68",
+    "category": "Malignant neoplasm of bladder",
+    "categoryCode": "C67",
+    "subcategory": "C67.5",
+    "inclusion": [
+        "Internal urethral orifice"
+    ],
+    "exclusion": null,
+    "symptoms": [
+        "blood in urine",
+        "pain during urination",
+        "frequent urination",
+        "lower back pain",
+        "pelvic discomfort"
+    ]
+}

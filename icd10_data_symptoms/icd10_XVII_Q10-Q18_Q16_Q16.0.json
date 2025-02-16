@@ -1,0 +1,31 @@
+{
+    "icd10code": "Q16.0",
+    "type": "subcategory",
+    "title": "Congenital absence of (ear) auricle",
+    "chapter": "Congenital malformations, deformations and chromosomal abnormalities",
+    "chapterCode": "XVII",
+    "block": "Congenital malformations of eye, ear, face and neck",
+    "blockCode": "Q10-Q18",
+    "category": "Congenital malformations of ear causing impairment of hearing",
+    "categoryCode": "Q16",
+    "subcategory": "Q16.0",
+    "inclusion": null,
+    "exclusion": [
+        "inborn errors of metabolism",
+        "cleft lip and cleft palate",
+        "congenital malformation of: cervical spine",
+        "congenital malformation of: larynx",
+        "congenital malformation of: lip NEC",
+        "congenital malformation of: nose",
+        "congenital malformation of: parathyroid gland",
+        "congenital malformation of: thyroid gland",
+        "congenital deafness"
+    ],
+    "symptoms": [
+        "hearing loss",
+        "recurrent ear infections",
+        "delayed speech development",
+        "balance issues",
+        "difficulty hearing high-frequency sounds"
+    ]
+}

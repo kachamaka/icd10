@@ -1,0 +1,30 @@
+{
+    "icd10code": "A92.1",
+    "type": "subcategory",
+    "title": "O'nyong-nyong fever",
+    "chapter": "Certain infectious and parasitic diseases",
+    "chapterCode": "I",
+    "block": "Arthropod-borne viral fevers and viral haemorrhagic fevers",
+    "blockCode": "A92-A99",
+    "category": "Other mosquito-borne viral fevers",
+    "categoryCode": "A92",
+    "subcategory": "A92.1",
+    "inclusion": [
+        "diseases generally recognized as communicable or transmissible"
+    ],
+    "exclusion": [
+        "carrier or suspected carrier of infectious disease",
+        "certain localized infections - see body system-related chapters",
+        "infectious and parasitic diseases complicating pregnancy, childbirth and the puerperium [except obstetrical tetanus]",
+        "infectious and parasitic diseases specific to the perinatal period [except tetanus neonatorum, whooping cough, congenital syphilis, perinatal gonococcal infection and perinatal human immunodeficiency virus [HIV] disease]",
+        "influenza and other acute respiratory infections",
+        "erythrasma"
+    ],
+    "symptoms": [
+        "fever",
+        "headache",
+        "muscle pain",
+        "joint pain",
+        "rash"
+    ]
+}

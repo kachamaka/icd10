@@ -1,0 +1,38 @@
+{
+    "icd10code": "R94.8",
+    "type": "subcategory",
+    "title": "Abnormal results of function studies of other organs and systems",
+    "chapter": "Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+    "chapterCode": "XVIII",
+    "block": "Abnormal findings on diagnostic imaging and in function studies, without diagnosis",
+    "blockCode": "R90-R94",
+    "category": "Abnormal results of function studies",
+    "categoryCode": "R94",
+    "subcategory": "R94.8",
+    "inclusion": [
+        "nonspecific abnormal findings on diagnostic imaging by: computerized axial tomography [CAT scan]",
+        "nonspecific abnormal findings on diagnostic imaging by: magnetic resonance imaging [MRI][NMR]",
+        "nonspecific abnormal findings on diagnostic imaging by: positron emission tomography [PET scan]",
+        "nonspecific abnormal findings on diagnostic imaging by: thermography",
+        "nonspecific abnormal findings on diagnostic imaging by: ultrasound [echogram]",
+        "nonspecific abnormal findings on diagnostic imaging by: X-ray examination",
+        "Abnormal radiological finding in skin and subcutaneous tissue",
+        "Mediastinal shift",
+        "Abnormal: basal metabolic rate [BMR]",
+        "Abnormal: bladder function test",
+        "Abnormal: splenic function test"
+    ],
+    "exclusion": [
+        "abnormal findings on antenatal screening of mother",
+        "certain conditions originating in the perinatal period",
+        "abnormal findings on antenatal screening of mother",
+        "diagnostic abnormal findings classified elsewhere - see Alphabetical Index"
+    ],
+    "symptoms": [
+        "abnormal lab test results",
+        "altered imaging findings",
+        "irregular ecg patterns",
+        "anomalous pulmonary testing",
+        "atypical neurological test results"
+    ]
+}

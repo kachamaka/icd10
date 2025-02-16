@@ -1,0 +1,14 @@
+{
+  "type": "subcategory",
+  "chapterCode": "II",
+  "chapter": "Neoplasms",
+  "blockCode": "C00-C14",
+  "block": "Malignant neoplasms of lip, oral cavity and pharynx",
+  "categoryCode": "C06",
+  "category": "Malignant neoplasm of other and unspecified parts of mouth",
+  "subcategory": "C06.2",
+  "title": "Malignant neoplasm: Retromolar area",
+  "inclusion": null,
+  "exclusion": null,
+  "children": null
+}

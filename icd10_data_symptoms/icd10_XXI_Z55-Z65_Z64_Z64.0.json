@@ -1,0 +1,23 @@
+{
+    "icd10code": "Z64.0",
+    "type": "subcategory",
+    "title": "Problems related to unwanted pregnancy",
+    "chapter": "Factors influencing health status and contact with health services",
+    "chapterCode": "XXI",
+    "block": "Persons with potential health hazards related to socioeconomic and psychosocial circumstances",
+    "blockCode": "Z55-Z65",
+    "category": "Problems related to certain psychosocial circumstances",
+    "categoryCode": "Z64",
+    "subcategory": "Z64.0",
+    "inclusion": null,
+    "exclusion": [
+        "supervision of high-risk pregnancy due to social problems"
+    ],
+    "symptoms": [
+        "emotional distress",
+        "anxiety",
+        "depression",
+        "relationship conflicts",
+        "decision-making stress"
+    ]
+}

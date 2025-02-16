@@ -1,0 +1,23 @@
+{
+  "type": "subcategory",
+  "chapterCode": "VI",
+  "chapter": "Diseases of the nervous system",
+  "blockCode": "G10-G14",
+  "block": "Systemic atrophies primarily affecting the central nervous system",
+  "categoryCode": "G13",
+  "category": "Systemic atrophies primarily affecting central nervous system in diseases classified elsewhere",
+  "subcategory": "G13.8",
+  "title": "Systemic atrophy primarily affecting central nervous system in other diseases classified elsewhere",
+  "inclusion": null,
+  "exclusion": [
+    "certain conditions originating in the perinatal period",
+    "certain infectious and parasitic diseases",
+    "complications of pregnancy, childbirth and the puerperium",
+    "congenital malformations, deformations and chromosomal abnormalities",
+    "endocrine, nutritional and metabolic diseases",
+    "injury, poisoning and certain other consequences of external causes",
+    "neoplasms",
+    "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified"
+  ],
+  "children": null
+}

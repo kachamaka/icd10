@@ -1,0 +1,18 @@
+{
+  "type": "category",
+  "chapterCode": "XX",
+  "chapter": "External causes of morbidity and mortality",
+  "blockCode": "W20-W49",
+  "block": "Exposure to inanimate mechanical forces",
+  "categoryCode": "W39",
+  "category": "Discharge of firework",
+  "subcategory": "",
+  "title": "Discharge of firework",
+  "inclusion": null,
+  "exclusion": [
+    "assault",
+    "contact or collision with animals or persons",
+    "intentional self-harm"
+  ],
+  "children": null
+}

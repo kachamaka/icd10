@@ -1,0 +1,37 @@
+{
+    "icd10code": "S72.1",
+    "type": "subcategory",
+    "title": "Pertrochanteric fracture",
+    "chapter": "Injury, poisoning and certain other consequences of external causes",
+    "chapterCode": "XIX",
+    "block": "Injuries to the hip and thigh",
+    "blockCode": "S70-S79",
+    "category": "Fracture of femur",
+    "categoryCode": "S72",
+    "subcategory": "S72.1",
+    "inclusion": [
+        "Intertrochanteric fracture",
+        "Trochanteric fracture"
+    ],
+    "exclusion": [
+        "birth trauma",
+        "obstetric trauma",
+        "malunion of fracture",
+        "nonunion of fracture [pseudarthrosis]",
+        "pathological fracture",
+        "pathological fracture with osteoporosis",
+        "stress fracture",
+        "bilateral involvement of hip and thigh",
+        "burns and corrosions",
+        "frostbite",
+        "injuries of leg, level unspecified",
+        "insect bite or sting, venomous"
+    ],
+    "symptoms": [
+        "hip pain",
+        "inability to bear weight",
+        "swelling",
+        "bruising",
+        "leg deformity"
+    ]
+}

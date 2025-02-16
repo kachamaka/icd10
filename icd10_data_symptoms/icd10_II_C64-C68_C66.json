@@ -1,0 +1,23 @@
+{
+    "icd10code": "C66",
+    "type": "category",
+    "title": "Malignant neoplasm of ureter",
+    "chapter": "Neoplasms",
+    "chapterCode": "II",
+    "block": "Malignant neoplasms of urinary tract",
+    "blockCode": "C64-C68",
+    "category": "Malignant neoplasm of ureter",
+    "categoryCode": "C66",
+    "subcategory": "",
+    "inclusion": null,
+    "exclusion": [
+        "ureteric orifice of bladder"
+    ],
+    "symptoms": [
+        "blood in urine",
+        "lower back pain",
+        "frequent urination",
+        "pelvic pain",
+        "loss of weight and appetite"
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "icd10code": "Q89.8",
+    "type": "subcategory",
+    "title": "Other specified congenital malformations",
+    "chapter": "Congenital malformations, deformations and chromosomal abnormalities",
+    "chapterCode": "XVII",
+    "block": "Other congenital malformations",
+    "blockCode": "Q80-Q89",
+    "category": "Other congenital malformations, not elsewhere classified",
+    "categoryCode": "Q89",
+    "subcategory": "Q89.8",
+    "inclusion": null,
+    "exclusion": [
+        "inborn errors of metabolism"
+    ],
+    "symptoms": [
+        "developmental delay",
+        "facial dysmorphism",
+        "skeletal abnormalities",
+        "organ malformation",
+        "growth retardation"
+    ]
+}

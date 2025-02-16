@@ -1,0 +1,34 @@
+{
+    "icd10code": "K22.8",
+    "type": "subcategory",
+    "title": "Other specified diseases of oesophagus",
+    "chapter": "Diseases of the digestive system",
+    "chapterCode": "XI",
+    "block": "Diseases of oesophagus, stomach and duodenum",
+    "blockCode": "K20-K31",
+    "category": "Other diseases of oesophagus",
+    "categoryCode": "K22",
+    "subcategory": "K22.8",
+    "inclusion": [
+        "Haemorrhage of oesophagus NOS"
+    ],
+    "exclusion": [
+        "certain conditions originating in the perinatal period",
+        "certain infectious and parasitic diseases",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "hiatus hernia",
+        "primary ulcer of small intestine"
+    ],
+    "symptoms": [
+        "difficulty swallowing",
+        "chest pain",
+        "heartburn",
+        "regurgitation",
+        "sore throat"
+    ]
+}

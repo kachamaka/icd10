@@ -1,0 +1,19 @@
+{
+  "type": "subcategory",
+  "chapterCode": "V",
+  "chapter": "Mental and behavioural disorders",
+  "blockCode": "F00-F09",
+  "block": "Organic, including symptomatic, mental disorders",
+  "categoryCode": "F07",
+  "category": "Personality and behavioural disorders due to brain disease, damage and dysfunction",
+  "subcategory": "F07.8",
+  "title": "Other organic personality and behavioural disorders due to brain disease, damage and dysfunction",
+  "inclusion": [
+    "disorders of psychological development",
+    "Right hemispheric organic affective disorder"
+  ],
+  "exclusion": [
+    "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified"
+  ],
+  "children": null
+}

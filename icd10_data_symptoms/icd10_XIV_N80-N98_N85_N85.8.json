@@ -1,0 +1,38 @@
+{
+    "icd10code": "N85.8",
+    "type": "subcategory",
+    "title": "Other specified noninflammatory disorders of uterus",
+    "chapter": "Diseases of the genitourinary system",
+    "chapterCode": "XIV",
+    "block": "Noninflammatory disorders of female genital tract",
+    "blockCode": "N80-N98",
+    "category": "Other noninflammatory disorders of uterus, except cervix",
+    "categoryCode": "N85",
+    "subcategory": "N85.8",
+    "inclusion": [
+        "Atrophy of uterus, acquired",
+        "Fibrosis of uterus NOS"
+    ],
+    "exclusion": [
+        "certain conditions originating in the perinatal period",
+        "certain infectious and parasitic diseases",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "endometriosis",
+        "inflammatory diseases of uterus",
+        "noninflammatory disorders of cervix except malposition",
+        "polyp of corpus uteri",
+        "uterine prolapse"
+    ],
+    "symptoms": [
+        "irregular bleeding",
+        "pelvic pain",
+        "swelling",
+        "urinary frequency",
+        "abnormal discharge"
+    ]
+}

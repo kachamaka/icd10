@@ -1,0 +1,28 @@
+{
+    "icd10code": "E34.2",
+    "type": "subcategory",
+    "title": "Ectopic hormone secretion, not elsewhere classified",
+    "chapter": "Endocrine, nutritional and metabolic diseases",
+    "chapterCode": "IV",
+    "block": "Disorders of other endocrine glands",
+    "blockCode": "E20-E35",
+    "category": "Other endocrine disorders",
+    "categoryCode": "E34",
+    "subcategory": "E34.2",
+    "inclusion": null,
+    "exclusion": [
+        "complications of pregnancy, childbirth and the puerperium",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "transitory endocrine and metabolic disorders specific to fetus and newborn",
+        "galactorrhoea",
+        "gynaecomastia",
+        "Albright(-McCune)(-Sternberg) syndrome"
+    ],
+    "symptoms": [
+        "decreased body temperature",
+        "persistent fatigue",
+        "slowed heart rate",
+        "constipation",
+        "difficulty in weight loss"
+    ]
+}

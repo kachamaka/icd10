@@ -1,0 +1,25 @@
+{
+    "icd10code": "C69.1",
+    "type": "subcategory",
+    "title": "Malignant neoplasm: Cornea",
+    "chapter": "Neoplasms",
+    "chapterCode": "II",
+    "block": "Malignant neoplasms of eye, brain and other parts of central nervous system",
+    "blockCode": "C69-C72",
+    "category": "Malignant neoplasm of eye and adnexa",
+    "categoryCode": "C69",
+    "subcategory": "C69.1",
+    "inclusion": null,
+    "exclusion": [
+        "connective tissue of eyelid",
+        "eyelid (skin)",
+        "optic nerve"
+    ],
+    "symptoms": [
+        "blurred vision",
+        "eye pain",
+        "partial or total vision loss",
+        "bulging eye",
+        "floaters in the field of vision"
+    ]
+}

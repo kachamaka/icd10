@@ -1,0 +1,30 @@
+{
+    "icd10code": "P15.8",
+    "type": "subcategory",
+    "title": "Other specified birth injuries",
+    "chapter": "Certain conditions originating in the perinatal period",
+    "chapterCode": "XVI",
+    "block": "Birth trauma",
+    "blockCode": "P10-P15",
+    "category": "Other birth injuries",
+    "categoryCode": "P15",
+    "subcategory": "P15.8",
+    "inclusion": [
+        "conditions that have their origin in the perinatal period even though death or morbidity occurs later"
+    ],
+    "exclusion": [
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "tetanus neonatorum",
+        "whooping cough"
+    ],
+    "symptoms": [
+        "brachial plexus injury",
+        "facial nerve injury",
+        "clavicle fracture",
+        "subdural hemorrhage",
+        "spinal cord injury"
+    ]
+}

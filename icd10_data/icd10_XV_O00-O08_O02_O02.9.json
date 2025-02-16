@@ -1,0 +1,25 @@
+{
+  "type": "subcategory",
+  "chapterCode": "XV",
+  "chapter": "Pregnancy, childbirth and the puerperium",
+  "blockCode": "O00-O08",
+  "block": "Pregnancy with abortive outcome",
+  "categoryCode": "O02",
+  "category": "Other abnormal products of conception",
+  "subcategory": "O02.9",
+  "title": "Abnormal product of conception, unspecified",
+  "inclusion": null,
+  "exclusion": [
+    "Certain diseases or injuries complicating pregnancy, childbirth and the puerperium classified elsewhere: external causes (for mortality)",
+    "Certain diseases or injuries complicating pregnancy, childbirth and the puerperium classified elsewhere: injury, poisoning and certain other consequences of external cause",
+    "Certain diseases or injuries complicating pregnancy, childbirth and the puerperium classified elsewhere: mental and behavioural disorders associated with the puerperium",
+    "Certain diseases or injuries complicating pregnancy, childbirth and the puerperium classified elsewhere: obstetrical tetanus",
+    "Certain diseases or injuries complicating pregnancy, childbirth and the puerperium classified elsewhere: postpartum necrosis of pituitary gland",
+    "Certain diseases or injuries complicating pregnancy, childbirth and the puerperium classified elsewhere: puerperal osteomalacia",
+    "supervision of: high-risk pregnancy",
+    "supervision of: normal pregnancy",
+    "continuing pregnancy in multiple gestation after abortion of one fetus or more",
+    "delivery of viable fetus in abdominal pregnancy"
+  ],
+  "children": null
+}

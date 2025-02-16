@@ -1,0 +1,14 @@
+{
+  "type": "subcategory",
+  "chapterCode": "XX",
+  "chapter": "External causes of morbidity and mortality",
+  "blockCode": "Y85-Y89",
+  "block": "Sequelae of external causes of morbidity and mortality",
+  "categoryCode": "Y85",
+  "category": "Sequelae of transport accidents",
+  "subcategory": "Y85.0",
+  "title": "Sequelae of motor-vehicle accident",
+  "inclusion": null,
+  "exclusion": null,
+  "children": null
+}

@@ -1,0 +1,30 @@
+{
+    "icd10code": "F51.2",
+    "type": "subcategory",
+    "title": "Nonorganic disorder of the sleep-wake schedule",
+    "chapter": "Mental and behavioural disorders",
+    "chapterCode": "V",
+    "block": "Behavioural syndromes associated with physiological disturbances and physical factors",
+    "blockCode": "F50-F59",
+    "category": "Nonorganic sleep disorders",
+    "categoryCode": "F51",
+    "subcategory": "F51.2",
+    "inclusion": [
+        "disorders of psychological development",
+        "Psychogenic inversion of: circadian rhythm",
+        "Psychogenic inversion of: nyctohemeral rhythm",
+        "Psychogenic inversion of: sleep rhythm"
+    ],
+    "exclusion": [
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "sleep disorders (organic)",
+        "disorders of the sleep-wake schedule (organic)"
+    ],
+    "symptoms": [
+        "difficulty falling asleep",
+        "frequent nighttime awakenings",
+        "restless sleep",
+        "early morning awakenings",
+        "excessive daytime sleepiness"
+    ]
+}

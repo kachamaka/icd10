@@ -1,0 +1,27 @@
+{
+    "icd10code": "F52.1",
+    "type": "subcategory",
+    "title": "Sexual aversion and lack of sexual enjoyment",
+    "chapter": "Mental and behavioural disorders",
+    "chapterCode": "V",
+    "block": "Behavioural syndromes associated with physiological disturbances and physical factors",
+    "blockCode": "F50-F59",
+    "category": "Sexual dysfunction, not caused by organic disorder or disease",
+    "categoryCode": "F52",
+    "subcategory": "F52.1",
+    "inclusion": [
+        "disorders of psychological development",
+        "Anhedonia (sexual)"
+    ],
+    "exclusion": [
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "Dhat syndrome"
+    ],
+    "symptoms": [
+        "decreased libido",
+        "difficulty achieving orgasm",
+        "lack of sexual desire",
+        "delayed ejaculation",
+        "reduced sexual arousal"
+    ]
+}

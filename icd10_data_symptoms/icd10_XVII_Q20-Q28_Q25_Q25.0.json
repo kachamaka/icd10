@@ -1,0 +1,26 @@
+{
+    "icd10code": "Q25.0",
+    "type": "subcategory",
+    "title": "Patent ductus arteriosus",
+    "chapter": "Congenital malformations, deformations and chromosomal abnormalities",
+    "chapterCode": "XVII",
+    "block": "Congenital malformations of the circulatory system",
+    "blockCode": "Q20-Q28",
+    "category": "Congenital malformations of great arteries",
+    "categoryCode": "Q25",
+    "subcategory": "Q25.0",
+    "inclusion": [
+        "Patent ductus Botalli",
+        "Persistent ductus arteriosus"
+    ],
+    "exclusion": [
+        "inborn errors of metabolism"
+    ],
+    "symptoms": [
+        "heart murmur",
+        "fatigue",
+        "chest pain",
+        "shortness of breath",
+        "fainting"
+    ]
+}

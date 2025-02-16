@@ -1,0 +1,34 @@
+{
+    "icd10code": "O10.3",
+    "type": "subcategory",
+    "title": "Pre-existing hypertensive heart and renal disease complicating pregnancy, childbirth and the puerperium",
+    "chapter": "Pregnancy, childbirth and the puerperium",
+    "chapterCode": "XV",
+    "block": "Oedema, proteinuria and hypertensive disorders in pregnancy, childbirth and the puerperium",
+    "blockCode": "O10-O16",
+    "category": "Pre-existing hypertension complicating pregnancy, childbirth and the puerperium",
+    "categoryCode": "O10",
+    "subcategory": "O10.3",
+    "inclusion": [
+        "the listed conditions with pre-existing proteinuria",
+        "Any condition in I13.- specified as a reason for obstetric care during pregnancy, childbirth or the puerperium"
+    ],
+    "exclusion": [
+        "Certain diseases or injuries complicating pregnancy, childbirth and the puerperium classified elsewhere: external causes (for mortality)",
+        "Certain diseases or injuries complicating pregnancy, childbirth and the puerperium classified elsewhere: injury, poisoning and certain other consequences of external cause",
+        "Certain diseases or injuries complicating pregnancy, childbirth and the puerperium classified elsewhere: mental and behavioural disorders associated with the puerperium",
+        "Certain diseases or injuries complicating pregnancy, childbirth and the puerperium classified elsewhere: obstetrical tetanus",
+        "Certain diseases or injuries complicating pregnancy, childbirth and the puerperium classified elsewhere: postpartum necrosis of pituitary gland",
+        "Certain diseases or injuries complicating pregnancy, childbirth and the puerperium classified elsewhere: puerperal osteomalacia",
+        "supervision of: high-risk pregnancy",
+        "supervision of: normal pregnancy",
+        "that with superimposed pre-eclampsia"
+    ],
+    "symptoms": [
+        "hypertension",
+        "headache",
+        "dizziness",
+        "shortness of breath",
+        "swelling in extremities"
+    ]
+}

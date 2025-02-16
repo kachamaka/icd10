@@ -1,0 +1,25 @@
+{
+    "icd10code": "C86.3",
+    "type": "subcategory",
+    "title": "Subcutaneous panniculitis-like T-cell lymphoma",
+    "chapter": "Neoplasms",
+    "chapterCode": "II",
+    "block": "Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",
+    "blockCode": "C81-C96",
+    "category": "Other specified types of T/NK-cell lymphoma",
+    "categoryCode": "C86",
+    "subcategory": "C86.3",
+    "inclusion": null,
+    "exclusion": [
+        "secondary and unspecified neoplasm of lymph nodes",
+        "anaplastic large cell lymphoma, ALK negative",
+        "anaplastic large cell lymphoma, ALK positive"
+    ],
+    "symptoms": [
+        "night sweats",
+        "unexplained weight loss",
+        "fatigue",
+        "recurring fevers",
+        "enlarged lymph nodes"
+    ]
+}

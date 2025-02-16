@@ -1,0 +1,29 @@
+{
+    "icd10code": "Q64.3",
+    "type": "subcategory",
+    "title": "Other atresia and stenosis of urethra and bladder neck",
+    "chapter": "Congenital malformations, deformations and chromosomal abnormalities",
+    "chapterCode": "XVII",
+    "block": "Congenital malformations of the urinary system",
+    "blockCode": "Q60-Q64",
+    "category": "Other congenital malformations of urinary system",
+    "categoryCode": "Q64",
+    "subcategory": "Q64.3",
+    "inclusion": [
+        "Congenital: bladder neck obstruction",
+        "Congenital: stricture of: urethra",
+        "Congenital: stricture of: urinary meatus",
+        "Congenital: stricture of: vesicourethral orifice",
+        "Impervious urethra"
+    ],
+    "exclusion": [
+        "inborn errors of metabolism"
+    ],
+    "symptoms": [
+        "urinary incontinence",
+        "recurrent urinary tract infection",
+        "difficulty urinating",
+        "weak urine stream",
+        "incomplete bladder emptying"
+    ]
+}

@@ -1,0 +1,33 @@
+{
+    "icd10code": "N15.1",
+    "type": "subcategory",
+    "title": "Renal and perinephric abscess",
+    "chapter": "Diseases of the genitourinary system",
+    "chapterCode": "XIV",
+    "block": "Renal tubulo-interstitial diseases",
+    "blockCode": "N10-N16",
+    "category": "Other renal tubulo-interstitial diseases",
+    "categoryCode": "N15",
+    "subcategory": "N15.1",
+    "inclusion": [
+        "pyelonephritis"
+    ],
+    "exclusion": [
+        "certain conditions originating in the perinatal period",
+        "certain infectious and parasitic diseases",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "pyeloureteritis cystica"
+    ],
+    "symptoms": [
+        "flank pain",
+        "fever",
+        "chills",
+        "urinary frequency",
+        "painful urination"
+    ]
+}

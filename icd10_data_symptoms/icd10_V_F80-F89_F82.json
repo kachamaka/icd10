@@ -1,0 +1,31 @@
+{
+    "icd10code": "F82",
+    "type": "category",
+    "title": "Specific developmental disorder of motor function",
+    "chapter": "Mental and behavioural disorders",
+    "chapterCode": "V",
+    "block": "Disorders of psychological development",
+    "blockCode": "F80-F89",
+    "category": "Specific developmental disorder of motor function",
+    "categoryCode": "F82",
+    "subcategory": "",
+    "inclusion": [
+        "disorders of psychological development",
+        "Clumsy child syndrome",
+        "Developmental: coordination disorder",
+        "Developmental: dyspraxia"
+    ],
+    "exclusion": [
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "abnormalities of gait and mobility",
+        "lack of coordination",
+        "lack of coordination secondary to mental retardation"
+    ],
+    "symptoms": [
+        "coordination difficulties",
+        "clumsiness",
+        "delays in motor skill development",
+        "poor balance",
+        "awkward movements"
+    ]
+}

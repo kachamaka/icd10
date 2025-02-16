@@ -1,0 +1,27 @@
+{
+    "icd10code": "D44.1",
+    "type": "subcategory",
+    "title": "Neoplasm of uncertain or unknown behaviour: Adrenal gland",
+    "chapter": "Neoplasms",
+    "chapterCode": "II",
+    "block": "Neoplasms of uncertain or unknown behaviour",
+    "blockCode": "D37-D48",
+    "category": "Neoplasm of uncertain or unknown behaviour of endocrine glands",
+    "categoryCode": "D44",
+    "subcategory": "D44.1",
+    "inclusion": null,
+    "exclusion": [
+        "endocrine pancreas",
+        "ovary",
+        "testis",
+        "thymus"
+    ],
+    "symptoms": [
+        "neck lump or mass",
+        "hoarseness or voice changes",
+        "difficulty swallowing",
+        "persistent cough",
+        "sudden",
+        "unexplained weight loss"
+    ]
+}

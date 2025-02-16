@@ -1,0 +1,17 @@
+{
+  "type": "subcategory",
+  "chapterCode": "II",
+  "chapter": "Neoplasms",
+  "blockCode": "C00-C14",
+  "block": "Malignant neoplasms of lip, oral cavity and pharynx",
+  "categoryCode": "C06",
+  "category": "Malignant neoplasm of other and unspecified parts of mouth",
+  "subcategory": "C06.9",
+  "title": "Malignant neoplasm: Mouth, unspecified",
+  "inclusion": [
+    "Minor salivary gland, unspecified site",
+    "Oral cavity NOS"
+  ],
+  "exclusion": null,
+  "children": null
+}

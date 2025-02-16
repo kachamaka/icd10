@@ -1,0 +1,30 @@
+{
+    "icd10code": "W79",
+    "type": "category",
+    "title": "Inhalation and ingestion of food causing obstruction of respiratory tract",
+    "chapter": "External causes of morbidity and mortality",
+    "chapterCode": "XX",
+    "block": "Other accidental threats to breathing",
+    "blockCode": "W75-W84",
+    "category": "Inhalation and ingestion of food causing obstruction of respiratory tract",
+    "categoryCode": "W79",
+    "subcategory": "",
+    "inclusion": [
+        "asphyxia by food [including bone or seed]",
+        "choked on food [including bone or seed]",
+        "suffocation by food [including bone or seed]",
+        "aspiration and inhalation of food [any] (into respiratory tract) NOS",
+        "compression of trachea by food in oesophagus",
+        "interruption of respiration by food in oesophagus",
+        "obstruction of respiration by food in oesophagus",
+        "obstruction of pharynx by food (bolus)"
+    ],
+    "exclusion": [
+        "inhalation of vomitus",
+        "injury, except asphyxia or obstruction of respiratory tract, caused by food",
+        "obstruction of oesophagus by food without mention of asphyxia or obstruction of respiratory tract"
+    ],
+    "symptoms": [
+        "asymptomatic"
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "icd10code": "A24.0",
+    "type": "subcategory",
+    "title": "Glanders",
+    "chapter": "Certain infectious and parasitic diseases",
+    "chapterCode": "I",
+    "block": "Certain zoonotic bacterial diseases",
+    "blockCode": "A20-A28",
+    "category": "Glanders and melioidosis",
+    "categoryCode": "A24",
+    "subcategory": "A24.0",
+    "inclusion": [
+        "diseases generally recognized as communicable or transmissible",
+        "Infection due to Pseudomonas mallei",
+        "Infection due to Burkholderia mallei",
+        "Malleus"
+    ],
+    "exclusion": [
+        "carrier or suspected carrier of infectious disease",
+        "certain localized infections - see body system-related chapters",
+        "infectious and parasitic diseases complicating pregnancy, childbirth and the puerperium [except obstetrical tetanus]",
+        "infectious and parasitic diseases specific to the perinatal period [except tetanus neonatorum, whooping cough, congenital syphilis, perinatal gonococcal infection and perinatal human immunodeficiency virus [HIV] disease]",
+        "influenza and other acute respiratory infections"
+    ],
+    "symptoms": [
+        "fever",
+        "headaches",
+        "muscle pain",
+        "chest pain",
+        "and respiratory distress"
+    ]
+}

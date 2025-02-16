@@ -1,0 +1,19 @@
+{
+  "type": "modifiedcategory",
+  "chapterCode": "V",
+  "chapter": "Mental and behavioural disorders",
+  "blockCode": "F70-F79",
+  "block": "Mental retardation",
+  "categoryCode": "F73",
+  "category": "Profound mental retardation",
+  "subcategory": "",
+  "title": "Profound mental retardation : significant impairment of behaviour requiring attention or treatment",
+  "inclusion": [
+    "disorders of psychological development",
+    "profound mental subnormality"
+  ],
+  "exclusion": [
+    "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified"
+  ],
+  "children": null
+}

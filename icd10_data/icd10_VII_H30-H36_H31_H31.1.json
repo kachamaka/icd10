@@ -1,0 +1,27 @@
+{
+  "type": "subcategory",
+  "chapterCode": "VII",
+  "chapter": "Diseases of the eye and adnexa",
+  "blockCode": "H30-H36",
+  "block": "Disorders of choroid and retina",
+  "categoryCode": "H31",
+  "category": "Other disorders of choroid",
+  "subcategory": "H31.1",
+  "title": "Choroidal degeneration",
+  "inclusion": [
+    "Atrophy of choroid",
+    "Sclerosis of choroid"
+  ],
+  "exclusion": [
+    "certain conditions originating in the perinatal period",
+    "certain infectious and parasitic diseases",
+    "complications of pregnancy, childbirth and the puerperium",
+    "congenital malformations, deformations and chromosomal abnormalities",
+    "endocrine, nutritional and metabolic diseases",
+    "injury, poisoning and certain other consequences of external causes",
+    "neoplasms",
+    "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+    "angioid streaks"
+  ],
+  "children": null
+}

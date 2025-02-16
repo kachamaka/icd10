@@ -1,0 +1,21 @@
+{
+    "icd10code": "C05.2",
+    "type": "subcategory",
+    "title": "Malignant neoplasm: Uvula",
+    "chapter": "Neoplasms",
+    "chapterCode": "II",
+    "block": "Malignant neoplasms of lip, oral cavity and pharynx",
+    "blockCode": "C00-C14",
+    "category": "Malignant neoplasm of palate",
+    "categoryCode": "C05",
+    "subcategory": "C05.2",
+    "inclusion": null,
+    "exclusion": null,
+    "symptoms": [
+        "difficulty swallowing",
+        "persistent mouth sore",
+        "unexplained mouth bleeding",
+        "jaw pain or stiffness",
+        "loose teeth"
+    ]
+}

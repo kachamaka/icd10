@@ -1,0 +1,25 @@
+{
+    "icd10code": "E07.9",
+    "type": "subcategory",
+    "title": "Disorder of thyroid, unspecified",
+    "chapter": "Endocrine, nutritional and metabolic diseases",
+    "chapterCode": "IV",
+    "block": "Disorders of thyroid gland",
+    "blockCode": "E00-E07",
+    "category": "Other disorders of thyroid",
+    "categoryCode": "E07",
+    "subcategory": "E07.9",
+    "inclusion": null,
+    "exclusion": [
+        "complications of pregnancy, childbirth and the puerperium",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "transitory endocrine and metabolic disorders specific to fetus and newborn"
+    ],
+    "symptoms": [
+        "enlarged thyroid gland",
+        "difficulty swallowing",
+        "neck discomfort",
+        "rapid heart rate",
+        "weight loss"
+    ]
+}

@@ -1,0 +1,37 @@
+{
+    "icd10code": "H65.4",
+    "type": "subcategory",
+    "title": "Other chronic nonsuppurative otitis media",
+    "chapter": "Diseases of the ear and mastoid process",
+    "chapterCode": "VIII",
+    "block": "Diseases of middle ear and mastoid",
+    "blockCode": "H65-H75",
+    "category": "Nonsuppurative otitis media",
+    "categoryCode": "H65",
+    "subcategory": "H65.4",
+    "inclusion": [
+        "with myringitis",
+        "Otitis media, chronic: allergic",
+        "Otitis media, chronic: exudative",
+        "Otitis media, chronic: nonsuppurative NOS",
+        "Otitis media, chronic: seromucinous",
+        "Otitis media, chronic: with effusion (nonpurulent)"
+    ],
+    "exclusion": [
+        "certain conditions originating in the perinatal period",
+        "certain infectious and parasitic diseases",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified"
+    ],
+    "symptoms": [
+        "ear pain",
+        "hearing loss",
+        "ear fullness",
+        "fluid discharge",
+        "fever"
+    ]
+}

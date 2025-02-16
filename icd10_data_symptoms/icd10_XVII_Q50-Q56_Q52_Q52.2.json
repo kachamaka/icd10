@@ -1,0 +1,27 @@
+{
+    "icd10code": "Q52.2",
+    "type": "subcategory",
+    "title": "Congenital rectovaginal fistula",
+    "chapter": "Congenital malformations, deformations and chromosomal abnormalities",
+    "chapterCode": "XVII",
+    "block": "Congenital malformations of genital organs",
+    "blockCode": "Q50-Q56",
+    "category": "Other congenital malformations of female genitalia",
+    "categoryCode": "Q52",
+    "subcategory": "Q52.2",
+    "inclusion": null,
+    "exclusion": [
+        "inborn errors of metabolism",
+        "androgen resistance syndrome",
+        "syndromes associated with anomalies in the number and form of chromosomes",
+        "testicular feminization syndrome",
+        "cloaca"
+    ],
+    "symptoms": [
+        "abnormal vaginal development",
+        "absent vagina",
+        "shortened vaginal canal",
+        "vaginal agenesis",
+        "underdeveloped reproductive organs"
+    ]
+}

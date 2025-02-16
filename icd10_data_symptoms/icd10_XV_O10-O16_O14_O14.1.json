@@ -1,0 +1,31 @@
+{
+    "icd10code": "O14.1",
+    "type": "subcategory",
+    "title": "Severe pre-eclampsia",
+    "chapter": "Pregnancy, childbirth and the puerperium",
+    "chapterCode": "XV",
+    "block": "Oedema, proteinuria and hypertensive disorders in pregnancy, childbirth and the puerperium",
+    "blockCode": "O10-O16",
+    "category": "Pre-eclampsia",
+    "categoryCode": "O14",
+    "subcategory": "O14.1",
+    "inclusion": null,
+    "exclusion": [
+        "Certain diseases or injuries complicating pregnancy, childbirth and the puerperium classified elsewhere: external causes (for mortality)",
+        "Certain diseases or injuries complicating pregnancy, childbirth and the puerperium classified elsewhere: injury, poisoning and certain other consequences of external cause",
+        "Certain diseases or injuries complicating pregnancy, childbirth and the puerperium classified elsewhere: mental and behavioural disorders associated with the puerperium",
+        "Certain diseases or injuries complicating pregnancy, childbirth and the puerperium classified elsewhere: obstetrical tetanus",
+        "Certain diseases or injuries complicating pregnancy, childbirth and the puerperium classified elsewhere: postpartum necrosis of pituitary gland",
+        "Certain diseases or injuries complicating pregnancy, childbirth and the puerperium classified elsewhere: puerperal osteomalacia",
+        "supervision of: high-risk pregnancy",
+        "supervision of: normal pregnancy",
+        "superimposed pre-eclampsia"
+    ],
+    "symptoms": [
+        "high blood pressure",
+        "proteinuria",
+        "severe headaches",
+        "visual disturbances",
+        "upper abdominal pain"
+    ]
+}

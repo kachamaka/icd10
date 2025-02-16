@@ -1,0 +1,28 @@
+{
+  "type": "subcategory",
+  "chapterCode": "XVI",
+  "chapter": "Certain conditions originating in the perinatal period",
+  "blockCode": "P00-P04",
+  "block": "Fetus and newborn affected by maternal factors and by complications of pregnancy, labour and delivery",
+  "categoryCode": "P03",
+  "category": "Fetus and newborn affected by other complications of labour and delivery",
+  "subcategory": "P03.1",
+  "title": "Fetus and newborn affected by other malpresentation, malposition and disproportion during labour and delivery",
+  "inclusion": [
+    "conditions that have their origin in the perinatal period even though death or morbidity occurs later",
+    "the listed maternal conditions only when specified as a cause of mortality or morbidity in fetus or newborn",
+    "Contracted pelvis",
+    "Fetus or newborn affected by conditions classifiable to O64-O66",
+    "Persistent occipitoposterior",
+    "Transverse lie"
+  ],
+  "exclusion": [
+    "congenital malformations, deformations and chromosomal abnormalities",
+    "endocrine, nutritional and metabolic diseases",
+    "injury, poisoning and certain other consequences of external causes",
+    "neoplasms",
+    "tetanus neonatorum",
+    "whooping cough"
+  ],
+  "children": null
+}

@@ -1,0 +1,24 @@
+{
+    "icd10code": "C71.9",
+    "type": "subcategory",
+    "title": "Malignant neoplasm: Brain, unspecified",
+    "chapter": "Neoplasms",
+    "chapterCode": "II",
+    "block": "Malignant neoplasms of eye, brain and other parts of central nervous system",
+    "blockCode": "C69-C72",
+    "category": "Malignant neoplasm of brain",
+    "categoryCode": "C71",
+    "subcategory": "C71.9",
+    "inclusion": null,
+    "exclusion": [
+        "cranial nerves",
+        "retrobulbar tissue"
+    ],
+    "symptoms": [
+        "headaches",
+        "seizures",
+        "vision problems",
+        "cognitive difficulties",
+        "numbness in parts of the body"
+    ]
+}

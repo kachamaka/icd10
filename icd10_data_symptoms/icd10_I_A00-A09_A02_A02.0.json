@@ -1,0 +1,31 @@
+{
+    "icd10code": "A02.0",
+    "type": "subcategory",
+    "title": "Salmonella enteritis",
+    "chapter": "Certain infectious and parasitic diseases",
+    "chapterCode": "I",
+    "block": "Intestinal infectious diseases",
+    "blockCode": "A00-A09",
+    "category": "Other salmonella infections",
+    "categoryCode": "A02",
+    "subcategory": "A02.0",
+    "inclusion": [
+        "diseases generally recognized as communicable or transmissible",
+        "infection or foodborne intoxication due to any Salmonella species other than S. typhi and S. paratyphi",
+        "Salmonellosis"
+    ],
+    "exclusion": [
+        "carrier or suspected carrier of infectious disease",
+        "certain localized infections - see body system-related chapters",
+        "infectious and parasitic diseases complicating pregnancy, childbirth and the puerperium [except obstetrical tetanus]",
+        "infectious and parasitic diseases specific to the perinatal period [except tetanus neonatorum, whooping cough, congenital syphilis, perinatal gonococcal infection and perinatal human immunodeficiency virus [HIV] disease]",
+        "influenza and other acute respiratory infections"
+    ],
+    "symptoms": [
+        "abdominal pain",
+        "loss of appetite",
+        "diarrhea",
+        "fever",
+        "vomiting"
+    ]
+}

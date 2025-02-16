@@ -1,0 +1,39 @@
+{
+    "icd10code": "L90.5",
+    "type": "subcategory",
+    "title": "Scar conditions and fibrosis of skin",
+    "chapter": "Diseases of the skin and subcutaneous tissue",
+    "chapterCode": "XII",
+    "block": "Other disorders of the skin and subcutaneous tissue",
+    "blockCode": "L80-L99",
+    "category": "Atrophic disorders of skin",
+    "categoryCode": "L90",
+    "subcategory": "L90.5",
+    "inclusion": [
+        "Adherent scar (skin)",
+        "Cicatrix",
+        "Disfigurement due to scar",
+        "Scar NOS"
+    ],
+    "exclusion": [
+        "certain conditions originating in the perinatal period",
+        "certain infectious and parasitic diseases",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "lipomelanotic reticulosis",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "systemic connective tissue disorders",
+        "hypertrophic scar",
+        "keloid scar"
+    ],
+    "symptoms": [
+        "skin atrophy",
+        "thinning skin",
+        "fine wrinkling",
+        "decreased elasticity",
+        "easy bruising"
+    ]
+}

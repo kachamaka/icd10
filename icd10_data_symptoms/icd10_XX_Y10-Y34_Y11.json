@@ -1,0 +1,27 @@
+{
+    "icd10code": "Y11",
+    "type": "category",
+    "title": "Poisoning by and exposure to antiepileptic, sedative-hypnotic, antiparkinsonism and psychotropic drugs, not elsewhere classified, undetermined intent",
+    "chapter": "External causes of morbidity and mortality",
+    "chapterCode": "XX",
+    "block": "Event of undetermined intent",
+    "blockCode": "Y10-Y34",
+    "category": "Poisoning by and exposure to antiepileptic, sedative-hypnotic, antiparkinsonism and psychotropic drugs, not elsewhere classified, undetermined intent",
+    "categoryCode": "Y11",
+    "subcategory": "",
+    "inclusion": [
+        "antidepressants",
+        "barbiturates",
+        "hydantoin derivatives",
+        "iminostilbenes",
+        "methaqualone compounds",
+        "neuroleptics",
+        "psychostimulants",
+        "succinimides and oxazolidinediones",
+        "tranquillizers"
+    ],
+    "exclusion": null,
+    "symptoms": [
+        "asymptomatic"
+    ]
+}

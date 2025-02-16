@@ -1,0 +1,27 @@
+{
+    "icd10code": "Q38.8",
+    "type": "subcategory",
+    "title": "Other congenital malformations of pharynx",
+    "chapter": "Congenital malformations, deformations and chromosomal abnormalities",
+    "chapterCode": "XVII",
+    "block": "Other congenital malformations of the digestive system",
+    "blockCode": "Q38-Q45",
+    "category": "Other congenital malformations of tongue, mouth and pharynx",
+    "categoryCode": "Q38",
+    "subcategory": "Q38.8",
+    "inclusion": [
+        "Congenital malformation of pharynx NOS"
+    ],
+    "exclusion": [
+        "inborn errors of metabolism",
+        "macrostomia",
+        "microstomia"
+    ],
+    "symptoms": [
+        "difficulty swallowing",
+        "abnormal tongue appearance",
+        "oral pain",
+        "speech difficulties",
+        "restricted tongue movement"
+    ]
+}

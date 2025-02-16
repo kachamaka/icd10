@@ -1,0 +1,36 @@
+{
+    "icd10code": "N02",
+    "type": "modifiedcategory",
+    "title": "Recurrent and persistent haematuria : minor glomerular abnormality",
+    "chapter": "Diseases of the genitourinary system",
+    "chapterCode": "XIV",
+    "block": "Glomerular diseases",
+    "blockCode": "N00-N08",
+    "category": "Recurrent and persistent haematuria",
+    "categoryCode": "N02",
+    "subcategory": "",
+    "inclusion": [
+        "haematuria: benign (familial)(of childhood)",
+        "haematuria: with morphological lesion specified in .0-.8 before N00.-",
+        "Minimal change lesion"
+    ],
+    "exclusion": [
+        "certain conditions originating in the perinatal period",
+        "certain infectious and parasitic diseases",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "hypertensive renal disease",
+        "renal tubulo-interstitial disorders in diseases classified elsewhere"
+    ],
+    "symptoms": [
+        "hematuria",
+        "dark urine",
+        "flank pain",
+        "urinary frequency",
+        "fever"
+    ]
+}

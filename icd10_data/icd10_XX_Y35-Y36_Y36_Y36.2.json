@@ -1,0 +1,32 @@
+{
+  "type": "subcategory",
+  "chapterCode": "XX",
+  "chapter": "External causes of morbidity and mortality",
+  "blockCode": "Y35-Y36",
+  "block": "Legal intervention and operations of war",
+  "categoryCode": "Y36",
+  "category": "Operations of war",
+  "subcategory": "Y36.2",
+  "title": "War operations involving other explosions and fragments",
+  "inclusion": [
+    "injuries to military personnel and civilians caused by war and civil insurrection",
+    "Accidental explosion of: munitions being used in war during war operations",
+    "Accidental explosion of: own weapons during war operations",
+    "Antipersonnel bomb (fragments) during war operations",
+    "Explosion (of): artillery shell during war operations",
+    "Explosion (of): breech-block during war operations",
+    "Explosion (of): cannon block during war operations",
+    "Explosion (of): mortar bomb during war operations",
+    "Fragments from: artillery shell during war operations",
+    "Fragments from: bomb during war operations",
+    "Fragments from: grenade during war operations",
+    "Fragments from: guided missile during war operations",
+    "Fragments from: land-mine during war operations",
+    "Fragments from: rocket during war operations",
+    "Fragments from: shell during war operations",
+    "Fragments from: shrapnel during war operations",
+    "Mine NOS during war operations"
+  ],
+  "exclusion": null,
+  "children": null
+}

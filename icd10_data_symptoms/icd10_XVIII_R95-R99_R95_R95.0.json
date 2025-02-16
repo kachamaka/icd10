@@ -1,0 +1,29 @@
+{
+    "icd10code": "R95.0",
+    "type": "subcategory",
+    "title": "Sudden infant death syndrome with mention of autopsy",
+    "chapter": "Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+    "chapterCode": "XVIII",
+    "block": "Ill-defined and unknown causes of mortality",
+    "blockCode": "R95-R99",
+    "category": "Sudden infant death syndrome",
+    "categoryCode": "R95",
+    "subcategory": "R95.0",
+    "inclusion": [
+        "sudden (unexplained) (infant) death (syndrome) under one year of age"
+    ],
+    "exclusion": [
+        "abnormal findings on antenatal screening of mother",
+        "certain conditions originating in the perinatal period",
+        "fetal death of unspecified cause",
+        "obstetric death NOS",
+        "sudden (unexplained) (infant) death (syndrome) age one year and over"
+    ],
+    "symptoms": [
+        "sudden cessation of breathing",
+        "unexpected infant death",
+        "unexplained cause after investigation",
+        "no signs of distress",
+        "occurs during sleep"
+    ]
+}

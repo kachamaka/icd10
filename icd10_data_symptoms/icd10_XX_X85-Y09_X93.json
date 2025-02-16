@@ -1,0 +1,27 @@
+{
+    "icd10code": "X93",
+    "type": "category",
+    "title": "Assault by handgun discharge",
+    "chapter": "External causes of morbidity and mortality",
+    "chapterCode": "XX",
+    "block": "Assault",
+    "blockCode": "X85-Y09",
+    "category": "Assault by handgun discharge",
+    "categoryCode": "X93",
+    "subcategory": "",
+    "inclusion": [
+        "homicide",
+        "injuries inflicted by another person with intent to injure or kill, by any means"
+    ],
+    "exclusion": [
+        "injuries due to: legal intervention",
+        "injuries due to: operations of war"
+    ],
+    "symptoms": [
+        "difficulty breathing",
+        "chest pain",
+        "uncontrolled bleeding",
+        "loss of consciousness",
+        "asymptomatic"
+    ]
+}

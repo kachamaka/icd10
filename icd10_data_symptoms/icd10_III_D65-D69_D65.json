@@ -1,0 +1,41 @@
+{
+    "icd10code": "D65",
+    "type": "category",
+    "title": "Disseminated intravascular coagulation [defibrination syndrome]",
+    "chapter": "Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism",
+    "chapterCode": "III",
+    "block": "Coagulation defects, purpura and other haemorrhagic conditions",
+    "blockCode": "D65-D69",
+    "category": "Disseminated intravascular coagulation [defibrination syndrome]",
+    "categoryCode": "D65",
+    "subcategory": "",
+    "inclusion": [
+        "Afibrinogenaemia, acquired",
+        "Consumption coagulopathy",
+        "Diffuse or disseminated intravascular coagulation [DIC]",
+        "Fibrinolytic haemorrhage, acquired",
+        "Purpura: fibrinolytic",
+        "Purpura: fulminans"
+    ],
+    "exclusion": [
+        "autoimmune disease (systemic) NOS",
+        "certain conditions originating in the perinatal period",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "human immunodeficiency virus [HIV] disease",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "that (complicating): abortion or ectopic or molar pregnancy",
+        "that (complicating): in newborn",
+        "that (complicating): pregnancy, childbirth and the puerperium , , ,"
+    ],
+    "symptoms": [
+        "unexplained bleeding or bruising",
+        "blood in urine or stool",
+        "prolonged bleeding from cuts",
+        "frequent nosebleeds",
+        "excessive bleeding after surgery or dental work"
+    ]
+}

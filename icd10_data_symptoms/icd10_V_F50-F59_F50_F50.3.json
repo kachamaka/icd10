@@ -1,0 +1,29 @@
+{
+    "icd10code": "F50.3",
+    "type": "subcategory",
+    "title": "Atypical bulimia nervosa",
+    "chapter": "Mental and behavioural disorders",
+    "chapterCode": "V",
+    "block": "Behavioural syndromes associated with physiological disturbances and physical factors",
+    "blockCode": "F50-F59",
+    "category": "Eating disorders",
+    "categoryCode": "F50",
+    "subcategory": "F50.3",
+    "inclusion": [
+        "disorders of psychological development"
+    ],
+    "exclusion": [
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "anorexia NOS",
+        "feeding: difficulties and mismanagement",
+        "feeding: disorder of infancy or childhood",
+        "polyphagia"
+    ],
+    "symptoms": [
+        "preoccupation with weight",
+        "excessive exercise",
+        "distorted body image",
+        "guilt after eating",
+        "anxiety about food"
+    ]
+}

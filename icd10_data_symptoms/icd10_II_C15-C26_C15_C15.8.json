@@ -1,0 +1,21 @@
+{
+    "icd10code": "C15.8",
+    "type": "subcategory",
+    "title": "Malignant neoplasm: Overlapping lesion of oesophagus",
+    "chapter": "Neoplasms",
+    "chapterCode": "II",
+    "block": "Malignant neoplasms of digestive organs",
+    "blockCode": "C15-C26",
+    "category": "Malignant neoplasm of oesophagus",
+    "categoryCode": "C15",
+    "subcategory": "C15.8",
+    "inclusion": null,
+    "exclusion": null,
+    "symptoms": [
+        "difficulty swallowing",
+        "unexplained weight loss",
+        "chest pain",
+        "persistent indigestion",
+        "coughing up blood"
+    ]
+}

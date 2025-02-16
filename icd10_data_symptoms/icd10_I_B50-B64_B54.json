@@ -1,0 +1,32 @@
+{
+    "icd10code": "B54",
+    "type": "category",
+    "title": "Unspecified malaria",
+    "chapter": "Certain infectious and parasitic diseases",
+    "chapterCode": "I",
+    "block": "Protozoal diseases",
+    "blockCode": "B50-B64",
+    "category": "Unspecified malaria",
+    "categoryCode": "B54",
+    "subcategory": "",
+    "inclusion": [
+        "diseases generally recognized as communicable or transmissible",
+        "Clinically diagnosed malaria without parasitological confirmation"
+    ],
+    "exclusion": [
+        "carrier or suspected carrier of infectious disease",
+        "certain localized infections - see body system-related chapters",
+        "infectious and parasitic diseases complicating pregnancy, childbirth and the puerperium [except obstetrical tetanus]",
+        "infectious and parasitic diseases specific to the perinatal period [except tetanus neonatorum, whooping cough, congenital syphilis, perinatal gonococcal infection and perinatal human immunodeficiency virus [HIV] disease]",
+        "influenza and other acute respiratory infections",
+        "capillariasis: NOS",
+        "capillariasis: intestinal"
+    ],
+    "symptoms": [
+        "fever",
+        "chills",
+        "headache",
+        "sweats",
+        "fatigue"
+    ]
+}

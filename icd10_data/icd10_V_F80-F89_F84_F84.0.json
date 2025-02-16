@@ -1,0 +1,23 @@
+{
+  "type": "subcategory",
+  "chapterCode": "V",
+  "chapter": "Mental and behavioural disorders",
+  "blockCode": "F80-F89",
+  "block": "Disorders of psychological development",
+  "categoryCode": "F84",
+  "category": "Pervasive developmental disorders",
+  "subcategory": "F84.0",
+  "title": "Childhood autism",
+  "inclusion": [
+    "disorders of psychological development",
+    "Autistic disorder",
+    "Infantile: autism",
+    "Infantile: psychosis",
+    "Kanner syndrome"
+  ],
+  "exclusion": [
+    "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+    "autistic psychopathy"
+  ],
+  "children": null
+}

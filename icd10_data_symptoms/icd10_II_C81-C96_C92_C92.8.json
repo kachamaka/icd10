@@ -1,0 +1,26 @@
+{
+    "icd10code": "C92.8",
+    "type": "subcategory",
+    "title": "Acute myeloid leukaemia with multilineage dysplasia",
+    "chapter": "Neoplasms",
+    "chapterCode": "II",
+    "block": "Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",
+    "blockCode": "C81-C96",
+    "category": "Myeloid leukaemia",
+    "categoryCode": "C92",
+    "subcategory": "C92.8",
+    "inclusion": [
+        "leukaemia: granulocytic",
+        "leukaemia: myelogenous"
+    ],
+    "exclusion": [
+        "secondary and unspecified neoplasm of lymph nodes"
+    ],
+    "symptoms": [
+        "fatigue",
+        "fever",
+        "weight loss",
+        "bone pain",
+        "easy bleeding or bruising"
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "icd10code": "E74.8",
+    "type": "subcategory",
+    "title": "Other specified disorders of carbohydrate metabolism",
+    "chapter": "Endocrine, nutritional and metabolic diseases",
+    "chapterCode": "IV",
+    "block": "Metabolic disorders",
+    "blockCode": "E70-E90",
+    "category": "Other disorders of carbohydrate metabolism",
+    "categoryCode": "E74",
+    "subcategory": "E74.8",
+    "inclusion": [
+        "Essential pentosuria",
+        "Oxalosis",
+        "Oxaluria",
+        "Renal glycosuria"
+    ],
+    "exclusion": [
+        "complications of pregnancy, childbirth and the puerperium",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "transitory endocrine and metabolic disorders specific to fetus and newborn",
+        "androgen resistance syndrome",
+        "congenital adrenal hyperplasia",
+        "Ehlers-Danlos syndrome",
+        "haemolytic anaemias due to enzyme disorders",
+        "Marfan syndrome",
+        "5-alpha-reductase deficiency",
+        "Schilder disease",
+        "hypovolaemic shock: NOS",
+        "hypovolaemic shock: postoperative",
+        "hypovolaemic shock: traumatic"
+    ],
+    "symptoms": [
+        "abdominal pain",
+        "bloating",
+        "vomiting",
+        "diarrhea",
+        "failure to thrive"
+    ]
+}

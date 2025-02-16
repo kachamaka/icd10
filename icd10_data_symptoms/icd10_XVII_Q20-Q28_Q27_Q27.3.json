@@ -1,0 +1,31 @@
+{
+    "icd10code": "Q27.3",
+    "type": "subcategory",
+    "title": "Peripheral arteriovenous malformation",
+    "chapter": "Congenital malformations, deformations and chromosomal abnormalities",
+    "chapterCode": "XVII",
+    "block": "Congenital malformations of the circulatory system",
+    "blockCode": "Q20-Q28",
+    "category": "Other congenital malformations of peripheral vascular system",
+    "categoryCode": "Q27",
+    "subcategory": "Q27.3",
+    "inclusion": [
+        "Arteriovenous aneurysm"
+    ],
+    "exclusion": [
+        "inborn errors of metabolism",
+        "anomalies of: cerebral and precerebral vessels",
+        "anomalies of: coronary vessels",
+        "anomalies of: pulmonary artery",
+        "congenital retinal aneurysm",
+        "haemangioma and lymphangioma",
+        "acquired arteriovenous aneurysm"
+    ],
+    "symptoms": [
+        "abnormal blood vessel growth",
+        "excessive bleeding",
+        "bruising",
+        "discoloration of skin",
+        "vascular malformations"
+    ]
+}

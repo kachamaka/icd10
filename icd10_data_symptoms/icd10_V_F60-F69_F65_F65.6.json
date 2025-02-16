@@ -1,0 +1,26 @@
+{
+    "icd10code": "F65.6",
+    "type": "subcategory",
+    "title": "Multiple disorders of sexual preference",
+    "chapter": "Mental and behavioural disorders",
+    "chapterCode": "V",
+    "block": "Disorders of adult personality and behaviour",
+    "blockCode": "F60-F69",
+    "category": "Disorders of sexual preference",
+    "categoryCode": "F65",
+    "subcategory": "F65.6",
+    "inclusion": [
+        "disorders of psychological development",
+        "paraphilias"
+    ],
+    "exclusion": [
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified"
+    ],
+    "symptoms": [
+        "fantasies",
+        "compulsions",
+        "distress",
+        "difficulties in relationships",
+        "impacted daily functioning"
+    ]
+}

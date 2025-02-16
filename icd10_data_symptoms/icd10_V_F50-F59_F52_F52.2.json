@@ -1,0 +1,30 @@
+{
+    "icd10code": "F52.2",
+    "type": "subcategory",
+    "title": "Failure of genital response",
+    "chapter": "Mental and behavioural disorders",
+    "chapterCode": "V",
+    "block": "Behavioural syndromes associated with physiological disturbances and physical factors",
+    "blockCode": "F50-F59",
+    "category": "Sexual dysfunction, not caused by organic disorder or disease",
+    "categoryCode": "F52",
+    "subcategory": "F52.2",
+    "inclusion": [
+        "disorders of psychological development",
+        "Female sexual arousal disorder",
+        "Male erectile disorder",
+        "Psychogenic impotence"
+    ],
+    "exclusion": [
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "Dhat syndrome",
+        "impotence of organic origin"
+    ],
+    "symptoms": [
+        "decreased libido",
+        "difficulty achieving orgasm",
+        "lack of sexual satisfaction",
+        "reduced sexual interest",
+        "sexual aversion"
+    ]
+}

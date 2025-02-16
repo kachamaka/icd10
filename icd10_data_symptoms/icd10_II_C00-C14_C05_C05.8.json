@@ -1,0 +1,21 @@
+{
+    "icd10code": "C05.8",
+    "type": "subcategory",
+    "title": "Malignant neoplasm: Overlapping lesion of palate",
+    "chapter": "Neoplasms",
+    "chapterCode": "II",
+    "block": "Malignant neoplasms of lip, oral cavity and pharynx",
+    "blockCode": "C00-C14",
+    "category": "Malignant neoplasm of palate",
+    "categoryCode": "C05",
+    "subcategory": "C05.8",
+    "inclusion": null,
+    "exclusion": null,
+    "symptoms": [
+        "dysphagia",
+        "sore throat",
+        "mouth ulcers",
+        "difficulty opening mouth",
+        "swollen lymph nodes"
+    ]
+}

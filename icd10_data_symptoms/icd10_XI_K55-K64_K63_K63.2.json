@@ -1,0 +1,35 @@
+{
+    "icd10code": "K63.2",
+    "type": "subcategory",
+    "title": "Fistula of intestine",
+    "chapter": "Diseases of the digestive system",
+    "chapterCode": "XI",
+    "block": "Other diseases of intestines",
+    "blockCode": "K55-K64",
+    "category": "Other diseases of intestine",
+    "categoryCode": "K63",
+    "subcategory": "K63.2",
+    "inclusion": null,
+    "exclusion": [
+        "certain conditions originating in the perinatal period",
+        "certain infectious and parasitic diseases",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "fistula (of): anal and rectal regions",
+        "fistula (of): appendix",
+        "fistula (of): duodenum",
+        "fistula (of): intestinal-genital, female",
+        "fistula (of): vesicointestinal"
+    ],
+    "symptoms": [
+        "abdominal pain",
+        "rectal bleeding",
+        "mucus in stool",
+        "diarrhea",
+        "constipation"
+    ]
+}

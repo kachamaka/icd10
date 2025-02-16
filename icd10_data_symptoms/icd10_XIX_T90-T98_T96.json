@@ -1,0 +1,31 @@
+{
+    "icd10code": "T96",
+    "type": "category",
+    "title": "Sequelae of poisoning by drugs, medicaments and biological substances",
+    "chapter": "Injury, poisoning and certain other consequences of external causes",
+    "chapterCode": "XIX",
+    "block": "Sequelae of injuries, of poisoning and of other consequences of external causes",
+    "blockCode": "T90-T98",
+    "category": "Sequelae of poisoning by drugs, medicaments and biological substances",
+    "categoryCode": "T96",
+    "subcategory": "",
+    "inclusion": [
+        "Sequelae of poisoning classifiable to T36-T50"
+    ],
+    "exclusion": [
+        "birth trauma",
+        "obstetric trauma",
+        "malunion of fracture",
+        "nonunion of fracture [pseudarthrosis]",
+        "pathological fracture",
+        "pathological fracture with osteoporosis",
+        "stress fracture"
+    ],
+    "symptoms": [
+        "fatigue",
+        "difficulty breathing",
+        "chronic cough",
+        "chest pain",
+        "impaired pulmonary function"
+    ]
+}

@@ -1,0 +1,36 @@
+{
+    "icd10code": "L72.1",
+    "type": "subcategory",
+    "title": "Trichilemmal cyst",
+    "chapter": "Diseases of the skin and subcutaneous tissue",
+    "chapterCode": "XII",
+    "block": "Disorders of skin appendages",
+    "blockCode": "L60-L75",
+    "category": "Follicular cysts of skin and subcutaneous tissue",
+    "categoryCode": "L72",
+    "subcategory": "L72.1",
+    "inclusion": [
+        "Pilar cyst",
+        "Sebaceous cyst"
+    ],
+    "exclusion": [
+        "certain conditions originating in the perinatal period",
+        "certain infectious and parasitic diseases",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "lipomelanotic reticulosis",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "systemic connective tissue disorders",
+        "decubitus [pressure] ulcer and pressure area"
+    ],
+    "symptoms": [
+        "localized pain",
+        "swelling",
+        "redness",
+        "tenderness",
+        "and presence of a sebaceous cyst"
+    ]
+}

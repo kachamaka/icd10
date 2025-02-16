@@ -1,0 +1,21 @@
+{
+  "type": "subcategory",
+  "chapterCode": "II",
+  "chapter": "Neoplasms",
+  "blockCode": "D10-D36",
+  "block": "Benign neoplasms",
+  "categoryCode": "D29",
+  "category": "Benign neoplasm of male genital organs",
+  "subcategory": "D29.1",
+  "title": "Benign neoplasm: Prostate",
+  "inclusion": [
+    "morphology codes with behaviour code /0",
+    "skin of male genital organs"
+  ],
+  "exclusion": [
+    "hyperplasia of prostate (adenomatous)",
+    "prostatic: enlargement",
+    "prostatic: hypertrophy"
+  ],
+  "children": null
+}

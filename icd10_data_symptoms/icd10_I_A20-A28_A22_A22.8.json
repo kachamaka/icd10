@@ -1,0 +1,31 @@
+{
+    "icd10code": "A22.8",
+    "type": "subcategory",
+    "title": "Other forms of anthrax",
+    "chapter": "Certain infectious and parasitic diseases",
+    "chapterCode": "I",
+    "block": "Certain zoonotic bacterial diseases",
+    "blockCode": "A20-A28",
+    "category": "Anthrax",
+    "categoryCode": "A22",
+    "subcategory": "A22.8",
+    "inclusion": [
+        "diseases generally recognized as communicable or transmissible",
+        "infection due to Bacillus anthracis",
+        "Anthrax meningitis"
+    ],
+    "exclusion": [
+        "carrier or suspected carrier of infectious disease",
+        "certain localized infections - see body system-related chapters",
+        "infectious and parasitic diseases complicating pregnancy, childbirth and the puerperium [except obstetrical tetanus]",
+        "infectious and parasitic diseases specific to the perinatal period [except tetanus neonatorum, whooping cough, congenital syphilis, perinatal gonococcal infection and perinatal human immunodeficiency virus [HIV] disease]",
+        "influenza and other acute respiratory infections"
+    ],
+    "symptoms": [
+        "fever",
+        "fatigue",
+        "headache",
+        "cough",
+        "chest pain"
+    ]
+}

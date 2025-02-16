@@ -1,0 +1,31 @@
+{
+    "icd10code": "P78.9",
+    "type": "subcategory",
+    "title": "Perinatal digestive system disorder, unspecified",
+    "chapter": "Certain conditions originating in the perinatal period",
+    "chapterCode": "XVI",
+    "block": "Digestive system disorders of fetus and newborn",
+    "blockCode": "P75-P78",
+    "category": "Other perinatal digestive system disorders",
+    "categoryCode": "P78",
+    "subcategory": "P78.9",
+    "inclusion": [
+        "conditions that have their origin in the perinatal period even though death or morbidity occurs later"
+    ],
+    "exclusion": [
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "tetanus neonatorum",
+        "whooping cough",
+        "neonatal hypoparathyroidism"
+    ],
+    "symptoms": [
+        "abdominal distension",
+        "feeding difficulties",
+        "vomiting",
+        "diarrhea",
+        "failure to thrive"
+    ]
+}

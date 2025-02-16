@@ -1,0 +1,23 @@
+{
+    "icd10code": "D43.4",
+    "type": "subcategory",
+    "title": "Neoplasm of uncertain or unknown behaviour: Spinal cord",
+    "chapter": "Neoplasms",
+    "chapterCode": "II",
+    "block": "Neoplasms of uncertain or unknown behaviour",
+    "blockCode": "D37-D48",
+    "category": "Neoplasm of uncertain or unknown behaviour of brain and central nervous system",
+    "categoryCode": "D43",
+    "subcategory": "D43.4",
+    "inclusion": null,
+    "exclusion": [
+        "peripheral nerves and autonomic nervous system"
+    ],
+    "symptoms": [
+        "headaches",
+        "seizures",
+        "changes in personality or behavior",
+        "cognitive decline",
+        "problems with speech"
+    ]
+}

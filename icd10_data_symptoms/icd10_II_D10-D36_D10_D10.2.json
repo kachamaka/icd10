@@ -1,0 +1,23 @@
+{
+    "icd10code": "D10.2",
+    "type": "subcategory",
+    "title": "Benign neoplasm: Floor of mouth",
+    "chapter": "Neoplasms",
+    "chapterCode": "II",
+    "block": "Benign neoplasms",
+    "blockCode": "D10-D36",
+    "category": "Benign neoplasm of mouth and pharynx",
+    "categoryCode": "D10",
+    "subcategory": "D10.2",
+    "inclusion": [
+        "morphology codes with behaviour code /0"
+    ],
+    "exclusion": null,
+    "symptoms": [
+        "difficulty swallowing",
+        "hoarseness",
+        "persistent cough",
+        "sore throat",
+        "change in voice"
+    ]
+}

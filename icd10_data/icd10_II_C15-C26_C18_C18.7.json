@@ -1,0 +1,18 @@
+{
+  "type": "subcategory",
+  "chapterCode": "II",
+  "chapter": "Neoplasms",
+  "blockCode": "C15-C26",
+  "block": "Malignant neoplasms of digestive organs",
+  "categoryCode": "C18",
+  "category": "Malignant neoplasm of colon",
+  "subcategory": "C18.7",
+  "title": "Malignant neoplasm: Sigmoid colon",
+  "inclusion": [
+    "Sigmoid (flexure)"
+  ],
+  "exclusion": [
+    "rectosigmoid junction"
+  ],
+  "children": null
+}

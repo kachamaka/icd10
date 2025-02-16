@@ -1,0 +1,30 @@
+{
+    "icd10code": "R59.0",
+    "type": "subcategory",
+    "title": "Localized enlarged lymph nodes",
+    "chapter": "Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+    "chapterCode": "XVIII",
+    "block": "General symptoms and signs",
+    "blockCode": "R50-R69",
+    "category": "Enlarged lymph nodes",
+    "categoryCode": "R59",
+    "subcategory": "R59.0",
+    "inclusion": [
+        "swollen glands"
+    ],
+    "exclusion": [
+        "abnormal findings on antenatal screening of mother",
+        "certain conditions originating in the perinatal period",
+        "lymphadenitis: NOS",
+        "lymphadenitis: acute",
+        "lymphadenitis: chronic",
+        "lymphadenitis: mesenteric (acute)(chronic)"
+    ],
+    "symptoms": [
+        "swollen lymph nodes",
+        "localized tenderness",
+        "visible lump under skin",
+        "reduced range of motion",
+        "mild fever"
+    ]
+}

@@ -1,0 +1,24 @@
+{
+  "type": "subcategory",
+  "chapterCode": "XVI",
+  "chapter": "Certain conditions originating in the perinatal period",
+  "blockCode": "P80-P83",
+  "block": "Conditions involving the integument and temperature regulation of fetus and newborn",
+  "categoryCode": "P81",
+  "category": "Other disturbances of temperature regulation of newborn",
+  "subcategory": "P81.9",
+  "title": "Disturbance of temperature regulation of newborn, unspecified",
+  "inclusion": [
+    "conditions that have their origin in the perinatal period even though death or morbidity occurs later",
+    "Fever of newborn NOS"
+  ],
+  "exclusion": [
+    "congenital malformations, deformations and chromosomal abnormalities",
+    "endocrine, nutritional and metabolic diseases",
+    "injury, poisoning and certain other consequences of external causes",
+    "neoplasms",
+    "tetanus neonatorum",
+    "whooping cough"
+  ],
+  "children": null
+}

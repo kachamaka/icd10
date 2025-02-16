@@ -1,0 +1,28 @@
+{
+    "icd10code": "Q51.0",
+    "type": "subcategory",
+    "title": "Agenesis and aplasia of uterus",
+    "chapter": "Congenital malformations, deformations and chromosomal abnormalities",
+    "chapterCode": "XVII",
+    "block": "Congenital malformations of genital organs",
+    "blockCode": "Q50-Q56",
+    "category": "Congenital malformations of uterus and cervix",
+    "categoryCode": "Q51",
+    "subcategory": "Q51.0",
+    "inclusion": [
+        "Congenital absence of uterus"
+    ],
+    "exclusion": [
+        "inborn errors of metabolism",
+        "androgen resistance syndrome",
+        "syndromes associated with anomalies in the number and form of chromosomes",
+        "testicular feminization syndrome"
+    ],
+    "symptoms": [
+        "abdominal pain",
+        "irregular menstruation",
+        "pelvic mass",
+        "infertility",
+        "recurrent miscarriage"
+    ]
+}

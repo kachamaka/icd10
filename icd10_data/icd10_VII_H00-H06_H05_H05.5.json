@@ -1,0 +1,26 @@
+{
+  "type": "subcategory",
+  "chapterCode": "VII",
+  "chapter": "Diseases of the eye and adnexa",
+  "blockCode": "H00-H06",
+  "block": "Disorders of eyelid, lacrimal system and orbit",
+  "categoryCode": "H05",
+  "category": "Disorders of orbit",
+  "subcategory": "H05.5",
+  "title": "Retained (old) foreign body following penetrating wound of orbit",
+  "inclusion": [
+    "Retrobulbar foreign body"
+  ],
+  "exclusion": [
+    "certain conditions originating in the perinatal period",
+    "certain infectious and parasitic diseases",
+    "complications of pregnancy, childbirth and the puerperium",
+    "congenital malformations, deformations and chromosomal abnormalities",
+    "endocrine, nutritional and metabolic diseases",
+    "injury, poisoning and certain other consequences of external causes",
+    "neoplasms",
+    "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+    "congenital malformation of orbit"
+  ],
+  "children": null
+}

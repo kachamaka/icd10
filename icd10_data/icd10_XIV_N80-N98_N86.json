@@ -1,0 +1,27 @@
+{
+  "type": "category",
+  "chapterCode": "XIV",
+  "chapter": "Diseases of the genitourinary system",
+  "blockCode": "N80-N98",
+  "block": "Noninflammatory disorders of female genital tract",
+  "categoryCode": "N86",
+  "category": "Erosion and ectropion of cervix uteri",
+  "subcategory": "",
+  "title": "Erosion and ectropion of cervix uteri",
+  "inclusion": [
+    "Decubitus (trophic) ulcer of cervix",
+    "Eversion of cervix"
+  ],
+  "exclusion": [
+    "certain conditions originating in the perinatal period",
+    "certain infectious and parasitic diseases",
+    "complications of pregnancy, childbirth and the puerperium",
+    "congenital malformations, deformations and chromosomal abnormalities",
+    "endocrine, nutritional and metabolic diseases",
+    "injury, poisoning and certain other consequences of external causes",
+    "neoplasms",
+    "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+    "with cervicitis"
+  ],
+  "children": null
+}

@@ -1,0 +1,14 @@
+{
+  "type": "category",
+  "chapterCode": "XX",
+  "chapter": "External causes of morbidity and mortality",
+  "blockCode": "Y10-Y34",
+  "block": "Event of undetermined intent",
+  "categoryCode": "Y33",
+  "category": "Other specified events, undetermined intent",
+  "subcategory": "",
+  "title": "Other specified events, undetermined intent",
+  "inclusion": null,
+  "exclusion": null,
+  "children": null
+}

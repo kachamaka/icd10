@@ -1,0 +1,36 @@
+{
+    "icd10code": "O21.1",
+    "type": "subcategory",
+    "title": "Hyperemesis gravidarum with metabolic disturbance",
+    "chapter": "Pregnancy, childbirth and the puerperium",
+    "chapterCode": "XV",
+    "block": "Other maternal disorders predominantly related to pregnancy",
+    "blockCode": "O20-O29",
+    "category": "Excessive vomiting in pregnancy",
+    "categoryCode": "O21",
+    "subcategory": "O21.1",
+    "inclusion": [
+        "Hyperemesis gravidarum, starting before the end of the 22nd week of gestation, with metabolic disturbance such as: carbohydrate depletion",
+        "Hyperemesis gravidarum, starting before the end of the 22nd week of gestation, with metabolic disturbance such as: dehydration",
+        "Hyperemesis gravidarum, starting before the end of the 22nd week of gestation, with metabolic disturbance such as: electrolyte imbalance"
+    ],
+    "exclusion": [
+        "Certain diseases or injuries complicating pregnancy, childbirth and the puerperium classified elsewhere: external causes (for mortality)",
+        "Certain diseases or injuries complicating pregnancy, childbirth and the puerperium classified elsewhere: injury, poisoning and certain other consequences of external cause",
+        "Certain diseases or injuries complicating pregnancy, childbirth and the puerperium classified elsewhere: mental and behavioural disorders associated with the puerperium",
+        "Certain diseases or injuries complicating pregnancy, childbirth and the puerperium classified elsewhere: obstetrical tetanus",
+        "Certain diseases or injuries complicating pregnancy, childbirth and the puerperium classified elsewhere: postpartum necrosis of pituitary gland",
+        "Certain diseases or injuries complicating pregnancy, childbirth and the puerperium classified elsewhere: puerperal osteomalacia",
+        "supervision of: high-risk pregnancy",
+        "supervision of: normal pregnancy",
+        "maternal: care related to the fetus and amniotic cavity and possible delivery problems",
+        "maternal: diseases classifiable elsewhere but complicating pregnancy, labour and delivery, and the puerperium"
+    ],
+    "symptoms": [
+        "persistent nausea",
+        "excessive vomiting",
+        "dehydration",
+        "fatigue",
+        "weight loss"
+    ]
+}

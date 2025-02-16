@@ -1,0 +1,26 @@
+{
+    "icd10code": "F71",
+    "type": "modifiedcategory",
+    "title": "Moderate mental retardation : significant impairment of behaviour requiring attention or treatment",
+    "chapter": "Mental and behavioural disorders",
+    "chapterCode": "V",
+    "block": "Mental retardation",
+    "blockCode": "F70-F79",
+    "category": "Moderate mental retardation",
+    "categoryCode": "F71",
+    "subcategory": "",
+    "inclusion": [
+        "disorders of psychological development",
+        "moderate mental subnormality"
+    ],
+    "exclusion": [
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified"
+    ],
+    "symptoms": [
+        "impaired social skills",
+        "difficulty learning new skills",
+        "difficulty solving problems",
+        "language development delay",
+        "poor memory"
+    ]
+}

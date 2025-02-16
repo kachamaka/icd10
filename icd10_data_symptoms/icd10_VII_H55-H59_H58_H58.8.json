@@ -1,0 +1,36 @@
+{
+    "icd10code": "H58.8",
+    "type": "subcategory",
+    "title": "Other specified disorders of eye and adnexa in diseases classified elsewhere",
+    "chapter": "Diseases of the eye and adnexa",
+    "chapterCode": "VII",
+    "block": "Other disorders of eye and adnexa",
+    "blockCode": "H55-H59",
+    "category": "Other disorders of eye and adnexa in diseases classified elsewhere",
+    "categoryCode": "H58",
+    "subcategory": "H58.8",
+    "inclusion": [
+        "Syphilitic oculopathy NEC: congenital: early",
+        "Syphilitic oculopathy NEC: congenital: late",
+        "Syphilitic oculopathy NEC: early (secondary)",
+        "Syphilitic oculopathy NEC: late",
+        "Thyroid (thyrotoxic) eye disease"
+    ],
+    "exclusion": [
+        "certain conditions originating in the perinatal period",
+        "certain infectious and parasitic diseases",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified"
+    ],
+    "symptoms": [
+        "blurred vision",
+        "eye discomfort",
+        "dry eyes",
+        "light sensitivity",
+        "eye redness"
+    ]
+}

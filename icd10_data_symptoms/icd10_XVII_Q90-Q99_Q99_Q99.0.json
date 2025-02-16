@@ -1,0 +1,25 @@
+{
+    "icd10code": "Q99.0",
+    "type": "subcategory",
+    "title": "Chimera 46,XX/46,XY",
+    "chapter": "Congenital malformations, deformations and chromosomal abnormalities",
+    "chapterCode": "XVII",
+    "block": "Chromosomal abnormalities, not elsewhere classified",
+    "blockCode": "Q90-Q99",
+    "category": "Other chromosome abnormalities, not elsewhere classified",
+    "categoryCode": "Q99",
+    "subcategory": "Q99.0",
+    "inclusion": [
+        "Chimera 46,XX/46,XY true hermaphrodite"
+    ],
+    "exclusion": [
+        "inborn errors of metabolism"
+    ],
+    "symptoms": [
+        "developmental delay",
+        "intellectual disability",
+        "short stature",
+        "distinct facial features",
+        "infertility"
+    ]
+}

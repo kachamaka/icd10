@@ -1,0 +1,16 @@
+{
+  "type": "subcategory",
+  "chapterCode": "XXI",
+  "chapter": "Factors influencing health status and contact with health services",
+  "blockCode": "Z00-Z13",
+  "block": "Persons encountering health services for examination and investigation",
+  "categoryCode": "Z12",
+  "category": "Special screening examination for neoplasms",
+  "subcategory": "Z12.0",
+  "title": "Special screening examination for neoplasm of stomach",
+  "inclusion": null,
+  "exclusion": [
+    "examinations related to pregnancy and reproduction"
+  ],
+  "children": null
+}

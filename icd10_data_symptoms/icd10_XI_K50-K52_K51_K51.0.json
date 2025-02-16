@@ -1,0 +1,35 @@
+{
+    "icd10code": "K51.0",
+    "type": "subcategory",
+    "title": "Ulcerative (chronic) pancolitis",
+    "chapter": "Diseases of the digestive system",
+    "chapterCode": "XI",
+    "block": "Noninfective enteritis and colitis",
+    "blockCode": "K50-K52",
+    "category": "Ulcerative colitis",
+    "categoryCode": "K51",
+    "subcategory": "K51.0",
+    "inclusion": [
+        "noninfective inflammatory bowel disease",
+        "backwash ileitis"
+    ],
+    "exclusion": [
+        "certain conditions originating in the perinatal period",
+        "certain infectious and parasitic diseases",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "irritable bowel syndrome",
+        "megacolon"
+    ],
+    "symptoms": [
+        "abdominal pain",
+        "diarrhea",
+        "weight loss",
+        "fatigue",
+        "rectal bleeding"
+    ]
+}

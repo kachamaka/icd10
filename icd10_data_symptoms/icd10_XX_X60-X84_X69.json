@@ -1,0 +1,27 @@
+{
+    "icd10code": "X69",
+    "type": "category",
+    "title": "Intentional self-poisoning by and exposure to other and unspecified chemicals and noxious substances",
+    "chapter": "External causes of morbidity and mortality",
+    "chapterCode": "XX",
+    "block": "Intentional self-harm",
+    "blockCode": "X60-X84",
+    "category": "Intentional self-poisoning by and exposure to other and unspecified chemicals and noxious substances",
+    "categoryCode": "X69",
+    "subcategory": "",
+    "inclusion": [
+        "purposely self-inflicted poisoning or injury",
+        "suicide (attempted)",
+        "corrosive aromatics, acids and caustic alkalis",
+        "glues and adhesives",
+        "metals including fumes and vapours",
+        "paints and dyes",
+        "plant foods and fertilizers",
+        "poisonous foodstuffs and poisonous plants",
+        "soaps and detergents"
+    ],
+    "exclusion": null,
+    "symptoms": [
+        "asymptomatic"
+    ]
+}

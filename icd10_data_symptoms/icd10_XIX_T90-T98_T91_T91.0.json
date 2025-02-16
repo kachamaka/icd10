@@ -1,0 +1,31 @@
+{
+    "icd10code": "T91.0",
+    "type": "subcategory",
+    "title": "Sequelae of superficial injury and open wound of neck and trunk",
+    "chapter": "Injury, poisoning and certain other consequences of external causes",
+    "chapterCode": "XIX",
+    "block": "Sequelae of injuries, of poisoning and of other consequences of external causes",
+    "blockCode": "T90-T98",
+    "category": "Sequelae of injuries of neck and trunk",
+    "categoryCode": "T91",
+    "subcategory": "T91.0",
+    "inclusion": [
+        "Sequelae of injury classifiable to S10-S11, S20-S21, S30-S31 and T09.0-T09.1"
+    ],
+    "exclusion": [
+        "birth trauma",
+        "obstetric trauma",
+        "malunion of fracture",
+        "nonunion of fracture [pseudarthrosis]",
+        "pathological fracture",
+        "pathological fracture with osteoporosis",
+        "stress fracture"
+    ],
+    "symptoms": [
+        "scar tissue",
+        "pain at the site",
+        "restricted mobility",
+        "skin sensitivity",
+        "stiffness"
+    ]
+}

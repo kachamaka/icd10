@@ -1,0 +1,27 @@
+{
+  "type": "subcategory",
+  "chapterCode": "XVI",
+  "chapter": "Certain conditions originating in the perinatal period",
+  "blockCode": "P10-P15",
+  "block": "Birth trauma",
+  "categoryCode": "P10",
+  "category": "Intracranial laceration and haemorrhage due to birth injury",
+  "subcategory": "P10.0",
+  "title": "Subdural haemorrhage due to birth injury",
+  "inclusion": [
+    "conditions that have their origin in the perinatal period even though death or morbidity occurs later",
+    "Subdural haematoma (localized) due to birth injury"
+  ],
+  "exclusion": [
+    "congenital malformations, deformations and chromosomal abnormalities",
+    "endocrine, nutritional and metabolic diseases",
+    "injury, poisoning and certain other consequences of external causes",
+    "neoplasms",
+    "tetanus neonatorum",
+    "whooping cough",
+    "single umbilical artery",
+    "early congenital syphilitic rhinitis",
+    "subdural haemorrhage accompanying tentorial tear"
+  ],
+  "children": null
+}

@@ -1,0 +1,27 @@
+{
+    "icd10code": "E64.0",
+    "type": "subcategory",
+    "title": "Sequelae of protein-energy malnutrition",
+    "chapter": "Endocrine, nutritional and metabolic diseases",
+    "chapterCode": "IV",
+    "block": "Other nutritional deficiencies",
+    "blockCode": "E50-E64",
+    "category": "Sequelae of malnutrition and other nutritional deficiencies",
+    "categoryCode": "E64",
+    "subcategory": "E64.0",
+    "inclusion": null,
+    "exclusion": [
+        "complications of pregnancy, childbirth and the puerperium",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "transitory endocrine and metabolic disorders specific to fetus and newborn",
+        "transitory congenital goitre with normal function",
+        "retarded development following protein-energy malnutrition"
+    ],
+    "symptoms": [
+        "delayed growth",
+        "reduced muscle mass",
+        "irritability",
+        "difficulty gaining weight",
+        "frequent infections"
+    ]
+}

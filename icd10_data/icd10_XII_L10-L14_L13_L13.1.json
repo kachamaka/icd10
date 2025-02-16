@@ -1,0 +1,30 @@
+{
+  "type": "subcategory",
+  "chapterCode": "XII",
+  "chapter": "Diseases of the skin and subcutaneous tissue",
+  "blockCode": "L10-L14",
+  "block": "Bullous disorders",
+  "categoryCode": "L13",
+  "category": "Other bullous disorders",
+  "subcategory": "L13.1",
+  "title": "Subcorneal pustular dermatitis",
+  "inclusion": [
+    "Sneddon-Wilkinson disease"
+  ],
+  "exclusion": [
+    "certain conditions originating in the perinatal period",
+    "certain infectious and parasitic diseases",
+    "complications of pregnancy, childbirth and the puerperium",
+    "congenital malformations, deformations and chromosomal abnormalities",
+    "endocrine, nutritional and metabolic diseases",
+    "injury, poisoning and certain other consequences of external causes",
+    "lipomelanotic reticulosis",
+    "neoplasms",
+    "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+    "systemic connective tissue disorders",
+    "decubitus [pressure] ulcer and pressure area",
+    "gangrene",
+    "skin infections"
+  ],
+  "children": null
+}

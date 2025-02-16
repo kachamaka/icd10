@@ -1,0 +1,30 @@
+{
+    "icd10code": "O84.1",
+    "type": "subcategory",
+    "title": "Multiple delivery, all by forceps and vacuum extractor",
+    "chapter": "Pregnancy, childbirth and the puerperium",
+    "chapterCode": "XV",
+    "block": "Delivery",
+    "blockCode": "O80-O84",
+    "category": "Multiple delivery",
+    "categoryCode": "O84",
+    "subcategory": "O84.1",
+    "inclusion": null,
+    "exclusion": [
+        "Certain diseases or injuries complicating pregnancy, childbirth and the puerperium classified elsewhere: external causes (for mortality)",
+        "Certain diseases or injuries complicating pregnancy, childbirth and the puerperium classified elsewhere: injury, poisoning and certain other consequences of external cause",
+        "Certain diseases or injuries complicating pregnancy, childbirth and the puerperium classified elsewhere: mental and behavioural disorders associated with the puerperium",
+        "Certain diseases or injuries complicating pregnancy, childbirth and the puerperium classified elsewhere: obstetrical tetanus",
+        "Certain diseases or injuries complicating pregnancy, childbirth and the puerperium classified elsewhere: postpartum necrosis of pituitary gland",
+        "Certain diseases or injuries complicating pregnancy, childbirth and the puerperium classified elsewhere: puerperal osteomalacia",
+        "supervision of: high-risk pregnancy",
+        "supervision of: normal pregnancy"
+    ],
+    "symptoms": [
+        "prolonged labor",
+        "uterine atony",
+        "retained placenta",
+        "postpartum hemorrhage",
+        "maternal exhaustion"
+    ]
+}

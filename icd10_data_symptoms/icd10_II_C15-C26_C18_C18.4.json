@@ -1,0 +1,21 @@
+{
+    "icd10code": "C18.4",
+    "type": "subcategory",
+    "title": "Malignant neoplasm: Transverse colon",
+    "chapter": "Neoplasms",
+    "chapterCode": "II",
+    "block": "Malignant neoplasms of digestive organs",
+    "blockCode": "C15-C26",
+    "category": "Malignant neoplasm of colon",
+    "categoryCode": "C18",
+    "subcategory": "C18.4",
+    "inclusion": null,
+    "exclusion": null,
+    "symptoms": [
+        "abdominal pain",
+        "change in bowel habits",
+        "blood in stool",
+        "weight loss",
+        "constant feeling of tiredness"
+    ]
+}

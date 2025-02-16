@@ -1,0 +1,25 @@
+{
+  "type": "subcategory",
+  "chapterCode": "XIX",
+  "chapter": "Injury, poisoning and certain other consequences of external causes",
+  "blockCode": "T66-T78",
+  "block": "Other and unspecified effects of external causes",
+  "categoryCode": "T70",
+  "category": "Effects of air pressure and water pressure",
+  "subcategory": "T70.0",
+  "title": "Otitic barotrauma",
+  "inclusion": [
+    "Aero-otitis media",
+    "Effects of change in ambient atmospheric pressure or water pressure on ears"
+  ],
+  "exclusion": [
+    "birth trauma",
+    "obstetric trauma",
+    "malunion of fracture",
+    "nonunion of fracture [pseudarthrosis]",
+    "pathological fracture",
+    "pathological fracture with osteoporosis",
+    "stress fracture"
+  ],
+  "children": null
+}

@@ -1,0 +1,32 @@
+{
+    "icd10code": "F44.6",
+    "type": "subcategory",
+    "title": "Dissociative anaesthesia and sensory loss",
+    "chapter": "Mental and behavioural disorders",
+    "chapterCode": "V",
+    "block": "Neurotic, stress-related and somatoform disorders",
+    "blockCode": "F40-F48",
+    "category": "Dissociative [conversion] disorders",
+    "categoryCode": "F44",
+    "subcategory": "F44.6",
+    "inclusion": [
+        "disorders of psychological development",
+        "conversion: hysteria",
+        "conversion: reaction",
+        "hysteria",
+        "hysterical psychosis",
+        "Psychogenic deafness"
+    ],
+    "exclusion": [
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "when associated with conduct disorder in F91.-",
+        "malingering [conscious simulation]"
+    ],
+    "symptoms": [
+        "amnesia",
+        "disorientation",
+        "confusion",
+        "memory loss",
+        "identity disturbance"
+    ]
+}

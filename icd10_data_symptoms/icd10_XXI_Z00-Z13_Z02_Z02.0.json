@@ -1,0 +1,24 @@
+{
+    "icd10code": "Z02.0",
+    "type": "subcategory",
+    "title": "Examination for admission to educational institution",
+    "chapter": "Factors influencing health status and contact with health services",
+    "chapterCode": "XXI",
+    "block": "Persons encountering health services for examination and investigation",
+    "blockCode": "Z00-Z13",
+    "category": "Examination and encounter for administrative purposes",
+    "categoryCode": "Z02",
+    "subcategory": "Z02.0",
+    "inclusion": [
+        "Examination for admission to preschool (education)"
+    ],
+    "exclusion": [
+        "examinations related to pregnancy and reproduction"
+    ],
+    "symptoms": [
+        "general fatigue",
+        "mild anxiety",
+        "nonspecific body aches",
+        "sleep disturbances"
+    ]
+}

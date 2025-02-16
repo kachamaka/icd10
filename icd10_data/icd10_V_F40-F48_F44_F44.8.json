@@ -1,0 +1,28 @@
+{
+  "type": "subcategory",
+  "chapterCode": "V",
+  "chapter": "Mental and behavioural disorders",
+  "blockCode": "F40-F48",
+  "block": "Neurotic, stress-related and somatoform disorders",
+  "categoryCode": "F44",
+  "category": "Dissociative [conversion] disorders",
+  "subcategory": "F44.8",
+  "title": "Other dissociative [conversion] disorders",
+  "inclusion": [
+    "disorders of psychological development",
+    "conversion: hysteria",
+    "conversion: reaction",
+    "hysteria",
+    "hysterical psychosis",
+    "Ganser syndrome",
+    "Multiple personality",
+    "Psychogenic: confusion",
+    "Psychogenic: twilight state"
+  ],
+  "exclusion": [
+    "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+    "when associated with conduct disorder in F91.-",
+    "malingering [conscious simulation]"
+  ],
+  "children": null
+}

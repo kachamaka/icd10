@@ -1,0 +1,34 @@
+{
+    "icd10code": "E45",
+    "type": "category",
+    "title": "Retarded development following protein-energy malnutrition",
+    "chapter": "Endocrine, nutritional and metabolic diseases",
+    "chapterCode": "IV",
+    "block": "Malnutrition",
+    "blockCode": "E40-E46",
+    "category": "Retarded development following protein-energy malnutrition",
+    "categoryCode": "E45",
+    "subcategory": "",
+    "inclusion": [
+        "Nutritional: short stature",
+        "Nutritional: stunting",
+        "Physical retardation due to malnutrition"
+    ],
+    "exclusion": [
+        "complications of pregnancy, childbirth and the puerperium",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "transitory endocrine and metabolic disorders specific to fetus and newborn",
+        "intestinal malabsorption",
+        "nutritional anaemias",
+        "sequelae of protein-energy malnutrition",
+        "slim disease",
+        "starvation"
+    ],
+    "symptoms": [
+        "fatigue",
+        "weight loss",
+        "decreased muscle strength",
+        "slow growth in children",
+        "delayed physical development"
+    ]
+}

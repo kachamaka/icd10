@@ -1,0 +1,20 @@
+{
+    "icd10code": "Z36.2",
+    "type": "subcategory",
+    "title": "Other antenatal screening based on amniocentesis",
+    "chapter": "Factors influencing health status and contact with health services",
+    "chapterCode": "XXI",
+    "block": "Persons encountering health services in circumstances related to reproduction",
+    "blockCode": "Z30-Z39",
+    "category": "Antenatal screening",
+    "categoryCode": "Z36",
+    "subcategory": "Z36.2",
+    "inclusion": null,
+    "exclusion": [
+        "abnormal findings on antenatal screening of mother",
+        "routine prenatal care"
+    ],
+    "symptoms": [
+        "asymptomatic"
+    ]
+}

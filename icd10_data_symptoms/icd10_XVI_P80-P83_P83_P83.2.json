@@ -1,0 +1,37 @@
+{
+    "icd10code": "P83.2",
+    "type": "subcategory",
+    "title": "Hydrops fetalis not due to haemolytic disease",
+    "chapter": "Certain conditions originating in the perinatal period",
+    "chapterCode": "XVI",
+    "block": "Conditions involving the integument and temperature regulation of fetus and newborn",
+    "blockCode": "P80-P83",
+    "category": "Other conditions of integument specific to fetus and newborn",
+    "categoryCode": "P83",
+    "subcategory": "P83.2",
+    "inclusion": [
+        "conditions that have their origin in the perinatal period even though death or morbidity occurs later",
+        "Hydrops fetalis NOS"
+    ],
+    "exclusion": [
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "tetanus neonatorum",
+        "whooping cough",
+        "congenital malformations of skin and integument",
+        "cradle cap",
+        "diaper [napkin] dermatitis",
+        "hydrops fetalis due to haemolytic disease",
+        "neonatal skin infection",
+        "staphylococcal scalded skin syndrome"
+    ],
+    "symptoms": [
+        "swelling",
+        "redness",
+        "localized warmth",
+        "fluid leaking",
+        "tenderness"
+    ]
+}

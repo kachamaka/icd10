@@ -1,0 +1,26 @@
+{
+    "icd10code": "F95.9",
+    "type": "subcategory",
+    "title": "Tic disorder, unspecified",
+    "chapter": "Mental and behavioural disorders",
+    "chapterCode": "V",
+    "block": "Behavioural and emotional disorders with onset usually occurring in childhood and adolescence",
+    "blockCode": "F90-F98",
+    "category": "Tic disorders",
+    "categoryCode": "F95",
+    "subcategory": "F95.9",
+    "inclusion": [
+        "disorders of psychological development",
+        "Tic NOS"
+    ],
+    "exclusion": [
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified"
+    ],
+    "symptoms": [
+        "motor tics",
+        "vocal tics",
+        "blinking",
+        "throat clearing",
+        "repetitive movements"
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "icd10code": "B74.8",
+    "type": "subcategory",
+    "title": "Other filariases",
+    "chapter": "Certain infectious and parasitic diseases",
+    "chapterCode": "I",
+    "block": "Helminthiases",
+    "blockCode": "B65-B83",
+    "category": "Filariasis",
+    "categoryCode": "B74",
+    "subcategory": "B74.8",
+    "inclusion": [
+        "diseases generally recognized as communicable or transmissible",
+        "Dirofilariasis"
+    ],
+    "exclusion": [
+        "carrier or suspected carrier of infectious disease",
+        "certain localized infections - see body system-related chapters",
+        "infectious and parasitic diseases complicating pregnancy, childbirth and the puerperium [except obstetrical tetanus]",
+        "infectious and parasitic diseases specific to the perinatal period [except tetanus neonatorum, whooping cough, congenital syphilis, perinatal gonococcal infection and perinatal human immunodeficiency virus [HIV] disease]",
+        "influenza and other acute respiratory infections",
+        "larval diphyllobothriasis",
+        "monkeypox"
+    ],
+    "symptoms": [
+        "muscle pain",
+        "skin rash",
+        "fever",
+        "fatigue",
+        "lymphadenopathy"
+    ]
+}

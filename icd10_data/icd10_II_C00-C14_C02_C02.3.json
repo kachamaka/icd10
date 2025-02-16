@@ -1,0 +1,17 @@
+{
+  "type": "subcategory",
+  "chapterCode": "II",
+  "chapter": "Neoplasms",
+  "blockCode": "C00-C14",
+  "block": "Malignant neoplasms of lip, oral cavity and pharynx",
+  "categoryCode": "C02",
+  "category": "Malignant neoplasm of other and unspecified parts of tongue",
+  "subcategory": "C02.3",
+  "title": "Malignant neoplasm: Anterior two-thirds of tongue, part unspecified",
+  "inclusion": [
+    "Middle third of tongue NOS",
+    "Mobile part of tongue NOS"
+  ],
+  "exclusion": null,
+  "children": null
+}

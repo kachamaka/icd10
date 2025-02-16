@@ -1,0 +1,39 @@
+{
+    "icd10code": "S44.3",
+    "type": "subcategory",
+    "title": "Injury of axillary nerve",
+    "chapter": "Injury, poisoning and certain other consequences of external causes",
+    "chapterCode": "XIX",
+    "block": "Injuries to the shoulder and upper arm",
+    "blockCode": "S40-S49",
+    "category": "Injury of nerves at shoulder and upper arm level",
+    "categoryCode": "S44",
+    "subcategory": "S44.3",
+    "inclusion": [
+        "injuries of: axilla",
+        "injuries of: scapular region"
+    ],
+    "exclusion": [
+        "birth trauma",
+        "obstetric trauma",
+        "malunion of fracture",
+        "nonunion of fracture [pseudarthrosis]",
+        "pathological fracture",
+        "pathological fracture with osteoporosis",
+        "stress fracture",
+        "bilateral involvement of shoulder and upper arm",
+        "burns and corrosions",
+        "frostbite",
+        "injuries of: arm, level unspecified",
+        "injuries of: elbow",
+        "insect bite or sting, venomous",
+        "crushing injury of elbow"
+    ],
+    "symptoms": [
+        "numbness",
+        "tingling",
+        "weakness",
+        "loss of sensation",
+        "paralysis"
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "icd10code": "W60",
+    "type": "category",
+    "title": "Contact with plant thorns and spines and sharp leaves",
+    "chapter": "External causes of morbidity and mortality",
+    "chapterCode": "XX",
+    "block": "Exposure to animate mechanical forces",
+    "blockCode": "W50-W64",
+    "category": "Contact with plant thorns and spines and sharp leaves",
+    "categoryCode": "W60",
+    "subcategory": "",
+    "inclusion": null,
+    "exclusion": [
+        "bites, venomous",
+        "stings (venomous)"
+    ],
+    "symptoms": [
+        "asymptomatic"
+    ]
+}

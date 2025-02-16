@@ -1,0 +1,30 @@
+{
+  "type": "subcategory",
+  "chapterCode": "XIX",
+  "chapter": "Injury, poisoning and certain other consequences of external causes",
+  "blockCode": "T66-T78",
+  "block": "Other and unspecified effects of external causes",
+  "categoryCode": "T78",
+  "category": "Adverse effects, not elsewhere classified",
+  "subcategory": "T78.2",
+  "title": "Anaphylactic shock, unspecified",
+  "inclusion": [
+    "Allergic shock NOS",
+    "Anaphylactic reaction NOS",
+    "Anaphylaxis NOS"
+  ],
+  "exclusion": [
+    "birth trauma",
+    "obstetric trauma",
+    "malunion of fracture",
+    "nonunion of fracture [pseudarthrosis]",
+    "pathological fracture",
+    "pathological fracture with osteoporosis",
+    "stress fracture",
+    "polycythaemia due to high altitude",
+    "anaphylactic shock due to: adverse effect of correct medicinal substance properly administered",
+    "anaphylactic shock due to: adverse food reaction",
+    "anaphylactic shock due to: serum"
+  ],
+  "children": null
+}

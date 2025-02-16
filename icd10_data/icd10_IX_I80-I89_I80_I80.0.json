@@ -1,0 +1,38 @@
+{
+  "type": "subcategory",
+  "chapterCode": "IX",
+  "chapter": "Diseases of the circulatory system",
+  "blockCode": "I80-I89",
+  "block": "Diseases of veins, lymphatic vessels and lymph nodes, not elsewhere classified",
+  "categoryCode": "I80",
+  "category": "Phlebitis and thrombophlebitis",
+  "subcategory": "I80.0",
+  "title": "Phlebitis and thrombophlebitis of superficial vessels of lower extremities",
+  "inclusion": [
+    "endophlebitis",
+    "inflammation, vein",
+    "periphlebitis",
+    "suppurative phlebitis"
+  ],
+  "exclusion": [
+    "certain conditions originating in the perinatal period",
+    "certain infectious and parasitic diseases",
+    "complications of pregnancy, childbirth and the puerperium",
+    "congenital malformations, deformations and chromosomal abnormalities",
+    "endocrine, nutritional and metabolic diseases",
+    "injury, poisoning and certain other consequences of external causes",
+    "neoplasms",
+    "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+    "systemic connective tissue disorders",
+    "transient cerebral ischaemic attacks and related syndromes",
+    "phlebitis and thrombophlebitis (of): complicating: abortion or ectopic or molar pregnancy",
+    "phlebitis and thrombophlebitis (of): complicating: pregnancy, childbirth and the puerperium",
+    "phlebitis and thrombophlebitis (of): intracranial and intraspinal, septic or NOS",
+    "phlebitis and thrombophlebitis (of): intracranial, nonpyogenic",
+    "phlebitis and thrombophlebitis (of): intraspinal, nonpyogenic",
+    "phlebitis and thrombophlebitis (of): portal (vein)",
+    "postphlebitic syndrome",
+    "thrombophlebitis migrans"
+  ],
+  "children": null
+}

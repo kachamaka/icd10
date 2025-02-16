@@ -1,0 +1,26 @@
+{
+  "type": "subcategory",
+  "chapterCode": "XIV",
+  "chapter": "Diseases of the genitourinary system",
+  "blockCode": "N60-N64",
+  "block": "Disorders of breast",
+  "categoryCode": "N60",
+  "category": "Benign mammary dysplasia",
+  "subcategory": "N60.4",
+  "title": "Mammary duct ectasia",
+  "inclusion": [
+    "fibrocystic mastopathy"
+  ],
+  "exclusion": [
+    "certain conditions originating in the perinatal period",
+    "certain infectious and parasitic diseases",
+    "complications of pregnancy, childbirth and the puerperium",
+    "congenital malformations, deformations and chromosomal abnormalities",
+    "endocrine, nutritional and metabolic diseases",
+    "injury, poisoning and certain other consequences of external causes",
+    "neoplasms",
+    "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+    "disorders of breast associated with childbirth"
+  ],
+  "children": null
+}

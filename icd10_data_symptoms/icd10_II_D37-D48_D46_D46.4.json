@@ -1,0 +1,27 @@
+{
+    "icd10code": "D46.4",
+    "type": "subcategory",
+    "title": "Refractory anaemia, unspecified",
+    "chapter": "Neoplasms",
+    "chapterCode": "II",
+    "block": "Neoplasms of uncertain or unknown behaviour",
+    "blockCode": "D37-D48",
+    "category": "Myelodysplastic syndromes",
+    "categoryCode": "D46",
+    "subcategory": "D46.4",
+    "inclusion": [
+        "Alkylating-agent-related myelodysplastic syndrome",
+        "Epipodophyllotoxin-related myelodysplastic syndrome",
+        "Therapy-related myelodysplastic syndrome NOS"
+    ],
+    "exclusion": [
+        "drug induced aplastic anaemia"
+    ],
+    "symptoms": [
+        "fatigue",
+        "paleness",
+        "frequent infections",
+        "easy bruising or bleeding",
+        "shortness of breath"
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "icd10code": "F63.9",
+    "type": "subcategory",
+    "title": "Habit and impulse disorder, unspecified",
+    "chapter": "Mental and behavioural disorders",
+    "chapterCode": "V",
+    "block": "Disorders of adult personality and behaviour",
+    "blockCode": "F60-F69",
+    "category": "Habit and impulse disorders",
+    "categoryCode": "F63",
+    "subcategory": "F63.9",
+    "inclusion": [
+        "disorders of psychological development"
+    ],
+    "exclusion": [
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "habitual excessive use of alcohol or psychoactive substances",
+        "impulse and habit disorders involving sexual behaviour"
+    ],
+    "symptoms": [
+        "impulsiveness",
+        "compulsive behavior",
+        "inability to resist urges",
+        "tension before acting",
+        "sense of relief after acting"
+    ]
+}

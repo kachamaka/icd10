@@ -1,0 +1,32 @@
+{
+    "icd10code": "A51.5",
+    "type": "subcategory",
+    "title": "Early syphilis, latent",
+    "chapter": "Certain infectious and parasitic diseases",
+    "chapterCode": "I",
+    "block": "Infections with a predominantly sexual mode of transmission",
+    "blockCode": "A50-A64",
+    "category": "Early syphilis",
+    "categoryCode": "A51",
+    "subcategory": "A51.5",
+    "inclusion": [
+        "diseases generally recognized as communicable or transmissible"
+    ],
+    "exclusion": [
+        "carrier or suspected carrier of infectious disease",
+        "certain localized infections - see body system-related chapters",
+        "infectious and parasitic diseases complicating pregnancy, childbirth and the puerperium [except obstetrical tetanus]",
+        "infectious and parasitic diseases specific to the perinatal period [except tetanus neonatorum, whooping cough, congenital syphilis, perinatal gonococcal infection and perinatal human immunodeficiency virus [HIV] disease]",
+        "influenza and other acute respiratory infections",
+        "erythrasma",
+        "endotoxic shock NOS",
+        "sepsis NOS"
+    ],
+    "symptoms": [
+        "genital ulcers",
+        "swollen lymph nodes",
+        "fever",
+        "headache",
+        "muscle aches"
+    ]
+}

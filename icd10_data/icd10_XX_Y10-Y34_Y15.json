@@ -1,0 +1,22 @@
+{
+  "type": "category",
+  "chapterCode": "XX",
+  "chapter": "External causes of morbidity and mortality",
+  "blockCode": "Y10-Y34",
+  "block": "Event of undetermined intent",
+  "categoryCode": "Y15",
+  "category": "Poisoning by and exposure to alcohol, undetermined intent",
+  "subcategory": "",
+  "title": "Poisoning by and exposure to alcohol, undetermined intent",
+  "inclusion": [
+    "alcohol: NOS",
+    "alcohol: butyl [1-butanol]",
+    "alcohol: ethyl [ethanol]",
+    "alcohol: isopropyl [2-propanol]",
+    "alcohol: methyl [methanol]",
+    "alcohol: propyl [1-propanol]",
+    "fusel oil"
+  ],
+  "exclusion": null,
+  "children": null
+}

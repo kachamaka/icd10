@@ -1,0 +1,40 @@
+{
+    "icd10code": "G51.0",
+    "type": "subcategory",
+    "title": "Bell palsy",
+    "chapter": "Diseases of the nervous system",
+    "chapterCode": "VI",
+    "block": "Nerve, nerve root and plexus disorders",
+    "blockCode": "G50-G59",
+    "category": "Facial nerve disorders",
+    "categoryCode": "G51",
+    "subcategory": "G51.0",
+    "inclusion": [
+        "disorders of 7th cranial nerve",
+        "Facial palsy (droop) (weakness) due to lower motor neuron [LMN] lesion",
+        "Facial palsy NOS"
+    ],
+    "exclusion": [
+        "certain conditions originating in the perinatal period",
+        "certain infectious and parasitic diseases",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "current traumatic nerve, nerve root and plexus disorders - see nerve injury by body region",
+        "neuralgia NOS",
+        "neuritis NOS",
+        "peripheral neuritis in pregnancy",
+        "radiculitis NOS",
+        "facial palsy due to: upper motor neuron [UMN] lesion"
+    ],
+    "symptoms": [
+        "facial weakness",
+        "drooping mouth",
+        "drooping eyelid",
+        "loss of taste",
+        "sensitivity to sound"
+    ]
+}

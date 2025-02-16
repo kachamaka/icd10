@@ -1,0 +1,31 @@
+{
+    "icd10code": "T93.2",
+    "type": "subcategory",
+    "title": "Sequelae of other fractures of lower limb",
+    "chapter": "Injury, poisoning and certain other consequences of external causes",
+    "chapterCode": "XIX",
+    "block": "Sequelae of injuries, of poisoning and of other consequences of external causes",
+    "blockCode": "T90-T98",
+    "category": "Sequelae of injuries of lower limb",
+    "categoryCode": "T93",
+    "subcategory": "T93.2",
+    "inclusion": [
+        "Sequelae of injury classifiable to S82.-, S92.- and T12"
+    ],
+    "exclusion": [
+        "birth trauma",
+        "obstetric trauma",
+        "malunion of fracture",
+        "nonunion of fracture [pseudarthrosis]",
+        "pathological fracture",
+        "pathological fracture with osteoporosis",
+        "stress fracture"
+    ],
+    "symptoms": [
+        "pain",
+        "limited range of motion",
+        "joint instability",
+        "swelling",
+        "stiffness"
+    ]
+}

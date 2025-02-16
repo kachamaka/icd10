@@ -1,0 +1,21 @@
+{
+    "icd10code": "C74.1",
+    "type": "subcategory",
+    "title": "Malignant neoplasm: Medulla of adrenal gland",
+    "chapter": "Neoplasms",
+    "chapterCode": "II",
+    "block": "Malignant neoplasms of thyroid and other endocrine glands",
+    "blockCode": "C73-C75",
+    "category": "Malignant neoplasm of adrenal gland",
+    "categoryCode": "C74",
+    "subcategory": "C74.1",
+    "inclusion": null,
+    "exclusion": null,
+    "symptoms": [
+        "increased blood pressure",
+        "headache",
+        "heart palpitations",
+        "excessive sweating",
+        "anxiety attacks"
+    ]
+}

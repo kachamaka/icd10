@@ -1,0 +1,23 @@
+{
+    "icd10code": "D38.2",
+    "type": "subcategory",
+    "title": "Neoplasm of uncertain or unknown behaviour: Pleura",
+    "chapter": "Neoplasms",
+    "chapterCode": "II",
+    "block": "Neoplasms of uncertain or unknown behaviour",
+    "blockCode": "D37-D48",
+    "category": "Neoplasm of uncertain or unknown behaviour of middle ear and respiratory and intrathoracic organs",
+    "categoryCode": "D38",
+    "subcategory": "D38.2",
+    "inclusion": null,
+    "exclusion": [
+        "heart"
+    ],
+    "symptoms": [
+        "pain or discomfort in affected area",
+        "lump or mass in body",
+        "unexplained weight loss",
+        "fatigue",
+        "bleeding or bruising easily"
+    ]
+}

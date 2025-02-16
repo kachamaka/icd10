@@ -1,0 +1,25 @@
+{
+    "icd10code": "Q72.8",
+    "type": "subcategory",
+    "title": "Other reduction defects of lower limb(s)",
+    "chapter": "Congenital malformations, deformations and chromosomal abnormalities",
+    "chapterCode": "XVII",
+    "block": "Congenital malformations and deformations of the musculoskeletal system",
+    "blockCode": "Q65-Q79",
+    "category": "Reduction defects of lower limb",
+    "categoryCode": "Q72",
+    "subcategory": "Q72.8",
+    "inclusion": [
+        "Congenital shortening of lower limb(s)"
+    ],
+    "exclusion": [
+        "inborn errors of metabolism"
+    ],
+    "symptoms": [
+        "partial or absent lower limbs",
+        "limb asymmetry",
+        "abnormal gait",
+        "limb underdevelopment",
+        "restricted mobility"
+    ]
+}

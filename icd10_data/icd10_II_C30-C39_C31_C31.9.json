@@ -1,0 +1,18 @@
+{
+  "type": "subcategory",
+  "chapterCode": "II",
+  "chapter": "Neoplasms",
+  "blockCode": "C30-C39",
+  "block": "Malignant neoplasms of respiratory and intrathoracic organs",
+  "categoryCode": "C31",
+  "category": "Malignant neoplasm of accessory sinuses",
+  "subcategory": "C31.9",
+  "title": "Malignant neoplasm: Accessory sinus, unspecified",
+  "inclusion": [
+    "middle ear"
+  ],
+  "exclusion": [
+    "mesothelioma"
+  ],
+  "children": null
+}

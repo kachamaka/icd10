@@ -1,0 +1,42 @@
+{
+    "icd10code": "S42.1",
+    "type": "subcategory",
+    "title": "Fracture of scapula",
+    "chapter": "Injury, poisoning and certain other consequences of external causes",
+    "chapterCode": "XIX",
+    "block": "Injuries to the shoulder and upper arm",
+    "blockCode": "S40-S49",
+    "category": "Fracture of shoulder and upper arm",
+    "categoryCode": "S42",
+    "subcategory": "S42.1",
+    "inclusion": [
+        "injuries of: axilla",
+        "injuries of: scapular region",
+        "Acromial process",
+        "Acromion (process)",
+        "Scapula (body)(glenoid cavity)(neck)",
+        "Shoulder blade"
+    ],
+    "exclusion": [
+        "birth trauma",
+        "obstetric trauma",
+        "malunion of fracture",
+        "nonunion of fracture [pseudarthrosis]",
+        "pathological fracture",
+        "pathological fracture with osteoporosis",
+        "stress fracture",
+        "bilateral involvement of shoulder and upper arm",
+        "burns and corrosions",
+        "frostbite",
+        "injuries of: arm, level unspecified",
+        "injuries of: elbow",
+        "insect bite or sting, venomous"
+    ],
+    "symptoms": [
+        "pain in shoulder",
+        "swelling",
+        "limited arm movement",
+        "bruising",
+        "visible deformity"
+    ]
+}

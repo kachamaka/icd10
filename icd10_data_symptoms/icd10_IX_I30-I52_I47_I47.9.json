@@ -1,0 +1,39 @@
+{
+    "icd10code": "I47.9",
+    "type": "subcategory",
+    "title": "Paroxysmal tachycardia, unspecified",
+    "chapter": "Diseases of the circulatory system",
+    "chapterCode": "IX",
+    "block": "Other forms of heart disease",
+    "blockCode": "I30-I52",
+    "category": "Paroxysmal tachycardia",
+    "categoryCode": "I47",
+    "subcategory": "I47.9",
+    "inclusion": [
+        "Bouveret(-Hoffmann) syndrome"
+    ],
+    "exclusion": [
+        "certain conditions originating in the perinatal period",
+        "certain infectious and parasitic diseases",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "systemic connective tissue disorders",
+        "transient cerebral ischaemic attacks and related syndromes",
+        "prolongation of QT interval",
+        "when not specified as rheumatic",
+        "nonspecific low blood pressure reading NOS",
+        "sudden death: NOS",
+        "sudden death: with: conduction disorder"
+    ],
+    "symptoms": [
+        "palpitations",
+        "shortness of breath",
+        "chest pain",
+        "lightheadedness",
+        "fainting"
+    ]
+}

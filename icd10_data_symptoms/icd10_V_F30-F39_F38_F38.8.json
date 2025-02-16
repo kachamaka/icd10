@@ -1,0 +1,25 @@
+{
+    "icd10code": "F38.8",
+    "type": "subcategory",
+    "title": "Other specified mood [affective] disorders",
+    "chapter": "Mental and behavioural disorders",
+    "chapterCode": "V",
+    "block": "Mood [affective] disorders",
+    "blockCode": "F30-F39",
+    "category": "Other mood [affective] disorders",
+    "categoryCode": "F38",
+    "subcategory": "F38.8",
+    "inclusion": [
+        "disorders of psychological development"
+    ],
+    "exclusion": [
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified"
+    ],
+    "symptoms": [
+        "mood swings",
+        "emotional instability",
+        "difficulty concentrating",
+        "irritability",
+        "changes in sleep patterns"
+    ]
+}

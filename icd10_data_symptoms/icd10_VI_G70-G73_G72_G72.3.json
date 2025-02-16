@@ -1,0 +1,40 @@
+{
+    "icd10code": "G72.3",
+    "type": "subcategory",
+    "title": "Periodic paralysis",
+    "chapter": "Diseases of the nervous system",
+    "chapterCode": "VI",
+    "block": "Diseases of myoneural junction and muscle",
+    "blockCode": "G70-G73",
+    "category": "Other myopathies",
+    "categoryCode": "G72",
+    "subcategory": "G72.3",
+    "inclusion": [
+        "Periodic paralysis (familial): hyperkalaemic",
+        "Periodic paralysis (familial): hypokalaemic",
+        "Periodic paralysis (familial): myotonic",
+        "Periodic paralysis (familial): normokalaemic"
+    ],
+    "exclusion": [
+        "certain conditions originating in the perinatal period",
+        "certain infectious and parasitic diseases",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "arthrogryposis multiplex congenita",
+        "dermatopolymyositis",
+        "ischaemic infarction of muscle",
+        "myositis",
+        "polymyositis"
+    ],
+    "symptoms": [
+        "muscle weakness",
+        "fatigue",
+        "cramps",
+        "stiffness",
+        "exercise intolerance"
+    ]
+}

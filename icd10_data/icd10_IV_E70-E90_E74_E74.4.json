@@ -1,0 +1,33 @@
+{
+  "type": "subcategory",
+  "chapterCode": "IV",
+  "chapter": "Endocrine, nutritional and metabolic diseases",
+  "blockCode": "E70-E90",
+  "block": "Metabolic disorders",
+  "categoryCode": "E74",
+  "category": "Other disorders of carbohydrate metabolism",
+  "subcategory": "E74.4",
+  "title": "Disorders of pyruvate metabolism and gluconeogenesis",
+  "inclusion": [
+    "Deficiency of: phosphoenolpyruvate carboxykinase",
+    "Deficiency of: pyruvate: carboxylase",
+    "Deficiency of: pyruvate: dehydrogenase"
+  ],
+  "exclusion": [
+    "complications of pregnancy, childbirth and the puerperium",
+    "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+    "transitory endocrine and metabolic disorders specific to fetus and newborn",
+    "androgen resistance syndrome",
+    "congenital adrenal hyperplasia",
+    "Ehlers-Danlos syndrome",
+    "haemolytic anaemias due to enzyme disorders",
+    "Marfan syndrome",
+    "5-alpha-reductase deficiency",
+    "Schilder disease",
+    "hypovolaemic shock: NOS",
+    "hypovolaemic shock: postoperative",
+    "hypovolaemic shock: traumatic",
+    "with anaemia"
+  ],
+  "children": null
+}

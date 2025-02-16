@@ -1,0 +1,23 @@
+{
+    "icd10code": "C14.0",
+    "type": "subcategory",
+    "title": "Malignant neoplasm: Pharynx, unspecified",
+    "chapter": "Neoplasms",
+    "chapterCode": "II",
+    "block": "Malignant neoplasms of lip, oral cavity and pharynx",
+    "blockCode": "C00-C14",
+    "category": "Malignant neoplasm of other and ill-defined sites in the lip, oral cavity and pharynx",
+    "categoryCode": "C14",
+    "subcategory": "C14.0",
+    "inclusion": null,
+    "exclusion": [
+        "oral cavity NOS"
+    ],
+    "symptoms": [
+        "difficulty swallowing",
+        "hoarseness",
+        "persistent sore throat",
+        "sudden weight loss",
+        "ear pain"
+    ]
+}

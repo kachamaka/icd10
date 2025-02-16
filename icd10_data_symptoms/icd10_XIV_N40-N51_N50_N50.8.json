@@ -1,0 +1,41 @@
+{
+    "icd10code": "N50.8",
+    "type": "subcategory",
+    "title": "Other specified disorders of male genital organs",
+    "chapter": "Diseases of the genitourinary system",
+    "chapterCode": "XIV",
+    "block": "Diseases of male genital organs",
+    "blockCode": "N40-N51",
+    "category": "Other disorders of male genital organs",
+    "categoryCode": "N50",
+    "subcategory": "N50.8",
+    "inclusion": [
+        "Atrophy of scrotum, seminal vesicle, spermatic cord, testis [except atrophy], tunica vaginalis and vas deferens",
+        "Hypertrophy of scrotum, seminal vesicle, spermatic cord, testis [except atrophy], tunica vaginalis and vas deferens",
+        "Oedema of scrotum, seminal vesicle, spermatic cord, testis [except atrophy], tunica vaginalis and vas deferens",
+        "Ulcer of scrotum, seminal vesicle, spermatic cord, testis [except atrophy], tunica vaginalis and vas deferens",
+        "Chylocele, tunica vaginalis (nonfilarial) NOS",
+        "Fistula, urethroscrotal",
+        "Stricture of: spermatic cord",
+        "Stricture of: tunica vaginalis",
+        "Stricture of: vas deferens"
+    ],
+    "exclusion": [
+        "certain conditions originating in the perinatal period",
+        "certain infectious and parasitic diseases",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "torsion of testis"
+    ],
+    "symptoms": [
+        "pain in the scrotum",
+        "swelling of the testis",
+        "abnormal testicular size",
+        "discomfort in the groin",
+        "possible fever"
+    ]
+}

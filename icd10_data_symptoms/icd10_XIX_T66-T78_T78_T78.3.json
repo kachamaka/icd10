@@ -1,0 +1,35 @@
+{
+    "icd10code": "T78.3",
+    "type": "subcategory",
+    "title": "Angioneurotic oedema",
+    "chapter": "Injury, poisoning and certain other consequences of external causes",
+    "chapterCode": "XIX",
+    "block": "Other and unspecified effects of external causes",
+    "blockCode": "T66-T78",
+    "category": "Adverse effects, not elsewhere classified",
+    "categoryCode": "T78",
+    "subcategory": "T78.3",
+    "inclusion": [
+        "Giant urticaria",
+        "Quincke oedema"
+    ],
+    "exclusion": [
+        "birth trauma",
+        "obstetric trauma",
+        "malunion of fracture",
+        "nonunion of fracture [pseudarthrosis]",
+        "pathological fracture",
+        "pathological fracture with osteoporosis",
+        "stress fracture",
+        "polycythaemia due to high altitude",
+        "urticaria",
+        "urticaria serum"
+    ],
+    "symptoms": [
+        "swelling",
+        "hives",
+        "difficulty breathing",
+        "abdominal pain",
+        "anaphylaxis"
+    ]
+}

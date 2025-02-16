@@ -1,0 +1,24 @@
+{
+    "icd10code": "Q89.1",
+    "type": "subcategory",
+    "title": "Congenital malformations of adrenal gland",
+    "chapter": "Congenital malformations, deformations and chromosomal abnormalities",
+    "chapterCode": "XVII",
+    "block": "Other congenital malformations",
+    "blockCode": "Q80-Q89",
+    "category": "Other congenital malformations, not elsewhere classified",
+    "categoryCode": "Q89",
+    "subcategory": "Q89.1",
+    "inclusion": null,
+    "exclusion": [
+        "inborn errors of metabolism",
+        "congenital adrenal hyperplasia"
+    ],
+    "symptoms": [
+        "abnormal organ location",
+        "situs inversus",
+        "heterotaxy",
+        "congenital anomalies",
+        "organ malrotation"
+    ]
+}

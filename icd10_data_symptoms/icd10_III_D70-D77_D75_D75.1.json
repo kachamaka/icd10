@@ -1,0 +1,51 @@
+{
+    "icd10code": "D75.1",
+    "type": "subcategory",
+    "title": "Secondary polycythaemia",
+    "chapter": "Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism",
+    "chapterCode": "III",
+    "block": "Other diseases of blood and blood-forming organs",
+    "blockCode": "D70-D77",
+    "category": "Other diseases of blood and blood-forming organs",
+    "categoryCode": "D75",
+    "subcategory": "D75.1",
+    "inclusion": [
+        "Erythrocytosis NOS",
+        "Polycythaemia: NOS",
+        "Polycythaemia: acquired",
+        "Polycythaemia: due to: erythropoietin",
+        "Polycythaemia: due to: fall in plasma volume",
+        "Polycythaemia: due to: high altitude",
+        "Polycythaemia: due to: stress",
+        "Polycythaemia: emotional",
+        "Polycythaemia: hypoxaemic",
+        "Polycythaemia: nephrogenous",
+        "Polycythaemia: relative"
+    ],
+    "exclusion": [
+        "autoimmune disease (systemic) NOS",
+        "certain conditions originating in the perinatal period",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "human immunodeficiency virus [HIV] disease",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "traumatic rupture of spleen",
+        "splenomegaly: congenital",
+        "paroxysmal cold haemoglobinuria",
+        "high-altitude polycythaemia",
+        "methaemoglobinaemia",
+        "Chediak(-Steinbrinck)-Higashi syndrome",
+        "polycythaemia: neonatorum",
+        "polycythaemia: vera"
+    ],
+    "symptoms": [
+        "fatigue",
+        "pale skin",
+        "fast heartbeat",
+        "shortness of breath",
+        "chest pain"
+    ]
+}

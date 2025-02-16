@@ -1,0 +1,36 @@
+{
+    "icd10code": "D67",
+    "type": "category",
+    "title": "Hereditary factor IX deficiency",
+    "chapter": "Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism",
+    "chapterCode": "III",
+    "block": "Coagulation defects, purpura and other haemorrhagic conditions",
+    "blockCode": "D65-D69",
+    "category": "Hereditary factor IX deficiency",
+    "categoryCode": "D67",
+    "subcategory": "",
+    "inclusion": [
+        "Christmas disease",
+        "Deficiency: factor IX (with functional defect)",
+        "Deficiency: plasma thromboplastin component [PTC]",
+        "Haemophilia B"
+    ],
+    "exclusion": [
+        "autoimmune disease (systemic) NOS",
+        "certain conditions originating in the perinatal period",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "human immunodeficiency virus [HIV] disease",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified"
+    ],
+    "symptoms": [
+        "excessive bleeding from minor wounds",
+        "frequent nosebleeds",
+        "heavy menstrual periods",
+        "prolonged bleeding from cuts",
+        "unexplained bruising"
+    ]
+}

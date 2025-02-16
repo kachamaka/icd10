@@ -1,0 +1,24 @@
+{
+    "icd10code": "D19.0",
+    "type": "subcategory",
+    "title": "Benign neoplasm: Mesothelial tissue of pleura",
+    "chapter": "Neoplasms",
+    "chapterCode": "II",
+    "block": "Benign neoplasms",
+    "blockCode": "D10-D36",
+    "category": "Benign neoplasm of mesothelial tissue",
+    "categoryCode": "D19",
+    "subcategory": "D19.0",
+    "inclusion": [
+        "morphology codes with behaviour code /0",
+        "morphology code M905 with behaviour code /0"
+    ],
+    "exclusion": null,
+    "symptoms": [
+        "abdominal pain",
+        "rectal bleeding",
+        "unexplained weight loss",
+        "changes in bowel habits",
+        "feelings of fatigue"
+    ]
+}

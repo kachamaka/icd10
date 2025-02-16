@@ -1,0 +1,14 @@
+{
+  "type": "category",
+  "chapterCode": "XX",
+  "chapter": "External causes of morbidity and mortality",
+  "blockCode": "Y90-Y98",
+  "block": "Supplementary factors related to causes of morbidity and mortality classified elsewhere",
+  "categoryCode": "Y95",
+  "category": "Nosocomial condition",
+  "subcategory": "",
+  "title": "Nosocomial condition",
+  "inclusion": null,
+  "exclusion": null,
+  "children": null
+}

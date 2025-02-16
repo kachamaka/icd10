@@ -1,0 +1,21 @@
+{
+  "type": "category",
+  "chapterCode": "XX",
+  "chapter": "External causes of morbidity and mortality",
+  "blockCode": "X20-X29",
+  "block": "Contact with venomous animals and plants",
+  "categoryCode": "X27",
+  "category": "Contact with other specified venomous animals",
+  "subcategory": "",
+  "title": "Contact with other specified venomous animals",
+  "inclusion": [
+    "chemical released by: animal",
+    "chemical released by: insect",
+    "release of venom through fangs, hairs, spines, tentacles and other venom apparatus",
+    "venomous bites and stings"
+  ],
+  "exclusion": [
+    "ingestion of poisonous animals or plants"
+  ],
+  "children": null
+}

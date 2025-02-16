@@ -1,0 +1,23 @@
+{
+    "icd10code": "D34",
+    "type": "category",
+    "title": "Benign neoplasm of thyroid gland",
+    "chapter": "Neoplasms",
+    "chapterCode": "II",
+    "block": "Benign neoplasms",
+    "blockCode": "D10-D36",
+    "category": "Benign neoplasm of thyroid gland",
+    "categoryCode": "D34",
+    "subcategory": "",
+    "inclusion": [
+        "morphology codes with behaviour code /0"
+    ],
+    "exclusion": null,
+    "symptoms": [
+        "neck lump or swelling",
+        "difficulty swallowing",
+        "voice changes",
+        "persistent cough",
+        "bleeding from throat or blood in saliva"
+    ]
+}

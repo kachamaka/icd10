@@ -1,0 +1,35 @@
+{
+    "icd10code": "N62",
+    "type": "category",
+    "title": "Hypertrophy of breast",
+    "chapter": "Diseases of the genitourinary system",
+    "chapterCode": "XIV",
+    "block": "Disorders of breast",
+    "blockCode": "N60-N64",
+    "category": "Hypertrophy of breast",
+    "categoryCode": "N62",
+    "subcategory": "",
+    "inclusion": [
+        "Gynaecomastia",
+        "Hypertrophy of breast: NOS",
+        "Hypertrophy of breast: massive pubertal"
+    ],
+    "exclusion": [
+        "certain conditions originating in the perinatal period",
+        "certain infectious and parasitic diseases",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "disorders of breast associated with childbirth"
+    ],
+    "symptoms": [
+        "breast enlargement",
+        "tenderness",
+        "swelling",
+        "pain",
+        "asymmetry"
+    ]
+}

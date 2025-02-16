@@ -1,0 +1,30 @@
+{
+    "icd10code": "P81.0",
+    "type": "subcategory",
+    "title": "Environmental hyperthermia of newborn",
+    "chapter": "Certain conditions originating in the perinatal period",
+    "chapterCode": "XVI",
+    "block": "Conditions involving the integument and temperature regulation of fetus and newborn",
+    "blockCode": "P80-P83",
+    "category": "Other disturbances of temperature regulation of newborn",
+    "categoryCode": "P81",
+    "subcategory": "P81.0",
+    "inclusion": [
+        "conditions that have their origin in the perinatal period even though death or morbidity occurs later"
+    ],
+    "exclusion": [
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "tetanus neonatorum",
+        "whooping cough"
+    ],
+    "symptoms": [
+        "low body temperature",
+        "blueish skin tone",
+        "lethargy",
+        "feeding difficulties",
+        "slow heart rate"
+    ]
+}

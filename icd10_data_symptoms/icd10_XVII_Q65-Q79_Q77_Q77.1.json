@@ -1,0 +1,24 @@
+{
+    "icd10code": "Q77.1",
+    "type": "subcategory",
+    "title": "Thanatophoric short stature",
+    "chapter": "Congenital malformations, deformations and chromosomal abnormalities",
+    "chapterCode": "XVII",
+    "block": "Congenital malformations and deformations of the musculoskeletal system",
+    "blockCode": "Q65-Q79",
+    "category": "Osteochondrodysplasia with defects of growth of tubular bones and spine",
+    "categoryCode": "Q77",
+    "subcategory": "Q77.1",
+    "inclusion": null,
+    "exclusion": [
+        "inborn errors of metabolism",
+        "mucopolysaccharidosis"
+    ],
+    "symptoms": [
+        "short stature",
+        "limb shortening",
+        "scoliosis",
+        "joint laxity",
+        "abnormal skull shape"
+    ]
+}

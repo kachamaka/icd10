@@ -1,0 +1,19 @@
+{
+    "icd10code": "Z60.5",
+    "type": "subcategory",
+    "title": "Target of perceived adverse discrimination and persecution",
+    "chapter": "Factors influencing health status and contact with health services",
+    "chapterCode": "XXI",
+    "block": "Persons with potential health hazards related to socioeconomic and psychosocial circumstances",
+    "blockCode": "Z55-Z65",
+    "category": "Problems related to social environment",
+    "categoryCode": "Z60",
+    "subcategory": "Z60.5",
+    "inclusion": null,
+    "exclusion": [
+        "social exclusion and rejection"
+    ],
+    "symptoms": [
+        "asymptomatic"
+    ]
+}

@@ -1,0 +1,18 @@
+{
+  "type": "subcategory",
+  "chapterCode": "II",
+  "chapter": "Neoplasms",
+  "blockCode": "C81-C96",
+  "block": "Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",
+  "categoryCode": "C86",
+  "category": "Other specified types of T/NK-cell lymphoma",
+  "subcategory": "C86.4",
+  "title": "Blastic NK-cell lymphoma",
+  "inclusion": null,
+  "exclusion": [
+    "secondary and unspecified neoplasm of lymph nodes",
+    "anaplastic large cell lymphoma, ALK negative",
+    "anaplastic large cell lymphoma, ALK positive"
+  ],
+  "children": null
+}

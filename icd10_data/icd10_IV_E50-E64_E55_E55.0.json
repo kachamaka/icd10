@@ -1,0 +1,30 @@
+{
+  "type": "subcategory",
+  "chapterCode": "IV",
+  "chapter": "Endocrine, nutritional and metabolic diseases",
+  "blockCode": "E50-E64",
+  "block": "Other nutritional deficiencies",
+  "categoryCode": "E55",
+  "category": "Vitamin D deficiency",
+  "subcategory": "E55.0",
+  "title": "Rickets, active",
+  "inclusion": [
+    "Osteomalacia: infantile",
+    "Osteomalacia: juvenile"
+  ],
+  "exclusion": [
+    "complications of pregnancy, childbirth and the puerperium",
+    "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+    "transitory endocrine and metabolic disorders specific to fetus and newborn",
+    "diabetes mellitus (in): malnutrition-related",
+    "adult osteomalacia",
+    "osteoporosis",
+    "sequelae of rickets",
+    "rickets: coeliac",
+    "rickets: Crohn",
+    "rickets: inactive",
+    "rickets: renal",
+    "rickets: vitamin-D-resistant"
+  ],
+  "children": null
+}

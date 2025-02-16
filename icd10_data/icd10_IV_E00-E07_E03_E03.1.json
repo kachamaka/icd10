@@ -1,0 +1,24 @@
+{
+  "type": "subcategory",
+  "chapterCode": "IV",
+  "chapter": "Endocrine, nutritional and metabolic diseases",
+  "blockCode": "E00-E07",
+  "block": "Disorders of thyroid gland",
+  "categoryCode": "E03",
+  "category": "Other hypothyroidism",
+  "subcategory": "E03.1",
+  "title": "Congenital hypothyroidism without goitre",
+  "inclusion": [
+    "Aplasia of thyroid (with myxoedema)",
+    "Congenital: atrophy of thyroid",
+    "Congenital: hypothyroidism NOS"
+  ],
+  "exclusion": [
+    "complications of pregnancy, childbirth and the puerperium",
+    "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+    "transitory endocrine and metabolic disorders specific to fetus and newborn",
+    "iodine-deficiency-related hypothyroidism",
+    "postprocedural hypothyroidism"
+  ],
+  "children": null
+}

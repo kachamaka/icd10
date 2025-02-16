@@ -1,0 +1,17 @@
+{
+  "type": "subcategory",
+  "chapterCode": "XXI",
+  "chapter": "Factors influencing health status and contact with health services",
+  "blockCode": "Z40-Z54",
+  "block": "Persons encountering health services for specific procedures and health care",
+  "categoryCode": "Z53",
+  "category": "Persons encountering health services for specific procedures, not carried out",
+  "subcategory": "Z53.9",
+  "title": "Procedure not carried out, unspecified reason",
+  "inclusion": null,
+  "exclusion": [
+    "follow-up examination for medical surveillance after treatment",
+    "immunization not carried out"
+  ],
+  "children": null
+}

@@ -1,0 +1,18 @@
+{
+  "type": "subcategory",
+  "chapterCode": "II",
+  "chapter": "Neoplasms",
+  "blockCode": "C30-C39",
+  "block": "Malignant neoplasms of respiratory and intrathoracic organs",
+  "categoryCode": "C34",
+  "category": "Malignant neoplasm of bronchus and lung",
+  "subcategory": "C34.9",
+  "title": "Malignant neoplasm: Bronchus or lung, unspecified",
+  "inclusion": [
+    "middle ear"
+  ],
+  "exclusion": [
+    "mesothelioma"
+  ],
+  "children": null
+}

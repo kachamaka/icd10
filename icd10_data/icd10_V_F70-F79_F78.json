@@ -1,0 +1,18 @@
+{
+  "type": "modifiedcategory",
+  "chapterCode": "V",
+  "chapter": "Mental and behavioural disorders",
+  "blockCode": "F70-F79",
+  "block": "Mental retardation",
+  "categoryCode": "F78",
+  "category": "Other mental retardation",
+  "subcategory": "",
+  "title": "Other mental retardation with the statement of no, or minimal, impairment of behaviour",
+  "inclusion": [
+    "disorders of psychological development"
+  ],
+  "exclusion": [
+    "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified"
+  ],
+  "children": null
+}

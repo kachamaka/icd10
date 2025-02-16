@@ -1,0 +1,21 @@
+{
+    "icd10code": "U47.9",
+    "type": "subcategory",
+    "title": "Emergency use of U47.9",
+    "chapter": "Codes for special purposes",
+    "chapterCode": "XXII",
+    "block": "Provisional assignment of new diseases of uncertain etiology or emergency use",
+    "blockCode": "U00-U49",
+    "category": "Emergency use of U47",
+    "categoryCode": "U47",
+    "subcategory": "U47.9",
+    "inclusion": null,
+    "exclusion": null,
+    "symptoms": [
+        "fever",
+        "cough",
+        "shortness of breath",
+        "fatigue",
+        "muscle pain"
+    ]
+}

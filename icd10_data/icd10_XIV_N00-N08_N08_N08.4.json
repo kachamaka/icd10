@@ -1,0 +1,30 @@
+{
+  "type": "subcategory",
+  "chapterCode": "XIV",
+  "chapter": "Diseases of the genitourinary system",
+  "blockCode": "N00-N08",
+  "block": "Glomerular diseases",
+  "categoryCode": "N08",
+  "category": "Glomerular disorders in diseases classified elsewhere",
+  "subcategory": "N08.4",
+  "title": "Glomerular disorders in other endocrine, nutritional and metabolic diseases",
+  "inclusion": [
+    "nephropathy in diseases classified elsewhere",
+    "Glomerular disorders in: amyloidosis",
+    "Glomerular disorders in: Fabry(-Anderson) disease",
+    "Glomerular disorders in: lecithin cholesterol acyltransferase deficiency"
+  ],
+  "exclusion": [
+    "certain conditions originating in the perinatal period",
+    "certain infectious and parasitic diseases",
+    "complications of pregnancy, childbirth and the puerperium",
+    "congenital malformations, deformations and chromosomal abnormalities",
+    "endocrine, nutritional and metabolic diseases",
+    "injury, poisoning and certain other consequences of external causes",
+    "neoplasms",
+    "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+    "hypertensive renal disease",
+    "renal tubulo-interstitial disorders in diseases classified elsewhere"
+  ],
+  "children": null
+}

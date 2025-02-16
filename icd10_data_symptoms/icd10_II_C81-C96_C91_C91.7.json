@@ -1,0 +1,25 @@
+{
+    "icd10code": "C91.7",
+    "type": "subcategory",
+    "title": "Other lymphoid leukaemia",
+    "chapter": "Neoplasms",
+    "chapterCode": "II",
+    "block": "Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",
+    "blockCode": "C81-C96",
+    "category": "Lymphoid leukaemia",
+    "categoryCode": "C91",
+    "subcategory": "C91.7",
+    "inclusion": [
+        "T-cell large granular lymphocytic leukaemia (associated with rheumatoid arthritis)"
+    ],
+    "exclusion": [
+        "secondary and unspecified neoplasm of lymph nodes"
+    ],
+    "symptoms": [
+        "fever",
+        "fatigue",
+        "unintended weight loss",
+        "night sweats",
+        "swollen lymph nodes"
+    ]
+}

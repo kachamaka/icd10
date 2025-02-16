@@ -1,0 +1,21 @@
+{
+    "icd10code": "D47.2",
+    "type": "subcategory",
+    "title": "Monoclonal gammopathy of undetermined significance (MGUS)",
+    "chapter": "Neoplasms",
+    "chapterCode": "II",
+    "block": "Neoplasms of uncertain or unknown behaviour",
+    "blockCode": "D37-D48",
+    "category": "Other neoplasms of uncertain or unknown behaviour of lymphoid, haematopoietic and related tissue",
+    "categoryCode": "D47",
+    "subcategory": "D47.2",
+    "inclusion": null,
+    "exclusion": null,
+    "symptoms": [
+        "unexplained weight loss",
+        "fever",
+        "night sweats",
+        "ongoing fatigue",
+        "swollen lymph nodes"
+    ]
+}

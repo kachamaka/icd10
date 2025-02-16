@@ -1,0 +1,26 @@
+{
+    "icd10code": "Q24.5",
+    "type": "subcategory",
+    "title": "Malformation of coronary vessels",
+    "chapter": "Congenital malformations, deformations and chromosomal abnormalities",
+    "chapterCode": "XVII",
+    "block": "Congenital malformations of the circulatory system",
+    "blockCode": "Q20-Q28",
+    "category": "Other congenital malformations of heart",
+    "categoryCode": "Q24",
+    "subcategory": "Q24.5",
+    "inclusion": [
+        "Congenital coronary (artery) aneurysm"
+    ],
+    "exclusion": [
+        "inborn errors of metabolism",
+        "endocardial fibroelastosis"
+    ],
+    "symptoms": [
+        "fatigue",
+        "fainting",
+        "slow heartbeat",
+        "shortness of breath",
+        "chest pain"
+    ]
+}

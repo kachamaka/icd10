@@ -1,0 +1,29 @@
+{
+    "icd10code": "D16.8",
+    "type": "subcategory",
+    "title": "Benign neoplasm: Pelvic bones, sacrum and coccyx",
+    "chapter": "Neoplasms",
+    "chapterCode": "II",
+    "block": "Benign neoplasms",
+    "blockCode": "D10-D36",
+    "category": "Benign neoplasm of bone and articular cartilage",
+    "categoryCode": "D16",
+    "subcategory": "D16.8",
+    "inclusion": [
+        "morphology codes with behaviour code /0"
+    ],
+    "exclusion": [
+        "connective tissue of: ear",
+        "connective tissue of: eyelid",
+        "connective tissue of: larynx",
+        "connective tissue of: nose",
+        "synovia"
+    ],
+    "symptoms": [
+        "pain in affected bone",
+        "swelling in affected area",
+        "bone fractures",
+        "impaired movement",
+        "unexplained weight loss"
+    ]
+}

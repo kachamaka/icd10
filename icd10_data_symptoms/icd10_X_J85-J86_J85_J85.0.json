@@ -1,0 +1,30 @@
+{
+    "icd10code": "J85.0",
+    "type": "subcategory",
+    "title": "Gangrene and necrosis of lung",
+    "chapter": "Diseases of the respiratory system",
+    "chapterCode": "X",
+    "block": "Suppurative and necrotic conditions of lower respiratory tract",
+    "blockCode": "J85-J86",
+    "category": "Abscess of lung and mediastinum",
+    "categoryCode": "J85",
+    "subcategory": "J85.0",
+    "inclusion": null,
+    "exclusion": [
+        "certain conditions originating in the perinatal period",
+        "certain infectious and parasitic diseases",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified"
+    ],
+    "symptoms": [
+        "fever",
+        "cough",
+        "chest pain",
+        "dyspnea",
+        "malaise"
+    ]
+}

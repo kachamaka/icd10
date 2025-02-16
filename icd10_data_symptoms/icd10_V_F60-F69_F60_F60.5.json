@@ -1,0 +1,29 @@
+{
+    "icd10code": "F60.5",
+    "type": "subcategory",
+    "title": "Anankastic personality disorder",
+    "chapter": "Mental and behavioural disorders",
+    "chapterCode": "V",
+    "block": "Disorders of adult personality and behaviour",
+    "blockCode": "F60-F69",
+    "category": "Specific personality disorders",
+    "categoryCode": "F60",
+    "subcategory": "F60.5",
+    "inclusion": [
+        "disorders of psychological development",
+        "Personality (disorder): compulsive",
+        "Personality (disorder): obsessional",
+        "Personality (disorder): obsessive-compulsive"
+    ],
+    "exclusion": [
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "obsessive-compulsive disorder"
+    ],
+    "symptoms": [
+        "lack of empathy",
+        "difficulty forming relationships",
+        "superficial emotions",
+        "social detachment",
+        "need for admiration"
+    ]
+}

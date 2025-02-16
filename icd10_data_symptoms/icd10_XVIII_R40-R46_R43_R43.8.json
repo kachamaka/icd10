@@ -1,0 +1,27 @@
+{
+    "icd10code": "R43.8",
+    "type": "subcategory",
+    "title": "Other and unspecified disturbances of smell and taste",
+    "chapter": "Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+    "chapterCode": "XVIII",
+    "block": "Symptoms and signs involving cognition, perception, emotional state and behaviour",
+    "blockCode": "R40-R46",
+    "category": "Disturbances of smell and taste",
+    "categoryCode": "R43",
+    "subcategory": "R43.8",
+    "inclusion": [
+        "Mixed disturbance of smell and taste"
+    ],
+    "exclusion": [
+        "abnormal findings on antenatal screening of mother",
+        "certain conditions originating in the perinatal period",
+        "those constituting part of a pattern of mental disorder"
+    ],
+    "symptoms": [
+        "altered taste",
+        "loss of smell",
+        "distortion of smell",
+        "parosmia",
+        "phantosmia"
+    ]
+}

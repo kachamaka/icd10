@@ -1,0 +1,35 @@
+{
+    "icd10code": "N90.6",
+    "type": "subcategory",
+    "title": "Hypertrophy of vulva",
+    "chapter": "Diseases of the genitourinary system",
+    "chapterCode": "XIV",
+    "block": "Noninflammatory disorders of female genital tract",
+    "blockCode": "N80-N98",
+    "category": "Other noninflammatory disorders of vulva and perineum",
+    "categoryCode": "N90",
+    "subcategory": "N90.6",
+    "inclusion": [
+        "Hypertrophy of labia"
+    ],
+    "exclusion": [
+        "certain conditions originating in the perinatal period",
+        "certain infectious and parasitic diseases",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "carcinoma in situ of vulva",
+        "current obstetric trauma",
+        "inflammation of vulva"
+    ],
+    "symptoms": [
+        "pelvic pain",
+        "abnormal vaginal discharge",
+        "irregular bleeding",
+        "itching",
+        "and discomfort during intercourse"
+    ]
+}

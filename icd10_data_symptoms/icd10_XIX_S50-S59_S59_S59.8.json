@@ -1,0 +1,36 @@
+{
+    "icd10code": "S59.8",
+    "type": "subcategory",
+    "title": "Other specified injuries of forearm",
+    "chapter": "Injury, poisoning and certain other consequences of external causes",
+    "chapterCode": "XIX",
+    "block": "Injuries to the elbow and forearm",
+    "blockCode": "S50-S59",
+    "category": "Other and unspecified injuries of forearm",
+    "categoryCode": "S59",
+    "subcategory": "S59.8",
+    "inclusion": null,
+    "exclusion": [
+        "birth trauma",
+        "obstetric trauma",
+        "malunion of fracture",
+        "nonunion of fracture [pseudarthrosis]",
+        "pathological fracture",
+        "pathological fracture with osteoporosis",
+        "stress fracture",
+        "bilateral involvement of elbow and forearm",
+        "burns and corrosions",
+        "frostbite",
+        "injuries of: arm, level unspecified",
+        "injuries of: wrist and hand",
+        "insect bite or sting, venomous",
+        "Monteggia fracture-dislocation"
+    ],
+    "symptoms": [
+        "pain in forearm",
+        "swelling",
+        "limited range of motion",
+        "tenderness",
+        "bruising"
+    ]
+}

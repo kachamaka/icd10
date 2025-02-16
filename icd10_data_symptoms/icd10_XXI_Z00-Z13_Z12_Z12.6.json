@@ -1,0 +1,23 @@
+{
+    "icd10code": "Z12.6",
+    "type": "subcategory",
+    "title": "Special screening examination for neoplasm of bladder",
+    "chapter": "Factors influencing health status and contact with health services",
+    "chapterCode": "XXI",
+    "block": "Persons encountering health services for examination and investigation",
+    "blockCode": "Z00-Z13",
+    "category": "Special screening examination for neoplasms",
+    "categoryCode": "Z12",
+    "subcategory": "Z12.6",
+    "inclusion": null,
+    "exclusion": [
+        "examinations related to pregnancy and reproduction"
+    ],
+    "symptoms": [
+        "abnormal pap smear",
+        "pelvic pain",
+        "postmenopausal bleeding",
+        "vaginal discharge",
+        "irregular menstruation"
+    ]
+}

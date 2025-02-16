@@ -1,0 +1,25 @@
+{
+    "icd10code": "R49.2",
+    "type": "subcategory",
+    "title": "Hypernasality and hyponasality",
+    "chapter": "Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+    "chapterCode": "XVIII",
+    "block": "Symptoms and signs involving speech and voice",
+    "blockCode": "R47-R49",
+    "category": "Voice disturbances",
+    "categoryCode": "R49",
+    "subcategory": "R49.2",
+    "inclusion": null,
+    "exclusion": [
+        "abnormal findings on antenatal screening of mother",
+        "certain conditions originating in the perinatal period",
+        "psychogenic voice disturbance"
+    ],
+    "symptoms": [
+        "hoarseness",
+        "voice fatigue",
+        "weak voice",
+        "altered vocal quality",
+        "difficulty projecting voice"
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "icd10code": "Z13.3",
+    "type": "subcategory",
+    "title": "Special screening examination for mental and behavioural disorders",
+    "chapter": "Factors influencing health status and contact with health services",
+    "chapterCode": "XXI",
+    "block": "Persons encountering health services for examination and investigation",
+    "blockCode": "Z00-Z13",
+    "category": "Special screening examination for other diseases and disorders",
+    "categoryCode": "Z13",
+    "subcategory": "Z13.3",
+    "inclusion": [
+        "Alcoholism",
+        "Depression",
+        "Mental retardation"
+    ],
+    "exclusion": [
+        "examinations related to pregnancy and reproduction"
+    ],
+    "symptoms": [
+        "developmental delay",
+        "learning difficulties",
+        "speech impairment",
+        "behavioral concerns",
+        "social interaction challenges"
+    ]
+}

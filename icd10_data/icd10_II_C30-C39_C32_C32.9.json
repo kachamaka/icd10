@@ -1,0 +1,18 @@
+{
+  "type": "subcategory",
+  "chapterCode": "II",
+  "chapter": "Neoplasms",
+  "blockCode": "C30-C39",
+  "block": "Malignant neoplasms of respiratory and intrathoracic organs",
+  "categoryCode": "C32",
+  "category": "Malignant neoplasm of larynx",
+  "subcategory": "C32.9",
+  "title": "Malignant neoplasm: Larynx, unspecified",
+  "inclusion": [
+    "middle ear"
+  ],
+  "exclusion": [
+    "mesothelioma"
+  ],
+  "children": null
+}

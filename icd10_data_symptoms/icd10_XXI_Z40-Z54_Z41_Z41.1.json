@@ -1,0 +1,22 @@
+{
+    "icd10code": "Z41.1",
+    "type": "subcategory",
+    "title": "Other plastic surgery for unacceptable cosmetic appearance",
+    "chapter": "Factors influencing health status and contact with health services",
+    "chapterCode": "XXI",
+    "block": "Persons encountering health services for specific procedures and health care",
+    "blockCode": "Z40-Z54",
+    "category": "Procedures for purposes other than remedying health state",
+    "categoryCode": "Z41",
+    "subcategory": "Z41.1",
+    "inclusion": [
+        "Breast implant"
+    ],
+    "exclusion": [
+        "follow-up examination for medical surveillance after treatment",
+        "plastic and reconstructive surgery following healed injury or operation"
+    ],
+    "symptoms": [
+        "asymptomatic"
+    ]
+}

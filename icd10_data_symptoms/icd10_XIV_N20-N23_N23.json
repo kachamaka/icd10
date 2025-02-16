@@ -1,0 +1,30 @@
+{
+    "icd10code": "N23",
+    "type": "category",
+    "title": "Unspecified renal colic",
+    "chapter": "Diseases of the genitourinary system",
+    "chapterCode": "XIV",
+    "block": "Urolithiasis",
+    "blockCode": "N20-N23",
+    "category": "Unspecified renal colic",
+    "categoryCode": "N23",
+    "subcategory": "",
+    "inclusion": null,
+    "exclusion": [
+        "certain conditions originating in the perinatal period",
+        "certain infectious and parasitic diseases",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified"
+    ],
+    "symptoms": [
+        "flank pain",
+        "hematuria",
+        "nausea",
+        "vomiting",
+        "urinary frequency"
+    ]
+}

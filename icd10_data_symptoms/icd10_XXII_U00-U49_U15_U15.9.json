@@ -1,0 +1,21 @@
+{
+    "icd10code": "U15.9",
+    "type": "subcategory",
+    "title": "Emergency use of U15.9",
+    "chapter": "Codes for special purposes",
+    "chapterCode": "XXII",
+    "block": "Provisional assignment of new diseases of uncertain etiology or emergency use",
+    "blockCode": "U00-U49",
+    "category": "Emergency use of U15",
+    "categoryCode": "U15",
+    "subcategory": "U15.9",
+    "inclusion": null,
+    "exclusion": null,
+    "symptoms": [
+        "fever",
+        "cough",
+        "shortness of breath",
+        "fatigue",
+        "chest pain"
+    ]
+}

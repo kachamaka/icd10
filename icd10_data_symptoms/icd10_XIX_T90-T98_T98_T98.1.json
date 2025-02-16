@@ -1,0 +1,31 @@
+{
+    "icd10code": "T98.1",
+    "type": "subcategory",
+    "title": "Sequelae of other and unspecified effects of external causes",
+    "chapter": "Injury, poisoning and certain other consequences of external causes",
+    "chapterCode": "XIX",
+    "block": "Sequelae of injuries, of poisoning and of other consequences of external causes",
+    "blockCode": "T90-T98",
+    "category": "Sequelae of other and unspecified effects of external causes",
+    "categoryCode": "T98",
+    "subcategory": "T98.1",
+    "inclusion": [
+        "Sequelae of effects classifiable to T66-T78"
+    ],
+    "exclusion": [
+        "birth trauma",
+        "obstetric trauma",
+        "malunion of fracture",
+        "nonunion of fracture [pseudarthrosis]",
+        "pathological fracture",
+        "pathological fracture with osteoporosis",
+        "stress fracture"
+    ],
+    "symptoms": [
+        "pain",
+        "tenderness",
+        "swelling",
+        "stiffness",
+        "limited movement"
+    ]
+}

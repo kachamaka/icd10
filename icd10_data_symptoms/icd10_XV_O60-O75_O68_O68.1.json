@@ -1,0 +1,33 @@
+{
+    "icd10code": "O68.1",
+    "type": "subcategory",
+    "title": "Labour and delivery complicated by meconium in amniotic fluid",
+    "chapter": "Pregnancy, childbirth and the puerperium",
+    "chapterCode": "XV",
+    "block": "Complications of labour and delivery",
+    "blockCode": "O60-O75",
+    "category": "Labour and delivery complicated by fetal stress [distress]",
+    "categoryCode": "O68",
+    "subcategory": "O68.1",
+    "inclusion": [
+        "fetal distress in labour or delivery due to drug administration"
+    ],
+    "exclusion": [
+        "Certain diseases or injuries complicating pregnancy, childbirth and the puerperium classified elsewhere: external causes (for mortality)",
+        "Certain diseases or injuries complicating pregnancy, childbirth and the puerperium classified elsewhere: injury, poisoning and certain other consequences of external cause",
+        "Certain diseases or injuries complicating pregnancy, childbirth and the puerperium classified elsewhere: mental and behavioural disorders associated with the puerperium",
+        "Certain diseases or injuries complicating pregnancy, childbirth and the puerperium classified elsewhere: obstetrical tetanus",
+        "Certain diseases or injuries complicating pregnancy, childbirth and the puerperium classified elsewhere: postpartum necrosis of pituitary gland",
+        "Certain diseases or injuries complicating pregnancy, childbirth and the puerperium classified elsewhere: puerperal osteomalacia",
+        "supervision of: high-risk pregnancy",
+        "supervision of: normal pregnancy",
+        "with fetal heart rate anomaly"
+    ],
+    "symptoms": [
+        "fetal heart rate irregularity",
+        "decreased fetal movements",
+        "lack of fetal growth",
+        "uterine tenderness",
+        "maternal hypertension"
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "icd10code": "K02.2",
+    "type": "subcategory",
+    "title": "Caries of cementum",
+    "chapter": "Diseases of the digestive system",
+    "chapterCode": "XI",
+    "block": "Diseases of oral cavity, salivary glands and jaws",
+    "blockCode": "K00-K14",
+    "category": "Dental caries",
+    "categoryCode": "K02",
+    "subcategory": "K02.2",
+    "inclusion": null,
+    "exclusion": [
+        "certain conditions originating in the perinatal period",
+        "certain infectious and parasitic diseases",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified"
+    ],
+    "symptoms": [
+        "toothache",
+        "sensitivity to hot/cold",
+        "visible cavity",
+        "discoloration",
+        "difficulty chewing"
+    ]
+}

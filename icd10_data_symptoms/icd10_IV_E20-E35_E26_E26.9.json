@@ -1,0 +1,27 @@
+{
+    "icd10code": "E26.9",
+    "type": "subcategory",
+    "title": "Hyperaldosteronism, unspecified",
+    "chapter": "Endocrine, nutritional and metabolic diseases",
+    "chapterCode": "IV",
+    "block": "Disorders of other endocrine glands",
+    "blockCode": "E20-E35",
+    "category": "Hyperaldosteronism",
+    "categoryCode": "E26",
+    "subcategory": "E26.9",
+    "inclusion": null,
+    "exclusion": [
+        "complications of pregnancy, childbirth and the puerperium",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "transitory endocrine and metabolic disorders specific to fetus and newborn",
+        "galactorrhoea",
+        "gynaecomastia"
+    ],
+    "symptoms": [
+        "high blood pressure",
+        "rapid heart rate",
+        "unexpected weight loss",
+        "excessive sweating",
+        "trembling hands"
+    ]
+}

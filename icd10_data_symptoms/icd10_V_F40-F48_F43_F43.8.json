@@ -1,0 +1,26 @@
+{
+    "icd10code": "F43.8",
+    "type": "subcategory",
+    "title": "Other reactions to severe stress",
+    "chapter": "Mental and behavioural disorders",
+    "chapterCode": "V",
+    "block": "Neurotic, stress-related and somatoform disorders",
+    "blockCode": "F40-F48",
+    "category": "Reaction to severe stress, and adjustment disorders",
+    "categoryCode": "F43",
+    "subcategory": "F43.8",
+    "inclusion": [
+        "disorders of psychological development"
+    ],
+    "exclusion": [
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "when associated with conduct disorder in F91.-"
+    ],
+    "symptoms": [
+        "anxiety",
+        "distress",
+        "emotional numbness",
+        "difficulty concentrating",
+        "sleep disturbances"
+    ]
+}

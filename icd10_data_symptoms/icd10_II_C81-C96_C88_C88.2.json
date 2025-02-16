@@ -1,0 +1,27 @@
+{
+    "icd10code": "C88.2",
+    "type": "subcategory",
+    "title": "Other heavy chain disease",
+    "chapter": "Neoplasms",
+    "chapterCode": "II",
+    "block": "Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",
+    "blockCode": "C81-C96",
+    "category": "Malignant immunoproliferative diseases",
+    "categoryCode": "C88",
+    "subcategory": "C88.2",
+    "inclusion": [
+        "Franklin disease",
+        "Gamma heavy chain disease",
+        "Mu (µ) heavy chain disease"
+    ],
+    "exclusion": [
+        "secondary and unspecified neoplasm of lymph nodes"
+    ],
+    "symptoms": [
+        "unexplained weight loss",
+        "fever",
+        "night sweats",
+        "lack of energy",
+        "enlarged lymph nodes"
+    ]
+}

@@ -1,0 +1,37 @@
+{
+    "icd10code": "I95.8",
+    "type": "subcategory",
+    "title": "Other hypotension",
+    "chapter": "Diseases of the circulatory system",
+    "chapterCode": "IX",
+    "block": "Other and unspecified disorders of the circulatory system",
+    "blockCode": "I95-I99",
+    "category": "Hypotension",
+    "categoryCode": "I95",
+    "subcategory": "I95.8",
+    "inclusion": [
+        "Chronic hypotension"
+    ],
+    "exclusion": [
+        "certain conditions originating in the perinatal period",
+        "certain infectious and parasitic diseases",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "systemic connective tissue disorders",
+        "transient cerebral ischaemic attacks and related syndromes",
+        "pulmonary",
+        "naevus: blue",
+        "complicating: childbirth and the puerperium"
+    ],
+    "symptoms": [
+        "dizziness",
+        "lightheadedness",
+        "fainting spells",
+        "unusual fatigue",
+        "heart palpitations"
+    ]
+}

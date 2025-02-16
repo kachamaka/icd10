@@ -1,0 +1,25 @@
+{
+    "icd10code": "Q95.4",
+    "type": "subcategory",
+    "title": "Individuals with marker heterochromatin",
+    "chapter": "Congenital malformations, deformations and chromosomal abnormalities",
+    "chapterCode": "XVII",
+    "block": "Chromosomal abnormalities, not elsewhere classified",
+    "blockCode": "Q90-Q99",
+    "category": "Balanced rearrangements and structural markers, not elsewhere classified",
+    "categoryCode": "Q95",
+    "subcategory": "Q95.4",
+    "inclusion": [
+        "Robertsonian and balanced reciprocal translocations and insertions"
+    ],
+    "exclusion": [
+        "inborn errors of metabolism"
+    ],
+    "symptoms": [
+        "asymptomatic",
+        "infertility",
+        "developmental delays",
+        "intellectual disabilities",
+        "abnormal physical features"
+    ]
+}

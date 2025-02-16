@@ -1,0 +1,36 @@
+{
+    "icd10code": "P57.8",
+    "type": "subcategory",
+    "title": "Other specified kernicterus",
+    "chapter": "Certain conditions originating in the perinatal period",
+    "chapterCode": "XVI",
+    "block": "Haemorrhagic and haematological disorders of fetus and newborn",
+    "blockCode": "P50-P61",
+    "category": "Kernicterus",
+    "categoryCode": "P57",
+    "subcategory": "P57.8",
+    "inclusion": [
+        "conditions that have their origin in the perinatal period even though death or morbidity occurs later"
+    ],
+    "exclusion": [
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "tetanus neonatorum",
+        "whooping cough",
+        "congenital stenosis and stricture of bile ducts",
+        "Crigler-Najjar syndrome",
+        "Dubin-Johnson syndrome",
+        "Gilbert syndrome",
+        "hereditary haemolytic anaemias",
+        "Crigler-Najjar syndrome"
+    ],
+    "symptoms": [
+        "jaundice",
+        "lethargy",
+        "poor feeding",
+        "high-pitched cry",
+        "irritability"
+    ]
+}

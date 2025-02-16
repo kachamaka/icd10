@@ -1,0 +1,25 @@
+{
+    "icd10code": "Q26.9",
+    "type": "subcategory",
+    "title": "Congenital malformation of great vein, unspecified",
+    "chapter": "Congenital malformations, deformations and chromosomal abnormalities",
+    "chapterCode": "XVII",
+    "block": "Congenital malformations of the circulatory system",
+    "blockCode": "Q20-Q28",
+    "category": "Congenital malformations of great veins",
+    "categoryCode": "Q26",
+    "subcategory": "Q26.9",
+    "inclusion": [
+        "Anomaly of vena cava (inferior)(superior) NOS"
+    ],
+    "exclusion": [
+        "inborn errors of metabolism"
+    ],
+    "symptoms": [
+        "abnormal blood flow",
+        "cyanosis",
+        "swelling",
+        "fatigue",
+        "heart murmur"
+    ]
+}

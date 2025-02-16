@@ -1,0 +1,26 @@
+{
+    "icd10code": "D10.0",
+    "type": "subcategory",
+    "title": "Benign neoplasm: Lip",
+    "chapter": "Neoplasms",
+    "chapterCode": "II",
+    "block": "Benign neoplasms",
+    "blockCode": "D10-D36",
+    "category": "Benign neoplasm of mouth and pharynx",
+    "categoryCode": "D10",
+    "subcategory": "D10.0",
+    "inclusion": [
+        "morphology codes with behaviour code /0",
+        "Lip (frenulum)(inner aspect)(mucosa)(vermilion border)"
+    ],
+    "exclusion": [
+        "skin of lip"
+    ],
+    "symptoms": [
+        "sore throat",
+        "difficulty swallowing",
+        "lump in the throat",
+        "hoarse voice",
+        "throat pain"
+    ]
+}

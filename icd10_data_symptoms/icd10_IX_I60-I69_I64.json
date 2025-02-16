@@ -1,0 +1,40 @@
+{
+    "icd10code": "I64",
+    "type": "category",
+    "title": "Stroke, not specified as haemorrhage or infarction",
+    "chapter": "Diseases of the circulatory system",
+    "chapterCode": "IX",
+    "block": "Cerebrovascular diseases",
+    "blockCode": "I60-I69",
+    "category": "Stroke, not specified as haemorrhage or infarction",
+    "categoryCode": "I64",
+    "subcategory": "",
+    "inclusion": [
+        "with mention of hypertension (conditions in I10 and I15.-)",
+        "Cerebrovascular accident NOS"
+    ],
+    "exclusion": [
+        "certain conditions originating in the perinatal period",
+        "certain infectious and parasitic diseases",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "systemic connective tissue disorders",
+        "transient cerebral ischaemic attacks and related syndromes",
+        "chylocele: filarial",
+        "chylocele: tunica vaginalis (nonfilarial) NOS",
+        "enlarged lymph nodes NOS",
+        "sequelae of stroke"
+    ],
+    "symptoms": [
+        "sudden",
+        "severe headaches",
+        "trouble with speaking or understanding",
+        "uncoordination",
+        "blindness or double vision",
+        "paralysis or numbness of the face"
+    ]
+}

@@ -1,0 +1,21 @@
+{
+  "type": "subcategory",
+  "chapterCode": "II",
+  "chapter": "Neoplasms",
+  "blockCode": "D10-D36",
+  "block": "Benign neoplasms",
+  "categoryCode": "D22",
+  "category": "Melanocytic naevi",
+  "subcategory": "D22.7",
+  "title": "Melanocytic naevi of lower limb, including hip",
+  "inclusion": [
+    "morphology codes with behaviour code /0",
+    "morphology codes M872-M879 with behaviour code /0",
+    "naevus: NOS",
+    "naevus: blue",
+    "naevus: hairy",
+    "naevus: pigmented"
+  ],
+  "exclusion": null,
+  "children": null
+}

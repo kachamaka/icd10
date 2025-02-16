@@ -1,0 +1,19 @@
+{
+  "type": "subcategory",
+  "chapterCode": "XXI",
+  "chapter": "Factors influencing health status and contact with health services",
+  "blockCode": "Z70-Z76",
+  "block": "Persons encountering health services in other circumstances",
+  "categoryCode": "Z72",
+  "category": "Problems related to lifestyle",
+  "subcategory": "Z72.2",
+  "title": "Drug use",
+  "inclusion": null,
+  "exclusion": [
+    "problems related to: life-management difficulty",
+    "problems related to: socioeconomic and psychosocial circumstances",
+    "abuse of non-dependence-producing substances",
+    "drug dependence"
+  ],
+  "children": null
+}

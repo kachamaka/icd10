@@ -1,0 +1,19 @@
+{
+  "type": "subcategory",
+  "chapterCode": "XVII",
+  "chapter": "Congenital malformations, deformations and chromosomal abnormalities",
+  "blockCode": "Q38-Q45",
+  "block": "Other congenital malformations of the digestive system",
+  "categoryCode": "Q42",
+  "category": "Congenital absence, atresia and stenosis of large intestine",
+  "subcategory": "Q42.1",
+  "title": "Congenital absence, atresia and stenosis of rectum without fistula",
+  "inclusion": [
+    "congenital obstruction, occlusion and stricture of large intestine",
+    "Imperforate rectum"
+  ],
+  "exclusion": [
+    "inborn errors of metabolism"
+  ],
+  "children": null
+}

@@ -1,0 +1,36 @@
+{
+    "icd10code": "X26",
+    "type": "category",
+    "title": "Contact with venomous marine animals and plants",
+    "chapter": "External causes of morbidity and mortality",
+    "chapterCode": "XX",
+    "block": "Contact with venomous animals and plants",
+    "blockCode": "X20-X29",
+    "category": "Contact with venomous marine animals and plants",
+    "categoryCode": "X26",
+    "subcategory": "",
+    "inclusion": [
+        "chemical released by: animal",
+        "chemical released by: insect",
+        "release of venom through fangs, hairs, spines, tentacles and other venom apparatus",
+        "venomous bites and stings",
+        "coral",
+        "jellyfish",
+        "nematocysts",
+        "sea: anemone",
+        "sea: cucumber",
+        "sea: urchin"
+    ],
+    "exclusion": [
+        "ingestion of poisonous animals or plants",
+        "nonvenomous marine animals",
+        "sea snakes"
+    ],
+    "symptoms": [
+        "burns",
+        "pain",
+        "redness",
+        "swelling",
+        "tissue damage"
+    ]
+}

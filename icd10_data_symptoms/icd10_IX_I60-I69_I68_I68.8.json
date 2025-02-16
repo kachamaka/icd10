@@ -1,0 +1,38 @@
+{
+    "icd10code": "I68.8",
+    "type": "subcategory",
+    "title": "Other cerebrovascular disorders in diseases classified elsewhere",
+    "chapter": "Diseases of the circulatory system",
+    "chapterCode": "IX",
+    "block": "Cerebrovascular diseases",
+    "blockCode": "I60-I69",
+    "category": "Cerebrovascular disorders in diseases classified elsewhere",
+    "categoryCode": "I68",
+    "subcategory": "I68.8",
+    "inclusion": [
+        "with mention of hypertension (conditions in I10 and I15.-)",
+        "Uraemic apoplexia in chronic kidney disease"
+    ],
+    "exclusion": [
+        "certain conditions originating in the perinatal period",
+        "certain infectious and parasitic diseases",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "systemic connective tissue disorders",
+        "transient cerebral ischaemic attacks and related syndromes",
+        "pulmonary",
+        "naevus: blue",
+        "complicating: childbirth and the puerperium"
+    ],
+    "symptoms": [
+        "headache",
+        "sudden severe pain",
+        "visual disturbances",
+        "difficulties in speaking",
+        "loss of balance or coordination"
+    ]
+}

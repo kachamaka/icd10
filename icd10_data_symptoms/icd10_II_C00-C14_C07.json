@@ -1,0 +1,20 @@
+{
+    "icd10code": "C07",
+    "type": "category",
+    "title": "Malignant neoplasm of parotid gland",
+    "chapter": "Neoplasms",
+    "chapterCode": "II",
+    "block": "Malignant neoplasms of lip, oral cavity and pharynx",
+    "blockCode": "C00-C14",
+    "category": "Malignant neoplasm of parotid gland",
+    "categoryCode": "C07",
+    "subcategory": "",
+    "inclusion": null,
+    "exclusion": null,
+    "symptoms": [
+        "pain or tenderness in the parotid (cheek) area",
+        "dry mouth",
+        "difficulty or discomfort while eating",
+        "swelling of the face or"
+    ]
+}

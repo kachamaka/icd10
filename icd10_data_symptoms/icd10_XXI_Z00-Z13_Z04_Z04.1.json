@@ -1,0 +1,26 @@
+{
+    "icd10code": "Z04.1",
+    "type": "subcategory",
+    "title": "Examination and observation following transport accident",
+    "chapter": "Factors influencing health status and contact with health services",
+    "chapterCode": "XXI",
+    "block": "Persons encountering health services for examination and investigation",
+    "blockCode": "Z00-Z13",
+    "category": "Examination and observation for other reasons",
+    "categoryCode": "Z04",
+    "subcategory": "Z04.1",
+    "inclusion": [
+        "examination for medicolegal reasons"
+    ],
+    "exclusion": [
+        "examinations related to pregnancy and reproduction",
+        "following work accident"
+    ],
+    "symptoms": [
+        "anxiety",
+        "headache",
+        "dizziness",
+        "nausea",
+        "palpitations"
+    ]
+}

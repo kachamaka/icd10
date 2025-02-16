@@ -1,0 +1,30 @@
+{
+  "type": "subcategory",
+  "chapterCode": "V",
+  "chapter": "Mental and behavioural disorders",
+  "blockCode": "F40-F48",
+  "block": "Neurotic, stress-related and somatoform disorders",
+  "categoryCode": "F44",
+  "category": "Dissociative [conversion] disorders",
+  "subcategory": "F44.0",
+  "title": "Dissociative amnesia",
+  "inclusion": [
+    "disorders of psychological development",
+    "conversion: hysteria",
+    "conversion: reaction",
+    "hysteria",
+    "hysterical psychosis"
+  ],
+  "exclusion": [
+    "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+    "when associated with conduct disorder in F91.-",
+    "malingering [conscious simulation]",
+    "alcohol- or other psychoactive substance-induced amnesic disorder",
+    "amnesia: NOS",
+    "amnesia: anterograde",
+    "amnesia: retrograde",
+    "nonalcoholic organic amnesic syndrome",
+    "postictal amnesia in epilepsy"
+  ],
+  "children": null
+}

@@ -1,0 +1,42 @@
+{
+    "icd10code": "M20.0",
+    "type": "subcategory",
+    "title": "Deformity of finger(s)",
+    "chapter": "Diseases of the musculoskeletal system and connective tissue",
+    "chapterCode": "XIII",
+    "block": "Other joint disorders",
+    "blockCode": "M20-M25",
+    "category": "Acquired deformities of fingers and toes",
+    "categoryCode": "M20",
+    "subcategory": "M20.0",
+    "inclusion": [
+        "Disorders affecting predominantly peripheral (limb) joints",
+        "Boutonnière and swan-neck deformities"
+    ],
+    "exclusion": [
+        "certain conditions originating in the perinatal period",
+        "certain disorders of the temporomandibular joint",
+        "certain infectious and parasitic diseases",
+        "compartment syndrome",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "polyarthritis NOS",
+        "viral arthropathies",
+        "adult-onset Still disease",
+        "post-traumatic arthrosis (of): NOS",
+        "clubbing of fingers",
+        "palmar fascial fibromatosis [Dupuytren]",
+        "trigger finger"
+    ],
+    "symptoms": [
+        "pain",
+        "swelling",
+        "stiffness",
+        "redness",
+        "and limited movement"
+    ]
+}

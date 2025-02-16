@@ -1,0 +1,28 @@
+{
+  "type": "category",
+  "chapterCode": "I",
+  "chapter": "Certain infectious and parasitic diseases",
+  "blockCode": "B00-B09",
+  "block": "Viral infections characterized by skin and mucous membrane lesions",
+  "categoryCode": "B07",
+  "category": "Viral warts",
+  "subcategory": "",
+  "title": "Viral warts",
+  "inclusion": [
+    "diseases generally recognized as communicable or transmissible",
+    "Verruca: simplex",
+    "Verruca: vulgaris"
+  ],
+  "exclusion": [
+    "carrier or suspected carrier of infectious disease",
+    "certain localized infections - see body system-related chapters",
+    "infectious and parasitic diseases complicating pregnancy, childbirth and the puerperium [except obstetrical tetanus]",
+    "infectious and parasitic diseases specific to the perinatal period [except tetanus neonatorum, whooping cough, congenital syphilis, perinatal gonococcal infection and perinatal human immunodeficiency virus [HIV] disease]",
+    "influenza and other acute respiratory infections",
+    "anogenital (venereal) warts",
+    "papilloma of: bladder",
+    "papilloma of: cervix",
+    "papilloma of: larynx"
+  ],
+  "children": null
+}

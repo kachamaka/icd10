@@ -1,0 +1,35 @@
+{
+  "type": "category",
+  "chapterCode": "XVIII",
+  "chapter": "Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+  "blockCode": "R50-R69",
+  "block": "General symptoms and signs",
+  "categoryCode": "R53",
+  "category": "Malaise and fatigue",
+  "subcategory": "",
+  "title": "Malaise and fatigue",
+  "inclusion": [
+    "Asthenia NOS",
+    "Debility: NOS",
+    "Debility: chronic",
+    "General physical deterioration",
+    "Lethargy",
+    "Tiredness"
+  ],
+  "exclusion": [
+    "abnormal findings on antenatal screening of mother",
+    "certain conditions originating in the perinatal period",
+    "debility: congenital",
+    "debility: senile",
+    "exhaustion and fatigue (due to)(in): combat",
+    "exhaustion and fatigue (due to)(in): excessive exertion",
+    "exhaustion and fatigue (due to)(in): exposure",
+    "exhaustion and fatigue (due to)(in): heat",
+    "exhaustion and fatigue (due to)(in): neurasthenia",
+    "exhaustion and fatigue (due to)(in): pregnancy",
+    "exhaustion and fatigue (due to)(in): senile asthenia",
+    "fatigue syndrome",
+    "fatigue syndrome postviral"
+  ],
+  "children": null
+}

@@ -1,0 +1,37 @@
+{
+    "icd10code": "K09.8",
+    "type": "subcategory",
+    "title": "Other cysts of oral region, not elsewhere classified",
+    "chapter": "Diseases of the digestive system",
+    "chapterCode": "XI",
+    "block": "Diseases of oral cavity, salivary glands and jaws",
+    "blockCode": "K00-K14",
+    "category": "Cysts of oral region, not elsewhere classified",
+    "categoryCode": "K09",
+    "subcategory": "K09.8",
+    "inclusion": [
+        "lesions showing histological features both of aneurysmal cyst and of another fibro-osseous lesion",
+        "Dermoid cyst of mouth",
+        "Epidermoid cyst of mouth",
+        "Lymphoepithelial cyst of mouth",
+        "Epstein pearl"
+    ],
+    "exclusion": [
+        "certain conditions originating in the perinatal period",
+        "certain infectious and parasitic diseases",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "radicular cyst"
+    ],
+    "symptoms": [
+        "jaw swelling",
+        "oral pain",
+        "difficulty swallowing",
+        "mouth sores",
+        "abnormal oral lesions"
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "icd10code": "Q43.8",
+    "type": "subcategory",
+    "title": "Other specified congenital malformations of intestine",
+    "chapter": "Congenital malformations, deformations and chromosomal abnormalities",
+    "chapterCode": "XVII",
+    "block": "Other congenital malformations of the digestive system",
+    "blockCode": "Q38-Q45",
+    "category": "Other congenital malformations of intestine",
+    "categoryCode": "Q43",
+    "subcategory": "Q43.8",
+    "inclusion": [
+        "Congenital: blind loop syndrome",
+        "Congenital: diverticulitis, colon",
+        "Congenital: diverticulum, intestine",
+        "Dolichocolon",
+        "Megaloappendix",
+        "Megaloduodenum",
+        "Microcolon",
+        "Transposition of: appendix",
+        "Transposition of: colon",
+        "Transposition of: intestine"
+    ],
+    "exclusion": [
+        "inborn errors of metabolism"
+    ],
+    "symptoms": [
+        "abdominal pain",
+        "nausea",
+        "vomiting",
+        "intestinal obstruction",
+        "abnormal bowel function"
+    ]
+}

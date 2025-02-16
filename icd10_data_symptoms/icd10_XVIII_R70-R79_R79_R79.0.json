@@ -1,0 +1,50 @@
+{
+    "icd10code": "R79.0",
+    "type": "subcategory",
+    "title": "Abnormal level of blood mineral",
+    "chapter": "Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+    "chapterCode": "XVIII",
+    "block": "Abnormal findings on examination of blood, without diagnosis",
+    "blockCode": "R70-R79",
+    "category": "Other abnormal findings of blood chemistry",
+    "categoryCode": "R79",
+    "subcategory": "R79.0",
+    "inclusion": [
+        "Abnormal blood level of: cobalt",
+        "Abnormal blood level of: copper",
+        "Abnormal blood level of: iron",
+        "Abnormal blood level of: magnesium",
+        "Abnormal blood level of: mineral NEC",
+        "Abnormal blood level of: zinc"
+    ],
+    "exclusion": [
+        "abnormal findings on antenatal screening of mother",
+        "certain conditions originating in the perinatal period",
+        "abnormalities (of)(on): antenatal screening of mother",
+        "abnormalities (of)(on): coagulation",
+        "abnormalities (of)(on): lipids",
+        "abnormalities (of)(on): platelets and thrombocytes",
+        "abnormalities (of)(on): white blood cells classified elsewhere",
+        "diagnostic abnormal findings classified elsewhere - see Alphabetical Index",
+        "haemorrhagic and haematological disorders of fetus and newborn",
+        "abnormality of fluid, electrolyte or acid-base balance",
+        "asymptomatic hyperuricaemia",
+        "hyperglycaemia NOS",
+        "hypoglycaemia NOS",
+        "hypoglycaemia NOS neonatal",
+        "specific findings indicating disorder of: amino-acid metabolism",
+        "specific findings indicating disorder of: carbohydrate metabolism",
+        "specific findings indicating disorder of: lipid metabolism",
+        "abnormal level of lithium",
+        "disorders of mineral metabolism",
+        "neonatal hypomagnesaemia",
+        "nutritional mineral deficiency"
+    ],
+    "symptoms": [
+        "abnormal glucose levels",
+        "increased thirst",
+        "frequent urination",
+        "excessive hunger",
+        "fatigue"
+    ]
+}

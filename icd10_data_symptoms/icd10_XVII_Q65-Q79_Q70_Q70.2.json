@@ -1,0 +1,25 @@
+{
+    "icd10code": "Q70.2",
+    "type": "subcategory",
+    "title": "Fused toes",
+    "chapter": "Congenital malformations, deformations and chromosomal abnormalities",
+    "chapterCode": "XVII",
+    "block": "Congenital malformations and deformations of the musculoskeletal system",
+    "blockCode": "Q65-Q79",
+    "category": "Syndactyly",
+    "categoryCode": "Q70",
+    "subcategory": "Q70.2",
+    "inclusion": [
+        "Complex syndactyly of toes with synostosis"
+    ],
+    "exclusion": [
+        "inborn errors of metabolism"
+    ],
+    "symptoms": [
+        "syndactyly of toes",
+        "fused toe bones",
+        "webbed toes",
+        "impaired toe movement",
+        "cosmetic concerns"
+    ]
+}

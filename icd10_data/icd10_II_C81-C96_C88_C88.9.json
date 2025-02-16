@@ -1,0 +1,18 @@
+{
+  "type": "subcategory",
+  "chapterCode": "II",
+  "chapter": "Neoplasms",
+  "blockCode": "C81-C96",
+  "block": "Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",
+  "categoryCode": "C88",
+  "category": "Malignant immunoproliferative diseases",
+  "subcategory": "C88.9",
+  "title": "Malignant immunoproliferative disease, unspecified",
+  "inclusion": [
+    "Immunoproliferative disease NOS"
+  ],
+  "exclusion": [
+    "secondary and unspecified neoplasm of lymph nodes"
+  ],
+  "children": null
+}

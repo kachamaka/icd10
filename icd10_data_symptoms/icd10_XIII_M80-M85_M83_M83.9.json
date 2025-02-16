@@ -1,0 +1,38 @@
+{
+    "icd10code": "M83.9",
+    "type": "subcategory",
+    "title": "Adult osteomalacia, unspecified",
+    "chapter": "Diseases of the musculoskeletal system and connective tissue",
+    "chapterCode": "XIII",
+    "block": "Disorders of bone density and structure",
+    "blockCode": "M80-M85",
+    "category": "Adult osteomalacia",
+    "categoryCode": "M83",
+    "subcategory": "M83.9",
+    "inclusion": null,
+    "exclusion": [
+        "certain conditions originating in the perinatal period",
+        "certain disorders of the temporomandibular joint",
+        "certain infectious and parasitic diseases",
+        "compartment syndrome",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "stress fracture of vertebra",
+        "pathological fracture in osteoporosis",
+        "sympathetic reflex dystrophy",
+        "pain due to intervertebral disc disorder",
+        "sciatica: due to intervertebral disc disorder",
+        "sciatica: with lumbago"
+    ],
+    "symptoms": [
+        "bone pain",
+        "muscle weakness",
+        "skeletal deformities",
+        "difficulty walking",
+        "frequent fractures"
+    ]
+}

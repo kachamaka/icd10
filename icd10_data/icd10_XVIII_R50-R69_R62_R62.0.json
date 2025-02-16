@@ -1,0 +1,22 @@
+{
+  "type": "subcategory",
+  "chapterCode": "XVIII",
+  "chapter": "Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+  "blockCode": "R50-R69",
+  "block": "General symptoms and signs",
+  "categoryCode": "R62",
+  "category": "Lack of expected normal physiological development",
+  "subcategory": "R62.0",
+  "title": "Delayed milestone",
+  "inclusion": [
+    "Delayed attainment of expected physiological developmental stage",
+    "Late: talker",
+    "Late: walker"
+  ],
+  "exclusion": [
+    "abnormal findings on antenatal screening of mother",
+    "certain conditions originating in the perinatal period",
+    "delayed puberty"
+  ],
+  "children": null
+}

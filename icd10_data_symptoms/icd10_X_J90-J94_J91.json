@@ -1,0 +1,30 @@
+{
+    "icd10code": "J91",
+    "type": "category",
+    "title": "Pleural effusion in conditions classified elsewhere",
+    "chapter": "Diseases of the respiratory system",
+    "chapterCode": "X",
+    "block": "Other diseases of pleura",
+    "blockCode": "J90-J94",
+    "category": "Pleural effusion in conditions classified elsewhere",
+    "categoryCode": "J91",
+    "subcategory": "",
+    "inclusion": null,
+    "exclusion": [
+        "certain conditions originating in the perinatal period",
+        "certain infectious and parasitic diseases",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified"
+    ],
+    "symptoms": [
+        "dyspnea",
+        "chest discomfort",
+        "cough",
+        "fatigue",
+        "reduced exercise tolerance"
+    ]
+}

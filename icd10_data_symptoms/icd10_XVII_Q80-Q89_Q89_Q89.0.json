@@ -1,0 +1,27 @@
+{
+    "icd10code": "Q89.0",
+    "type": "subcategory",
+    "title": "Congenital malformations of spleen",
+    "chapter": "Congenital malformations, deformations and chromosomal abnormalities",
+    "chapterCode": "XVII",
+    "block": "Other congenital malformations",
+    "blockCode": "Q80-Q89",
+    "category": "Other congenital malformations, not elsewhere classified",
+    "categoryCode": "Q89",
+    "subcategory": "Q89.0",
+    "inclusion": [
+        "Asplenia (congenital)",
+        "Congenital splenomegaly"
+    ],
+    "exclusion": [
+        "inborn errors of metabolism",
+        "isomerism of atrial appendages (with asplenia or polysplenia)"
+    ],
+    "symptoms": [
+        "ambiguous genitalia",
+        "abnormal genital development",
+        "intersex characteristics",
+        "hormonal imbalances",
+        "atypical chromosomal patterns"
+    ]
+}

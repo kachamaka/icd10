@@ -1,0 +1,29 @@
+{
+    "icd10code": "C86.6",
+    "type": "subcategory",
+    "title": "Primary cutaneous CD30-positive T-cell proliferations",
+    "chapter": "Neoplasms",
+    "chapterCode": "II",
+    "block": "Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",
+    "blockCode": "C81-C96",
+    "category": "Other specified types of T/NK-cell lymphoma",
+    "categoryCode": "C86",
+    "subcategory": "C86.6",
+    "inclusion": [
+        "Lymphomatoid papulosis",
+        "Primary cutaneous anaplastic large-cell lymphoma",
+        "Primary cutaneous CD30-positive large T-cell lymphoma"
+    ],
+    "exclusion": [
+        "secondary and unspecified neoplasm of lymph nodes",
+        "anaplastic large cell lymphoma, ALK negative",
+        "anaplastic large cell lymphoma, ALK positive"
+    ],
+    "symptoms": [
+        "fever",
+        "night sweats",
+        "weight loss",
+        "enlarged lymph nodes",
+        "fatigue"
+    ]
+}

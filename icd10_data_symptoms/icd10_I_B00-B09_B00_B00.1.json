@@ -1,0 +1,37 @@
+{
+    "icd10code": "B00.1",
+    "type": "subcategory",
+    "title": "Herpesviral vesicular dermatitis",
+    "chapter": "Certain infectious and parasitic diseases",
+    "chapterCode": "I",
+    "block": "Viral infections characterized by skin and mucous membrane lesions",
+    "blockCode": "B00-B09",
+    "category": "Herpesviral [herpes simplex] infections",
+    "categoryCode": "B00",
+    "subcategory": "B00.1",
+    "inclusion": [
+        "diseases generally recognized as communicable or transmissible",
+        "Herpes simplex: facialis",
+        "Herpes simplex: labialis",
+        "Vesicular dermatitis of: ear due to human (alpha) herpesvirus 2",
+        "Vesicular dermatitis of: lip due to human (alpha) herpesvirus 2"
+    ],
+    "exclusion": [
+        "carrier or suspected carrier of infectious disease",
+        "certain localized infections - see body system-related chapters",
+        "infectious and parasitic diseases complicating pregnancy, childbirth and the puerperium [except obstetrical tetanus]",
+        "infectious and parasitic diseases specific to the perinatal period [except tetanus neonatorum, whooping cough, congenital syphilis, perinatal gonococcal infection and perinatal human immunodeficiency virus [HIV] disease]",
+        "influenza and other acute respiratory infections",
+        "anogenital herpesviral infection",
+        "congenital herpesviral infection",
+        "gammaherpesviral mononucleosis",
+        "herpangina"
+    ],
+    "symptoms": [
+        "fever",
+        "sore throat",
+        "mouth ulcers",
+        "swollen lymph nodes",
+        "malaise"
+    ]
+}

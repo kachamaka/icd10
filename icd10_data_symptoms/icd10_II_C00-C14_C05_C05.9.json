@@ -1,0 +1,23 @@
+{
+    "icd10code": "C05.9",
+    "type": "subcategory",
+    "title": "Malignant neoplasm: Palate, unspecified",
+    "chapter": "Neoplasms",
+    "chapterCode": "II",
+    "block": "Malignant neoplasms of lip, oral cavity and pharynx",
+    "blockCode": "C00-C14",
+    "category": "Malignant neoplasm of palate",
+    "categoryCode": "C05",
+    "subcategory": "C05.9",
+    "inclusion": [
+        "Roof of mouth"
+    ],
+    "exclusion": null,
+    "symptoms": [
+        "pain or discomfort in mouth area",
+        "difficulty in swallowing",
+        "bleeding gums",
+        "loose teeth",
+        "increased salivation"
+    ]
+}

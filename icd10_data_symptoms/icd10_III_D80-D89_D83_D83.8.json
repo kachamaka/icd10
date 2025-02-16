@@ -1,0 +1,39 @@
+{
+    "icd10code": "D83.8",
+    "type": "subcategory",
+    "title": "Other common variable immunodeficiencies",
+    "chapter": "Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism",
+    "chapterCode": "III",
+    "block": "Certain disorders involving the immune mechanism",
+    "blockCode": "D80-D89",
+    "category": "Common variable immunodeficiency",
+    "categoryCode": "D83",
+    "subcategory": "D83.8",
+    "inclusion": [
+        "defects in the complement system",
+        "immunodeficiency disorders, except human immunodeficiency virus [HIV] disease",
+        "sarcoidosis"
+    ],
+    "exclusion": [
+        "autoimmune disease (systemic) NOS",
+        "certain conditions originating in the perinatal period",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "human immunodeficiency virus [HIV] disease",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "traumatic rupture of spleen",
+        "splenomegaly: congenital",
+        "disseminated intravascular coagulation",
+        "hyperhomocysteinemia"
+    ],
+    "symptoms": [
+        "frequent infections",
+        "prolonged or severe illness",
+        "poor growth and loss of weight",
+        "swelling in spleen or lymph nodes",
+        "abnormal blood test results"
+    ]
+}

@@ -1,0 +1,18 @@
+{
+  "type": "subcategory",
+  "chapterCode": "II",
+  "chapter": "Neoplasms",
+  "blockCode": "C81-C96",
+  "block": "Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",
+  "categoryCode": "C81",
+  "category": "Hodgkin lymphoma",
+  "subcategory": "C81.7",
+  "title": "Other classical Hodgkin lymphoma",
+  "inclusion": [
+    "Classic Hodgkin lymphoma, type not specified"
+  ],
+  "exclusion": [
+    "secondary and unspecified neoplasm of lymph nodes"
+  ],
+  "children": null
+}

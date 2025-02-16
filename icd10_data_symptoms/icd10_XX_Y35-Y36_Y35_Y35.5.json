@@ -1,0 +1,26 @@
+{
+    "icd10code": "Y35.5",
+    "type": "subcategory",
+    "title": "Legal execution",
+    "chapter": "External causes of morbidity and mortality",
+    "chapterCode": "XX",
+    "block": "Legal intervention and operations of war",
+    "blockCode": "Y35-Y36",
+    "category": "Legal intervention",
+    "categoryCode": "Y35",
+    "subcategory": "Y35.5",
+    "inclusion": [
+        "injuries inflicted by the police or other law-enforcing agents, including military on duty, in the course of arresting or attempting to arrest lawbreakers, suppressing disturbances, maintaining order, and other legal action",
+        "Any execution performed at the behest of the judiciary or ruling authority [whether permanent or temporary], such as: asphyxiation by gas",
+        "Any execution performed at the behest of the judiciary or ruling authority [whether permanent or temporary], such as: beheading, decapitation (by guillotine)",
+        "Any execution performed at the behest of the judiciary or ruling authority [whether permanent or temporary], such as: capital punishment",
+        "Any execution performed at the behest of the judiciary or ruling authority [whether permanent or temporary], such as: electrocution",
+        "Any execution performed at the behest of the judiciary or ruling authority [whether permanent or temporary], such as: hanging",
+        "Any execution performed at the behest of the judiciary or ruling authority [whether permanent or temporary], such as: poisoning",
+        "Any execution performed at the behest of the judiciary or ruling authority [whether permanent or temporary], such as: shooting"
+    ],
+    "exclusion": null,
+    "symptoms": [
+        "asymptomatic"
+    ]
+}

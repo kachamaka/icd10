@@ -1,0 +1,31 @@
+{
+    "icd10code": "F48.8",
+    "type": "subcategory",
+    "title": "Other specified neurotic disorders",
+    "chapter": "Mental and behavioural disorders",
+    "chapterCode": "V",
+    "block": "Neurotic, stress-related and somatoform disorders",
+    "blockCode": "F40-F48",
+    "category": "Other neurotic disorders",
+    "categoryCode": "F48",
+    "subcategory": "F48.8",
+    "inclusion": [
+        "disorders of psychological development",
+        "Dhat syndrome",
+        "Occupational neurosis, including writer cramp",
+        "Psychasthenia",
+        "Psychasthenic neurosis",
+        "Psychogenic syncope"
+    ],
+    "exclusion": [
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "when associated with conduct disorder in F91.-"
+    ],
+    "symptoms": [
+        "fatigue",
+        "irritability",
+        "sleep disturbances",
+        "headaches",
+        "muscle tension"
+    ]
+}

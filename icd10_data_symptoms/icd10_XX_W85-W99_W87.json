@@ -1,0 +1,29 @@
+{
+    "icd10code": "W87",
+    "type": "category",
+    "title": "Exposure to unspecified electric current",
+    "chapter": "External causes of morbidity and mortality",
+    "chapterCode": "XX",
+    "block": "Exposure to electric current, radiation and extreme ambient air temperature and pressure",
+    "blockCode": "W85-W99",
+    "category": "Exposure to unspecified electric current",
+    "categoryCode": "W87",
+    "subcategory": "",
+    "inclusion": [
+        "burns or other injury from electric current NOS",
+        "electric shock NOS",
+        "electrocution NOS"
+    ],
+    "exclusion": [
+        "abnormal reaction to a complication of treatment, without mention of misadventure",
+        "misadventure to patient in surgical and medical procedures",
+        "exposure to: natural: cold",
+        "exposure to: natural: heat",
+        "exposure to: radiation NOS",
+        "exposure to: sunlight",
+        "victim of lightning"
+    ],
+    "symptoms": [
+        "asymptomatic"
+    ]
+}

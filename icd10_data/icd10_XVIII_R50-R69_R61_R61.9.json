@@ -1,0 +1,20 @@
+{
+  "type": "subcategory",
+  "chapterCode": "XVIII",
+  "chapter": "Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+  "blockCode": "R50-R69",
+  "block": "General symptoms and signs",
+  "categoryCode": "R61",
+  "category": "Hyperhidrosis",
+  "subcategory": "R61.9",
+  "title": "Hyperhidrosis, unspecified",
+  "inclusion": [
+    "Excessive sweating",
+    "Night sweats"
+  ],
+  "exclusion": [
+    "abnormal findings on antenatal screening of mother",
+    "certain conditions originating in the perinatal period"
+  ],
+  "children": null
+}

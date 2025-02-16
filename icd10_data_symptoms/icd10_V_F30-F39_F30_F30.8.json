@@ -1,0 +1,26 @@
+{
+    "icd10code": "F30.8",
+    "type": "subcategory",
+    "title": "Other manic episodes",
+    "chapter": "Mental and behavioural disorders",
+    "chapterCode": "V",
+    "block": "Mood [affective] disorders",
+    "blockCode": "F30-F39",
+    "category": "Manic episode",
+    "categoryCode": "F30",
+    "subcategory": "F30.8",
+    "inclusion": [
+        "disorders of psychological development",
+        "bipolar disorder, single manic episode"
+    ],
+    "exclusion": [
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified"
+    ],
+    "symptoms": [
+        "elevated mood",
+        "increased energy",
+        "decreased need for sleep",
+        "racing thoughts",
+        "impulsive behavior"
+    ]
+}

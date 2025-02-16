@@ -1,0 +1,37 @@
+{
+    "icd10code": "G03.2",
+    "type": "subcategory",
+    "title": "Benign recurrent meningitis [Mollaret]",
+    "chapter": "Diseases of the nervous system",
+    "chapterCode": "VI",
+    "block": "Inflammatory diseases of the central nervous system",
+    "blockCode": "G00-G09",
+    "category": "Meningitis due to other and unspecified causes",
+    "categoryCode": "G03",
+    "subcategory": "G03.2",
+    "inclusion": [
+        "arachnoiditis due to other and unspecified causes",
+        "leptomeningitis due to other and unspecified causes",
+        "meningitis due to other and unspecified causes",
+        "pachymeningitis due to other and unspecified causes"
+    ],
+    "exclusion": [
+        "certain conditions originating in the perinatal period",
+        "certain infectious and parasitic diseases",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "meningoencephalitis",
+        "meningomyelitis"
+    ],
+    "symptoms": [
+        "headache",
+        "fever",
+        "neck stiffness",
+        "confusion",
+        "nausea"
+    ]
+}

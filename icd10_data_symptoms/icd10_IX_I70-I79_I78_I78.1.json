@@ -1,0 +1,47 @@
+{
+    "icd10code": "I78.1",
+    "type": "subcategory",
+    "title": "Naevus, non-neoplastic",
+    "chapter": "Diseases of the circulatory system",
+    "chapterCode": "IX",
+    "block": "Diseases of arteries, arterioles and capillaries",
+    "blockCode": "I70-I79",
+    "category": "Diseases of capillaries",
+    "categoryCode": "I78",
+    "subcategory": "I78.1",
+    "inclusion": [
+        "Naevus: araneus",
+        "Naevus: spider",
+        "Naevus: stellar"
+    ],
+    "exclusion": [
+        "certain conditions originating in the perinatal period",
+        "certain infectious and parasitic diseases",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "systemic connective tissue disorders",
+        "transient cerebral ischaemic attacks and related syndromes",
+        "naevus: NOS",
+        "naevus: blue",
+        "naevus: flammeus",
+        "naevus: hairy",
+        "naevus: melanocytic",
+        "naevus: pigmented",
+        "naevus: portwine",
+        "naevus: sanguineous",
+        "naevus: strawberry",
+        "naevus: vascular NOS",
+        "naevus: verrucous"
+    ],
+    "symptoms": [
+        "skin discoloration",
+        "swelling of affected area",
+        "pain",
+        "skin warmth",
+        "superficial venous dilation"
+    ]
+}

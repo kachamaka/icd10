@@ -1,0 +1,20 @@
+{
+    "icd10code": "W58",
+    "type": "category",
+    "title": "Bitten or struck by crocodile or alligator",
+    "chapter": "External causes of morbidity and mortality",
+    "chapterCode": "XX",
+    "block": "Exposure to animate mechanical forces",
+    "blockCode": "W50-W64",
+    "category": "Bitten or struck by crocodile or alligator",
+    "categoryCode": "W58",
+    "subcategory": "",
+    "inclusion": null,
+    "exclusion": [
+        "bites, venomous",
+        "stings (venomous)"
+    ],
+    "symptoms": [
+        "asymptomatic"
+    ]
+}

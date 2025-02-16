@@ -1,0 +1,19 @@
+{
+  "type": "category",
+  "chapterCode": "V",
+  "chapter": "Mental and behavioural disorders",
+  "blockCode": "F30-F39",
+  "block": "Mood [affective] disorders",
+  "categoryCode": "F39",
+  "category": "Unspecified mood [affective] disorder",
+  "subcategory": "",
+  "title": "Unspecified mood [affective] disorder",
+  "inclusion": [
+    "disorders of psychological development",
+    "Affective psychosis NOS"
+  ],
+  "exclusion": [
+    "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified"
+  ],
+  "children": null
+}

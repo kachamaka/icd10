@@ -1,0 +1,28 @@
+{
+    "icd10code": "F40.0",
+    "type": "subcategory",
+    "title": "Agoraphobia",
+    "chapter": "Mental and behavioural disorders",
+    "chapterCode": "V",
+    "block": "Neurotic, stress-related and somatoform disorders",
+    "blockCode": "F40-F48",
+    "category": "Phobic anxiety disorders",
+    "categoryCode": "F40",
+    "subcategory": "F40.0",
+    "inclusion": [
+        "disorders of psychological development",
+        "Agoraphobia without history of panic disorder",
+        "Panic disorder with agoraphobia"
+    ],
+    "exclusion": [
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "when associated with conduct disorder in F91.-"
+    ],
+    "symptoms": [
+        "intense fear",
+        "avoidance behavior",
+        "rapid heartbeat",
+        "sweating",
+        "dizziness"
+    ]
+}

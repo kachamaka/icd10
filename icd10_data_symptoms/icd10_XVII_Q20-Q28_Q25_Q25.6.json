@@ -1,0 +1,25 @@
+{
+    "icd10code": "Q25.6",
+    "type": "subcategory",
+    "title": "Stenosis of pulmonary artery",
+    "chapter": "Congenital malformations, deformations and chromosomal abnormalities",
+    "chapterCode": "XVII",
+    "block": "Congenital malformations of the circulatory system",
+    "blockCode": "Q20-Q28",
+    "category": "Congenital malformations of great arteries",
+    "categoryCode": "Q25",
+    "subcategory": "Q25.6",
+    "inclusion": [
+        "Supravalvular pulmonary stenosis"
+    ],
+    "exclusion": [
+        "inborn errors of metabolism"
+    ],
+    "symptoms": [
+        "heart murmur",
+        "fatigue",
+        "shortness of breath",
+        "chest pain",
+        "cyanosis"
+    ]
+}

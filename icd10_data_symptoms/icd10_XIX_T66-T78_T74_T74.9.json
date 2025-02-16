@@ -1,0 +1,32 @@
+{
+    "icd10code": "T74.9",
+    "type": "subcategory",
+    "title": "Maltreatment syndrome, unspecified",
+    "chapter": "Injury, poisoning and certain other consequences of external causes",
+    "chapterCode": "XIX",
+    "block": "Other and unspecified effects of external causes",
+    "blockCode": "T66-T78",
+    "category": "Maltreatment syndromes",
+    "categoryCode": "T74",
+    "subcategory": "T74.9",
+    "inclusion": [
+        "Effects of: abuse of adult NOS",
+        "Effects of: child abuse NOS"
+    ],
+    "exclusion": [
+        "birth trauma",
+        "obstetric trauma",
+        "malunion of fracture",
+        "nonunion of fracture [pseudarthrosis]",
+        "pathological fracture",
+        "pathological fracture with osteoporosis",
+        "stress fracture"
+    ],
+    "symptoms": [
+        "bruising",
+        "anxiety",
+        "depression",
+        "chronic pain",
+        "malnutrition"
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "icd10code": "D18.1",
+    "type": "subcategory",
+    "title": "Lymphangioma, any site",
+    "chapter": "Neoplasms",
+    "chapterCode": "II",
+    "block": "Benign neoplasms",
+    "blockCode": "D10-D36",
+    "category": "Haemangioma and lymphangioma, any site",
+    "categoryCode": "D18",
+    "subcategory": "D18.1",
+    "inclusion": [
+        "morphology codes with behaviour code /0",
+        "morphology codes M912-M917 with behaviour code /0"
+    ],
+    "exclusion": [
+        "blue or pigmented naevus"
+    ],
+    "symptoms": [
+        "pain at affected site",
+        "swelling or lump",
+        "redness or warmth at site",
+        "impaired function of affected area",
+        "bleeding or bruising easily"
+    ]
+}

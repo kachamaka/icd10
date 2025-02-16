@@ -1,0 +1,30 @@
+{
+  "type": "subcategory",
+  "chapterCode": "I",
+  "chapter": "Certain infectious and parasitic diseases",
+  "blockCode": "A15-A19",
+  "block": "Tuberculosis",
+  "categoryCode": "A16",
+  "category": "Respiratory tuberculosis, not confirmed bacteriologically or histologically",
+  "subcategory": "A16.9",
+  "title": "Respiratory tuberculosis unspecified, without mention of bacteriological or histological confirmation",
+  "inclusion": [
+    "diseases generally recognized as communicable or transmissible",
+    "infections due to Mycobacterium tuberculosis and Mycobacterium bovis",
+    "Respiratory tuberculosis NOS",
+    "Tuberculosis NOS"
+  ],
+  "exclusion": [
+    "carrier or suspected carrier of infectious disease",
+    "certain localized infections - see body system-related chapters",
+    "infectious and parasitic diseases complicating pregnancy, childbirth and the puerperium [except obstetrical tetanus]",
+    "infectious and parasitic diseases specific to the perinatal period [except tetanus neonatorum, whooping cough, congenital syphilis, perinatal gonococcal infection and perinatal human immunodeficiency virus [HIV] disease]",
+    "influenza and other acute respiratory infections",
+    "congenital tuberculosis",
+    "human immunodeficieny [HIV] disease resulting in tuberculosis",
+    "pneumoconiosis associated with tuberculosis",
+    "sequelae of tuberculosis",
+    "silicotuberculosis"
+  ],
+  "children": null
+}

@@ -1,0 +1,34 @@
+{
+    "icd10code": "B30.3",
+    "type": "subcategory",
+    "title": "Acute epidemic haemorrhagic conjunctivitis (enteroviral)",
+    "chapter": "Certain infectious and parasitic diseases",
+    "chapterCode": "I",
+    "block": "Other viral diseases",
+    "blockCode": "B25-B34",
+    "category": "Viral conjunctivitis",
+    "categoryCode": "B30",
+    "subcategory": "B30.3",
+    "inclusion": [
+        "diseases generally recognized as communicable or transmissible",
+        "Conjunctivitis due to: coxsackievirus 24",
+        "Conjunctivitis due to: enterovirus 70",
+        "Haemorrhagic conjunctivitis (acute)(epidemic)"
+    ],
+    "exclusion": [
+        "carrier or suspected carrier of infectious disease",
+        "certain localized infections - see body system-related chapters",
+        "infectious and parasitic diseases complicating pregnancy, childbirth and the puerperium [except obstetrical tetanus]",
+        "infectious and parasitic diseases specific to the perinatal period [except tetanus neonatorum, whooping cough, congenital syphilis, perinatal gonococcal infection and perinatal human immunodeficiency virus [HIV] disease]",
+        "influenza and other acute respiratory infections",
+        "haemorrhagic fever with renal manifestations",
+        "monkeypox"
+    ],
+    "symptoms": [
+        "eye redness",
+        "watery eyes",
+        "eye pain",
+        "blurred vision",
+        "light sensitivity"
+    ]
+}

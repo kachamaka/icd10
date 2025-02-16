@@ -1,0 +1,30 @@
+{
+    "icd10code": "G97.0",
+    "type": "subcategory",
+    "title": "Cerebrospinal fluid leak from spinal puncture",
+    "chapter": "Diseases of the nervous system",
+    "chapterCode": "VI",
+    "block": "Other disorders of the nervous system",
+    "blockCode": "G90-G99",
+    "category": "Postprocedural disorders of nervous system, not elsewhere classified",
+    "categoryCode": "G97",
+    "subcategory": "G97.0",
+    "inclusion": null,
+    "exclusion": [
+        "certain conditions originating in the perinatal period",
+        "certain infectious and parasitic diseases",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified"
+    ],
+    "symptoms": [
+        "headache",
+        "nausea",
+        "dizziness",
+        "vision changes",
+        "confusion"
+    ]
+}

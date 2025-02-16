@@ -1,0 +1,24 @@
+{
+    "icd10code": "Q64.0",
+    "type": "subcategory",
+    "title": "Epispadias",
+    "chapter": "Congenital malformations, deformations and chromosomal abnormalities",
+    "chapterCode": "XVII",
+    "block": "Congenital malformations of the urinary system",
+    "blockCode": "Q60-Q64",
+    "category": "Other congenital malformations of urinary system",
+    "categoryCode": "Q64",
+    "subcategory": "Q64.0",
+    "inclusion": null,
+    "exclusion": [
+        "inborn errors of metabolism",
+        "hypospadias"
+    ],
+    "symptoms": [
+        "urinary incontinence",
+        "recurrent utis",
+        "difficulty urinating",
+        "abnormal urinary stream",
+        "bladder emptying issues"
+    ]
+}

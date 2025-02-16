@@ -1,0 +1,32 @@
+{
+    "icd10code": "R85",
+    "type": "modifiedcategory",
+    "title": "Abnormal findings in specimens from digestive organs and abdominal cavity : abnormal immunological findings",
+    "chapter": "Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+    "chapterCode": "XVIII",
+    "block": "Abnormal findings on examination of other body fluids, substances and tissues, without diagnosis",
+    "blockCode": "R83-R89",
+    "category": "Abnormal findings in specimens from digestive organs and abdominal cavity",
+    "categoryCode": "R85",
+    "subcategory": "",
+    "inclusion": [
+        "Abnormal findings in: peritoneal fluid",
+        "Abnormal findings in: saliva"
+    ],
+    "exclusion": [
+        "abnormal findings on antenatal screening of mother",
+        "certain conditions originating in the perinatal period",
+        "abnormal findings on: antenatal screening of mother",
+        "abnormal findings on: examination of: blood, without diagnosis",
+        "abnormal findings on: examination of: urine, without diagnosis",
+        "diagnostic abnormal findings classified elsewhere - see Alphabetical Index",
+        "carcinoma in situ"
+    ],
+    "symptoms": [
+        "abnormal pap smear",
+        "atypical glandular cells",
+        "squamous intraepithelial lesion",
+        "cervical dysplasia",
+        "atypical squamous cells"
+    ]
+}

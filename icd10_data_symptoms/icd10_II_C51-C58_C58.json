@@ -1,0 +1,30 @@
+{
+    "icd10code": "C58",
+    "type": "category",
+    "title": "Malignant neoplasm of placenta",
+    "chapter": "Neoplasms",
+    "chapterCode": "II",
+    "block": "Malignant neoplasms of female genital organs",
+    "blockCode": "C51-C58",
+    "category": "Malignant neoplasm of placenta",
+    "categoryCode": "C58",
+    "subcategory": "",
+    "inclusion": [
+        "skin of female genital organs",
+        "Choriocarcinoma NOS",
+        "Chorionepithelioma NOS"
+    ],
+    "exclusion": [
+        "chorioadenoma (destruens)",
+        "hydatidiform mole: NOS",
+        "hydatidiform mole: invasive",
+        "hydatidiform mole: malignant"
+    ],
+    "symptoms": [
+        "abdominal pain",
+        "bloating",
+        "rapid weight gain",
+        "urinary urgency",
+        "persistent indigestion or nausea"
+    ]
+}

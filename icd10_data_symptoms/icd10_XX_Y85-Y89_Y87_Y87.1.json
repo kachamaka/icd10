@@ -1,0 +1,17 @@
+{
+    "icd10code": "Y87.1",
+    "type": "subcategory",
+    "title": "Sequelae of assault",
+    "chapter": "External causes of morbidity and mortality",
+    "chapterCode": "XX",
+    "block": "Sequelae of external causes of morbidity and mortality",
+    "blockCode": "Y85-Y89",
+    "category": "Sequelae of intentional self-harm, assault and events of undetermined intent",
+    "categoryCode": "Y87",
+    "subcategory": "Y87.1",
+    "inclusion": null,
+    "exclusion": null,
+    "symptoms": [
+        "asymptomatic"
+    ]
+}

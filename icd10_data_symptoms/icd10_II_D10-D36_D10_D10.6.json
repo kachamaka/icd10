@@ -1,0 +1,25 @@
+{
+    "icd10code": "D10.6",
+    "type": "subcategory",
+    "title": "Benign neoplasm: Nasopharynx",
+    "chapter": "Neoplasms",
+    "chapterCode": "II",
+    "block": "Benign neoplasms",
+    "blockCode": "D10-D36",
+    "category": "Benign neoplasm of mouth and pharynx",
+    "categoryCode": "D10",
+    "subcategory": "D10.6",
+    "inclusion": [
+        "morphology codes with behaviour code /0",
+        "Pharyngeal tonsil",
+        "Posterior margin of septum and choanae"
+    ],
+    "exclusion": null,
+    "symptoms": [
+        "difficulty swallowing",
+        "persistent mouth or throat soreness",
+        "unexplained mouth bleeding",
+        "white or red patches on the gums",
+        "loose teeth"
+    ]
+}

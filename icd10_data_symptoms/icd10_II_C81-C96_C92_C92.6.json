@@ -1,0 +1,27 @@
+{
+    "icd10code": "C92.6",
+    "type": "subcategory",
+    "title": "Acute myeloid leukaemia with 11q23-abnormality",
+    "chapter": "Neoplasms",
+    "chapterCode": "II",
+    "block": "Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",
+    "blockCode": "C81-C96",
+    "category": "Myeloid leukaemia",
+    "categoryCode": "C92",
+    "subcategory": "C92.6",
+    "inclusion": [
+        "leukaemia: granulocytic",
+        "leukaemia: myelogenous",
+        "Acute myeloid leukaemia with variation of MLL-gene"
+    ],
+    "exclusion": [
+        "secondary and unspecified neoplasm of lymph nodes"
+    ],
+    "symptoms": [
+        "fatigue",
+        "bleeding or bruising easily",
+        "recurrent infections",
+        "bone pain",
+        "weight loss"
+    ]
+}

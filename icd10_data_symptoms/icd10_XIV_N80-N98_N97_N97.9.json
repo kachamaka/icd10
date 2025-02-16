@@ -1,0 +1,34 @@
+{
+    "icd10code": "N97.9",
+    "type": "subcategory",
+    "title": "Female infertility, unspecified",
+    "chapter": "Diseases of the genitourinary system",
+    "chapterCode": "XIV",
+    "block": "Noninflammatory disorders of female genital tract",
+    "blockCode": "N80-N98",
+    "category": "Female infertility",
+    "categoryCode": "N97",
+    "subcategory": "N97.9",
+    "inclusion": [
+        "inability to achieve a pregnancy",
+        "sterility, female NOS"
+    ],
+    "exclusion": [
+        "certain conditions originating in the perinatal period",
+        "certain infectious and parasitic diseases",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "relative infertility"
+    ],
+    "symptoms": [
+        "irregular menstrual cycles",
+        "absence of menstruation",
+        "pelvic pain",
+        "hormonal imbalances",
+        "infertility"
+    ]
+}

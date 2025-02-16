@@ -1,0 +1,36 @@
+{
+  "type": "subcategory",
+  "chapterCode": "XIX",
+  "chapter": "Injury, poisoning and certain other consequences of external causes",
+  "blockCode": "S10-S19",
+  "block": "Injuries to the neck",
+  "categoryCode": "S14",
+  "category": "Injury of nerves and spinal cord at neck level",
+  "subcategory": "S14.4",
+  "title": "Injury of peripheral nerves of neck",
+  "inclusion": [
+    "injuries of: nape",
+    "injuries of: supraclavicular region",
+    "injuries of: throat"
+  ],
+  "exclusion": [
+    "birth trauma",
+    "obstetric trauma",
+    "malunion of fracture",
+    "nonunion of fracture [pseudarthrosis]",
+    "pathological fracture",
+    "pathological fracture with osteoporosis",
+    "stress fracture",
+    "burns and corrosions",
+    "effects of foreign body in: larynx",
+    "effects of foreign body in: oesophagus",
+    "effects of foreign body in: pharynx",
+    "effects of foreign body in: trachea",
+    "fracture of spine NOS",
+    "frostbite",
+    "injury of: spinal cord NOS",
+    "injury of: trunk NOS",
+    "insect bite or sting, venomous"
+  ],
+  "children": null
+}

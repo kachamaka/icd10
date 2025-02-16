@@ -1,0 +1,21 @@
+{
+  "type": "subcategory",
+  "chapterCode": "XVII",
+  "chapter": "Congenital malformations, deformations and chromosomal abnormalities",
+  "blockCode": "Q65-Q79",
+  "block": "Congenital malformations and deformations of the musculoskeletal system",
+  "categoryCode": "Q76",
+  "category": "Congenital malformations of spine and bony thorax",
+  "subcategory": "Q76.2",
+  "title": "Congenital spondylolisthesis",
+  "inclusion": [
+    "Congenital spondylolysis"
+  ],
+  "exclusion": [
+    "inborn errors of metabolism",
+    "congenital musculoskeletal deformities of spine and chest",
+    "spondylolisthesis (acquired)",
+    "spondylolysis (acquired)"
+  ],
+  "children": null
+}

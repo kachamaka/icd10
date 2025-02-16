@@ -1,0 +1,24 @@
+{
+    "icd10code": "Q65.4",
+    "type": "subcategory",
+    "title": "Congenital subluxation of hip, bilateral",
+    "chapter": "Congenital malformations, deformations and chromosomal abnormalities",
+    "chapterCode": "XVII",
+    "block": "Congenital malformations and deformations of the musculoskeletal system",
+    "blockCode": "Q65-Q79",
+    "category": "Congenital deformities of hip",
+    "categoryCode": "Q65",
+    "subcategory": "Q65.4",
+    "inclusion": null,
+    "exclusion": [
+        "inborn errors of metabolism",
+        "clicking hip"
+    ],
+    "symptoms": [
+        "limited abduction of the hip",
+        "leg length discrepancy",
+        "limp while walking",
+        "uneven skin folds on thighs",
+        "hip instability"
+    ]
+}

@@ -1,0 +1,24 @@
+{
+  "type": "subcategory",
+  "chapterCode": "XVIII",
+  "chapter": "Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+  "blockCode": "R95-R99",
+  "block": "Ill-defined and unknown causes of mortality",
+  "categoryCode": "R96",
+  "category": "Other sudden death, cause unknown",
+  "subcategory": "R96.0",
+  "title": "Instantaneous death",
+  "inclusion": [
+    "Sudden unexplained (infant) death (syndrome) age one year and over"
+  ],
+  "exclusion": [
+    "abnormal findings on antenatal screening of mother",
+    "certain conditions originating in the perinatal period",
+    "fetal death of unspecified cause",
+    "obstetric death NOS",
+    "sudden: cardiac death, so described",
+    "sudden: infant death syndrome",
+    "Sudden death of known aetiology (A00.0-Q99.9, U04.9, V01.0-Y89.9)"
+  ],
+  "children": null
+}

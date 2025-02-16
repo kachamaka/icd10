@@ -1,0 +1,25 @@
+{
+    "icd10code": "D15.9",
+    "type": "subcategory",
+    "title": "Benign neoplasm: Intrathoracic organ, unspecified",
+    "chapter": "Neoplasms",
+    "chapterCode": "II",
+    "block": "Benign neoplasms",
+    "blockCode": "D10-D36",
+    "category": "Benign neoplasm of other and unspecified intrathoracic organs",
+    "categoryCode": "D15",
+    "subcategory": "D15.9",
+    "inclusion": [
+        "morphology codes with behaviour code /0"
+    ],
+    "exclusion": [
+        "mesothelial tissue"
+    ],
+    "symptoms": [
+        "chest pain",
+        "shortness of breath",
+        "abnormal chest x-ray",
+        "cough",
+        "fatigue"
+    ]
+}

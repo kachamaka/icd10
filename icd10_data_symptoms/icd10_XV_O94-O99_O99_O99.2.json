@@ -1,0 +1,38 @@
+{
+    "icd10code": "O99.2",
+    "type": "subcategory",
+    "title": "Endocrine, nutritional and metabolic diseases complicating pregnancy, childbirth and the puerperium",
+    "chapter": "Pregnancy, childbirth and the puerperium",
+    "chapterCode": "XV",
+    "block": "Other obstetric conditions, not elsewhere classified",
+    "blockCode": "O94-O99",
+    "category": "Other maternal diseases classifiable elsewhere but complicating pregnancy, childbirth and the puerperium",
+    "categoryCode": "O99",
+    "subcategory": "O99.2",
+    "inclusion": [
+        "Conditions in E00-E90"
+    ],
+    "exclusion": [
+        "Certain diseases or injuries complicating pregnancy, childbirth and the puerperium classified elsewhere: external causes (for mortality)",
+        "Certain diseases or injuries complicating pregnancy, childbirth and the puerperium classified elsewhere: injury, poisoning and certain other consequences of external cause",
+        "Certain diseases or injuries complicating pregnancy, childbirth and the puerperium classified elsewhere: mental and behavioural disorders associated with the puerperium",
+        "Certain diseases or injuries complicating pregnancy, childbirth and the puerperium classified elsewhere: obstetrical tetanus",
+        "Certain diseases or injuries complicating pregnancy, childbirth and the puerperium classified elsewhere: postpartum necrosis of pituitary gland",
+        "Certain diseases or injuries complicating pregnancy, childbirth and the puerperium classified elsewhere: puerperal osteomalacia",
+        "supervision of: high-risk pregnancy",
+        "supervision of: normal pregnancy",
+        "infectious and parasitic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "when the reason for maternal care is that the condition is known or suspected to have affected the fetus",
+        "diabetes mellitus",
+        "malnutrition",
+        "postpartum thyroiditis"
+    ],
+    "symptoms": [
+        "fatigue",
+        "shortness of breath",
+        "dizziness",
+        "rapid heartbeat",
+        "chest pain"
+    ]
+}

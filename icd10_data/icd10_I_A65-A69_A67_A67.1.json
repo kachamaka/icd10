@@ -1,0 +1,28 @@
+{
+  "type": "subcategory",
+  "chapterCode": "I",
+  "chapter": "Certain infectious and parasitic diseases",
+  "blockCode": "A65-A69",
+  "block": "Other spirochaetal diseases",
+  "categoryCode": "A67",
+  "category": "Pinta [carate]",
+  "subcategory": "A67.1",
+  "title": "Intermediate lesions of pinta",
+  "inclusion": [
+    "diseases generally recognized as communicable or transmissible",
+    "Erythematous plaques of pinta [carate]",
+    "Hyperchromic lesions of pinta [carate]",
+    "Hyperkeratosis of pinta [carate]",
+    "Pintids"
+  ],
+  "exclusion": [
+    "carrier or suspected carrier of infectious disease",
+    "certain localized infections - see body system-related chapters",
+    "infectious and parasitic diseases complicating pregnancy, childbirth and the puerperium [except obstetrical tetanus]",
+    "infectious and parasitic diseases specific to the perinatal period [except tetanus neonatorum, whooping cough, congenital syphilis, perinatal gonococcal infection and perinatal human immunodeficiency virus [HIV] disease]",
+    "influenza and other acute respiratory infections",
+    "erythrasma",
+    "endotoxic shock NOS"
+  ],
+  "children": null
+}

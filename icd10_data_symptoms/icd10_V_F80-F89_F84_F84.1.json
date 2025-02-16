@@ -1,0 +1,27 @@
+{
+    "icd10code": "F84.1",
+    "type": "subcategory",
+    "title": "Atypical autism",
+    "chapter": "Mental and behavioural disorders",
+    "chapterCode": "V",
+    "block": "Disorders of psychological development",
+    "blockCode": "F80-F89",
+    "category": "Pervasive developmental disorders",
+    "categoryCode": "F84",
+    "subcategory": "F84.1",
+    "inclusion": [
+        "disorders of psychological development",
+        "Atypical childhood psychosis",
+        "Mental retardation with autistic features"
+    ],
+    "exclusion": [
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified"
+    ],
+    "symptoms": [
+        "impaired social interaction",
+        "repetitive behaviors",
+        "resistance to change",
+        "communication difficulties",
+        "sensory sensitivities"
+    ]
+}

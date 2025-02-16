@@ -1,0 +1,30 @@
+{
+  "type": "subcategory",
+  "chapterCode": "VIII",
+  "chapter": "Diseases of the ear and mastoid process",
+  "blockCode": "H65-H75",
+  "block": "Diseases of middle ear and mastoid",
+  "categoryCode": "H65",
+  "category": "Nonsuppurative otitis media",
+  "subcategory": "H65.3",
+  "title": "Chronic mucoid otitis media",
+  "inclusion": [
+    "with myringitis",
+    "Glue ear",
+    "Otitis media, chronic: mucinous",
+    "Otitis media, chronic: secretory",
+    "Otitis media, chronic: transudative"
+  ],
+  "exclusion": [
+    "certain conditions originating in the perinatal period",
+    "certain infectious and parasitic diseases",
+    "complications of pregnancy, childbirth and the puerperium",
+    "congenital malformations, deformations and chromosomal abnormalities",
+    "endocrine, nutritional and metabolic diseases",
+    "injury, poisoning and certain other consequences of external causes",
+    "neoplasms",
+    "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+    "adhesive middle ear disease"
+  ],
+  "children": null
+}

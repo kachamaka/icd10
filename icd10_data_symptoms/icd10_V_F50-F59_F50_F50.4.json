@@ -1,0 +1,31 @@
+{
+    "icd10code": "F50.4",
+    "type": "subcategory",
+    "title": "Overeating associated with other psychological disturbances",
+    "chapter": "Mental and behavioural disorders",
+    "chapterCode": "V",
+    "block": "Behavioural syndromes associated with physiological disturbances and physical factors",
+    "blockCode": "F50-F59",
+    "category": "Eating disorders",
+    "categoryCode": "F50",
+    "subcategory": "F50.4",
+    "inclusion": [
+        "disorders of psychological development",
+        "Psychogenic overeating"
+    ],
+    "exclusion": [
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "anorexia NOS",
+        "feeding: difficulties and mismanagement",
+        "feeding: disorder of infancy or childhood",
+        "polyphagia",
+        "obesity"
+    ],
+    "symptoms": [
+        "preoccupation with food",
+        "self-induced vomiting",
+        "distorted body image",
+        "depression",
+        "irregular menstrual cycles"
+    ]
+}

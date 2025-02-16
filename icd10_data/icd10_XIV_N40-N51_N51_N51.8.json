@@ -1,0 +1,27 @@
+{
+  "type": "subcategory",
+  "chapterCode": "XIV",
+  "chapter": "Diseases of the genitourinary system",
+  "blockCode": "N40-N51",
+  "block": "Diseases of male genital organs",
+  "categoryCode": "N51",
+  "category": "Disorders of male genital organs in diseases classified elsewhere",
+  "subcategory": "N51.8",
+  "title": "Other disorders of male genital organs in diseases classified elsewhere",
+  "inclusion": [
+    "Filarial chylocele, tunica vaginalis",
+    "Herpesviral [herpes simplex] infection of male genital tract",
+    "Tuberculosis of seminal vesicle"
+  ],
+  "exclusion": [
+    "certain conditions originating in the perinatal period",
+    "certain infectious and parasitic diseases",
+    "complications of pregnancy, childbirth and the puerperium",
+    "congenital malformations, deformations and chromosomal abnormalities",
+    "endocrine, nutritional and metabolic diseases",
+    "injury, poisoning and certain other consequences of external causes",
+    "neoplasms",
+    "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified"
+  ],
+  "children": null
+}

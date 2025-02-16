@@ -1,0 +1,26 @@
+{
+    "icd10code": "C26.9",
+    "type": "subcategory",
+    "title": "Malignant neoplasm: Ill-defined sites within the digestive system",
+    "chapter": "Neoplasms",
+    "chapterCode": "II",
+    "block": "Malignant neoplasms of digestive organs",
+    "blockCode": "C15-C26",
+    "category": "Malignant neoplasm of other and ill-defined digestive organs",
+    "categoryCode": "C26",
+    "subcategory": "C26.9",
+    "inclusion": [
+        "Alimentary canal or tract NOS",
+        "Gastrointestinal tract NOS"
+    ],
+    "exclusion": [
+        "peritoneum and retroperitoneum"
+    ],
+    "symptoms": [
+        "abdominal pain",
+        "loss of appetite",
+        "unexplained weight loss",
+        "fatigue",
+        "pale stools"
+    ]
+}

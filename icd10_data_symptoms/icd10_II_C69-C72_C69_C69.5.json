@@ -1,0 +1,28 @@
+{
+    "icd10code": "C69.5",
+    "type": "subcategory",
+    "title": "Malignant neoplasm: Lacrimal gland and duct",
+    "chapter": "Neoplasms",
+    "chapterCode": "II",
+    "block": "Malignant neoplasms of eye, brain and other parts of central nervous system",
+    "blockCode": "C69-C72",
+    "category": "Malignant neoplasm of eye and adnexa",
+    "categoryCode": "C69",
+    "subcategory": "C69.5",
+    "inclusion": [
+        "Lacrimal sac",
+        "Nasolacrimal duct"
+    ],
+    "exclusion": [
+        "connective tissue of eyelid",
+        "eyelid (skin)",
+        "optic nerve"
+    ],
+    "symptoms": [
+        "blurry vision",
+        "seeing floaters",
+        "eye pain",
+        "loss of peripheral vision",
+        "redness in the eye"
+    ]
+}

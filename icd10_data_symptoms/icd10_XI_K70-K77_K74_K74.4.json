@@ -1,0 +1,40 @@
+{
+    "icd10code": "K74.4",
+    "type": "subcategory",
+    "title": "Secondary biliary cirrhosis",
+    "chapter": "Diseases of the digestive system",
+    "chapterCode": "XI",
+    "block": "Diseases of liver",
+    "blockCode": "K70-K77",
+    "category": "Fibrosis and cirrhosis of liver",
+    "categoryCode": "K74",
+    "subcategory": "K74.4",
+    "inclusion": null,
+    "exclusion": [
+        "certain conditions originating in the perinatal period",
+        "certain infectious and parasitic diseases",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "haemochromatosis",
+        "jaundice NOS",
+        "Reye syndrome",
+        "viral hepatitis",
+        "Wilson disease",
+        "alcoholic fibrosis of liver",
+        "cardiac sclerosis of liver",
+        "cirrhosis (of liver): alcoholic",
+        "cirrhosis (of liver): congenital",
+        "with toxic liver disease"
+    ],
+    "symptoms": [
+        "fatigue",
+        "jaundice",
+        "abdominal discomfort",
+        "swelling in legs",
+        "confusion"
+    ]
+}

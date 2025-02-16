@@ -1,0 +1,36 @@
+{
+    "icd10code": "G25.5",
+    "type": "subcategory",
+    "title": "Other chorea",
+    "chapter": "Diseases of the nervous system",
+    "chapterCode": "VI",
+    "block": "Extrapyramidal and movement disorders",
+    "blockCode": "G20-G26",
+    "category": "Other extrapyramidal and movement disorders",
+    "categoryCode": "G25",
+    "subcategory": "G25.5",
+    "inclusion": [
+        "Chorea NOS"
+    ],
+    "exclusion": [
+        "certain conditions originating in the perinatal period",
+        "certain infectious and parasitic diseases",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "chorea NOS with heart involvement",
+        "Huntington chorea",
+        "rheumatic chorea",
+        "Sydenham chorea"
+    ],
+    "symptoms": [
+        "tremors",
+        "muscle spasms",
+        "abnormal movements",
+        "involuntary movements",
+        "movement disorders"
+    ]
+}

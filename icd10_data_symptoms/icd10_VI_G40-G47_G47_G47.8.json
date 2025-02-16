@@ -1,0 +1,36 @@
+{
+    "icd10code": "G47.8",
+    "type": "subcategory",
+    "title": "Other sleep disorders",
+    "chapter": "Diseases of the nervous system",
+    "chapterCode": "VI",
+    "block": "Episodic and paroxysmal disorders",
+    "blockCode": "G40-G47",
+    "category": "Sleep disorders",
+    "categoryCode": "G47",
+    "subcategory": "G47.8",
+    "inclusion": [
+        "Kleine-Levin syndrome"
+    ],
+    "exclusion": [
+        "certain conditions originating in the perinatal period",
+        "certain infectious and parasitic diseases",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "nightmares",
+        "nonorganic sleep disorders",
+        "sleep terrors",
+        "sleepwalking"
+    ],
+    "symptoms": [
+        "daytime sleepiness",
+        "fatigue",
+        "difficulties with concentration",
+        "non-restorative sleep",
+        "nighttime awakenings"
+    ]
+}

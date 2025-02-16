@@ -1,0 +1,42 @@
+{
+    "icd10code": "E75.2",
+    "type": "subcategory",
+    "title": "Other sphingolipidosis",
+    "chapter": "Endocrine, nutritional and metabolic diseases",
+    "chapterCode": "IV",
+    "block": "Metabolic disorders",
+    "blockCode": "E70-E90",
+    "category": "Disorders of sphingolipid metabolism and other lipid storage disorders",
+    "categoryCode": "E75",
+    "subcategory": "E75.2",
+    "inclusion": [
+        "Disease: Fabry(-Anderson)",
+        "Disease: Gaucher",
+        "Disease: Krabbe",
+        "Disease: Niemann-Pick",
+        "Farber syndrome",
+        "Metachromatic leukodystrophy",
+        "Sulfatase deficiency"
+    ],
+    "exclusion": [
+        "complications of pregnancy, childbirth and the puerperium",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "transitory endocrine and metabolic disorders specific to fetus and newborn",
+        "androgen resistance syndrome",
+        "congenital adrenal hyperplasia",
+        "Ehlers-Danlos syndrome",
+        "haemolytic anaemias due to enzyme disorders",
+        "Marfan syndrome",
+        "5-alpha-reductase deficiency",
+        "Schilder disease",
+        "hypovolaemic shock: NOS",
+        "adrenoleukodystrophy [Addison-Schilder]"
+    ],
+    "symptoms": [
+        "intellectual disability",
+        "seizures",
+        "muscle weakness and stiffness",
+        "difficulty swallowing",
+        "skeletal and growth abnormalities"
+    ]
+}

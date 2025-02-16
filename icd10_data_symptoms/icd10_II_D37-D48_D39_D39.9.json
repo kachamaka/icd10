@@ -1,0 +1,21 @@
+{
+    "icd10code": "D39.9",
+    "type": "subcategory",
+    "title": "Neoplasm of uncertain or unknown behaviour: Female genital organ, unspecified",
+    "chapter": "Neoplasms",
+    "chapterCode": "II",
+    "block": "Neoplasms of uncertain or unknown behaviour",
+    "blockCode": "D37-D48",
+    "category": "Neoplasm of uncertain or unknown behaviour of female genital organs",
+    "categoryCode": "D39",
+    "subcategory": "D39.9",
+    "inclusion": null,
+    "exclusion": null,
+    "symptoms": [
+        "unusual vaginal bleeding",
+        "pelvic pain",
+        "abdominal swelling",
+        "urinary issues",
+        "pain during intercourse"
+    ]
+}

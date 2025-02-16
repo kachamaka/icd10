@@ -1,0 +1,24 @@
+{
+  "type": "category",
+  "chapterCode": "XX",
+  "chapter": "External causes of morbidity and mortality",
+  "blockCode": "W00-W19",
+  "block": "Falls",
+  "categoryCode": "W12",
+  "category": "Fall on and from scaffolding",
+  "subcategory": "",
+  "title": "Fall on and from scaffolding",
+  "inclusion": null,
+  "exclusion": [
+    "assault",
+    "fall (in)(from): animal",
+    "fall (in)(from): burning building",
+    "fall (in)(from): into fire",
+    "fall (in)(from): into water (with drowning or submersion)",
+    "fall (in)(from): machinery (in operation)",
+    "fall (in)(from): repeated falls not resulting from accident",
+    "fall (in)(from): transport vehicle",
+    "intentional self-harm"
+  ],
+  "children": null
+}

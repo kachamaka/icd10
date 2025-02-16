@@ -1,0 +1,18 @@
+{
+  "type": "subcategory",
+  "chapterCode": "XVII",
+  "chapter": "Congenital malformations, deformations and chromosomal abnormalities",
+  "blockCode": "Q65-Q79",
+  "block": "Congenital malformations and deformations of the musculoskeletal system",
+  "categoryCode": "Q79",
+  "category": "Congenital malformations of the musculoskeletal system, not elsewhere classified",
+  "subcategory": "Q79.0",
+  "title": "Congenital diaphragmatic hernia",
+  "inclusion": null,
+  "exclusion": [
+    "inborn errors of metabolism",
+    "congenital (sternomastoid) torticollis",
+    "congenital hiatus hernia"
+  ],
+  "children": null
+}

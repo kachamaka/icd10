@@ -1,0 +1,30 @@
+{
+    "icd10code": "Q54.0",
+    "type": "subcategory",
+    "title": "Hypospadias, balanic",
+    "chapter": "Congenital malformations, deformations and chromosomal abnormalities",
+    "chapterCode": "XVII",
+    "block": "Congenital malformations of genital organs",
+    "blockCode": "Q50-Q56",
+    "category": "Hypospadias",
+    "categoryCode": "Q54",
+    "subcategory": "Q54.0",
+    "inclusion": [
+        "Hypospadias: coronal",
+        "Hypospadias: glandular"
+    ],
+    "exclusion": [
+        "inborn errors of metabolism",
+        "androgen resistance syndrome",
+        "syndromes associated with anomalies in the number and form of chromosomes",
+        "testicular feminization syndrome",
+        "epispadias"
+    ],
+    "symptoms": [
+        "abnormal urethral opening on ventral penis",
+        "difficulty urinating",
+        "abnormal penile curvature",
+        "recurrent urinary tract infections",
+        "infertility issues"
+    ]
+}

@@ -1,0 +1,18 @@
+{
+  "type": "subcategory",
+  "chapterCode": "XVII",
+  "chapter": "Congenital malformations, deformations and chromosomal abnormalities",
+  "blockCode": "Q80-Q89",
+  "block": "Other congenital malformations",
+  "categoryCode": "Q84",
+  "category": "Other congenital malformations of integument",
+  "subcategory": "Q84.0",
+  "title": "Congenital alopecia",
+  "inclusion": [
+    "Congenital atrichosis"
+  ],
+  "exclusion": [
+    "inborn errors of metabolism"
+  ],
+  "children": null
+}

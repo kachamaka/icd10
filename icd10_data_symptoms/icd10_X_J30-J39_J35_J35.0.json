@@ -1,0 +1,32 @@
+{
+    "icd10code": "J35.0",
+    "type": "subcategory",
+    "title": "Chronic tonsillitis",
+    "chapter": "Diseases of the respiratory system",
+    "chapterCode": "X",
+    "block": "Other diseases of upper respiratory tract",
+    "blockCode": "J30-J39",
+    "category": "Chronic diseases of tonsils and adenoids",
+    "categoryCode": "J35",
+    "subcategory": "J35.0",
+    "inclusion": null,
+    "exclusion": [
+        "certain conditions originating in the perinatal period",
+        "certain infectious and parasitic diseases",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "tonsillitis: NOS",
+        "tonsillitis: acute"
+    ],
+    "symptoms": [
+        "chronic sore throat",
+        "difficulty swallowing",
+        "bad breath",
+        "snoring",
+        "swollen tonsils"
+    ]
+}

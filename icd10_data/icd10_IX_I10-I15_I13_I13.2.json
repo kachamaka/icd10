@@ -1,0 +1,34 @@
+{
+  "type": "subcategory",
+  "chapterCode": "IX",
+  "chapter": "Diseases of the circulatory system",
+  "blockCode": "I10-I15",
+  "block": "Hypertensive diseases",
+  "categoryCode": "I13",
+  "category": "Hypertensive heart and renal disease",
+  "subcategory": "I13.2",
+  "title": "Hypertensive heart and renal disease with both (congestive) heart failure and renal failure",
+  "inclusion": [
+    "any condition in I11.- with any condition in I12.-",
+    "disease: cardiorenal",
+    "disease: cardiovascular renal"
+  ],
+  "exclusion": [
+    "certain conditions originating in the perinatal period",
+    "certain infectious and parasitic diseases",
+    "complications of pregnancy, childbirth and the puerperium",
+    "congenital malformations, deformations and chromosomal abnormalities",
+    "endocrine, nutritional and metabolic diseases",
+    "injury, poisoning and certain other consequences of external causes",
+    "neoplasms",
+    "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+    "systemic connective tissue disorders",
+    "transient cerebral ischaemic attacks and related syndromes",
+    "postoperative shock",
+    "maternal hypotension syndrome",
+    "nonspecific low blood pressure reading NOS",
+    "sequelae of the listed conditions",
+    "postmastectomy lymphoedema"
+  ],
+  "children": null
+}

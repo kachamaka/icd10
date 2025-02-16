@@ -1,0 +1,24 @@
+{
+  "type": "category",
+  "chapterCode": "XX",
+  "chapter": "External causes of morbidity and mortality",
+  "blockCode": "X85-Y09",
+  "block": "Assault",
+  "categoryCode": "Y09",
+  "category": "Assault by unspecified means",
+  "subcategory": "",
+  "title": "Assault by unspecified means",
+  "inclusion": [
+    "homicide",
+    "injuries inflicted by another person with intent to injure or kill, by any means",
+    "assassination (attempt) NOS",
+    "homicide (attempt) NOS",
+    "manslaughter (nonaccidental)",
+    "murder (attempt) NOS"
+  ],
+  "exclusion": [
+    "injuries due to: legal intervention",
+    "injuries due to: operations of war"
+  ],
+  "children": null
+}

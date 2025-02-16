@@ -1,0 +1,21 @@
+{
+    "icd10code": "Z20.1",
+    "type": "subcategory",
+    "title": "Contact with and exposure to tuberculosis",
+    "chapter": "Factors influencing health status and contact with health services",
+    "chapterCode": "XXI",
+    "block": "Persons with potential health hazards related to communicable diseases",
+    "blockCode": "Z20-Z29",
+    "category": "Contact with and exposure to communicable diseases",
+    "categoryCode": "Z20",
+    "subcategory": "Z20.1",
+    "inclusion": null,
+    "exclusion": null,
+    "symptoms": [
+        "fever",
+        "cough",
+        "fatigue",
+        "nausea",
+        "loss of appetite"
+    ]
+}

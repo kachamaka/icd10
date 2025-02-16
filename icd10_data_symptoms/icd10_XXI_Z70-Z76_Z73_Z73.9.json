@@ -1,0 +1,19 @@
+{
+    "icd10code": "Z73.9",
+    "type": "subcategory",
+    "title": "Problem related to life-management difficulty, unspecified",
+    "chapter": "Factors influencing health status and contact with health services",
+    "chapterCode": "XXI",
+    "block": "Persons encountering health services in other circumstances",
+    "blockCode": "Z70-Z76",
+    "category": "Problems related to life-management difficulty",
+    "categoryCode": "Z73",
+    "subcategory": "Z73.9",
+    "inclusion": null,
+    "exclusion": [
+        "problems related to socioeconomic and psychosocial circumstances"
+    ],
+    "symptoms": [
+        "asymptomatic"
+    ]
+}

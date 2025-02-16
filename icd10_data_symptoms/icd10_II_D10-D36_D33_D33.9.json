@@ -1,0 +1,29 @@
+{
+    "icd10code": "D33.9",
+    "type": "subcategory",
+    "title": "Benign neoplasm: Central nervous system, unspecified",
+    "chapter": "Neoplasms",
+    "chapterCode": "II",
+    "block": "Benign neoplasms",
+    "blockCode": "D10-D36",
+    "category": "Benign neoplasm of brain and other parts of central nervous system",
+    "categoryCode": "D33",
+    "subcategory": "D33.9",
+    "inclusion": [
+        "morphology codes with behaviour code /0",
+        "Nervous system (central) NOS"
+    ],
+    "exclusion": [
+        "angioma",
+        "meninges",
+        "peripheral nerves and autonomic nervous system",
+        "retro-ocular tissue"
+    ],
+    "symptoms": [
+        "headaches",
+        "seizures",
+        "cognitive changes",
+        "visual disturbances",
+        "difficulty with speech or movement"
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "icd10code": "C82.2",
+    "type": "subcategory",
+    "title": "Follicular lymphoma grade III, unspecified",
+    "chapter": "Neoplasms",
+    "chapterCode": "II",
+    "block": "Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",
+    "blockCode": "C81-C96",
+    "category": "Follicular lymphoma",
+    "categoryCode": "C82",
+    "subcategory": "C82.2",
+    "inclusion": [
+        "follicular lymphoma with or without diffuse areas"
+    ],
+    "exclusion": [
+        "secondary and unspecified neoplasm of lymph nodes",
+        "mature T/NK-cell lymphoma"
+    ],
+    "symptoms": [
+        "unexplained weight loss",
+        "fatigue",
+        "night sweats",
+        "persistent itch",
+        "swollen lymph nodes"
+    ]
+}

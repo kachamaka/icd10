@@ -1,0 +1,34 @@
+{
+    "icd10code": "H95.1",
+    "type": "subcategory",
+    "title": "Other disorders following mastoidectomy",
+    "chapter": "Diseases of the ear and mastoid process",
+    "chapterCode": "VIII",
+    "block": "Other disorders of ear",
+    "blockCode": "H90-H95",
+    "category": "Postprocedural disorders of ear and mastoid process, not elsewhere classified",
+    "categoryCode": "H95",
+    "subcategory": "H95.1",
+    "inclusion": [
+        "Chronic inflammation of postmastoidectomy cavity",
+        "Granulation of postmastoidectomy cavity",
+        "Mucosal cyst of postmastoidectomy cavity"
+    ],
+    "exclusion": [
+        "certain conditions originating in the perinatal period",
+        "certain infectious and parasitic diseases",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified"
+    ],
+    "symptoms": [
+        "ear pain",
+        "dizziness",
+        "tinnitus",
+        "hearing loss",
+        "ear discharge"
+    ]
+}

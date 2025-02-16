@@ -1,0 +1,25 @@
+{
+  "type": "subcategory",
+  "chapterCode": "I",
+  "chapter": "Certain infectious and parasitic diseases",
+  "blockCode": "B20-B24",
+  "block": "Human immunodeficiency virus [HIV] disease",
+  "categoryCode": "B20",
+  "category": "Human immunodeficiency virus [HIV] disease resulting in infectious and parasitic diseases",
+  "subcategory": "B20.8",
+  "title": "HIV disease resulting in other infectious and parasitic diseases",
+  "inclusion": [
+    "diseases generally recognized as communicable or transmissible"
+  ],
+  "exclusion": [
+    "carrier or suspected carrier of infectious disease",
+    "certain localized infections - see body system-related chapters",
+    "infectious and parasitic diseases complicating pregnancy, childbirth and the puerperium [except obstetrical tetanus]",
+    "infectious and parasitic diseases specific to the perinatal period [except tetanus neonatorum, whooping cough, congenital syphilis, perinatal gonococcal infection and perinatal human immunodeficiency virus [HIV] disease]",
+    "influenza and other acute respiratory infections",
+    "erythrasma",
+    "monkeypox",
+    "hantavirus (cardio-)pulmonary syndrome"
+  ],
+  "children": null
+}

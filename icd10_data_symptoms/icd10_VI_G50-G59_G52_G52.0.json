@@ -1,0 +1,40 @@
+{
+    "icd10code": "G52.0",
+    "type": "subcategory",
+    "title": "Disorders of olfactory nerve",
+    "chapter": "Diseases of the nervous system",
+    "chapterCode": "VI",
+    "block": "Nerve, nerve root and plexus disorders",
+    "blockCode": "G50-G59",
+    "category": "Disorders of other cranial nerves",
+    "categoryCode": "G52",
+    "subcategory": "G52.0",
+    "inclusion": [
+        "Disorder of 1st cranial nerve"
+    ],
+    "exclusion": [
+        "certain conditions originating in the perinatal period",
+        "certain infectious and parasitic diseases",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "current traumatic nerve, nerve root and plexus disorders - see nerve injury by body region",
+        "neuralgia NOS",
+        "neuritis NOS",
+        "peripheral neuritis in pregnancy",
+        "radiculitis NOS",
+        "postherpetic geniculate ganglionitis",
+        "intervertebral disc disorders",
+        "neuralgia or neuritis NOS"
+    ],
+    "symptoms": [
+        "facial weakness",
+        "dry eye",
+        "dry mouth",
+        "loss of taste",
+        "sensitivity to sound"
+    ]
+}

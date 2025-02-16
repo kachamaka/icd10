@@ -1,0 +1,18 @@
+{
+  "type": "subcategory",
+  "chapterCode": "XXI",
+  "chapter": "Factors influencing health status and contact with health services",
+  "blockCode": "Z30-Z39",
+  "block": "Persons encountering health services in circumstances related to reproduction",
+  "categoryCode": "Z39",
+  "category": "Postpartum care and examination",
+  "subcategory": "Z39.0",
+  "title": "Care and examination immediately after delivery",
+  "inclusion": [
+    "Care and observation in uncomplicated cases"
+  ],
+  "exclusion": [
+    "care for postpartum complications - see Alphabetical Index"
+  ],
+  "children": null
+}

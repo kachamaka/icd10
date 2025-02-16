@@ -1,0 +1,28 @@
+{
+    "icd10code": "F52.7",
+    "type": "subcategory",
+    "title": "Excessive sexual drive",
+    "chapter": "Mental and behavioural disorders",
+    "chapterCode": "V",
+    "block": "Behavioural syndromes associated with physiological disturbances and physical factors",
+    "blockCode": "F50-F59",
+    "category": "Sexual dysfunction, not caused by organic disorder or disease",
+    "categoryCode": "F52",
+    "subcategory": "F52.7",
+    "inclusion": [
+        "disorders of psychological development",
+        "Nymphomania",
+        "Satyriasis"
+    ],
+    "exclusion": [
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "Dhat syndrome"
+    ],
+    "symptoms": [
+        "decreased sexual desire",
+        "difficulty with orgasm",
+        "anxiety related to sexual performance",
+        "lack of sexual pleasure",
+        "distress about sexual issues"
+    ]
+}

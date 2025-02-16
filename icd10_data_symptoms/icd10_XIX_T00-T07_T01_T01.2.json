@@ -1,0 +1,41 @@
+{
+    "icd10code": "T01.2",
+    "type": "subcategory",
+    "title": "Open wounds involving multiple regions of upper limb(s)",
+    "chapter": "Injury, poisoning and certain other consequences of external causes",
+    "chapterCode": "XIX",
+    "block": "Injuries involving multiple body regions",
+    "blockCode": "T00-T07",
+    "category": "Open wounds involving multiple body regions",
+    "categoryCode": "T01",
+    "subcategory": "T01.2",
+    "inclusion": [
+        "bilateral involvement of limbs of the same body region",
+        "Injuries by type involving two or more body regions classifiable within S00-S99",
+        "Open wounds of sites classifiable to S41.-, S51.-, S61.- and T11.1"
+    ],
+    "exclusion": [
+        "birth trauma",
+        "obstetric trauma",
+        "malunion of fracture",
+        "nonunion of fracture [pseudarthrosis]",
+        "pathological fracture",
+        "pathological fracture with osteoporosis",
+        "stress fracture",
+        "burns and corrosions",
+        "frostbite",
+        "insect bite or sting, venomous",
+        "multiple injuries involving only one body region - see S-section",
+        "sunburn",
+        "with involvement of thorax, abdomen, lower back and pelvis",
+        "with involvement of: lower limb(s)",
+        "with involvement of: thorax, abdomen, lower back and pelvis"
+    ],
+    "symptoms": [
+        "swelling",
+        "redness",
+        "pain",
+        "fever",
+        "tenderness"
+    ]
+}

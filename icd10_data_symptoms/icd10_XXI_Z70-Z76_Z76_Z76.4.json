@@ -1,0 +1,19 @@
+{
+    "icd10code": "Z76.4",
+    "type": "subcategory",
+    "title": "Other boarder in health-care facility",
+    "chapter": "Factors influencing health status and contact with health services",
+    "chapterCode": "XXI",
+    "block": "Persons encountering health services in other circumstances",
+    "blockCode": "Z70-Z76",
+    "category": "Persons encountering health services in other circumstances",
+    "categoryCode": "Z76",
+    "subcategory": "Z76.4",
+    "inclusion": null,
+    "exclusion": [
+        "homelessness"
+    ],
+    "symptoms": [
+        "asymptomatic"
+    ]
+}

@@ -1,0 +1,33 @@
+{
+    "icd10code": "N43.2",
+    "type": "subcategory",
+    "title": "Other hydrocele",
+    "chapter": "Diseases of the genitourinary system",
+    "chapterCode": "XIV",
+    "block": "Diseases of male genital organs",
+    "blockCode": "N40-N51",
+    "category": "Hydrocele and spermatocele",
+    "categoryCode": "N43",
+    "subcategory": "N43.2",
+    "inclusion": [
+        "hydrocele of spermatic cord, testis or tunica vaginalis"
+    ],
+    "exclusion": [
+        "certain conditions originating in the perinatal period",
+        "certain infectious and parasitic diseases",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "congenital hydrocele"
+    ],
+    "symptoms": [
+        "scrotal swelling",
+        "pain in scrotum",
+        "palpable mass",
+        "tenderness",
+        "hydrocele"
+    ]
+}

@@ -1,0 +1,24 @@
+{
+    "icd10code": "C09.8",
+    "type": "subcategory",
+    "title": "Malignant neoplasm: Overlapping lesion of tonsil",
+    "chapter": "Neoplasms",
+    "chapterCode": "II",
+    "block": "Malignant neoplasms of lip, oral cavity and pharynx",
+    "blockCode": "C00-C14",
+    "category": "Malignant neoplasm of tonsil",
+    "categoryCode": "C09",
+    "subcategory": "C09.8",
+    "inclusion": null,
+    "exclusion": [
+        "lingual tonsil",
+        "pharyngeal tonsil"
+    ],
+    "symptoms": [
+        "swelling or lump in neck or throat",
+        "throat pain",
+        "difficulty swallowing",
+        "unexplained weight loss",
+        "changes in voice"
+    ]
+}

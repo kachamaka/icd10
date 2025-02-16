@@ -1,0 +1,23 @@
+{
+  "type": "category",
+  "chapterCode": "XVI",
+  "chapter": "Certain conditions originating in the perinatal period",
+  "blockCode": "P75-P78",
+  "block": "Digestive system disorders of fetus and newborn",
+  "categoryCode": "P77",
+  "category": "Necrotizing enterocolitis of fetus and newborn",
+  "subcategory": "",
+  "title": "Necrotizing enterocolitis of fetus and newborn",
+  "inclusion": [
+    "conditions that have their origin in the perinatal period even though death or morbidity occurs later"
+  ],
+  "exclusion": [
+    "congenital malformations, deformations and chromosomal abnormalities",
+    "endocrine, nutritional and metabolic diseases",
+    "injury, poisoning and certain other consequences of external causes",
+    "neoplasms",
+    "tetanus neonatorum",
+    "whooping cough"
+  ],
+  "children": null
+}

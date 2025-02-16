@@ -1,0 +1,17 @@
+{
+  "type": "subcategory",
+  "chapterCode": "XXI",
+  "chapter": "Factors influencing health status and contact with health services",
+  "blockCode": "Z40-Z54",
+  "block": "Persons encountering health services for specific procedures and health care",
+  "categoryCode": "Z50",
+  "category": "Care involving use of rehabilitation procedures",
+  "subcategory": "Z50.2",
+  "title": "Alcohol rehabilitation",
+  "inclusion": null,
+  "exclusion": [
+    "follow-up examination for medical surveillance after treatment",
+    "counselling"
+  ],
+  "children": null
+}

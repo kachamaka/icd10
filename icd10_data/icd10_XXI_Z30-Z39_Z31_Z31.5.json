@@ -1,0 +1,16 @@
+{
+  "type": "subcategory",
+  "chapterCode": "XXI",
+  "chapter": "Factors influencing health status and contact with health services",
+  "blockCode": "Z30-Z39",
+  "block": "Persons encountering health services in circumstances related to reproduction",
+  "categoryCode": "Z31",
+  "category": "Procreative management",
+  "subcategory": "Z31.5",
+  "title": "Genetic counselling",
+  "inclusion": null,
+  "exclusion": [
+    "complications associated with artificial fertilization"
+  ],
+  "children": null
+}

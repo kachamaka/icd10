@@ -1,0 +1,26 @@
+{
+    "icd10code": "F01.3",
+    "type": "subcategory",
+    "title": "Mixed cortical and subcortical vascular dementia",
+    "chapter": "Mental and behavioural disorders",
+    "chapterCode": "V",
+    "block": "Organic, including symptomatic, mental disorders",
+    "blockCode": "F00-F09",
+    "category": "Vascular dementia",
+    "categoryCode": "F01",
+    "subcategory": "F01.3",
+    "inclusion": [
+        "disorders of psychological development",
+        "arteriosclerotic dementia"
+    ],
+    "exclusion": [
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified"
+    ],
+    "symptoms": [
+        "memory loss",
+        "confusion",
+        "impaired judgment",
+        "difficulty with language",
+        "disorientation in time and place"
+    ]
+}

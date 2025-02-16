@@ -1,0 +1,20 @@
+{
+  "type": "category",
+  "chapterCode": "XX",
+  "chapter": "External causes of morbidity and mortality",
+  "blockCode": "X60-X84",
+  "block": "Intentional self-harm",
+  "categoryCode": "X83",
+  "category": "Intentional self-harm by other specified means",
+  "subcategory": "",
+  "title": "Intentional self-harm by other specified means",
+  "inclusion": [
+    "purposely self-inflicted poisoning or injury",
+    "suicide (attempted)",
+    "intentional self-harm by: caustic substances, except poisoning",
+    "intentional self-harm by: crashing of aircraft",
+    "intentional self-harm by: electrocution"
+  ],
+  "exclusion": null,
+  "children": null
+}

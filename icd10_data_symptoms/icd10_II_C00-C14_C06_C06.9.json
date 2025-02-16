@@ -1,0 +1,24 @@
+{
+    "icd10code": "C06.9",
+    "type": "subcategory",
+    "title": "Malignant neoplasm: Mouth, unspecified",
+    "chapter": "Neoplasms",
+    "chapterCode": "II",
+    "block": "Malignant neoplasms of lip, oral cavity and pharynx",
+    "blockCode": "C00-C14",
+    "category": "Malignant neoplasm of other and unspecified parts of mouth",
+    "categoryCode": "C06",
+    "subcategory": "C06.9",
+    "inclusion": [
+        "Minor salivary gland, unspecified site",
+        "Oral cavity NOS"
+    ],
+    "exclusion": null,
+    "symptoms": [
+        "mouth pain",
+        "oral bleeding",
+        "oral ulcers",
+        "difficulty swallowing",
+        "loose teeth"
+    ]
+}

@@ -1,0 +1,32 @@
+{
+  "type": "subcategory",
+  "chapterCode": "I",
+  "chapter": "Certain infectious and parasitic diseases",
+  "blockCode": "A15-A19",
+  "block": "Tuberculosis",
+  "categoryCode": "A15",
+  "category": "Respiratory tuberculosis, bacteriologically and histologically confirmed",
+  "subcategory": "A15.4",
+  "title": "Tuberculosis of intrathoracic lymph nodes, confirmed bacteriologically and histologically",
+  "inclusion": [
+    "diseases generally recognized as communicable or transmissible",
+    "infections due to Mycobacterium tuberculosis and Mycobacterium bovis",
+    "Tuberculosis of lymph nodes: hilar confirmed bacteriologically and histologically",
+    "Tuberculosis of lymph nodes: mediastinal confirmed bacteriologically and histologically",
+    "Tuberculosis of lymph nodes: tracheobronchial confirmed bacteriologically and histologically"
+  ],
+  "exclusion": [
+    "carrier or suspected carrier of infectious disease",
+    "certain localized infections - see body system-related chapters",
+    "infectious and parasitic diseases complicating pregnancy, childbirth and the puerperium [except obstetrical tetanus]",
+    "infectious and parasitic diseases specific to the perinatal period [except tetanus neonatorum, whooping cough, congenital syphilis, perinatal gonococcal infection and perinatal human immunodeficiency virus [HIV] disease]",
+    "influenza and other acute respiratory infections",
+    "congenital tuberculosis",
+    "human immunodeficieny [HIV] disease resulting in tuberculosis",
+    "pneumoconiosis associated with tuberculosis",
+    "sequelae of tuberculosis",
+    "silicotuberculosis",
+    "specified as primary"
+  ],
+  "children": null
+}

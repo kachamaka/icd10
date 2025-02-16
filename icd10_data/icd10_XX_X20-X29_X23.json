@@ -1,0 +1,22 @@
+{
+  "type": "category",
+  "chapterCode": "XX",
+  "chapter": "External causes of morbidity and mortality",
+  "blockCode": "X20-X29",
+  "block": "Contact with venomous animals and plants",
+  "categoryCode": "X23",
+  "category": "Contact with hornets, wasps and bees",
+  "subcategory": "",
+  "title": "Contact with hornets, wasps and bees",
+  "inclusion": [
+    "chemical released by: animal",
+    "chemical released by: insect",
+    "release of venom through fangs, hairs, spines, tentacles and other venom apparatus",
+    "venomous bites and stings",
+    "yellow jacket"
+  ],
+  "exclusion": [
+    "ingestion of poisonous animals or plants"
+  ],
+  "children": null
+}

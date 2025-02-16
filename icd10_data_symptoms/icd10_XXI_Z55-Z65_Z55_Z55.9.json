@@ -1,0 +1,19 @@
+{
+    "icd10code": "Z55.9",
+    "type": "subcategory",
+    "title": "Problem related to education and literacy, unspecified",
+    "chapter": "Factors influencing health status and contact with health services",
+    "chapterCode": "XXI",
+    "block": "Persons with potential health hazards related to socioeconomic and psychosocial circumstances",
+    "blockCode": "Z55-Z65",
+    "category": "Problems related to education and literacy",
+    "categoryCode": "Z55",
+    "subcategory": "Z55.9",
+    "inclusion": null,
+    "exclusion": [
+        "disorders of psychological development"
+    ],
+    "symptoms": [
+        "asymptomatic"
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "icd10code": "C79.1",
+    "type": "subcategory",
+    "title": "Secondary malignant neoplasm of bladder and other and unspecified urinary organs",
+    "chapter": "Neoplasms",
+    "chapterCode": "II",
+    "block": "Malignant neoplasms of ill-defined, secondary and unspecified sites",
+    "blockCode": "C76-C80",
+    "category": "Secondary malignant neoplasm of other and unspecified sites",
+    "categoryCode": "C79",
+    "subcategory": "C79.1",
+    "inclusion": null,
+    "exclusion": null,
+    "symptoms": [
+        "blood in urine",
+        "back or pelvic pain",
+        "unexpected weight loss",
+        "fatigue",
+        "swelling in the legs"
+    ]
+}

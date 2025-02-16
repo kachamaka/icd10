@@ -1,0 +1,35 @@
+{
+    "icd10code": "T75.3",
+    "type": "subcategory",
+    "title": "Motion sickness",
+    "chapter": "Injury, poisoning and certain other consequences of external causes",
+    "chapterCode": "XIX",
+    "block": "Other and unspecified effects of external causes",
+    "blockCode": "T66-T78",
+    "category": "Effects of other external causes",
+    "categoryCode": "T75",
+    "subcategory": "T75.3",
+    "inclusion": [
+        "Airsickness",
+        "Seasickness",
+        "Travel sickness"
+    ],
+    "exclusion": [
+        "birth trauma",
+        "obstetric trauma",
+        "malunion of fracture",
+        "nonunion of fracture [pseudarthrosis]",
+        "pathological fracture",
+        "pathological fracture with osteoporosis",
+        "stress fracture",
+        "adverse effects NEC",
+        "burns (electric)"
+    ],
+    "symptoms": [
+        "headache",
+        "dizziness",
+        "nausea",
+        "fatigue",
+        "confusion"
+    ]
+}

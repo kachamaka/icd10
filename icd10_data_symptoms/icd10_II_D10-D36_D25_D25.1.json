@@ -1,0 +1,25 @@
+{
+    "icd10code": "D25.1",
+    "type": "subcategory",
+    "title": "Intramural leiomyoma of uterus",
+    "chapter": "Neoplasms",
+    "chapterCode": "II",
+    "block": "Benign neoplasms",
+    "blockCode": "D10-D36",
+    "category": "Leiomyoma of uterus",
+    "categoryCode": "D25",
+    "subcategory": "D25.1",
+    "inclusion": [
+        "morphology codes with behaviour code /0",
+        "benign neoplasms of uterus with morphology code M889 and behaviour code /0",
+        "fibromyoma of uterus"
+    ],
+    "exclusion": null,
+    "symptoms": [
+        "abnormal menstruation",
+        "pelvic pain",
+        "heavy menstrual bleeding",
+        "pain during sexual intercourse",
+        "menstrual pain"
+    ]
+}

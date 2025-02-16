@@ -1,0 +1,35 @@
+{
+  "type": "subcategory",
+  "chapterCode": "XI",
+  "chapter": "Diseases of the digestive system",
+  "blockCode": "K00-K14",
+  "block": "Diseases of oral cavity, salivary glands and jaws",
+  "categoryCode": "K14",
+  "category": "Diseases of tongue",
+  "subcategory": "K14.8",
+  "title": "Other diseases of tongue",
+  "inclusion": [
+    "Atrophy (of) tongue",
+    "Crenated (of) tongue",
+    "Enlargement (of) tongue",
+    "Hypertrophy (of) tongue"
+  ],
+  "exclusion": [
+    "certain conditions originating in the perinatal period",
+    "certain infectious and parasitic diseases",
+    "complications of pregnancy, childbirth and the puerperium",
+    "congenital malformations, deformations and chromosomal abnormalities",
+    "endocrine, nutritional and metabolic diseases",
+    "injury, poisoning and certain other consequences of external causes",
+    "neoplasms",
+    "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+    "erythroplakia of tongue",
+    "focal epithelial hyperplasia of tongue",
+    "leukoedema of tongue",
+    "leukoplakia of tongue",
+    "hairy leukoplakia",
+    "macroglossia (congenital)",
+    "submucous fibrosis of tongue"
+  ],
+  "children": null
+}

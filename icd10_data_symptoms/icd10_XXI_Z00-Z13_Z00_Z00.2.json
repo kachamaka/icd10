@@ -1,0 +1,25 @@
+{
+    "icd10code": "Z00.2",
+    "type": "subcategory",
+    "title": "Examination for period of rapid growth in childhood",
+    "chapter": "Factors influencing health status and contact with health services",
+    "chapterCode": "XXI",
+    "block": "Persons encountering health services for examination and investigation",
+    "blockCode": "Z00-Z13",
+    "category": "General examination and investigation of persons without complaint and reported diagnosis",
+    "categoryCode": "Z00",
+    "subcategory": "Z00.2",
+    "inclusion": null,
+    "exclusion": [
+        "examinations related to pregnancy and reproduction",
+        "examination for administrative purposes",
+        "special screening examinations"
+    ],
+    "symptoms": [
+        "fatigue",
+        "headache",
+        "weight loss",
+        "dizziness",
+        "weakness"
+    ]
+}

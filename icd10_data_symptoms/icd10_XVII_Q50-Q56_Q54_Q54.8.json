@@ -1,0 +1,27 @@
+{
+    "icd10code": "Q54.8",
+    "type": "subcategory",
+    "title": "Other hypospadias",
+    "chapter": "Congenital malformations, deformations and chromosomal abnormalities",
+    "chapterCode": "XVII",
+    "block": "Congenital malformations of genital organs",
+    "blockCode": "Q50-Q56",
+    "category": "Hypospadias",
+    "categoryCode": "Q54",
+    "subcategory": "Q54.8",
+    "inclusion": null,
+    "exclusion": [
+        "inborn errors of metabolism",
+        "androgen resistance syndrome",
+        "syndromes associated with anomalies in the number and form of chromosomes",
+        "testicular feminization syndrome",
+        "epispadias"
+    ],
+    "symptoms": [
+        "abnormal urinary stream",
+        "penile curvature",
+        "incomplete foreskin development",
+        "misalignment of urethral opening",
+        "difficulty with urination"
+    ]
+}

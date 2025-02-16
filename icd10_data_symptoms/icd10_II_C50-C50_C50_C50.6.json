@@ -1,0 +1,25 @@
+{
+    "icd10code": "C50.6",
+    "type": "subcategory",
+    "title": "Malignant neoplasm: Axillary tail of breast",
+    "chapter": "Neoplasms",
+    "chapterCode": "II",
+    "block": "Malignant neoplasm of breast",
+    "blockCode": "C50-C50",
+    "category": "Malignant neoplasm of breast",
+    "categoryCode": "C50",
+    "subcategory": "C50.6",
+    "inclusion": [
+        "connective tissue of breast"
+    ],
+    "exclusion": [
+        "skin of breast"
+    ],
+    "symptoms": [
+        "breast lump or mass",
+        "changes in skin color on the breast",
+        "nipple discharge",
+        "inverted nipple",
+        "breast pain"
+    ]
+}

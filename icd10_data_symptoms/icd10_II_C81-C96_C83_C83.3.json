@@ -1,0 +1,33 @@
+{
+    "icd10code": "C83.3",
+    "type": "subcategory",
+    "title": "Diffuse large B-cell lymphoma",
+    "chapter": "Neoplasms",
+    "chapterCode": "II",
+    "block": "Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",
+    "blockCode": "C81-C96",
+    "category": "Non-follicular lymphoma",
+    "categoryCode": "C83",
+    "subcategory": "C83.3",
+    "inclusion": [
+        "Anaplastic diffuse large B-cell lymphoma",
+        "CD30-positive diffuse large B-cell lymphoma",
+        "Centroblastic diffuse large B-cell lymphoma",
+        "Plasmablastic diffuse large B-cell lymphoma",
+        "Immunoblastic diffuse large B-cell lymphoma",
+        "Subtype not specified diffuse large B-cell lymphoma",
+        "T-cell rich diffuse large B-cell lymphoma"
+    ],
+    "exclusion": [
+        "secondary and unspecified neoplasm of lymph nodes",
+        "mediastinal (thymic) large B-cell lymphoma",
+        "mature T/NK-cell lymphomas"
+    ],
+    "symptoms": [
+        "enlarged lymph nodes",
+        "night sweats",
+        "unexpected weight loss",
+        "fatigue",
+        "fever"
+    ]
+}

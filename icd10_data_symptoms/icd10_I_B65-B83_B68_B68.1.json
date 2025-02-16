@@ -1,0 +1,32 @@
+{
+    "icd10code": "B68.1",
+    "type": "subcategory",
+    "title": "Taenia saginata taeniasis",
+    "chapter": "Certain infectious and parasitic diseases",
+    "chapterCode": "I",
+    "block": "Helminthiases",
+    "blockCode": "B65-B83",
+    "category": "Taeniasis",
+    "categoryCode": "B68",
+    "subcategory": "B68.1",
+    "inclusion": [
+        "diseases generally recognized as communicable or transmissible",
+        "Beef tapeworm (infection)",
+        "Infection due to adult tapeworm Taenia saginata"
+    ],
+    "exclusion": [
+        "carrier or suspected carrier of infectious disease",
+        "certain localized infections - see body system-related chapters",
+        "infectious and parasitic diseases complicating pregnancy, childbirth and the puerperium [except obstetrical tetanus]",
+        "infectious and parasitic diseases specific to the perinatal period [except tetanus neonatorum, whooping cough, congenital syphilis, perinatal gonococcal infection and perinatal human immunodeficiency virus [HIV] disease]",
+        "influenza and other acute respiratory infections",
+        "haemorrhagic fever with renal manifestations"
+    ],
+    "symptoms": [
+        "abdominal pain",
+        "diarrhea",
+        "weight loss",
+        "fatigue",
+        "eosinophilia"
+    ]
+}

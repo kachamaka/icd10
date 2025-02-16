@@ -1,0 +1,17 @@
+{
+    "icd10code": "Z34.0",
+    "type": "subcategory",
+    "title": "Supervision of normal first pregnancy",
+    "chapter": "Factors influencing health status and contact with health services",
+    "chapterCode": "XXI",
+    "block": "Persons encountering health services in circumstances related to reproduction",
+    "blockCode": "Z30-Z39",
+    "category": "Supervision of normal pregnancy",
+    "categoryCode": "Z34",
+    "subcategory": "Z34.0",
+    "inclusion": null,
+    "exclusion": null,
+    "symptoms": [
+        "asymptomatic"
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "icd10code": "L92.1",
+    "type": "subcategory",
+    "title": "Necrobiosis lipoidica, not elsewhere classified",
+    "chapter": "Diseases of the skin and subcutaneous tissue",
+    "chapterCode": "XII",
+    "block": "Other disorders of the skin and subcutaneous tissue",
+    "blockCode": "L80-L99",
+    "category": "Granulomatous disorders of skin and subcutaneous tissue",
+    "categoryCode": "L92",
+    "subcategory": "L92.1",
+    "inclusion": null,
+    "exclusion": [
+        "certain conditions originating in the perinatal period",
+        "certain infectious and parasitic diseases",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "lipomelanotic reticulosis",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "systemic connective tissue disorders",
+        "acne keloid",
+        "that associated with diabetes mellitus"
+    ],
+    "symptoms": [
+        "red nodules",
+        "painful lesions",
+        "recurrent skin ulcers",
+        "tender subcutaneous lumps",
+        "fever"
+    ]
+}

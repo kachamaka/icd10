@@ -1,0 +1,33 @@
+{
+    "icd10code": "K11.5",
+    "type": "subcategory",
+    "title": "Sialolithiasis",
+    "chapter": "Diseases of the digestive system",
+    "chapterCode": "XI",
+    "block": "Diseases of oral cavity, salivary glands and jaws",
+    "blockCode": "K00-K14",
+    "category": "Diseases of salivary glands",
+    "categoryCode": "K11",
+    "subcategory": "K11.5",
+    "inclusion": [
+        "Calculus of salivary gland or duct",
+        "Stone of salivary gland or duct"
+    ],
+    "exclusion": [
+        "certain conditions originating in the perinatal period",
+        "certain infectious and parasitic diseases",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified"
+    ],
+    "symptoms": [
+        "dry mouth",
+        "difficulty swallowing",
+        "oral burning sensation",
+        "altered taste",
+        "thick saliva"
+    ]
+}

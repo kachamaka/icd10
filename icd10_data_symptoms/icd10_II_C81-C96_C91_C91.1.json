@@ -1,0 +1,27 @@
+{
+    "icd10code": "C91.1",
+    "type": "subcategory",
+    "title": "Chronic lymphocytic leukaemia of B-cell type",
+    "chapter": "Neoplasms",
+    "chapterCode": "II",
+    "block": "Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",
+    "blockCode": "C81-C96",
+    "category": "Lymphoid leukaemia",
+    "categoryCode": "C91",
+    "subcategory": "C91.1",
+    "inclusion": [
+        "Lymphoplasmacytic leukaemia",
+        "Richter syndrome"
+    ],
+    "exclusion": [
+        "secondary and unspecified neoplasm of lymph nodes",
+        "lymphoplasmacytic lymphoma"
+    ],
+    "symptoms": [
+        "fever",
+        "unexplained weight loss",
+        "night sweats",
+        "swollen lymph nodes",
+        "fatigue"
+    ]
+}

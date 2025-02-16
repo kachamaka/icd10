@@ -1,0 +1,31 @@
+{
+  "type": "subcategory",
+  "chapterCode": "IV",
+  "chapter": "Endocrine, nutritional and metabolic diseases",
+  "blockCode": "E20-E35",
+  "block": "Disorders of other endocrine glands",
+  "categoryCode": "E25",
+  "category": "Adrenogenital disorders",
+  "subcategory": "E25.0",
+  "title": "Congenital adrenogenital disorders associated with enzyme deficiency",
+  "inclusion": [
+    "adrenogenital syndromes, virilizing or feminizing, whether acquired or due to adrenal hyperplasia consequent on inborn enzyme defects in hormone synthesis",
+    "female: adrenal pseudohermaphroditism",
+    "female: heterosexual precocious pseudopuberty",
+    "male: isosexual precocious pseudopuberty",
+    "male: macrogenitosomia praecox",
+    "male: sexual precocity with adrenal hyperplasia",
+    "virilization (female)",
+    "Congenital adrenal hyperplasia",
+    "21-Hydroxylase deficiency",
+    "Salt-losing congenital adrenal hyperplasia"
+  ],
+  "exclusion": [
+    "complications of pregnancy, childbirth and the puerperium",
+    "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+    "transitory endocrine and metabolic disorders specific to fetus and newborn",
+    "galactorrhoea",
+    "gynaecomastia"
+  ],
+  "children": null
+}

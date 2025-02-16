@@ -1,0 +1,32 @@
+{
+  "type": "category",
+  "chapterCode": "XVIII",
+  "chapter": "Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+  "blockCode": "R10-R19",
+  "block": "Symptoms and signs involving the digestive system and abdomen",
+  "categoryCode": "R11",
+  "category": "Nausea and vomiting",
+  "subcategory": "",
+  "title": "Nausea and vomiting",
+  "inclusion": null,
+  "exclusion": [
+    "abnormal findings on antenatal screening of mother",
+    "certain conditions originating in the perinatal period",
+    "gastrointestinal haemorrhage",
+    "gastrointestinal haemorrhage newborn",
+    "intestinal obstruction",
+    "intestinal obstruction newborn",
+    "pylorospasm",
+    "pylorospasm congenital or infantile",
+    "symptoms and signs involving the urinary system",
+    "symptoms referable to genital organs: female",
+    "symptoms referable to genital organs: male",
+    "haematemesis",
+    "haematemesis neonatal",
+    "vomiting (of): excessive, in pregnancy",
+    "vomiting (of): following gastrointestinal surgery",
+    "vomiting (of): newborn",
+    "vomiting (of): psychogenic"
+  ],
+  "children": null
+}

@@ -1,0 +1,19 @@
+{
+  "type": "subcategory",
+  "chapterCode": "XXI",
+  "chapter": "Factors influencing health status and contact with health services",
+  "blockCode": "Z40-Z54",
+  "block": "Persons encountering health services for specific procedures and health care",
+  "categoryCode": "Z49",
+  "category": "Care involving dialysis",
+  "subcategory": "Z49.0",
+  "title": "Preparatory care for dialysis",
+  "inclusion": [
+    "dialysis preparation and treatment"
+  ],
+  "exclusion": [
+    "follow-up examination for medical surveillance after treatment",
+    "renal dialysis status"
+  ],
+  "children": null
+}

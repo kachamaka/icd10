@@ -1,0 +1,30 @@
+{
+    "icd10code": "R26.8",
+    "type": "subcategory",
+    "title": "Other and unspecified abnormalities of gait and mobility",
+    "chapter": "Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+    "chapterCode": "XVIII",
+    "block": "Symptoms and signs involving the nervous and musculoskeletal systems",
+    "blockCode": "R25-R29",
+    "category": "Abnormalities of gait and mobility",
+    "categoryCode": "R26",
+    "subcategory": "R26.8",
+    "inclusion": [
+        "Unsteadiness on feet NOS"
+    ],
+    "exclusion": [
+        "abnormal findings on antenatal screening of mother",
+        "certain conditions originating in the perinatal period",
+        "ataxia: NOS",
+        "ataxia: hereditary",
+        "ataxia: locomotor (syphilitic)",
+        "immobility syndrome (paraplegic)"
+    ],
+    "symptoms": [
+        "unsteady gait",
+        "difficulty walking",
+        "abnormal walking movements",
+        "balance problems",
+        "swaying while walking"
+    ]
+}

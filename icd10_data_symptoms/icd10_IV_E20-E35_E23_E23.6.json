@@ -1,0 +1,32 @@
+{
+    "icd10code": "E23.6",
+    "type": "subcategory",
+    "title": "Other disorders of pituitary gland",
+    "chapter": "Endocrine, nutritional and metabolic diseases",
+    "chapterCode": "IV",
+    "block": "Disorders of other endocrine glands",
+    "blockCode": "E20-E35",
+    "category": "Hypofunction and other disorders of pituitary gland",
+    "categoryCode": "E23",
+    "subcategory": "E23.6",
+    "inclusion": [
+        "the listed conditions whether the disorder is in the pituitary or the hypothalamus",
+        "Abscess of pituitary",
+        "Adiposogenital dystrophy"
+    ],
+    "exclusion": [
+        "complications of pregnancy, childbirth and the puerperium",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "transitory endocrine and metabolic disorders specific to fetus and newborn",
+        "galactorrhoea",
+        "gynaecomastia",
+        "aplasia or hypoplasia with immunodeficiency"
+    ],
+    "symptoms": [
+        "fatigue",
+        "low blood pressure",
+        "unexplained weight loss",
+        "low blood sugar",
+        "decreased libido"
+    ]
+}

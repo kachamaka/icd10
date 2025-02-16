@@ -1,0 +1,25 @@
+{
+    "icd10code": "D30.2",
+    "type": "subcategory",
+    "title": "Benign neoplasm: Ureter",
+    "chapter": "Neoplasms",
+    "chapterCode": "II",
+    "block": "Benign neoplasms",
+    "blockCode": "D10-D36",
+    "category": "Benign neoplasm of urinary organs",
+    "categoryCode": "D30",
+    "subcategory": "D30.2",
+    "inclusion": [
+        "morphology codes with behaviour code /0"
+    ],
+    "exclusion": [
+        "ureteric orifice of bladder"
+    ],
+    "symptoms": [
+        "blood in urine",
+        "lower back or abdominal pain",
+        "frequent urination",
+        "pain during urination",
+        "urinary tract infections"
+    ]
+}

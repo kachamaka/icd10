@@ -1,0 +1,33 @@
+{
+    "icd10code": "B81.3",
+    "type": "subcategory",
+    "title": "Intestinal angiostrongyliasis",
+    "chapter": "Certain infectious and parasitic diseases",
+    "chapterCode": "I",
+    "block": "Helminthiases",
+    "blockCode": "B65-B83",
+    "category": "Other intestinal helminthiases, not elsewhere classified",
+    "categoryCode": "B81",
+    "subcategory": "B81.3",
+    "inclusion": [
+        "diseases generally recognized as communicable or transmissible",
+        "Angiostrongyliasis due to: Angiostrongylus costaricensis",
+        "Angiostrongyliasis due to: Parastrongylus costaricensis"
+    ],
+    "exclusion": [
+        "carrier or suspected carrier of infectious disease",
+        "certain localized infections - see body system-related chapters",
+        "infectious and parasitic diseases complicating pregnancy, childbirth and the puerperium [except obstetrical tetanus]",
+        "infectious and parasitic diseases specific to the perinatal period [except tetanus neonatorum, whooping cough, congenital syphilis, perinatal gonococcal infection and perinatal human immunodeficiency virus [HIV] disease]",
+        "influenza and other acute respiratory infections",
+        "larval diphyllobothriasis",
+        "monkeypox"
+    ],
+    "symptoms": [
+        "abdominal pain",
+        "nausea",
+        "diarrhea",
+        "weight loss",
+        "anorexia"
+    ]
+}

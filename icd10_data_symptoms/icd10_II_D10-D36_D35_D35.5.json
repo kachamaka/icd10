@@ -1,0 +1,28 @@
+{
+    "icd10code": "D35.5",
+    "type": "subcategory",
+    "title": "Benign neoplasm: Carotid body",
+    "chapter": "Neoplasms",
+    "chapterCode": "II",
+    "block": "Benign neoplasms",
+    "blockCode": "D10-D36",
+    "category": "Benign neoplasm of other and unspecified endocrine glands",
+    "categoryCode": "D35",
+    "subcategory": "D35.5",
+    "inclusion": [
+        "morphology codes with behaviour code /0"
+    ],
+    "exclusion": [
+        "endocrine pancreas",
+        "ovary",
+        "testis",
+        "thymus"
+    ],
+    "symptoms": [
+        "enlarged thyroid",
+        "difficulty swallowing",
+        "rapid weight loss",
+        "abnormal heart rhythms",
+        "changing voice tone"
+    ]
+}

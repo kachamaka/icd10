@@ -1,0 +1,31 @@
+{
+    "icd10code": "F50.2",
+    "type": "subcategory",
+    "title": "Bulimia nervosa",
+    "chapter": "Mental and behavioural disorders",
+    "chapterCode": "V",
+    "block": "Behavioural syndromes associated with physiological disturbances and physical factors",
+    "blockCode": "F50-F59",
+    "category": "Eating disorders",
+    "categoryCode": "F50",
+    "subcategory": "F50.2",
+    "inclusion": [
+        "disorders of psychological development",
+        "Bulimia NOS",
+        "Hyperorexia nervosa"
+    ],
+    "exclusion": [
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "anorexia NOS",
+        "feeding: difficulties and mismanagement",
+        "feeding: disorder of infancy or childhood",
+        "polyphagia"
+    ],
+    "symptoms": [
+        "binge eating",
+        "loss of control over eating",
+        "shame",
+        "distress",
+        "no compensatory behaviors"
+    ]
+}

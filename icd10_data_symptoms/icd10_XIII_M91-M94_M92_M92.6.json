@@ -1,0 +1,38 @@
+{
+    "icd10code": "M92.6",
+    "type": "subcategory",
+    "title": "Juvenile osteochondrosis of tarsus",
+    "chapter": "Diseases of the musculoskeletal system and connective tissue",
+    "chapterCode": "XIII",
+    "block": "Chondropathies",
+    "blockCode": "M91-M94",
+    "category": "Other juvenile osteochondrosis",
+    "categoryCode": "M92",
+    "subcategory": "M92.6",
+    "inclusion": [
+        "Osteochondrosis (juvenile) of: calcaneum [Sever]",
+        "Osteochondrosis (juvenile) of: os tibiale externum [Haglund]",
+        "Osteochondrosis (juvenile) of: talus [Diaz]",
+        "Osteochondrosis (juvenile) of: tarsal navicular [Köhler]"
+    ],
+    "exclusion": [
+        "certain conditions originating in the perinatal period",
+        "certain disorders of the temporomandibular joint",
+        "certain infectious and parasitic diseases",
+        "compartment syndrome",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "stress fracture of vertebra"
+    ],
+    "symptoms": [
+        "pain in knee",
+        "swelling",
+        "tenderness",
+        "stiffness",
+        "limited range of motion"
+    ]
+}

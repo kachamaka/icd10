@@ -1,0 +1,35 @@
+{
+    "icd10code": "J03.0",
+    "type": "subcategory",
+    "title": "Streptococcal tonsillitis",
+    "chapter": "Diseases of the respiratory system",
+    "chapterCode": "X",
+    "block": "Acute upper respiratory infections",
+    "blockCode": "J00-J06",
+    "category": "Acute tonsillitis",
+    "categoryCode": "J03",
+    "subcategory": "J03.0",
+    "inclusion": null,
+    "exclusion": [
+        "certain conditions originating in the perinatal period",
+        "certain infectious and parasitic diseases",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "chronic obstructive pulmonary disease with acute exacerbation NOS",
+        "acute respiratory infection NOS",
+        "influenza virus: identified",
+        "influenza virus: not identified",
+        "respiratory infection NOS"
+    ],
+    "symptoms": [
+        "sore throat",
+        "difficulty swallowing",
+        "fever",
+        "swollen tonsils",
+        "white or yellow spots on tonsils"
+    ]
+}

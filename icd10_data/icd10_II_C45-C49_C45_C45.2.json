@@ -1,0 +1,18 @@
+{
+  "type": "subcategory",
+  "chapterCode": "II",
+  "chapter": "Neoplasms",
+  "blockCode": "C45-C49",
+  "block": "Malignant neoplasms of mesothelial and soft tissue",
+  "categoryCode": "C45",
+  "category": "Mesothelioma",
+  "subcategory": "C45.2",
+  "title": "Mesothelioma of pericardium",
+  "inclusion": [
+    "morphology code M905 with behaviour code /3"
+  ],
+  "exclusion": [
+    "other malignant neoplasms of pericardium"
+  ],
+  "children": null
+}

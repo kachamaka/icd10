@@ -1,0 +1,31 @@
+{
+    "icd10code": "Q61.4",
+    "type": "subcategory",
+    "title": "Renal dysplasia",
+    "chapter": "Congenital malformations, deformations and chromosomal abnormalities",
+    "chapterCode": "XVII",
+    "block": "Congenital malformations of the urinary system",
+    "blockCode": "Q60-Q64",
+    "category": "Cystic kidney disease",
+    "categoryCode": "Q61",
+    "subcategory": "Q61.4",
+    "inclusion": [
+        "Multicystic: dyplastic kidney",
+        "Multicystic: kidney (developmental)",
+        "Multicystic: kidney disease",
+        "Multicystic: renal dysplasia"
+    ],
+    "exclusion": [
+        "inborn errors of metabolism",
+        "cyst of kidney (acquired)",
+        "Potter syndrome",
+        "polycystic kidney disease"
+    ],
+    "symptoms": [
+        "flank pain",
+        "hematuria",
+        "hypertension",
+        "recurrent urinary tract infections",
+        "abdominal pain"
+    ]
+}

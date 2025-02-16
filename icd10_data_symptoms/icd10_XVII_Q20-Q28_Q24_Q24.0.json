@@ -1,0 +1,27 @@
+{
+    "icd10code": "Q24.0",
+    "type": "subcategory",
+    "title": "Dextrocardia",
+    "chapter": "Congenital malformations, deformations and chromosomal abnormalities",
+    "chapterCode": "XVII",
+    "block": "Congenital malformations of the circulatory system",
+    "blockCode": "Q20-Q28",
+    "category": "Other congenital malformations of heart",
+    "categoryCode": "Q24",
+    "subcategory": "Q24.0",
+    "inclusion": null,
+    "exclusion": [
+        "inborn errors of metabolism",
+        "endocardial fibroelastosis",
+        "dextrocardia with situs inversus",
+        "isomerism of atrial appendages (with asplenia or polysplenia)",
+        "mirror-image atrial arrangement with situs inversus"
+    ],
+    "symptoms": [
+        "cyanosis",
+        "fatigue",
+        "difficulty feeding",
+        "rapid breathing",
+        "poor growth"
+    ]
+}

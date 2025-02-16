@@ -1,0 +1,34 @@
+{
+    "icd10code": "N30.4",
+    "type": "subcategory",
+    "title": "Irradiation cystitis",
+    "chapter": "Diseases of the genitourinary system",
+    "chapterCode": "XIV",
+    "block": "Other diseases of urinary system",
+    "blockCode": "N30-N39",
+    "category": "Cystitis",
+    "categoryCode": "N30",
+    "subcategory": "N30.4",
+    "inclusion": null,
+    "exclusion": [
+        "certain conditions originating in the perinatal period",
+        "certain infectious and parasitic diseases",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "urinary infection (complicating): abortion or ectopic or molar pregnancy",
+        "urinary infection (complicating): pregnancy, childbirth and the puerperium",
+        "urinary infection (complicating): with urolithiasis",
+        "haematuria: NOS"
+    ],
+    "symptoms": [
+        "painful urination",
+        "frequent urination",
+        "urgency to urinate",
+        "cloudy urine",
+        "lower abdominal pain"
+    ]
+}

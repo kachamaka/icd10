@@ -1,0 +1,29 @@
+{
+    "icd10code": "F65.9",
+    "type": "subcategory",
+    "title": "Disorder of sexual preference, unspecified",
+    "chapter": "Mental and behavioural disorders",
+    "chapterCode": "V",
+    "block": "Disorders of adult personality and behaviour",
+    "blockCode": "F60-F69",
+    "category": "Disorders of sexual preference",
+    "categoryCode": "F65",
+    "subcategory": "F65.9",
+    "inclusion": [
+        "disorders of psychological development",
+        "paraphilias",
+        "Sexual deviation NOS"
+    ],
+    "exclusion": [
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified"
+    ],
+    "symptoms": [
+        "sexual fantasies",
+        "urges",
+        "or behaviors",
+        "distress",
+        "impairment in functioning",
+        "social/occupational difficulties",
+        "emotional discomfort"
+    ]
+}

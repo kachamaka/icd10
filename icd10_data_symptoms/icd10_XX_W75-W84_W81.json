@@ -1,0 +1,22 @@
+{
+    "icd10code": "W81",
+    "type": "category",
+    "title": "Confined to or trapped in a low-oxygen environment",
+    "chapter": "External causes of morbidity and mortality",
+    "chapterCode": "XX",
+    "block": "Other accidental threats to breathing",
+    "blockCode": "W75-W84",
+    "category": "Confined to or trapped in a low-oxygen environment",
+    "categoryCode": "W81",
+    "subcategory": "",
+    "inclusion": [
+        "accidentally shut in refrigerator or other airtight space",
+        "diving with insufficient air supply"
+    ],
+    "exclusion": [
+        "suffocation by plastic bag"
+    ],
+    "symptoms": [
+        "asymptomatic"
+    ]
+}

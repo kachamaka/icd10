@@ -1,0 +1,24 @@
+{
+    "icd10code": "R03.0",
+    "type": "subcategory",
+    "title": "Elevated blood-pressure reading, without diagnosis of hypertension",
+    "chapter": "Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+    "chapterCode": "XVIII",
+    "block": "Symptoms and signs involving the circulatory and respiratory systems",
+    "blockCode": "R00-R09",
+    "category": "Abnormal blood-pressure reading, without diagnosis",
+    "categoryCode": "R03",
+    "subcategory": "R03.0",
+    "inclusion": null,
+    "exclusion": [
+        "abnormal findings on antenatal screening of mother",
+        "certain conditions originating in the perinatal period"
+    ],
+    "symptoms": [
+        "chest pain",
+        "fatigue",
+        "dizziness",
+        "shortness of breath",
+        "palpitations"
+    ]
+}

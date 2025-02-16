@@ -1,0 +1,23 @@
+{
+    "icd10code": "Q00.2",
+    "type": "subcategory",
+    "title": "Iniencephaly",
+    "chapter": "Congenital malformations, deformations and chromosomal abnormalities",
+    "chapterCode": "XVII",
+    "block": "Congenital malformations of the nervous system",
+    "blockCode": "Q00-Q07",
+    "category": "Anencephaly and similar malformations",
+    "categoryCode": "Q00",
+    "subcategory": "Q00.2",
+    "inclusion": null,
+    "exclusion": [
+        "inborn errors of metabolism"
+    ],
+    "symptoms": [
+        "absence of cranial vault",
+        "cerebral hemispheres missing",
+        "brainstem anomalies",
+        "facial deformities",
+        "neural tube defects"
+    ]
+}

@@ -1,0 +1,20 @@
+{
+  "type": "subcategory",
+  "chapterCode": "II",
+  "chapter": "Neoplasms",
+  "blockCode": "C81-C96",
+  "block": "Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",
+  "categoryCode": "C92",
+  "category": "Myeloid leukaemia",
+  "subcategory": "C92.7",
+  "title": "Other myeloid leukaemia",
+  "inclusion": [
+    "leukaemia: granulocytic",
+    "leukaemia: myelogenous"
+  ],
+  "exclusion": [
+    "secondary and unspecified neoplasm of lymph nodes",
+    "chronic eosinophilic leukaemia [hypereosinophilic syndrome]"
+  ],
+  "children": null
+}

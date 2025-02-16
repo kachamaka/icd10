@@ -1,0 +1,32 @@
+{
+    "icd10code": "Q55.6",
+    "type": "subcategory",
+    "title": "Other congenital malformations of penis",
+    "chapter": "Congenital malformations, deformations and chromosomal abnormalities",
+    "chapterCode": "XVII",
+    "block": "Congenital malformations of genital organs",
+    "blockCode": "Q50-Q56",
+    "category": "Other congenital malformations of male genital organs",
+    "categoryCode": "Q55",
+    "subcategory": "Q55.6",
+    "inclusion": [
+        "Congenital malformation of penis NOS",
+        "Curvature of penis (lateral)",
+        "Hypoplasia of penis"
+    ],
+    "exclusion": [
+        "inborn errors of metabolism",
+        "androgen resistance syndrome",
+        "syndromes associated with anomalies in the number and form of chromosomes",
+        "testicular feminization syndrome",
+        "congenital hydrocele",
+        "hypospadias"
+    ],
+    "symptoms": [
+        "undescended testes",
+        "underdeveloped testes",
+        "absent testes",
+        "ambiguous genitalia",
+        "infertility"
+    ]
+}

@@ -1,0 +1,19 @@
+{
+  "type": "category",
+  "chapterCode": "XX",
+  "chapter": "External causes of morbidity and mortality",
+  "blockCode": "X10-X19",
+  "block": "Contact with heat and hot substances",
+  "categoryCode": "X14",
+  "category": "Contact with hot air and gases",
+  "subcategory": "",
+  "title": "Contact with hot air and gases",
+  "inclusion": [
+    "inhalation of hot air and gases"
+  ],
+  "exclusion": [
+    "exposure to: excessive natural heat",
+    "exposure to: fire and flames"
+  ],
+  "children": null
+}

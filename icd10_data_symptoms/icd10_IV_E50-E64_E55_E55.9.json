@@ -1,0 +1,31 @@
+{
+    "icd10code": "E55.9",
+    "type": "subcategory",
+    "title": "Vitamin D deficiency, unspecified",
+    "chapter": "Endocrine, nutritional and metabolic diseases",
+    "chapterCode": "IV",
+    "block": "Other nutritional deficiencies",
+    "blockCode": "E50-E64",
+    "category": "Vitamin D deficiency",
+    "categoryCode": "E55",
+    "subcategory": "E55.9",
+    "inclusion": [
+        "Avitaminosis D"
+    ],
+    "exclusion": [
+        "complications of pregnancy, childbirth and the puerperium",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "transitory endocrine and metabolic disorders specific to fetus and newborn",
+        "diabetes mellitus (in): malnutrition-related",
+        "adult osteomalacia",
+        "osteoporosis",
+        "sequelae of rickets"
+    ],
+    "symptoms": [
+        "fatigue",
+        "muscle weakness",
+        "bone pain",
+        "impaired growth",
+        "depression"
+    ]
+}

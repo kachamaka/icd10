@@ -1,0 +1,24 @@
+{
+  "type": "subcategory",
+  "chapterCode": "XIX",
+  "chapter": "Injury, poisoning and certain other consequences of external causes",
+  "blockCode": "T90-T98",
+  "block": "Sequelae of injuries, of poisoning and of other consequences of external causes",
+  "categoryCode": "T92",
+  "category": "Sequelae of injuries of upper limb",
+  "subcategory": "T92.5",
+  "title": "Sequelae of injury of muscle and tendon of upper limb",
+  "inclusion": [
+    "Sequelae of injury classifiable to S46.-, S56.-, S66.- and T11.5"
+  ],
+  "exclusion": [
+    "birth trauma",
+    "obstetric trauma",
+    "malunion of fracture",
+    "nonunion of fracture [pseudarthrosis]",
+    "pathological fracture",
+    "pathological fracture with osteoporosis",
+    "stress fracture"
+  ],
+  "children": null
+}

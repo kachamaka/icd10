@@ -1,0 +1,31 @@
+{
+    "icd10code": "T93.5",
+    "type": "subcategory",
+    "title": "Sequelae of injury of muscle and tendon of lower limb",
+    "chapter": "Injury, poisoning and certain other consequences of external causes",
+    "chapterCode": "XIX",
+    "block": "Sequelae of injuries, of poisoning and of other consequences of external causes",
+    "blockCode": "T90-T98",
+    "category": "Sequelae of injuries of lower limb",
+    "categoryCode": "T93",
+    "subcategory": "T93.5",
+    "inclusion": [
+        "Sequelae of injury classifiable to S76.-, S86.-, S96.- and T13.5"
+    ],
+    "exclusion": [
+        "birth trauma",
+        "obstetric trauma",
+        "malunion of fracture",
+        "nonunion of fracture [pseudarthrosis]",
+        "pathological fracture",
+        "pathological fracture with osteoporosis",
+        "stress fracture"
+    ],
+    "symptoms": [
+        "pain",
+        "swelling",
+        "limited mobility",
+        "stiffness",
+        "weakness"
+    ]
+}

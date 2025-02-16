@@ -1,0 +1,26 @@
+{
+  "type": "subcategory",
+  "chapterCode": "XVIII",
+  "chapter": "Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+  "blockCode": "R50-R69",
+  "block": "General symptoms and signs",
+  "categoryCode": "R63",
+  "category": "Symptoms and signs concerning food and fluid intake",
+  "subcategory": "R63.6",
+  "title": "Insufficient intake of food and water",
+  "inclusion": [
+    "Insufficient intake of food and water (due to self neglect)"
+  ],
+  "exclusion": [
+    "abnormal findings on antenatal screening of mother",
+    "certain conditions originating in the perinatal period",
+    "bulimia NOS",
+    "eating disorders of nonorganic origin",
+    "malnutrition",
+    "starvation due to anorexia",
+    "starvation due to privation of food",
+    "thirst due to privation of water",
+    "self neglect NOS"
+  ],
+  "children": null
+}

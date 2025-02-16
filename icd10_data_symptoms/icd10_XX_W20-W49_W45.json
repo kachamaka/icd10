@@ -1,0 +1,33 @@
+{
+    "icd10code": "W45",
+    "type": "category",
+    "title": "Foreign body or object entering through skin",
+    "chapter": "External causes of morbidity and mortality",
+    "chapterCode": "XX",
+    "block": "Exposure to inanimate mechanical forces",
+    "blockCode": "W20-W49",
+    "category": "Foreign body or object entering through skin",
+    "categoryCode": "W45",
+    "subcategory": "",
+    "inclusion": [
+        "foreign body or object embedded in skin: nail",
+        "foreign body or object embedded in skin: splinter"
+    ],
+    "exclusion": [
+        "assault",
+        "contact or collision with animals or persons",
+        "intentional self-harm",
+        "contact with: hand tools (nonpowered)(powered)",
+        "contact with: hypodermic needle",
+        "contact with: other sharp object(s)",
+        "contact with: sharp glass",
+        "struck by objects"
+    ],
+    "symptoms": [
+        "pain",
+        "swelling",
+        "redness",
+        "tenderness",
+        "localized infection"
+    ]
+}

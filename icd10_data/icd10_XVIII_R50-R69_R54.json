@@ -1,0 +1,23 @@
+{
+  "type": "category",
+  "chapterCode": "XVIII",
+  "chapter": "Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+  "blockCode": "R50-R69",
+  "block": "General symptoms and signs",
+  "categoryCode": "R54",
+  "category": "Senility",
+  "subcategory": "",
+  "title": "Senility",
+  "inclusion": [
+    "Old age without mention of psychosis",
+    "Senescence without mention of psychosis",
+    "Senile: asthenia",
+    "Senile: debility"
+  ],
+  "exclusion": [
+    "abnormal findings on antenatal screening of mother",
+    "certain conditions originating in the perinatal period",
+    "senile psychosis"
+  ],
+  "children": null
+}

@@ -1,0 +1,21 @@
+{
+    "icd10code": "Z54.7",
+    "type": "subcategory",
+    "title": "Convalescence following combined treatment",
+    "chapter": "Factors influencing health status and contact with health services",
+    "chapterCode": "XXI",
+    "block": "Persons encountering health services for specific procedures and health care",
+    "blockCode": "Z40-Z54",
+    "category": "Convalescence",
+    "categoryCode": "Z54",
+    "subcategory": "Z54.7",
+    "inclusion": [
+        "Convalescence following any combination of treatments classified to Z54.0-Z54.4"
+    ],
+    "exclusion": [
+        "follow-up examination for medical surveillance after treatment"
+    ],
+    "symptoms": [
+        "asymptomatic"
+    ]
+}

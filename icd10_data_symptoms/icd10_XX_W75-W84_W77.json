@@ -1,0 +1,22 @@
+{
+    "icd10code": "W77",
+    "type": "category",
+    "title": "Threat to breathing due to cave-in, falling earth and other substances",
+    "chapter": "External causes of morbidity and mortality",
+    "chapterCode": "XX",
+    "block": "Other accidental threats to breathing",
+    "blockCode": "W75-W84",
+    "category": "Threat to breathing due to cave-in, falling earth and other substances",
+    "categoryCode": "W77",
+    "subcategory": "",
+    "inclusion": [
+        "cave-in NOS"
+    ],
+    "exclusion": [
+        "cave-in caused by cataclysm",
+        "cave-in without asphyxiation or suffocation"
+    ],
+    "symptoms": [
+        "asymptomatic"
+    ]
+}

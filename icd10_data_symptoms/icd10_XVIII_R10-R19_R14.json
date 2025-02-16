@@ -1,0 +1,40 @@
+{
+    "icd10code": "R14",
+    "type": "category",
+    "title": "Flatulence and related conditions",
+    "chapter": "Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+    "chapterCode": "XVIII",
+    "block": "Symptoms and signs involving the digestive system and abdomen",
+    "blockCode": "R10-R19",
+    "category": "Flatulence and related conditions",
+    "categoryCode": "R14",
+    "subcategory": "",
+    "inclusion": [
+        "Abdominal distension (gaseous)",
+        "Bloating",
+        "Eructation",
+        "Gas pain",
+        "Tympanites (abdominal)(intestinal)"
+    ],
+    "exclusion": [
+        "abnormal findings on antenatal screening of mother",
+        "certain conditions originating in the perinatal period",
+        "gastrointestinal haemorrhage",
+        "gastrointestinal haemorrhage newborn",
+        "intestinal obstruction",
+        "intestinal obstruction newborn",
+        "pylorospasm",
+        "pylorospasm congenital or infantile",
+        "symptoms and signs involving the urinary system",
+        "symptoms referable to genital organs: female",
+        "symptoms referable to genital organs: male",
+        "psychogenic aerophagy"
+    ],
+    "symptoms": [
+        "abdominal bloating",
+        "excessive gas",
+        "belching",
+        "flatulence",
+        "stomach discomfort"
+    ]
+}

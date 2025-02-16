@@ -1,0 +1,37 @@
+{
+  "type": "subcategory",
+  "chapterCode": "XIII",
+  "chapter": "Diseases of the musculoskeletal system and connective tissue",
+  "blockCode": "M05-M14",
+  "block": "Inflammatory polyarthropathies",
+  "categoryCode": "M14",
+  "category": "Arthropathies in other diseases classified elsewhere",
+  "subcategory": "M14.5",
+  "title": "Arthropathies in other endocrine, nutritional and metabolic disorders",
+  "inclusion": [
+    "Disorders affecting predominantly peripheral (limb) joints",
+    "Arthropathy in: acromegaly and pituitary gigantism",
+    "Arthropathy in: haemochromatosis",
+    "Arthropathy in: hypothyroidism",
+    "Arthropathy in: thyrotoxicosis [hyperthyroidism]"
+  ],
+  "exclusion": [
+    "certain conditions originating in the perinatal period",
+    "certain disorders of the temporomandibular joint",
+    "certain infectious and parasitic diseases",
+    "compartment syndrome",
+    "complications of pregnancy, childbirth and the puerperium",
+    "congenital malformations, deformations and chromosomal abnormalities",
+    "endocrine, nutritional and metabolic diseases",
+    "injury, poisoning and certain other consequences of external causes",
+    "neoplasms",
+    "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+    "polyarthritis NOS",
+    "viral arthropathies",
+    "adult-onset Still disease",
+    "post-traumatic arthrosis (of): NOS",
+    "post-traumatic arthrosis (of): first carpometacarpal joint",
+    "post-traumatic arthrosis (of): hip"
+  ],
+  "children": null
+}

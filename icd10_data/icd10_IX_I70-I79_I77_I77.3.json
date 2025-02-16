@@ -1,0 +1,28 @@
+{
+  "type": "subcategory",
+  "chapterCode": "IX",
+  "chapter": "Diseases of the circulatory system",
+  "blockCode": "I70-I79",
+  "block": "Diseases of arteries, arterioles and capillaries",
+  "categoryCode": "I77",
+  "category": "Other disorders of arteries and arterioles",
+  "subcategory": "I77.3",
+  "title": "Arterial fibromuscular dysplasia",
+  "inclusion": null,
+  "exclusion": [
+    "certain conditions originating in the perinatal period",
+    "certain infectious and parasitic diseases",
+    "complications of pregnancy, childbirth and the puerperium",
+    "congenital malformations, deformations and chromosomal abnormalities",
+    "endocrine, nutritional and metabolic diseases",
+    "injury, poisoning and certain other consequences of external causes",
+    "neoplasms",
+    "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+    "systemic connective tissue disorders",
+    "transient cerebral ischaemic attacks and related syndromes",
+    "Eisenmenger defect",
+    "congenital coronary (artery) aneurysm",
+    "ischaemic heart disease (chronic) NOS"
+  ],
+  "children": null
+}

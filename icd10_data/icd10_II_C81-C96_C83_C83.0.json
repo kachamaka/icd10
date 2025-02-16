@@ -1,0 +1,24 @@
+{
+  "type": "subcategory",
+  "chapterCode": "II",
+  "chapter": "Neoplasms",
+  "blockCode": "C81-C96",
+  "block": "Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",
+  "categoryCode": "C83",
+  "category": "Non-follicular lymphoma",
+  "subcategory": "C83.0",
+  "title": "Small cell B-cell lymphoma",
+  "inclusion": [
+    "Lymphoplasmacytic lymphoma",
+    "Nodal marginal zone lymphoma",
+    "Non-leukaemic variant of B-CLL",
+    "Splenic marginal zone lymphoma"
+  ],
+  "exclusion": [
+    "secondary and unspecified neoplasm of lymph nodes",
+    "Chronic lymphocytic leukaemia",
+    "Waldenström macroglobulinaemia",
+    "mature T/NK-cell lymphomas"
+  ],
+  "children": null
+}

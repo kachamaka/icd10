@@ -1,0 +1,27 @@
+{
+    "icd10code": "D43.1",
+    "type": "subcategory",
+    "title": "Neoplasm of uncertain or unknown behaviour: Brain, infratentorial",
+    "chapter": "Neoplasms",
+    "chapterCode": "II",
+    "block": "Neoplasms of uncertain or unknown behaviour",
+    "blockCode": "D37-D48",
+    "category": "Neoplasm of uncertain or unknown behaviour of brain and central nervous system",
+    "categoryCode": "D43",
+    "subcategory": "D43.1",
+    "inclusion": [
+        "Brain stem",
+        "Cerebellum",
+        "Fourth ventricle"
+    ],
+    "exclusion": [
+        "peripheral nerves and autonomic nervous system"
+    ],
+    "symptoms": [
+        "headaches",
+        "seizures",
+        "cognitive changes",
+        "vision problems",
+        "personality changes"
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "icd10code": "Q86.0",
+    "type": "subcategory",
+    "title": "Fetal alcohol syndrome (dysmorphic)",
+    "chapter": "Congenital malformations, deformations and chromosomal abnormalities",
+    "chapterCode": "XVII",
+    "block": "Other congenital malformations",
+    "blockCode": "Q80-Q89",
+    "category": "Congenital malformation syndromes due to known exogenous causes, not elsewhere classified",
+    "categoryCode": "Q86",
+    "subcategory": "Q86.0",
+    "inclusion": null,
+    "exclusion": [
+        "inborn errors of metabolism",
+        "iodine-deficiency-related hypothyroidism",
+        "nonteratogenic effects of substances transmitted via placenta or breast milk"
+    ],
+    "symptoms": [
+        "facial abnormalities",
+        "cleft lip",
+        "growth retardation",
+        "intellectual disability",
+        "limb malformations"
+    ]
+}

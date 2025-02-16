@@ -1,0 +1,36 @@
+{
+  "type": "subcategory",
+  "chapterCode": "IX",
+  "chapter": "Diseases of the circulatory system",
+  "blockCode": "I60-I69",
+  "block": "Cerebrovascular diseases",
+  "categoryCode": "I66",
+  "category": "Occlusion and stenosis of cerebral arteries, not resulting in cerebral infarction",
+  "subcategory": "I66.8",
+  "title": "Occlusion and stenosis of other cerebral artery",
+  "inclusion": [
+    "with mention of hypertension (conditions in I10 and I15.-)",
+    "embolism of middle, anterior and posterior cerebral arteries, and cerebellar arteries, not resulting in cerebral infarction",
+    "narrowing of middle, anterior and posterior cerebral arteries, and cerebellar arteries, not resulting in cerebral infarction",
+    "obstruction (complete)(partial) of middle, anterior and posterior cerebral arteries, and cerebellar arteries, not resulting in cerebral infarction",
+    "thrombosis of middle, anterior and posterior cerebral arteries, and cerebellar arteries, not resulting in cerebral infarction",
+    "Occlusion and stenosis of perforating arteries"
+  ],
+  "exclusion": [
+    "certain conditions originating in the perinatal period",
+    "certain infectious and parasitic diseases",
+    "complications of pregnancy, childbirth and the puerperium",
+    "congenital malformations, deformations and chromosomal abnormalities",
+    "endocrine, nutritional and metabolic diseases",
+    "injury, poisoning and certain other consequences of external causes",
+    "neoplasms",
+    "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+    "systemic connective tissue disorders",
+    "transient cerebral ischaemic attacks and related syndromes",
+    "pulmonary",
+    "naevus: blue",
+    "complicating: childbirth and the puerperium",
+    "complicating: pregnancy"
+  ],
+  "children": null
+}

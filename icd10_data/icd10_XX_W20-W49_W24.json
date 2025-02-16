@@ -1,0 +1,27 @@
+{
+  "type": "category",
+  "chapterCode": "XX",
+  "chapter": "External causes of morbidity and mortality",
+  "blockCode": "W20-W49",
+  "block": "Exposure to inanimate mechanical forces",
+  "categoryCode": "W24",
+  "category": "Contact with lifting and transmission device(s), not elsewhere classified",
+  "subcategory": "",
+  "title": "Contact with lifting and transmission device(s), not elsewhere classified",
+  "inclusion": [
+    "chain hoist",
+    "drive belt",
+    "pulley (block)",
+    "rope",
+    "transmission belt or cable",
+    "winch",
+    "wire"
+  ],
+  "exclusion": [
+    "assault",
+    "contact or collision with animals or persons",
+    "intentional self-harm",
+    "transport accidents"
+  ],
+  "children": null
+}

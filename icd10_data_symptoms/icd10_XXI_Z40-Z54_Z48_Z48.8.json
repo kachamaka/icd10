@@ -1,0 +1,24 @@
+{
+    "icd10code": "Z48.8",
+    "type": "subcategory",
+    "title": "Other specified surgical follow-up care",
+    "chapter": "Factors influencing health status and contact with health services",
+    "chapterCode": "XXI",
+    "block": "Persons encountering health services for specific procedures and health care",
+    "blockCode": "Z40-Z54",
+    "category": "Other surgical follow-up care",
+    "categoryCode": "Z48",
+    "subcategory": "Z48.8",
+    "inclusion": null,
+    "exclusion": [
+        "follow-up examination for medical surveillance after treatment",
+        "attention to artificial openings",
+        "fitting and adjustment of prosthetic and other devices",
+        "follow-up examination after: surgery",
+        "follow-up examination after: treatment of fracture",
+        "orthopaedic follow-up care"
+    ],
+    "symptoms": [
+        "asymptomatic"
+    ]
+}

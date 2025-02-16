@@ -1,0 +1,17 @@
+{
+  "type": "subcategory",
+  "chapterCode": "II",
+  "chapter": "Neoplasms",
+  "blockCode": "C51-C58",
+  "block": "Malignant neoplasms of female genital organs",
+  "categoryCode": "C57",
+  "category": "Malignant neoplasm of other and unspecified female genital organs",
+  "subcategory": "C57.9",
+  "title": "Malignant neoplasm: Female genital organ, unspecified",
+  "inclusion": [
+    "skin of female genital organs",
+    "Female genitourinary tract NOS"
+  ],
+  "exclusion": null,
+  "children": null
+}

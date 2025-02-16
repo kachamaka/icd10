@@ -1,0 +1,21 @@
+{
+    "icd10code": "C79.0",
+    "type": "subcategory",
+    "title": "Secondary malignant neoplasm of kidney and renal pelvis",
+    "chapter": "Neoplasms",
+    "chapterCode": "II",
+    "block": "Malignant neoplasms of ill-defined, secondary and unspecified sites",
+    "blockCode": "C76-C80",
+    "category": "Secondary malignant neoplasm of other and unspecified sites",
+    "categoryCode": "C79",
+    "subcategory": "C79.0",
+    "inclusion": null,
+    "exclusion": null,
+    "symptoms": [
+        "unexplained weight loss",
+        "persistent bone pain",
+        "fatigue",
+        "frequent fractures",
+        "swelling or redness at the site"
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "icd10code": "Z73.0",
+    "type": "subcategory",
+    "title": "Burn-out",
+    "chapter": "Factors influencing health status and contact with health services",
+    "chapterCode": "XXI",
+    "block": "Persons encountering health services in other circumstances",
+    "blockCode": "Z70-Z76",
+    "category": "Problems related to life-management difficulty",
+    "categoryCode": "Z73",
+    "subcategory": "Z73.0",
+    "inclusion": [
+        "State of vital exhaustion"
+    ],
+    "exclusion": [
+        "problems related to socioeconomic and psychosocial circumstances"
+    ],
+    "symptoms": [
+        "difficulty concentrating",
+        "fatigue",
+        "irritability",
+        "sleep disturbances",
+        "feeling overwhelmed"
+    ]
+}

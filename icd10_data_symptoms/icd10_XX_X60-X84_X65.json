@@ -1,0 +1,27 @@
+{
+    "icd10code": "X65",
+    "type": "category",
+    "title": "Intentional self-poisoning by and exposure to alcohol",
+    "chapter": "External causes of morbidity and mortality",
+    "chapterCode": "XX",
+    "block": "Intentional self-harm",
+    "blockCode": "X60-X84",
+    "category": "Intentional self-poisoning by and exposure to alcohol",
+    "categoryCode": "X65",
+    "subcategory": "",
+    "inclusion": [
+        "purposely self-inflicted poisoning or injury",
+        "suicide (attempted)",
+        "alcohol: NOS",
+        "alcohol: butyl [1-butanol]",
+        "alcohol: ethyl [ethanol]",
+        "alcohol: isopropyl [2-propanol]",
+        "alcohol: methyl [methanol]",
+        "alcohol: propyl [1-propanol]",
+        "fusel oil"
+    ],
+    "exclusion": null,
+    "symptoms": [
+        "asymptomatic"
+    ]
+}

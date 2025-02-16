@@ -1,0 +1,25 @@
+{
+  "type": "subcategory",
+  "chapterCode": "VII",
+  "chapter": "Diseases of the eye and adnexa",
+  "blockCode": "H55-H59",
+  "block": "Other disorders of eye and adnexa",
+  "categoryCode": "H58",
+  "category": "Other disorders of eye and adnexa in diseases classified elsewhere",
+  "subcategory": "H58.0",
+  "title": "Anomalies of pupillary function in diseases classified elsewhere",
+  "inclusion": [
+    "Argyll Robertson phenomenon or pupil, syphilitic"
+  ],
+  "exclusion": [
+    "certain conditions originating in the perinatal period",
+    "certain infectious and parasitic diseases",
+    "complications of pregnancy, childbirth and the puerperium",
+    "congenital malformations, deformations and chromosomal abnormalities",
+    "endocrine, nutritional and metabolic diseases",
+    "injury, poisoning and certain other consequences of external causes",
+    "neoplasms",
+    "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified"
+  ],
+  "children": null
+}

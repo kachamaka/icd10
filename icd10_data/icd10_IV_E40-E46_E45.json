@@ -1,0 +1,27 @@
+{
+  "type": "category",
+  "chapterCode": "IV",
+  "chapter": "Endocrine, nutritional and metabolic diseases",
+  "blockCode": "E40-E46",
+  "block": "Malnutrition",
+  "categoryCode": "E45",
+  "category": "Retarded development following protein-energy malnutrition",
+  "subcategory": "",
+  "title": "Retarded development following protein-energy malnutrition",
+  "inclusion": [
+    "Nutritional: short stature",
+    "Nutritional: stunting",
+    "Physical retardation due to malnutrition"
+  ],
+  "exclusion": [
+    "complications of pregnancy, childbirth and the puerperium",
+    "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+    "transitory endocrine and metabolic disorders specific to fetus and newborn",
+    "intestinal malabsorption",
+    "nutritional anaemias",
+    "sequelae of protein-energy malnutrition",
+    "slim disease",
+    "starvation"
+  ],
+  "children": null
+}

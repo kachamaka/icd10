@@ -1,0 +1,23 @@
+{
+    "icd10code": "C81.9",
+    "type": "subcategory",
+    "title": "Hodgkin lymphoma, unspecified",
+    "chapter": "Neoplasms",
+    "chapterCode": "II",
+    "block": "Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",
+    "blockCode": "C81-C96",
+    "category": "Hodgkin lymphoma",
+    "categoryCode": "C81",
+    "subcategory": "C81.9",
+    "inclusion": null,
+    "exclusion": [
+        "secondary and unspecified neoplasm of lymph nodes"
+    ],
+    "symptoms": [
+        "unexplained weight loss",
+        "persistent fatigue",
+        "cough",
+        "breathlessness",
+        "night sweats"
+    ]
+}

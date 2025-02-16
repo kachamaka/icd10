@@ -1,0 +1,37 @@
+{
+    "icd10code": "A17.0",
+    "type": "subcategory",
+    "title": "Tuberculous meningitis",
+    "chapter": "Certain infectious and parasitic diseases",
+    "chapterCode": "I",
+    "block": "Tuberculosis",
+    "blockCode": "A15-A19",
+    "category": "Tuberculosis of nervous system",
+    "categoryCode": "A17",
+    "subcategory": "A17.0",
+    "inclusion": [
+        "diseases generally recognized as communicable or transmissible",
+        "infections due to Mycobacterium tuberculosis and Mycobacterium bovis",
+        "Tuberculosis of meninges (cerebral)(spinal)",
+        "Tuberculous leptomeningitis"
+    ],
+    "exclusion": [
+        "carrier or suspected carrier of infectious disease",
+        "certain localized infections - see body system-related chapters",
+        "infectious and parasitic diseases complicating pregnancy, childbirth and the puerperium [except obstetrical tetanus]",
+        "infectious and parasitic diseases specific to the perinatal period [except tetanus neonatorum, whooping cough, congenital syphilis, perinatal gonococcal infection and perinatal human immunodeficiency virus [HIV] disease]",
+        "influenza and other acute respiratory infections",
+        "congenital tuberculosis",
+        "human immunodeficieny [HIV] disease resulting in tuberculosis",
+        "pneumoconiosis associated with tuberculosis",
+        "sequelae of tuberculosis",
+        "silicotuberculosis"
+    ],
+    "symptoms": [
+        "headache",
+        "nausea and vomiting",
+        "memory loss",
+        "changes in vision",
+        "general weakness"
+    ]
+}

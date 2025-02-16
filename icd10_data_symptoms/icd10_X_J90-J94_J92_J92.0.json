@@ -1,0 +1,32 @@
+{
+    "icd10code": "J92.0",
+    "type": "subcategory",
+    "title": "Pleural plaque with presence of asbestos",
+    "chapter": "Diseases of the respiratory system",
+    "chapterCode": "X",
+    "block": "Other diseases of pleura",
+    "blockCode": "J90-J94",
+    "category": "Pleural plaque",
+    "categoryCode": "J92",
+    "subcategory": "J92.0",
+    "inclusion": [
+        "pleural thickening"
+    ],
+    "exclusion": [
+        "certain conditions originating in the perinatal period",
+        "certain infectious and parasitic diseases",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified"
+    ],
+    "symptoms": [
+        "chest pain",
+        "chronic cough",
+        "shortness of breath",
+        "reduced lung capacity",
+        "fatigue"
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "icd10code": "C91.0",
+    "type": "subcategory",
+    "title": "Acute lymphoblastic leukaemia [ALL]",
+    "chapter": "Neoplasms",
+    "chapterCode": "II",
+    "block": "Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",
+    "blockCode": "C81-C96",
+    "category": "Lymphoid leukaemia",
+    "categoryCode": "C91",
+    "subcategory": "C91.0",
+    "inclusion": null,
+    "exclusion": [
+        "secondary and unspecified neoplasm of lymph nodes"
+    ],
+    "symptoms": [
+        "fatigue",
+        "fever",
+        "unexplained weight loss",
+        "night sweats",
+        "frequent infections"
+    ]
+}

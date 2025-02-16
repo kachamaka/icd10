@@ -1,0 +1,33 @@
+{
+    "icd10code": "H31.3",
+    "type": "subcategory",
+    "title": "Choroidal haemorrhage and rupture",
+    "chapter": "Diseases of the eye and adnexa",
+    "chapterCode": "VII",
+    "block": "Disorders of choroid and retina",
+    "blockCode": "H30-H36",
+    "category": "Other disorders of choroid",
+    "categoryCode": "H31",
+    "subcategory": "H31.3",
+    "inclusion": [
+        "Choroidal haemorrhage: NOS",
+        "Choroidal haemorrhage: expulsive"
+    ],
+    "exclusion": [
+        "certain conditions originating in the perinatal period",
+        "certain infectious and parasitic diseases",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified"
+    ],
+    "symptoms": [
+        "decreased vision",
+        "night blindness",
+        "peripheral vision loss",
+        "color vision defects",
+        "visual field abnormalities"
+    ]
+}

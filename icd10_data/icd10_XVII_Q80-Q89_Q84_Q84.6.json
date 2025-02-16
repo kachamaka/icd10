@@ -1,0 +1,20 @@
+{
+  "type": "subcategory",
+  "chapterCode": "XVII",
+  "chapter": "Congenital malformations, deformations and chromosomal abnormalities",
+  "blockCode": "Q80-Q89",
+  "block": "Other congenital malformations",
+  "categoryCode": "Q84",
+  "category": "Other congenital malformations of integument",
+  "subcategory": "Q84.6",
+  "title": "Other congenital malformations of nails",
+  "inclusion": [
+    "Congenital: clubnail",
+    "Congenital: koilonychia",
+    "Congenital: malformation of nail NOS"
+  ],
+  "exclusion": [
+    "inborn errors of metabolism"
+  ],
+  "children": null
+}

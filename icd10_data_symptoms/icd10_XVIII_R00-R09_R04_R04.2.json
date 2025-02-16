@@ -1,0 +1,27 @@
+{
+    "icd10code": "R04.2",
+    "type": "subcategory",
+    "title": "Haemoptysis",
+    "chapter": "Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+    "chapterCode": "XVIII",
+    "block": "Symptoms and signs involving the circulatory and respiratory systems",
+    "blockCode": "R00-R09",
+    "category": "Haemorrhage from respiratory passages",
+    "categoryCode": "R04",
+    "subcategory": "R04.2",
+    "inclusion": [
+        "Blood-stained sputum",
+        "Cough with haemorrhage"
+    ],
+    "exclusion": [
+        "abnormal findings on antenatal screening of mother",
+        "certain conditions originating in the perinatal period"
+    ],
+    "symptoms": [
+        "hemoptysis",
+        "coughing up blood",
+        "blood-streaked sputum",
+        "chest discomfort",
+        "shortness of breath"
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "icd10code": "Q89.2",
+    "type": "subcategory",
+    "title": "Congenital malformations of other endocrine glands",
+    "chapter": "Congenital malformations, deformations and chromosomal abnormalities",
+    "chapterCode": "XVII",
+    "block": "Other congenital malformations",
+    "blockCode": "Q80-Q89",
+    "category": "Other congenital malformations, not elsewhere classified",
+    "categoryCode": "Q89",
+    "subcategory": "Q89.2",
+    "inclusion": [
+        "Congenital malformation of parathyroid or thyroid gland",
+        "Persistent thyroglossal duct",
+        "Thyroglossal cyst"
+    ],
+    "exclusion": [
+        "inborn errors of metabolism"
+    ],
+    "symptoms": [
+        "abnormal organ position",
+        "malformed organs",
+        "missing organs",
+        "organ duplication",
+        "ambiguous genitalia"
+    ]
+}

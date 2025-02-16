@@ -1,0 +1,38 @@
+{
+    "icd10code": "F45.9",
+    "type": "subcategory",
+    "title": "Somatoform disorder, unspecified",
+    "chapter": "Mental and behavioural disorders",
+    "chapterCode": "V",
+    "block": "Neurotic, stress-related and somatoform disorders",
+    "blockCode": "F40-F48",
+    "category": "Somatoform disorders",
+    "categoryCode": "F45",
+    "subcategory": "F45.9",
+    "inclusion": [
+        "disorders of psychological development",
+        "Psychosomatic disorder NOS"
+    ],
+    "exclusion": [
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "when associated with conduct disorder in F91.-",
+        "dissociative disorders",
+        "hair-plucking",
+        "lalling",
+        "lisping",
+        "nail-biting",
+        "psychological or behavioural factors associated with disorders or diseases classified elsewhere",
+        "sexual dysfunction, not caused by organic disorder or disease",
+        "thumb-sucking",
+        "tic disorders (in childhood and adolescence)",
+        "Tourette syndrome",
+        "trichotillomania"
+    ],
+    "symptoms": [
+        "headache",
+        "dizziness",
+        "stomach pain",
+        "fatigue",
+        "palpitations"
+    ]
+}

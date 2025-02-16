@@ -1,0 +1,31 @@
+{
+    "icd10code": "Q03.1",
+    "type": "subcategory",
+    "title": "Atresia of foramina of Magendie and Luschka",
+    "chapter": "Congenital malformations, deformations and chromosomal abnormalities",
+    "chapterCode": "XVII",
+    "block": "Congenital malformations of the nervous system",
+    "blockCode": "Q00-Q07",
+    "category": "Congenital hydrocephalus",
+    "categoryCode": "Q03",
+    "subcategory": "Q03.1",
+    "inclusion": [
+        "hydrocephalus in newborn",
+        "Dandy-Walker syndrome"
+    ],
+    "exclusion": [
+        "inborn errors of metabolism",
+        "Arnold-Chiari syndrome",
+        "hydrocephalus: acquired NOS",
+        "hydrocephalus: acquired, of newborn",
+        "hydrocephalus: due to congenital toxoplasmosis",
+        "hydrocephalus: with spina bifida"
+    ],
+    "symptoms": [
+        "increased head size",
+        "bulging fontanelle",
+        "irritability",
+        "poor feeding",
+        "developmental delays"
+    ]
+}

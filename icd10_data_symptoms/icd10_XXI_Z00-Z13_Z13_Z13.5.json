@@ -1,0 +1,23 @@
+{
+    "icd10code": "Z13.5",
+    "type": "subcategory",
+    "title": "Special screening examination for eye and ear disorders",
+    "chapter": "Factors influencing health status and contact with health services",
+    "chapterCode": "XXI",
+    "block": "Persons encountering health services for examination and investigation",
+    "blockCode": "Z00-Z13",
+    "category": "Special screening examination for other diseases and disorders",
+    "categoryCode": "Z13",
+    "subcategory": "Z13.5",
+    "inclusion": null,
+    "exclusion": [
+        "examinations related to pregnancy and reproduction"
+    ],
+    "symptoms": [
+        "cognitive decline",
+        "memory loss",
+        "learning difficulties",
+        "developmental delays",
+        "attention problems"
+    ]
+}

@@ -1,0 +1,24 @@
+{
+    "icd10code": "X66",
+    "type": "category",
+    "title": "Intentional self-poisoning by and exposure to organic solvents and halogenated hydrocarbons and their vapours",
+    "chapter": "External causes of morbidity and mortality",
+    "chapterCode": "XX",
+    "block": "Intentional self-harm",
+    "blockCode": "X60-X84",
+    "category": "Intentional self-poisoning by and exposure to organic solvents and halogenated hydrocarbons and their vapours",
+    "categoryCode": "X66",
+    "subcategory": "",
+    "inclusion": [
+        "purposely self-inflicted poisoning or injury",
+        "suicide (attempted)",
+        "benzene and homologues",
+        "carbon tetrachloride [tetrachloromethane]",
+        "chlorofluorocarbons",
+        "petroleum (derivatives)"
+    ],
+    "exclusion": null,
+    "symptoms": [
+        "asymptomatic"
+    ]
+}

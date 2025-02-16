@@ -1,0 +1,33 @@
+{
+    "icd10code": "H04.6",
+    "type": "subcategory",
+    "title": "Other changes in lacrimal passages",
+    "chapter": "Diseases of the eye and adnexa",
+    "chapterCode": "VII",
+    "block": "Disorders of eyelid, lacrimal system and orbit",
+    "blockCode": "H00-H06",
+    "category": "Disorders of lacrimal system",
+    "categoryCode": "H04",
+    "subcategory": "H04.6",
+    "inclusion": [
+        "Lacrimal fistula"
+    ],
+    "exclusion": [
+        "certain conditions originating in the perinatal period",
+        "certain infectious and parasitic diseases",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "congenital malformations of lacrimal system"
+    ],
+    "symptoms": [
+        "dry eyes",
+        "redness",
+        "irritation",
+        "blurry vision",
+        "sensitivity to light"
+    ]
+}

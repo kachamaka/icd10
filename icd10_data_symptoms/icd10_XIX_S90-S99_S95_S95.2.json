@@ -1,0 +1,36 @@
+{
+    "icd10code": "S95.2",
+    "type": "subcategory",
+    "title": "Injury of dorsal vein of foot",
+    "chapter": "Injury, poisoning and certain other consequences of external causes",
+    "chapterCode": "XIX",
+    "block": "Injuries to the ankle and foot",
+    "blockCode": "S90-S99",
+    "category": "Injury of blood vessels at ankle and foot level",
+    "categoryCode": "S95",
+    "subcategory": "S95.2",
+    "inclusion": null,
+    "exclusion": [
+        "birth trauma",
+        "obstetric trauma",
+        "malunion of fracture",
+        "nonunion of fracture [pseudarthrosis]",
+        "pathological fracture",
+        "pathological fracture with osteoporosis",
+        "stress fracture",
+        "bilateral involvement of ankle and foot",
+        "burns and corrosions",
+        "fracture of ankle and malleolus",
+        "frostbite",
+        "injuries of leg, level unspecified",
+        "insect bite or sting, venomous",
+        "injury of Achilles tendon"
+    ],
+    "symptoms": [
+        "pain",
+        "swelling",
+        "bruising",
+        "instability",
+        "restricted movement"
+    ]
+}

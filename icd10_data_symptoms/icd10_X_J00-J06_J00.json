@@ -1,0 +1,49 @@
+{
+    "icd10code": "J00",
+    "type": "category",
+    "title": "Acute nasopharyngitis [common cold]",
+    "chapter": "Diseases of the respiratory system",
+    "chapterCode": "X",
+    "block": "Acute upper respiratory infections",
+    "blockCode": "J00-J06",
+    "category": "Acute nasopharyngitis [common cold]",
+    "categoryCode": "J00",
+    "subcategory": "",
+    "inclusion": [
+        "Coryza (acute)",
+        "Nasal catarrh, acute",
+        "Nasopharyngitis: NOS",
+        "Nasopharyngitis: infective NOS",
+        "Rhinitis: acute",
+        "Rhinitis: infective"
+    ],
+    "exclusion": [
+        "certain conditions originating in the perinatal period",
+        "certain infectious and parasitic diseases",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "chronic obstructive pulmonary disease with acute exacerbation NOS",
+        "nasopharyngitis, chronic",
+        "pharyngitis: NOS",
+        "pharyngitis: acute",
+        "pharyngitis: chronic",
+        "rhinitis: NOS",
+        "rhinitis: allergic",
+        "rhinitis: chronic",
+        "rhinitis: vasomotor",
+        "sore throat: NOS",
+        "sore throat: acute",
+        "sore throat: chronic"
+    ],
+    "symptoms": [
+        "nasal congestion",
+        "runny nose",
+        "sneezing",
+        "sore throat",
+        "cough"
+    ]
+}

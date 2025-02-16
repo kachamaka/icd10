@@ -1,0 +1,27 @@
+{
+    "icd10code": "Z13.8",
+    "type": "subcategory",
+    "title": "Special screening examination for other specified diseases and disorders",
+    "chapter": "Factors influencing health status and contact with health services",
+    "chapterCode": "XXI",
+    "block": "Persons encountering health services for examination and investigation",
+    "blockCode": "Z00-Z13",
+    "category": "Special screening examination for other diseases and disorders",
+    "categoryCode": "Z13",
+    "subcategory": "Z13.8",
+    "inclusion": [
+        "Dental disorder",
+        "Endocrine and metabolic disorders"
+    ],
+    "exclusion": [
+        "examinations related to pregnancy and reproduction",
+        "diabetes mellitus"
+    ],
+    "symptoms": [
+        "fatigue",
+        "headache",
+        "dizziness",
+        "mild chest discomfort",
+        "shortness of breath"
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "icd10code": "C22.3",
+    "type": "subcategory",
+    "title": "Malignant neoplasm: Angiosarcoma of liver",
+    "chapter": "Neoplasms",
+    "chapterCode": "II",
+    "block": "Malignant neoplasms of digestive organs",
+    "blockCode": "C15-C26",
+    "category": "Malignant neoplasm of liver and intrahepatic bile ducts",
+    "categoryCode": "C22",
+    "subcategory": "C22.3",
+    "inclusion": [
+        "Kupffer cell sarcoma"
+    ],
+    "exclusion": [
+        "biliary tract NOS",
+        "secondary malignant neoplasm of liver"
+    ],
+    "symptoms": [
+        "jaundice",
+        "abdominal pain",
+        "loss of appetite",
+        "weight loss",
+        "itching"
+    ]
+}

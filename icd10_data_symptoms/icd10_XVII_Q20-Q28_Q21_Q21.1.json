@@ -1,0 +1,29 @@
+{
+    "icd10code": "Q21.1",
+    "type": "subcategory",
+    "title": "Atrial septal defect",
+    "chapter": "Congenital malformations, deformations and chromosomal abnormalities",
+    "chapterCode": "XVII",
+    "block": "Congenital malformations of the circulatory system",
+    "blockCode": "Q20-Q28",
+    "category": "Congenital malformations of cardiac septa",
+    "categoryCode": "Q21",
+    "subcategory": "Q21.1",
+    "inclusion": [
+        "Coronary sinus defect",
+        "Patent or persistent: foramen ovale",
+        "Patent or persistent: ostium secundum defect (type II)",
+        "Sinus venosus defect"
+    ],
+    "exclusion": [
+        "inborn errors of metabolism",
+        "acquired cardiac septal defect"
+    ],
+    "symptoms": [
+        "heart murmur",
+        "fatigue",
+        "shortness of breath",
+        "difficulty feeding (infants)",
+        "poor growth (infants)"
+    ]
+}

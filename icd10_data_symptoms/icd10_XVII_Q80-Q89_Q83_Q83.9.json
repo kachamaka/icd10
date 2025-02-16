@@ -1,0 +1,24 @@
+{
+    "icd10code": "Q83.9",
+    "type": "subcategory",
+    "title": "Congenital malformation of breast, unspecified",
+    "chapter": "Congenital malformations, deformations and chromosomal abnormalities",
+    "chapterCode": "XVII",
+    "block": "Other congenital malformations",
+    "blockCode": "Q80-Q89",
+    "category": "Congenital malformations of breast",
+    "categoryCode": "Q83",
+    "subcategory": "Q83.9",
+    "inclusion": null,
+    "exclusion": [
+        "inborn errors of metabolism",
+        "absence of pectoral muscle"
+    ],
+    "symptoms": [
+        "breast malformation",
+        "absent breast tissue",
+        "underdeveloped nipple",
+        "asymmetric breast growth",
+        "congenital chest deformity"
+    ]
+}

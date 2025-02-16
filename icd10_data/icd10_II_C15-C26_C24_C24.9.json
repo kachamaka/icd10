@@ -1,0 +1,16 @@
+{
+  "type": "subcategory",
+  "chapterCode": "II",
+  "chapter": "Neoplasms",
+  "blockCode": "C15-C26",
+  "block": "Malignant neoplasms of digestive organs",
+  "categoryCode": "C24",
+  "category": "Malignant neoplasm of other and unspecified parts of biliary tract",
+  "subcategory": "C24.9",
+  "title": "Malignant neoplasm: Biliary tract, unspecified",
+  "inclusion": null,
+  "exclusion": [
+    "intrahepatic bile duct"
+  ],
+  "children": null
+}

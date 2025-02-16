@@ -1,0 +1,25 @@
+{
+  "type": "subcategory",
+  "chapterCode": "XVII",
+  "chapter": "Congenital malformations, deformations and chromosomal abnormalities",
+  "blockCode": "Q38-Q45",
+  "block": "Other congenital malformations of the digestive system",
+  "categoryCode": "Q43",
+  "category": "Other congenital malformations of intestine",
+  "subcategory": "Q43.3",
+  "title": "Congenital malformations of intestinal fixation",
+  "inclusion": [
+    "Congenital adhesions [bands]: omental, anomalous",
+    "Congenital adhesions [bands]: peritoneal",
+    "Jackson membrane",
+    "Malrotation of colon",
+    "Rotation: failure of of caecum and colon",
+    "Rotation: incomplete of caecum and colon",
+    "Rotation: insufficient of caecum and colon",
+    "Universal mesentery"
+  ],
+  "exclusion": [
+    "inborn errors of metabolism"
+  ],
+  "children": null
+}

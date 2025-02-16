@@ -1,0 +1,29 @@
+{
+    "icd10code": "C41.9",
+    "type": "subcategory",
+    "title": "Malignant neoplasm: Bone and articular cartilage, unspecified",
+    "chapter": "Neoplasms",
+    "chapterCode": "II",
+    "block": "Malignant neoplasms of bone and articular cartilage",
+    "blockCode": "C40-C41",
+    "category": "Malignant neoplasm of bone and articular cartilage of other and unspecified sites",
+    "categoryCode": "C41",
+    "subcategory": "C41.9",
+    "inclusion": null,
+    "exclusion": [
+        "bone marrow NOS",
+        "synovia",
+        "bones of limbs",
+        "cartilage of: ear",
+        "cartilage of: larynx",
+        "cartilage of: limbs",
+        "cartilage of: nose"
+    ],
+    "symptoms": [
+        "bone pain",
+        "swelling in the affected area",
+        "fatigue",
+        "unexplained weight loss",
+        "fractures with no obvious cause"
+    ]
+}

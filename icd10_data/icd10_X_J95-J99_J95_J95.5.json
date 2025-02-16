@@ -1,0 +1,25 @@
+{
+  "type": "subcategory",
+  "chapterCode": "X",
+  "chapter": "Diseases of the respiratory system",
+  "blockCode": "J95-J99",
+  "block": "Other diseases of the respiratory system",
+  "categoryCode": "J95",
+  "category": "Postprocedural respiratory disorders, not elsewhere classified",
+  "subcategory": "J95.5",
+  "title": "Postprocedural subglottic stenosis",
+  "inclusion": null,
+  "exclusion": [
+    "certain conditions originating in the perinatal period",
+    "certain infectious and parasitic diseases",
+    "complications of pregnancy, childbirth and the puerperium",
+    "congenital malformations, deformations and chromosomal abnormalities",
+    "endocrine, nutritional and metabolic diseases",
+    "injury, poisoning and certain other consequences of external causes",
+    "neoplasms",
+    "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+    "emphysema (subcutaneous) resulting from a procedure",
+    "pulmonary manifestations due to radiation"
+  ],
+  "children": null
+}

@@ -1,0 +1,35 @@
+{
+    "icd10code": "R73.9",
+    "type": "subcategory",
+    "title": "Hyperglycaemia, unspecified",
+    "chapter": "Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+    "chapterCode": "XVIII",
+    "block": "Abnormal findings on examination of blood, without diagnosis",
+    "blockCode": "R70-R79",
+    "category": "Elevated blood glucose level",
+    "categoryCode": "R73",
+    "subcategory": "R73.9",
+    "inclusion": null,
+    "exclusion": [
+        "abnormal findings on antenatal screening of mother",
+        "certain conditions originating in the perinatal period",
+        "abnormalities (of)(on): antenatal screening of mother",
+        "abnormalities (of)(on): coagulation",
+        "abnormalities (of)(on): lipids",
+        "abnormalities (of)(on): platelets and thrombocytes",
+        "abnormalities (of)(on): white blood cells classified elsewhere",
+        "diagnostic abnormal findings classified elsewhere - see Alphabetical Index",
+        "haemorrhagic and haematological disorders of fetus and newborn",
+        "abnormality of fluid, electrolyte or acid-base balance",
+        "asymptomatic hyperuricaemia",
+        "hyperglycaemia NOS",
+        "hypoglycaemia NOS"
+    ],
+    "symptoms": [
+        "increased thirst",
+        "frequent urination",
+        "blurred vision",
+        "fatigue",
+        "unintended weight loss"
+    ]
+}

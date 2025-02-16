@@ -1,0 +1,25 @@
+{
+    "icd10code": "C50.2",
+    "type": "subcategory",
+    "title": "Malignant neoplasm: Upper-inner quadrant of breast",
+    "chapter": "Neoplasms",
+    "chapterCode": "II",
+    "block": "Malignant neoplasm of breast",
+    "blockCode": "C50-C50",
+    "category": "Malignant neoplasm of breast",
+    "categoryCode": "C50",
+    "subcategory": "C50.2",
+    "inclusion": [
+        "connective tissue of breast"
+    ],
+    "exclusion": [
+        "skin of breast"
+    ],
+    "symptoms": [
+        "lump in breast",
+        "pain or tenderness in breast",
+        "changes in skin texture on breast",
+        "nipple discharge",
+        "nipple retraction"
+    ]
+}

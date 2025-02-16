@@ -1,0 +1,29 @@
+{
+  "type": "subcategory",
+  "chapterCode": "XI",
+  "chapter": "Diseases of the digestive system",
+  "blockCode": "K00-K14",
+  "block": "Diseases of oral cavity, salivary glands and jaws",
+  "categoryCode": "K13",
+  "category": "Other diseases of lip and oral mucosa",
+  "subcategory": "K13.1",
+  "title": "Cheek and lip biting",
+  "inclusion": [
+    "epithelial disturbances of tongue"
+  ],
+  "exclusion": [
+    "certain conditions originating in the perinatal period",
+    "certain infectious and parasitic diseases",
+    "complications of pregnancy, childbirth and the puerperium",
+    "congenital malformations, deformations and chromosomal abnormalities",
+    "endocrine, nutritional and metabolic diseases",
+    "injury, poisoning and certain other consequences of external causes",
+    "neoplasms",
+    "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+    "certain disorders of gingiva and edentulous alveolar ridge",
+    "cysts of oral region",
+    "diseases of tongue",
+    "stomatitis and related lesions"
+  ],
+  "children": null
+}

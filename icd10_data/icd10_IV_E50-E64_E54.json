@@ -1,0 +1,24 @@
+{
+  "type": "category",
+  "chapterCode": "IV",
+  "chapter": "Endocrine, nutritional and metabolic diseases",
+  "blockCode": "E50-E64",
+  "block": "Other nutritional deficiencies",
+  "categoryCode": "E54",
+  "category": "Ascorbic acid deficiency",
+  "subcategory": "",
+  "title": "Ascorbic acid deficiency",
+  "inclusion": [
+    "Deficiency of vitamin C",
+    "Scurvy"
+  ],
+  "exclusion": [
+    "complications of pregnancy, childbirth and the puerperium",
+    "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+    "transitory endocrine and metabolic disorders specific to fetus and newborn",
+    "diabetes mellitus (in): malnutrition-related",
+    "scorbutic anaemia",
+    "sequelae of vitamin C deficiency"
+  ],
+  "children": null
+}

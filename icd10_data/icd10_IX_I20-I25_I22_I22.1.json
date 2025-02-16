@@ -1,0 +1,35 @@
+{
+  "type": "subcategory",
+  "chapterCode": "IX",
+  "chapter": "Diseases of the circulatory system",
+  "blockCode": "I20-I25",
+  "block": "Ischaemic heart diseases",
+  "categoryCode": "I22",
+  "category": "Subsequent myocardial infarction",
+  "subcategory": "I22.1",
+  "title": "Subsequent myocardial infarction of inferior wall",
+  "inclusion": [
+    "with mention of hypertension",
+    "myocardial infarction: extension",
+    "myocardial infarction: recurrent",
+    "myocardial infarction: reinfarction",
+    "Subsequent infarction (acute)(of): diaphragmatic wall",
+    "Subsequent infarction (acute)(of): inferior (wall) NOS",
+    "Subsequent infarction (acute)(of): inferolateral",
+    "Subsequent infarction (acute)(of): inferoposterior"
+  ],
+  "exclusion": [
+    "certain conditions originating in the perinatal period",
+    "certain infectious and parasitic diseases",
+    "complications of pregnancy, childbirth and the puerperium",
+    "congenital malformations, deformations and chromosomal abnormalities",
+    "endocrine, nutritional and metabolic diseases",
+    "injury, poisoning and certain other consequences of external causes",
+    "neoplasms",
+    "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+    "systemic connective tissue disorders",
+    "transient cerebral ischaemic attacks and related syndromes",
+    "Eisenmenger defect"
+  ],
+  "children": null
+}

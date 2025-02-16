@@ -1,0 +1,32 @@
+{
+    "icd10code": "A78",
+    "type": "category",
+    "title": "Q fever",
+    "chapter": "Certain infectious and parasitic diseases",
+    "chapterCode": "I",
+    "block": "Rickettsioses",
+    "blockCode": "A75-A79",
+    "category": "Q fever",
+    "categoryCode": "A78",
+    "subcategory": "",
+    "inclusion": [
+        "diseases generally recognized as communicable or transmissible",
+        "Infection due to Coxiella burnetii",
+        "Nine Mile fever",
+        "Quadrilateral fever"
+    ],
+    "exclusion": [
+        "carrier or suspected carrier of infectious disease",
+        "certain localized infections - see body system-related chapters",
+        "infectious and parasitic diseases complicating pregnancy, childbirth and the puerperium [except obstetrical tetanus]",
+        "infectious and parasitic diseases specific to the perinatal period [except tetanus neonatorum, whooping cough, congenital syphilis, perinatal gonococcal infection and perinatal human immunodeficiency virus [HIV] disease]",
+        "influenza and other acute respiratory infections"
+    ],
+    "symptoms": [
+        "fever",
+        "headache",
+        "muscle pain",
+        "chills",
+        "cough"
+    ]
+}

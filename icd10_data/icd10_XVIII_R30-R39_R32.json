@@ -1,0 +1,21 @@
+{
+  "type": "category",
+  "chapterCode": "XVIII",
+  "chapter": "Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+  "blockCode": "R30-R39",
+  "block": "Symptoms and signs involving the urinary system",
+  "categoryCode": "R32",
+  "category": "Unspecified urinary incontinence",
+  "subcategory": "",
+  "title": "Unspecified urinary incontinence",
+  "inclusion": [
+    "Enuresis NOS"
+  ],
+  "exclusion": [
+    "abnormal findings on antenatal screening of mother",
+    "certain conditions originating in the perinatal period",
+    "nonorganic enuresis",
+    "stress incontinence and other specified urinary incontinence"
+  ],
+  "children": null
+}

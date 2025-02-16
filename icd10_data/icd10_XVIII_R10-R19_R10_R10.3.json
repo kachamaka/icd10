@@ -1,0 +1,29 @@
+{
+  "type": "subcategory",
+  "chapterCode": "XVIII",
+  "chapter": "Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+  "blockCode": "R10-R19",
+  "block": "Symptoms and signs involving the digestive system and abdomen",
+  "categoryCode": "R10",
+  "category": "Abdominal and pelvic pain",
+  "subcategory": "R10.3",
+  "title": "Pain localized to other parts of lower abdomen",
+  "inclusion": null,
+  "exclusion": [
+    "abnormal findings on antenatal screening of mother",
+    "certain conditions originating in the perinatal period",
+    "gastrointestinal haemorrhage",
+    "gastrointestinal haemorrhage newborn",
+    "intestinal obstruction",
+    "intestinal obstruction newborn",
+    "pylorospasm",
+    "pylorospasm congenital or infantile",
+    "symptoms and signs involving the urinary system",
+    "symptoms referable to genital organs: female",
+    "symptoms referable to genital organs: male",
+    "acute abdomen",
+    "dyspepsia: functional",
+    "renal colic"
+  ],
+  "children": null
+}

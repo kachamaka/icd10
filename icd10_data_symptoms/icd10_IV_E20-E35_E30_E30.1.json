@@ -1,0 +1,34 @@
+{
+    "icd10code": "E30.1",
+    "type": "subcategory",
+    "title": "Precocious puberty",
+    "chapter": "Endocrine, nutritional and metabolic diseases",
+    "chapterCode": "IV",
+    "block": "Disorders of other endocrine glands",
+    "blockCode": "E20-E35",
+    "category": "Disorders of puberty, not elsewhere classified",
+    "categoryCode": "E30",
+    "subcategory": "E30.1",
+    "inclusion": [
+        "Precocious menstruation"
+    ],
+    "exclusion": [
+        "complications of pregnancy, childbirth and the puerperium",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "transitory endocrine and metabolic disorders specific to fetus and newborn",
+        "galactorrhoea",
+        "gynaecomastia",
+        "Albright(-McCune)(-Sternberg) syndrome",
+        "central precocious puberty",
+        "congenital adrenal hyperplasia",
+        "female heterosexual precocious pseudopuberty",
+        "male isosexual precocious pseudopuberty"
+    ],
+    "symptoms": [
+        "delayed puberty",
+        "absence of menstrual periods",
+        "lack of secondary sexual characteristics",
+        "slow growth",
+        "unexplained weight gain"
+    ]
+}

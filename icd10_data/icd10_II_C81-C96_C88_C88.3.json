@@ -1,0 +1,19 @@
+{
+  "type": "subcategory",
+  "chapterCode": "II",
+  "chapter": "Neoplasms",
+  "blockCode": "C81-C96",
+  "block": "Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",
+  "categoryCode": "C88",
+  "category": "Malignant immunoproliferative diseases",
+  "subcategory": "C88.3",
+  "title": "Immunoproliferative small intestinal disease",
+  "inclusion": [
+    "Alpha heavy chain disease",
+    "Mediterranean lymphoma"
+  ],
+  "exclusion": [
+    "secondary and unspecified neoplasm of lymph nodes"
+  ],
+  "children": null
+}

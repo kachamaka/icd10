@@ -1,0 +1,21 @@
+{
+  "type": "subcategory",
+  "chapterCode": "II",
+  "chapter": "Neoplasms",
+  "blockCode": "C81-C96",
+  "block": "Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",
+  "categoryCode": "C92",
+  "category": "Myeloid leukaemia",
+  "subcategory": "C92.5",
+  "title": "Acute myelomonocytic leukaemia",
+  "inclusion": [
+    "leukaemia: granulocytic",
+    "leukaemia: myelogenous",
+    "AML M4",
+    "AML M4 Eo with inv(16) or t(16;16)"
+  ],
+  "exclusion": [
+    "secondary and unspecified neoplasm of lymph nodes"
+  ],
+  "children": null
+}

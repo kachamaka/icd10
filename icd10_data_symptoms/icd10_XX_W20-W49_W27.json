@@ -1,0 +1,38 @@
+{
+    "icd10code": "W27",
+    "type": "category",
+    "title": "Contact with nonpowered hand tool",
+    "chapter": "External causes of morbidity and mortality",
+    "chapterCode": "XX",
+    "block": "Exposure to inanimate mechanical forces",
+    "blockCode": "W20-W49",
+    "category": "Contact with nonpowered hand tool",
+    "categoryCode": "W27",
+    "subcategory": "",
+    "inclusion": [
+        "axe",
+        "can-opener NOS",
+        "chisel",
+        "fork",
+        "handsaw",
+        "hoe",
+        "ice-pick",
+        "needle",
+        "paper-cutter",
+        "pitchfork",
+        "rake",
+        "scissors",
+        "screwdriver",
+        "sewing-machine, nonpowered",
+        "shovel"
+    ],
+    "exclusion": [
+        "assault",
+        "contact or collision with animals or persons",
+        "intentional self-harm",
+        "hypodermic needle"
+    ],
+    "symptoms": [
+        "asymptomatic"
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "icd10code": "Z87.0",
+    "type": "subcategory",
+    "title": "Personal history of diseases of the respiratory system",
+    "chapter": "Factors influencing health status and contact with health services",
+    "chapterCode": "XXI",
+    "block": "Persons with potential health hazards related to family and personal history and certain conditions influencing health status",
+    "blockCode": "Z80-Z99",
+    "category": "Personal history of other diseases and conditions",
+    "categoryCode": "Z87",
+    "subcategory": "Z87.0",
+    "inclusion": [
+        "Conditions classifiable to J00-J99"
+    ],
+    "exclusion": [
+        "follow-up examination",
+        "follow-up medical care and convalescence",
+        "when family or personal history is the reason for special screening or other examination or investigation",
+        "when the possibility that the fetus might be affected is the reason for observation or action during pregnancy",
+        "follow-up medical care and convalescence"
+    ],
+    "symptoms": [
+        "asymptomatic"
+    ]
+}

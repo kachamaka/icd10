@@ -1,0 +1,30 @@
+{
+    "icd10code": "X09",
+    "type": "category",
+    "title": "Exposure to unspecified smoke, fire and flames",
+    "chapter": "External causes of morbidity and mortality",
+    "chapterCode": "XX",
+    "block": "Exposure to smoke, fire and flames",
+    "blockCode": "X00-X09",
+    "category": "Exposure to unspecified smoke, fire and flames",
+    "categoryCode": "X09",
+    "subcategory": "",
+    "inclusion": [
+        "fire caused by lightning",
+        "burning NOS",
+        "incineration NOS",
+        "smoke inhalation NOS"
+    ],
+    "exclusion": [
+        "arson",
+        "secondary fire resulting from explosion",
+        "transport accidents"
+    ],
+    "symptoms": [
+        "burns",
+        "respiratory distress",
+        "skin irritation",
+        "coughing",
+        "redness"
+    ]
+}

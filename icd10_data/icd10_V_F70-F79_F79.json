@@ -1,0 +1,39 @@
+{
+  "type": "modifiedcategory",
+  "chapterCode": "V",
+  "chapter": "Mental and behavioural disorders",
+  "blockCode": "F70-F79",
+  "block": "Mental retardation",
+  "categoryCode": "F79",
+  "category": "Unspecified mental retardation",
+  "subcategory": "",
+  "title": "Unspecified mental retardation with the statement of no, or minimal, impairment of behaviour",
+  "inclusion": [
+    "disorders of psychological development",
+    "mental: deficiency NOS",
+    "mental: subnormality NOS"
+  ],
+  "exclusion": [
+    "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified"
+  ],
+  "children": null
+}{
+  "type": "modifiedcategory",
+  "chapterCode": "V",
+  "chapter": "Mental and behavioural disorders",
+  "blockCode": "F70-F79",
+  "block": "Mental retardation",
+  "categoryCode": "F79",
+  "category": "Unspecified mental retardation",
+  "subcategory": "",
+  "title": "Unspecified mental retardation : significant impairment of behaviour requiring attention or treatment",
+  "inclusion": [
+    "disorders of psychological development",
+    "mental: deficiency NOS",
+    "mental: subnormality NOS"
+  ],
+  "exclusion": [
+    "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified"
+  ],
+  "children": null
+}

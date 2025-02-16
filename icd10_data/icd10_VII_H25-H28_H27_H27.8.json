@@ -1,0 +1,26 @@
+{
+  "type": "subcategory",
+  "chapterCode": "VII",
+  "chapter": "Diseases of the eye and adnexa",
+  "blockCode": "H25-H28",
+  "block": "Disorders of lens",
+  "categoryCode": "H27",
+  "category": "Other disorders of lens",
+  "subcategory": "H27.8",
+  "title": "Other specified disorders of lens",
+  "inclusion": null,
+  "exclusion": [
+    "certain conditions originating in the perinatal period",
+    "certain infectious and parasitic diseases",
+    "complications of pregnancy, childbirth and the puerperium",
+    "congenital malformations, deformations and chromosomal abnormalities",
+    "endocrine, nutritional and metabolic diseases",
+    "injury, poisoning and certain other consequences of external causes",
+    "neoplasms",
+    "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+    "congenital lens malformations",
+    "mechanical complications of intraocular lens",
+    "pseudophakia"
+  ],
+  "children": null
+}

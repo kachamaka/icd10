@@ -1,0 +1,33 @@
+{
+    "icd10code": "G25.0",
+    "type": "subcategory",
+    "title": "Essential tremor",
+    "chapter": "Diseases of the nervous system",
+    "chapterCode": "VI",
+    "block": "Extrapyramidal and movement disorders",
+    "blockCode": "G20-G26",
+    "category": "Other extrapyramidal and movement disorders",
+    "categoryCode": "G25",
+    "subcategory": "G25.0",
+    "inclusion": [
+        "Familial tremor"
+    ],
+    "exclusion": [
+        "certain conditions originating in the perinatal period",
+        "certain infectious and parasitic diseases",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "tremor NOS"
+    ],
+    "symptoms": [
+        "tremor",
+        "rhythmic shaking",
+        "muscle twitching",
+        "involuntary movement",
+        "hand shaking"
+    ]
+}

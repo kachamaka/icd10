@@ -1,0 +1,31 @@
+{
+    "icd10code": "G45.0",
+    "type": "subcategory",
+    "title": "Vertebro-basilar artery syndrome",
+    "chapter": "Diseases of the nervous system",
+    "chapterCode": "VI",
+    "block": "Episodic and paroxysmal disorders",
+    "blockCode": "G40-G47",
+    "category": "Transient cerebral ischaemic attacks and related syndromes",
+    "categoryCode": "G45",
+    "subcategory": "G45.0",
+    "inclusion": null,
+    "exclusion": [
+        "certain conditions originating in the perinatal period",
+        "certain infectious and parasitic diseases",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "neonatal cerebral ischaemia"
+    ],
+    "symptoms": [
+        "sudden weakness or numbness",
+        "confusion",
+        "trouble speaking",
+        "visual disturbances",
+        "dizziness"
+    ]
+}

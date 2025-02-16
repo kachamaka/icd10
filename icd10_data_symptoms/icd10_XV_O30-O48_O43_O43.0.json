@@ -1,0 +1,37 @@
+{
+    "icd10code": "O43.0",
+    "type": "subcategory",
+    "title": "Placental transfusion syndromes",
+    "chapter": "Pregnancy, childbirth and the puerperium",
+    "chapterCode": "XV",
+    "block": "Maternal care related to the fetus and amniotic cavity and possible delivery problems",
+    "blockCode": "O30-O48",
+    "category": "Placental disorders",
+    "categoryCode": "O43",
+    "subcategory": "O43.0",
+    "inclusion": [
+        "Transfusion: fetomaternal",
+        "Transfusion: maternofetal",
+        "Transfusion: twin-to-twin"
+    ],
+    "exclusion": [
+        "Certain diseases or injuries complicating pregnancy, childbirth and the puerperium classified elsewhere: external causes (for mortality)",
+        "Certain diseases or injuries complicating pregnancy, childbirth and the puerperium classified elsewhere: injury, poisoning and certain other consequences of external cause",
+        "Certain diseases or injuries complicating pregnancy, childbirth and the puerperium classified elsewhere: mental and behavioural disorders associated with the puerperium",
+        "Certain diseases or injuries complicating pregnancy, childbirth and the puerperium classified elsewhere: obstetrical tetanus",
+        "Certain diseases or injuries complicating pregnancy, childbirth and the puerperium classified elsewhere: postpartum necrosis of pituitary gland",
+        "Certain diseases or injuries complicating pregnancy, childbirth and the puerperium classified elsewhere: puerperal osteomalacia",
+        "supervision of: high-risk pregnancy",
+        "supervision of: normal pregnancy",
+        "maternal care for poor fetal growth due to placental insufficiency",
+        "placenta praevia",
+        "premature separation of placenta [abruptio placentae]"
+    ],
+    "symptoms": [
+        "abnormal placental attachment",
+        "vaginal bleeding",
+        "uterine tenderness",
+        "reduced fetal movements",
+        "abdominal pain"
+    ]
+}

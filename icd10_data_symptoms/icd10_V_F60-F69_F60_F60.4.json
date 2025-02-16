@@ -1,0 +1,27 @@
+{
+    "icd10code": "F60.4",
+    "type": "subcategory",
+    "title": "Histrionic personality disorder",
+    "chapter": "Mental and behavioural disorders",
+    "chapterCode": "V",
+    "block": "Disorders of adult personality and behaviour",
+    "blockCode": "F60-F69",
+    "category": "Specific personality disorders",
+    "categoryCode": "F60",
+    "subcategory": "F60.4",
+    "inclusion": [
+        "disorders of psychological development",
+        "Personality (disorder): hysterical",
+        "Personality (disorder): psychoinfantile"
+    ],
+    "exclusion": [
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified"
+    ],
+    "symptoms": [
+        "unstable relationships",
+        "impulsivity",
+        "fear of abandonment",
+        "emotional instability",
+        "identity disturbance"
+    ]
+}

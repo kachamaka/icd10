@@ -1,0 +1,19 @@
+{
+    "icd10code": "Z30.2",
+    "type": "subcategory",
+    "title": "Sterilization",
+    "chapter": "Factors influencing health status and contact with health services",
+    "chapterCode": "XXI",
+    "block": "Persons encountering health services in circumstances related to reproduction",
+    "blockCode": "Z30-Z39",
+    "category": "Contraceptive management",
+    "categoryCode": "Z30",
+    "subcategory": "Z30.2",
+    "inclusion": [
+        "Admission for interruption of fallopian tubes or vasa deferentia"
+    ],
+    "exclusion": null,
+    "symptoms": [
+        "asymptomatic"
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "icd10code": "C84.8",
+    "type": "subcategory",
+    "title": "Cutaneous T-cell lymphoma, unspecified",
+    "chapter": "Neoplasms",
+    "chapterCode": "II",
+    "block": "Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",
+    "blockCode": "C81-C96",
+    "category": "Mature T/NK-cell lymphomas",
+    "categoryCode": "C84",
+    "subcategory": "C84.8",
+    "inclusion": null,
+    "exclusion": [
+        "secondary and unspecified neoplasm of lymph nodes"
+    ],
+    "symptoms": [
+        "fatigue",
+        "night sweats",
+        "weight loss",
+        "swollen lymph nodes",
+        "fever"
+    ]
+}

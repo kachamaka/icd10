@@ -1,0 +1,22 @@
+{
+  "type": "subcategory",
+  "chapterCode": "V",
+  "chapter": "Mental and behavioural disorders",
+  "blockCode": "F20-F29",
+  "block": "Schizophrenia, schizotypal and delusional disorders",
+  "categoryCode": "F20",
+  "category": "Schizophrenia",
+  "subcategory": "F20.6",
+  "title": "Simple schizophrenia",
+  "inclusion": [
+    "disorders of psychological development"
+  ],
+  "exclusion": [
+    "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+    "schizophrenia: acute (undifferentiated)",
+    "schizophrenia: cyclic",
+    "schizophrenic reaction",
+    "schizotypal disorder"
+  ],
+  "children": null
+}

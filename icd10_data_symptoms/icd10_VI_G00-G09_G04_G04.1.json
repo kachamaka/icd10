@@ -1,0 +1,42 @@
+{
+    "icd10code": "G04.1",
+    "type": "subcategory",
+    "title": "Human T-cell lymphotropic virus associated myelopathy",
+    "chapter": "Diseases of the nervous system",
+    "chapterCode": "VI",
+    "block": "Inflammatory diseases of the central nervous system",
+    "blockCode": "G00-G09",
+    "category": "Encephalitis, myelitis and encephalomyelitis",
+    "categoryCode": "G04",
+    "subcategory": "G04.1",
+    "inclusion": [
+        "acute ascending myelitis",
+        "meningoencephalitis",
+        "meningomyelitis",
+        "Tropical spastic paraplegia"
+    ],
+    "exclusion": [
+        "certain conditions originating in the perinatal period",
+        "certain infectious and parasitic diseases",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "encephalopathy: NOS",
+        "encephalopathy: alcoholic",
+        "encephalopathy: toxic",
+        "multiple sclerosis",
+        "myalgic encephalomyelitis",
+        "myelitis: acute transverse",
+        "myelitis: subacute necrotizing"
+    ],
+    "symptoms": [
+        "headache",
+        "fever",
+        "nausea",
+        "confusion",
+        "neck stiffness"
+    ]
+}

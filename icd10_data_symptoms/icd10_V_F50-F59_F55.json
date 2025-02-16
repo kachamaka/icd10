@@ -1,0 +1,30 @@
+{
+    "icd10code": "F55",
+    "type": "category",
+    "title": "Abuse of non-dependence-producing substances",
+    "chapter": "Mental and behavioural disorders",
+    "chapterCode": "V",
+    "block": "Behavioural syndromes associated with physiological disturbances and physical factors",
+    "blockCode": "F50-F59",
+    "category": "Abuse of non-dependence-producing substances",
+    "categoryCode": "F55",
+    "subcategory": "",
+    "inclusion": [
+        "disorders of psychological development",
+        "Abuse of: antacids",
+        "Abuse of: herbal or folk remedies",
+        "Abuse of: steroids or hormones",
+        "Abuse of: vitamins",
+        "Laxative habit"
+    ],
+    "exclusion": [
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "abuse of psychoactive substances"
+    ],
+    "symptoms": [
+        "headaches",
+        "dizziness",
+        "fatigue",
+        "sleep"
+    ]
+}

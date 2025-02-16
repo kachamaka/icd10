@@ -1,0 +1,19 @@
+{
+  "type": "category",
+  "chapterCode": "V",
+  "chapter": "Mental and behavioural disorders",
+  "blockCode": "F20-F29",
+  "block": "Schizophrenia, schizotypal and delusional disorders",
+  "categoryCode": "F28",
+  "category": "Other nonorganic psychotic disorders",
+  "subcategory": "",
+  "title": "Other nonorganic psychotic disorders",
+  "inclusion": [
+    "disorders of psychological development",
+    "Chronic hallucinatory psychosis"
+  ],
+  "exclusion": [
+    "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified"
+  ],
+  "children": null
+}

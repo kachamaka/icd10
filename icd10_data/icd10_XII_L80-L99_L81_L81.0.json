@@ -1,0 +1,28 @@
+{
+  "type": "subcategory",
+  "chapterCode": "XII",
+  "chapter": "Diseases of the skin and subcutaneous tissue",
+  "blockCode": "L80-L99",
+  "block": "Other disorders of the skin and subcutaneous tissue",
+  "categoryCode": "L81",
+  "category": "Other disorders of pigmentation",
+  "subcategory": "L81.0",
+  "title": "Postinflammatory hyperpigmentation",
+  "inclusion": null,
+  "exclusion": [
+    "certain conditions originating in the perinatal period",
+    "certain infectious and parasitic diseases",
+    "complications of pregnancy, childbirth and the puerperium",
+    "congenital malformations, deformations and chromosomal abnormalities",
+    "endocrine, nutritional and metabolic diseases",
+    "injury, poisoning and certain other consequences of external causes",
+    "lipomelanotic reticulosis",
+    "neoplasms",
+    "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+    "systemic connective tissue disorders",
+    "decubitus [pressure] ulcer and pressure area",
+    "gangrene",
+    "skin infections"
+  ],
+  "children": null
+}

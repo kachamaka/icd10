@@ -1,0 +1,36 @@
+{
+    "icd10code": "R17.9",
+    "type": "subcategory",
+    "title": "Hyperbilirubinaemia without mention of jaundice, not elsewhere classified",
+    "chapter": "Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+    "chapterCode": "XVIII",
+    "block": "Symptoms and signs involving the digestive system and abdomen",
+    "blockCode": "R10-R19",
+    "category": "Hyperbilirubinaemia, with or without jaundice, not elsewhere classified",
+    "categoryCode": "R17",
+    "subcategory": "R17.9",
+    "inclusion": [
+        "Hyperbilirubinaemia NOS"
+    ],
+    "exclusion": [
+        "abnormal findings on antenatal screening of mother",
+        "certain conditions originating in the perinatal period",
+        "gastrointestinal haemorrhage",
+        "gastrointestinal haemorrhage newborn",
+        "intestinal obstruction",
+        "intestinal obstruction newborn",
+        "pylorospasm",
+        "pylorospasm congenital or infantile",
+        "symptoms and signs involving the urinary system",
+        "symptoms referable to genital organs: female",
+        "symptoms referable to genital organs: male",
+        "acute abdomen"
+    ],
+    "symptoms": [
+        "jaundice",
+        "yellowing of skin",
+        "yellowing of eyes",
+        "dark urine",
+        "pale stools"
+    ]
+}

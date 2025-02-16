@@ -1,0 +1,34 @@
+{
+    "icd10code": "J16.0",
+    "type": "subcategory",
+    "title": "Chlamydial pneumonia",
+    "chapter": "Diseases of the respiratory system",
+    "chapterCode": "X",
+    "block": "Influenza and pneumonia",
+    "blockCode": "J09-J18",
+    "category": "Pneumonia due to other infectious organisms, not elsewhere classified",
+    "categoryCode": "J16",
+    "subcategory": "J16.0",
+    "inclusion": null,
+    "exclusion": [
+        "certain conditions originating in the perinatal period",
+        "certain infectious and parasitic diseases",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "ornithosis",
+        "pneumocystosis",
+        "pneumonia: NOS",
+        "pneumonia: congenital"
+    ],
+    "symptoms": [
+        "cough",
+        "fever",
+        "fatigue",
+        "shortness of breath",
+        "chest pain"
+    ]
+}

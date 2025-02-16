@@ -1,0 +1,34 @@
+{
+    "icd10code": "A84.8",
+    "type": "subcategory",
+    "title": "Other tick-borne viral encephalitis",
+    "chapter": "Certain infectious and parasitic diseases",
+    "chapterCode": "I",
+    "block": "Viral infections of the central nervous system",
+    "blockCode": "A80-A89",
+    "category": "Tick-borne viral encephalitis",
+    "categoryCode": "A84",
+    "subcategory": "A84.8",
+    "inclusion": [
+        "diseases generally recognized as communicable or transmissible",
+        "tick-borne viral meningoencephalitis",
+        "Louping ill",
+        "Powassan virus disease"
+    ],
+    "exclusion": [
+        "carrier or suspected carrier of infectious disease",
+        "certain localized infections - see body system-related chapters",
+        "infectious and parasitic diseases complicating pregnancy, childbirth and the puerperium [except obstetrical tetanus]",
+        "infectious and parasitic diseases specific to the perinatal period [except tetanus neonatorum, whooping cough, congenital syphilis, perinatal gonococcal infection and perinatal human immunodeficiency virus [HIV] disease]",
+        "influenza and other acute respiratory infections",
+        "erythrasma",
+        "endotoxic shock NOS"
+    ],
+    "symptoms": [
+        "fever",
+        "headache",
+        "nausea",
+        "vomiting",
+        "muscle pain"
+    ]
+}

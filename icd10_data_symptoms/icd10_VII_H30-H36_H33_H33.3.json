@@ -1,0 +1,38 @@
+{
+    "icd10code": "H33.3",
+    "type": "subcategory",
+    "title": "Retinal breaks without detachment",
+    "chapter": "Diseases of the eye and adnexa",
+    "chapterCode": "VII",
+    "block": "Disorders of choroid and retina",
+    "blockCode": "H30-H36",
+    "category": "Retinal detachments and breaks",
+    "categoryCode": "H33",
+    "subcategory": "H33.3",
+    "inclusion": [
+        "Horseshoe tear of retina, without detachment",
+        "Round hole of retina, without detachment",
+        "Operculum",
+        "Retinal break NOS"
+    ],
+    "exclusion": [
+        "certain conditions originating in the perinatal period",
+        "certain infectious and parasitic diseases",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "detachment of retinal pigment epithelium",
+        "chorioretinal scars after surgery for detachment",
+        "peripheral retinal degeneration without break"
+    ],
+    "symptoms": [
+        "floaters",
+        "flashes of light",
+        "blurred vision",
+        "peripheral vision loss",
+        "shadow or curtain over visual field"
+    ]
+}

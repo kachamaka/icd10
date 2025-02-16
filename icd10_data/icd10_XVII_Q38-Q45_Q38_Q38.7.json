@@ -1,0 +1,21 @@
+{
+  "type": "subcategory",
+  "chapterCode": "XVII",
+  "chapter": "Congenital malformations, deformations and chromosomal abnormalities",
+  "blockCode": "Q38-Q45",
+  "block": "Other congenital malformations of the digestive system",
+  "categoryCode": "Q38",
+  "category": "Other congenital malformations of tongue, mouth and pharynx",
+  "subcategory": "Q38.7",
+  "title": "Pharyngeal pouch",
+  "inclusion": [
+    "Diverticulum of pharynx"
+  ],
+  "exclusion": [
+    "inborn errors of metabolism",
+    "macrostomia",
+    "microstomia",
+    "pharyngeal pouch syndrome"
+  ],
+  "children": null
+}

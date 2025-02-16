@@ -1,0 +1,19 @@
+{
+  "type": "subcategory",
+  "chapterCode": "XXI",
+  "chapter": "Factors influencing health status and contact with health services",
+  "blockCode": "Z70-Z76",
+  "block": "Persons encountering health services in other circumstances",
+  "categoryCode": "Z73",
+  "category": "Problems related to life-management difficulty",
+  "subcategory": "Z73.3",
+  "title": "Stress, not elsewhere classified",
+  "inclusion": [
+    "Physical and mental strain NOS"
+  ],
+  "exclusion": [
+    "problems related to socioeconomic and psychosocial circumstances",
+    "related to employment or unemployment"
+  ],
+  "children": null
+}

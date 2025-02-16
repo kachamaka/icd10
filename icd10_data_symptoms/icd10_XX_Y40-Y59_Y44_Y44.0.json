@@ -1,0 +1,25 @@
+{
+    "icd10code": "Y44.0",
+    "type": "subcategory",
+    "title": "Iron preparations and other anti-hypochromic-anaemia preparations",
+    "chapter": "External causes of morbidity and mortality",
+    "chapterCode": "XX",
+    "block": "Drugs, medicaments and biological substances causing adverse effects in therapeutic use",
+    "blockCode": "Y40-Y59",
+    "category": "Agents primarily affecting blood constituents",
+    "categoryCode": "Y44",
+    "subcategory": "Y44.0",
+    "inclusion": [
+        "complications of medical devices",
+        "correct drug properly administered in therapeutic or prophylactic dosage as the cause of any adverse effect",
+        "misadventures to patients during surgical and medical care",
+        "surgical and medical procedures as the cause of abnormal reaction of the patient, or of later complication, without mention of misadventure at the time of the procedure"
+    ],
+    "exclusion": [
+        "accidental overdose of drug or wrong drug given or taken in error",
+        "accidents in the technique of administration of drugs, medicaments and biological substances in medical and surgical procedures"
+    ],
+    "symptoms": [
+        "asymptomatic"
+    ]
+}

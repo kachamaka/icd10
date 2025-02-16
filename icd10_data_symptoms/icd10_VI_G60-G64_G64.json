@@ -1,0 +1,36 @@
+{
+    "icd10code": "G64",
+    "type": "category",
+    "title": "Other disorders of peripheral nervous system",
+    "chapter": "Diseases of the nervous system",
+    "chapterCode": "VI",
+    "block": "Polyneuropathies and other disorders of the peripheral nervous system",
+    "blockCode": "G60-G64",
+    "category": "Other disorders of peripheral nervous system",
+    "categoryCode": "G64",
+    "subcategory": "",
+    "inclusion": [
+        "Disorder of peripheral nervous system NOS"
+    ],
+    "exclusion": [
+        "certain conditions originating in the perinatal period",
+        "certain infectious and parasitic diseases",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "neuralgia NOS",
+        "neuritis NOS",
+        "peripheral neuritis in pregnancy",
+        "radiculitis NOS"
+    ],
+    "symptoms": [
+        "numbness",
+        "tingling",
+        "muscle weakness",
+        "burning pain",
+        "coordination problems"
+    ]
+}

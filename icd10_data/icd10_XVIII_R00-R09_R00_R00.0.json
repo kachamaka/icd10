@@ -1,0 +1,23 @@
+{
+  "type": "subcategory",
+  "chapterCode": "XVIII",
+  "chapter": "Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+  "blockCode": "R00-R09",
+  "block": "Symptoms and signs involving the circulatory and respiratory systems",
+  "categoryCode": "R00",
+  "category": "Abnormalities of heart beat",
+  "subcategory": "R00.0",
+  "title": "Tachycardia, unspecified",
+  "inclusion": [
+    "Rapid heart beat",
+    "Tachycardia: sinoauricular NOS",
+    "Tachycardia: sinus [sinusal] NOS"
+  ],
+  "exclusion": [
+    "abnormal findings on antenatal screening of mother",
+    "certain conditions originating in the perinatal period",
+    "abnormalities originating in the perinatal period",
+    "specified arrhythmias"
+  ],
+  "children": null
+}

@@ -1,0 +1,31 @@
+{
+    "icd10code": "P24.8",
+    "type": "subcategory",
+    "title": "Other neonatal aspiration syndromes",
+    "chapter": "Certain conditions originating in the perinatal period",
+    "chapterCode": "XVI",
+    "block": "Respiratory and cardiovascular disorders specific to the perinatal period",
+    "blockCode": "P20-P29",
+    "category": "Neonatal aspiration syndromes",
+    "categoryCode": "P24",
+    "subcategory": "P24.8",
+    "inclusion": [
+        "conditions that have their origin in the perinatal period even though death or morbidity occurs later",
+        "neonatal pneumonia resulting from aspiration"
+    ],
+    "exclusion": [
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "tetanus neonatorum",
+        "whooping cough"
+    ],
+    "symptoms": [
+        "cough",
+        "respiratory distress",
+        "fever",
+        "cyanosis",
+        "decreased oxygen saturation"
+    ]
+}

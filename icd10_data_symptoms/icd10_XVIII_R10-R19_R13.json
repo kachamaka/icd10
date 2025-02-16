@@ -1,0 +1,35 @@
+{
+    "icd10code": "R13",
+    "type": "category",
+    "title": "Dysphagia",
+    "chapter": "Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+    "chapterCode": "XVIII",
+    "block": "Symptoms and signs involving the digestive system and abdomen",
+    "blockCode": "R10-R19",
+    "category": "Dysphagia",
+    "categoryCode": "R13",
+    "subcategory": "",
+    "inclusion": [
+        "Difficulty in swallowing"
+    ],
+    "exclusion": [
+        "abnormal findings on antenatal screening of mother",
+        "certain conditions originating in the perinatal period",
+        "gastrointestinal haemorrhage",
+        "gastrointestinal haemorrhage newborn",
+        "intestinal obstruction",
+        "intestinal obstruction newborn",
+        "pylorospasm",
+        "pylorospasm congenital or infantile",
+        "symptoms and signs involving the urinary system",
+        "symptoms referable to genital organs: female",
+        "symptoms referable to genital organs: male"
+    ],
+    "symptoms": [
+        "difficulty swallowing",
+        "choking sensation",
+        "pain while swallowing",
+        "feeling of food stuck in throat",
+        "regurgitation"
+    ]
+}

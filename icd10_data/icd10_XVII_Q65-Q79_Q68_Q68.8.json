@@ -1,0 +1,24 @@
+{
+  "type": "subcategory",
+  "chapterCode": "XVII",
+  "chapter": "Congenital malformations, deformations and chromosomal abnormalities",
+  "blockCode": "Q65-Q79",
+  "block": "Congenital malformations and deformations of the musculoskeletal system",
+  "categoryCode": "Q68",
+  "category": "Other congenital musculoskeletal deformities",
+  "subcategory": "Q68.8",
+  "title": "Other specified congenital musculoskeletal deformities",
+  "inclusion": [
+    "Congenital: deformity of: clavicle",
+    "Congenital: deformity of: elbow",
+    "Congenital: deformity of: forearm",
+    "Congenital: deformity of: scapula",
+    "Congenital: dislocation of: elbow",
+    "Congenital: dislocation of: shoulder"
+  ],
+  "exclusion": [
+    "inborn errors of metabolism",
+    "reduction defects of limb(s)"
+  ],
+  "children": null
+}

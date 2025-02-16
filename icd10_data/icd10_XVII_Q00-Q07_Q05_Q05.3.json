@@ -1,0 +1,27 @@
+{
+  "type": "subcategory",
+  "chapterCode": "XVII",
+  "chapter": "Congenital malformations, deformations and chromosomal abnormalities",
+  "blockCode": "Q00-Q07",
+  "block": "Congenital malformations of the nervous system",
+  "categoryCode": "Q05",
+  "category": "Spina bifida",
+  "subcategory": "Q05.3",
+  "title": "Sacral spina bifida with hydrocephalus",
+  "inclusion": [
+    "hydromeningocele (spinal)",
+    "meningocele (spinal)",
+    "meningomyelocele",
+    "myelocele",
+    "myelomeningocele",
+    "rachischisis",
+    "spina bifida (aperta)(cystica)",
+    "syringomyelocele"
+  ],
+  "exclusion": [
+    "inborn errors of metabolism",
+    "Arnold-Chiari syndrome",
+    "spina bifida occulta"
+  ],
+  "children": null
+}

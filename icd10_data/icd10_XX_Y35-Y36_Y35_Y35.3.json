@@ -1,0 +1,19 @@
+{
+  "type": "subcategory",
+  "chapterCode": "XX",
+  "chapter": "External causes of morbidity and mortality",
+  "blockCode": "Y35-Y36",
+  "block": "Legal intervention and operations of war",
+  "categoryCode": "Y35",
+  "category": "Legal intervention",
+  "subcategory": "Y35.3",
+  "title": "Legal intervention involving blunt objects",
+  "inclusion": [
+    "injuries inflicted by the police or other law-enforcing agents, including military on duty, in the course of arresting or attempting to arrest lawbreakers, suppressing disturbances, maintaining order, and other legal action",
+    "Hit, struck by: baton during legal intervention",
+    "Hit, struck by: blunt object during legal intervention",
+    "Hit, struck by: stave during legal intervention"
+  ],
+  "exclusion": null,
+  "children": null
+}

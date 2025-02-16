@@ -1,0 +1,38 @@
+{
+    "icd10code": "K90.4",
+    "type": "subcategory",
+    "title": "Malabsorption due to intolerance, not elsewhere classified",
+    "chapter": "Diseases of the digestive system",
+    "chapterCode": "XI",
+    "block": "Other diseases of the digestive system",
+    "blockCode": "K90-K93",
+    "category": "Intestinal malabsorption",
+    "categoryCode": "K90",
+    "subcategory": "K90.4",
+    "inclusion": [
+        "Malabsorption due to intolerance to: carbohydrate",
+        "Malabsorption due to intolerance to: fat",
+        "Malabsorption due to intolerance to: protein",
+        "Malabsorption due to intolerance to: starch"
+    ],
+    "exclusion": [
+        "certain conditions originating in the perinatal period",
+        "certain infectious and parasitic diseases",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "following gastrointestinal surgery",
+        "gluten-sensitive enteropathy",
+        "lactose intolerance"
+    ],
+    "symptoms": [
+        "diarrhea",
+        "abdominal bloating",
+        "weight loss",
+        "fatigue",
+        "malnutrition"
+    ]
+}

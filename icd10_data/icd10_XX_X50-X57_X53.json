@@ -1,0 +1,24 @@
+{
+  "type": "category",
+  "chapterCode": "XX",
+  "chapter": "External causes of morbidity and mortality",
+  "blockCode": "X50-X57",
+  "block": "Overexertion, travel and privation",
+  "categoryCode": "X53",
+  "category": "Lack of food",
+  "subcategory": "",
+  "title": "Lack of food",
+  "inclusion": [
+    "lack of food as the cause of: inanition",
+    "lack of food as the cause of: insufficient nourishment",
+    "lack of food as the cause of: starvation"
+  ],
+  "exclusion": [
+    "assault",
+    "transport accidents",
+    "insufficient intake of food (due to self neglect)",
+    "neglect or abandonment by others",
+    "self neglect NOS"
+  ],
+  "children": null
+}

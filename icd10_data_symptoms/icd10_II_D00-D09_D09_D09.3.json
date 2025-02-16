@@ -1,0 +1,31 @@
+{
+    "icd10code": "D09.3",
+    "type": "subcategory",
+    "title": "Carcinoma in situ: Thyroid and other endocrine glands",
+    "chapter": "Neoplasms",
+    "chapterCode": "II",
+    "block": "In situ neoplasms",
+    "blockCode": "D00-D09",
+    "category": "Carcinoma in situ of other and unspecified sites",
+    "categoryCode": "D09",
+    "subcategory": "D09.3",
+    "inclusion": [
+        "Bowen disease",
+        "erythroplasia",
+        "morphology codes with behaviour code /2",
+        "Queyrat erythroplasia"
+    ],
+    "exclusion": [
+        "melanoma in situ",
+        "endocrine pancreas",
+        "ovary",
+        "testis"
+    ],
+    "symptoms": [
+        "unusual vaginal bleeding",
+        "pelvic pain",
+        "vaginal discomfort",
+        "persistent vaginal discharge",
+        "visible mass or lesion in vagina"
+    ]
+}

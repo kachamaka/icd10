@@ -1,0 +1,31 @@
+{
+  "type": "subcategory",
+  "chapterCode": "VI",
+  "chapter": "Diseases of the nervous system",
+  "blockCode": "G10-G14",
+  "block": "Systemic atrophies primarily affecting the central nervous system",
+  "categoryCode": "G11",
+  "category": "Hereditary ataxia",
+  "subcategory": "G11.9",
+  "title": "Hereditary ataxia, unspecified",
+  "inclusion": [
+    "Hereditary cerebellar: ataxia NOS",
+    "Hereditary cerebellar: degeneration",
+    "Hereditary cerebellar: disease",
+    "Hereditary cerebellar: syndrome"
+  ],
+  "exclusion": [
+    "certain conditions originating in the perinatal period",
+    "certain infectious and parasitic diseases",
+    "complications of pregnancy, childbirth and the puerperium",
+    "congenital malformations, deformations and chromosomal abnormalities",
+    "endocrine, nutritional and metabolic diseases",
+    "injury, poisoning and certain other consequences of external causes",
+    "neoplasms",
+    "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+    "cerebral palsy",
+    "hereditary and idiopathic neuropathy",
+    "metabolic disorders"
+  ],
+  "children": null
+}

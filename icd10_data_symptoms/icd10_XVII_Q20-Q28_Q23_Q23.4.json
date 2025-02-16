@@ -1,0 +1,23 @@
+{
+    "icd10code": "Q23.4",
+    "type": "subcategory",
+    "title": "Hypoplastic left heart syndrome",
+    "chapter": "Congenital malformations, deformations and chromosomal abnormalities",
+    "chapterCode": "XVII",
+    "block": "Congenital malformations of the circulatory system",
+    "blockCode": "Q20-Q28",
+    "category": "Congenital malformations of aortic and mitral valves",
+    "categoryCode": "Q23",
+    "subcategory": "Q23.4",
+    "inclusion": null,
+    "exclusion": [
+        "inborn errors of metabolism"
+    ],
+    "symptoms": [
+        "heart murmur",
+        "shortness of breath",
+        "fatigue",
+        "cyanosis",
+        "poor weight gain"
+    ]
+}

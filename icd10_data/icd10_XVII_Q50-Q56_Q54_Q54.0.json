@@ -1,0 +1,23 @@
+{
+  "type": "subcategory",
+  "chapterCode": "XVII",
+  "chapter": "Congenital malformations, deformations and chromosomal abnormalities",
+  "blockCode": "Q50-Q56",
+  "block": "Congenital malformations of genital organs",
+  "categoryCode": "Q54",
+  "category": "Hypospadias",
+  "subcategory": "Q54.0",
+  "title": "Hypospadias, balanic",
+  "inclusion": [
+    "Hypospadias: coronal",
+    "Hypospadias: glandular"
+  ],
+  "exclusion": [
+    "inborn errors of metabolism",
+    "androgen resistance syndrome",
+    "syndromes associated with anomalies in the number and form of chromosomes",
+    "testicular feminization syndrome",
+    "epispadias"
+  ],
+  "children": null
+}

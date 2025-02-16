@@ -1,0 +1,26 @@
+{
+    "icd10code": "D30.0",
+    "type": "subcategory",
+    "title": "Benign neoplasm: Kidney",
+    "chapter": "Neoplasms",
+    "chapterCode": "II",
+    "block": "Benign neoplasms",
+    "blockCode": "D10-D36",
+    "category": "Benign neoplasm of urinary organs",
+    "categoryCode": "D30",
+    "subcategory": "D30.0",
+    "inclusion": [
+        "morphology codes with behaviour code /0"
+    ],
+    "exclusion": [
+        "renal: calyces",
+        "renal: pelvis"
+    ],
+    "symptoms": [
+        "hematuria",
+        "lower back pain",
+        "discomfort or pain during urination",
+        "frequent urination",
+        "existence of a lump or mass in the bladder"
+    ]
+}

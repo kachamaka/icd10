@@ -1,0 +1,25 @@
+{
+    "icd10code": "V89.3",
+    "type": "subcategory",
+    "title": "Person injured in unspecified nonmotor-vehicle accident, traffic",
+    "chapter": "External causes of morbidity and mortality",
+    "chapterCode": "XX",
+    "block": "Other land transport accidents",
+    "blockCode": "V80-V89",
+    "category": "Motor- or nonmotor-vehicle accident, type of vehicle unspecified",
+    "categoryCode": "V89",
+    "subcategory": "V89.3",
+    "inclusion": [
+        "Nonmotor-vehicle traffic accident NOS"
+    ],
+    "exclusion": [
+        "accidents to persons engaged in the maintenance or repair of transport equipment or vehicle (not in motion) unless injured by another vehicle in motion",
+        "accidents involving vehicles, but unrelated to the hazards associated with the means of transportation, e.g., injuries received in a fight on board ship; transport vehicle involved in a cataclysm; finger crushed when shutting car door",
+        "assault by crashing of motor vehicle",
+        "event of undetermined intent",
+        "intentional self-harm"
+    ],
+    "symptoms": [
+        "asymptomatic"
+    ]
+}

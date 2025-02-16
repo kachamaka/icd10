@@ -1,0 +1,19 @@
+{
+    "icd10code": "Z61.9",
+    "type": "subcategory",
+    "title": "Negative life event in childhood, unspecified",
+    "chapter": "Factors influencing health status and contact with health services",
+    "chapterCode": "XXI",
+    "block": "Persons with potential health hazards related to socioeconomic and psychosocial circumstances",
+    "blockCode": "Z55-Z65",
+    "category": "Problems related to negative life events in childhood",
+    "categoryCode": "Z61",
+    "subcategory": "Z61.9",
+    "inclusion": null,
+    "exclusion": [
+        "maltreatment syndromes"
+    ],
+    "symptoms": [
+        "asymptomatic"
+    ]
+}

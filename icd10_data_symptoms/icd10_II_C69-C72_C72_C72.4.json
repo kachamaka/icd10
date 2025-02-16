@@ -1,0 +1,24 @@
+{
+    "icd10code": "C72.4",
+    "type": "subcategory",
+    "title": "Malignant neoplasm: Acoustic nerve",
+    "chapter": "Neoplasms",
+    "chapterCode": "II",
+    "block": "Malignant neoplasms of eye, brain and other parts of central nervous system",
+    "blockCode": "C69-C72",
+    "category": "Malignant neoplasm of spinal cord, cranial nerves and other parts of central nervous system",
+    "categoryCode": "C72",
+    "subcategory": "C72.4",
+    "inclusion": null,
+    "exclusion": [
+        "meninges",
+        "peripheral nerves and autonomic nervous system"
+    ],
+    "symptoms": [
+        "headaches",
+        "seizures",
+        "personality changes",
+        "memory loss",
+        "difficulty in speech or movement"
+    ]
+}

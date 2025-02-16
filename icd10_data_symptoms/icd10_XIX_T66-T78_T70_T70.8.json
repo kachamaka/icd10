@@ -1,0 +1,31 @@
+{
+    "icd10code": "T70.8",
+    "type": "subcategory",
+    "title": "Other effects of air pressure and water pressure",
+    "chapter": "Injury, poisoning and certain other consequences of external causes",
+    "chapterCode": "XIX",
+    "block": "Other and unspecified effects of external causes",
+    "blockCode": "T66-T78",
+    "category": "Effects of air pressure and water pressure",
+    "categoryCode": "T70",
+    "subcategory": "T70.8",
+    "inclusion": [
+        "Blast injury syndrome"
+    ],
+    "exclusion": [
+        "birth trauma",
+        "obstetric trauma",
+        "malunion of fracture",
+        "nonunion of fracture [pseudarthrosis]",
+        "pathological fracture",
+        "pathological fracture with osteoporosis",
+        "stress fracture"
+    ],
+    "symptoms": [
+        "dizziness",
+        "fatigue",
+        "nausea",
+        "confusion",
+        "shortness of breath"
+    ]
+}

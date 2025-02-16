@@ -1,0 +1,40 @@
+{
+    "icd10code": "I24.0",
+    "type": "subcategory",
+    "title": "Coronary thrombosis not resulting in myocardial infarction",
+    "chapter": "Diseases of the circulatory system",
+    "chapterCode": "IX",
+    "block": "Ischaemic heart diseases",
+    "blockCode": "I20-I25",
+    "category": "Other acute ischaemic heart diseases",
+    "categoryCode": "I24",
+    "subcategory": "I24.0",
+    "inclusion": [
+        "with mention of hypertension",
+        "Coronary (artery)(vein): embolism not resulting in myocardial infarction",
+        "Coronary (artery)(vein): occlusion not resulting in myocardial infarction",
+        "Coronary (artery)(vein): thromboembolism not resulting in myocardial infarction"
+    ],
+    "exclusion": [
+        "certain conditions originating in the perinatal period",
+        "certain infectious and parasitic diseases",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "systemic connective tissue disorders",
+        "transient cerebral ischaemic attacks and related syndromes",
+        "Eisenmenger defect",
+        "when not specified as rheumatic",
+        "specified as chronic or with a stated duration of more than 4 weeks (more than 28 days) from onset"
+    ],
+    "symptoms": [
+        "chest pain",
+        "shortness of breath",
+        "fatigue",
+        "rapid heartbeat",
+        "lightheadedness"
+    ]
+}

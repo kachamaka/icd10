@@ -1,0 +1,24 @@
+{
+  "type": "subcategory",
+  "chapterCode": "XVII",
+  "chapter": "Congenital malformations, deformations and chromosomal abnormalities",
+  "blockCode": "Q50-Q56",
+  "block": "Congenital malformations of genital organs",
+  "categoryCode": "Q56",
+  "category": "Indeterminate sex and pseudohermaphroditism",
+  "subcategory": "Q56.4",
+  "title": "Indeterminate sex, unspecified",
+  "inclusion": [
+    "Ambiguous genitalia"
+  ],
+  "exclusion": [
+    "inborn errors of metabolism",
+    "androgen resistance syndrome",
+    "syndromes associated with anomalies in the number and form of chromosomes",
+    "testicular feminization syndrome",
+    "pseudohermaphroditism: female, with adrenocortical disorder",
+    "pseudohermaphroditism: male, with androgen resistance",
+    "pseudohermaphroditism: with specified chromosomal anomaly"
+  ],
+  "children": null
+}

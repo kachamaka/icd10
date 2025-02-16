@@ -1,0 +1,26 @@
+{
+    "icd10code": "F00.2",
+    "type": "subcategory",
+    "title": "Dementia in Alzheimer disease, atypical or mixed type",
+    "chapter": "Mental and behavioural disorders",
+    "chapterCode": "V",
+    "block": "Organic, including symptomatic, mental disorders",
+    "blockCode": "F00-F09",
+    "category": "Dementia in Alzheimer disease",
+    "categoryCode": "F00",
+    "subcategory": "F00.2",
+    "inclusion": [
+        "disorders of psychological development",
+        "Atypical dementia, Alzheimer type"
+    ],
+    "exclusion": [
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified"
+    ],
+    "symptoms": [
+        "memory loss",
+        "confusion",
+        "impaired judgment",
+        "difficulty with language",
+        "personality changes"
+    ]
+}

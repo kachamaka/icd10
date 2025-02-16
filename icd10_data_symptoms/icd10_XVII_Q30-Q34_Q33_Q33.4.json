@@ -1,0 +1,23 @@
+{
+    "icd10code": "Q33.4",
+    "type": "subcategory",
+    "title": "Congenital bronchiectasis",
+    "chapter": "Congenital malformations, deformations and chromosomal abnormalities",
+    "chapterCode": "XVII",
+    "block": "Congenital malformations of the respiratory system",
+    "blockCode": "Q30-Q34",
+    "category": "Congenital malformations of lung",
+    "categoryCode": "Q33",
+    "subcategory": "Q33.4",
+    "inclusion": null,
+    "exclusion": [
+        "inborn errors of metabolism"
+    ],
+    "symptoms": [
+        "shortness of breath",
+        "chronic coughing",
+        "recurrent respiratory infections",
+        "chest pain",
+        "fatigue"
+    ]
+}

@@ -1,0 +1,24 @@
+{
+  "type": "subcategory",
+  "chapterCode": "XVII",
+  "chapter": "Congenital malformations, deformations and chromosomal abnormalities",
+  "blockCode": "Q30-Q34",
+  "block": "Congenital malformations of the respiratory system",
+  "categoryCode": "Q32",
+  "category": "Congenital malformations of trachea and bronchus",
+  "subcategory": "Q32.1",
+  "title": "Other congenital malformations of trachea",
+  "inclusion": [
+    "Anomaly of tracheal cartilage",
+    "Atresia of trachea",
+    "Congenital: dilatation of trachea",
+    "Congenital: malformation of trachea",
+    "Congenital: stenosis of trachea",
+    "Congenital tracheocele"
+  ],
+  "exclusion": [
+    "inborn errors of metabolism",
+    "congenital bronchiectasis"
+  ],
+  "children": null
+}

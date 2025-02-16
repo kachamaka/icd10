@@ -1,0 +1,23 @@
+{
+    "icd10code": "D14.3",
+    "type": "subcategory",
+    "title": "Benign neoplasm: Bronchus and lung",
+    "chapter": "Neoplasms",
+    "chapterCode": "II",
+    "block": "Benign neoplasms",
+    "blockCode": "D10-D36",
+    "category": "Benign neoplasm of middle ear and respiratory system",
+    "categoryCode": "D14",
+    "subcategory": "D14.3",
+    "inclusion": [
+        "morphology codes with behaviour code /0"
+    ],
+    "exclusion": null,
+    "symptoms": [
+        "difficulty swallowing",
+        "neck lump",
+        "change in voice",
+        "unintentional weight loss",
+        "sore throat"
+    ]
+}

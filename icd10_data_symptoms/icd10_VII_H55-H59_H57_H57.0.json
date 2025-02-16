@@ -1,0 +1,30 @@
+{
+    "icd10code": "H57.0",
+    "type": "subcategory",
+    "title": "Anomalies of pupillary function",
+    "chapter": "Diseases of the eye and adnexa",
+    "chapterCode": "VII",
+    "block": "Other disorders of eye and adnexa",
+    "blockCode": "H55-H59",
+    "category": "Other disorders of eye and adnexa",
+    "categoryCode": "H57",
+    "subcategory": "H57.0",
+    "inclusion": null,
+    "exclusion": [
+        "certain conditions originating in the perinatal period",
+        "certain infectious and parasitic diseases",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified"
+    ],
+    "symptoms": [
+        "eye pain",
+        "discomfort",
+        "burning sensation",
+        "itching",
+        "redness"
+    ]
+}

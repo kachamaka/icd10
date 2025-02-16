@@ -1,0 +1,28 @@
+{
+    "icd10code": "Q23.0",
+    "type": "subcategory",
+    "title": "Congenital stenosis of aortic valve",
+    "chapter": "Congenital malformations, deformations and chromosomal abnormalities",
+    "chapterCode": "XVII",
+    "block": "Congenital malformations of the circulatory system",
+    "blockCode": "Q20-Q28",
+    "category": "Congenital malformations of aortic and mitral valves",
+    "categoryCode": "Q23",
+    "subcategory": "Q23.0",
+    "inclusion": [
+        "Congenital aortic: atresia",
+        "Congenital aortic: stenosis"
+    ],
+    "exclusion": [
+        "inborn errors of metabolism",
+        "congenital subaortic stenosis",
+        "that in hypoplastic left heart syndrome"
+    ],
+    "symptoms": [
+        "congenital heart murmur",
+        "cyanosis",
+        "fatigue",
+        "shortness of breath",
+        "poor weight gain"
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "icd10code": "C96.0",
+    "type": "subcategory",
+    "title": "Multifocal and multisystemic (disseminated) Langerhans-cell histiocytosis [Letterer-Siwe disease]",
+    "chapter": "Neoplasms",
+    "chapterCode": "II",
+    "block": "Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",
+    "blockCode": "C81-C96",
+    "category": "Other and unspecified malignant neoplasms of lymphoid, haematopoietic and related tissue",
+    "categoryCode": "C96",
+    "subcategory": "C96.0",
+    "inclusion": [
+        "Histiocytosis X, multisystemic"
+    ],
+    "exclusion": [
+        "secondary and unspecified neoplasm of lymph nodes"
+    ],
+    "symptoms": [
+        "fever",
+        "weight loss",
+        "night sweats",
+        "fatigue",
+        "enlarged lymph nodes"
+    ]
+}

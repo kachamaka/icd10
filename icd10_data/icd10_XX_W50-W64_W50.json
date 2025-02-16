@@ -1,0 +1,19 @@
+{
+  "type": "category",
+  "chapterCode": "XX",
+  "chapter": "External causes of morbidity and mortality",
+  "blockCode": "W50-W64",
+  "block": "Exposure to animate mechanical forces",
+  "categoryCode": "W50",
+  "category": "Hit, struck, kicked, twisted, bitten or scratched by another person",
+  "subcategory": "",
+  "title": "Hit, struck, kicked, twisted, bitten or scratched by another person",
+  "inclusion": null,
+  "exclusion": [
+    "bites, venomous",
+    "stings (venomous)",
+    "assault",
+    "struck by objects"
+  ],
+  "children": null
+}

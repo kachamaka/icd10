@@ -1,0 +1,38 @@
+{
+    "icd10code": "I83.9",
+    "type": "subcategory",
+    "title": "Varicose veins of lower extremities without ulcer or inflammation",
+    "chapter": "Diseases of the circulatory system",
+    "chapterCode": "IX",
+    "block": "Diseases of veins, lymphatic vessels and lymph nodes, not elsewhere classified",
+    "blockCode": "I80-I89",
+    "category": "Varicose veins of lower extremities",
+    "categoryCode": "I83",
+    "subcategory": "I83.9",
+    "inclusion": [
+        "Phlebectasia of lower extremity [any part] or of unspecified site",
+        "Varicose veins of lower extremity [any part] or of unspecified site",
+        "Varix of lower extremity [any part] or of unspecified site"
+    ],
+    "exclusion": [
+        "certain conditions originating in the perinatal period",
+        "certain infectious and parasitic diseases",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "systemic connective tissue disorders",
+        "transient cerebral ischaemic attacks and related syndromes",
+        "naevus: NOS",
+        "naevus: blue"
+    ],
+    "symptoms": [
+        "leg pain",
+        "itching sensation",
+        "skin discoloration",
+        "leg swelling",
+        "skin ulcers"
+    ]
+}

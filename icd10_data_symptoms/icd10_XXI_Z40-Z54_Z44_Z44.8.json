@@ -1,0 +1,20 @@
+{
+    "icd10code": "Z44.8",
+    "type": "subcategory",
+    "title": "Fitting and adjustment of other external prosthetic devices",
+    "chapter": "Factors influencing health status and contact with health services",
+    "chapterCode": "XXI",
+    "block": "Persons encountering health services for specific procedures and health care",
+    "blockCode": "Z40-Z54",
+    "category": "Fitting and adjustment of external prosthetic device",
+    "categoryCode": "Z44",
+    "subcategory": "Z44.8",
+    "inclusion": null,
+    "exclusion": [
+        "follow-up examination for medical surveillance after treatment",
+        "presence of prosthetic device"
+    ],
+    "symptoms": [
+        "asymptomatic"
+    ]
+}

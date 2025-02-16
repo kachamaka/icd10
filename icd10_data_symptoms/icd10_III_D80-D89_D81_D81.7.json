@@ -1,0 +1,41 @@
+{
+    "icd10code": "D81.7",
+    "type": "subcategory",
+    "title": "Major histocompatibility complex class II deficiency",
+    "chapter": "Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism",
+    "chapterCode": "III",
+    "block": "Certain disorders involving the immune mechanism",
+    "blockCode": "D80-D89",
+    "category": "Combined immunodeficiencies",
+    "categoryCode": "D81",
+    "subcategory": "D81.7",
+    "inclusion": [
+        "defects in the complement system",
+        "immunodeficiency disorders, except human immunodeficiency virus [HIV] disease",
+        "sarcoidosis"
+    ],
+    "exclusion": [
+        "autoimmune disease (systemic) NOS",
+        "certain conditions originating in the perinatal period",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "human immunodeficiency virus [HIV] disease",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "traumatic rupture of spleen",
+        "splenomegaly: congenital",
+        "disseminated intravascular coagulation",
+        "hyperhomocysteinemia",
+        "factor VIII deficiency: with functional defect"
+    ],
+    "symptoms": [
+        "recurrent bacterial",
+        "viral or fungal infections",
+        "chronic diarrhea",
+        "failure to thrive in infancy",
+        "skin infections",
+        "pneumonia"
+    ]
+}

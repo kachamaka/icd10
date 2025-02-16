@@ -1,0 +1,35 @@
+{
+    "icd10code": "F44.8",
+    "type": "subcategory",
+    "title": "Other dissociative [conversion] disorders",
+    "chapter": "Mental and behavioural disorders",
+    "chapterCode": "V",
+    "block": "Neurotic, stress-related and somatoform disorders",
+    "blockCode": "F40-F48",
+    "category": "Dissociative [conversion] disorders",
+    "categoryCode": "F44",
+    "subcategory": "F44.8",
+    "inclusion": [
+        "disorders of psychological development",
+        "conversion: hysteria",
+        "conversion: reaction",
+        "hysteria",
+        "hysterical psychosis",
+        "Ganser syndrome",
+        "Multiple personality",
+        "Psychogenic: confusion",
+        "Psychogenic: twilight state"
+    ],
+    "exclusion": [
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "when associated with conduct disorder in F91.-",
+        "malingering [conscious simulation]"
+    ],
+    "symptoms": [
+        "memory loss",
+        "identity confusion",
+        "muscle twitching",
+        "paralysis",
+        "altered sense of perception"
+    ]
+}

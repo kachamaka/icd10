@@ -1,0 +1,18 @@
+{
+  "type": "subcategory",
+  "chapterCode": "XVII",
+  "chapter": "Congenital malformations, deformations and chromosomal abnormalities",
+  "blockCode": "Q90-Q99",
+  "block": "Chromosomal abnormalities, not elsewhere classified",
+  "categoryCode": "Q95",
+  "category": "Balanced rearrangements and structural markers, not elsewhere classified",
+  "subcategory": "Q95.4",
+  "title": "Individuals with marker heterochromatin",
+  "inclusion": [
+    "Robertsonian and balanced reciprocal translocations and insertions"
+  ],
+  "exclusion": [
+    "inborn errors of metabolism"
+  ],
+  "children": null
+}

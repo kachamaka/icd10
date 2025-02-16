@@ -1,0 +1,23 @@
+{
+  "type": "subcategory",
+  "chapterCode": "IV",
+  "chapter": "Endocrine, nutritional and metabolic diseases",
+  "blockCode": "E40-E46",
+  "block": "Malnutrition",
+  "categoryCode": "E44",
+  "category": "Protein-energy malnutrition of moderate and mild degree",
+  "subcategory": "E44.0",
+  "title": "Moderate protein-energy malnutrition",
+  "inclusion": null,
+  "exclusion": [
+    "complications of pregnancy, childbirth and the puerperium",
+    "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+    "transitory endocrine and metabolic disorders specific to fetus and newborn",
+    "intestinal malabsorption",
+    "nutritional anaemias",
+    "sequelae of protein-energy malnutrition",
+    "slim disease",
+    "starvation"
+  ],
+  "children": null
+}

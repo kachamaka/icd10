@@ -1,0 +1,25 @@
+{
+    "icd10code": "R46.0",
+    "type": "subcategory",
+    "title": "Very low level of personal hygiene",
+    "chapter": "Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+    "chapterCode": "XVIII",
+    "block": "Symptoms and signs involving cognition, perception, emotional state and behaviour",
+    "blockCode": "R40-R46",
+    "category": "Symptoms and signs involving appearance and behaviour",
+    "categoryCode": "R46",
+    "subcategory": "R46.0",
+    "inclusion": null,
+    "exclusion": [
+        "abnormal findings on antenatal screening of mother",
+        "certain conditions originating in the perinatal period",
+        "those constituting part of a pattern of mental disorder"
+    ],
+    "symptoms": [
+        "confusion",
+        "disorientation",
+        "altered awareness",
+        "memory impairment",
+        "inability to focus"
+    ]
+}

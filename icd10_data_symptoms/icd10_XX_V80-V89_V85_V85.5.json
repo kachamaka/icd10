@@ -1,0 +1,24 @@
+{
+    "icd10code": "V85.5",
+    "type": "subcategory",
+    "title": "Driver of special construction vehicle injured in nontraffic accident",
+    "chapter": "External causes of morbidity and mortality",
+    "chapterCode": "XX",
+    "block": "Other land transport accidents",
+    "blockCode": "V80-V89",
+    "category": "Occupant of special construction vehicle injured in transport accident",
+    "categoryCode": "V85",
+    "subcategory": "V85.5",
+    "inclusion": null,
+    "exclusion": [
+        "accidents to persons engaged in the maintenance or repair of transport equipment or vehicle (not in motion) unless injured by another vehicle in motion",
+        "accidents involving vehicles, but unrelated to the hazards associated with the means of transportation, e.g., injuries received in a fight on board ship; transport vehicle involved in a cataclysm; finger crushed when shutting car door",
+        "assault by crashing of motor vehicle",
+        "event of undetermined intent",
+        "intentional self-harm",
+        "fall: while boarding or alighting"
+    ],
+    "symptoms": [
+        "asymptomatic"
+    ]
+}

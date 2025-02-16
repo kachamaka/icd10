@@ -1,0 +1,18 @@
+{
+  "type": "subcategory",
+  "chapterCode": "XVII",
+  "chapter": "Congenital malformations, deformations and chromosomal abnormalities",
+  "blockCode": "Q65-Q79",
+  "block": "Congenital malformations and deformations of the musculoskeletal system",
+  "categoryCode": "Q73",
+  "category": "Reduction defects of unspecified limb",
+  "subcategory": "Q73.1",
+  "title": "Phocomelia, unspecified limb(s)",
+  "inclusion": [
+    "Phocomelia NOS"
+  ],
+  "exclusion": [
+    "inborn errors of metabolism"
+  ],
+  "children": null
+}

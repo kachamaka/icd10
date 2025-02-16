@@ -1,0 +1,21 @@
+{
+    "icd10code": "C78.7",
+    "type": "subcategory",
+    "title": "Secondary malignant neoplasm of liver and intrahepatic bile duct",
+    "chapter": "Neoplasms",
+    "chapterCode": "II",
+    "block": "Malignant neoplasms of ill-defined, secondary and unspecified sites",
+    "blockCode": "C76-C80",
+    "category": "Secondary malignant neoplasm of respiratory and digestive organs",
+    "categoryCode": "C78",
+    "subcategory": "C78.7",
+    "inclusion": null,
+    "exclusion": null,
+    "symptoms": [
+        "abdominal pain",
+        "unexplained weight loss",
+        "nausea and vomiting",
+        "jaundice",
+        "loss of appetite"
+    ]
+}

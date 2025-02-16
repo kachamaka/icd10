@@ -1,0 +1,37 @@
+{
+    "icd10code": "I37.1",
+    "type": "subcategory",
+    "title": "Pulmonary valve insufficiency",
+    "chapter": "Diseases of the circulatory system",
+    "chapterCode": "IX",
+    "block": "Other forms of heart disease",
+    "blockCode": "I30-I52",
+    "category": "Pulmonary valve disorders",
+    "categoryCode": "I37",
+    "subcategory": "I37.1",
+    "inclusion": [
+        "Pulmonary valve: incompetence NOS or of specified cause, except rheumatic",
+        "Pulmonary valve: regurgitation NOS or of specified cause, except rheumatic"
+    ],
+    "exclusion": [
+        "certain conditions originating in the perinatal period",
+        "certain infectious and parasitic diseases",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "systemic connective tissue disorders",
+        "transient cerebral ischaemic attacks and related syndromes",
+        "rheumatoid carditis",
+        "when not specified as rheumatic"
+    ],
+    "symptoms": [
+        "chest pain",
+        "shortness of breath",
+        "fainting",
+        "weakness or fatigue",
+        "heart palpitations"
+    ]
+}

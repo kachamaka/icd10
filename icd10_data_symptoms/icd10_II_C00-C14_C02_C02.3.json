@@ -1,0 +1,24 @@
+{
+    "icd10code": "C02.3",
+    "type": "subcategory",
+    "title": "Malignant neoplasm: Anterior two-thirds of tongue, part unspecified",
+    "chapter": "Neoplasms",
+    "chapterCode": "II",
+    "block": "Malignant neoplasms of lip, oral cavity and pharynx",
+    "blockCode": "C00-C14",
+    "category": "Malignant neoplasm of other and unspecified parts of tongue",
+    "categoryCode": "C02",
+    "subcategory": "C02.3",
+    "inclusion": [
+        "Middle third of tongue NOS",
+        "Mobile part of tongue NOS"
+    ],
+    "exclusion": null,
+    "symptoms": [
+        "sore throat",
+        "difficulty swallowing",
+        "voice changes",
+        "oral ulcers",
+        "lump in the neck"
+    ]
+}

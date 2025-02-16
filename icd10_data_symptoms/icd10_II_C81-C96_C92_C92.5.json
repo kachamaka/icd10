@@ -1,0 +1,28 @@
+{
+    "icd10code": "C92.5",
+    "type": "subcategory",
+    "title": "Acute myelomonocytic leukaemia",
+    "chapter": "Neoplasms",
+    "chapterCode": "II",
+    "block": "Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",
+    "blockCode": "C81-C96",
+    "category": "Myeloid leukaemia",
+    "categoryCode": "C92",
+    "subcategory": "C92.5",
+    "inclusion": [
+        "leukaemia: granulocytic",
+        "leukaemia: myelogenous",
+        "AML M4",
+        "AML M4 Eo with inv(16) or t(16;16)"
+    ],
+    "exclusion": [
+        "secondary and unspecified neoplasm of lymph nodes"
+    ],
+    "symptoms": [
+        "fatigue",
+        "persistent fever",
+        "weight loss",
+        "bruises or bleeding easily",
+        "bone pain or tenderness"
+    ]
+}

@@ -1,0 +1,27 @@
+{
+  "type": "subcategory",
+  "chapterCode": "XVI",
+  "chapter": "Certain conditions originating in the perinatal period",
+  "blockCode": "P20-P29",
+  "block": "Respiratory and cardiovascular disorders specific to the perinatal period",
+  "categoryCode": "P28",
+  "category": "Other respiratory conditions originating in the perinatal period",
+  "subcategory": "P28.8",
+  "title": "Other specified respiratory conditions of newborn",
+  "inclusion": [
+    "conditions that have their origin in the perinatal period even though death or morbidity occurs later",
+    "Congenital (laryngeal) stridor NOS",
+    "Snuffles in newborn"
+  ],
+  "exclusion": [
+    "congenital malformations, deformations and chromosomal abnormalities",
+    "endocrine, nutritional and metabolic diseases",
+    "injury, poisoning and certain other consequences of external causes",
+    "neoplasms",
+    "tetanus neonatorum",
+    "whooping cough",
+    "single umbilical artery",
+    "early congenital syphilitic rhinitis"
+  ],
+  "children": null
+}

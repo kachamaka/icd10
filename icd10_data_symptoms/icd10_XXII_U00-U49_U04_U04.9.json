@@ -1,0 +1,24 @@
+{
+    "icd10code": "U04.9",
+    "type": "subcategory",
+    "title": "Severe acute respiratory syndrome [SARS], unspecified",
+    "chapter": "Codes for special purposes",
+    "chapterCode": "XXII",
+    "block": "Provisional assignment of new diseases of uncertain etiology or emergency use",
+    "blockCode": "U00-U49",
+    "category": "Severe acute respiratory syndrome [SARS]",
+    "categoryCode": "U04",
+    "subcategory": "U04.9",
+    "inclusion": null,
+    "exclusion": [
+        "COVID-19, virus identified",
+        "COVID-19, virus not identified"
+    ],
+    "symptoms": [
+        "fever",
+        "cough",
+        "shortness of breath",
+        "fatigue",
+        "muscle aches"
+    ]
+}

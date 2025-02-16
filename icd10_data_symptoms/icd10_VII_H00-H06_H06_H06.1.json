@@ -1,0 +1,33 @@
+{
+    "icd10code": "H06.1",
+    "type": "subcategory",
+    "title": "Parasitic infestation of orbit in diseases classified elsewhere",
+    "chapter": "Diseases of the eye and adnexa",
+    "chapterCode": "VII",
+    "block": "Disorders of eyelid, lacrimal system and orbit",
+    "blockCode": "H00-H06",
+    "category": "Disorders of lacrimal system and orbit in diseases classified elsewhere",
+    "categoryCode": "H06",
+    "subcategory": "H06.1",
+    "inclusion": [
+        "Echinococcus infection of orbit",
+        "Myiasis of orbit"
+    ],
+    "exclusion": [
+        "certain conditions originating in the perinatal period",
+        "certain infectious and parasitic diseases",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified"
+    ],
+    "symptoms": [
+        "swelling",
+        "pain",
+        "redness",
+        "tenderness",
+        "restricted eye movement"
+    ]
+}

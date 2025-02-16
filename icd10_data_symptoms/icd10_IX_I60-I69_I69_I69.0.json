@@ -1,0 +1,37 @@
+{
+    "icd10code": "I69.0",
+    "type": "subcategory",
+    "title": "Sequelae of subarachnoid haemorrhage",
+    "chapter": "Diseases of the circulatory system",
+    "chapterCode": "IX",
+    "block": "Cerebrovascular diseases",
+    "blockCode": "I60-I69",
+    "category": "Sequelae of cerebrovascular disease",
+    "categoryCode": "I69",
+    "subcategory": "I69.0",
+    "inclusion": [
+        "with mention of hypertension (conditions in I10 and I15.-)"
+    ],
+    "exclusion": [
+        "certain conditions originating in the perinatal period",
+        "certain infectious and parasitic diseases",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "systemic connective tissue disorders",
+        "transient cerebral ischaemic attacks and related syndromes",
+        "pulmonary",
+        "naevus: blue",
+        "complicating: childbirth and the puerperium"
+    ],
+    "symptoms": [
+        "difficulty speaking",
+        "muscle weakness",
+        "difficulty swallowing",
+        "impaired balance",
+        "numbness or tingling in limbs"
+    ]
+}

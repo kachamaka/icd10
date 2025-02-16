@@ -1,0 +1,36 @@
+{
+    "icd10code": "T65.3",
+    "type": "subcategory",
+    "title": "Toxic effect: Nitroderivatives and aminoderivatives of benzene and its homologues",
+    "chapter": "Injury, poisoning and certain other consequences of external causes",
+    "chapterCode": "XIX",
+    "block": "Toxic effects of substances chiefly nonmedicinal as to source",
+    "blockCode": "T51-T65",
+    "category": "Toxic effect of other and unspecified substances",
+    "categoryCode": "T65",
+    "subcategory": "T65.3",
+    "inclusion": [
+        "Aniline [benzenamine]",
+        "Nitrobenzene",
+        "Trinitrotoluene"
+    ],
+    "exclusion": [
+        "birth trauma",
+        "obstetric trauma",
+        "malunion of fracture",
+        "nonunion of fracture [pseudarthrosis]",
+        "pathological fracture",
+        "pathological fracture with osteoporosis",
+        "stress fracture",
+        "corrosions",
+        "localized toxic effects classified elsewhere",
+        "respiratory conditions due to external agents"
+    ],
+    "symptoms": [
+        "nausea",
+        "vomiting",
+        "headache",
+        "abdominal pain",
+        "dizziness"
+    ]
+}

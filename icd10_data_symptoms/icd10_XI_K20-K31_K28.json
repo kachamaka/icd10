@@ -1,0 +1,40 @@
+{
+    "icd10code": "K28",
+    "type": "modifiedcategory",
+    "title": "Gastrojejunal ulcer : acute with perforation",
+    "chapter": "Diseases of the digestive system",
+    "chapterCode": "XI",
+    "block": "Diseases of oesophagus, stomach and duodenum",
+    "blockCode": "K20-K31",
+    "category": "Gastrojejunal ulcer",
+    "categoryCode": "K28",
+    "subcategory": "",
+    "inclusion": [
+        "ulcer (peptic) or erosion: anastomotic",
+        "ulcer (peptic) or erosion: gastrocolic",
+        "ulcer (peptic) or erosion: gastrointestinal",
+        "ulcer (peptic) or erosion: gastrojejunal",
+        "ulcer (peptic) or erosion: jejunal",
+        "ulcer (peptic) or erosion: marginal",
+        "ulcer (peptic) or erosion: stomal"
+    ],
+    "exclusion": [
+        "certain conditions originating in the perinatal period",
+        "certain infectious and parasitic diseases",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "hiatus hernia",
+        "primary ulcer of small intestine"
+    ],
+    "symptoms": [
+        "abdominal pain",
+        "nausea",
+        "vomiting",
+        "blood in stool",
+        "weight loss"
+    ]
+}

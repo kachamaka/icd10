@@ -1,0 +1,28 @@
+{
+    "icd10code": "D00.1",
+    "type": "subcategory",
+    "title": "Carcinoma in situ: Oesophagus",
+    "chapter": "Neoplasms",
+    "chapterCode": "II",
+    "block": "In situ neoplasms",
+    "blockCode": "D00-D09",
+    "category": "Carcinoma in situ of oral cavity, oesophagus and stomach",
+    "categoryCode": "D00",
+    "subcategory": "D00.1",
+    "inclusion": [
+        "Bowen disease",
+        "erythroplasia",
+        "morphology codes with behaviour code /2",
+        "Queyrat erythroplasia"
+    ],
+    "exclusion": [
+        "melanoma in situ"
+    ],
+    "symptoms": [
+        "difficulty swallowing",
+        "mouth pain",
+        "loose teeth",
+        "bad breath",
+        "non-healing mouth sores"
+    ]
+}

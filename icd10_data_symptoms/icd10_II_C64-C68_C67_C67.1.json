@@ -1,0 +1,21 @@
+{
+    "icd10code": "C67.1",
+    "type": "subcategory",
+    "title": "Malignant neoplasm: Dome of bladder",
+    "chapter": "Neoplasms",
+    "chapterCode": "II",
+    "block": "Malignant neoplasms of urinary tract",
+    "blockCode": "C64-C68",
+    "category": "Malignant neoplasm of bladder",
+    "categoryCode": "C67",
+    "subcategory": "C67.1",
+    "inclusion": null,
+    "exclusion": null,
+    "symptoms": [
+        "blood in urine",
+        "frequent urination",
+        "pain during urination",
+        "lower back pain",
+        "unexplained weight loss"
+    ]
+}

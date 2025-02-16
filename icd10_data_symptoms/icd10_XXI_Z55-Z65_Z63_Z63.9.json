@@ -1,0 +1,21 @@
+{
+    "icd10code": "Z63.9",
+    "type": "subcategory",
+    "title": "Problem related to primary support group, unspecified",
+    "chapter": "Factors influencing health status and contact with health services",
+    "chapterCode": "XXI",
+    "block": "Persons with potential health hazards related to socioeconomic and psychosocial circumstances",
+    "blockCode": "Z55-Z65",
+    "category": "Other problems related to primary support group, including family circumstances",
+    "categoryCode": "Z63",
+    "subcategory": "Z63.9",
+    "inclusion": null,
+    "exclusion": [
+        "maltreatment syndromes",
+        "problems related to: negative life events in childhood",
+        "problems related to: upbringing"
+    ],
+    "symptoms": [
+        "asymptomatic"
+    ]
+}

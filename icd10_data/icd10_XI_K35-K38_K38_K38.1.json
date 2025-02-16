@@ -1,0 +1,26 @@
+{
+  "type": "subcategory",
+  "chapterCode": "XI",
+  "chapter": "Diseases of the digestive system",
+  "blockCode": "K35-K38",
+  "block": "Diseases of appendix",
+  "categoryCode": "K38",
+  "category": "Other diseases of appendix",
+  "subcategory": "K38.1",
+  "title": "Appendicular concretions",
+  "inclusion": [
+    "Faecalith of appendix",
+    "Stercolith of appendix"
+  ],
+  "exclusion": [
+    "certain conditions originating in the perinatal period",
+    "certain infectious and parasitic diseases",
+    "complications of pregnancy, childbirth and the puerperium",
+    "congenital malformations, deformations and chromosomal abnormalities",
+    "endocrine, nutritional and metabolic diseases",
+    "injury, poisoning and certain other consequences of external causes",
+    "neoplasms",
+    "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified"
+  ],
+  "children": null
+}

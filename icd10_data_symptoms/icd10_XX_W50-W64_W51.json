@@ -1,0 +1,21 @@
+{
+    "icd10code": "W51",
+    "type": "category",
+    "title": "Striking against or bumped into by another person",
+    "chapter": "External causes of morbidity and mortality",
+    "chapterCode": "XX",
+    "block": "Exposure to animate mechanical forces",
+    "blockCode": "W50-W64",
+    "category": "Striking against or bumped into by another person",
+    "categoryCode": "W51",
+    "subcategory": "",
+    "inclusion": null,
+    "exclusion": [
+        "bites, venomous",
+        "stings (venomous)",
+        "fall due to collision of pedestrian (conveyance) with another pedestrian (conveyance)"
+    ],
+    "symptoms": [
+        "asymptomatic"
+    ]
+}

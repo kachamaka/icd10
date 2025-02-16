@@ -1,0 +1,24 @@
+{
+    "icd10code": "C11.1",
+    "type": "subcategory",
+    "title": "Malignant neoplasm: Posterior wall of nasopharynx",
+    "chapter": "Neoplasms",
+    "chapterCode": "II",
+    "block": "Malignant neoplasms of lip, oral cavity and pharynx",
+    "blockCode": "C00-C14",
+    "category": "Malignant neoplasm of nasopharynx",
+    "categoryCode": "C11",
+    "subcategory": "C11.1",
+    "inclusion": [
+        "Adenoid",
+        "Pharyngeal tonsil"
+    ],
+    "exclusion": null,
+    "symptoms": [
+        "nasal obstruction",
+        "runny nose",
+        "nosebleeds",
+        "loss of smell",
+        "facial pain or numbness"
+    ]
+}

@@ -1,0 +1,33 @@
+{
+    "icd10code": "G83.1",
+    "type": "subcategory",
+    "title": "Monoplegia of lower limb",
+    "chapter": "Diseases of the nervous system",
+    "chapterCode": "VI",
+    "block": "Cerebral palsy and other paralytic syndromes",
+    "blockCode": "G80-G83",
+    "category": "Other paralytic syndromes",
+    "categoryCode": "G83",
+    "subcategory": "G83.1",
+    "inclusion": [
+        "paralysis (complete)(incomplete), except as in G80-G82",
+        "Paralysis of lower limb"
+    ],
+    "exclusion": [
+        "certain conditions originating in the perinatal period",
+        "certain infectious and parasitic diseases",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified"
+    ],
+    "symptoms": [
+        "muscle weakness",
+        "coordination issues",
+        "gait abnormalities",
+        "speech difficulties",
+        "spasticity"
+    ]
+}

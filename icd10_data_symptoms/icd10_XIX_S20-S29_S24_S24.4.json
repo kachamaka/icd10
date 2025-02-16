@@ -1,0 +1,53 @@
+{
+    "icd10code": "S24.4",
+    "type": "subcategory",
+    "title": "Injury of thoracic sympathetic nerves",
+    "chapter": "Injury, poisoning and certain other consequences of external causes",
+    "chapterCode": "XIX",
+    "block": "Injuries to the thorax",
+    "blockCode": "S20-S29",
+    "category": "Injury of nerves and spinal cord at thorax level",
+    "categoryCode": "S24",
+    "subcategory": "S24.4",
+    "inclusion": [
+        "injuries of: breast",
+        "injuries of: chest (wall)",
+        "injuries of: interscapular area",
+        "Cardiac plexus",
+        "Oesophageal plexus",
+        "Pulmonary plexus",
+        "Stellate ganglion",
+        "Thoracic sympathetic ganglion"
+    ],
+    "exclusion": [
+        "birth trauma",
+        "obstetric trauma",
+        "malunion of fracture",
+        "nonunion of fracture [pseudarthrosis]",
+        "pathological fracture",
+        "pathological fracture with osteoporosis",
+        "stress fracture",
+        "burns and corrosions",
+        "effects of foreign body in: bronchus",
+        "effects of foreign body in: lung",
+        "effects of foreign body in: oesophagus",
+        "effects of foreign body in: trachea",
+        "fracture of spine NOS",
+        "frostbite",
+        "injuries of: axilla",
+        "injuries of: clavicle",
+        "injuries of: scapular region",
+        "injuries of: shoulder",
+        "injuries of: spinal cord NOS",
+        "injuries of: trunk NOS",
+        "insect bite or sting, venomous",
+        "injury of: cervical oesophagus"
+    ],
+    "symptoms": [
+        "pain in the back",
+        "weakness",
+        "tingling",
+        "numbness",
+        "limited mobility"
+    ]
+}

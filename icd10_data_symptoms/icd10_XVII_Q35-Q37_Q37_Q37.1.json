@@ -1,0 +1,26 @@
+{
+    "icd10code": "Q37.1",
+    "type": "subcategory",
+    "title": "Cleft hard palate with unilateral cleft lip",
+    "chapter": "Congenital malformations, deformations and chromosomal abnormalities",
+    "chapterCode": "XVII",
+    "block": "Cleft lip and cleft palate",
+    "blockCode": "Q35-Q37",
+    "category": "Cleft palate with cleft lip",
+    "categoryCode": "Q37",
+    "subcategory": "Q37.1",
+    "inclusion": [
+        "Cleft hard palate with cleft lip NOS"
+    ],
+    "exclusion": [
+        "inborn errors of metabolism",
+        "Robin syndrome"
+    ],
+    "symptoms": [
+        "cleft palate",
+        "cleft lip",
+        "feeding difficulties",
+        "speech delays",
+        "nasal regurgitation"
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "icd10code": "D41.3",
+    "type": "subcategory",
+    "title": "Neoplasm of uncertain or unknown behaviour: Urethra",
+    "chapter": "Neoplasms",
+    "chapterCode": "II",
+    "block": "Neoplasms of uncertain or unknown behaviour",
+    "blockCode": "D37-D48",
+    "category": "Neoplasm of uncertain or unknown behaviour of urinary organs",
+    "categoryCode": "D41",
+    "subcategory": "D41.3",
+    "inclusion": null,
+    "exclusion": null,
+    "symptoms": [
+        "hematuria (blood in urine)",
+        "pain during urination",
+        "lower back pain",
+        "unexplained weight loss",
+        "recurrent urinary tract infections"
+    ]
+}

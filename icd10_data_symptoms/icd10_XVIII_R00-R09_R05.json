@@ -1,0 +1,26 @@
+{
+    "icd10code": "R05",
+    "type": "category",
+    "title": "Cough",
+    "chapter": "Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+    "chapterCode": "XVIII",
+    "block": "Symptoms and signs involving the circulatory and respiratory systems",
+    "blockCode": "R00-R09",
+    "category": "Cough",
+    "categoryCode": "R05",
+    "subcategory": "",
+    "inclusion": null,
+    "exclusion": [
+        "abnormal findings on antenatal screening of mother",
+        "certain conditions originating in the perinatal period",
+        "cough with haemorrhage",
+        "psychogenic cough"
+    ],
+    "symptoms": [
+        "cough",
+        "dry cough",
+        "productive cough",
+        "frequent coughing",
+        "persistent cough"
+    ]
+}

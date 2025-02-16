@@ -1,0 +1,21 @@
+{
+  "type": "subcategory",
+  "chapterCode": "XX",
+  "chapter": "External causes of morbidity and mortality",
+  "blockCode": "V70-V79",
+  "block": "Bus occupant injured in transport accident",
+  "categoryCode": "V79",
+  "category": "Bus occupant injured in other and unspecified transport accidents",
+  "subcategory": "V79.0",
+  "title": "Driver injured in collision with other and unspecified motor vehicles in nontraffic accident",
+  "inclusion": null,
+  "exclusion": [
+    "accidents to persons engaged in the maintenance or repair of transport equipment or vehicle (not in motion) unless injured by another vehicle in motion",
+    "accidents involving vehicles, but unrelated to the hazards associated with the means of transportation, e.g., injuries received in a fight on board ship; transport vehicle involved in a cataclysm; finger crushed when shutting car door",
+    "assault by crashing of motor vehicle",
+    "event of undetermined intent",
+    "intentional self-harm",
+    "collision involving: pedal cyclist"
+  ],
+  "children": null
+}

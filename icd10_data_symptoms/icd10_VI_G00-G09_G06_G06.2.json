@@ -1,0 +1,30 @@
+{
+    "icd10code": "G06.2",
+    "type": "subcategory",
+    "title": "Extradural and subdural abscess, unspecified",
+    "chapter": "Diseases of the nervous system",
+    "chapterCode": "VI",
+    "block": "Inflammatory diseases of the central nervous system",
+    "blockCode": "G00-G09",
+    "category": "Intracranial and intraspinal abscess and granuloma",
+    "categoryCode": "G06",
+    "subcategory": "G06.2",
+    "inclusion": null,
+    "exclusion": [
+        "certain conditions originating in the perinatal period",
+        "certain infectious and parasitic diseases",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified"
+    ],
+    "symptoms": [
+        "headache",
+        "seizures",
+        "fever",
+        "changes in vision",
+        "altered mental status"
+    ]
+}

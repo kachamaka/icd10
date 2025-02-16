@@ -1,0 +1,28 @@
+{
+    "icd10code": "C92.4",
+    "type": "subcategory",
+    "title": "Acute promyelocytic leukaemia [PML]",
+    "chapter": "Neoplasms",
+    "chapterCode": "II",
+    "block": "Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",
+    "blockCode": "C81-C96",
+    "category": "Myeloid leukaemia",
+    "categoryCode": "C92",
+    "subcategory": "C92.4",
+    "inclusion": [
+        "leukaemia: granulocytic",
+        "leukaemia: myelogenous",
+        "AML M3",
+        "AML Me with t(15; 17) and variants"
+    ],
+    "exclusion": [
+        "secondary and unspecified neoplasm of lymph nodes"
+    ],
+    "symptoms": [
+        "fatigue",
+        "fever",
+        "weight loss",
+        "shortness of breath",
+        "pain in the bones and joints"
+    ]
+}

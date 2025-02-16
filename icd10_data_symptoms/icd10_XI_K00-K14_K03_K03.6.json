@@ -1,0 +1,44 @@
+{
+    "icd10code": "K03.6",
+    "type": "subcategory",
+    "title": "Deposits [accretions] on teeth",
+    "chapter": "Diseases of the digestive system",
+    "chapterCode": "XI",
+    "block": "Diseases of oral cavity, salivary glands and jaws",
+    "blockCode": "K00-K14",
+    "category": "Other diseases of hard tissues of teeth",
+    "categoryCode": "K03",
+    "subcategory": "K03.6",
+    "inclusion": [
+        "Dental calculus: subgingival",
+        "Dental calculus: supragingival",
+        "Deposits [accretions] on teeth: betel",
+        "Deposits [accretions] on teeth: black",
+        "Deposits [accretions] on teeth: green",
+        "Deposits [accretions] on teeth: materia alba",
+        "Deposits [accretions] on teeth: orange",
+        "Deposits [accretions] on teeth: tobacco",
+        "Staining of teeth: NOS",
+        "Staining of teeth: extrinsic NOS"
+    ],
+    "exclusion": [
+        "certain conditions originating in the perinatal period",
+        "certain infectious and parasitic diseases",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "bruxism",
+        "dental caries",
+        "teeth-grinding NOS"
+    ],
+    "symptoms": [
+        "tooth discoloration",
+        "enamel staining",
+        "abnormal tooth color",
+        "intrinsic staining",
+        "extrinsic staining"
+    ]
+}

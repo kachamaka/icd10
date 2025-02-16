@@ -1,0 +1,28 @@
+{
+    "icd10code": "Z21",
+    "type": "category",
+    "title": "Asymptomatic human immunodeficiency virus [HIV] infection status",
+    "chapter": "Factors influencing health status and contact with health services",
+    "chapterCode": "XXI",
+    "block": "Persons with potential health hazards related to communicable diseases",
+    "blockCode": "Z20-Z29",
+    "category": "Asymptomatic human immunodeficiency virus [HIV] infection status",
+    "categoryCode": "Z21",
+    "subcategory": "",
+    "inclusion": [
+        "HIV positive NOS"
+    ],
+    "exclusion": [
+        "contact with or exposure to human immunodeficiency virus [HIV]",
+        "human immunodeficiency virus [HIV] disease",
+        "lhuman immunodeficiency virus [HIV] disease complicating pregnancy, childbirth and the puerperium",
+        "laboratory evidence of human immunodeficiency virus [HIV]"
+    ],
+    "symptoms": [
+        "asymptomatic",
+        "mild fatigue",
+        "lymphadenopathy",
+        "low-grade fever",
+        "recurrent infections"
+    ]
+}

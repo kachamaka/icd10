@@ -1,0 +1,25 @@
+{
+    "icd10code": "D30.4",
+    "type": "subcategory",
+    "title": "Benign neoplasm: Urethra",
+    "chapter": "Neoplasms",
+    "chapterCode": "II",
+    "block": "Benign neoplasms",
+    "blockCode": "D10-D36",
+    "category": "Benign neoplasm of urinary organs",
+    "categoryCode": "D30",
+    "subcategory": "D30.4",
+    "inclusion": [
+        "morphology codes with behaviour code /0"
+    ],
+    "exclusion": [
+        "urethral orifice of bladder"
+    ],
+    "symptoms": [
+        "hematuria",
+        "lower back or abdominal pain",
+        "frequent urination",
+        "discomfort during urination",
+        "presence of a mass or lump in the lower abdomen"
+    ]
+}

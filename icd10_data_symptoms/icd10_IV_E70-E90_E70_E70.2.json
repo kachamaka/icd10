@@ -1,0 +1,37 @@
+{
+    "icd10code": "E70.2",
+    "type": "subcategory",
+    "title": "Disorders of tyrosine metabolism",
+    "chapter": "Endocrine, nutritional and metabolic diseases",
+    "chapterCode": "IV",
+    "block": "Metabolic disorders",
+    "blockCode": "E70-E90",
+    "category": "Disorders of aromatic amino-acid metabolism",
+    "categoryCode": "E70",
+    "subcategory": "E70.2",
+    "inclusion": [
+        "Alkaptonuria",
+        "Hypertyrosinaemia",
+        "Ochronosis",
+        "Tyrosinaemia",
+        "Tyrosinosis"
+    ],
+    "exclusion": [
+        "complications of pregnancy, childbirth and the puerperium",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "transitory endocrine and metabolic disorders specific to fetus and newborn",
+        "androgen resistance syndrome",
+        "congenital adrenal hyperplasia",
+        "Ehlers-Danlos syndrome",
+        "haemolytic anaemias due to enzyme disorders",
+        "Marfan syndrome",
+        "5-alpha-reductase deficiency"
+    ],
+    "symptoms": [
+        "failure to thrive",
+        "poor muscle tone",
+        "intellectual disability",
+        "seizures",
+        "skin rash"
+    ]
+}

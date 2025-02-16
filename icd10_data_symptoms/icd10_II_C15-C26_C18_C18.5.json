@@ -1,0 +1,21 @@
+{
+    "icd10code": "C18.5",
+    "type": "subcategory",
+    "title": "Malignant neoplasm: Splenic flexure",
+    "chapter": "Neoplasms",
+    "chapterCode": "II",
+    "block": "Malignant neoplasms of digestive organs",
+    "blockCode": "C15-C26",
+    "category": "Malignant neoplasm of colon",
+    "categoryCode": "C18",
+    "subcategory": "C18.5",
+    "inclusion": null,
+    "exclusion": null,
+    "symptoms": [
+        "abdominal pain",
+        "blood in stool",
+        "anemia",
+        "unexplained weight loss",
+        "changes in bowel habits"
+    ]
+}

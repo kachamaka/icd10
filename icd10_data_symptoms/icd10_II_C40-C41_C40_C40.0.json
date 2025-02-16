@@ -1,0 +1,24 @@
+{
+    "icd10code": "C40.0",
+    "type": "subcategory",
+    "title": "Malignant neoplasm: Scapula and long bones of upper limb",
+    "chapter": "Neoplasms",
+    "chapterCode": "II",
+    "block": "Malignant neoplasms of bone and articular cartilage",
+    "blockCode": "C40-C41",
+    "category": "Malignant neoplasm of bone and articular cartilage of limbs",
+    "categoryCode": "C40",
+    "subcategory": "C40.0",
+    "inclusion": null,
+    "exclusion": [
+        "bone marrow NOS",
+        "synovia"
+    ],
+    "symptoms": [
+        "pain in the affected area",
+        "swelling or lump in the bone",
+        "unexplained bone fractures",
+        "fatigue",
+        "unexplained weight loss"
+    ]
+}

@@ -1,0 +1,24 @@
+{
+    "icd10code": "C63.9",
+    "type": "subcategory",
+    "title": "Malignant neoplasm: Male genital organ, unspecified",
+    "chapter": "Neoplasms",
+    "chapterCode": "II",
+    "block": "Malignant neoplasms of male genital organs",
+    "blockCode": "C60-C63",
+    "category": "Malignant neoplasm of other and unspecified male genital organs",
+    "categoryCode": "C63",
+    "subcategory": "C63.9",
+    "inclusion": [
+        "skin of male genital organs",
+        "Male genitourinary tract NOS"
+    ],
+    "exclusion": null,
+    "symptoms": [
+        "lump or mass in the male genital organ",
+        "pain in the genitals",
+        "swelling in the scrotum",
+        "blood in the semen",
+        "unexplained weight"
+    ]
+}

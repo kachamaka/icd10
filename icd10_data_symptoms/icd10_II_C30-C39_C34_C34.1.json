@@ -1,0 +1,25 @@
+{
+    "icd10code": "C34.1",
+    "type": "subcategory",
+    "title": "Malignant neoplasm: Upper lobe, bronchus or lung",
+    "chapter": "Neoplasms",
+    "chapterCode": "II",
+    "block": "Malignant neoplasms of respiratory and intrathoracic organs",
+    "blockCode": "C30-C39",
+    "category": "Malignant neoplasm of bronchus and lung",
+    "categoryCode": "C34",
+    "subcategory": "C34.1",
+    "inclusion": [
+        "middle ear"
+    ],
+    "exclusion": [
+        "mesothelioma"
+    ],
+    "symptoms": [
+        "chest pain",
+        "persistent cough",
+        "coughing up blood",
+        "wheezing",
+        "unexplained weight loss"
+    ]
+}

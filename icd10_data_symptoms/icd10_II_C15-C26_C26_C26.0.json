@@ -1,0 +1,25 @@
+{
+    "icd10code": "C26.0",
+    "type": "subcategory",
+    "title": "Malignant neoplasm: Intestinal tract, part unspecified",
+    "chapter": "Neoplasms",
+    "chapterCode": "II",
+    "block": "Malignant neoplasms of digestive organs",
+    "blockCode": "C15-C26",
+    "category": "Malignant neoplasm of other and ill-defined digestive organs",
+    "categoryCode": "C26",
+    "subcategory": "C26.0",
+    "inclusion": [
+        "Intestine NOS"
+    ],
+    "exclusion": [
+        "peritoneum and retroperitoneum"
+    ],
+    "symptoms": [
+        "abdominal pain",
+        "unexplained weight loss",
+        "loss of appetite",
+        "nausea and vomiting",
+        "jaundice"
+    ]
+}

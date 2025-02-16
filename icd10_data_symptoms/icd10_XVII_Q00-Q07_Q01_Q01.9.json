@@ -1,0 +1,31 @@
+{
+    "icd10code": "Q01.9",
+    "type": "subcategory",
+    "title": "Encephalocele, unspecified",
+    "chapter": "Congenital malformations, deformations and chromosomal abnormalities",
+    "chapterCode": "XVII",
+    "block": "Congenital malformations of the nervous system",
+    "blockCode": "Q00-Q07",
+    "category": "Encephalocele",
+    "categoryCode": "Q01",
+    "subcategory": "Q01.9",
+    "inclusion": [
+        "encephalomyelocele",
+        "hydroencephalocele",
+        "hydromeningocele, cranial",
+        "meningocele, cerebral",
+        "meningoencephalocele"
+    ],
+    "exclusion": [
+        "inborn errors of metabolism",
+        "acquired encephalocele",
+        "Meckel-Gruber syndrome"
+    ],
+    "symptoms": [
+        "increased head size",
+        "seizures",
+        "developmental delays",
+        "persistent vomiting",
+        "irritability"
+    ]
+}

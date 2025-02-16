@@ -1,0 +1,16 @@
+{
+  "type": "subcategory",
+  "chapterCode": "II",
+  "chapter": "Neoplasms",
+  "blockCode": "C51-C58",
+  "block": "Malignant neoplasms of female genital organs",
+  "categoryCode": "C53",
+  "category": "Malignant neoplasm of cervix uteri",
+  "subcategory": "C53.9",
+  "title": "Malignant neoplasm: Cervix uteri, unspecified",
+  "inclusion": [
+    "skin of female genital organs"
+  ],
+  "exclusion": null,
+  "children": null
+}

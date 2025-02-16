@@ -1,0 +1,22 @@
+{
+  "type": "category",
+  "chapterCode": "XVIII",
+  "chapter": "Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+  "blockCode": "R40-R46",
+  "block": "Symptoms and signs involving cognition, perception, emotional state and behaviour",
+  "categoryCode": "R42",
+  "category": "Dizziness and giddiness",
+  "subcategory": "",
+  "title": "Dizziness and giddiness",
+  "inclusion": [
+    "Light-headedness",
+    "Vertigo NOS"
+  ],
+  "exclusion": [
+    "abnormal findings on antenatal screening of mother",
+    "certain conditions originating in the perinatal period",
+    "those constituting part of a pattern of mental disorder",
+    "vertiginous syndromes"
+  ],
+  "children": null
+}

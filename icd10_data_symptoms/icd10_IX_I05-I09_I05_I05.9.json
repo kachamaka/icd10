@@ -1,0 +1,37 @@
+{
+    "icd10code": "I05.9",
+    "type": "subcategory",
+    "title": "Mitral valve disease, unspecified",
+    "chapter": "Diseases of the circulatory system",
+    "chapterCode": "IX",
+    "block": "Chronic rheumatic heart diseases",
+    "blockCode": "I05-I09",
+    "category": "Rheumatic mitral valve diseases",
+    "categoryCode": "I05",
+    "subcategory": "I05.9",
+    "inclusion": [
+        "conditions classifiable to and , whether specified as rheumatic or not",
+        "Mitral (valve) disorder (chronic) NOS"
+    ],
+    "exclusion": [
+        "certain conditions originating in the perinatal period",
+        "certain infectious and parasitic diseases",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+        "systemic connective tissue disorders",
+        "transient cerebral ischaemic attacks and related syndromes",
+        "postoperative shock"
+    ],
+    "symptoms": [
+        "chest pain",
+        "fatigue",
+        "shortness of breath",
+        "swelling in legs",
+        "feet and abdomen",
+        "irregular heartbeat"
+    ]
+}

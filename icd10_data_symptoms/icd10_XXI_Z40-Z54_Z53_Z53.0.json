@@ -1,0 +1,20 @@
+{
+    "icd10code": "Z53.0",
+    "type": "subcategory",
+    "title": "Procedure not carried out because of contraindication",
+    "chapter": "Factors influencing health status and contact with health services",
+    "chapterCode": "XXI",
+    "block": "Persons encountering health services for specific procedures and health care",
+    "blockCode": "Z40-Z54",
+    "category": "Persons encountering health services for specific procedures, not carried out",
+    "categoryCode": "Z53",
+    "subcategory": "Z53.0",
+    "inclusion": null,
+    "exclusion": [
+        "follow-up examination for medical surveillance after treatment",
+        "immunization not carried out"
+    ],
+    "symptoms": [
+        "asymptomatic"
+    ]
+}

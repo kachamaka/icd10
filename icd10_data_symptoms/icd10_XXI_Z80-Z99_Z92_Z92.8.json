@@ -1,0 +1,22 @@
+{
+    "icd10code": "Z92.8",
+    "type": "subcategory",
+    "title": "Personal history of other medical treatment",
+    "chapter": "Factors influencing health status and contact with health services",
+    "chapterCode": "XXI",
+    "block": "Persons with potential health hazards related to family and personal history and certain conditions influencing health status",
+    "blockCode": "Z80-Z99",
+    "category": "Personal history of medical treatment",
+    "categoryCode": "Z92",
+    "subcategory": "Z92.8",
+    "inclusion": null,
+    "exclusion": [
+        "follow-up examination",
+        "follow-up medical care and convalescence",
+        "when family or personal history is the reason for special screening or other examination or investigation",
+        "when the possibility that the fetus might be affected is the reason for observation or action during pregnancy"
+    ],
+    "symptoms": [
+        "asymptomatic"
+    ]
+}

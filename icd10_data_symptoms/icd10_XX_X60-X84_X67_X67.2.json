@@ -1,0 +1,32 @@
+{
+    "icd10code": "X67.2",
+    "type": "subcategory",
+    "title": "Intentional self-poisoning by and exposure to carbon monoxide from other domestic fuels",
+    "chapter": "External causes of morbidity and mortality",
+    "chapterCode": "XX",
+    "block": "Intentional self-harm",
+    "blockCode": "X60-X84",
+    "category": "Intentional self-poisoning by and exposure to carbon monoxide and other gases and vapours",
+    "categoryCode": "X67",
+    "subcategory": "X67.2",
+    "inclusion": [
+        "purposely self-inflicted poisoning or injury",
+        "suicide (attempted)",
+        "Carbon monoxide from: charcoal in domestic stove, portable grill, barbecue or fireplace (free-standing)",
+        "Carbon monoxide from: coal in domestic stove, portable grill, barbecue or fireplace (free-standing)",
+        "Carbon monoxide from: coke in domestic stove, portable grill, barbecue or fireplace (free-standing)",
+        "Carbon monoxide from: kerosine or paraffin in domestic stove, portable grill, barbecue or fireplace (free-standing)",
+        "Carbon monoxide from: wood in domestic stove, portable grill, barbecue or fireplace (free-standing)"
+    ],
+    "exclusion": [
+        "carbon monoxide from smoke, fire and flames",
+        "metal fumes and vapours"
+    ],
+    "symptoms": [
+        "nausea",
+        "headache",
+        "dizziness",
+        "shortness of breath",
+        "chest pain"
+    ]
+}

@@ -1,0 +1,32 @@
+{
+  "type": "subcategory",
+  "chapterCode": "IV",
+  "chapter": "Endocrine, nutritional and metabolic diseases",
+  "blockCode": "E70-E90",
+  "block": "Metabolic disorders",
+  "categoryCode": "E78",
+  "category": "Disorders of lipoprotein metabolism and other lipidaemias",
+  "subcategory": "E78.6",
+  "title": "Lipoprotein deficiency",
+  "inclusion": [
+    "Abetalipoproteinaemia",
+    "High-density lipoprotein deficiency",
+    "Hypoalphalipoproteinaemia",
+    "Hypobetalipoproteinaemia (familial)",
+    "Lecithin cholesterol acyltransferase deficiency",
+    "Tangier disease"
+  ],
+  "exclusion": [
+    "complications of pregnancy, childbirth and the puerperium",
+    "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+    "transitory endocrine and metabolic disorders specific to fetus and newborn",
+    "androgen resistance syndrome",
+    "congenital adrenal hyperplasia",
+    "Ehlers-Danlos syndrome",
+    "haemolytic anaemias due to enzyme disorders",
+    "Marfan syndrome",
+    "5-alpha-reductase deficiency",
+    "Schilder disease"
+  ],
+  "children": null
+}

@@ -1,0 +1,24 @@
+{
+    "icd10code": "Q80.8",
+    "type": "subcategory",
+    "title": "Other congenital ichthyosis",
+    "chapter": "Congenital malformations, deformations and chromosomal abnormalities",
+    "chapterCode": "XVII",
+    "block": "Other congenital malformations",
+    "blockCode": "Q80-Q89",
+    "category": "Congenital ichthyosis",
+    "categoryCode": "Q80",
+    "subcategory": "Q80.8",
+    "inclusion": null,
+    "exclusion": [
+        "inborn errors of metabolism",
+        "Refsum disease"
+    ],
+    "symptoms": [
+        "dry skin",
+        "fragile skin",
+        "cracked skin",
+        "scaling",
+        "itching"
+    ]
+}

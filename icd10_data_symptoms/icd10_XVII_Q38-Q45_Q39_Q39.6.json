@@ -1,0 +1,25 @@
+{
+    "icd10code": "Q39.6",
+    "type": "subcategory",
+    "title": "Diverticulum of oesophagus",
+    "chapter": "Congenital malformations, deformations and chromosomal abnormalities",
+    "chapterCode": "XVII",
+    "block": "Other congenital malformations of the digestive system",
+    "blockCode": "Q38-Q45",
+    "category": "Congenital malformations of oesophagus",
+    "categoryCode": "Q39",
+    "subcategory": "Q39.6",
+    "inclusion": [
+        "Oesophageal pouch"
+    ],
+    "exclusion": [
+        "inborn errors of metabolism"
+    ],
+    "symptoms": [
+        "difficulty swallowing",
+        "regurgitation",
+        "chest discomfort",
+        "failure to thrive",
+        "respiratory infections"
+    ]
+}

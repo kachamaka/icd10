@@ -1,0 +1,24 @@
+{
+    "icd10code": "Q96.8",
+    "type": "subcategory",
+    "title": "Other variants of Turner syndrome",
+    "chapter": "Congenital malformations, deformations and chromosomal abnormalities",
+    "chapterCode": "XVII",
+    "block": "Chromosomal abnormalities, not elsewhere classified",
+    "blockCode": "Q90-Q99",
+    "category": "Turner syndrome",
+    "categoryCode": "Q96",
+    "subcategory": "Q96.8",
+    "inclusion": null,
+    "exclusion": [
+        "inborn errors of metabolism",
+        "Noonan syndrome"
+    ],
+    "symptoms": [
+        "delayed development",
+        "learning disabilities",
+        "infertility",
+        "short stature",
+        "distinctive facial features"
+    ]
+}

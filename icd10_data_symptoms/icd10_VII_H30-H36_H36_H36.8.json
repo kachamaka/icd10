@@ -1,0 +1,34 @@
+{
+    "icd10code": "H36.8",
+    "type": "subcategory",
+    "title": "Other retinal disorders in diseases classified elsewhere",
+    "chapter": "Diseases of the eye and adnexa",
+    "chapterCode": "VII",
+    "block": "Disorders of choroid and retina",
+    "blockCode": "H30-H36",
+    "category": "Retinal disorders in diseases classified elsewhere",
+    "categoryCode": "H36",
+    "subcategory": "H36.8",
+    "inclusion": [
+        "Atherosclerotic retinopathy",
+        "Proliferative sickle-cell retinopathy",
+        "Retinal dystrophy in lipid storage disorders"
+    ],
+    "exclusion": [
+        "certain conditions originating in the perinatal period",
+        "certain infectious and parasitic diseases",
+        "complications of pregnancy, childbirth and the puerperium",
+        "congenital malformations, deformations and chromosomal abnormalities",
+        "endocrine, nutritional and metabolic diseases",
+        "injury, poisoning and certain other consequences of external causes",
+        "neoplasms",
+        "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified"
+    ],
+    "symptoms": [
+        "blurred vision",
+        "visual field defects",
+        "loss of central vision",
+        "night blindness",
+        "photopsia"
+    ]
+}

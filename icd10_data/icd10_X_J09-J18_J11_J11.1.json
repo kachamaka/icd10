@@ -1,0 +1,34 @@
+{
+  "type": "subcategory",
+  "chapterCode": "X",
+  "chapter": "Diseases of the respiratory system",
+  "blockCode": "J09-J18",
+  "block": "Influenza and pneumonia",
+  "categoryCode": "J11",
+  "category": "Influenza, virus not identified",
+  "subcategory": "J11.1",
+  "title": "Influenza with other respiratory manifestations, virus not identified",
+  "inclusion": [
+    "influenza specific virus not stated to have been identified",
+    "viral influenza specific virus not stated to have been identified",
+    "Influenza NOS",
+    "Influenzal: acute upper respiratory infection unspecified or specific virus not identified",
+    "Influenzal: laryngitis unspecified or specific virus not identified",
+    "Influenzal: pharyngitis unspecified or specific virus not identified",
+    "Influenzal: pleural effusion unspecified or specific virus not identified"
+  ],
+  "exclusion": [
+    "certain conditions originating in the perinatal period",
+    "certain infectious and parasitic diseases",
+    "complications of pregnancy, childbirth and the puerperium",
+    "congenital malformations, deformations and chromosomal abnormalities",
+    "endocrine, nutritional and metabolic diseases",
+    "injury, poisoning and certain other consequences of external causes",
+    "neoplasms",
+    "symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+    "Haemophilus influenzae [H. influenzae]: infection NOS",
+    "Haemophilus influenzae [H. influenzae]: meningitis",
+    "Haemophilus influenzae [H. influenzae]: pneumonia"
+  ],
+  "children": null
+}

@@ -1,0 +1,28 @@
+{
+    "icd10code": "Q85.1",
+    "type": "subcategory",
+    "title": "Tuberous sclerosis",
+    "chapter": "Congenital malformations, deformations and chromosomal abnormalities",
+    "chapterCode": "XVII",
+    "block": "Other congenital malformations",
+    "blockCode": "Q80-Q89",
+    "category": "Phakomatoses, not elsewhere classified",
+    "categoryCode": "Q85",
+    "subcategory": "Q85.1",
+    "inclusion": [
+        "Bourneville disease",
+        "Epiloia"
+    ],
+    "exclusion": [
+        "inborn errors of metabolism",
+        "ataxia telangiectasia [Louis-Bar]",
+        "familial dysautonomia [Riley-Day]"
+    ],
+    "symptoms": [
+        "skin lesions",
+        "benign tumors",
+        "seizures",
+        "vision problems",
+        "developmental delays"
+    ]
+}

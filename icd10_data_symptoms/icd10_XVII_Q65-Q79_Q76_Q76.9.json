@@ -1,0 +1,24 @@
+{
+    "icd10code": "Q76.9",
+    "type": "subcategory",
+    "title": "Congenital malformation of bony thorax, unspecified",
+    "chapter": "Congenital malformations, deformations and chromosomal abnormalities",
+    "chapterCode": "XVII",
+    "block": "Congenital malformations and deformations of the musculoskeletal system",
+    "blockCode": "Q65-Q79",
+    "category": "Congenital malformations of spine and bony thorax",
+    "categoryCode": "Q76",
+    "subcategory": "Q76.9",
+    "inclusion": null,
+    "exclusion": [
+        "inborn errors of metabolism",
+        "congenital musculoskeletal deformities of spine and chest"
+    ],
+    "symptoms": [
+        "abnormal spinal curvature",
+        "skeletal deformities",
+        "bone fragility",
+        "joint stiffness",
+        "abnormal limb length"
+    ]
+}

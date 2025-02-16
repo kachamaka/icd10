@@ -1,0 +1,28 @@
+{
+    "icd10code": "D46.6",
+    "type": "subcategory",
+    "title": "Myelodysplastic syndrome with isolated del(5q) chromosomal abnormality",
+    "chapter": "Neoplasms",
+    "chapterCode": "II",
+    "block": "Neoplasms of uncertain or unknown behaviour",
+    "blockCode": "D37-D48",
+    "category": "Myelodysplastic syndromes",
+    "categoryCode": "D46",
+    "subcategory": "D46.6",
+    "inclusion": [
+        "Alkylating-agent-related myelodysplastic syndrome",
+        "Epipodophyllotoxin-related myelodysplastic syndrome",
+        "Therapy-related myelodysplastic syndrome NOS",
+        "5 q-minus syndrome"
+    ],
+    "exclusion": [
+        "drug induced aplastic anaemia"
+    ],
+    "symptoms": [
+        "fatigue",
+        "shortness of breath",
+        "pale skin",
+        "frequent infections",
+        "unusual bleeding or bruising"
+    ]
+}
