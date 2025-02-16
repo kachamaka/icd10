@@ -7,3 +7,7 @@
 ```GOOS=linux GOARCH=amd64 CGO_ENABLED=0 go build -o ./bin/icd10.exe```
 
 Project is/was hosted on https://icd10link.netlify.app/
+
+If you want to run and use the code, fill the correct data into the tempalte and run with
+
+```go run main.go```
